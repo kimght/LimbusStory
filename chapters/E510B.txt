@@ -2,13 +2,13 @@
 Хитклиф: Уже приехали…
 
 # Original: Heathcliff looked out the rattling bus window with a dour expression.
-Рассказчик: Хитклифф, мрачнее тучи, держал свой взгляд на пейзаже за окном трясущегося автобуса.
+Рассказчик: Хитклиф, мрачнее тучи, держал свой взгляд на пейзаже за окном трясущегося автобуса.
 
 # Original: Though it wasn't raining, the world outside was grey and opaque like an overcast sky. Black, pungent clouds of smoke had long devoured the atmosphere.
 Рассказчик: На улице было пасмурно, словно вот-вот пойдёт дождь, и небеса застилал чёрный, едкий дым.
 
 # Original: So this is the kind of place Heathcliff used to roam...
-Рассказчик: Значит ли, что Хитклиффу доводилось видеть эту картину раньше?
+Рассказчик: Значит ли, что Хитклифу доводилось видеть эту картину раньше?
 
 # Original: The color remains grey this deep into the heart of the Backstreets. I recall with quite the certitude that the T Corp. I arrived at after my departure from S Corp. was sepia-hued.
 И Сан: Всё ещё до серости блекло. На самом деле, когда мы бежали из корпорации S, место наше было окрашено сепией.
@@ -56,7 +56,7 @@
 Рассказчик: Ещё не время для раскрытия этих тайн, так что мне стоит отложить раздумия об этом.
 
 # Original: Instead, I approached Heathcliff. He was sitting on his lonesome, clearly in deep thought.
-Рассказчик: Поэтому я решил подойти к Хитклиффу, казалось, страдавшему в одиночестве.
+Рассказчик: Поэтому я решил подойти к Хитклифу, казалось, страдавшему в одиночестве.
 
 # Original: ... Hm? Ah, Clockhead.
 Хитклиф: …А? А-а. Это ты, башка часовая.
@@ -68,13 +68,13 @@
 Хитклиф: Чего?! К-конечно же нет.
 
 # Original: Heathcliff protested, jumping up from his seat. Looks like I hit the nail right on the head.
-Рассказчик: И с этими словами Хитклифф вскочил со своего места; похоже, я попал в точку.
+Рассказчик: И с этими словами Хитклиф вскочил со своего места; похоже, я попал в точку.
 
 # Original: Fine, I was. A little bit. But... I was mostly reminiscing.
 Хитклиф: Нет, в смысле, не то чтобы совсем не думаю… Просто навевает воспоминания об ушедших деньках.
 
 # Original: Mm, I do remember hearing that Heathcliff used to live in the Backstreets.
-Рассказчик: Хм, а ведь правда, когда-то Хитклифф упоминал, что часто бывал в Подворотнях.
+Рассказчик: Хм, а ведь правда, когда-то Хитклиф упоминал, что часто бывал в Подворотнях.
 
 # Original: A part of some... Syndicate, if I recall correctly.
 Рассказчик: Кажется, он был членом одного из синдикатов.
@@ -83,7 +83,7 @@
 Рассказчик: Когда-то Вергилий сказал… Что мы делаем крюк на территории корпорации T через Подворотни вместо прямого направления в центр Района по инструкциям компании.
 
 # Original: <... Maybe there's something for us to do here? Heathcliff did spend some time in the T Corp. Backstreets, after all.>
-Данте: <…Значит ли, что это как-то связано с Хитклиффом и его прошлым?>
+Данте: <…Значит ли, что это как-то связано с Хитклифом и его прошлым?>
 
 # Original: <Maybe we'll run into a Golden Bough here...?>
 Данте: <Может ли там быть Золотая ветвь…>
@@ -107,7 +107,7 @@
 Фауст: …Так и есть. В конце концов, мы направимся в Гнездо корпорации T.
 
 # Original: Heathcliff continued to speak in a low voice. The hubbub from outside the bus seemed to blend with his words, turning into a mass of murmurs. There was a sort of commotion outside...
-Рассказчик: Голос Хитклиффа стал тише. И шум, доносящийся снаружи, сливался с его шёпотом.
+Рассказчик: Голос Хитклифа стал тише. И шум, доносящийся снаружи, сливался с его шёпотом.
 
 # Original: Before we talk about wherever our eventual destination is, we'll have to clear the road of some blockage.
 Хитклиф: Ага… Только „в конце концов“ или нет, нам бы убрать вон тех ребяток, что мешают ехать дальше.
@@ -119,7 +119,7 @@
 Хитклиф: Хэ?!
 
 # Original: Heathcliff, who was muttering to himself in an uncharacteristic daze, jolted awake.
-Рассказчик: Хитклифф, что с пустым взглядом бормотал что-то про себя, поднял глаза и голос на Вергилия.
+Рассказчик: Хитклиф, что с пустым взглядом бормотал что-то про себя, поднял глаза и голос на Вергилия.
 
 # Original: Bloody hell... what's wrong with you and the vroom-vroom lass? Neither of you ever do anything with a proper forewarning.
 Хитклиф: А, ёб-… Что б вы с этой "бип-бип" девицей ни делали, времени предупредить остальных вы чё-т не находите.

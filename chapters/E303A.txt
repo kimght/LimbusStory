@@ -93,7 +93,7 @@
 Хитклиф: Ёб! Какого хера сковородка нагрета? Я себе чуть руку не прожёг!
 
 # Original: Everyone watched as the pan Heathcliff threw hit a wall and broke into pieces.
-Рассказчик: Все мы лицезрели, как Хитклифф швырнул сковородку в стену и та раскололась вдребезги.
+Рассказчик: Все мы лицезрели, как Хитклиф швырнул сковородку в стену и та раскололась вдребезги.
 
 # Original: …This restaurant reeks of mold and other uncleaned stains. It is likely that the kitchen has been left unattended for at least 140 days.
 Мерсо: …Этот ресторан пронизан запахом плесени; похоже его не чистили не менее ста сорока дней.

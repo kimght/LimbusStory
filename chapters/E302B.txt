@@ -56,31 +56,31 @@
 Рёшу: Угу.
 
 # Original: Provoked, the raw chickens leapt into the air…
-Рассказчик: Но только Хитклифф напал на сырых цыплят, как те взмыли в воздух…
+Рассказчик: Но только Хитклиф напал на сырых цыплят, как те взмыли в воздух…
 
 # Original: Huh, Heathcliff?!?!
-Синклер: Сэр Хитклифф?!?!
+Синклер: Сэр Хитклиф?!?!
 
 # Original: Heathcliff’s face was then devoured by one of them.
-Рассказчик: И лицо Хитклиффа исчезло внутри сырого цыплёнка.
+Рассказчик: И лицо Хитклифа исчезло внутри сырого цыплёнка.
 
 # Original: ……
 Хитклиф: ……
 
 # Original: <…Heathcliff?!!>
-Данте: <…Хитклифф?!!>
+Данте: <…Хитклиф?!!>
 
 # Original: ……
 Хитклиф: ……
 
 # Original: Heathcliff stood in silence with the raw chicken adorning his head…
-Рассказчик: Хитклифф стоял смирно с сырым цыплёнком, нанизанным на его голову…
+Рассказчик: Хитклиф стоял смирно с сырым цыплёнком, нанизанным на его голову…
 
 # Original: It was quite the sight, much to my terror.
 Рассказчик: Воистину ужасающая картина.
 
 # Original: I think I like Heathcliff better this way, y’know? He actually seems intelligent now.
-Ишмаэль: Кажется, Хитклиффу даже идёт? Словно сразу интеллекта прибавилось.
+Ишмаэль: Кажется, Хитклифу даже идёт? Словно сразу интеллекта прибавилось.
 
 # Original: Oh gosh, what do we do, Dante? Wait, quick! Your clock!
 Родион: Д-Данте, что нам делать? Точно! Быстро, твои часы!
@@ -104,10 +104,10 @@
 Рёшу: Для меня что часы, что курица — разницы никакой.
 
 # Original: It looked like Sinclair was the only one actually worried about Heathcliff.
-Рассказчик: Похоже, только Синклер искренне переживал за Хитклиффа.
+Рассказчик: Похоже, только Синклер искренне переживал за Хитклифа.
 
 # Original: Mister Heathcliff! Are you alright in there?
-Синклер: Сэр Хитклифф! Вы в порядке?
+Синклер: Сэр Хитклиф! Вы в порядке?
 
 # Original: Ghii… Ghii…
 Хитклиф: Ко… Ко…
@@ -122,7 +122,7 @@
 Хитклиф: Ку… дах…
 
 # Original: Ohhhh! Lead your eyes thither! Heathcliff is communicating with the other hens!
-Дон Кихот: О-о-о-о-о! Узрите! Сэр Хитклифф нашёл общий язык с цыплятами вокруг него!
+Дон Кихот: О-о-о-о-о! Узрите! Сэр Хитклиф нашёл общий язык с цыплятами вокруг него!
 
 # Original: Bubawkgi! Bubawkgicludoo. Buhbawkgigi!
 Патрульный Корп. K с куриной головой: Кудах! Кудах-тах-тах. Ко-ко-ко!
@@ -131,16 +131,16 @@
 Хитклиф: Кудах… Ко-ко… Кудах-тах…
 
 # Original: Fuhu, Heathcliff’s become quite the chatterbox.
-Хон Лу: Хе-хе, да вы стали болтушкой, сэр Хитклифф.
+Хон Лу: Хе-хе, да вы стали болтушкой, сэр Хитклиф.
 
 # Original: It appears that the chicken sitting on his face is using his mouth to communicate, rather than Heathcliff himself.
-Фауст: Похоже, этот разговор был начат не Хитклиффом, но цыплёнком, что использует его тело вместо своего.
+Фауст: Похоже, этот разговор был начат не Хитклифом, но цыплёнком, что использует его тело вместо своего.
 
 # Original: Sniff… I cannot leave Sir Heathcliff in these straits… I had wished to cosplay with him as two “Fixers del Atardecer Ardiente” someday… We would only be subject to mockery if he were to engage in mummery with that chickened head…
-Дон Кихот: Хнык… Невообразимо… Я так желала изобразить с сэром Хитклиффом косплей на "корректировщиков Пламенного заката"… Но если нас увидят с подобной головой из цыплёнка, мы станем лишь шутами…
+Дон Кихот: Хнык… Невообразимо… Я так желала изобразить с сэром Хитклифом косплей на "корректировщиков Пламенного заката"… Но если нас увидят с подобной головой из цыплёнка, мы станем лишь шутами…
 
 # Original: To avoid the gathering crowd, we shoved Heathcliff into the interior of Eunbong’s Bar & Fryers and followed behind him.
-Рассказчик: На нас глядело всё больше и больше зевак, так что мы схватили Хитклиффа и затащили его в бар "У Ынбон".
+Рассказчик: На нас глядело всё больше и больше зевак, так что мы схватили Хитклифа и затащили его в бар "У Ынбон".
 
 # Original: Ghiii… Ghiii…
 Хитклиф: Ко-ко-ко… Ко-ко…
@@ -149,7 +149,7 @@
 Отис: Эта курица действует мне на нервы. Я избавлю нас всех от неё.
 
 # Original: Outis grabbed the raw chicken on Heathcliff’s head with one hand and began to slap it ruthlessly with her spare.
-Рассказчик: Отис схватила цыплёнка с головой Хитклиффа внутри одной рукой, и начала нещадно бить его другой.
+Рассказчик: Отис схватила цыплёнка с головой Хитклифа внутри одной рукой, и начала нещадно бить его другой.
 
 # Original: Furiously…
 Рассказчик: Шлёп…
@@ -173,7 +173,7 @@
 Данте: <Нет… Это плохое решение, Отис, <b>очень</b> плохо…>
 
 # Original: Despite her opposition, Outis began jostling the chicken with all her might.
-Рассказчик: Но Отис проигнорировала меня и изо всех сил начала стягивать курицу с головы Хитклиффа.
+Рассказчик: Но Отис проигнорировала меня и изо всех сил начала стягивать курицу с головы Хитклифа.
 
 # Original: Kiiiiih khiiiiiih!!!
 Хитклиф: Куда-ах куда-ах!!!

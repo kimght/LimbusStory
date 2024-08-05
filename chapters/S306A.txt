@@ -5,7 +5,7 @@
 Рассказчик: Даже нанесённые нами летальные ранения сразу же залеечивались при помощи одного их выстрела.
 
 # Original: It was only a matter of time before the thread by which Heathcliff’s patience was hung snapped.
-Рассказчик: Это был лишь вопрос времени, когда терпение Хитклиффа наконец лопнет.
+Рассказчик: Это был лишь вопрос времени, когда терпение Хитклифа наконец лопнет.
 
 # Original: I can’t take it anymore! This has got to be the most pointless fight in the world! Can’t you see?
 Хитклиф: С меня хватит! Мы здесь бесполезной хернёй страдаем! В глаза что ли долбитесь?

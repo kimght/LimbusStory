@@ -188,7 +188,7 @@
 Кайман: Менеджер.
 
 # Original: Caiman ignored Heathcliff, who was visibly fuming, and turned to face me.
-Рассказчик: Проигнорировав слова Хитклиффа, Кайман прожигала взглядом мой циферблат.
+Рассказчик: Проигнорировав слова Хитклифа, Кайман прожигала взглядом мой циферблат.
 
 # Original: My attitude toward your minions... and the company's attitude toward them...
 Кайман: Моё отношение к ним сейчас… И отношение всей компании в будущем…

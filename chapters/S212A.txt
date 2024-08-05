@@ -77,7 +77,7 @@
 Родион: Ну а вообще, непросвещённые… Пхах… довольно сильно отсвечивают, понимаешь?
 
 # Original: Rodya quietly giggled while looking at Heathcliff, then snuck up behind Sinclair to wrap her arms around his shoulders.
-Рассказчик: Тихо хихикнула Родя, глядя на Хитклиффа, после чего подкралась к Синклеру со спины и приобняла за плечи.
+Рассказчик: Тихо хихикнула Родя, глядя на Хитклифа, после чего подкралась к Синклеру со спины и приобняла за плечи.
 
 # Original: ‘Kay now~ My little Sinclair, I have a very, veeeery important task for you.
 Родион: Так-с, ладушки~ Мой милый Синклер, у меня тебя очень-ооооочень важное порученьице.
@@ -92,7 +92,7 @@
 Данте: <Синклер… Ты сможешь.>
 
 # Original: Yeah, think of all the times when Heathcliff trampled over you…
-Ишмаэль: Ага, просто думай о том, как Хитклифф тебя постоянно лупит…
+Ишмаэль: Ага, просто думай о том, как Хитклиф тебя постоянно лупит…
 
 # Original: I, I’m…
 Синклер: Я, а я…

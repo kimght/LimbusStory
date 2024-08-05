@@ -246,7 +246,7 @@
 Хитклиф: Уж извини, но чхать я хотел на "общение".
 
 # Original: Name’s Heathcliff. Used to be a professional wrecker—for property and people alike.
-Хитклиф: Звать Хитклифф. Спец по битью морд и херни всякой.
+Хитклиф: Звать Хитклиф. Спец по битью морд и херни всякой.
 
 # Original: Not under anyone’s orders, mind you. I only did it to buggers that got on my nerves.
 Хитклиф: Не по заказу, а так, когда взбесят.
@@ -300,7 +300,7 @@
 Хитклиф: …Что, чёрт побери, с тобой не так?
 
 # Original: Heathcliff looked to be just moments away from swinging his bat…
-Рассказчик: Казалось, Хитклифф был в шаге от того, чтобы пустить в ход свою биту…
+Рассказчик: Казалось, Хитклиф был в шаге от того, чтобы пустить в ход свою биту…
 
 # Original: But when he realized the red gaze laid on him, he grunted and sat back down.
 Рассказчик: Но когда он почувствовал на себе взгляд красных глаз, то заворчал и плюхнулся обратно на своё место.

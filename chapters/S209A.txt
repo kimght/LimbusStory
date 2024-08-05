@@ -47,7 +47,7 @@
 Рассказчик: Пока мы были заняты обсуждением запасных планов…
 
 # Original: Heathcliff was already making a mad dash for the entrance.
-Рассказчик: Хитклифф уже сломя голову мчался ко входу.
+Рассказчик: Хитклиф уже сломя голову мчался ко входу.
 
 # Original: Were we too focused on the conversation, or did we collectively lose our minds?
 Рассказчик: Мы настолько увлеклись разговором или это было коллективное помешательство?
@@ -56,7 +56,7 @@
 Рассказчик: В любом случае, никто из нас не имел понятия, что у него на уме.
 
 # Original: <Heathcliff?!>
-Данте: <Хитклифф?!>
+Данте: <Хитклиф?!>
 
 # Original: Dammit, isn’t it time we stopped chatting and moved up already?
 Хитклиф: Да ё-моё, может хватит уже языками чесать и пойдём уже наконец?
@@ -80,10 +80,10 @@
 Начальник охраны: Мгх… Ч-чёрт, ты…
 
 # Original: H-Heathcliff… That was too harsh…
-Синклер: Х-хитклифф… Это было весьма грубо…
+Синклер: Х-Хитклиф… Это было весьма грубо…
 
 # Original: <Hear, hear. Much too mean, Heathcliff.>
-Данте: <Ага. Это был перебор, Хитклифф.>
+Данте: <Ага. Это был перебор, Хитклиф.>
 
 # Original: And last thing, that club you’re holding deserves a better owner.
 Хитклиф: Да и вообще, дубинки ваши достойны кого получше.
@@ -92,7 +92,7 @@
 Начальник охраны: Нахал…!
 
 # Original: The infuriated security guard swung the club with a furious whish, exploding towards Heathcliff…
-Рассказчик: Взбесившийся охранник с яростным свистом взмахнул своей дубинкой, собираясь ударить Хитклиффа…
+Рассказчик: Взбесившийся охранник с яростным свистом взмахнул своей дубинкой, собираясь ударить Хитклифа…
 
 # Original: …and as Heathcliff swerved out of its way, the roulette behind him bore the force, being smashed to pieces.
 Рассказчик: …и лишь стоило тому уклониться, как рулетка, стоявшая позади него, разлетелась на осколки.
@@ -134,7 +134,7 @@
 Хитклиф: Хэ, не то чтобы когда-нибудь я был в безопасности. Но за предупреждение спасибо.
 
 # Original: Heathcliff came to me with one of his shoulders dislocated, likely when he was grazed by the club.
-Рассказчик: Хитклифф подошёл ко мне с вывихнутым плечом. Видимо, его всё же задело дубинкой.
+Рассказчик: Хитклиф подошёл ко мне с вывихнутым плечом. Видимо, его всё же задело дубинкой.
 
 # Original: What’s the look? Do your thing and fix me up.
 Хитклиф: Ну и чё вылупился? Делай там свои делишки и подлатай меня.

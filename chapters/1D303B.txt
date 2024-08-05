@@ -5,7 +5,7 @@
 Юри: …Мы снова на том же месте. Только что-то не так.
 
 # Original: There was a strong tug at Heathcliff’s coat from behind.
-Рассказчик: Кто-то с силой потянул Хитклиффа за рубашку.
+Рассказчик: Кто-то с силой потянул Хитклифа за рубашку.
 
 # Original: Are you out of your minds? Get to shelter, now! You’ll age rapidly if exposed to that bomb’s blast.
 Рассказчик: Вы спятили? Прячьтесь в укрытие! Если вас заденет эта бомба, вы начнёте ускоренно стареть!

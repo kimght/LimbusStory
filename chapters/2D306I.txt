@@ -62,7 +62,7 @@
 Хитклиф: Харе чушь нести! Валим к чёртовой матери!
 
 # Original: That might be the first logical statement I’ve heard leave your mouth, Heathcliff.
-Фауст: Это, возможно, первое разумное предположение, что я услышала из твоих уст, Хитклифф.
+Фауст: Это, возможно, первое разумное предположение, что я услышала из твоих уст, Хитклиф.
 
 # Original: …I’m smashing your skull to pieces later.
 Хитклиф: …Разнесу тебе бошку в щепки позже.

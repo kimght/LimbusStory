@@ -35,13 +35,13 @@
 Рассказчик: Я старался рассмотреть, что происходит за стеклом в окошках их дверей, но всё равно не знаю всех тонкостей.
 
 # Original: …The room Heathcliff enters would sometimes­—actually, rather frequently—emit wuthering and stormy sounds.
-Рассказчик: …Так из комнаты Хитклиффа порой можно услышать грохот грозы и гром. Хотя, скорее, это происходит частенько.
+Рассказчик: …Так из комнаты Хитклифа порой можно услышать грохот грозы и гром. Хотя, скорее, это происходит частенько.
 
 # Original: …Tch.
 Хитклиф: …Тц.
 
 # Original: Usually, he’d snap back with a “Why should I?” or something like that, but he only clicked his tongue.
-Рассказчик: Но Хитклифф, постоянно подававший голос словами "С хера ли обязан?", в этот раз лишь цокнул языком.
+Рассказчик: Но Хитклиф, постоянно подававший голос словами "С хера ли обязан?", в этот раз лишь цокнул языком.
 
 # Original: I suppose he doesn’t feel like arguing.
 Рассказчик: Что, значит, он не в настроении даже отвечать.
@@ -59,13 +59,13 @@
 Хитклиф: …Ась? Разве там не куча дверей?
 
 # Original: Heathcliff pointed in the same exact direction I did a week ago.
-Рассказчик: После этих слов Хитклифф указал пальцем ровно туда же, куда и я всего неделю тому назад.
+Рассказчик: После этих слов Хитклиф указал пальцем ровно туда же, куда и я всего неделю тому назад.
 
 # Original: Those doorways were beyond the “no trespassing” line blocking the way.
 Рассказчик: Далеко за стойки с табличкой о запрете прохода.
 
 # Original: Heathcliff, I recommend against walking farther into the corridor than necessary.
-Фауст: Хитклифф, не стоит идти по Коридору дальше, чем положено.
+Фауст: Хитклиф, не стоит идти по Коридору дальше, чем положено.
 
 # Original: Huh. That sure makes it sound awful suspicious.
 Хитклиф: Хэ. Звучит-то подозрительно, как по мне.
@@ -77,10 +77,10 @@
 Хитклиф: Чегось, вы там какие-то ништяки запрятали?
 
 # Original: Faust’s secretive attitude was enough to rouse his curiosity…
-Рассказчик: И вот, привычка Фауст ничего не говорить лишь сильнее разыграла интерес в Хитклиффе…
+Рассказчик: И вот, привычка Фауст ничего не говорить лишь сильнее разыграла интерес в Хитклифе…
 
 # Original: Heathcliff. Do not do it. You will regret your action.
-Фауст: Хитклифф. Нет. Вы пожалеете об этом.
+Фауст: Хитклиф. Нет. Вы пожалеете об этом.
 
 # Original: …Got well emotional and gobby, eh, Ms. Cleveress?
 Хитклиф: …Ого, как разыгрались ваши эмоции, доктор Тук-тук.
@@ -104,7 +104,7 @@
 Хитклиф: КХА-А-А-А-А-А?!!
 
 # Original: Heathcliff’s sharp scream echoed from the unlit area far into the corridor.
-Рассказчик: Из незримой нам части коридора послышался вопль Хитклиффа.
+Рассказчик: Из незримой нам части коридора послышался вопль Хитклифа.
 
 # Original: Dante, now is the time to take my left hand and run with me.
 Фауст: Данте, возьмите мою левую руку и бегите за мной.
@@ -116,7 +116,7 @@
 Фауст: Я не смогу спасти его в одиночку. Тем самым я тоже могу оказаться поглощена.
 
 # Original: Before I could process what she meant, Faust ran off in the direction Heathcliff disappeared.
-Рассказчик: Даже не дав мне времени понять, что она сказала, Фауст бросилась в сторону вопля Хитклиффа.
+Рассказчик: Даже не дав мне времени понять, что она сказала, Фауст бросилась в сторону вопля Хитклифа.
 
 # Original: <Ah… Shuckaroonies! W—Wait for me!>
 Данте: <А… Ч-чёрт! По-подождите меня!>
@@ -131,7 +131,7 @@
 Рассказчик: Однако Фауст без малейшего колебания побежала в левый коридор, не отпуская мою руку.
 
 # Original: <F—Faust! I know you’re in a hurry, but… are you sure this is the right way? I could’ve sworn I heard his voice coming from the center path…>
-Данте: <Фа… Фауст! Понимаю, это срочно, но… разве мы бежим куда надо? Я точно слышал Хитклиффа из коридора посередине…>
+Данте: <Фа… Фауст! Понимаю, это срочно, но… разве мы бежим куда надо? Я точно слышал Хитклифа из коридора посередине…>
 
 # Original: I know.
 Фауст: Я знаю.
@@ -158,7 +158,7 @@
 Рассказчик: Точнее, меня словно толкнуло силой гравитации и я вот-вот упаду в конец коридора.
 
 # Original: <Heathcliff!!>
-Данте: <<b>ХИТКЛИФФ!!</b>>
+Данте: <<b>ХИТКЛИФ!!</b>>
 
 # Original: Then I saw him; he crawled toward us with all his might from the middle of the hall.
 Рассказчик: И я увидел его, карабкавшегося к нам с середины коридора.
@@ -170,7 +170,7 @@
 Хитклиф: Чт… Что это за… За хер…!
 
 # Original: Even though I couldn’t see much in the dark behind him, I definitely felt some presence in it.
-Рассказчик: Хотя я ничего не видел, я ощущал, что за Хитклиффом что-то есть.
+Рассказчик: Хотя я ничего не видел, я ощущал, что за Хитклифом что-то есть.
 
 # Original: <Faust, what’s over—>
 Данте: <Фауст, там, за ним…>
@@ -179,7 +179,7 @@
 Фауст: Данте, держитесь за ручку открытой двери. И не отпускайте мою руку.
 
 # Original: Holding my hand securely, she gradually approaches Heathcliff.
-Рассказчик: Фауст начала подходить к Хитклиффу, всеми силами держась за мою руку.
+Рассказчик: Фауст начала подходить к Хитклифу, всеми силами держась за мою руку.
 
 # Original: <This hallway… isn’t tilted or anything, is it? Why does it feel like we’re hanging off a cliff?>
 Данте: <Этот коридор… Он же без наклона, да? Тогда почему мы словно висим над пропастью?>
@@ -188,10 +188,10 @@
 Фауст: Таков… Коридор. Данте, не отпускайте мою руку.
 
 # Original: Reminding me to hold fast, Faust extended her other arm while holding her zweihander.
-Рассказчик: После этих слов Фауст вытянула к Хитклиффу цвайхандер в свободной руке.
+Рассказчик: После этих слов Фауст вытянула к Хитклифу цвайхандер в свободной руке.
 
 # Original: Heathcliff, grab this if you would.
-Фауст: Хитклифф, держитесь.
+Фауст: Хитклиф, держитесь.
 
 # Original: Are you mental?! My hand’ll get gashed if I try grabbing that giant blade!
 Хитклиф: Совсем ёбу дала?! Этот клинок мне руку отрежет!
@@ -200,7 +200,7 @@
 Фауст: …В этой ситуации лучше отделаться разрезанной рукой.
 
 # Original: Baffled, Heathcliff looked at the sword and then the darkness behind him…
-Рассказчик: Хитклифф потерянно взглянул на цвайхандер, а затем на тьму за ним…
+Рассказчик: Хитклиф потерянно взглянул на цвайхандер, а затем на тьму за ним…
 
 # Original: Bugger… Kgh, gaaahg…!
 Хитклиф: Ай, сука… Гх, гха-а-а…!
@@ -218,13 +218,13 @@
 Данте: <Х-х-ха…>
 
 # Original: Right as we pulled Heathcliff up…
-Рассказчик: Как только я вытянул Хитклиффа…
+Рассказчик: Как только я вытянул Хитклифа…
 
 # Original: No, I’m not sure if it’s even right to say that we pulled him “up”, but nevertheless… Faust hoisted his unconscious body by the legs and started rushing, saying that we need to return the way we came.
-Рассказчик: Нет, вряд ли это можно назвать "вытягиванием", но… Фауст схватила Хитклиффа за ноги и устремилась прочь со словами, что нам нужно возвращаться той же дорогой.
+Рассказчик: Нет, вряд ли это можно назвать "вытягиванием", но… Фауст схватила Хитклифа за ноги и устремилась прочь со словами, что нам нужно возвращаться той же дорогой.
 
 # Original: Following her lead, I supported his arms and trailed behind, keeping his head from dragging along the floor.
-Рассказчик: Я последовал за ней, схватив Хитклиффа за руки, чтобы его бессознательная тушка не тащилась по полу.
+Рассказчик: Я последовал за ней, схватив Хитклифа за руки, чтобы его бессознательная тушка не тащилась по полу.
 
 # Original: After burning some time…
 Рассказчик: Спустя некоторое время…
@@ -236,7 +236,7 @@
 Фауст: Данте, переведите стрелки часов.
 
 # Original: <Heathcliff’s… gonna be okay, right?>
-Данте: <Хитклифф… Он же в порядке?>
+Данте: <Хитклиф… Он же в порядке?>
 
 # Original: The psychological damage is likely to be severe. Our work will be encumbered if he loses his mind.
 Фауст: Он получил слишком сильное ментальное загрязнение. В таком состоянии ему будет тяжело продолжать работать.
@@ -260,7 +260,7 @@
 Данте: <Даже сейчас, вы не можете это сказать? Я же… Я же увидел его.>
 
 # Original: It was only natural that I want to know. What resides there, and what was chasing Heathcliff?
-Рассказчик: Это вполне естественный вопрос. Что, чёрт возьми, в этом коридоре, что гналось за Хитклиффом.
+Рассказчик: Это вполне естественный вопрос. Что, чёрт возьми, в этом коридоре, что гналось за Хитклифом.
 
 # Original: Moreover…
 Рассказчик: И…

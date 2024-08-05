@@ -262,7 +262,7 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин бара",
+    "translation": "Хозяин бара\n\"У Ынбон\"",
     "model": "뒤틀린주인카운트1"
   },
   {
@@ -492,22 +492,22 @@
   },
   {
     "original": "Heathcliff",
-    "translation": "Хитклифф",
+    "translation": "Хитклиф",
     "model": "히스클리프과거"
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин Бара",
+    "translation": "Хозяин бара\n\"У Ынбон\"",
     "model": "뒤틀린주인카운트2"
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин Бара",
+    "translation": "Хозяин бара\n\"У Ынбон\"",
     "model": "뒤틀린주인카운트3"
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин Бара",
+    "translation": "Хозяин бара\n\"У Ынбон\"",
     "model": "뒤틀린주인"
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "original": "Erlking Heathcliff",
-    "translation": "Эрлкёниг Хитклифф",
+    "translation": "Эрлкёниг Хитклиф",
     "model": "마왕히스클리프2"
   },
   {
@@ -1029,7 +1029,7 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner?",
-    "translation": "Хозяин бара",
+    "translation": "Хозяин бара\n\"У Ынбон\"",
     "model": "뒤틀린주인"
   },
   {
@@ -1059,7 +1059,7 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин Бара",
+    "translation": "Хозяин бара\n\"У Ынбон\"",
     "model": "은봉치킨"
   },
   {
@@ -1632,7 +1632,7 @@
   },
   {
     "original": "Heathcliff?",
-    "translation": "Хитклифф?",
+    "translation": "Хитклиф?",
     "model": "히스클리프요리사"
   },
   {

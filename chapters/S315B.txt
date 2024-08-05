@@ -116,7 +116,7 @@
 Мерсо: Это ещё одно отличие.
 
 # Original: Heathcliff’s face contorted with frustration.
-Рассказчик: Хитклифф скривил лицо.
+Рассказчик: Хитклиф скривил лицо.
 
 # Original: Meursault was already an enigma, and he only felt ever more distant after this conversation.
 Рассказчик: Мерсо и так был недосягаем, а после озвученного он отдалился от других грешников ещё больше.

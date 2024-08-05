@@ -20,7 +20,7 @@
 Хитклиф: Я-то понимаю, но хватит уже жать тормоза в пол! Ты хоть понимаешь, как часто так делаешь?!
 
 # Original: Forsooth, Ser Heathcliff hath crashed his nose unto the back of the front seat for the fourth time, which must signify that this is the fourth screeching halt to occur!
-Дон Кихот: Что же, господин Хитклифф вот уже четыре раза как встретился своим носом со спинкой сидения пред ним, и сим смею заявить, что это был четвёртый раз!
+Дон Кихот: Что же, господин Хитклиф вот уже четыре раза как встретился своим носом со спинкой сидения пред ним, и сим смею заявить, что это был четвёртый раз!
 
 # Original: “Leave the wheel as soon as you start feeling sleepy”, said the radio.
 Харон: Радио говорит: "Вставайте из-за руля как только почувствуете желание спать".

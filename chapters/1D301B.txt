@@ -104,7 +104,7 @@
 Отис: …Краткое объяснение закончено, Менеджер.
 
 # Original: Suddenly, there was a strong tug at Heathcliff’s coat from behind.
-Рассказчик: Затем, кто-то с силой потянул Хитклиффа за рубашку.
+Рассказчик: Затем, кто-то с силой потянул Хитклифа за рубашку.
 
 # Original: Are you out of your minds? You need shelter, now! You’ll age rapidly if exposed to that bomb’s blast!
 Рассказчик: Вы спятили? Прячьтесь в укрытие! Если вас заденет эта бомба, вы начнёте ускоренно стареть!

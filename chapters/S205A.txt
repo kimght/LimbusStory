@@ -5,7 +5,7 @@
 Хитклиф: Мы упадём замертво ещё до того, как доберёмся до казино.
 
 # Original: Don’t fret, Heathcliff. As long as the manager is with us, we won’t die from fatigue or other things—
-Хон Лу: Не переживай, Хитклифф. Пока менеджер с нами, нам не страшна смерть от усталости ил—
+Хон Лу: Не переживай, Хитклиф. Пока менеджер с нами, нам не страшна смерть от усталости ил—
 
 # Original: That’s NOT the point at ALL! #@$@#$!!!
 Хитклиф: Дело вообще <b>не в этом</b>! #@$@#$!!!
@@ -38,7 +38,7 @@
 Хитклиф: Говорите, где там этот ваш глава! Хочу перетереть с ним лично!
 
 # Original: Heathcliff grabbed a mook by the collar and shook it about violently. To me, it looked as if anything still conscious had left already.
-Рассказчик: Хитклифф схватил беднягу за грудки и с силой встряхнул его. Кажется, сознание уже начало покидать его тело.
+Рассказчик: Хитклиф схватил беднягу за грудки и с силой встряхнул его. Кажется, сознание уже начало покидать его тело.
 
 # Original: …And maybe even more than that.
 Рассказчик: …А может и не только оно.

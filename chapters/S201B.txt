@@ -2,7 +2,7 @@
 Рассказчик: В автобусе было не так уж оживлённо.
 
 # Original: I could hear Rodya’s occasional quips, or Heathcliff starting pointless quarrels with someone—probably Don Quixote or Sinclair.
-Рассказчик: Время от времени я слышал, как Родя кидается редкими колкостями, или как Хитклифф начинает с кем-то бессмысленно спорить — в частности с Дон Кихот и Синклером.
+Рассказчик: Время от времени я слышал, как Родя кидается редкими колкостями, или как Хитклиф начинает с кем-то бессмысленно спорить — в частности с Дон Кихот и Синклером.
 
 # Original: And Ryōshū’s demanding a source of heat to light her cigarette, having run out of lighter fluid.
 Рассказчик: Иногда Рёшу просила прикурить сигарету, ссылаясь на то, что у неё закончилась жидкость в зажигалке.
@@ -242,7 +242,7 @@
 Рёшу: Сокращение от "<i>Вон из автобуса, бестолочи</i>".
 
 # Original: Heathcliff glared at Ryōshū, insults welling up in his throat, only to then expel a loud sigh.
-Рассказчик: Хитклифф пялился на Рёшу, уже готовый разразиться оскорблениями, но лишь громко вздохнул.
+Рассказчик: Хитклиф пялился на Рёшу, уже готовый разразиться оскорблениями, но лишь громко вздохнул.
 
 # Original: He resigned uncharacteristically, as if he came to the realization that killing her wouldn’t solve anything.
 Рассказчик: Он, как бы это ни было для него странно, смирился, будто до него дошло осознание того, что её убийство ничего не изменит.

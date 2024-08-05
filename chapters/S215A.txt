@@ -38,7 +38,7 @@
 Хитклиф: Не-а. Уж скорее мастером кровавой бойни.
 
 # Original: Even Heathcliff, the man who must have had a rougher life than most in the Backstreets, shuddered by the end.
-Рассказчик: Даже Хитклифф, у которого, судя по всему, жизнь была куда тяжелее, чем у большинства выходцев из Подворотен, вздрогнул в конце.
+Рассказчик: Даже Хитклиф, у которого, судя по всему, жизнь была куда тяжелее, чем у большинства выходцев из Подворотен, вздрогнул в конце.
 
 # Original: I cannot help but applaud the creativity. Indeed, the pen… Nay, the tongue is mightier than the sword.
 И Сан: Могу лишь похлопать подобной креативности. Действительно, перо… Нет, язык острее меча.

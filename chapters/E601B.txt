@@ -206,7 +206,7 @@ Will you be making your tax payment in installments?
 Хитклиф: Ну… Если уж и придётся платить, то наверняка мы сможем надыбать деньжат, сбагрив в ломбард шмотки тех двоих.
 
 # Original: Heathcliff muttered, gesturing toward Sinclair and Hong Lu with his chin.
-Рассказчик: Сказал Хитклифф, мотнув подбородком в сторону Синклера и Хон Лу.
+Рассказчик: Сказал Хитклиф, мотнув подбородком в сторону Синклера и Хон Лу.
 
 # Original: Mmm... if it'll help pay for the Time Tax, then sure...
 Синклер: М-м… ну, если это поможет с нашей проблемой…
@@ -248,7 +248,7 @@ Will you be making your tax payment in installments?
 Рассказчик: Если задуматься, то я помню, как кто-то говорил что-то о том, что „платит временем“. Но я так и не узнал, что это значит…
 
 # Original: <Yi Sang? Heathcliff? Know anything about this...?>
-Данте: <Знаете что-нибудь об этом…? И Сан, Хитклифф?>
+Данте: <Знаете что-нибудь об этом…? И Сан, Хитклиф?>
 
 # Original: Hm...
 И Сан: Хм…

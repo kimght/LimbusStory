@@ -53,7 +53,7 @@
 Рассказчик: После недолгой тишины, Синклер вновь открыл рот. Его голос дрожал.
 
 # Original: …I agree with what Heathcliff said.
-Синклер: …Я согласен с Хитклиффом.
+Синклер: …Я согласен с Хитклифом.
 
 # Original: Prosthetic head or not, you would’ve been the same person regardless, Dante.
 Синклер: Протезированная голова у вас или нет — вы останетесь тем же человеком.

@@ -80,7 +80,7 @@
 Хитклиф: То есть, ты с самого начала знал? Ах ты сраный содо… Кха…
 
 # Original: Heathcliff stopped mid-sentence and fell to one knee.
-Рассказчик: Хитклифф упал на колено, так и не договорив.
+Рассказчик: Хитклиф упал на колено, так и не договорив.
 
 # Original: Your blood flow will quicken if you’re agitated. In other words, the toxin will spread faster.
 Фауст: При сильных эмоциях кровь течёт быстрее, разнося по организму токсины.
@@ -140,7 +140,7 @@
 Рассказчик: Юри опустилась на пол, глядя на то, как из её носа прямо на руки обильно течёт кровь.
 
 # Original: And she’s not the only one. Rodya, Heathcliff, and the other Sinners are suffering from blood loss too.
-Рассказчик: И не только она. Родя, Хитклифф и остальные грешники тоже истекали кровью.
+Рассказчик: И не только она. Родя, Хитклиф и остальные грешники тоже истекали кровью.
 
 # Original: <Gregor?>
 Данте: <Грегор?>
