@@ -24,6 +24,8 @@ def main():
         story = load_story_lines(references[chapter_id])
         count_lines = 0
         for line in story:
+            if line.id is not None and line.id < 0:
+                continue
             if line.content:
                 count_lines += 1
 
