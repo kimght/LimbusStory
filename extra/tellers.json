@@ -1,0 +1,2013 @@
+﻿[
+  {
+    "original": "Samjo",
+    "translation": "Самджо",
+    "model": "삼조"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "동랑"
+  },
+  {
+    "original": "Dongrang",
+    "translation": "Донран",
+    "model": "동랑"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "데드레빗츠보스"
+  },
+  {
+    "original": "Dead Rabbits Boss",
+    "translation": "Босс Мертвых Кроликов",
+    "model": "데드레빗츠보스"
+  },
+  {
+    "original": "Sinners",
+    "translation": "Грешники",
+    "model": "수감자들"
+  },
+  {
+    "original": "Discreet Butler",
+    "translation": "Сдержанный Дворецкий",
+    "model": "린튼버틀러1"
+  },
+  {
+    "original": "Yuri",
+    "translation": "Юри",
+    "model": "유리"
+  },
+  {
+    "original": "???",
+    "translation": "???"
+  },
+  {
+    "original": "Tomah",
+    "translation": "Тома"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "도미노"
+  },
+  {
+    "original": "Heathcliff",
+    "translation": "Хитклиф",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Faust",
+    "translation": "Фауст",
+    "model": "파우스트"
+  },
+  {
+    "original": "Heathcliff?",
+    "translation": "Хитклиф?",
+    "model": "마왕히스클리프1"
+  },
+  {
+    "original": "Kind Citizen",
+    "translation": "Добрая жительница"
+  },
+  {
+    "original": "Kind Citizen",
+    "translation": "Добрая жительница",
+    "model": "여자시민"
+  },
+  {
+    "original": "Security Guard",
+    "translation": "Патрульный"
+  },
+  {
+    "original": "Yuri",
+    "translation": "Юри"
+  },
+  {
+    "original": "Hermann",
+    "translation": "Германн",
+    "model": "헤르만"
+  },
+  {
+    "original": "Gubo",
+    "translation": "Губо",
+    "model": "구보"
+  },
+  {
+    "original": "Jia Huan",
+    "translation": "Цзя Хуянь",
+    "model": "가환"
+  },
+  {
+    "original": "Effie",
+    "translation": "Эффи",
+    "model": "에피"
+  },
+  {
+    "original": "Effie?",
+    "translation": "Эффи?",
+    "model": "에피"
+  },
+  {
+    "original": "Jacob",
+    "translation": "Якоб",
+    "model": "제이콥"
+  },
+  {
+    "original": "Announcement",
+    "translation": "Оповещение"
+  },
+  {
+    "original": "Mika",
+    "translation": "Мика",
+    "model": "미카"
+  },
+  {
+    "original": "Rain",
+    "translation": "Рейн",
+    "model": "레인"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스미"
+  },
+  {
+    "original": "Smee",
+    "translation": "Сми",
+    "model": "스미"
+  },
+  {
+    "original": "Sang Yi",
+    "translation": "Сан И",
+    "model": "상이"
+  },
+  {
+    "original": "Class 3 Collector",
+    "translation": "Сборщик 3-го уровня",
+    "model": "T사기술청1"
+  },
+  {
+    "original": "Bouncer",
+    "translation": "Вышибала",
+    "model": "쌍갈고리파조직원3"
+  },
+  {
+    "original": "Guest",
+    "translation": "Гость",
+    "model": "클럽손님"
+  },
+  {
+    "original": "The Twinhooks?",
+    "translation": "Двукрюки?"
+  },
+  {
+    "original": "Hopkins",
+    "translation": "Хопкинс",
+    "model": "홉킨스"
+  },
+  {
+    "original": "Aya",
+    "translation": "Ая",
+    "model": "아야"
+  },
+  {
+    "original": "Aya",
+    "translation": "Ая",
+    "model": "쓰러진아야"
+  },
+  {
+    "original": "Nervous Employee",
+    "translation": "Нервный Сотрудник",
+    "model": "K사연구원1"
+  },
+  {
+    "original": "Sinners",
+    "translation": "Грешники"
+  },
+  {
+    "original": "Jolly Pirate",
+    "translation": "Веселый Пират"
+  },
+  {
+    "original": "Cherry Gnome",
+    "translation": "Вишневый Гном",
+    "model": "빨간노움"
+  },
+  {
+    "original": "Shadowy Gnome",
+    "translation": "Темный Гном",
+    "model": "검은노움"
+  },
+  {
+    "original": "Leafy Gnome",
+    "translation": "Лиственный Гном",
+    "model": "초록노움"
+  },
+  {
+    "original": "Saude",
+    "translation": "Сод",
+    "model": "소드"
+  },
+  {
+    "original": "Pawnbroker",
+    "translation": "Ростовщик",
+    "model": "전당포주인"
+  },
+  {
+    "original": "Rustic-sounding Tingtanger",
+    "translation": "Простак Бом-бобовец",
+    "model": "촌스러운말투의콩콩파조직원"
+  },
+  {
+    "original": "Chest-puffing Tingtanger",
+    "translation": "Запыхавшийся Бом-бобовец",
+    "model": "세보이고싶었던콩콩파조직원"
+  },
+  {
+    "original": "Chest-puffing Tingtanger",
+    "translation": "Запыхавшийся Бом-бобовец",
+    "model": "촌스러운말투의콩콩파조직원"
+  },
+  {
+    "original": "Guido",
+    "translation": "Гвидо",
+    "model": "피묻은귀도"
+  },
+  {
+    "original": "Saude",
+    "translation": "Сод",
+    "model": "제복소드"
+  },
+  {
+    "original": "Terrified Party",
+    "translation": "Напуганная Сторона",
+    "model": "겁먹은 계약자"
+  },
+  {
+    "original": "Angry Party",
+    "translation": "Сердитая Сторона",
+    "model": "화난 계약자"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "과거동백"
+  },
+  {
+    "original": "Revived? Liberation Alliance Member",
+    "translation": "Воскресший? Член Альянса Освобождения",
+    "model": "해방연합대원"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers Owner",
+    "translation": "Хозяин бара",
+    "model": "뒤틀린주인카운트1"
+  },
+  {
+    "original": "Raw Chicken",
+    "translation": "Сырой цыплёнок",
+    "model": "뒤틀린닭1"
+  },
+  {
+    "original": "Ishmael",
+    "translation": "Ишмаэль",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Butler Colleague",
+    "translation": "Коллега-дворецкий"
+  },
+  {
+    "original": "Gregor",
+    "translation": "Грегор",
+    "model": "그레고르"
+  },
+  {
+    "original": "Ryōshū",
+    "translation": "Рёшу",
+    "model": "료슈"
+  },
+  {
+    "original": "Aida",
+    "translation": "Аида",
+    "model": "아이드"
+  },
+  {
+    "original": "Sonya",
+    "translation": "Соня",
+    "model": "소냐"
+  },
+  {
+    "original": "Crew Boss",
+    "translation": "Босс банды",
+    "model": "철공회보스"
+  },
+  {
+    "original": "Aeng-du",
+    "translation": "Энду",
+    "model": "앵두"
+  },
+  {
+    "original": "Jun",
+    "translation": "<cspace=0.05em>Дзюн</cspace>",
+    "model": "쥰"
+  },
+  {
+    "original": "Jun",
+    "translation": "<cspace=0.05em>Дзюн</cspace>",
+    "model": "시계쥰"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소드"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에피"
+  },
+  {
+    "original": "Shrenne",
+    "translation": "Шренн",
+    "model": "슈렌느"
+  },
+  {
+    "original": "Niko",
+    "translation": "Нико",
+    "model": "니코"
+  },
+  {
+    "original": "Leading Inquisitor",
+    "translation": "Главный инквизитор"
+  },
+  {
+    "original": "Strange Dead Rabbits Henchman",
+    "translation": "Странный Мертвый Кролик",
+    "model": "데드레빗츠1"
+  },
+  {
+    "original": "Whale of the Porous Hand Mermaid",
+    "translation": "Русалка Кита Пористой Руки",
+    "model": "인어"
+  },
+  {
+    "original": "King Trash Crab",
+    "translation": "Король Мусорных Крабов"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "올가헬멧"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "올가잠수복"
+  },
+  {
+    "original": "Olga",
+    "translation": "Ольга",
+    "model": "올가"
+  },
+  {
+    "original": "Alex",
+    "translation": "Алекс"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쪽빛노인"
+  },
+  {
+    "original": "The Indigo Elder",
+    "translation": "Старик Индиго",
+    "model": "쪽빛노인"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "미카"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "무기레인"
+  },
+  {
+    "original": "Rain",
+    "translation": "Рейн",
+    "model": "무기레인"
+  },
+  {
+    "original": "Don Quixote",
+    "translation": "Дон Кихот",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Interviewer",
+    "translation": "Интервьюер",
+    "model": "인터뷰어"
+  },
+  {
+    "original": "Interviewer",
+    "translation": "Интервьюер"
+  },
+  {
+    "original": "Fight Spectator",
+    "translation": "Наблюдатель за Боем"
+  },
+  {
+    "original": "Bullied Citizen",
+    "translation": "Обиженный Гражданин"
+  },
+  {
+    "original": "Agitated Citizen",
+    "translation": "Возбужденный Гражданин"
+  },
+  {
+    "original": "Sinclair",
+    "translation": "Синклер",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Security Chief",
+    "translation": "Начальнк Охраны",
+    "model": "카지노경호원대장"
+  },
+  {
+    "original": "Rigid Security",
+    "translation": "Жесткий Охранник",
+    "model": "각잡힌카지노경호원"
+  },
+  {
+    "original": "Öufi Assoc. Director",
+    "translation": "Директор Ассоц. Оуфи",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "Strict Junior",
+    "translation": "Строгий Младший"
+  },
+  {
+    "original": "Another Colleague",
+    "translation": "Другой Коллега"
+  },
+  {
+    "original": "An Inquisitor",
+    "translation": "Инквизитор",
+    "model": "N사심문관1"
+  },
+  {
+    "original": "Fellow Inquisitor",
+    "translation": "Другой Инквизитор",
+    "model": "N사심문관2"
+  },
+  {
+    "original": "Vergilius",
+    "translation": "Вергилий",
+    "model": "베르길리우스2"
+  },
+  {
+    "original": "Threatening Crewman",
+    "translation": "Угрожающий член экипажа",
+    "model": "위협적인철공회조직원"
+  },
+  {
+    "original": "Flexing Crewman",
+    "translation": "Разминающийся синдикатовец",
+    "model": "몸푸는철공회조직원"
+  },
+  {
+    "original": "Guido",
+    "translation": "Гвидо",
+    "model": "귀도"
+  },
+  {
+    "original": "Class 3 Excision Staff",
+    "translation": "Сотрудник Отсечения 3-его Класса",
+    "model": "K사3등급전투원"
+  },
+  {
+    "original": "Heathcliff",
+    "translation": "Хитклифф",
+    "model": "히스클리프과거"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers Owner",
+    "translation": "Хозяин Бара",
+    "model": "뒤틀린주인카운트2"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers Owner",
+    "translation": "Хозяин Бара",
+    "model": "뒤틀린주인카운트3"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers Owner",
+    "translation": "Хозяин Бара",
+    "model": "뒤틀린주인"
+  },
+  {
+    "original": "Owner’s Momma",
+    "translation": "Маменька хозяина бара"
+  },
+  {
+    "original": "Erlking Heathcliff",
+    "translation": "Эрлкёниг Хитклифф",
+    "model": "마왕히스클리프2"
+  },
+  {
+    "original": "Every Catherine",
+    "translation": "Каждая Катерина",
+    "model": "마왕캐서린"
+  },
+  {
+    "original": "Queequeg",
+    "translation": "Квикег",
+    "model": "퀴케그가면"
+  },
+  {
+    "original": "Gubo",
+    "translation": "Губо",
+    "model": "과거구보"
+  },
+  {
+    "original": "Outis",
+    "translation": "Отис",
+    "model": "오티스"
+  },
+  {
+    "original": "Disgruntled Citizen",
+    "translation": "Раздражённый житель"
+  },
+  {
+    "original": "Kind Restaurant Owner",
+    "translation": "Добрый Владелец Ресторана"
+  },
+  {
+    "original": "Puny Thug",
+    "translation": "Головорез"
+  },
+  {
+    "original": "Panicked Thug",
+    "translation": "Паникующий Бандит"
+  },
+  {
+    "original": "Fearful Thug",
+    "translation": "Боязливый Бандит"
+  },
+  {
+    "original": "Kidnapper 2",
+    "translation": "Второй Похититель",
+    "model": "쌍갈고리파조직원2"
+  },
+  {
+    "original": "Rodion",
+    "translation": "Родион",
+    "model": "로쟈"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "산타타"
+  },
+  {
+    "original": "Ishmael & Outis",
+    "translation": "Ишмаэль и Отис"
+  },
+  {
+    "original": "Wolf",
+    "translation": "Волчица",
+    "model": "늑대"
+  },
+  {
+    "original": "Me",
+    "translation": "Я",
+    "model": "프롤로그단테"
+  },
+  {
+    "original": "Lion",
+    "translation": "Львица",
+    "model": "사자"
+  },
+  {
+    "original": "Panther",
+    "translation": "Пантера",
+    "model": "표범"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "???"
+  },
+  {
+    "original": "Faust",
+    "translation": "Фауст",
+    "model": "프롤로그파우스트"
+  },
+  {
+    "original": "Dante",
+    "translation": "Данте",
+    "model": "프롤로그단테2"
+  },
+  {
+    "original": "Hong Lu",
+    "translation": "Хон Лу",
+    "model": "홍루"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "파우스트"
+  },
+  {
+    "original": "Number-nuts Hooligan",
+    "translation": "Не умеющий считать хулиган"
+  },
+  {
+    "original": "Sharp Hooligan",
+    "translation": "Смышлённый хулиган"
+  },
+  {
+    "original": "Kromer",
+    "translation": "Кромер",
+    "model": "크로머"
+  },
+  {
+    "original": "Effie",
+    "translation": "Эффи",
+    "model": "제복에피"
+  },
+  {
+    "original": "Fauvist Henchman",
+    "translation": "Прихвостень Фовистов"
+  },
+  {
+    "original": "Cubist Henchman",
+    "translation": "Прихвостень Кубистов"
+  },
+  {
+    "original": "Terrified Civilian",
+    "translation": "Набуганный Гражданский"
+  },
+  {
+    "original": "Bowing Civilian",
+    "translation": "Кланяющийся Гражданский"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "퀴케그가면"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "퀴케그"
+  },
+  {
+    "original": "Queequeg",
+    "translation": "Квикег",
+    "model": "퀴케그"
+  },
+  {
+    "original": "Disciplined Lackey",
+    "translation": "Дисциплинированный Лакей"
+  },
+  {
+    "original": "Wincing Intruder",
+    "translation": "Незваный Гость"
+  },
+  {
+    "original": "LCCB Agent?",
+    "translation": "Агент LCCB?",
+    "model": "LCCB직원백화1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "림"
+  },
+  {
+    "original": "Rim",
+    "translation": "Рим",
+    "model": "림"
+  },
+  {
+    "original": "Ishmael",
+    "translation": "Ишмаэль"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "퀴케그그림자"
+  },
+  {
+    "original": "Kromer",
+    "translation": "Кромер",
+    "model": "크로머목소리"
+  },
+  {
+    "original": "Hosa",
+    "translation": "Хоса"
+  },
+  {
+    "original": "Yi Sang",
+    "translation": "И Сан",
+    "model": "이상"
+  },
+  {
+    "original": "Kashira",
+    "translation": "Вакагасира"
+  },
+  {
+    "original": "Hindley's Lackey",
+    "translation": "Лакей Хиндли",
+    "model": "데드레빗츠1"
+  },
+  {
+    "original": "A Prosthetic Head",
+    "translation": "Протезированная голова"
+  },
+  {
+    "original": "Excision Management Staff",
+    "translation": "Помощник Сотрудника Отсечения"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "삼조"
+  },
+  {
+    "original": "Chicken-headed K Corp. Security",
+    "translation": "Патрульный Корп. K с куриной головой",
+    "model": "뒤틀린손님2"
+  },
+  {
+    "original": "Running Civilian",
+    "translation": "Бегущий Гражданский",
+    "model": "도망치던시민"
+  },
+  {
+    "original": "Mysterious Drone",
+    "translation": "Загадочный Дрон",
+    "model": "K사드론들"
+  },
+  {
+    "original": "Timid Junior Butler",
+    "translation": "Робкий Младший Дворецкий"
+  },
+  {
+    "original": "Scared Junior Butler",
+    "translation": "Набуганный Младший Дворецкий"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "마왕히스클리프4"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "지크프리트"
+  },
+  {
+    "original": "Siegfried",
+    "translation": "Зигфрид",
+    "model": "지크프리트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아이드"
+  },
+  {
+    "original": "Tingtang Boss",
+    "translation": "Босс «Бом-боб»",
+    "model": "콩콩이파보스"
+  },
+  {
+    "original": "Bean-hating Tingtanger",
+    "translation": "Бом-бобовец бобоненавистник",
+    "model": "콩을싫어하는콩콩파조직원"
+  },
+  {
+    "original": "Mariachi Novato",
+    "translation": "Новичок"
+  },
+  {
+    "original": "Mariachi Alegre",
+    "translation": "Марьячи навеселе"
+  },
+  {
+    "original": "Mariachi Vivaz",
+    "translation": "Жизнерадостный марьячи"
+  },
+  {
+    "original": "You Want To Get Beat? Hurtily?",
+    "translation": "Хочешь, накостыляю? Очень?",
+    "model": "너맞아볼래매우"
+  },
+  {
+    "original": "Threatening Crewman",
+    "translation": "Грозный синдикатовец"
+  },
+  {
+    "original": "Flexing Crewman",
+    "translation": "Разминающийся синдикатовец"
+  },
+  {
+    "original": "Bamboo-hatted Kim?",
+    "translation": "Ким Саткат",
+    "model": "김삿갓"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "흑운회조직원2"
+  },
+  {
+    "original": "Announcement",
+    "translation": "Оповещение",
+    "model": "K사안내방송"
+  },
+  {
+    "original": "Intimidating Machine",
+    "translation": "Грозная Машина",
+    "model": "기술해방연합기계2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "마리르"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "란"
+  },
+  {
+    "original": "K Corp. Security",
+    "translation": "Охранник Корп. К"
+  },
+  {
+    "original": "Wicked Tax Collector",
+    "translation": "Злая сборщица налогов"
+  },
+  {
+    "original": "Resident",
+    "translation": "Житель"
+  },
+  {
+    "original": "Class 2 Collection Staff",
+    "translation": "Сборщик 2-го уровня",
+    "model": "T사2등급"
+  },
+  {
+    "original": "Don Quixote & T Corp. Staff",
+    "translation": "Дон Кихот и Сборщик Корп. T",
+    "model": "돈키T3"
+  },
+  {
+    "original": "Assistant",
+    "translation": "Ассистент",
+    "model": "T사대표"
+  },
+  {
+    "original": "Passerby",
+    "translation": "Прохожий",
+    "model": "T사시민"
+  },
+  {
+    "original": "Meticulous Activist",
+    "translation": "Дотошный активист",
+    "model": "유로지비멤버1"
+  },
+  {
+    "original": "Aggressive Activist",
+    "translation": "Агрессивная активистка",
+    "model": "유로지비멤버2"
+  },
+  {
+    "original": "Ahab",
+    "translation": "Ахав",
+    "model": "에이해브"
+  },
+  {
+    "original": "Alliance Member",
+    "translation": "Член Альянса",
+    "model": "기술해방연합1"
+  },
+  {
+    "original": "Alliance Member",
+    "translation": "Член Альянса",
+    "model": "각성기술해방연합1"
+  },
+  {
+    "original": "Ricardo",
+    "translation": "Рикардо",
+    "model": "작은형님발광"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쪽빛노인후드"
+  },
+  {
+    "original": "Ricardo",
+    "translation": "Рикардо",
+    "model": "작은형님다침"
+  },
+  {
+    "original": "Head Hooligan",
+    "translation": "Главный хулиган"
+  },
+  {
+    "original": "Mariachi Alegre",
+    "translation": "Марьячи навеселе",
+    "model": "흥겨운마리아치조직원"
+  },
+  {
+    "original": "Mariachi Vivaz",
+    "translation": "Жизнерадостный марьячи",
+    "model": "경쾌한마리아치조직원"
+  },
+  {
+    "original": "Overdramatic Civilian",
+    "translation": "",
+    "model": "T사시민"
+  },
+  {
+    "original": "Overdue T Corp. Gang",
+    "translation": "Чрезмерно драматичный гражданинOverdue T Corp. Gang",
+    "model": "T사갱단2"
+  },
+  {
+    "original": "Troubled VIP",
+    "translation": "Обеспокоенный ВИП"
+  },
+  {
+    "original": "Intense Bodyguard",
+    "translation": "Серьёзный телохранитель"
+  },
+  {
+    "original": "Tired Little Brother",
+    "translation": "Уставший Младший Брат",
+    "model": "피곤한 작은 아우"
+  },
+  {
+    "original": "Chill Little Brother",
+    "translation": "Расслабленный Младший Брат",
+    "model": "느긋한 작은 아우"
+  },
+  {
+    "original": "Big Brother",
+    "translation": "Старший Брат",
+    "model": "Big Brother"
+  },
+  {
+    "original": "The Big Brother",
+    "translation": "Старший Брат",
+    "model": "Big Brother"
+  },
+  {
+    "original": "Little Brothers",
+    "translation": "Младшие Братья",
+    "model": "작은 아우들"
+  },
+  {
+    "original": "Researcher",
+    "translation": "Исследователь"
+  },
+  {
+    "original": "Heathcliff, The Heartbroken",
+    "translation": "Хитклиф, с Разбитым Сердцем",
+    "model": "뒤틀린히스클리프"
+  },
+  {
+    "original": "Preoccupied Coworker",
+    "translation": "Озабоченный Коллега"
+  },
+  {
+    "original": "Twinhook Pirates?",
+    "translation": "Пираты-Двукрюки?",
+    "model": "쌍갈고리파조직원4"
+  },
+  {
+    "original": "Urgent T Corp. Gangster",
+    "translation": "Настойчивый Гангстер Корп. Т",
+    "model": "T사갱단1"
+  },
+  {
+    "original": "Scared T Corp. Gangster",
+    "translation": "Напуганный Гангстер Корп. Т",
+    "model": "T사갱단2"
+  },
+  {
+    "original": "Diligent Member",
+    "translation": "Прилежный Участник"
+  },
+  {
+    "original": "Captured Thief",
+    "translation": "Схваченный Вор"
+  },
+  {
+    "original": "Bodhisattva Chicken’s Manager",
+    "translation": "Хозяин \"Курочки-бодхисаттвы\"",
+    "model": "보살치킨"
+  },
+  {
+    "original": "Nest Resident",
+    "translation": "Житель Гнезда"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers Owner?",
+    "translation": "Хозяин бара",
+    "model": "뒤틀린주인"
+  },
+  {
+    "original": "???",
+    "translation": "\"У Ынбон\"????",
+    "model": "피쿼드호주민1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스타벅"
+  },
+  {
+    "original": "Marile",
+    "translation": "Марли",
+    "model": "마리르"
+  },
+  {
+    "original": "Hong Lu",
+    "translation": "Хон Лу",
+    "model": "홍루SD"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers Owner",
+    "translation": "Хозяин Бара",
+    "model": "은봉치킨"
+  },
+  {
+    "original": "Melted Machine",
+    "translation": "Оплавленная Машина",
+    "model": "기술해방연합기계"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "G사부장"
+  },
+  {
+    "original": "Decrepit G Corp. Head Manager",
+    "translation": "Дряхлый глава отдела Корп. G",
+    "model": "G사부장"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아세아"
+  },
+  {
+    "original": "Aseah",
+    "translation": "Асея",
+    "model": "아세아"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백에고각성중_다침"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백에고각성중_찔림"
+  },
+  {
+    "original": "Announcer",
+    "translation": "Диктор",
+    "model": "K사안내방송"
+  },
+  {
+    "original": "Dongrang",
+    "translation": "Донран",
+    "model": "과거동랑"
+  },
+  {
+    "original": "Young-ji",
+    "translation": "Ён-джи",
+    "model": "영지"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "상이"
+  },
+  {
+    "original": "Erlking Heathcliff",
+    "translation": "Эрлкёниг Хитклиф",
+    "model": "마왕히스클리프3"
+  },
+  {
+    "original": "Former Ring Researcher",
+    "translation": "Бывший Исследователь Безымянного",
+    "model": "N사연구원검은색"
+  },
+  {
+    "original": "Judge Presiding",
+    "translation": "Председательствующий Судья"
+  },
+  {
+    "original": "Assistant Fixer",
+    "translation": "Корректировщик-помощник",
+    "model": "장미스패너2"
+  },
+  {
+    "original": "Watch Factory Owner",
+    "translation": "Владелец фабрики",
+    "model": "범블"
+  },
+  {
+    "original": "Bumble",
+    "translation": "Бамбл",
+    "model": "범블"
+  },
+  {
+    "original": "Factory Laborer",
+    "translation": "Фабричные рабочие",
+    "model": "감속더미"
+  },
+  {
+    "original": "Class 2 Collector",
+    "translation": "Сборщик 2-ого Класса"
+  },
+  {
+    "original": "Firm Butler",
+    "translation": "Твердый Дворецкий",
+    "model": "린튼버틀러2"
+  },
+  {
+    "original": "Don Quixote",
+    "translation": "Дон Кихот",
+    "model": "더미"
+  },
+  {
+    "original": "Checkpoint Official",
+    "translation": "Пограничник",
+    "model": "검문소경비"
+  },
+  {
+    "original": "People in Line",
+    "translation": "Люди в очереди",
+    "model": "더미2"
+  },
+  {
+    "original": "Child",
+    "translation": "Ребёнок"
+  },
+  {
+    "original": "Announcement",
+    "translation": "Оповещение",
+    "model": "더미2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "크레용"
+  },
+  {
+    "original": "Alfonso",
+    "translation": "Альфонсо",
+    "model": "알폰소"
+  },
+  {
+    "original": "Demian",
+    "translation": "Демиан",
+    "model": "데미안"
+  },
+  {
+    "original": "Class 2 Collection Staff",
+    "translation": "Сборщик 2-го уровня"
+  },
+  {
+    "original": "Backstreets Inventor",
+    "translation": "Изобретатель в Подворотнях"
+  },
+  {
+    "original": "Bawling Casinogoer",
+    "translation": "Вопящий завсегдатай казино"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백여우각성_먼지"
+  },
+  {
+    "original": "Running Civilian",
+    "translation": "Бегущий Гражданский"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백에고각성중_먼지"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백에고각성"
+  },
+  {
+    "original": "Unknown Boy",
+    "translation": "Неизвестный Мальчик"
+  },
+  {
+    "original": "Stephanette",
+    "translation": "Стефанетт"
+  },
+  {
+    "original": "Panicking Colleague",
+    "translation": "Паникующий коллега"
+  },
+  {
+    "original": "Anxious Colleague",
+    "translation": "Обеспокоенный коллега"
+  },
+  {
+    "original": "Statuehead",
+    "translation": "Каменная голова",
+    "model": "석상머리"
+  },
+  {
+    "original": "Kromer",
+    "translation": "Кромер",
+    "model": "변신크로머"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "데미안"
+  },
+  {
+    "original": "Class 4 Collector",
+    "translation": "Сборщик 4-ого Класса",
+    "model": "T사기술청2"
+  },
+  {
+    "original": "Class 2 Collector",
+    "translation": "Сборщик 2-ого Класса",
+    "model": "T사기술청1"
+  },
+  {
+    "original": "Captive Debtor",
+    "translation": "Зависимый должник",
+    "model": "노예"
+  },
+  {
+    "original": "Henchman",
+    "translation": "Прихвостень"
+  },
+  {
+    "original": "Pilot",
+    "translation": "Пилот",
+    "model": "파일럿"
+  },
+  {
+    "original": "Kidnapper",
+    "translation": "Похититель",
+    "model": "쌍갈고리파조직원1"
+  },
+  {
+    "original": "Big Brother",
+    "translation": "Старший Брат"
+  },
+  {
+    "original": "Stephanette",
+    "translation": "Стефанетт",
+    "model": "스테파네트"
+  },
+  {
+    "original": "Irked Teammate",
+    "translation": "Раздражённый коллега"
+  },
+  {
+    "original": "Assassin",
+    "translation": "Киллер",
+    "model": "암살자"
+  },
+  {
+    "original": "Trash Crabs",
+    "translation": "Мусорные Крабы",
+    "model": "크랲게"
+  },
+  {
+    "original": "Shady Dealer",
+    "translation": "Сомнительный Дилер"
+  },
+  {
+    "original": "Clumsy VIP",
+    "translation": "Неуклюжий ВИП"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "동백"
+  },
+  {
+    "original": "Fiery Veteran",
+    "translation": "Яростный ветеран проигранной войны",
+    "model": "화난패잔병"
+  },
+  {
+    "original": "Puzzled Veteran",
+    "translation": "Странный ветеран проигранной войны",
+    "model": "의아한패잔병"
+  },
+  {
+    "original": "Faithful Inquisitor",
+    "translation": "Верный инквизитор"
+  },
+  {
+    "original": "Meursault",
+    "translation": "Мерсо",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Kromer",
+    "translation": "Кромер",
+    "model": "학생크로머"
+  },
+  {
+    "original": "One Casinogoer",
+    "translation": "Игрок казино"
+  },
+  {
+    "original": "Another Casinogoer",
+    "translation": "Другой игрок казино"
+  },
+  {
+    "original": "Dongrang, Who Denies All",
+    "translation": "Донранг, Отрицающий Всё",
+    "model": "동랑"
+  },
+  {
+    "original": "Rodya",
+    "translation": "Родя",
+    "model": "로쟈"
+  },
+  {
+    "original": "Concerned Employee",
+    "translation": "Обеспокоенный Сотрудник",
+    "model": "걱정이 많은 직원"
+  },
+  {
+    "original": "Sailors",
+    "translation": "Моряки",
+    "model": "선원들"
+  },
+  {
+    "original": "Thundering Sailor",
+    "translation": "Грозовой Моряк",
+    "model": "목청이 큰 선원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "넬리"
+  },
+  {
+    "original": "Famished Hooligan",
+    "translation": "Голодающий хулиган"
+  },
+  {
+    "original": "Second State Councilor",
+    "translation": "Второй Государственный Советник",
+    "model": "좌의정"
+  },
+  {
+    "original": "Third State Councilor",
+    "translation": "Третий Государственный Советник",
+    "model": "우의정"
+  },
+  {
+    "original": "Bamboo-hatted Kim",
+    "translation": "Ким Саткат",
+    "model": "김삿갓"
+  },
+  {
+    "original": "Bamboo-hatted Kim?",
+    "translation": "Ким Саткат?",
+    "model": "최종김삿갓"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "도도루"
+  },
+  {
+    "original": "Man with Red Eyes",
+    "translation": "Красноглазый человек",
+    "model": "눈이붉은자"
+  },
+  {
+    "original": "Ran",
+    "translation": "Ран",
+    "model": "란"
+  },
+  {
+    "original": "Sister",
+    "translation": "Сестра"
+  },
+  {
+    "original": "Father",
+    "translation": "Отец"
+  },
+  {
+    "original": "Wincing Ruffian",
+    "translation": "Дрожащий бандит"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация"
+  },
+  {
+    "original": "Ezra",
+    "translation": "Эзра"
+  },
+  {
+    "original": "Reticent Employee",
+    "translation": "Неразговорчивый сотрудник",
+    "model": "LCA특작팀"
+  },
+  {
+    "original": "Brisk Employee",
+    "translation": "Быстрый сотрудник",
+    "model": "LCA특작팀"
+  },
+  {
+    "original": "Irate Activist",
+    "translation": "Раздражённая активистка",
+    "model": "유로지비멤버2"
+  },
+  {
+    "original": "Angry Employee",
+    "translation": "Раздраженный Сотрудник",
+    "model": "화난 직원"
+  },
+  {
+    "original": "Mooching Employee",
+    "translation": "Мычащий Сотрудник",
+    "model": "빌붙는 직원"
+  },
+  {
+    "original": "Imploring Employee",
+    "translation": "Умоляющий Сотрудник",
+    "model": "부탁이 많은 직원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쌍갈고리파조직원1"
+  },
+  {
+    "original": "Heathcliff?",
+    "translation": "Хитклиф?",
+    "model": "마왕히스클리프3"
+  },
+  {
+    "original": "Heathcliff?",
+    "translation": "Хитклиф?",
+    "model": "마왕히스클리프2"
+  },
+  {
+    "original": "Gregor & Ryōshū",
+    "translation": "Грегор и Рёшу",
+    "model": "그렉료슈"
+  },
+  {
+    "original": "Big Brother",
+    "translation": "Старший Брат",
+    "model": "작은형님안경"
+  },
+  {
+    "original": "Little Brother",
+    "translation": "Младший Брат"
+  },
+  {
+    "original": "Little Brother",
+    "translation": "Младший Брат",
+    "model": "작은아우"
+  },
+  {
+    "original": "Big Brother",
+    "translation": "Старший Брат",
+    "model": "작은형님책"
+  },
+  {
+    "original": "Demian",
+    "translation": "Демиан",
+    "model": "학생데미안"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "파일럿"
+  },
+  {
+    "original": "Ahab",
+    "translation": "Ахав",
+    "model": "에이해브다침"
+  },
+  {
+    "original": "Kromer",
+    "translation": "Кромер",
+    "model": "피묻은크로머"
+  },
+  {
+    "original": "Prudish K Corp. Executive",
+    "translation": "Чопорный Руководитель Корп. К",
+    "model": "K사임원진1"
+  },
+  {
+    "original": "Impulsive K Corp. Executive",
+    "translation": "Импульсивный Руководитель Корп. К",
+    "model": "K사임원진2"
+  },
+  {
+    "original": "Reminisced Classmate",
+    "translation": "Одноклассник из воспоминаний"
+  },
+  {
+    "original": "Reminisced Schoolmate",
+    "translation": "Одноклассница из воспоминаний"
+  },
+  {
+    "original": "LCCB Agent?",
+    "translation": "Агент LCCB?",
+    "model": "LCCB직원백화2"
+  },
+  {
+    "original": "T Corp. Reporter",
+    "translation": "Репортёр Корп. T"
+  },
+  {
+    "original": "Mai",
+    "translation": "Май",
+    "model": "마이"
+  },
+  {
+    "original": "Chief Executive?",
+    "translation": "Исполнительный директор?",
+    "model": "진짜T사대표"
+  },
+  {
+    "original": "Curious Coworker",
+    "translation": "Любопытствующий коллега"
+  },
+  {
+    "original": "Dongrang",
+    "translation": "Донран",
+    "model": "다친에고동랑"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "앵두"
+  },
+  {
+    "original": "Kind Employee",
+    "translation": "Добрый Сотрудник"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "침식직원1"
+  },
+  {
+    "original": "Corroded Inquisitor",
+    "translation": "Инквизитор в коррозии",
+    "model": "침식직원1"
+  },
+  {
+    "original": "Mr. Earnshaw",
+    "translation": "Мр. Эршоу",
+    "model": "언쇼"
+  },
+  {
+    "original": "Heathcliff",
+    "translation": "Хитклиф"
+  },
+  {
+    "original": "Shouting Thug",
+    "translation": "Кричащий Бандит",
+    "model": "쌍갈고리파조직원2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "시계쥰"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쥰"
+  },
+  {
+    "original": "Heathcliff?",
+    "translation": "Хитклифф?",
+    "model": "히스클리프요리사"
+  },
+  {
+    "original": "Chickenhead",
+    "translation": "Лицыплячий человек",
+    "model": "뒤틀린손님2"
+  },
+  {
+    "original": "Class 4 Collection Staff",
+    "translation": "Сборщик 4-го Уровня",
+    "model": "T사4등급"
+  },
+  {
+    "original": "Employee?",
+    "translation": "Сотрудник?",
+    "model": "T사대표"
+  },
+  {
+    "original": "Class 5 Audit Staff?",
+    "translation": "Аудитор 5-го уровня?",
+    "model": "T사대표"
+  },
+  {
+    "original": "Mai",
+    "translation": "Май",
+    "model": "T사대표"
+  },
+  {
+    "original": "Defeated Henchman",
+    "translation": "Поверженный член синдиката"
+  },
+  {
+    "original": "Merchant",
+    "translation": "Торговец"
+  },
+  {
+    "original": "Tortured Prosthesis",
+    "translation": "Пытаемый киборг"
+  },
+  {
+    "original": "Scourging Inquisitor",
+    "translation": "Наказывающий инквизитор",
+    "model": "N사심문관1"
+  },
+  {
+    "original": "Interrogative Inquisitor",
+    "translation": "Допрашивающий инквизитор",
+    "model": "N사심문관2"
+  },
+  {
+    "original": "Samjo",
+    "translation": "Самджо",
+    "model": "옷벗은삼조"
+  },
+  {
+    "original": "Dongbaek",
+    "translation": "Донбек",
+    "model": "동백여우각성"
+  },
+  {
+    "original": "Club DJ",
+    "translation": "Диджей Клуба"
+  },
+  {
+    "original": "Revived? Liberation Alliance Member",
+    "translation": "Воскресший? Член Альянса Освобождения",
+    "model": "되살아난해방연합"
+  },
+  {
+    "original": "Stern Inquisitor",
+    "translation": "Строгий Инквизитор"
+  },
+  {
+    "original": "Solemn Inquisitor",
+    "translation": "Торжественный Инквизитор"
+  },
+  {
+    "original": "Captive Prosthesis",
+    "translation": "Схваченный протезированный"
+  },
+  {
+    "original": "Terrified Prosthesis",
+    "translation": "Схваченный протезированный"
+  },
+  {
+    "original": "Time Tax Evader",
+    "translation": "Уклонябщийся от Временного Налога"
+  },
+  {
+    "original": "The Pallid Whale",
+    "translation": "Бледный Кит",
+    "model": "창백한 고래"
+  },
+  {
+    "original": "Faust & Samjo",
+    "translation": "Фауст и Самджо",
+    "model": "파우스트와삼조"
+  },
+  {
+    "original": "Daft Thug",
+    "translation": "Туповатый бандит"
+  },
+  {
+    "original": "Tense Colleague",
+    "translation": "Напряженный Коллега"
+  },
+  {
+    "original": "Ahab",
+    "translation": "Ахав"
+  },
+  {
+    "original": "Nervous Pirate",
+    "translation": "Нервный Пират",
+    "model": "긴장한 조직원"
+  },
+  {
+    "original": "Perceptive Pirate",
+    "translation": "Проницательный Пират",
+    "model": "빠릿한 조직원"
+  },
+  {
+    "original": "Pirates",
+    "translation": "Пираты",
+    "model": "조직원들"
+  },
+  {
+    "original": "Handy Pirate",
+    "translation": "Подручный Пират",
+    "model": "쓸만한 조직원"
+  },
+  {
+    "original": "Ricardo",
+    "translation": "Рикардо",
+    "model": "작은형님안경"
+  },
+  {
+    "original": "Brave Association Member",
+    "translation": "Храбрый Член Ассоциации"
+  },
+  {
+    "original": "Cold Association Member",
+    "translation": "Холодный Член Ассоциации"
+  },
+  {
+    "original": "Class 2 Clerical Staff",
+    "translation": "Клерк 2-го уровня",
+    "model": "T사사무직"
+  },
+  {
+    "original": "Hurrying Researcher",
+    "translation": "Спешаший Исследователь",
+    "model": "K사연구원3"
+  },
+  {
+    "original": "Dying Researcher",
+    "translation": "Умирающий Исследователь",
+    "model": "K사연구원2"
+  },
+  {
+    "original": "Class 2 Excision Staff",
+    "translation": "Сотрудник Отсечения 2-ого Класса",
+    "model": "검문소경비2"
+  },
+  {
+    "original": "Ampule Helper",
+    "translation": "Дрон с Ампулами",
+    "model": "K사앰플기계"
+  },
+  {
+    "original": "Class 2 Excision Staff",
+    "translation": "Сотрудник Отсечения 2-ого Класса",
+    "model": "검문소경비"
+  },
+  {
+    "original": "Ampule Helper",
+    "translation": "Дрон с Ампулами",
+    "model": "해킹당한K사앰플기계"
+  },
+  {
+    "original": "Fainted Activist",
+    "translation": "Активист без сознания",
+    "model": "유로지비멤버1"
+  },
+  {
+    "original": "Fleeing Activist",
+    "translation": "Сбегающий Активист",
+    "model": "유로지비멤버1"
+  },
+  {
+    "original": "Announcement",
+    "translation": "Оповещение",
+    "model": "Announcement"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "N사심문관1"
+  },
+  {
+    "original": "Inquisitor",
+    "translation": "Инквизитор",
+    "model": "N사심문관1"
+  },
+  {
+    "original": "Loyal Underling",
+    "translation": "Преданный Подчиненный"
+  },
+  {
+    "original": "Underlings",
+    "translation": "Подчиненные"
+  },
+  {
+    "original": "Researcher",
+    "translation": "Исследователь",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "Yi Sang",
+    "translation": "И Сан",
+    "model": "과거이상"
+  },
+  {
+    "original": "Embedded... Agent",
+    "translation": "Вросший... Агент"
+  },
+  {
+    "original": "LCCB Agent?",
+    "translation": "Агент LCCB?"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "카이만"
+  },
+  {
+    "original": "Caiman",
+    "translation": "Кайман",
+    "model": "카이만"
+  },
+  {
+    "original": "Confused Sailor",
+    "translation": "Сбитый с толку Моряк",
+    "model": "당황하는 선원"
+  },
+  {
+    "original": "Flabbergasted Sailor",
+    "translation": "Ошеломленный Моряк",
+    "model": "어이없는 선원"
+  },
+  {
+    "original": "Younger Brother",
+    "translation": "Младший Брат",
+    "model": "시살동생"
+  },
+  {
+    "original": "Candy-suckling T Corp. Citizen",
+    "translation": "Житель Корп. T, любящий конфеты"
+  },
+  {
+    "original": "Listless T Corp. Citizen",
+    "translation": "Вялый житель Корп. T"
+  },
+  {
+    "original": "T Corp. Watch Factory Owner",
+    "translation": "Владелец фабрики",
+    "model": "범블"
+  },
+  {
+    "original": "Hanging Villager",
+    "translation": "Висящий Житель",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "Despairing Villager",
+    "translation": "Отчаявшийся Житель",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "Falling Villager",
+    "translation": "Падающий Житель",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "Shocked Villager",
+    "translation": "Шокированный Житель",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "Hesitating Villager",
+    "translation": "Колеблющийся Житель",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "Researcher?",
+    "translation": "Исследователь?",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "Friendly Little Brother",
+    "translation": "Дружелюбный Младший Брат",
+    "model": "친근한 작은 아우"
+  },
+  {
+    "original": "Smooth Little Brother",
+    "translation": "Мягкий Младший Брат",
+    "model": "능글맞은 작은 아우"
+  },
+  {
+    "original": "Smee",
+    "translation": "Сми",
+    "model": "다친스미"
+  },
+  {
+    "original": "Deranged Employee",
+    "translation": "Безумный Сотрудник"
+  },
+  {
+    "original": "Dongrang, Who Denies All",
+    "translation": "Донранг, Отрицающий Всё",
+    "model": "뒤틀린다친동랑"
+  },
+  {
+    "original": "Crooked Veteran",
+    "translation": "Нечестный ветеран проигранной войны"
+  },
+  {
+    "original": "Vulgar Veteran",
+    "translation": "Сквернословящий ветеран проигранной войны"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "시간살인마"
+  },
+  {
+    "original": "The Client",
+    "translation": "Клиент"
+  },
+  {
+    "original": "Clumsy Newcomer",
+    "translation": "Неловкий новенький"
+  },
+  {
+    "original": "Panicked Pirate",
+    "translation": "Паникующий Пират",
+    "model": "쌍갈고리파조직원2"
+  },
+  {
+    "original": "Instructor",
+    "translation": "Инструктор",
+    "model": "교육 담당자"
+  },
+  {
+    "original": "New Hires",
+    "translation": "Новые Сотрудники",
+    "model": "신입사원들"
+  },
+  {
+    "original": "Frail Pirate",
+    "translation": "Хилый Пират",
+    "model": "비실한 조직원"
+  },
+  {
+    "original": "Captain?",
+    "translation": "Капитан?",
+    "model": "에이해브"
+  },
+  {
+    "original": "Blinded Pequod Town Villager",
+    "translation": "Слепой Житель Деревни Пекод",
+    "model": "피쿼드호주민1"
+  },
+  {
+    "original": "Gagged Pequod Town Villager",
+    "translation": "Житель Деревни Пекод с Кляпом",
+    "model": "피쿼드호주민2"
+  }
+]

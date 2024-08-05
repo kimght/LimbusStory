@@ -1,0 +1,62 @@
+# Original: <Whew, we just need to get past that Abnormality. Then we can get to cutting the Whale's arteries.>
+Данте: <Фух, нам нужно только пройти мимо этой Аномалии. Затем мы сможем приступить к разрезанию артерий Кита.>
+
+# Original: Looks like we can cross that sinew-like bridge over there.
+Грегор: Похоже, мы можем перейти по тому мостику, похожему на сухожилие.
+
+# Original: Queequeg suddenly steps in between us and the bridge.
+Рассказчик: Квиквег внезапно встаёт между нами и мостом.
+
+# Original: H.W. What are you doing?
+Рёшу: Х.В. Что ты делаешь?
+
+# Original: The bridge. Made of flimsy veins.
+Квиквег: Мост. Сделан из хрупких вен.
+
+# Original: This way. Original plan.
+Рёшу: Этот путь. Изначальный план.
+
+# Original: This looks like the way, but no. Not the way. Once one person cross, bridge snap under next.
+Квиквег: Выглядит как правильный путь, но нет. Не тот путь. Когда один человек пройдёт, мост порвётся под следующим.
+
+# Original: <What...?>
+Данте: <Что...?>
+
+# Original: Outis was the first to put the pieces together.
+Рассказчик: Отис первой сложила все части головоломки.
+
+# Original: I get it. You already knew that this path was going to snap. Despite that, you have led us here. That means...
+Отис: Я поняла. Ты уже знала, что этот путь оборвётся. Несмотря на это, ты привела нас сюда. Это значит...
+
+# Original: You were going to cross this bridge, and drop all of us behind you.
+Отис: Ты собиралась перейти этот мост и сбросить всех нас позади себя.
+
+# Original: ... Blimey. What'd I say? There was something iffy about this plan! Oi, is this that loony Captain's orders?
+Хитклиф: ...Чёрт возьми. Что я говорил? Было что-то подозрительное в этом плане! Эй, это приказ той чокнутой Капитанши?
+
+# Original: ... She said... sacrifice, necessary.
+Квиквег: ...Она сказала... жертвы, необходимы.
+
+# Original: Can't go forward unless someone falls.
+Квиквег: Нельзя идти вперёд, если кто-то не упадёт.
+
+# Original: I wanted to escape. I wanted to escape with Pequod crew.
+Квиквег: Я хотела сбежать. Я хотела сбежать с командой Пекода.
+
+# Original: And we were just acceptable losses on the way, huh? Just like that?
+Хитклиф: А мы были просто приемлемыми потерями на пути, да? Вот так просто?
+
+# Original: Yes.
+Квиквег: Да.
+
+# Original: Then why... did you change your mind?
+Ишмаэль: Тогда почему... ты передумала?
+
+# Original: Want to know, now.
+Квиквег: Хочу узнать, теперь.
+
+# Original: Know... what?
+Ишмаэль: Узнать... что?
+
+# Original: My way. My path.
+Квиквег: Мой путь. Мой собственный путь.

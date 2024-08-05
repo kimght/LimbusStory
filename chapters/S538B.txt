@@ -1,0 +1,410 @@
+# Original: The weather there is quite hostile.
+Мерсо: Погода там довольно враждебная.
+
+# Original: Meursault was right. The Lake beyond the borders was nigh pitch-black. The waves crested tall, rising and crashing violently under the thundering rainstorm.
+Рассказчик: Мерсо был прав. Озеро за границей было почти чёрным. Волны вздымались высоко, поднимаясь и яростно обрушиваясь под грохочущим ливнем.
+
+# Original: Mm... The wild winds have begun to sway the boat...
+И Сан: Мм... Дикие ветры начали раскачивать лодку...
+
+# Original: Yi Sang's face was starting to grow pale.
+Рассказчик: Лицо И Сана начало бледнеть.
+
+# Original: I'm starting to wonder if we can... really do this.
+Синклер: Я начинаю сомневаться, сможем ли мы... действительно это сделать.
+
+# Original: Did we ever let that stop us from trying?
+Хитклиф: Разве это когда-нибудь останавливало нас от попыток?
+
+# Original: Ha, I guess that's true~
+Родион: Ха, думаю, это правда~
+
+# Original: ... All right. Heading into the zone.
+Ишмаэль: ... Хорошо. Входим в зону.
+
+# Original: Are there any laws of that Lake that we must be mindful of?
+Отис: Есть ли какие-то законы этого Озера, о которых мы должны помнить?
+
+# Original: I don't know the laws of that Lake, nor its Waves.
+Ишмаэль: Я не знаю законов этого Озера, ни его Волн.
+
+# Original: I remember the way the fog split open. I remember the obsidian sea and the endless tempest.
+Ишмаэль: Я помню, как расступился туман. Я помню обсидиановое море и бесконечную бурю.
+
+# Original: But the rest of it... All I remember is that the Captain was excitedly delivering a speech at witnessing the legends come to life, and that we were all busy preparing for the Whale hunt.
+Ишмаэль: Но остальное... Всё, что я помню, это то, что Капитан взволнованно произносил речь, став свидетелем ожившей легенды, и что мы все были заняты подготовкой к охоте на Кита.
+
+# Original: ... So, what awaits us ahead is a real adventure. We'll be sailing blindly into the night.
+Ишмаэль: ... Так что то, что ждёт нас впереди, - настоящее приключение. Мы будем плыть вслепую в ночь.
+
+# Original: ... Gulp.
+Дон Кихот: ... Гулп.
+
+# Original: Then... we'll have to face everything head-on.
+Отис: Тогда... нам придётся встретиться со всем лицом к лицу.
+
+# Original: Yes. If the Waves come to claim us, we will face them. Head-on.
+Ишмаэль: Да. Если Волны придут за нами, мы встретим их. Лицом к лицу.
+
+# Original: ... Even the Whale.
+Ишмаэль: ... Даже с Китом.
+
+# Original: ... No signs of that Whale yet, though.
+Ишмаэль: ... Хотя пока нет никаких признаков того Кита.
+
+# Original: Back then, it attacked us mere minutes after we entered the Lake.
+Ишмаэль: В тот раз он атаковал нас через несколько минут после того, как мы вошли в Озеро.
+
+# Original: Everyone was as tense as they could ever be, looking around nervously...
+Рассказчик: Все были напряжены как никогда, нервно оглядываясь по сторонам...
+
+# Original: Wait, what's... that? There's something there, something tall.
+Синклер: Подождите, что это... там? Там что-то есть, что-то высокое.
+
+# Original: A close approach is recommended. I have a source of light to improve our visibility.
+Мерсо: Рекомендуется близкий подход. У меня есть источник света для улучшения видимости.
+
+# Original: Meursault got up with a lantern and pointed the light toward where Sinclair indicated.
+Рассказчик: Мерсо встал с фонарём и направил свет туда, куда указал Синклер.
+
+# Original: There's... several of them...?
+Синклер: Их... несколько...?
+
+# Original: What's that...? Hell, who put 'em there? What are they even for?
+Грегор: Что это...? Чёрт, кто их там поставил? Для чего они вообще?
+
+# Original: Maybe they're like lighthouses...?
+Родион: Может, они как маяки...?
+
+# Original: Lighthouses? Yeah, I can kinda see that...
+Синклер: Маяки? Да, я вроде как вижу это...
+
+# Original: ......
+Ишмаэль: ......
+
+# Original: <Do you remember seeing anything like that, Ishmael?>
+Данте: <Ты помнишь, чтобы видела что-то подобное, Ишмаэль?>
+
+# Original: No... I don't even have a hazy recollection of it. I've never seen it before in my...
+Ишмаэль: Нет... У меня даже нет смутного воспоминания об этом. Я никогда раньше не видела этого в своей...
+
+# Original: ...!
+Ишмаэль: ...!
+
+# Original: I-Ishmael. Has the nausea of the swaying sea gotten to you as well?
+И Сан: И-Ишмаэль. Неужели морская болезнь от качки добралась и до тебя?
+
+# Original: Your face has grown rather pale...
+И Сан: Твоё лицо стало довольно бледным...
+
+# Original: I knew that that can't be true.
+Рассказчик: Я знал, что это не может быть правдой.
+
+# Original: A seasick sailor only exists in jokes. Besides, Ishmael was doing just fine mere moments ago.
+Рассказчик: Страдающий от морской болезни моряк существует только в шутках. К тому же, Ишмаэль чувствовала себя прекрасно всего несколько мгновений назад.
+
+# Original: Then... she must've had a sudden realization.
+Рассказчик: Значит... она должна была внезапно что-то осознать.
+
+# Original: I see... So that's what it looked like. Even a small part of it is...
+Ишмаэль: Я поняла... Вот как это выглядело. Даже небольшая часть этого...
+
+# Original: A terrifying realization.
+Рассказчик: Ужасающее осознание.
+
+# Original: W-what is it?
+Синклер: Ч-что такое?
+
+# Original: You'll find out soon enough. Even if you don't want to.
+Ишмаэль: Скоро узнаешь. Даже если не захочешь.
+
+# Original: There, a rogue wave ahead...!
+Отис: Там, впереди блуждающая волна...!
+
+# Original: All hands, brace! Grab onto what you can!
+Отис: Всем приготовиться! Хватайтесь за что можете!
+
+# Original: A-ah! Agh...!
+Синклер: А-ах! Агх...!
+
+# Original: Before we even had the chance to say anything, a leviathan of a wave rose to its crest, then crashed onto us from above...
+Рассказчик: Прежде чем мы успели что-либо сказать, огромная волна поднялась до своего гребня, а затем обрушилась на нас сверху...
+
+# Original: And sucked us deep into the Lake before throwing us back to the surface.
+Рассказчик: И затянула нас глубоко в Озеро, прежде чем выбросить обратно на поверхность.
+
+# Original: Pah...!
+Фауст: Пах...!
+
+# Original: ... We were lucky. There was a high chance that the following vortex would have dragged the vessel deep underwater.
+Фауст: ... Нам повезло. Была высокая вероятность того, что последующий вихрь затянул бы судно глубоко под воду.
+
+# Original: L-lucky? You saw what was down there, that was...
+Хитклиф: П-повезло? Ты видела, что там было внизу, это было...
+
+# Original: <... Everyone okay?>
+Данте: <... Все в порядке?>
+
+# Original: Everyone was soaking wet, nearly hyperventilating, but... mostly awestruck by what we've just witnessed.
+Рассказчик: Все были мокрые до нитки, почти задыхались, но... в основном были поражены тем, что мы только что увидели.
+
+# Original: We have everyone, but...
+Отис: Все на месте, но...
+
+# Original: Huh? Huh...? What we just saw down there... were...
+Синклер: А? А...? То, что мы только что видели там внизу... были...
+
+# Original: They weren't lighthouses... They were...
+Хон Лу: Это были не маяки... Это были...
+
+# Original: Tails of colossal Whales...!
+Хон Лу: Хвосты колоссальных Китов...!
+
+# Original: Wow... Okay... I really wanna give up now, ha ha.
+Родион: Вау... Ладно... Я правда хочу сдаться сейчас, ха-ха.
+
+# Original: I wanna go back to the time when I didn't know what the Whales really looked like...
+Родион: Я хочу вернуться во времена, когда не знала, как на самом деле выглядят Киты...
+
+# Original: So this is the Lake where the Whales come to sleep...
+Ишмаэль: Так это Озеро, куда приходят спать Киты...
+
+# Original: Yeah. If they're deep in the water with their necks bent like that... I could see their tails rising tall over the surface.
+Ишмаэль: Да. Если они глубоко в воде с изогнутыми шеями... Я могла видеть их хвосты, возвышающиеся над поверхностью.
+
+# Original: But... There's no way they missed this commotion.
+Ишмаэль: Но... Нет никакой возможности, чтобы они пропустили этот переполох.
+
+# Original: T-t-t-the ship is... We're... we're keeling over!
+Синклер: К-к-к-корабль... Мы... мы кренимся!
+
+# Original: ... The Whales are waking up.
+Ишмаэль: ... Киты просыпаются.
+
+# Original: 'We're finally here.'
+Рассказчик: "Мы наконец здесь."
+
+# Original: ... I think that's what Ishmael whispered. But the storm, the waves buried her voice deep into the Lake.
+Рассказчик: ... Думаю, это то, что прошептала Ишмаэль. Но шторм, волны глубоко погребли её голос в Озере.
+
+# Original: If the Indigo Elder made it here as we planned...
+Фауст: Если Старик Индиго добрался сюда, как мы планировали...
+
+# Original: WOAAAAAAHHHHH!
+Дон Кихот: ВОААААААХХХХХ!
+
+# Original: OVER YONDER, I-IS THAT THE WHALE?!
+Дон Кихот: ВОН ТАМ, Э-ЭТО КИТ?!
+
+# Original: We didn't have to wonder even for a second about what Don Quixote was screaming at.
+Рассказчик: Нам не пришлось даже секунды гадать, на что кричал Дон Кихот.
+
+# Original: An entire herd of entities, each dwarfing every single Whale we've weathered throughout this journey, emerged from the waters all at once. In unison, they began migrating in a singular direction. To witness something like that was...
+Рассказчик: Целое стадо существ, каждое из которых превосходило размерами всех Китов, с которыми мы столкнулись за всё это путешествие, одновременно появилось из вод. В унисон они начали мигрировать в одном направлении. Увидеть нечто подобное было...
+
+# Original: …….
+Мерсо: …….
+
+# Original: ... enough to make even Meursault gape with plain bewilderment.
+Рассказчик: ... достаточно, чтобы даже Мерсо разинул рот от явного изумления.
+
+# Original: Looks like things are going according to plan.
+Фауст: Похоже, всё идёт по плану.
+
+# Original: Then we'll have to do our part.
+Отис: Тогда нам нужно сделать свою часть.
+
+# Original: Ah!
+Ишмаэль: Ах!
+
+# Original: There, there!
+Ишмаэль: Там, там!
+
+# Original: There was a Whale that stood out even among the herd of ineffably immense Whales.
+Рассказчик: Среди стада невыразимо огромных Китов выделялся один.
+
+# Original: Pallid as the pale death... Its hide, thick with scar tissue.
+Рассказчик: Бледный, как бледная смерть... Его шкура, покрытая рубцовой тканью.
+
+# Original: That one's particularly scarred.
+Отис: Этот особенно изранен.
+
+# Original: Ha, ha ha ha... I've found it!
+Ишмаэль: Ха, ха-ха-ха... Я нашла его!
+
+# Original: Yes... He was right. The wounds, the scars that we... the Pequod made... they're all still there.
+Ишмаэль: Да... Он был прав. Раны, шрамы, которые мы... "Пекод" нанёс... они всё ещё там.
+
+# Original: I assume that you have finally located the Whale?
+Вергилий: Полагаю, вы наконец обнаружили Кита?
+
+# Original: I believe so, yes.
+Фауст: Думаю, да.
+
+# Original: As always... the chance of success must be miniscule.
+Вергилий: Как всегда... шанс на успех должен быть ничтожно мал.
+
+# Original: Indeed it is.
+Фауст: Действительно, это так.
+
+# Original: OARSMEN!!!!!!!
+Ишмаэль: ГРЕБЦЫ!!!!!!!
+
+# Original: Ishmael thundered.
+Рассказчик: Прогремела Ишмаэль.
+
+# Original: <Ishmael...?>
+Данте: <Ишмаэль...?>
+
+# Original: No, louder than the thunder itself. As though her personality itself had suddenly shifted. Her voice seemed to overwhelm the very storm itself.
+Рассказчик: Нет, громче самого грома. Как будто её личность внезапно изменилась. Казалось, её голос перекрыл саму бурю.
+
+# Original: ANSWERS, YOU DOGS!!!!! OARSMEN!!!!
+Ишмаэль: ОТВЕЧАЙТЕ, ПСЫ!!!!! ГРЕБЦЫ!!!!
+
+# Original: Huh?! A-aye!
+Хитклиф: А?! Е-есть!
+
+# Original: Set route to that pallid thing! FULL SPEED AHEAD!!!! ROW!
+Ишмаэль: Проложить курс к этой бледной твари! ПОЛНЫЙ ВПЕРЁД!!!! ГРЕБИТЕ!
+
+# Original: ... Full speed ahead! Row!
+Отис: ... Полный вперёд! Гребите!
+
+# Original: Even Outis was swept up in this sudden turn of events, repeating after Ishmael's bellowing commands.
+Рассказчик: Даже Отис была захвачена этим внезапным поворотом событий, повторяя за громогласными командами Ишмаэль.
+
+# Original: Is this what Ishmael was like when she sailed the Lakes? Or...
+Рассказчик: Такой ли была Ишмаэль, когда плавала по Озёрам? Или...
+
+# Original: Ha... HA HA...!
+Ишмаэль: Ха... ХА-ХА...!
+
+# Original: ... Or is this the Captain?
+Рассказчик: ... Или это Капитан?
+
+# Original: I see light. ... It's the Indigo Elder.
+Фауст: Я вижу свет. ... Это Старик Индиго.
+
+# Original: The old man and his skiff was sliding across the waters toward the Whale.
+Рассказчик: Старик и его лодка скользили по водам в сторону Кита.
+
+# Original: Listen well!
+Старик Индиго: Слушайте внимательно!
+
+# Original: The rest of the awakened Whales have gone after the bait I've laid for them!
+Старик Индиго: Остальные пробудившиеся Киты последовали за приманкой, которую я для них приготовил!
+
+# Original: Then the plan worked! Now... Ah...!
+Отис: Значит, план сработал! Теперь... Ах...!
+
+# Original: It wasn't clear whether it was the thunder or the old man's bellow that awakened the Pallid Whale. Its eyelids began to lift.
+Рассказчик: Было неясно, гром ли или крик старика разбудил Бледного Кита. Его веки начали подниматься.
+
+# Original: ... It's been so long since I've witnessed anything like this up close.
+Отис: ... Прошло так много времени с тех пор, как я видела что-то подобное вблизи.
+
+# Original: It was an eye of astronomical proportions, so immense that it no longer resembled an eye—but a reflective mirror of the world.
+Рассказчик: Это был глаз астрономических пропорций, настолько огромный, что уже не напоминал глаз — а скорее зеркальное отражение мира.
+
+# Original: Oh, how I wished to see you eye-to-eye.
+Старик Индиго: О, как я желал увидеть тебя лицом к лицу.
+
+# Original: The old man, harpoon in hand, draws closer to the whale with a grim, stony expression. Ishmael also aims her harpoon at the great Whale, her face nearly tearing with uncontainable joy. Some sinners tremble with fear, while others prepare themselves.
+Рассказчик: Старик, с гарпуном в руке, приближается к киту с мрачным, каменным выражением лица. Ишмаэль также нацеливает свой гарпун на великого Кита, её лицо почти разрывается от неудержимой радости. Некоторые грешники дрожат от страха, в то время как другие готовятся.
+
+# Original: All of it, the world... contained in a single reflective eye that stretched even beyond our peripheral visions.
+Рассказчик: Всё это, весь мир... заключён в одном отражающем глазу, который простирался даже за пределы нашего периферического зрения.
+
+# Original: ... Now here's your bait, fish. Bite on it.
+Старик Индиго: ... Вот твоя приманка, рыба. Кусай её.
+
+# Original: I know you have no other choice. Biting, devouring's all you've ever known.
+Старик Индиго: Я знаю, у тебя нет другого выбора. Кусать, пожирать — это всё, что ты когда-либо знал.
+
+# Original: OARSMEN!!!!! SPLIT THE SEA WITH YOUR OARS!!!!!
+Ишмаэль: ГРЕБЦЫ!!!!! РАССЕКИТЕ МОРЕ СВОИМИ ВЁСЛАМИ!!!!!
+
+# Original: I respect you, Pallid Whale. I respect that you have lived years in numbers that I cannot even begin to imagine. I respect that you hail from a place beyond my ken.
+Старик Индиго: Я уважаю тебя, Бледный Кит. Я уважаю то, что ты прожил годы в количествах, которые я даже не могу себе представить. Я уважаю то, что ты родом из места за пределами моего понимания.
+
+# Original: But...
+Старик Индиго: Но...
+
+# Original: I will take this chance to stand before you, to challenge you. And with this challenge, to the edge of understanding I will row.
+Старик Индиго: Я воспользуюсь этим шансом, чтобы встать перед тобой, бросить тебе вызов. И с этим вызовом я дойду до края понимания.
+
+# Original: The giant harpoon soars across the black sky like a bolt of levin and strikes the Pallid Whale.
+Рассказчик: Гигантский гарпун пронзает чёрное небо, как молния, и поражает Бледного Кита.
+
+# Original: Now is our chance! Row on, row on!
+Отис: Сейчас наш шанс! Гребите, гребите!
+
+# Original: Ishmael rose tall and alone, looking straight out beyond the speeding boat's swaying bow, harpoon in her hand.
+Рассказчик: Ишмаэль поднялась высоко и в одиночку, глядя прямо за качающийся нос быстро движущейся лодки, с гарпуном в руке.
+
+# Original: I've been thinking... ever since then... about what feelings you might dig up from my heart if I saw you again.
+Ишмаэль: Я думала... с тех самых пор... о том, какие чувства ты можешь вызвать в моём сердце, если я увижу тебя снова.
+
+# Original: Ha... But this feeling is much more straightforward than I expected.
+Ишмаэль: Ха... Но это чувство гораздо более прямолинейное, чем я ожидала.
+
+# Original: ... Nice meeting you again, you FUCKING WHALE!
+Ишмаэль: ... Приятно снова встретиться, ты, ГРЁБАНЫЙ КИТ!
+
+# Original: …! ……!
+Бледный Кит: …! ……!
+
+# Original: Compared to the old man's harpoon, the harpoon Ishmael hurled was like a needle.
+Рассказчик: По сравнению с гарпуном старика, гарпун, который метнула Ишмаэль, был как иголка.
+
+# Original: But once struck, as though its body was wracked by an immense, unbearable pain, the Pallid Whale's maw opened—and the air itself began to vibrate.
+Рассказчик: Но как только он попал в цель, словно тело Кита пронзила невыносимая боль, пасть Бледного Кита открылась — и сам воздух начал вибрировать.
+
+# Original: Its maw opens!
+Отис: Его пасть открывается!
+
+# Original: ......
+Старик Индиго: ......
+
+# Original: Go. I will now fish this beast.
+Старик Индиго: Идите. Теперь я буду ловить этого зверя.
+
+# Original: Every Sinner heard the old man's voice.
+Рассказчик: Каждый Грешник услышал голос старика.
+
+# Original: Every Sinner begins rowing with all their might.
+Рассказчик: Каждый Грешник начинает грести изо всех сил.
+
+# Original: In desperation. As though death itself was in our pursuit.
+Рассказчик: В отчаянии. Словно сама смерть преследует нас.
+
+# Original: As though it was our fate, our destiny to row.
+Рассказчик: Словно это наша судьба, наше предназначение — грести.
+
+# Original: We were sucked into an endless abyss...
+Рассказчик: Нас засосало в бесконечную бездну...
+
+# Original: ... and a rapid vortex pulled us into the maws of the beast, tenebrous as a well under a moonless sky.
+Рассказчик: ... и быстрый водоворот втянул нас в пасть зверя, тёмную, как колодец в безлунную ночь.
+
+# Original: <…!>
+Данте: <…!>
+
+# Original: There was a deep noise.
+Рассказчик: Раздался глубокий звук.
+
+# Original: And like a droplet in sea, we melted into the fathomless dark.
+Рассказчик: И как капля в море, мы растворились в бездонной тьме.
+
+# Original: Acknowledge. Acknowledge. How goes the plan?
+Вергилий: Ответьте. Ответьте. Как идёт план?
+
+# Original: Acknowledge. Hey!
+Вергилий: Ответьте. Эй!
+
+# Original: ... Looks like the radio's broken for good.
+Вергилий: ... Похоже, радио окончательно сломалось.
+
+# Original: Mhm. Worrying.
+Харон: Мхм. Тревожно.

@@ -1,0 +1,170 @@
+# Original: E. Y.
+Рёшу: Э. Й.
+
+# Original: ...Did you call?
+И Сан: ...Ты звала?
+
+# Original: That man who keeps clinging to us claiming to be your friend. What's the relationship?
+Рёшу: Тот мужчина, который продолжает цепляться за нас, утверждая, что он твой друг. Какие между вами отношения?
+
+# Original: As can be seen, the tie has long been severed.
+И Сан: Как видно, связь давно оборвана.
+
+# Original: I don't like butting in, and I hate speaking for long even more...
+Рёшу: Я не люблю вмешиваться, и ещё больше не люблю долго говорить...
+
+# Original: But I'm telling you this since the smile of that ignorance-feigning scoundrel Dongrang is detestable.
+Рёшу: Но я говорю тебе это, потому что улыбка этого притворяющегося невеждой мерзавца Донрана отвратительна.
+
+# Original: That one desk, one that was even more disgusting than the others because it was clean and empty.
+Рёшу: Тот один стол, который был ещё более омерзительным, чем другие, потому что был чистым и пустым.
+
+# Original: The nametag below it had your name.
+Рёшу: Табличка под ним была с твоим именем.
+
+# Original: ……
+И Сан: ......
+
+# Original: <He was planning to give Yi Sang that position all along?>
+Данте: <Он с самого начала планировал дать И Сану эту должность?>
+
+# Original: Do you think he's trying to headhunt him? That's supposedly a violation of moral principles between firms or something like that, isn't it?
+Ишмаэль: Думаешь, он пытается его переманить? Это вроде как нарушение моральных принципов между фирмами, разве нет?
+
+# Original: BAFFLED.
+Рёшу: ОЗАДАЧЕНА.
+
+# Original: ...What's that supposed to be an acronym for?
+Ишмаэль: ...Что это должно означать?
+
+# Original: It's not. I'm just baffled.
+Рёшу: Ничего. Я просто озадачена.
+
+# Original: Orange hair, you say you used to work on a ship for a long while? As a Fixer?
+Рёшу: Рыжая, ты говоришь, что долго работала на корабле? Корректировщиком?
+
+# Original: You have serious delusions about Wings and firms. Did you dump your common sense into the great lake as chum?
+Рёшу: У тебя серьёзные заблуждения насчёт Крыльев и фирм. Ты что, выбросила свой здравый смысл в Великое Озеро как приманку?
+
+# Original: Bringing up morality in the world we live in... Pretty amusing for a joke.
+Рёшу: Поднимать вопрос о морали в мире, в котором мы живём... Довольно забавная шутка.
+
+# Original: Headhunting and changing jobs between firms are done based on interests and efficiency.
+Мерсо: Переманивание и смена работы между фирмами осуществляются на основе интересов и эффективности.
+
+# Original: Heh, so you're a hillbilly in your own language, eh. Or should I say boatbilly?
+Хитклиф: Хех, так ты деревенщина на своём языке, да? Или лучше сказать корабельщина?
+
+# Original: Erggh...
+Ишмаэль: Эргх...
+
+# Original: <Even if that was the case... This really is strange.>
+Данте: <Даже если это так... Это действительно странно.>
+
+# Original: <He's not taking Yi Sang's thoughts into account at all...>
+Данте: <Он совсем не учитывает мнение И Сана...>
+
+# Original: Pay it no heed. Thoughts are rather meager things.
+И Сан: Не обращай внимания. Мысли довольно скудные вещи.
+
+# Original: I am quite used to the life of being taxidermied.
+И Сан: Я вполне привык к жизни чучела.
+
+# Original: Are you sure you don't mind? Yi Sang, when you joined the company...
+Синклер: Ты уверен, что тебя это не беспокоит? И Сан, когда ты присоединился к компании...
+
+# Original: No, actually... Didn't all of us receive the same offer?
+Синклер: Нет, вообще-то... Разве не все мы получили одинаковое предложение?
+
+# Original: The job offer.
+Рассказчик: Предложение работы.
+
+# Original: In my case, I was promised I'd get my aspect carved.
+Рассказчик: В моём случае мне обещали, что мой аспект будет вырезан.
+
+# Original: I could barely remember a thing, but as soon as I heard that word, I nodded as if I was possessed.
+Рассказчик: Я едва мог что-то вспомнить, но как только я услышал это слово, я кивнул, словно одержимый.
+
+# Original: They acted like they knew my only choice would be to accept it...
+Рассказчик: Они вели себя так, будто знали, что у меня не будет другого выбора, кроме как принять это...
+
+# Original: If I joined this company...
+Синклер: Если я присоединюсь к этой компании...
+
+# Original: When I do...
+И Сан: Когда я это сделаю...
+
+# Original: The thing I wished for dearly...
+И Сан: То, чего я страстно желал...
+
+# Original: The thing I recited to myself every night...
+Ишмаэль: То, что я повторял себе каждую ночь...
+
+# Original: Yes, the thing I thought would be impossible...
+Отис: Да, то, что я считала невозможным...
+
+# Original: They promised to make it a possibility. Most certainly.
+Фауст: Они обещали сделать это возможным. Вне всяких сомнений.
+
+# Original: ……
+Дон Кихот: ......
+
+# Original: How thoroughly did they look into our backgrounds?
+Грегор: Насколько тщательно они изучили наше прошлое?
+
+# Original: Hah... Guess we had our version of wish-granting tales just like that storybook we read earlier.
+Хитклиф: Ха... Похоже, у нас были свои версии сказок об исполнении желаний, прямо как в той книжке, которую мы недавно читали.
+
+# Original: In truth, even that wish was no more than a futile dream.
+И Сан: По правде говоря, даже то желание было не более чем тщетной мечтой.
+
+# Original: What, you weren't that desperate for it? Why did you join, then?
+Хитклиф: Что, ты не так уж сильно этого хотел? Зачем тогда присоединился?
+
+# Original: Simply...
+И Сан: Просто...
+
+# Original: I walked for so long that my feet hurt. A shower of rain was pouring down as well.
+И Сан: Я так долго шёл, что у меня болели ноги. К тому же лил проливной дождь.
+
+# Original: The bus I saw then appeared rather inviting.
+И Сан: Автобус, который я тогда увидел, показался довольно привлекательным.
+
+# Original: Hah. That can't be it, can it?
+Рёшу: Ха. Не может быть, чтобы это было всё, верно?
+
+# Original: We all...
+Рёшу: Мы все...
+
+# Original: That's enough of it.
+Фауст: Достаточно.
+
+# Original: Our company rules forbid disclosing the contents of the job contract in detail.
+Фауст: Правила нашей компании запрещают разглашать подробности трудового договора.
+
+# Original: Acting all high and mighty when you're in the same boat with the rest. Foul.
+Рёшу: Ведёшь себя высокомерно, когда сама в той же лодке, что и остальные. Отвратительно.
+
+# Original: ……
+Фауст: ......
+
+# Original: Let's proceed.
+Фауст: Давайте продолжим.
+
+# Original: That's when a thought struck me.
+Рассказчик: Именно тогда меня посетила мысль.
+
+# Original: Unlike most other Sinners, Yi Sang wouldn't vocalize his pain.
+Рассказчик: В отличие от большинства других Грешников, И Сан не озвучивал свою боль.
+
+# Original: Because of that, I would often discover his injuries late.
+Рассказчик: Из-за этого я часто обнаруживал его травмы слишком поздно.
+
+# Original: Where has he been holding all that pain?
+Рассказчик: Где он держал всю эту боль?
+
+# Original: I was reminded of the void in his chest I caught a glimpse of.
+Рассказчик: Я вспомнил о пустоте в его груди, которую мельком увидел.
+
+# Original: Was he keeping it in... or was it spilling out?
+Рассказчик: Он держал её внутри... или она выливалась наружу?

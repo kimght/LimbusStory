@@ -1,0 +1,53 @@
+# Original: Ahab's commands led us straight to her singular goal, the heart.
+Рассказчик: Приказы Ахав вели нас прямо к её единственной цели – сердцу.
+
+# Original: <We've all been played by the Captain... From the moment we met her...>
+Данте: <Капитан всех нас обвела вокруг пальца... С самого момента нашей встречи...>
+
+# Original: As the Pequod's Crew...
+Рассказчик: Как команда "Пекода"...
+
+# Original: Sailing for nothing, no one, but Ahab herself.
+Рассказчик: Плывущая ни для чего и ни для кого, кроме самой Ахав.
+
+# Original: Clockhead. You see it too, don't you?
+Хитклиф: Эй, часовая башка. Ты тоже это видишь, не так ли?
+
+# Original: Captain Ahab has the uncanny ability to effortlessly delve deep into one's heart, to fish out their deepest wishes.
+Рассказчик: У капитана Ахав есть удивительная способность без труда проникать в самые глубины чужого сердца, вылавливая самые сокровенные желания.
+
+# Original: Those hidden, yet desperate wishes.
+Рассказчик: Те скрытые, но отчаянные желания.
+
+# Original: Everyone bites onto that bait. Getting dragged deeper and deeper into the abyss.
+Рассказчик: Все клюют на эту наживку. Погружаясь всё глубже и глубже в бездну.
+
+# Original: Bite the bait and sink with the Captain, snared by those sweet words and the tantalizing hope that she dangles right in front of you. Not even knowing that you're slowly suffocating.
+Хитклиф: Клюнешь на наживку и пойдёшь ко дну вместе с Капитаном, попавшись на её сладкие речи и манящую надежду, которую она болтает прямо перед твоим носом. Даже не осознавая, что медленно задыхаешься.
+
+# Original: It's your job, clockhead. Fish her back up. The lass is sinking.
+Хитклиф: Это твоя работа, часовая башка. Вытащи её обратно. Девчонка тонет.
+
+# Original: Broke it. Captain's orders.
+Квиквег: Нарушила. Приказы капитана.
+
+# Original: Broke Captain's orders. Can't see sunset again.
+Квиквег: Нарушила приказы Капитана. Не могу больше видеть закат.
+
+# Original: No, you can. You'll see the sunset again. As long as you sail your own path...
+Ишмаэль: Нет, можешь. Ты снова увидишь закат. Пока ты плывёшь своим собственным путём...
+
+# Original: Because we'll get to the heart. No matter what.
+Ишмаэль: Потому что мы доберёмся до сердца. Несмотря ни на что.
+
+# Original: Ah...!
+Ишмаэль: Ах...!
+
+# Original: Can you hear that? The distant beating of the heart.
+Ишмаэль: Ты слышишь это? Далёкое биение сердца.
+
+# Original: The heart, beating...
+Квиквег: Сердце, бьётся...
+
+# Original: <It'll take us some time... But let's pay close attention to the heartbeat and feel our way there.>
+Данте: <Это займёт некоторое время... Но давайте внимательно прислушаемся к биению сердца и почувствуем путь к нему.>

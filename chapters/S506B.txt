@@ -1,0 +1,188 @@
+# Original: The location, as marked by the pirate's blood, led us to...
+Рассказчик: Место, отмеченное кровью пирата, привело нас к...
+
+# Original: ... The entrance of a club. Faint music could be heard echoing out from behind the doors.
+Рассказчик: ... входу в клуб. Из-за дверей доносилась приглушенная музыка.
+
+# Original: <So... this is the place?>
+Данте: <Итак... это и есть то самое место?>
+
+# Original: ... Any of us been to a loud, flamboyant, deluxe dance club like this before?
+Родион: ... Кто-нибудь из нас бывал раньше в таком шумном, вычурном, роскошном танцевальном клубе?
+
+# Original: Well, if I had to guess... My bet would be on you.
+Грегор: Ну, если бы мне пришлось угадывать... Я бы поставил на тебя.
+
+# Original: Oh, come on~ A flashy bar like this? At my Backstreets?
+Родион: Да ладно тебе~ Такой шикарный бар? В моих Подворотнях?
+
+# Original: I doubt it would've had much business back there, hmm?
+Родион: Сомневаюсь, что у него там было бы много клиентов, хм?
+
+# Original: People would sometimes host secret Backstreets parties, but Sonya somehow always caught on~
+Родион: Люди иногда устраивали тайные вечеринки в Подворотнях, но Соня каким-то образом всегда об этом узнавал~
+
+# Original: <So, why are we talking about this?>
+Данте: <Так почему мы об этом говорим?>
+
+# Original: Don't you see, Dante? Bouncers, at the gate.
+Родион: Разве ты не видишь, Данте? Вышибалы у входа.
+
+# Original: Welcome; how many do you have with you today?
+Вышибала: Добро пожаловать; сколько вас сегодня?
+
+# Original: Two. Come on, man. Don'tcha remember me? I'm on the list.
+Гость: Двое. Да ладно, чувак. Ты что, меня не помнишь? Я в списке.
+
+# Original: Ah... my apologies. Please, enter. 
+Вышибала: Ах... прошу прощения. Пожалуйста, проходите.
+
+# Original: Look, look! They're checking something with the guests before letting them in. We gotta squeeze in there all smooth somehow...
+Родион: Смотри, смотри! Они что-то проверяют у гостей, прежде чем впустить их. Нам нужно как-то гладко туда протиснуться...
+
+# Original: Welp, since Rodya's out... Next in the line is...
+Грегор: Ну, раз Родя отпадает... Следующий в очереди...
+
+# Original: Huh? What, me?
+Хитклиф: А? Что, я?
+
+# Original: The hell are you blathering about? I'll smash your skull in!
+Хитклиф: Какого черта ты несешь? Я тебе череп проломлю!
+
+# Original: Mm~ I'd take that as a compliment if I were you, Heath~
+Родион: Мм~ Я бы на твоем месте восприняла это как комплимент, Хит~
+
+# Original: Ahem... S-should I?
+Хитклиф: Кхм... М-может быть?
+
+# Original: Khm. Sorry to disappoint, but my Syndicate was less about music and dance and more about... blood, loyalty, things like that.
+Хитклиф: Кхм. Извини, что разочарую, но в моем Синдикате было меньше музыки и танцев и больше... крови, верности, вот таких вещей.
+
+# Original: I'm more of a small watering hole or an old pub bloke than a fancy clubber. Gettin' sloshed, drinkin' from old rickety tables... Yeah, that's more like it.
+Хитклиф: Я скорее парень из маленького бара или старого паба, чем модный клаббер. Надраться, пить за старыми шаткими столами... Да, вот это больше по мне.
+
+# Original: Me.
+Рёшу: Я.
+
+# Original: Music: Screams of fear and pain. Deluxe: Walls painted red with blood. Dance: People with crushed joints, forced to dance...
+Рёшу: Музыка: крики страха и боли. Роскошь: стены, окрашенные кровью. Танцы: люди с переломанными суставами, вынужденные танцевать...
+
+# Original: Yeah, that's... not a club.
+Грегор: Да, это... не клуб.
+
+# Original: Well, I can't think of anyone else, then...
+Грегор: Ну, тогда я больше никого не могу представить...
+
+# Original: I have been to such a club.
+Мерсо: Я бывал в таком клубе.
+
+# Original: Quite often.
+Мерсо: Довольно часто.
+
+# Original: <......>
+Данте: <......>
+
+# Original: ... Y-you're joking.
+Грегор: ... Т-ты шутишь.
+
+# Original: I am not. I fail to see why that is difficult for you to accept.
+Мерсо: Нет. Я не понимаю, почему вам трудно это принять.
+
+# Original: It was merely one of the places I visited when I used to wander in search of life's joys.
+Мерсо: Это было всего лишь одно из мест, которые я посещал, когда бродил в поисках радостей жизни.
+
+# Original: A cursory observation of their procedures reveals that it is, in fact, a private club. As a general rule, visitors must receive the bouncers' permission prior to entry.
+Мерсо: Беглое наблюдение за их процедурами показывает, что это действительно частный клуб. Как правило, посетители должны получить разрешение вышибал перед входом.
+
+# Original: Most bouncers are of above-average mass and are likely to be armed.
+Мерсо: Большинство вышибал имеют массу выше среднего и, вероятно, вооружены.
+
+# Original: Key elements to getting past the bouncers are...
+Мерсо: Ключевые элементы для прохождения мимо вышибал...
+
+# Original: You'd be right... if this was just any other club.
+Ишмаэль: Ты был бы прав... если бы это был обычный клуб.
+
+# Original: Ishy...?
+Родион: Иши...?
+
+# Original: Ishmael walked past us and up to the club entrance.
+Рассказчик: Ишмаэль прошла мимо нас к входу в клуб.
+
+# Original: This is a home to a leader of a Syndicate. The question you should be asking is... what are the *other* ways of entering this establishment?
+Ишмаэль: Это дом лидера Синдиката. Вопрос, который вы должны задать... какие еще есть способы попасть в это заведение?
+
+# Original: And I'm sure the answer lies with a Syndicate member.
+Ишмаэль: И я уверена, что ответ кроется в члене Синдиката.
+
+# Original: Easy enough, right?
+Ишмаэль: Достаточно просто, верно?
+
+# Original: What brings you here, if I may ask?
+Вышибала: Что привело вас сюда, если позволите спросить?
+
+# Original: I...
+Ишмаэль: Я...
+
+# Original: ...?
+Вышибала: ...?
+
+# Original: I'm... Queequeg's... friend.
+Ишмаэль: Я... друг... Квиквега.
+
+# Original: You're... whose friend?
+Вышибала: Вы... чей друг?
+
+# Original: Queequeg.
+Ишмаэль: Квиквега.
+
+# Original: You recognized that name, didn't you?
+Ишмаэль: Вы узнали это имя, не так ли?
+
+# Original: At the mere mention of that name, the bouncer's expression changed from that of indifference to disbelief.
+Рассказчик: При одном упоминании этого имени выражение лица вышибалы изменилось с безразличного на недоверчивое.
+
+# Original: Wait...
+Вышибала: Погодите...
+
+# Original: $@$#@$@#….
+Вышибала: $@$#@$@#….
+
+# Original: The bouncer whispers something into the radio.
+Рассказчик: Вышибала что-то шепчет в рацию.
+
+# Original: <Is he really going to let us in?>
+Данте: <Он действительно собирается нас впустить?>
+
+# Original: Are you truly a friend of this Queequeg?
+Вышибала: Вы действительно друг этого Квиквега?
+
+# Original: ... What if I am?
+Ишмаэль: ... А что, если да?
+
+# Original: Where is Queequeg?
+Вышибала: Где Квиквег?
+
+# Original: …….
+Ишмаэль: …….
+
+# Original: It's the Boss askin'.
+Вышибала: Это Босс спрашивает.
+
+# Original: Right... so your Boss is in the club, huh.
+Ишмаэль: Ясно... значит, ваш Босс в клубе, да?
+
+# Original: I ask again. Where is Queeq...
+Вышибала: Я спрашиваю еще раз. Где Квик...
+
+# Original: The Twinhooks are on our way. I repeat. We are...
+Рассказчик: Близнецы с крюками на подходе. Повторяю. Мы...
+
+# Original: <I thought we were trying to sneak in?!>
+Данте: <Я думал, мы пытаемся проникнуть незаметно?!>
+
+# Original: No.
+Ишмаэль: Нет.
+
+# Original: I just wanted to know if their Boss was home. We should be able to get all the intel we want from them.
+Ишмаэль: Я просто хотела узнать, дома ли их Босс. Мы должны получить всю нужную информацию от них.

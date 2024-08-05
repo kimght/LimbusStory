@@ -1,0 +1,302 @@
+# Original: As we approached the center of the Golden Bough's resonance, I noticed scattering piles of yellow.
+Рассказчик: Когда мы приближались к центру резонанса Золотой Ветви, я заметил рассыпанные повсюду желтые кучки.
+
+# Original: With the twisting space, petals were wavering.
+Рассказчик: В искривленном пространстве колыхались лепестки.
+
+# Original: So the fathoms of Yi Sang's ego are over there...
+Синклер: Значит, там находятся фатомы эго И Сана...
+
+# Original: <Come on, let's get in.>
+Данте: <Давайте, пойдем внутрь.>
+
+# Original: ……
+И Сан: ......
+
+# Original: Wow, I sure didn't expect I'd be back here. Is this thanks to the Golden Bough? Or is it you, Yi Sang?
+Донран: Ого, я и не ожидал, что снова окажусь здесь. Это благодаря Золотой Ветви? Или это ты, И Сан?
+
+# Original: When we got there, Dongrang greeted us merrily.
+Рассказчик: Когда мы прибыли, Донран весело нас поприветствовал.
+
+# Original: How cozy... What place was this, Yi Sang?
+Родион: Как уютно... Что это за место, И Сан?
+
+# Original: The only place where I may breathe... That's what this was.
+И Сан: Единственное место, где я могу дышать... Вот чем оно было.
+
+# Original: <...There are stacks of paper on the desk.>
+Данте: <...На столе лежат стопки бумаг.>
+
+# Original: Aha... Yes, you see, usually...
+Родион: Ага... Да, видишь ли, обычно...
+
+# Original: These are placed for visitors like us to read.
+Родион: Их кладут для таких посетителей, как мы, чтобы мы могли прочитать.
+
+# Original: ……
+И Сан: ......
+
+# Original: Yi Sang quietly picks up a stack. I couldn't begin to imagine what thoughts his face may have suggested as he silently read the letters on them.
+Рассказчик: И Сан тихо берет стопку. Я не мог даже представить, о чем он думал, когда молча читал написанные на них буквы.
+
+# Original: A letter, I had written once... And its structure... follows that of a play's script.
+И Сан: Письмо, которое я однажды написал... И его структура... следует формату театрального сценария.
+
+# Original: It's then reasonable to assume that each actor in the play was provided with one.
+Мерсо: Тогда разумно предположить, что каждому актеру в пьесе был предоставлен один экземпляр.
+
+# Original: If so... This may well have been a stage awaiting our arrival, rather than a simple emptiness.
+И Сан: Если это так... Возможно, это была сцена, ожидающая нашего прибытия, а не просто пустота.
+
+# Original: From the looks of it... We'll have to read out this script, right?
+Донран: Судя по всему... Нам придется читать этот сценарий вслух, верно?
+
+# Original: Maybe Dongbaek might just come, Yi Sang.
+Донран: Может быть, Донгбек тоже придет, И Сан.
+
+# Original: If Dongbaek got to this... space before she died... Haha, I'm not sure what I should call this.
+Донран: Если Донгбек попала в это... пространство до своей смерти... Хаха, я не уверен, как это назвать.
+
+# Original: Anyway, if the entrance opened while she was alive... Her consciousness might have been wrapped up in this, as ours were.
+Донран: В любом случае, если вход открылся, пока она была жива... Ее сознание могло быть завернуто в это, как и наше.
+
+# Original: ...For what reason did you stab Dongbaek?
+И Сан: ...По какой причине ты заколол Донгбек?
+
+# Original: She hesitated a little too much... What, did you want this kind of eulogy from me?
+Донран: Она слишком долго колебалась... Что, ты хотел от меня такого рода эпитафию?
+
+# Original: ...The reason, I'll hear it.
+И Сан: ...Причину, я хочу ее услышать.
+
+# Original: No, it's really... You knew as well, Yi Sang. In that state, Dongbaek's death was imminent... Her life would've painfully scattered away if I let her be.
+Донран: Нет, на самом деле... Ты и сам знал, И Сан. В том состоянии смерть Донгбек была неизбежна... Ее жизнь болезненно рассеялась бы, если бы я ее оставил.
+
+# Original: That's why you can't lash out at me, despite the anger boiling inside you. It wouldn't have made much of a difference.
+Донран: Вот почему ты не можешь набрасываться на меня, несмотря на кипящий внутри гнев. Это не сильно бы изменило ситуацию.
+
+# Original: This time, the fathoms of ego... might present themselves differently from the previous ones.
+Фауст: На этот раз фатомы эго... могут проявить себя иначе, чем предыдущие.
+
+# Original: The fathoms of ego are places or images of someone's mind made manifest.
+Фауст: Фатомы эго - это места или образы чьего-то разума, ставшие явью.
+
+# Original: It releases a powerful and complex energy... It might draw in people other than the Sinners, like those deeply related to Yi Sang in this case.
+Фауст: Они выделяют мощную и сложную энергию... Это может привлечь людей помимо Грешников, например, тех, кто тесно связан с И Саном в данном случае.
+
+# Original: ...That so? To put it bluntly... It dragged in a bunch of clowns to act on stage, is that right?
+Хитклиф: ...Да неужели? Проще говоря... Оно притащило сюда кучу клоунов, чтобы они играли на сцене, так что ли?
+
+# Original: Although this is merely a guess... Yes, I suppose that's about right. We'll have to do our best with our given roles.
+Фауст: Хотя это всего лишь предположение... Да, пожалуй, это примерно так. Нам придется постараться с нашими данными ролями.
+
+# Original: ...And if we don't?
+Рёшу: ...А если нет?
+
+# Original: The image displayed by the fathoms of ego will go awry... ultimately preventing our access to the Golden Bough. We must reenact the original's—in other words, Yi Sang's—actual memories as closely as possible.
+Фауст: Образ, отображаемый фатомами эго, пойдет наперекосяк... в конечном итоге препятствуя нашему доступу к Золотой Ветви. Мы должны как можно точнее воссоздать оригинальные — другими словами, реальные воспоминания И Сана.
+
+# Original: Alright, I got that clear enough. So...
+Хитклиф: Ладно, это я понял достаточно ясно. Так что...
+
+# Original: What the-?! I almost jumped out of my skin!
+Хитклиф: Какого черта?! Я чуть не выпрыгнул из кожи!
+
+# Original: I had people who accompanied me, either by caprice, coincidence... or fate.
+И Сан: У меня были люди, которые сопровождали меня, либо по прихоти, совпадению... или судьбе.
+
+# Original: What a fascinating line.
+Донран: Какая интересная реплика.
+
+# Original: ...Why did you stand in front of the door like a dork?
+Донгбек: ...Почему ты стоял перед дверью как дурак?
+
+# Original: ...What did you call me? Wait... Aren't you the one that just...
+Хитклиф: ...Как ты меня назвала? Подожди... Разве ты не та, которая только что...
+
+# Original: What are you staring at my face for, like you were looking at a dead person? Why, do I look cool?
+Донгбек: Что ты уставился на мое лицо, словно смотришь на мертвеца? Что, я выгляжу круто?
+
+# Original: S-She's right, Gap-ryong, don't act like such a country bumpkin. Do you want your mannerisms to match your name?
+Синклер: С-Она права, Гап-рён, не веди себя как деревенщина. Хочешь, чтобы твои манеры соответствовали твоему имени?
+
+# Original: ...? The hell are you saying now... What is it?
+Хитклиф: ...? Какого черта ты несешь... Что такое?
+
+# Original: (Eep, I'm just reading from the script, Mr. Heathcliff. The script...! That's just what mine says.)
+Синклер: (Ох, я просто читаю по сценарию, мистер Хитклиф. Сценарий...! Так написано в моем.)
+
+# Original: What are you whispering like that?
+Донгбек: О чем вы там шепчетесь?
+
+# Original: You know, Dongbaek. Gap-ryong was thinking back to how we all managed to gather here at T Corp.
+Донран: Знаешь, Донгбек. Гап-рён вспоминал, как мы все оказались здесь в Т Корп.
+
+# Original: That really bugs me... Oi, don't call me by that name.
+Хитклиф: Меня это реально бесит... Эй, не называй меня этим именем.
+
+# Original: Good acting. The real Gap-ryong always used to ask us not to call him by his name, too.
+Донран: Хорошая игра. Настоящий Гап-рён тоже всегда просил нас не называть его по имени.
+
+# Original: ……
+Отис: ......
+
+# Original: It is now your turn to speak, Sang-heo.
+И Сан: Теперь твоя очередь говорить, Сан-хо.
+
+# Original: Ahem.
+Отис: Кхм.
+
+# Original: Ah... So...
+Отис: Ах... Итак...
+
+# Original: As one might know, our hometown, S Corp's district, was going through a turbulent time, many things breaking and changing.
+Отис: Как известно, наш родной район, район S Корп, переживал бурное время, многое ломалось и менялось.
+
+# Original: Because of daydreaming higher-ups who tell sweet-sounding words with no substance and corrupt officials squeezing the people, the public's lives and economy teetered and twisted more and more each day...
+Отис: Из-за мечтательных начальников, которые говорят красивые слова без содержания, и коррумпированных чиновников, выжимающих людей, жизнь и экономика общества с каждым днем все больше шатались и искривлялись...
+
+# Original: With no guarantees of arrangements between Wings or positions to apply for, researchers like us who pursued the studies of knowledge struggle to find even a simple bolt to help ourselves.
+Отис: Без гарантий договоренностей между Крыльями или должностей, на которые можно подать заявку, исследователям вроде нас, занимающимся изучением знаний, трудно найти даже простой болт, чтобы помочь себе.
+
+# Original: That was when Brother Young-ji brought us together.
+Отис: Именно тогда Брат Ён-джи собрал нас вместе.
+
+# Original: Ah... I was the one who called Yi Sang and Dongbaek. We grew up in the same town.
+Донран: Ах... Это я позвал И Сана и Донгбек. Мы выросли в одном городе.
+
+# Original: ...Right, Brother Young-ji and Dongrang brought us together.
+Отис: ...Верно, Брат Ён-джи и Донран собрали нас вместе.
+
+# Original: There, I suggested:
+Хон Лу: Там я предложил:
+
+# Original: The Wing called T Corp. is seeing remarkable technological growth nowadays, generously backing inventions of machines and technology.
+Хон Лу: Крыло под названием Т Корп в последнее время демонстрирует замечательный технологический рост, щедро поддерживая изобретения машин и технологий.
+
+# Original: So it should be no problem at all to get any part we need; there, all the people invent for a living.
+Хон Лу: Так что не должно быть никаких проблем с получением любой нужной нам детали; там все люди живут изобретениями.
+
+# Original: So, the like-minded ones defected to the district empty-handed, risking everything.
+Хон Лу: Итак, единомышленники перебежали в район с пустыми руками, рискуя всем.
+
+# Original: As everyone wished... We were free to continue our research here.
+Мерсо: Как все и хотели... Мы были свободны продолжать наши исследования здесь.
+
+# Original: Even though we had to yield the colors in them, making it so they didn't outwardly shine.
+Мерсо: Хотя нам пришлось уступить цвета в них, сделав так, чтобы они не сияли снаружи.
+
+# Original: As Meursault, or the League of Nine Littérateurs member he played, pointed out... I couldn't see any color in this place.
+Рассказчик: Как отметил Мерсо, или член Лиги девяти литераторов, которого он играл... Я не мог видеть никаких цветов в этом месте.
+
+# Original: Even the flower just outside the window was devoid of color, waving like a turbid blur.
+Рассказчик: Даже цветок за окном был лишен цвета, колыхаясь как мутное пятно.
+
+# Original: In T Corp's district, having colors is a kind of privilege.
+Фауст: В районе Т Корп иметь цвета - это своего рода привилегия.
+
+# Original: They take away colors?
+Синклер: Они забирают цвета?
+
+# Original: Colors establish identity. There are few better ways to rob one of uniqueness than this. Isn't that right?
+Ишмаэль: Цвета устанавливают идентичность. Мало есть лучших способов лишить кого-то уникальности, чем это. Не так ли?
+
+# Original: For sure.
+Фауст: Безусловно.
+
+# Original: ...And colors are some of the few little things the poor could normally have.
+Хитклиф: ...А цвета - одна из немногих мелочей, которые обычно могли иметь бедные.
+
+# Original: ……
+Синклер: ......
+
+# Original: Hey, Aneung, are you gonna keep chatting away?
+Донгбек: Эй, Анын, ты собираешься продолжать болтать?
+
+# Original: The conference is today. Watch, I've made a vibrant amusement.
+Донгбек: Сегодня конференция. Смотри, я создала яркое развлечение.
+
+# Original: Look. It blows up better than before, doesn't it?
+Донгбек: Смотри. Оно взрывается лучше, чем раньше, не так ли?
+
+# Original: I have to wonder what is up with your obsession with explosives... I mean, fireworks, Dongbaek...
+Ишмаэль: Интересно, что у тебя за одержимость взрывчатыми веществами... То есть, фейерверками, Донгбек...
+
+# Original: Here, you can't see stars in the night sky thanks to blinding lights and smokestacks filling the air. The stars were so pretty in my hometown, it was fun watching them together.
+Донгбек: Здесь не видно звезд в ночном небе из-за ослепляющих огней и дымовых труб, заполняющих воздух. Звезды в моем родном городе были такими красивыми, было весело наблюдать за ними вместе.
+
+# Original: What's more, there's no color here. Where we were, we could at least see the colors of flowers.
+Донгбек: Более того, здесь нет цвета. Там, где мы были, мы могли хотя бы видеть цвета цветов.
+
+# Original: So... I wanted to bring it back in some way.
+Донгбек: Поэтому... Я хотела как-то вернуть это.
+
+# Original: Look. Even if it's all black and white, you can still see it, right?
+Донгбек: Смотри. Даже если все черно-белое, ты все равно можешь это видеть, верно?
+
+# Original: Fire makes such a warm color.
+Донгбек: Огонь создает такой теплый цвет.
+
+# Original: I'm a bit embarrassed. I don't have anything to show off for now.
+Донран: Мне немного стыдно. Мне пока нечем похвастаться.
+
+# Original: Is that really something to admit so merrily?
+Донгбек: Это действительно то, в чем стоит так весело признаваться?
+
+# Original: Haha, treating injured animals on the streets took much of my time.
+Донран: Хаха, лечение раненых животных на улицах занимало много моего времени.
+
+# Original: I couldn't leave them be. They reminded me of the yellow calf I left behind in my hometown.
+Донран: Я не мог оставить их. Они напоминали мне о желтом теленке, которого я оставил в родном городе.
+
+# Original: It used to like you so much. I don't get what it saw in you.
+Донгбек: Он так тебя любил. Не понимаю, что он в тебе нашел.
+
+# Original: It was abandoned by its mother. Seeking warmth to lean on is an instinct all living beings have.
+Донран: Его бросила мать. Искать тепло, к которому можно прильнуть, - это инстинкт всех живых существ.
+
+# Original: Well, by now, I guess it... has offspring?
+Донгбек: Ну, к настоящему времени, наверное... у него уже есть потомство?
+
+# Original: Hm, probably not. That calf was male.
+Донран: Хм, вряд ли. Тот теленок был мужского пола.
+
+# Original: ……
+Донгбек: ......
+
+# Original: Agh... Urrgiahh...
+Возрожденный? Член Альянса Освобождения: Агх... Урргиахх...
+
+# Original: <…!>
+Данте: <…!>
+
+# Original: Oh, bother... Here we go again.
+Донгбек: Ох, опять...
+
+# Original: Gap-ryong, looks like the bar owner is here to take the tab you owe again. Why don't you go outside and greet them?
+Донгбек: Гап-рён, похоже, владелец бара пришел забрать долг, который ты ему должен. Почему бы тебе не выйти и не поприветствовать их?
+
+# Original: What the, those crooks... How'd they get here?
+Хитклиф: Что за, эти мошенники... Как они сюда попали?
+
+# Original: The strong resonance of the Golden Bough with Yi Sang is affecting the entire laboratory building.
+Фауст: Сильный резонанс Золотой Ветви с И Саном влияет на все здание лаборатории.
+
+# Original: They were caught up it in as well, but they have no ties to Yi Sang.
+Фауст: Они тоже попали под его воздействие, но у них нет связи с И Саном.
+
+# Original: Since they weren't given any roles in the play... they'll instead try to ruin the stage. It'll only get worse as the fathoms grow unstable.
+Фауст: Поскольку им не дали никаких ролей в пьесе... они вместо этого попытаются разрушить сцену. Это будет только усугубляться по мере того, как фатомы становятся нестабильными.
+
+# Original: In other words, we have to be quick with moving the play's plot along.
+Ишмаэль: Другими словами, нам нужно поторопиться с продвижением сюжета пьесы.
+
+# Original: The more time we spend fooling around like a certain complete oaf instead of reading what the script says, the more enemies will attack us.
+Ишмаэль: Чем больше времени мы тратим на дурачества, как некоторые полные болваны, вместо того чтобы читать то, что написано в сценарии, тем больше врагов будет на нас нападать.
+
+# Original: Ishmael began to lightly limber up, cracking her joints.
+Рассказчик: Ишмаэль начала слегка разминаться, хрустя суставами.
+
+# Original: So let's focus on the foes on deck for now.
+Ишмаэль: Так что давайте сосредоточимся на врагах, которые сейчас перед нами.

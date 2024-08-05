@@ -1,0 +1,231 @@
+# Original: Though I was certain that I had left.
+И Сан: Хоть я был уверен, что ушёл.
+
+# Original: ...It would appear that I am still inside that white square.
+И Сан: ...Похоже, я всё ещё внутри того белого квадрата.
+
+# Original: At this point, all things have been reduced to mere dots to me, utterly incapable of stimulation or inspiration.
+И Сан: К этому моменту всё для меня превратилось в простые точки, совершенно не способные стимулировать или вдохновлять.
+
+# Original: Will I follow this meaningless walk, wandering my whole life?
+И Сан: Буду ли я следовать этой бессмысленной прогулке, блуждая всю свою жизнь?
+
+# Original: We're only chickens whose wings are clipped perpetually...
+И Сан: Мы всего лишь цыплята, чьи крылья постоянно подрезают...
+
+# Original: Mr. Yi Sang seems to be in a bad spot...
+Синклер: Кажется, господин И Сан в трудном положении...
+
+# Original: Dante.
+Хон Лу: Данте.
+
+# Original: Even though I only delivered Young-ji's words with my tongue... it does give me a thought.
+Хон Лу: Хотя я лишь передал слова Ён-джи своим языком... это заставляет меня задуматься.
+
+# Original: Maybe, these letters that Yi Sang wrote... weren't just meant for the Yi Sang in the mirror alone.
+Хон Лу: Может быть, эти письма, которые написал И Сан... предназначались не только для И Сана в зеркале.
+
+# Original: To all people he had ties with in the past, those he knows in the present, and those he might meet in the future.
+Хон Лу: Всем людям, с которыми он был связан в прошлом, тем, кого он знает в настоящем, и тем, кого он может встретить в будущем.
+
+# Original: <You mean, including us...>
+Данте: <Ты имеешь в виду, включая нас...>
+
+# Original: I'm thinking that he might have been calling for help all along.
+Хон Лу: Я думаю, что он, возможно, всё это время звал на помощь.
+
+# Original: <Yi Sang...>
+Данте: <И Сан...>
+
+# Original: <What was on your mind just before you left N Corp?>
+Данте: <О чём ты думал прямо перед тем, как покинул Н Корп?>
+
+# Original: When I parted with Gubo...
+И Сан: Когда я расстался с Губо...
+
+# Original: The stars lost their shine and let darkness fill the air, and I felt as though I were crippled.
+И Сан: Звёзды потеряли свой блеск и позволили тьме заполнить воздух, и я чувствовал себя как будто калекой.
+
+# Original: Yet...
+И Сан: Однако...
+
+# Original: I thought that there may be a place that would allow me to live on, even if I had no wings and my legs limped.
+И Сан: Я думал, что может быть место, которое позволит мне жить дальше, даже если у меня нет крыльев и мои ноги хромают.
+
+# Original: The thread of hope couldn't be thinner, but I held onto the faint possibility.
+И Сан: Нить надежды не могла быть тоньше, но я держался за эту слабую возможность.
+
+# Original: When we... or at least I saw your mirror, I thought I was seeing what we didn't have.
+Донбек: Когда мы... или, по крайней мере, я увидела твоё зеркало, я думала, что вижу то, чего у нас нет.
+
+# Original: That's why they seemed so far, and that's why I could only look.
+Донбек: Вот почему они казались такими далёкими, и вот почему я могла только смотреть.
+
+# Original: It's why I had to settle for this reality.
+Донбек: Вот почему мне пришлось смириться с этой реальностью.
+
+# Original: Like how I dreamed of stars as I watched fireworks.
+Донбек: Как я мечтала о звёздах, глядя на фейерверки.
+
+# Original: But the mirror...
+Донбек: Но зеркало...
+
+# Original: What it shows are possibilities. So... do you see what I'm getting at? You don't have to envy the mirrored images.
+Донбек: То, что оно показывает - это возможности. Так что... ты понимаешь, к чему я веду? Тебе не нужно завидовать отражённым образам.
+
+# Original: What you saw... were the possibilities you held.
+Донбек: То, что ты видел... были возможности, которые у тебя были.
+
+# Original: You've had them all along.
+Донбек: Они были у тебя всё время.
+
+# Original: The wings to make your possibility a reality.
+Донбек: Крылья, чтобы воплотить твою возможность в реальность.
+
+# Original: ...That's what I wanted to tell you.
+Донбек: ...Вот что я хотела тебе сказать.
+
+# Original: ……
+И Сан: ......
+
+# Original: Yi Sang, the first Sinner. I have been waiting for you.
+Фауст: И Сан, первый Грешник. Я ждала тебя.
+
+# Original: If you join Limbus Company...
+Фауст: Если ты присоединишься к Компании Лимбус...
+
+# Original: I promise that we'll help you recover your torn and broken wings.
+Фауст: Я обещаю, что мы поможем тебе восстановить твои разорванные и сломанные крылья.
+
+# Original: And...
+Фауст: И...
+
+# Original: ……
+И Сан: ......
+
+# Original: Well?
+Сан И: Ну?
+
+# Original: I...
+И Сан: Я...
+
+# Original: I do not possess the talent to pick up shattered pieces.
+И Сан: У меня нет таланта собирать разбитые осколки.
+
+# Original: However, those sparkling eyes... they were not feigned.
+И Сан: Однако эти сверкающие глаза... они не были притворными.
+
+# Original: Our tortuous path will circle around misery.
+Сан И: Наш извилистый путь будет кружить вокруг несчастья.
+
+# Original: What we thought were bonds will inevitably be lost, and precious things will shatter into shards that stab your soft heart.
+Сан И: То, что мы считали узами, неизбежно будет потеряно, а драгоценные вещи разобьются на осколки, которые вонзятся в твоё мягкое сердце.
+
+# Original: ...I am well aware.
+И Сан: ...Я прекрасно это понимаю.
+
+# Original: It is for that reason all things would have no more worth than futile ephemerality.
+И Сан: Именно по этой причине все вещи не будут иметь большей ценности, чем бесполезная эфемерность.
+
+# Original: <Yi Sang, why did you make the mirror?>
+Данте: <И Сан, почему ты создал зеркало?>
+
+# Original: ……
+И Сан: ......
+
+# Original: I...
+И Сан: Я...
+
+# Original: Never made technology to hold any value in them.
+И Сан: Никогда не создавал технологии, чтобы придать им какую-либо ценность.
+
+# Original: I know well enough that I have no way to return to the past.
+И Сан: Я прекрасно знаю, что у меня нет способа вернуться в прошлое.
+
+# Original: Simply...
+И Сан: Просто...
+
+# Original: That mirror you're holding...
+Сан И: Это зеркало, которое ты держишь...
+
+# Original: It's what I call Yeonsim.
+И Сан: Я называю его Ёнсим.
+
+# Original: Yeonsim, huh...
+(硏, to grind or study; 尋, to seek)
+Сан И: Ёнсим, да?
+(硏, шлифовать или изучать; 尋, искать)
+
+# Original: This is a product of grinding something... scraping even the mind to polish it.
+И Сан: Это продукт шлифовки чего-то... соскабливания даже разума, чтобы отполировать его.
+
+# Original: I see. I suppose all versions of Yi Sang were dedicated to research.
+Сан И: Понятно. Полагаю, все версии И Сана были преданы исследованиям.
+
+# Original: I thought that I had lost my wings, that I couldn't have them.
+И Сан: Я думал, что потерял свои крылья, что не могу их иметь.
+
+# Original: I thought I had been clinging to research, pathetically stroking the joints where wings used to be...
+И Сан: Я думал, что цеплялся за исследования, жалко поглаживая суставы, где раньше были крылья...
+
+# Original: But I believe I now know the mirror's true name.
+И Сан: Но я думаю, что теперь знаю истинное имя зеркала.
+
+# Original: Yeonsim.
+(連心, "to connect the heart")
+И Сан: Ёнсим.
+(連心, "соединять сердце")
+
+# Original: It's a bridge that joins hearts together.
+И Сан: Это мост, соединяющий сердца вместе.
+
+# Original: I made the mirror because I wished to continue living and flapping and fluttering.
+И Сан: Я создал зеркало, потому что хотел продолжать жить и махать крыльями, и трепетать.
+
+# Original: I wished to soar into the air once more, even if I fell afterward.
+И Сан: Я хотел снова взлететь в воздух, даже если бы потом упал.
+
+# Original: One day, despair will arrive for certain... It's for that reason... life must go on... as far as it can.
+И Сан: Однажды отчаяние обязательно придёт... Именно поэтому... жизнь должна продолжаться... насколько это возможно.
+
+# Original: Whether or not I had wings... mattered not.
+И Сан: Были ли у меня крылья или нет... не имело значения.
+
+# Original: ……
+Сан И: ......
+
+# Original: All Yi Sangs have outstanding talent. At the same time, all Yi Sangs are ignorant.
+Сан И: У всех И Санов выдающийся талант. В то же время все И Саны невежественны.
+
+# Original: All Yi Sangs can see wings, but only one Yi Sang can fly.
+Сан И: Все И Саны могут видеть крылья, но только один И Сан может летать.
+
+# Original: If such is the case...
+И Сан: Если это так...
+
+# Original: The Yi Sang in the mirror must be the opposite of the Yi Sang outside... but they're quite alike, too.
+Сан И: И Сан в зеркале должен быть противоположностью И Сана снаружи... но они также очень похожи.
+
+# Original: I mean the wings you say you saw... those radiant and magnificent wings.
+Сан И: Я имею в виду крылья, которые ты говоришь, что видел... эти сияющие и великолепные крылья.
+
+# Original: They're my wings, and they're yours in the reflection.
+Сан И: Это мои крылья, и они твои в отражении.
+
+# Original: Why do I think that? ...It's obvious. The mirror is a reflection of the self.
+Сан И: Почему я так думаю? ...Это очевидно. Зеркало - это отражение себя.
+
+# Original: If you saw wings on me, then they were on you as well... They would obviously belong to you.
+Сан И: Если ты видел крылья на мне, значит, они были и на тебе... Они, очевидно, принадлежали бы тебе.
+
+# Original: Now, kick off the ground and flutter your wings.
+Сан И: Теперь оттолкнись от земли и взмахни своими крыльями.
+
+# Original: All I wished for...
+И Сан: Всё, чего я желал...
+
+# Original: Just once more...
+И Сан: Ещё раз...
+
+# Original: I wished to fly.
+И Сан: Я хотел летать.

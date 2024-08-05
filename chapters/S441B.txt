@@ -1,0 +1,80 @@
+# Original: I did my best to ignore the fierce glare at my clock from below.
+Рассказчик: Я изо всех сил старался игнорировать яростный взгляд на мои часы снизу.
+
+# Original: I noticed a group of staff walking this way, carrying an imposing aura, unlike any other K Corp. employee we've met.
+Рассказчик: Я заметил группу сотрудников, идущих в нашу сторону, излучающих внушительную ауру, не похожую на других сотрудников К Корп, которых мы встречали.
+
+# Original: Ah, you must be K Corp. staff. Hey! I saw some researchers that haven't evacuated over there...
+Грегор: А, вы, должно быть, сотрудники К Корп. Эй! Я видел там несколько исследователей, которые еще не эвакуировались...
+
+# Original: ……
+Персонал по удалению класса 3: ……
+
+# Original: They ignored our–or Gregor's, rather–words and proceeded upstairs.
+Рассказчик: Они проигнорировали наши – или, скорее, Грегора – слова и продолжили подниматься по лестнице.
+
+# Original: They aren't here to rescue anyone. Their role is eliminating intruders and keeping classified technologies secure.
+Донран: Они здесь не для того, чтобы кого-то спасать. Их роль – устранение нарушителей и обеспечение безопасности секретных технологий.
+
+# Original: Dongrang interjected like he's always been here. I suppose he's got done with the call.
+Рассказчик: Донран вмешался, словно он всегда был здесь. Полагаю, он закончил разговор.
+
+# Original: Rescuing is left to Class 1 staff.
+Донран: Спасение оставлено персоналу класса 1.
+
+# Original: Gasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!
+Дон Кихот: Ох! Разве класс 1 не является высшим уровнем, которого может достичь сотрудник, точно как Ранг 1 для Корректировщиков?! Воистину, неудивительно, что они самые благородные...!
+
+# Original: Sorry? In this Nest, Class 1 is the lowest level, and higher numbers indicate better ranks...
+Самджо: Простите? В этом Гнезде класс 1 – самый низкий уровень, а более высокие числа означают лучшие ранги...
+
+# Original: Wha, wuh, wah, wha, wai... Whaat?!!!
+Дон Кихот: Что, чт-что, ч-ч-что... Чтооо?!!!
+
+# Original: ...Even still, none can be too lordly or lowly to save lives, so how can the roles be divided?
+Дон Кихот: ...И все же, никто не может быть слишком знатным или низким, чтобы спасать жизни, так как же роли могут быть разделены?
+
+# Original: Haha, bigger is better for numbers and riches alike, isn't that right?
+Донран: Ха-ха, чем больше, тем лучше – и для чисел, и для богатства, не так ли?
+
+# Original: Ah, the conversation dragged on for a bit... But there's nothing to worry about, I've acquired the permission.
+Донран: Ах, разговор немного затянулся... Но не о чем беспокоиться, я получил разрешение.
+
+# Original: <…?>
+Данте: <...?>
+
+# Original: What? Permission? For what?
+Хитклиф: Что? Разрешение? На что?
+
+# Original: Normally, it seems to require a bunch of paperwork as well, but since we're in an emergency, let's skip the procedures that we can. Should be fine, right, Samjo?
+Донран: Обычно, похоже, требуется куча бумажной работы, но поскольку у нас чрезвычайная ситуация, давайте пропустим процедуры, которые можем. Должно быть нормально, верно, Самджо?
+
+# Original: Well... I believe it could be managed with three days and a half of working on the report overtime.
+Самджо: Ну... Я полагаю, это можно уладить тремя с половиной днями сверхурочной работы над отчетом.
+
+# Original: And strictly speaking, the problem already began when you brought them to your lab without any report.
+Самджо: И, строго говоря, проблема уже началась, когда вы привели их в свою лабораторию без какого-либо отчета.
+
+# Original: Just tell us what that permission is about first!
+Хитклиф: Да скажи ты нам сначала, что это за разрешение!
+
+# Original: It would seem that Dongbaek has headed that way.
+Донран: Похоже, Донгбек направилась туда.
+
+# Original: The screening room.
+Донран: В комнату проверки.
+
+# Original: The security procedures for entering that place can be... extremely convoluted.
+Донран: Процедуры безопасности для входа в это место могут быть... крайне запутанными.
+
+# Original: Screening room? The name doesn't give a very clear idea of what it's about~
+Родион: Комната проверки? Название не дает очень ясного представления о том, что это такое~
+
+# Original: Wonder why the security is so tight about it~
+Хон Лу: Интересно, почему безопасность так строга в отношении неё~
+
+# Original: It's at the very top of the building.
+Донран: Она находится на самом верху здания.
+
+# Original: There are two ways to make something inaccessible: put it underground, or at the highest point.
+Донран: Есть два способа сделать что-то недоступным: поместить под землю или на самую высокую точку.

@@ -1,0 +1,149 @@
+# Original: <I still don't see anyone on the deck...>
+Данте: <Я всё ещё никого не вижу на палубе...>
+
+# Original: Wait but a moment. I shall make use of mine lungs to howl a bellow so powerful that they have no recourse but to heed us!
+Дон Кихот: Погодите же мгновение. Я воспользуюсь своими лёгкими, дабы издать рёв столь мощный, что им не останется иного выбора, кроме как внять нам!
+
+# Original: HAAARK!!!!!
+Дон Кихот: ЭГЕЕЕЙ!!!!!
+
+# Original: Shut it! You'll burst my eardrums.
+Хитклиф: Заткнись! Ты мне барабанные перепонки порвёшь.
+
+# Original: By the way... is it okay for us to just barge into a... yacht party like this?
+Грегор: Кстати... нормально ли это — вот так врываться на... вечеринку на яхте?
+
+# Original: We don't have the, uh... an invitation or anything like it, either.
+Грегор: У нас же нет, эм... приглашения или чего-то подобного.
+
+# Original: Puff out your chest, Greg~ The more the merrier, right? They'll understand~
+Родион: Расправь плечи, Грег~ Чем больше народу, тем веселее, верно? Они поймут~
+
+# Original: I couldn't care less about a party. We're here to gather intel. Waste any more time, and I'm leaving you behind.
+Ишмаэль: Мне плевать на вечеринку. Мы здесь, чтобы собрать информацию. Потратите ещё время — я вас здесь оставлю.
+
+# Original: Wow... This... this place really is fancy...!
+Синклер: Вау... Это... это место действительно шикарное...!
+
+# Original: Numerous liquor bottles and half-eaten food were strewn about haphazardly all over the deck.
+Рассказчик: По всей палубе были беспорядочно разбросаны многочисленные бутылки с алкоголем и недоеденная еда.
+
+# Original: It appears that this party must have ended very recently and abruptly.
+Мерсо: Похоже, эта вечеринка должна была закончиться совсем недавно и внезапно.
+
+# Original: Ah! I spy light shining from the ship's interiors! I shall go swiftly like the wind and verify its sources!!!
+Дон Кихот: Ах! Я зрю свет, льющийся из недр корабля! Я помчусь быстрее ветра и установлю его источник!!!
+
+# Original: Don Quixote, running on sheer excitement for a party, scuttled to the cabins.
+Рассказчик: Дон Кихот, движимая чистым возбуждением от предвкушения вечеринки, поспешила к каютам.
+
+# Original: Well, that's one loudmouth gone... Then...!
+Хитклиф: Ну, одним горлопаном меньше... Тогда...!
+
+# Original: Heathcliff slammed his fist into the loudspeaker that's been blaring music this entire time.
+Рассказчик: Хитклиф со всей силы ударил по громкоговорителю, который всё это время орал музыку.
+
+# Original: Blimey... Now that's a relief. Thought my eardrums were about to burst.
+Хитклиф: Чёрт... Вот теперь полегчало. Думал, у меня барабанные перепонки лопнут.
+
+# Original: <…….>
+Данте: <…….>
+
+# Original: I decided to remain silent. The music *was* pretty loud.
+Рассказчик: Я решил промолчать. Музыка *и правда* была довольно громкой.
+
+# Original: Well, it's awful quiet up here now that the music's gone.
+Грегор: Что ж, теперь здесь ужасно тихо, когда музыка стихла.
+
+# Original: Oh, this reminds me of a similar story my nanny used to tell me. It's an old story, but...
+Хон Лу: О, это напомнило мне похожую историю, которую мне рассказывала няня. Она старая, но...
+
+# Original: Don Quixote returns with a dumbfounded expression on her face.
+Рассказчик: Дон Кихот возвращается с ошеломлённым выражением лица.
+
+# Original: There was... naught...
+Дон Кихот: Там было... ничего...
+
+# Original: What? What was naught? Food? Drinks? Both?
+Родион: Что? Чего не было? Еды? Выпивки? И того, и другого?
+
+# Original: There was... no one.
+Дон Кихот: Там не было... никого.
+
+# Original: Yet... the lights were left on... With nary a soul to be seen inside...
+Дон Кихот: Однако... свет был оставлен включённым... И ни души внутри не видать...
+
+# Original: Ridiculous. It is clear that, mere moments ago, a large group of people were having a party on the deck. How could there be no one aboard?
+Отис: Нелепо. Очевидно, что ещё мгновение назад на палубе веселилась большая группа людей. Как может никого не быть на борту?
+
+# Original: F-for truth! Mayhaps... they are busying themselves with a game of hide-and-seek...?
+Дон Кихот: В-воистину! Быть может... они заняты игрой в прятки...?
+
+# Original: Can't imagine that the crowd that left all these liquor bottles behind would be the kind that enjoys playing hide-and-seek like kids at a party...
+Грегор: Не могу представить, чтобы толпа, оставившая все эти бутылки, была из тех, кто любит играть в прятки, как дети на вечеринке...
+
+# Original: So what, they just vanished into thin air? Like they were— Wait, did the Waves already...?
+Ишмаэль: То есть, что, они просто испарились? Как будто они — Постойте, неужели Волны уже...?
+
+# Original: There is one remaining possibility: the ship's storage space.
+Мерсо: Остаётся одна возможность: складское помещение корабля.
+
+# Original: Are ya saying that these party people... left all this uneaten food and liquor behind just to huddle in a cramped storage room...?
+Родион: Ты хочешь сказать, что эти тусовщики... оставили всю эту недоеденную еду и выпивку, чтобы просто сбиться в кучу в тесном складском помещении...?
+
+# Original: Ohh~ I remember now! Yes! The story went just like this!
+Хон Лу: Ох~ Я вспомнил! Да! История была точно такой же!
+
+# Original: Once, a huge manor sent out invitations for a grand party. But when the guests arrived, they found the manor vacant and engulfed in deathly silence...
+Хон Лу: Однажды из огромного особняка разослали приглашения на грандиозную вечеринку. Но когда гости прибыли, они обнаружили особняк пустым и погружённым в мертвую тишину...
+
+# Original: H-how about we get the music going again?
+Синклер: М-может, снова включим музыку?
+
+# Original: I smashed the radio, lad.
+Хитклиф: Я разбил радио, парень.
+
+# Original: If this ship was struck by the Waves, we have to get out of here, now...
+Ишмаэль: Если этот корабль поразили Волны, нам нужно убираться отсюда, немедленно...
+
+# Original: Then... Boom! Boom! Banging noises, coming from behind a door slightly ajar...! So, of course, they went in there to investigate, and...
+Хон Лу: Затем... Бум! Бум! Стук, доносящийся из-за слегка приоткрытой двери...! Конечно же, они пошли туда, чтобы проверить, и...
+
+# Original: And...?! And?!
+Дон Кихот: И...?! И?!
+
+# Original: …….
+Синклер: …….
+
+# Original: ... And there they were! Bodies as stiff as corpses in rigor mortis, arms stretched forward, hopping, up and down...!
+Хон Лу: ... И вот они! Тела, жёсткие, как трупы в трупном окоченении, руки вытянуты вперёд, прыгают вверх и вниз...!
+
+# Original: OH! That's... I-I...!!! I think I'll go check out the storage space!!
+Синклер: АХ! Это... Я-я...!!! Пойду-ка я проверю складское помещение!!
+
+# Original: Sinclair, wherefore art thy palms so sodden?
+Дон Кихот: Синклер, отчего твои ладони столь влажны?
+
+# Original: It's genetics...!
+Синклер: Это генетика...!
+
+# Original: Sinclair hurriedly left the room in search of the ship's storage.
+Рассказчик: Синклер поспешно покинул комнату в поисках корабельного склада.
+
+# Original: ... Which was the dance that was all the rage back then, apparently~
+Хон Лу: ... Как оказалось, это был танец, который был в то время очень популярен~
+
+# Original: ... The art of dancing... must truly be an art of great profundity...
+Дон Кихот: ... Искусство танца... воистину должно быть искусством великой глубины...
+
+# Original: Well, that was some damp squib. I thought it was actually going somewhere.
+Хитклиф: Ну, это был полный провал. А я-то думал, что история к чему-то ведёт.
+
+# Original: I had thought with quite the confidence that this would be a tale of the living dead.
+И Сан: Я был весьма уверен, что это будет рассказ о живых мертвецах.
+
+# Original: Now what'd ya do that for? You scared the kid off... Where'd he go?
+Родион: Ну и зачем ты это сделал? Ты напугал малыша... Куда он пошёл?
+
+# Original: <... I'll go find Sinclair.>
+Данте: <... Я пойду найду Синклера.>

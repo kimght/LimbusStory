@@ -1,0 +1,44 @@
+# Original: Y-you better tell us where your boss is before t-things turn ugly...
+Синклер: Л-лучше скажите, где ваш босс, пока всё не с-стало совсем плохо...
+
+# Original: Hmph... Go drink some more milk before ye start tossin' around threats like that, laddie.
+Пираты-Двуркрюки?: Хмф... Иди-ка выпей ещё молочка, прежде чем бросаться такими угрозами, малыш.
+
+# Original: I-I'm serious! Talk, or the next thing getting s-smashed is your h-h-...
+Синклер: Я н-не шучу! Говорите, или следующим р-разобью вашу г-г-...
+
+# Original: ... Your skull.
+Синклер: ... Вашу голову.
+
+# Original: Ha... ha ha... O-okay. Let's calm down.
+Пираты-Двуркрюки?: Ха... ха-ха... Л-ладно. Давайте успокоимся.
+
+# Original: Captain ain't 'ere. If it's hostages yer lookin' for... the first mate should know.
+Пираты-Двуркрюки?: Капитана здесь нет. Если вы ищете заложников... первый помощник должен знать.
+
+# Original: Directions.
+Синклер: Куда идти.
+
+# Original: The last room... at the end of that... uh, corridor...
+Пираты-Двуркрюки?: Последняя комната... в конце того... эм, коридора...
+
+# Original: ... Go.
+Синклер: ... Идите.
+
+# Original: Aaah...
+Пираты-Двуркрюки?: Ааах...
+
+# Original: Not that way...! Get out of this club.
+Синклер: Не туда...! Убирайтесь из этого клуба.
+
+# Original: Huhh?! A-aye! I'm sorry!!
+Пираты-Двуркрюки?: А?! Д-да! Простите!!
+
+# Original: ... Oi, kid... You're getting better at this, aren't you?
+Хитклиф: ... Эй, малой... Ты в этом деле уже лучше справляешься, а?
+
+# Original: I don't want to get complimented for doing something like this...
+Синклер: Я не хочу, чтобы меня хвалили за такое...
+
+# Original: I just... I just think we have to get to the hostage as soon as possible.
+Синклер: Я просто... Я просто думаю, что мы должны добраться до заложника как можно скорее.

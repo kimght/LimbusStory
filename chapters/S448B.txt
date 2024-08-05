@@ -1,0 +1,347 @@
+# Original: Kaff... Koff...
+Донгбек: Кхе... Кхе...
+
+# Original: Hemoptysis. An optimistic sign.
+Отис: Кровохарканье. Обнадеживающий признак.
+
+# Original: Even with the repeated training with Qliphoth deterrence, abuse of E.G.O will still push the user's body to the limit.
+Фауст: Даже при регулярных тренировках с сдерживанием Клифот, злоупотребление E.G.O все равно доведет тело пользователя до предела.
+
+# Original: Will you return the Golden Bough now, Dongbaek?
+Донран: Теперь ты вернешь Золотую Ветвь, Донгбек?
+
+# Original: I was supposed to hand it over to my guests over here, signed in some complicated contract with several stamps... So I can't go back on my words here.
+Донран: Я должен был передать ее моим гостям здесь, подписав какой-то сложный контракт с несколькими печатями... Так что я не могу нарушить свое слово.
+
+# Original: Proudly... boasting your... ignorance... still...
+Донгбек: Все еще... гордо... хвастаешься... своим... невежеством...
+
+# Original: And you are weak. Still.
+Донран: А ты все еще слаба. По-прежнему.
+
+# Original: Even with the E.G.O from Lobotomy Corp, this was below my expectations, Dongbaek.
+Донран: Даже с E.G.O из Корпорации Лоботомия, это было ниже моих ожиданий, Донгбек.
+
+# Original: Besides... I haven't even introduced you to the technology I developed. I know, why don't we hold our first conference in a while?
+Донран: Кроме того... я даже не представил тебе технологию, которую я разработал. Знаешь что, давай проведем нашу первую за долгое время конференцию?
+
+# Original: The daily audiovisual feed has been sent.
+Объявление: Ежедневная аудиовизуальная трансляция отправлена.
+
+# Original: So, tell me, Dongbaek...
+Донран: Итак, скажи мне, Донгбек...
+
+# Original: How bigger can your despair grow?
+Донран: Насколько сильнее может вырасти твое отчаяние?
+
+# Original: Ahhhhh!! Help me!!!
+Рассказчик: А-а-а-а!! Помогите мне!!!
+
+# Original: What's up with this sound?
+Ишмаэль: Что это за звук?
+
+# Original: Is that the footage those drones filmed while we were fighting the Abnormality on the street...
+Грегор: Это та съемка, которую дроны сделали, пока мы сражались с Аномалией на улице...
+
+# Original: I read the threat you sent, Dongbaek. Said you'll release an Abnormality on the streets if I don't speak about the Singularity.
+Донран: Я прочитал угрозу, которую ты прислала, Донгбек. Ты сказала, что выпустишь Аномалию на улицы, если я не заговорю о Сингулярности.
+
+# Original: I know you were always fond of radical events... But I didn't think you'd actually do it.
+Донран: Я знаю, что ты всегда любила радикальные события... Но я не думал, что ты действительно это сделаешь.
+
+# Original: Of course... It produced a lot more tears. All thanks to you.
+Донран: Конечно... Это произвело гораздо больше слез. Все благодаря тебе.
+
+# Original: No... I wasn't planning to release it. It escaped. You ignored my warning...
+Донгбек: Нет... Я не планировала ее выпускать. Она сбежала. Ты проигнорировал мое предупреждение...
+
+# Original: If I responded there, that'd mean admitting that our lab had been experimenting on Abnormalities arbitrarily.
+Донран: Если бы я ответил тогда, это означало бы признание того, что наша лаборатория произвольно экспериментировала с Аномалиями.
+
+# Original: Thank goodness our contractors happened to be near the Nest when it happened.
+Донран: К счастью, наши подрядчики оказались рядом с Гнездом, когда это случилось.
+
+# Original: So it was all part of your plan to have us run into the breached Abnormality?
+Ишмаэль: Значит, все это было частью твоего плана, чтобы мы столкнулись с вырвавшейся Аномалией?
+
+# Original: It was closer to an experiment than a plan. The possibility of failure was kept in mind, but I had evidence to trust that you'd make it through.
+Донран: Это было ближе к эксперименту, чем к плану. Возможность неудачи учитывалась, но у меня были основания верить, что вы справитесь.
+
+# Original: I've been keeping an eye on your for longer than you might think.
+Донран: Я наблюдаю за вами дольше, чем вы можете подумать.
+
+# Original: I told you, didn't I?
+Донран: Я же говорил вам, не так ли?
+
+# Original: I'm a fan of yours.
+Донран: Я ваш поклонник.
+
+# Original: No, Sinclair! It's always been the other way around... I am the one who grips...!
+Кромер: Нет, Синклер! Все всегда было наоборот... Это я та, кто держит...!
+
+# Original: How is this... I don't think I want to watch...
+Синклер: Как это... Не думаю, что хочу это смотреть...
+
+# Original: We generated record tears that time as well. It played a significant part in securing the award, I might add.
+Донран: В тот раз мы тоже получили рекордное количество слез. Это сыграло значительную роль в получении награды, должен заметить.
+
+# Original: The employees of a certain department in N Corp. weren't the best people to talk with, but I was able to procure fresh audiovisual feed thanks to them.
+Донран: Сотрудники определенного отдела в N Corp. не были лучшими собеседниками, но благодаря им я смог получить свежие аудиовизуальные материалы.
+
+# Original: That means... the reason N Corp. could get away with such cruelties in a residential area in Nest K was...
+Родион: Это значит... причина, по которой N Corp. могла безнаказанно творить такие жестокости в жилом районе Гнезда K, была...
+
+# Original: This is what the deal entailed.
+Мерсо: Это и было предметом сделки.
+
+# Original: I think I remember a certain fellow saying this: while Brother Young-ji's 'glass window' was innovative, it was simply too vast to freely wield, especially for a coarse man like me.
+Донран: Помнится, один человек сказал: хотя "стеклянное окно" брата Ён-джи было инновационным, оно было слишком обширным, чтобы свободно им управлять, особенно для такого грубого человека, как я.
+
+# Original: …….
+Донгбек: …….
+
+# Original: Ah, Dongbaek. Was it you?
+Донран: А, Донгбек. Это была ты?
+
+# Original: What is... Are you...
+Донгбек: Что ты... Ты что...
+
+# Original: There just were never enough tears.
+Донран: Просто никогда не было достаточно слез.
+
+# Original: I mean, look around you, and see how many people are suffering here.
+Донран: Я имею в виду, посмотри вокруг себя и увидь, сколько людей здесь страдают.
+
+# Original: So they'll be doing the crying for us.
+Донран: Так что они будут плакать за нас.
+
+# Original: With no time to shut their eyes.
+Донран: Не успевая закрыть глаза.
+
+# Original: I only made minor modifications to Brother Young-ji's work.
+И Сан: Я внес лишь незначительные изменения в работу брата Ён-джи.
+
+# Original: I wanted to show a reflection of any possibility in its unvarnished image.
+И Сан: Я хотел показать отражение любой возможности в ее неприкрытом виде.
+
+# Original: That is why I am considering the name for it:
+И Сан: Поэтому я рассматриваю для него название:
+
+# Original: 'Mirror'.
+И Сан: "Зеркало".
+
+# Original: I wish that this will serve as a tool of entertainment... giving us more joy.
+И Сан: Я надеюсь, что это послужит инструментом развлечения... принося нам больше радости.
+
+# Original: Is this why I haven't been able to see you lately? To discover this?
+Донгбек: Поэтому я не могла видеть тебя в последнее время? Чтобы открыть это?
+
+# Original: Dongrang, why are you laughing like that?
+Донгбек: Донран, почему ты так смеешься?
+
+# Original: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
+Донран: Просто забавно, что ты говоришь так свирепо, когда твои глаза полны любопытных искорок.
+
+# Original: Yi Sang, will you tell him to shut it?
+Донгбек: И Сан, не мог бы ты сказать ему заткнуться?
+
+# Original: Why don't you hide your astonishment of a child who's tried ice cream for the first time on your face first?
+Донран: Почему бы тебе сначала не скрыть на своем лице изумление ребенка, который впервые попробовал мороженое?
+
+# Original: Mouths unable to hold laughter.
+Рассказчик: Рты, не способные сдержать смех.
+
+# Original: Exclamations of amazeness.
+Рассказчик: Возгласы удивления.
+
+# Original: Smiles at each other.
+Рассказчик: Улыбки друг другу.
+
+# Original: Eyes glowing brighter than stars.
+Рассказчик: Глаза, сияющие ярче звезд.
+
+# Original: Everyone there felt... pure joy.
+Рассказчик: Все там чувствовали... чистую радость.
+
+# Original: I only wished that all this...
+Рассказчик: Я только желал, чтобы все это...
+
+# Original: Would remain a simple recreation.
+Рассказчик: Осталось простым развлечением.
+
+# Original: Be quiet.
+???: Замолчи.
+
+# Original: You will simply... live on as you are. As if you know nothing.
+???: Ты просто... будешь жить дальше, как есть. Как будто ничего не знаешь.
+
+# Original: The glass window... wasn't made for this kind of wicked degeneracy...
+Донгбек: Стеклянное окно... не было создано для такого злобного вырождения...
+
+# Original: We're having an important moment. Please mind your language.
+Донран: У нас важный момент. Пожалуйста, следи за своими словами.
+
+# Original: And I know what you're saying. Brother Young-ji would have scolded me for this.
+Донран: И я знаю, что ты имеешь в виду. Брат Ён-джи отругал бы меня за это.
+
+# Original: Ah, but did you know, though? We're no longer in the time when we used to cheer over toy-like inventions. The applause won't be as loud with how few of us that remain now.
+Донран: Ах, но знаешь ли ты? Мы больше не в том времени, когда мы радовались игрушечным изобретениям. Аплодисменты не будут такими громкими, учитывая, как мало нас осталось.
+
+# Original: …….
+Донгбек: …….
+
+# Original: You're just struggling to let go. Isn't that right?
+Донран: Ты просто не можешь отпустить. Не так ли?
+
+# Original: You give your grand speeches about the evil of technology... But that's no more than a pretext you made up on the way as a means to garner support. To reach your true goal.
+Донран: Ты произносишь свои громкие речи о зле технологий... Но это не более чем предлог, который ты придумала по пути, чтобы заручиться поддержкой. Чтобы достичь своей истинной цели.
+
+# Original: You claim to fight the vile technology, but you yourself are being plenty vile.
+Донран: Ты утверждаешь, что борешься с гнусными технологиями, но сама при этом ведешь себя довольно гнусно.
+
+# Original: When your group took over the Lobotomy branch facility where I just happened to be conducting my research...
+Донран: Когда твоя группа захватила филиал Лоботомии, где я как раз проводил свои исследования...
+
+# Original: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
+Донран: Ты, вероятно, сказала своим последователям, что это для расследования Сингулярности, но на самом деле ты поняла, что можешь найти фрагменты технологий, которые можно использовать как оружие, не так ли? Например, E.G.O.
+
+# Original: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?
+Донран: Интересно, кто дал тебе всю эту ценную информацию. Шренн не могла этого знать. Может, сыграем в двадцать вопросов, расскажешь мне таким образом?
+
+# Original: Don't talk like you know everything. That attitude of yours...always annoyed me...
+Донгбек: Не говори так, будто знаешь все. Эта твоя манера... всегда меня раздражала...
+
+# Original: Haha, then let me act like I know about just one more thing.
+Донран: Ха-ха, тогда позволь мне сделать вид, что я знаю еще об одной вещи.
+
+# Original: When we peeked through Brother Young-ji's glass window... and when we got a glimpse of worlds reflected in Yi Sang's mirror...
+Донран: Когда мы заглянули через стеклянное окно брата Ён-джи... и когда мы увидели мельком миры, отраженные в зеркале И Сана...
+
+# Original: We felt the euphoria and schism we would never be able to recover from.
+Донран: Мы почувствовали эйфорию и раскол, от которых никогда не сможем оправиться.
+
+# Original: …….
+Донгбек: …….
+
+# Original: Since the moment the glass window was made...
+Донгбек: С того момента, как было создано стеклянное окно...
+
+# Original: All sorts of interest groups came knocking on the door.
+Донгбек: Всевозможные заинтересованные группы стучались в дверь.
+
+# Original: Right... While we may think... that we left the League of our own volition...
+Донгбек: Верно... Хотя мы можем думать... что ушли из Лиги по собственной воле...
+
+# Original: We all know what actually happened... We were actually just torn apart and scattered away...
+Донгбек: Мы все знаем, что на самом деле произошло... На самом деле нас просто разорвали на части и разбросали...
+
+# Original: And that the reason for it came from the inside...
+Донгбек: И причина этому пришла изнутри...
+
+# Original: Dongbaek, even if you put my work in the concept incinerator, we won't be able to go back to those innocent times. You know that, right?
+Донран: Донгбек, даже если ты поместишь мою работу в концептуальный инсинератор, мы не сможем вернуться в те невинные времена. Ты это знаешь, верно?
+
+# Original: Hmm... Even though you are aware... you still can't give up your obsession...
+Донран: Хм... Даже осознавая это... ты все равно не можешь отказаться от своей одержимости...
+
+# Original: …….
+Донгбек: …….
+
+# Original: Ah, now I get it.
+Донран: А, теперь я понял.
+
+# Original: If someone were to discover the incinerated technologies again...
+Донран: Если кто-то заново откроет сожженные технологии...
+
+# Original: Other nameless fellows with other dreams... would feel the same euphoria we once felt. That's what you wanted to happen.
+Донран: Другие безымянные ребята с другими мечтами... почувствуют ту же эйфорию, которую когда-то чувствовали мы. Вот чего ты хотела добиться.
+
+# Original: Since we can't return to the past ourselves...
+Донран: Поскольку мы сами не можем вернуться в прошлое...
+
+# Original: You were going to recreate the past for coming generations.
+Донран: Ты собиралась воссоздать прошлое для грядущих поколений.
+
+# Original: Wow, what a cute and unique idea, Dongbaek.
+Донран: Ух ты, какая милая и оригинальная идея, Донгбек.
+
+# Original: M-Miss Dongbaek... Your body...
+Синклер: М-мисс Донгбек... Ваше тело...
+
+# Original: Dongbaek muttered into emptiness. It was as though she was talking to someone.
+Рассказчик: Донгбек бормотала в пустоту. Казалось, будто она разговаривает с кем-то.
+
+# Original: Yes... I'll bury it... deep in the sand... hide them...
+Донгбек: Да... Я закопаю это... глубоко в песок... спрячу...
+
+# Original: For someone to find... some day...
+Донгбек: Чтобы кто-нибудь... когда-нибудь нашел...
+
+# Original: We... didn't discover the technologies because we were better or had exclusive rights to...
+Донгбек: Мы... не открыли технологии потому, что были лучше или имели эксклюзивные права...
+
+# Original: You may be right, I fooled everyone including myself into working for my own goals... It was... the land we tilled... that was fertile...
+Донгбек: Возможно, ты прав, я обманула всех, включая себя, заставив работать на свои цели... Это была... земля, которую мы возделывали... она была плодородной...
+
+# Original: That's disheartening to hear. Are you going to discredit all our efforts that went into plowing the soil, missing out on sights of flowers?
+Донран: Грустно это слышать. Ты собираешься обесценить все наши усилия, вложенные в возделывание почвы, упуская из виду цветы?
+
+# Original: Back then, we were naive amateurs, and the past you refuse to forget is just a fleeting moment seen through rose-tinted glasses.
+Донран: Тогда мы были наивными любителями, а прошлое, которое ты отказываешься забыть, - лишь мимолетный момент, увиденный сквозь розовые очки.
+
+# Original: Did your colleagues who gave their lives to the cause know this, though?
+Донран: Знали ли об этом твои коллеги, отдавшие жизни за дело?
+
+# Original: That the cause you exclaimed was only a specious banner to lure people with. That it was as vain as a cloud on the sky.
+Донран: Что дело, о котором ты так громко заявляла, было лишь правдоподобным знаменем для привлечения людей. Что оно было таким же тщетным, как облако на небе.
+
+# Original: No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?
+Донгбек: Нет... И все же... Я наконец-то лучше вижу себя. Именно поэтому я должна посадить росток и покрыть его землей своими руками, не так ли?
+
+# Original: The bud has fallen... and our fruit has long since withered...
+Донгбек: Бутон упал... и наш плод давно увял...
+
+# Original: It must be covered with dirt again... let other fruits be borne...
+Донгбек: Его нужно снова покрыть землей... чтобы появились другие плоды...
+
+# Original: Hey... Is it really okay to let her be?
+Родион: Эй... Точно нормально оставить ее в таком состоянии?
+
+# Original: You know... Your mind doesn't work right when you're using E.G.O...
+Родион: Знаешь... Разум не работает правильно, когда используешь E.G.O...
+
+# Original: Now hold on... Are you doing this on purpose...? Taunt her as much as you can...
+Хитклиф: Погоди-ка... Ты делаешь это нарочно...? Дразнишь ее как можно сильнее...
+
+# Original: And wait for her to tire herself out...
+Отис: И ждешь, пока она измотается...
+
+# Original: ...Back to the innocent times, now without us.
+Донгбек: ...Назад к невинным временам, теперь без нас.
+
+# Original: Ah, innocence...
+Донран: Ах, невинность...
+
+# Original: No words are as embarrassing as that.
+Донран: Нет слов более смущающих, чем это.
+
+# Original: Oi, keep it together!
+Хитклиф: Эй, держи себя в руках!
+
+# Original: No one can shake your mind like I do, then and now. Isn't that right?
+Донран: Никто не может поколебать твой разум так, как я, и тогда, и сейчас. Не так ли?
+
+# Original: No, I feel like my mind is blooming wider than ever.
+Донгбек: Нет, я чувствую, что мой разум раскрывается шире, чем когда-либо.
+
+# Original: I've always wished to be a bud, soon to burst into bloom.
+Донгбек: Я всегда хотела быть бутоном, готовым вот-вот расцвести.
+
+# Original: Shrouded in scent all over the body...
+Донгбек: Окутанная ароматом по всему телу...
+
+# Original: Even if this is my own heart-wrenching path, understood by no one...
+Донгбек: Даже если это мой собственный душераздирающий путь, непонятный никому...
+
+# Original: I'll still leave behind a morrow, strong and fertile like fallen petals.
+Донгбек: Я все равно оставлю после себя завтрашний день, сильный и плодородный, как опавшие лепестки.
