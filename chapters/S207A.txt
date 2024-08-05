@@ -1,0 +1,155 @@
+﻿# Original: Ya… tarned little roaches…
+Босс банды Бом-бом: Вы… мерзкие мелкие таракашки…
+
+# Original: Who the hell do ya work for…? ‘S about time… ya told us…
+Босс банды Бом-бом: На кого вы блять работаете…? Скажите… Хотя бы сейчас…
+
+# Original: We…
+Грегор: Мы…
+
+# Original: …are from Limbus Company.
+Грегор: …из компании «Лимбус».
+
+# Original: Finally. One less millstone ‘round the neck.
+Грегор: Наконец. Прям как одна из гор с плеч.
+
+# Original: That…doesn’t…help at all…!
+Босс банды Бом-бом: Но… понятней… не стало…!
+
+# Original: Oh, and for reference, Effie and I work in a different department. Please don’t associate us with them.
+Сауде: Ох, к вашему сведению, я и Эффи работаем в другом отделе. Пожалуйста, не связывайте нас с ними.
+
+# Original: ……
+Босс банды Бом-бом: ……
+
+# Original: The sheer frustration over our aversion to conversing sensibly must’ve played a considerable role in causing the boss to pass out.
+Рассказчик: Наше нежелание вести цивильный диалог, должно быть, сыграло не последнюю роль в том, что босс отключился.
+
+# Original: My condolences to the poor fellow’s patience.
+Рассказчик: Мои соболезнования терпению бедняги.
+
+# Original: Do we seriously have to wear these, though? Stuff reeks of sweat and blood and… smells grody, too.
+Родион: А нам обязательно в это одеваться? Она же вся пропиталась потом и кровью… Да и гнильцой пованивает к тому же.
+
+# Original: Rodya complained, lifting the shirt she took from a Tingtang member with two fingers like she was handling trash.
+Рассказчик: Пожаловалась Родя, брезгливо подняв рубашку, стащенную с члена "Бом-боба", двумя пальцами, словно гнилое тряпьё.
+
+# Original: Yuck, some hair, too… This is the first time I’m jealous of Dante’s missing eyes.
+Родион: Фу, ещё и волосы прилипли… Никогда бы не подумала, что буду завидовать тому, что у Данте нет глаз.
+
+# Original: <I can see, by the way…>
+Данте: <Ну, вообще-то я всё равно вижу…>
+
+# Original: This looks… pretty dandy, actually? I guess their business was more successful than I thought.
+Эффи: Выглядит… я бы сказал, довольно по-пижонски? Кажется, дела у них шли лучше, чем я считал.
+
+# Original: I want that. Bagsy.
+Рёшу: Обменяемся. Чур эта — моя.
+
+# Original: I-I can’t, it’s been tailor-made.
+Эффи: Н-не могу, она сшита под заказ.
+
+# Original: <…The label here says it’s good for all girths.>
+Данте: <…Но на бирке написано, что она универсальна.>
+
+# Original: Noticing that my gaze was fixed on the label of his clothing, Effie barked.
+Рассказчик: Заметив, что я засмотрелся на бирку на его одежде, Эффи рявкнул.
+
+# Original: Grr… W-We wouldn’t be doing any of this if you hadn’t caused that ruckus in the pawnshop.
+Эффи: Тц… В-вообще, не устрой вы заварушку в ломбарде, то и переодеваться бы не пришлось.
+
+# Original: I don’t mind. I’ve always wanted to try on clothes like these. It’s like we’re filming a movie.
+Хон Лу: А я и не против. Всегда хотелось примерить что-то такое. Сродни тому, как если бы мы снимались в кино.
+
+# Original: To be honest, I’m a little nervous. It’s been a while since I’ve worked in disguise.
+Ишмаэль: Честно говоря, я немного переживаю. Давно не работала под прикрытием.
+
+# Original: I don’t feel like it. This is the coward’s way.
+Рёшу: А мне не нравится. Как-то это трусливо.
+
+# Original: Sorry, but can someone please keep her mouth shut?
+Сауде: Извините, но, может, кто-нибудь её заткнёт?
+
+# Original: …You’re free to try as long as you’re good with your ribs being cut apart.
+Грегор: …Можешь и сама попробовать, если готова, что тебя накрошат на мелкие кусочки.
+
+# Original: Gregor’s softly spoken riposte got the Sinners to crack up.
+Рассказчик: Мягкое парирование Грегора заставило грешников рассмеяться.
+
+# Original: For a moment, Effie and Saude seemed to wonder how they should take it…
+Рассказчик: На секунду показалось, что Эффи и Сод не знали как на это отреагировать…
+
+# Original: Before deciding that it’s not worth mulling over and moving on. Effie then lifted a small container that appeared to be inlaid with nacre.
+Рассказчик: Но они быстро решили не придавать этому особое значение и продолжили. Эффи достал маленький короб, который, казалось, был инкрустирован перламутром.
+
+# Original: …This is a wish canister we seized from the Tingtang Gang’s boss.
+Эффи: …Это короб желаний, который мы изъяли у босса банды «Бом-боб».
+
+# Original: Manager, here’s a simple role you can play.
+Эффи: Менеджер, у вас будет самая незапарная работёнка.
+
+# Original: <What are you…?>
+Данте: <О чём ты…?>
+
+# Original: I guess we owe you an explanation, judging from your clueless motions.
+Сауде: Судя по вашим неловким движениям, нам придётся объясниться.
+
+# Original: The long and short of it is that this thing contains J Corp’s other Singularity. This is a tool that sucks up ‘wishes’ from people and stores them in some form of energy.
+Эффи:  Говоря кратко, эта штука содержит в себе другую сингулярность корпорации J. Этот инструмент высасывает "желания" из людей и перерабатывает их в своего рода энергию.
+
+# Original: When the time is right, squeeze that wishpower onto a sheet of paper, and voilà! You get a one-use stick-on tattoo that boosts your luck to high heavens.
+Сауде: Когда придёт время, отпечатайте силу желаний на бумаге — и та-дам!, — получите одноразовую татуировку, с которой ваша удача не будет знать границ.
+
+# Original: Seems the plan was to try to win the game on the top floor by scraping up others’ luck… Imagine, the boss of some lowly gang was carrying one of these.
+Эффи: Кажется, они планировали выиграть игру на верхнем этаже чужой удачей… Поверить не могу, что у босса захудалой банды оказалось что-то подобное.
+
+# Original: Manager… Dante, right? I want you to hold on to this when we enter the casino.
+Эффи: Менеджер… Данте, так? Я хочу, чтобы она была у вас, когда мы зайдём в казино.
+
+# Original: <Am I really allowed to carry such a big responsibility?>
+Данте: <А я точно готов к подобной ответственности?>
+
+# Original: You don’t look like you’re oozing confidence. We do have reasons for assigning you to this task.
+Эффи: Не выглядите уверенными. Мы не просто так поручаем вам это.
+
+# Original: First off, a poker face is going to be vital when you’re gambling.
+Эффи: Во-первых, при игре за столом прежде всего необходимо сохранять беспристрастное лицо.
+
+# Original: No matter how good they are at reading expressions, they won’t be able to tell what emotions to read from a clock.
+Эффи: Как бы хорошо они не читали мимику, они ничего не получат от чтения часов.
+
+# Original: <……>
+Данте: <……>
+
+# Original: Second, I trust that they’ve appointed you as manager for a reason.
+Эффи: Во-вторых, я доверяю вам, потому что не просто же так вас назначили менеджером.
+
+# Original: Call it a hunch, but something tells me you’ll be more useful than those Sinners you’re leading.
+Эффи: Можете называть это интуицией, но что-то мне подсказывает, что вы куда полезнее ведомых вами грешников.
+
+# Original: Come to think of it, he had a point.
+Рассказчик: Если так подумать, то в его словах есть зерно правды.
+
+# Original: I was given the title of manager, but never had a chance to be the charismatic leader I’d envisioned; instead of showing respect, my Sinners would constantly berate and threaten me.
+Рассказчик: Меня назначили менеджером, но мне так и не выпадало возможности проявить себя харизматичным лидером, которым я себя представлял; и вместо хотя бы капельки уважения, мои грешники лишь ругались на меня и угрожали мне.
+
+# Original: The only real role I could afford to play was bringing them back to life.
+Рассказчик: Единственное, что я мог делать — лишь возвращать их к жизни.
+
+# Original: While the Sinners were engaged in fierce battle, all I would do is cower behind them, anxiously praying that their heads and hearts were unscathed.
+Рассказчик: Пока грешники сражались в ожесточённой битве, мне оставалось лишь прятаться поодаль и судорожно молиться, чтобы их сердца и головы остались невредимы.
+
+# Original: With a heavy heart, I nodded to let him know I was ready.
+Рассказчик: С тяжёлым сердцем я кивнул, дав им знать, что я готов.
+
+# Original: Alright. Put this on your arm. You’ll become the luckiest person in the City for a short while.
+Эффи: Хорошо. Вытяните руку. Станете ненадолго самым удачливым человеком в Городе.
+
+# Original: Now then, you’ll act as Tingtangers, and we’ll be croupiers. Break a leg, everyone.
+Сауде: Так, с этих пор вы все — члены «Бом-боб», а мы — крупье. Ни пуха, ни пера.
+
+# Original: Vowing that we’ll see this operation to success no matter what…
+Рассказчик: Поклявшись, что мы завершим эту операция несмотря ни на что…
+
+# Original: We opened the door to the casino.
+Рассказчик: Мы открыли двери казино.

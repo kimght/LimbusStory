@@ -1,0 +1,14 @@
+﻿# Original: You’re looking much more useful than before, Dante.
+Вергилий: Теперь вы кажетесь более полезным, Данте.
+
+# Original: <They all got away save for one, though. Shouldn’t we go after them?>
+Данте: <Но все, кроме одного, смогли удрать. Разве нам не стоит догнать их?>
+
+# Original: They’re worried over the foes we lost.
+Фауст: Он беспокоится о врагах, которых мы упустили.
+
+# Original: No need for concern… That’s the direction we were heading anyway. Charon?
+Вергилий: Не стоит о них беспокоиться… Всё складывается лишь нам на руку; они бегут в ту сторону, куда едем и мы. Харон?
+
+# Original: Pedal touches metal. Up for an exciting ride.
+Харон: Педаль в пол. Настало время восхитительной поездки.

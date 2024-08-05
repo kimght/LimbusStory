@@ -1,0 +1,183 @@
+﻿# Original: Ain’t ya too many visitors at once? The shop’s cramped as is…
+Ростовщик: Не много ль посетителей за раз? Магазинчик-то и так тесный…
+
+# Original: Y’all prefer your luck of the draw from trumps or mahjong?
+Ростовщик: Попытаете удачу в раздаче козырей или маджонге?
+
+# Original: As we entered the shop, we were met with the gruff greeting of an old pawnbroker.
+Рассказчик: Едва мы зашли в магазин, нас грубо окрикнул старый ростовщик.
+
+# Original: What’s that blighter on about?
+Хитклиф: О чём треплется этот старикан?
+
+# Original: …Am I the only one here who read up on Nest J? Vergilius gave us a pamphlet to peruse before we left.
+Ишмаэль: …Я что, единственная, кто прочла о Гнезде J? Вергилий же раздавал нам ознакомительные брошюры перед тем, как мы ушли.
+
+# Original: Well, I think I remember glancing at the cover…
+Грегор: Ну, я вроде бы пробежался взглядом по обложке…
+
+# Original: Here, you’ll get loaned different amounts depending on your fortune for the day.
+Ишмаэль: Вот, вам дают взаймы в зависимости от удачи на сегодня.
+
+# Original: If you draw a great boon, you get extra cash, while misfortune means far less than what the pawn is worth.
+Ишмаэль: Вытяните удачный жребий – получите больше налички, а неудачный – получите даже меньше стоимости залога.
+
+# Original: Ah~ That reminds me, our family had hired dedicated fortunetellers.
+Хон Лу: А-ах~ Навевает воспоминания о том, как моя семья нанимала особых гадалок.
+
+# Original: They drew a greater boon for me in the divination they performed before I left. That must’ve been a sign that I would join all of you wonderful people on our journey.
+Хон Лу: Они предрекли мне большую удачу перед моим отъездом. Должно быть это было знаком того, что я присоединюсь к вам, замечательным людям, в нашем с вами путешествии.
+
+# Original: Wow, really, so indulging in lofty leisure on your grand estate was your fated life. Maybe I should pray that I’m born that rich if there’s a next time.
+Ишмаэль: Ва, вот уж у тебя и судьба — придаваться роскошному отдыху в своём роскошном поместье. Может, мне следует помолиться родиться такой же богатой в следующий раз, если такое возможно.
+
+# Original: I’m good. It’s well-off folks like him that tend to play dirty.
+Хитклиф: А меня и так всё устраивает. Такие состоятельные ханжи как он склонны нечестно играть.
+
+# Original: You might be right. I didn’t like to get along with my younger sibling in childhood. Always trying to cheat and grouch if things didn’t go as desired.
+Хон Лу: Может ты и прав. В детстве я не то чтобы ладил со своим братом. Всегда пытался мухлевать и обижался, когда что-то шло не так, как хотелось.
+
+# Original: No, that’s NOT what I was getting at!
+Хитклиф: Нет же, я не к <b>этому</b> клонил!
+
+# Original: So you wanna get your fortune or not?
+Ростовщик: Так вам удача нужна или как?
+
+# Original: Forget about that… Do you people even have anything to pawn? I’m not seeing any wealth on ya…
+Ростовщик: Впрочем, забудьте… Вам, народ, вообще есть что заложить? Чего-то ничего ценного у вас не вижу…
+
+# Original: The pawnbroker glanced over each Sinner with a dubious look until his eyes landed on me.
+Рассказчик: Ростовщик с сомнением оглядел каждого грешника, пока его глаза не остановились на мне.
+
+# Original: Oho… That clockhead might be worth a good sum.
+Ростовщик: Ооо… А вот часоголовый, должно быть, обойдётся в кругленькую сумму.
+
+# Original: How much do you think they sell for, old pal?
+Родион: Сколько за них дадите, старина?
+
+# Original: <Rodya… I’m not for sale…>
+Данте: <Родя… Я не продаюсь…>
+
+# Original: As you were likely contacted in advance, we are from Limbus Company, and…
+Фауст: С вами, должно быть, уже заранее связались, мы из компании «Лимбус», и…
+
+# Original: Unfortunately, neither the Sinners nor the pawnbroker were paying any attention to Faust’s words.
+Рассказчик: К сожалению, ни грешники, ни сам ростовщик не обратили на слова Фауст никакого внимания.
+
+# Original: Oh, I did bring this handkerchief with me when I left home…
+Хон Лу: О, я взял с собой этот платочек перед тем, как ушёл из дома…
+
+# Original: Oho… A dragon embroidered on silk. That’s some meticulous needlework, which might net… let’s see, seven million… Ahn?
+Ростовщик: Ого… Вышитый на шёлке дракон. Такая кропотливая вышивка, могу оценить её в… что ж, семь миллионов… ан?
+
+# Original: A crummy piece of cloth is worth that much?! Have your eyes rotted out, old geezer?!
+Хитклиф: Какая-то жалкая тряпочка столько стоит?! Совсем что ли ослеп, старикашка?!
+
+# Original: Wha? You don’t recognize the value of this quality—­­ Beh, now I see. You’re wearing a shabby ring like it’s true treasure… Tsk-tsk.
+Ростовщик: Что? Вы просто не осознаёте ценности— Эх, ну всё понятно. Носите потёртое кольцо, будто это сокровище какое-то… Тц-тц.
+
+# Original: …What did you just say.
+Хитклиф: …Чё ты там сморозил.
+
+# Original: Geez, cut it out! Dante~ Please shut them up~
+Родион: Божечки, ну прекратите! Данте~ Пожалуйста, заткни их~
+
+# Original: You had us worried, Faust.
+Сауде: Ты заставила нас поволноваться, Фауст.
+
+# Original: Amidst the chaos, a most gentle voice softly landed on my ears.
+Рассказчик: Сквозь хаос до меня донёсся мягкий голос.
+
+# Original: We were meant to meet each other at 4, but fifteen minutes had passed already. Surely you couldn’t have forgotten how to read a clock, right?
+Сауде: Мы договаривались встретиться в четыре, но уже минут пятнадцать прошло. Ты же не забыла, как читать время по часам, ведь так?
+
+# Original: Certainly not. There was little I could do to alter the driver of the bus.
+Фауст: Отнюдь нет. Но повлиять на водителя автобуса у меня не вышло.
+
+# Original: Aha, so you’re taking a clock-person with you to help with the time? I suppose they didn’t come with an alarm.
+Эффи: Ага, значит тащишь часоголового с собой, чтобы он подсказывал тебе время? Кажется мне, что будильник из него такой себе.
+
+# Original: The gentle voice was soon followed by one that didn’t even attempt to hide their disdain.
+Рассказчик: За нежным голосом вскоре последовал тот, что даже не скрывал своего презрения.
+
+# Original: <Come on, that’s a little harsh. Let’s try to leave better first impressions…>
+Данте: <Да ладно, это было грубовато. Давайте оставим более приятное первое впечатление…>
+
+# Original: I know my voice won’t be heard by anyone other than the Sinners, but I still can’t help but get upset at rude remarks.
+Рассказчик: Я знал, что мой голос всё равно никто кроме грешников не услышит, но я просто не мог не расстроиться из-за такого грубого замечания.
+
+# Original: Oh, so it was you? You guys are the team that botched the Golden Bough retrieval last time?
+Эффи: О, так это вы? Та самая команда, что провалила поиски Золотой ветви в прошлый раз?
+
+# Original: Folks had high expectations for your team, what with some of the smartest people in the City being on it.
+Эффи: Люди возлагали на вас большие надежды, учитывая, что среди вас есть умнейшие люди Города.
+
+# Original: No wonder… Ms. Faust wasn’t looking very pleased.
+Сауде: Неудивительно… Мисс Фауст выглядела крайне недовольной.
+
+# Original: My face has remained constant.
+Фауст: Моё выражение лица не менялось.
+
+# Original: Ey, what’re you standing around for? Go on now. This fellow here is also the brainy sort. Don’t brush him off.
+Хитклиф: Эй, ну и чё встал как столб? Скажи чего-нибудь. Этот парень тоже мозговитый. Вы его со счетов-то не списывайте.
+
+# Original: Heathcliff gave Yi Sang a sideways glance, but what he got in response was lukewarm.
+Рассказчик: Хитклифф искоса взглянул на И Сана, но тот лишь вяло ответил.
+
+# Original: I shall not, as that would be a hollow vaunt.
+И Сан: Не стану, это пустое хвастовство.
+
+# Original: But you were a lot more talkative down in that basement? Who are you and what did you do with Yi Sang?
+Хитклиф: Ты разве не был куда сговорчивей в подземелье? Ты кто такой и что ты сделал с И Саном?
+
+# Original: I am and have always been whom I match in the mirror.
+И Сан: Я есть и всегда был тем, кто отражается в зеркале.
+
+# Original: You― Haah, forget it.
+Хитклиф: Ты— Ха-ах, забей.
+
+# Original: Our first mission was devised with failure in mind.
+Фауст: Наша первая миссия была разработана с расчётом на неудачу.
+
+# Original: We needed an opportunity to see what potential our Sinners held.
+Фауст: Нам нужна была возможность увидеть, каким потенциалом обладают наши грешники.
+
+# Original: …Wait, it was?
+Грегор: …Погодь, да?
+
+# Original: A plan whose purpose is to fail? That could hardly qualify as a proposal.
+Отис: План, чья цель — провал? Вряд ли его тогда можно квалифицировать как план.
+
+# Original: By the way, where is Vergilius? I agreed to assist with the operation mainly for a chance to get to see him.
+Сауде: Кстати, где же Вергилий? По большей части я согласилась принять участие в операции только ради возможности увидеть его.
+
+# Original: He must’ve been embarrassed. Imagine accompanying people like these.
+Эффи: Ему должно быть стыдно. Представь сопровождать кого-то вроде них.
+
+# Original: Tch… Is that why he dropped us so far away from the place? Because he was ashamed of us?!
+Хитклиф: Тц… Это поэтому он нас фиг знает где высадил? Потому что ему стыдно было?!
+
+# Original: …Doesn’t anyone have a thing to say about us being belittled?
+Ишмаэль: …Никто не собирается чем-нибудь возразить на эти унижения?
+
+# Original: And won’t all the boasting and bluffing not do much if we don’t introduce ourselves first?
+Ишмаэль: Да и что толку от этих бахвальства и блефа, если мы даже не представились?
+
+# Original: These two will be our cooperators for this mission. They’re from the Limbus Company Clearance department, also known as the LCC.
+Фауст: Эти двое будут нашими партнёрами в этой миссии. Они из отдела исполнения компании «Лимбус», также известном как "LCC".
+
+# Original: The Before Team of Clearance, please. Ah, I’m Saude, and this here is Effie.
+Сауде: Команда подготовки исполнения, пожалуйста. Ах, я — Сод, а это — Эффи.
+
+# Original: What, are we supposed to clap or…
+Хитклиф: Ну и, нам в ладоши похлопать или чё…
+
+# Original: Wonderful! It’s a pleasure!
+Хон Лу: Потрясающе! Очень приятно!
+
+# Original: Hong Lu was the only person on the team welcoming them with total sincerity. (He almost even gave a standing ovation.)
+Рассказчик: Хон Лу – единственный из всей команды, кто искренне приветствует их.
+(Он чуть ли не аплодирует стоя.)
+
+# Original: A good half of the rest stared at the two with cold eyes, and the others wary, until introductions were finished.
+Рассказчик: Добрая половина остальных метала в сторону этих двух холодные взгляды, а остальные насторожились, пока с представлениями не было покончено.

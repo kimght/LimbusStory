@@ -1,0 +1,29 @@
+﻿# Original: Hm? What’s up?
+Босс банды Бом-бом: Хм? Что стряслось?
+
+# Original: Boss! Some fasole who haven’t even told where they’re from rolled into town all of a sudden!
+Член банды Бом-бом: Босс! Тут в город прикатила хрен пойми откуда взявшаяся фасоль!
+
+# Original: Who sent ya? The way you’re dressed tells me it ain’t Los Habaneros or the Butchers…
+Босс банды Бом-бом: Кто вас послал? Судя по одежде, вы не из Хабанерос или Мясников…
+
+# Original: I’ll give you a chance to grovel fer forgiveness. Do that and I’ll let ya leave with your limbs in tow.
+Босс банды Бом-бом: Дам вам шанс вымолить пощаду. Убедите — отпущу вас целыми и невредимыми.
+
+# Original: …We should gladly part if you were to take off your clothing for us.
+И Сан: …Мы с радостью покинем вас, если вы разденитесь для нас.
+
+# Original: That makes it sound kinda weird.
+Грегор: Это звучит немного… странно.
+
+# Original: Boss… I think they might be the… odd pods people have been talking about… y’know, rumored to fadangle with people’s odors.
+Член банды Бом-бом: Босс… Мне кажется, это, ну… те самые стручки, о которых люди треплятся… знаете, говорят, что они ещё по человеческому аромату тащатся.
+
+# Original: Greh… Disgusting bunch… Lemme tell ya, that’s no way to live…
+Босс банды Бом-бом: Гых… Мерзкая компашка… Ну уж нет, живыми их не отпустим…
+
+# Original: Now, our assumed big boss of the gang is looking at us with genuine disgust.
+Рассказчик: Предполагаемый босс банды теперь смотрел на нас с неподдельным отвращением.
+
+# Original: <…I have not wanted to win a fight as desperately as I do now.>
+Данте: <…Мне ещё никогда так сильно не хотелось выиграть бой, как сейчас.>

@@ -1,0 +1,56 @@
+﻿# Original: Please state the corporate entities that colluded with you in the war.
+Рассказчик: Прошу перечислить корпорации, которые вели войну в союзе с вами.
+
+# Original: …F Corp, and E Corp.
+Отис: …Корпорация F и корпорация E.
+
+# Original: …Any others?
+Рассказчик: …Кто-нибудь ещё?
+
+# Original: The child was vexed by the question, especially so, as she knew that having the expected answer come out of her mouth would put her standing in jeopardy.
+Рассказчик: Дитя было раздражено вопросом, ведь оно прекрасно понимало, что председатель знает ответ, но заставляет ответить дитя, подвергая себя тем самым опасности.
+
+# Original: …The old L Corp.
+Отис: …Бывшая корпорация L.
+
+# Original: What you’ve just testified would signify that you fought alongside the instigator of the war. Do you admit this?
+Рассказчик: Из ваших показаний следует, что вы сражались рука об руку с зачинщиком войны. Вы это признаёте?
+
+# Original: I was only following G Corp’s orders as an employee—!
+Отис: Я просто следовала приказам корпорации G, будучи её сотрудником-!
+
+# Original: Manager Outis, please.
+Рассказчик: Командир Отис.
+
+# Original: Annoyed by the child speaking out of turn, the judge lifted a hand to stop her from further interruption.
+Рассказчик: Председатель суда, недовольный разговором дитя вне очереди, поднял руку, чтобы то перестало его прерывать.
+
+# Original: …Manager Outis.
+Отис: …Я.
+
+# Original: Listen, the war has ended. Furthermore, it was your side that won.
+Рассказчик: Послушайте, война окончена. И, к тому же, вы одержали победу.
+
+# Original: G Corp. acquired what it sought: decades’ worth of energy from byproducts of the smoke.
+Рассказчик: Корпорация G получила своё: побочные продукты от дыма поспособствуют выработке энергии на целые десятилетия.
+
+# Original: This court is not being held to find you responsible or punish you. Do you understand?
+Рассказчик: Этот трибунал собран не ради того, чтобы признать вас ответственной за что-либо или наказать. Понимаете?
+
+# Original: “As if.” The child thought to herself.
+Рассказчик: „Да конечно“, — подумало дитя.
+
+# Original: The victory of G Corp’s alliance does not mean that its influence extends to the whole City.
+Рассказчик: Победа альянса корпорации G не означает, что её влияние распространится на весь Город.
+
+# Original: Rather, it comes with a problem: As the war involved the inextricably intertwined interests of several Wings, the victor will need its justifications.
+Рассказчик: Напротив, поскольку война затронула неразрывно переплетённые интересы сразу нескольких Крыльев, победителю нужно было достойное оправдание.
+
+# Original: For those sorts of matters… the obvious move for a company would be to appear as innocent as possible in the public eye by reprimanding an easy target…
+Рассказчик: Поэтому лучшим ходом действий для компании… будет выставить себя невинным победителем в глазах общественности, а вину свалить на козла отпущения.
+
+# Original: “…And that’s why I’ll be thrown to the wolves.” She concluded.
+Рассказчик: „Была бы на их месте — сделала бы так же“, — подумало дитя.
+
+# Original: …I understand, your honor.
+Отис: …Понимаю.

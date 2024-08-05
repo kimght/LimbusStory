@@ -1,0 +1,65 @@
+﻿# Original: Give me a second.
+Ишмаэль: Погодите минутку.
+
+# Original: What is it?
+Фауст: Да?
+
+# Original: I joined this company because I was told that I’ll be able to advance my career without slowing down.
+Ишмаэль: Я пришла в эту компанию, потому что мне пообещали постоянный карьерный рост.
+
+# Original: But right now… it’s nothing but meaningless violence, like we’re Rats or something.
+Ишмаэль: Но сейчас… сейчас я вижу лишь бессмысленную и беспощадную жестокость, словно мы — простая свора Крыс.
+
+# Original: I object to its meaninglessness! Those were evildoers who attacked us!
+Дон Кихот: Эта жестокость не бессмысленна! Они — злодеи, напавшие на нас!
+
+# Original: Please, just—be quiet for a moment.
+Ишмаэль: Слишком громко, пожалуйста, помолчи.
+
+# Original: …Anyway, if all we’re gonna do is beat up people under orders like hired thugs, I’ll have to consider changing jobs sooner or later.
+Ишмаэль: …Во всяком случае, если вы продолжите приказывать нам избивать людей, словно мы какой-то захудалый синдикат, я начну думать о смене места работы.
+
+# Original: Haven’t you read your contract?
+Фауст: Вы внимательно читали договор о найме?
+
+# Original: …Resignation is not permitted.
+Фауст: …Об уходе не может быть и речи.
+
+# Original: …Do you think the contract has any sway if it’s based on lies?
+Ишмаэль: …То есть вы хотите сказать, что договор остаётся в силе даже несмотря на то, что всё написанное в нём — ложь?
+
+# Original: Of course it does.
+Фауст: Конечно же, он остаётся в силе.
+
+# Original: There were no lies on it.
+Фауст: Потому что в нём нет ни капли лжи.
+
+# Original: …Huh?
+Ишмаэль: …Разве?
+
+# Original: You didn’t think Mephistopheles was built to be a mere means of transportation, did you?
+Фауст: Неужели вы считаете, что я сделала бы Мефистофеля лишь автобусом, который только перевозит нас с места на место?
+
+# Original: Mephi is always hungry. It keeps crying.
+Харон: Мефи голоден. Он плачет.
+
+# Original: <The bus gets hungry?>
+Данте: <Автобус может быть голоден?>
+
+# Original: When the engine “ingests” fuel, it yields a byproduct…
+Фауст: При "потреблении" топлива, двигатель выделяет субпродукт…
+
+# Original: Using that, you can grow more powerful.
+Фауст: Который делает вас сильнее.
+
+# Original: I’m sure Yi Sang knows this well. When all possibilities are drawn from the mirror…
+Фауст: Уверена, И Сан прекрасно понимает это. Если извлечь все хранящиеся в Зеркале возможности…
+
+# Original: There is no limit to one’s growth.
+И Сан: Не существует никаких препятствий для роста.
+
+# Original: Is the self in the mirror my reflection, or another being entirely?
+И Сан: Я ли в зеркале или кто-то совершенно иной?
+
+# Original: <Possibilities…? You draw what, exactly?>
+Данте: <Возможности…? Что именно мы извлекаем?>

@@ -1,0 +1,65 @@
+﻿# Original: I see… This is what that was about.
+Ишмаэль: Понятно… Вот что вы имели в виду.
+
+# Original: There’s no need to get impatient, Ishmael. As the bus goes onward, you’ll naturally…
+Фауст: Не стоит так спешить, Измаил. Пока автобус едет, естественно, что…
+
+# Original: You’ll naturally take on more important tasks than beating the life out of random crooks.
+Вергилий: Естественно, что на ваши плечи опустится множество более важной работы, чем избиение случайных прохожих.
+
+# Original: I know you’re eager to achieve your goals… but do try to have patience.
+Вергилий: Понимаю, желание добиться своих целей овладевает вами… Но имейте же терпение.
+
+# Original: …Tch.
+Ишмаэль: …Тц.
+
+# Original: Since this works by whisking out one of our limitless possibilities from the mirrored world, it’ll have overwritten a part of our memories.
+Фауст: Мы извлекаем одну из множества возможностей Зеркального мира, так что часть ваших воспоминаний может на время "перезаписаться".
+
+# Original: You’ll get used to it in no time.
+Фауст: Вы вскоре к этому привыкнете.
+
+# Original: Whoa, hang on… That sounds a bit dangerous, don’t it?
+Родион: Что же… Звучит немного опасно, разве нет?
+
+# Original: What if I’m no longer my old self by the end? Heheh.
+Родион: Что, если в конце концов я перестану быть собой? Кха-ха.
+
+# Original: ……
+Вергилий: ……
+
+# Original: Don’t mistake yourselves for the Ship of Theseus.
+Фауст: Вы — не корабль Тесея.
+
+# Original: While it’s true that you borrow the identities and memories, the system is designed to ensure that you don’t lose control over your own existence.
+Фауст: Вы временно приобретаете новый характер и воспоминания, однако вы не должны потерять контроль над самими собой.
+
+# Original: Different though your reflection may be, it is bound to vanish once you walk away from the mirror.
+И Сан: Ваше отражение может быть совершенно иным, но оно исчезнет, стоит вам отойти от Зеркала.
+
+# Original: …How our capability grows ultimately depends on you, Manager Dante.
+Фауст: То, как мы будем расти, зависит от господина Данте.
+
+# Original: It is up to you to place the most effective figment of possibility on us at the right times.
+Фауст: И вы, Данте, сможете подбирать различные отражения в наиболее подходящий момент.
+
+# Original: I believe that’s what you call a metamorphosis.
+Отис: Полагаю, вы говорите о метаморфозе.
+
+# Original: Yes, I suppose you could say that it’s a form of transformation.
+Фауст: Да, можно сказать, что это — форма превращения.
+
+# Original: Golly, where’d you learn big words like that?
+Родион: Божечки, где же вы набрались таких сложных слов?
+
+# Original: I picked it up. My prior profession required meeting people with various occupations.
+Отис: Услышала. Я некогда работала там, где мне приходилось встречаться с большим количеством людей.
+
+# Original: Verwandlung, huh…
+Грегор: Превращение…
+
+# Original: Done chatting?
+Вергилий: Вы закончили говорить?
+
+# Original: Let’s make the way first. You’ll spend more time together than you’d ever ask for, so keep that convo for later.
+Вергилий: Сначала расчистим дорогу. У вас будет полно времени, даже больше, чем вы хотели бы, так что оставьте болтовню на потом.

@@ -1,0 +1,92 @@
+﻿# Original: So what? That was it?
+Хитклиф: Что? Это всё?
+
+# Original: I heard Abnormalities were supposed to be so powerful that even suppressing them is a dangerous task…
+Ишмаэль: Я слышала, что аномалии настолько сильны, что просто усмирить их уже крайне тяжело…
+
+# Original: It’s the Qliphoth Deterrence in action.
+Фауст: Сдерживание Клипот всё ещё в силе.
+
+# Original: Huh? Coffee pots?
+Хитклиф: Чегось? Клей-порт?
+
+# Original: …A force that weakens Abnormalities. Its original purpose is to safely supervise them in containment.
+Фауст: …Сила, что ослабляет тела аномалий. Она используется в камерах содержания для их безопасного сдерживания.
+
+# Original: As we continue our assignment in collecting more Golden Boughs, the deterrence will weaken as well. Although this was a simple battle…
+Фауст: Но чем больше Золотых ветвей мы соберём, тем слабее станет сдерживание Клипот. Так что сейчас они кажутся просты в усмирении, но дальше…
+
+# Original: …Later on, one of them might take our lives more than a hundredfold to handle it.
+Ишмаэль: Возможно, нам придётся умирать по сто раз, чтобы усмирить одну такую…
+
+# Original: That’s a terrifying thought…
+Рассказчик: Только представив это, я почувствовал, как сильно моя голова закружилась…
+
+# Original: <…Where’d its corpse go, anyway? I’m pretty sure that attack did it in…>
+Данте: <…Но где тело аномалии? Мне казалось, мы только что убили её…>
+
+# Original: It was felled without a doubt. All thanks to your exceptional command, Manager.
+Отис: Очевидно, что оно срублено. Всё благодаря вашему превосходному командованию, Менеджер.
+
+# Original: <It couldn’t have disappeared into the sky…>
+Данте: <Не могло же оно просто улететь в небо…>
+
+# Original: Brilliant insight as always, Manager. Such possibilities cannot be ruled out.
+Отис: Прекрасная мысль, Менеджер. Нельзя исключать такую возможность.
+
+# Original: …Is the tough-looking ceiling above us not a thing to you two?
+Грегор: …То есть непробиваемо твёрдый потолок над нами для вас не существует?
+
+# Original: …Over there.
+Юри: …Посмотрите сюда.
+
+# Original: Listless, Yuri pointed at something.
+Рассказчик: Юри с беспомощным видом указывала пальцем в сторону.
+
+# Original: The shock of losing Aya must’ve shaken her badly, but seeing her hold her own and keep her head up…
+Рассказчик: Мне казалось, её сильно пошатнёт смерть Аи, но, глядя на то, как она старалась держаться молодцом…
+
+# Original: I felt I should let her be and follow along with her for a while.
+Рассказчик: Вместо того, чтобы сотрясать воздух словами, я решил последовать за Юри.
+
+# Original: <…Is that an egg?>
+Данте: <…Яйцо.>
+
+# Original: It’s the core of the Abnormality. When suppressed via appropriate measures, it will be reduced to this condensed ovate form.
+Фауст: Это ядро аномалии. При усмирении, тела аномалий формируют яйцо.
+
+# Original: …And it’ll hatch, once enough time has passed here.
+Юри: …И спустя некоторое время, они вылупляются снова.
+
+# Original: Hatch? You’ve got to be joking…
+Хитклиф: Чего? Да вы, сука, издеваетесь…
+
+# Original: You mean, those things won’t die?
+Ишмаэль: То есть вы хотите сказать, что эти твари не умирают?
+
+# Original: Abnormalities simply cannot die. It’s one of the factors that contributed to L Corp’s massive energy production.
+Фауст: Аномалии не способны умереть. Именно поэтому корпорация «Лоботомия» производила такое большое количество энергии.
+
+# Original: As an employee, my job was to put the core back in its containment unit… Now things have changed.
+Юри: Раньше, я возвращала яйца в камеры содержания… Теперь всё иначе.
+
+# Original: Umm… What can we do before this egg hatches?
+Ишмаэль: Э-эм… И что нам делать, пока это яйцо не вылупилось снова?
+
+# Original: Limbus Company has a department dedicated to dealing with Abnormalities like this. They’ll retrieve them for us.
+Фауст: В компании «Лимбус» есть специальный отдел, занимающийся аномалиями. Они заберут его.
+
+# Original: Right… Was it the After Team? I remember hearing about them during orientation.
+Юри: Команда… "After"? Я слышала что-то такое, когда меня готовили к встрече с вами.
+
+# Original: What’s stopping you from calling them now?
+Родион: Тогда почему бы нам не позвать их прямо сейчас?
+
+# Original: The transmission device… is on Mephistopheles.
+Фауст: Устройство передачи… Находится в Мефистофеле.
+
+# Original: …Figures.
+Грегор: …Как знал.
+
+# Original: No need to worry. Once we have the Golden Bough, we’ll return whether we like it or not.
+Фауст: Не беспокойтесь. Получив Золотую ветвь, мы всё равно будем вынуждены возвратиться этой дорогой.

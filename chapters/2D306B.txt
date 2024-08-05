@@ -1,0 +1,371 @@
+﻿# Original: Before us stood a monumental castle of ice, and frozen pillars that seemed unbreakable.
+Рассказчик: Перед нами возвышался монументальный ледяной дворец, чьи замёрзшие колонны казались нерушимыми.
+
+# Original: And there stood a person…
+Рассказчик: И там стоял человек…
+
+# Original: A man with hyaline hair, clear as ice, waiting for us.
+Рассказчик: Парень с белыми, как снег, волосами, ждал нас.
+
+# Original: I came here often whenever I felt the need to clear my thoughts, even though there’s no rocking chairs or whisky you like…
+Соня: Я часто сюда приходил, когда чувствовал нужду привести мысли в порядок, хоть здесь и нет ни кресел-качалок, ни виски, которые ты любишь…
+
+# Original: The chill dominating this place pierces even the thickest coat. It helps me restore a lucid mind.
+Соня: Холод, царящий здесь, пронизывает даже в самой толстой шубе. Он помогает мне прояснить ум.
+
+# Original: While the rest of us were frozen stiff, stuck watching, Rodya made a slow step forward to face him.
+Рассказчик: Пока мы стояли словно замороженные, следя за происходящим, Родя медленно шагнула вперёд, став к нему лицом к лицу.
+
+# Original: Didn’t expect you to be here first.
+Родион: Не ожидала, что ты опередишь нас.
+
+# Original: My men and I knew of a shortcut leading here.
+Соня: Я и мои люди знаем короткий путь сюда.
+
+# Original: It was something we learned through the local ruffians, all in search of the whereabouts of a buried, great power, waiting to be used for the greater good.
+Соня: Мы узнали о нём от местных бандитов, всё рыскающих в поисках погребённой великой власти, ожидающей, когда ею воспользуются для высшего блага.
+
+# Original: Alas, this… area surrounding the Golden Bough was as far as we could go; we didn’t see any way to get closer.
+Соня: Увы, но… мы смогли добраться лишь до территории, окружающей Золотую ветвь; подобраться ближе у нас не вышло.
+
+# Original: Thought you’d never leave District 25, but seeing you now—resorting to the tactics gangsters would use—maybe you should’ve stayed a country boy.
+Родион: Не думала, что ты оставишь двадцать пятый Район, но увидев тебя здесь — прибегающего к тактикам, подобающим простому синдикату, — может, тебе бы следовало и дальше оставаться деревенским мальчишкой.
+
+# Original: Sonya, your lackeys have been taking from shopkeeps who weren’t even rich to begin with.
+Родион: Соня, твои прихвостни обдирали даже тех лавочников, что не были особо богаты.
+
+# Original: …Did you know, Rodya? This was little more than a somewhat eccentric hollow with frosty walls.
+Соня: …Ты знала, Родя? Когда-то это было не чуть более чем эксцентричной полостью в заледенелой стене.
+
+# Original: Yet look at this. Now there’s a giant castle and thick columns of ice.
+Соня: А теперь взгляни. Это гигантский дворец с величавыми ледяными колоннами.
+
+# Original: This change happened the instant you walked in.
+Соня: И всё это воздвинулось, стоило тебе появиться.
+
+# Original: …You sound like you figured this would happen on my arrival. How’d you know?
+Родион: …Звучит так, словно ты ожидал, что это произойдёт по моему прибытии. Как ты узнал?
+
+# Original: I have many sources… But that’s none of your business, Rodya.
+Соня: У меня много источников… Но это не твоё дело, Родя.
+
+# Original: What makes you so sure that I made this happen in the first place? I’m not some kinda Backstreets witch or anything.
+Родион: Но с чего ты так уверен, что всему причиной я? Я не какая-то переулочная ведьма или типа того.
+
+# Original: It’s not hard at all to figure out. Observing those faces encased in ice says enough.
+Соня: Это не так уж и сложно понять. Эти лица, закованные в лёд, уже говорят сами за себя.
+
+# Original: Take a peek. They’re ones you loved yet looked down on, are they not?
+Соня: Взгляни. Те, кого ты любила, но на кого смотрела свысока, не так ли?
+
+# Original: Two-fifty thousand Ahn.
+Рассказчик: Двести пятьдесят тысяч ан.
+
+# Original: That’s all it’s worth? It’s not possible…
+Рассказчик: Неужели она стоит такие гроши? Быть того не может…
+
+# Original: You said precisely why, though? Its age is showing in all the scratches and lack of polish.
+Рассказчик: Но ты же сама сказала почему, нет? По царапинам и отсутствию полировки видно, что она не нова.
+
+# Original: To be frank, others wouldn’t pay any more than two hundred thousand for this.
+Рассказчик: Говоря откровенно, другие бы отдали не больше двухсот тысяч..
+
+# Original: And the rest… All worthless garbage.
+Рассказчик: А всё остальное… никчёмный хлам.
+
+# Original: That makes the taxes you owe four hundred thousand Ahn in total.
+Рассказчик: Итого, сумма налога, которую тебе надо уплатить — четыреста тысяч ан.
+
+# Original: Why do the poor only grow poorer the harder they work?
+Родион: Почему бедняки лишь сильнее беднеют, если работают усердней?
+
+# Original: It’s ridiculous, isn’t it? While stacks of cash piled up in the pawnbroker’s vault…
+Родион: Это же смешно, разве нет? Пока хранилища ломбардов набиваются пачками наличных…
+
+# Original: Our neighborhood was being wrung dry, heirlooms weighed for what little monetary value they had.
+Родион: Наш Район выжимали досуха, а семейные реликвии оценивали по цене ниже, чем те стоили на самом деле.
+
+# Original: Sonya rallied people, delivering speeches using big words.
+Родион: Соня сплачивал людей, произнося речи с громкими словами.
+
+# Original: They organized a group under the name of the ‘Yurodiviye’.
+Родион: Они создали группу под названием "Юродивые".
+
+# Original: It went okay at first. Even the thickest folks were inspired by Sonya’s words to help the impoverished in the Backstreets.
+Родион: И поначалу всё шло хорошо. Даже тугодумы вдохновлялись словами Сони о помощи обездоленным в Переулках.
+
+# Original: But, Sonya still had a dissatisfied expression.
+Родион: Но Соня всё ещё выглядел недовольным.
+
+# Original: Ultimately, the Yurodiviye warped into an organization that cared more for debating about how best to change the streets and the Nest, rather than going out to help those in need.
+Родион: В конечном счёте, Юродивые стали организацией, которую больше заботили дискуссии, как изменить улицы и Гнёзда, нежели помощь нуждающимся.
+
+# Original: That’s why I left them.
+Родион: Вот почему я ушла от них.
+
+# Original: Being an armchair revolutionary wasn’t going to feed our starving neighbors!
+Родион: Кабинетным революционером не прокормить наших голодающих земляков!
+
+# Original: But I told you time and time again, Rodya. That we must wait for the right moment.
+Соня: Но я вновь и вновь говорил тебе, Родя. Нам нужно выждать правильный момент.
+
+# Original: Sonya, I’m sorry, but that “moment” you kept talking about…
+Родион: Соня, прости, но этот "момент", о котором ты всё треплешься…
+
+# Original: It didn’t come when the Yurodiviye’s youngest… when little Ivan had to sate his hunger with food from the garbage.
+Родион: Не придёт, пока младшие Юродивые… когда маленькому Ивану приходилось утолять свой голод объедками из помойки.
+
+# Original: Nor did it arrive after he suffocated to death.
+Родион: И не придёт даже после того, как он задохнулся.
+
+# Original: To achieve a monumental task, well-thought policies and a great power to carry them are required. All to make the redistribution of wealth happen.
+Соня: Для достижения грандиозной задачи нужны хорошо продуманная политика и большая мощь. И всё для того, чтобы произошло перераспределение богатств.
+
+# Original: And in the process of moving towards progress, such minor troubles on a personal level are inevitable.
+Соня: И в процессе продвижения к прогрессу такие мелочные проблемы на личном уровне неизбежны.
+
+# Original: That’s minor to you? The whole thing was personal, we started this to help others.
+Родион: Мелочные для тебя? Это всё было личным, мы затеяли это, чтобы помочь другим.
+
+# Original: What you and the Yurodiviye were doing wasn’t what I’d hoped for.
+Родион: А то, что творил ты с Юродивыми, не было тем, на что я надеялась.
+
+# Original: Is that why you decided to take matters into your own hands?
+Соня: Так вот почему ты решила взять всё в свои руки?
+
+# Original: Absolutely. What our town needed…
+Родион: Верно. Наш город нуждался…
+
+# Original: Wasn’t an empty promise telling people to sit on their hands for who knows when.
+Родион: Не в пустых обещаниях, призывающих людей сидеть сложа руки невесть сколько.
+
+# Original: But someone who wouldn’t hesitate to pick up the axe.
+Родион: А в ком-то, кто бы без колебаний взялся за топор.
+
+# Original: I bet most of my neighbors had been starving for four nights straight that day.
+Родион: Бьюсь об заклад, почти все мои земляки в тот день голодали уже четвёртую ночь.
+
+# Original: Yet the biting wind kept hounding without mercy, clawing at the chapped skin of the famished peasants.
+Родион: Однако пронизывающий ветер продолжал безжалостно дуть, царапая истрескавшуюся кожу голодающих крестьян.
+
+# Original: And I happened to know whose safe kept more than enough money to treat my neighbors to a feast for days and still be just as full.
+Родион: И я случайно узнала, что в сейфе хранилось столько денег, что я могла бы закатывать пиры своим землякам несколько дней, и он оставался бы таким же полным.
+
+# Original: So, what did you do?
+Соня: И что же ты сделала?
+
+# Original: …Gimme a sec. Can’t I pull out of this now?
+Родион: …Дай секундочку. Я не могу остановиться на этом?
+
+# Original: This is a confessional created for you as a result of the Golden Bough resonating with your psyche.
+Соня: Это исповедь, созданная в результате резонанса Золотой ветви с твоей психикой.
+
+# Original: Moreover, a confessional’s purpose is to lead a sinner to the path of penance.
+Соня: Более того, цель исповеди — направить грешника на путь покаяния.
+
+# Original: ... ....... ... .... ....... .. ....
+Рассказчик: ... ....... ... .... ....... .. ....
+
+# Original: If only that old woman had changed her mind before it came to an end…
+Родион: Если б только эта старуха передумала до того, как всё кончилось…
+
+# Original: But Rodya…
+Соня: Но, Родя…
+
+# Original: You must have known that a terminal leech upon her neighbors would never turn over a new leaf.
+Соня: Ты должна была знать, что смертельная пиявка, присосавшаяся к своим землякам, никогда не начнёт с чистого листа.
+
+# Original: You know she wasn’t the kind of person who’d give up that life to turn into a generous philanthropist.
+Соня: Ты знала, что она не из тех, кто отказался бы от такой жизни в угоду щедрой филантропии.
+
+# Original: You wouldn’t have knocked on her door with an axe in hand otherwise.
+Соня: Иначе бы ты не постучалась в её дверь с топором в руке.
+
+# Original: Poor Rodion, dear, you seem to be under the delusion that you’re some sort of savior…
+Рассказчик: Бедная Родя, дорогуша, ты, кажется, пребываешь в заблуждении, что ты своего рода освободительница…
+
+# Original: Demanding my money so brazenly to my face won’t change anything.
+Рассказчик: Ты ничего не изменишь, так нахально требуя мои деньги прямо мне в лицо.
+
+# Original: You vermin are no different from the paupers in the Backstreets.
+Рассказчик: Вы, паразиты, ничем не отличаетесь от нищих из Подворотен.
+
+# Original: That’s right.
+Родион: Верно.
+
+# Original: I’m the one who put an axe through her head.
+Родион: Я была той, кто вонзил топор ей в голову.
+
+# Original: Like cutting open the belly of the goose that laid golden eggs, I chopped that hag’s skull.
+Родион: Подобно тому, как вспарывают нутро гусыни, что несёт золотые яйца, я раскроила череп этой карге.
+
+# Original: I mean, someone had to do it. Am I wrong?
+Родион: В плане, кто-то же должен был это сделать. Я ошибаюсь?
+
+# Original: Unlike the foolish cottager in the fable who gave in to greed and lost out on becoming richer…
+Родион: Но в отличии от глупого крестьянина из сказки, поддавшемуся жадности и проигравшему всё накопленное…
+
+# Original: We were overcome with hunger and misery, and could have gladly eaten out her brains.
+Родион: Мы были измучены голодом и нуждой, настолько, что с радостью съели бы и её мозги.
+
+# Original: And her “belly” was full of golden eggs, unlike that of the goose.
+Родион: И, в отличии от гусыни, её "нутро" было полно золотых яиц.
+
+# Original: Yes, the old lady you killed was a tax collector wielding considerable authority in District 25.
+Соня: Да, старушка, что ты убила, была сборщицей налогов, обладающей весомым авторитетом в двадцать пятом Районе.
+
+# Original: But what gave her so much power… was her sibling’s status as a member of the Middle.
+Соня: Но власть ей давал… её статус младшей сестры в Среднем.
+
+# Original: I… struck her down to save my dying neighbors. Is that so wrong?
+Родион: Я… зарубила её, чтобы спасти своих земляков. Неужели это было неправильно?
+
+# Original: No, you held that axe for your own good.
+Соня: Нет, ты держала этот топор для себя.
+
+# Original: You couldn’t stand the fact that you weren’t anyone special.
+Соня: Ты не могла смириться с тем, что ты не особенная.
+
+# Original: Did you know? The Middle… never lets anyone who touches their family go unpunished.
+Соня: Ты не знала? Средний… никогда не оставляет тех, кто тронет члена их семьи, безнаказанным.
+
+# Original: They aren’t too interested in finding *who* exactly did it; rather, they like to demonstrate clearly *what* happens to the poor fools that dare disturb them.
+Соня: Они не очень-то заинтересованы в том, <b>кто</b> это сделал; им, скорее, по нраву демонстрировать то, <b>что</b> случится с глупцами, посмевшими их побеспокоить.
+
+# Original: The Backstreets residents who’d tasted the joy of quality meat for the first time in their lives soon made towering cadaverous pillars out on the roads.
+Соня: Вскоре на дороге начали возвышаться кучи трупов жителей Подворотен, впервые в жизни испытавших радость от вкушения качественного мяса.
+
+# Original: Not much different from the car pagodas outside the casino.
+Соня: Не сильно отличающиеся от машинных пагод снаружи казино.
+
+# Original: I’m well aware of how much pain and guilt you’ve been burdened with ever since then.
+Соня: Я прекрасно осознаю, сколько боли и вины ты пронесла с тех пор.
+
+# Original: Living with the realization that you really weren’t so different from the foolish cottager after all.
+Соня: Жить, осознавая, что ты, в конечном счёте, ничем не отличаешься от глупого крестьянина.
+
+# Original: Since that day… Nothing I held truly felt like it was mine.
+Родион: С того дня… Ничего, что я бы держала, не казалось мне моим.
+
+# Original: All because of me…
+Родион: Всё из-за меня…
+
+# Original: It’s all fine, Rodya.
+Соня: Всё в порядке, Родя.
+
+# Original: For you see, Rodya.
+Соня: Видишь ли, Родя.
+
+# Original: To change the world, I perused hundreds of books and thousands of documents…
+Соня: Чтобы изменить мир, я перечитал сотни книг и тысячи документов…
+
+# Original: And I met various people all around the City.
+Соня: И встретил множество людей по всему Городу.
+
+# Original: Picturing a world where the oppressed can escape from the exploitative dominion of the ruling class and find liberation in the truest sense.
+Соня: Представлял мир, в котором угнетённые могут вырвать из-под эксплуататорского господства правящего класса и обрести свободу в самом прямом смысле.
+
+# Original: To make that world a reality.
+Соня: Чтобы претворить этот мир в жизнь.
+
+# Original: However, the answer didn’t lie in changing what was already there. Once a page of history is written, there’s no way to go back and revise it.
+Соня: Однако вопрос не в том, чтобы изменить уже имевшееся. Стоит истории написать страницу, пути вернуться назад и переписать её уже нет.
+
+# Original: Look. This is the world we can reach.
+Соня: Взгляни. Это мир, которого мы можем достичь.
+
+# Original: A world… that can be created using the Golden Bough with which you resonated.
+Соня: Мир… что можно создать Золотой ветвью, с которой ты срезонировала.
+
+# Original: May there be no one upon this earth suffering from starvation.
+Соня: На сей земле никто не будет страдать от голода.
+
+# Original: May every individual enjoy the right to pursue psychological and intellectual delights.
+Соня: И у каждого человека будет право на на получение психологических и интеллектуальных благ.
+
+# Original: …Join hands with me, and I’ll give you that world as a gift.
+Соня: …Пожми мне руку, и я дарую тебе этот мир.
+
+# Original: As if nothing up to this point had ever happened at all.
+Соня: Будто ничего до этого момента не было.
+
+# Original: Ah.
+Родион: Ах.
+
+# Original: A feeling nobody else would understand.
+Родион: Чувство, что больше никто не поймёт.
+
+# Original: Even a glimpse of that world felt so dreamlike.
+Родион: Даже мимолётный взгляд на этот мир был сродни сладкому сну.
+
+# Original: I wanted to etch that mesmerizing instant into my memory.
+Родион: Я хочу запечатлеть этот завораживающий момент в своей памяти.
+
+# Original: If this was a dream, I’d even wish I was part of it so that I would never have to leave it.
+Родион: Если бы это был сон, я бы даже пожалела, что я не была его частью, чтобы мне никогда не пришлось его покидать.
+
+# Original: And yet…
+Родион: А пока…
+
+# Original: Sorry, I’m still turning down your offer.
+Родион: Прости, но я всё ещё отклоняю твоё предложение.
+
+# Original: How to put it…
+Родион: Как бы так выразиться…
+
+# Original: I don’t wanna bathe in warmth just yet. I feel like I oughta be in this cold a bit longer.
+Родион: Я пока не хочу купаться в тепле. Кажется, мне стоит побыть в этом холоде ещё немного.
+
+# Original: Think I’ll stay this way until I find my answer to the question of when it’ll be okay to warm myself.
+Родион: Думаю, я буду идти этим путём пока не посчитаю, что мне самой пора согреться.
+
+# Original: And also, Sonya…
+Родион: И ещё, Соня…
+
+# Original: You knew my temper would get the best of me and get me to kill her, didn’t you?
+Родион: Ты же знал, что мой темперамент всё равно возьмёт вверх и заставит меня убить её, не так ли?
+
+# Original: ……
+Соня: ……
+
+# Original: Rodya, this will probably elude you, but you don’t have the mark.
+Соня: Родя, это, возможно, пройдёт мимо от тебя, но у тебя нет печати.
+
+# Original: I came here hoping to see you possess it, but I’m seeing it on a few of your friends instead.
+Соня: Я пришёл в надежде, что она у тебя есть, но вместо этого я вижу её на нескольких твоих друзьях.
+
+# Original: The mark? What do you…
+Родион: Печать? Что ты…
+
+# Original: Besides, you can’t see the mark, either. In other words… you don’t have what it takes to be a leader.
+Соня: Кроме того, ты даже не видишь печать. Другими словами… у тебя нет того, что нужно лидеру.
+
+# Original: But I’m different. So, to make a better world—
+Соня: Я другой. И так, чтобы сделать мир лучше—
+
+# Original: Yepper, I think I ‘member hearing you say something like that while sat at a desk buried in books.
+Родион: Агась, думаю, я уже слышала, как ты говорил что-то подобное, сидя за столом, обставившись книжками.
+
+# Original: …That’s why I can’t join you.
+Родион: …Вот почему я не присоединюсь к тебе.
+
+# Original: I still believe that it’s not big words behind closed doors that feed your neighbors.
+Родион: Я остаюсь при мнении, что земляков кормят не громкие слова за закрытыми дверями.
+
+# Original: And as I’m sure you’ve learned by now…
+Родион: И, чтобы убедиться, что ты понял…
+
+# Original: There’s no way a rowdy rascal like me would fit under some dweeb’s leadership, right? Hahah!
+Родион: Такая буйная пройдоха, как я, не пойдёт под командование к какому-то задохлику, усёк? Ха-хах!
+
+# Original: ……
+Соня: ……
+
+# Original: The Golden Bough awaits inside the castle, Rodya.
+Соня: Золотая ветвь ждёт тебя во дворце, Родя.
+
+# Original: I hope you’ll be able to find what you seek.
+Соня: Надеюсь, ты найдёшь, что ищешь.
+
+# Original: We walked past Sonya, and then made our way into the icy castle he indicated.
+Рассказчик: Мы прошли мимо Сони и направились на указанный им ледяной дворец.

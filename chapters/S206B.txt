@@ -1,0 +1,80 @@
+﻿# Original: Ohh…? Come hither, fellows, and lend me your gazes!
+Дон Кихот: О-о-о…? Подите ближе, товарищи, и сами же воочию узрите!
+
+# Original: …What is all this?
+Синклер: …Что это?
+
+# Original: Cars are heaped upon each other as if to form a tower.
+И Сан: Машины нагромоздили друг на друга, построив из них башни.
+
+# Original: Sombre.
+Мерсо: Мрачновато.
+
+# Original: The structures that seemed towerlike at a distance were actually cars stacked upon each other.
+Рассказчик: Конструкции, издалека походившие на башни, на деле оказались поставленными друг на друга машинами.
+
+# Original: Why are so many piled up like this…?
+Синклер: Откуда они все тут вообще взялись…?
+
+# Original: Oho, some have scripts upon their wind-shields! It must have been their families’ writing!
+Дон Кихот: Ого, на части из них начертаны послания! Должно быть, это депеши их семьям!
+
+# Original: This one says… “I miss you.” The owners… are coming back soon for them, right…?
+Синклер: Тут написано: "Скучаю по вам". Её хозяин… скоро же к ним вернётся, да…?
+
+# Original: Not a chance.
+Родион: Без шанса. 
+
+# Original: Even if they did return from the casino, they wouldn’t be in the right state to happily reunite with their loving families~
+Родион: Даже если он и выберется из казино, то вряд ли будет в состоянии счастливо воссоединиться со своей любящей семьёй~
+
+# Original: ……
+Отис: ……
+
+# Original: Well… To play the auxiliary role of your tour guide, this here is the hidden landmark of the street.
+Сауде: Что ж… Подыграем вам и побудем для вас гидами; это — скрытая достопримечательность улицы.
+
+# Original: The bitter end of gamblers.
+Эффи: Горький конец игроманов.
+
+# Original: And this served as a stepping stone for the Tingtang Gang to amass wealth and power by dealing used cars.
+Сауде: А также первая ступенька банды «Бом-боб» на пути к наращиванию богатств и силы — продажей подержанных автомобилей.
+
+# Original: So Rodya, you’ve been to places like this pretty often, right? Got anything to add? Bet you could tell us some pretty interesting trivia.
+Грегор: Так, Родя, ты же тут часто бывала, да? Есть что добавить? Готов поспорить, у тебя припрятана парочка замечаний.
+
+# Original: Gah~ Dunno, dunno. Don’t ‘member a thing. I decided to forget all about the past and focus on what’s in front.
+Родион: Хах~ Не-не. Ничего такого. Я решила оставить прошлое и сосредоточиться на будущем.
+
+# Original: …And I would be able to keep to that self-promise if not for irritants like them. Heh.
+Родион: …И я бы сдержала это данное самой себе обещание, если бы не они. Хех.
+
+# Original: Oi, bohnen! Who do ya think you are to goof around our turf?
+Член банды Бом-бом: Хэй, бобы! Вы кем ся возомнили, чтобы шляться по нашей территории?
+
+# Original: Or what, ya here to sell ya car?
+Член банды Бом-бом: Или вы чё, нам тачку притащили?
+
+# Original: Nay! We mount an omnibus!
+Дон Кихот: Отнюдь! Мы оказались здесь на автобусе!
+
+# Original: We don’t deal in organs, though? Hmm, well, I guess a pair of eyes with pupils as specially-colored as yours might sell…
+Член банды Бом-бом: Но мы ж не органами торгуем, разве нет? Хмм, хотя, если так подумать, то парочку таких красивых глазок как у тебя можно было бы прода—
+
+# Original: So we have come to the right place! We are here for your leader!
+Дон Кихот: Значит, мы не ошиблись местом! Мы пришли за вашим лидером!
+
+# Original: Ya pretty bold in facing a gang. Who do ya work for?
+Член банды Бом-бом: Как у вас только кишка не тонка лезть на банду. На кого вы работаете?
+
+# Original: We serve under Limb—!
+Дон Кихот: Мы служим компа—!
+
+# Original: Kehm…
+Дон Кихот: Кхм…
+
+# Original: An awkward silence passed.
+Рассказчик: Повисло неловкое молчание.
+
+# Original: I asked you a question! Don’t stop midway!
+Член банды Бом-бом: Я задал вопрос! Выкладывай давай!

@@ -1,0 +1,95 @@
+﻿# Original: Pardon me! I have a question!
+Дон Кихот: А-ам! У меня есть вопрос!
+
+# Original: Don Quixote suddenly raised her hand.
+Рассказчик: Рука Дон Кихот внезапно взмыла в воздух.
+
+# Original: Shoot.
+Вергилий: Валяй.
+
+# Original: Verily, I understood the first rule well! What is the second rule, then?
+Дон Кихот: Я вняла первое правило! Но каково же второе?
+
+# Original: Hah, really… Why are you so eager to learn that?
+Грегор: Ты серьёзно… Ты серьёзно так спешишь это узнать?
+
+# Original: ……
+Вергилий: ……
+
+# Original: Vergilius gave a cold stare to Ryōshū, who had just lit her cigarette. She looked back at him with a peculiar face.
+Рассказчик: Вергилий леденящим душу взглядом пронзил Рёшу. Рёшу, в свою очередь доставшая очередную сигарету, загадочно взглянула на него в ответ.
+
+# Original: Rule number two…
+Вергилий: Второе правило…
+
+# Original: Don’t litter the bus floor with cigarettes. They leave burn marks.
+Вергилий: Не раскидывайте окурки по автобусу. Они оставляют прожжённые следы на полу.
+
+# Original: …Hah.
+Рёшу: …Ха.
+
+# Original: The bus falls silent again.
+Рассказчик: В автобусе снова воцарилась гробовая тишина.
+
+# Original: Now wait a second, the bus shouldn’t be this quiet. Where’s the engine’s roar?
+Вергилий: Погодите, в автобусе не должно быть так тихо. Где рёв мотора?
+
+# Original: Charon, why aren’t you speeding up?
+Вергилий: Харон, почему ты не ускоряешься?
+
+# Original: No food. Mephi is hungry.
+Харон: Нет еды. Мефи голоден.
+
+# Original: Good. We could use something to lift the mood.
+Вергилий: Прекрасно. Давно пора подышать свежим воздухом.
+
+# Original: Are we dropping by a gas station?
+Рассказчик: Может, мы остановимся возле заправки?
+
+# Original: The idea of Vergilius casually plugging a fuel nozzle into the bus like an average driver felt alien.
+Рассказчик: Трудно представить Вергилия, стоящего на заправке с заправочным пистолетом в руках.
+
+# Original: A car needs fuel to run.
+Вергилий: Для работы машине нужно топливо.
+
+# Original: Charon, try flashing the headlights a bit. Like stage lights.
+Вергилий: Харон, включи фары. Нам понадобится сценическое освещение.
+
+# Original: Mhm, it’s dance timey.
+Харон: Угу, потанцуем.
+
+# Original: Wait, if we do that, we’re effectively asking to be attacked.
+Ишмаэль: Постойте. Если мы усилим свет фар, мы технически будем кричать о том, чтобы на нас напали.
+
+# Original: That appears to be the intent.
+Мерсо: Так вот что вы хотите сделать.
+
+# Original: …Sorry?
+Ишмаэль: …А?
+
+# Original: I could hear someone slam the bus outside.
+Рассказчик: Я услышал, как снаружи кто-то начал бить по металлической обшивке автобуса.
+
+# Original: Oi! Leave all ya stuff behind and get off! Y’got 30 seconds! Ten! Nine!
+Рассказчик: Эй! А ну оставили свои вещички и вылезли оттуда! Даю вам тридцать секунд! Десять! Девять!
+
+# Original: Ey, you skipped twenty of ‘em.
+Рассказчик: Эй, ты потерял двадцатку.
+
+# Original: Er… Uhh… Well say your prayers for the other 20!
+Рассказчик: Э… Э… тогда молитесь оставшиеся двадцать секунд!
+
+# Original: Sigh, why am I surrounded by dullards left and right.
+Ишмаэль: Ха-а, за что я окружена одними тупицами.
+
+# Original: …What’d you just say?
+Хитклиф: …Чего вякнула?
+
+# Original: How cowardly of them to ambush us! They must be villains without a shadow of a doubt!
+Дон Кихот: Как смеют они так трусливо нападать!  Без сомнения, они — лишь орава душегубов!
+
+# Original: Alright, everyone off.
+Вергилий: Итак, все, на выход.
+
+# Original: And one more thing: we want them near death, not dead. Got it?
+Вергилий: И сделайте всё возможное, чтобы обезвредить, а не убить их. Я ясно сказал?

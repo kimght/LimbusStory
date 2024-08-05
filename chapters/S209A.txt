@@ -1,0 +1,155 @@
+﻿# Original: Just to make sure…
+Сауде: Просто хочу убедиться…
+
+# Original: You all know that our goal is to win the game being held on the top floor, not reduce the ground floor of the casino to rubble, right?
+Сауде: Вы же в курсе, что наша задача — выиграть в игре на верхнем этаже, а не сравнять нижний с землёй?
+
+# Original: I was certain that some definitely didn’t know or care, but I figured I’d rather not remind her.
+Рассказчик: Бьюсь об заклад, что часть определённо не знала или игнорировала это, но я решил не напоминать ей об этом.
+
+# Original: Not only must we reach the top, we also have to win the game as our objective states…
+Сауде: И наша цель — не просто добраться до верха, но и победить в игре…
+
+# Original: Thus, we need the wishpower to make it happen.
+Сауде: А для этого нам нужна сила желаний.
+
+# Original: I won’t bother reviewing in detail how the wishpower we had managed to collect went down the drain for preposterous reasons. It’ll only hurt our morale.
+Сауде: Пожалуй не буду вдаваться в подробности того, как вся собранная нами сила желаний пошла псу под хвост по абсолютно нелепым причинам. Только моральный дух подорвёт.
+
+# Original: I had to keep my head down, feeling the pricks of conscience poking at my heart.
+Рассказчик: Я понурил голову, чувствуя, как совесть колет моё сердце.
+
+# Original: Where can we secure the most wishpower in this place?
+Отис: Откуда тут можно извлечь больше всего силы желаний?
+
+# Original: That roulette next to the entrance. People who visit the casino try their daily luck using that roulette, and take or yield wishpower depending on the outcome.
+Сауде: Из той рулетки напротив входа. Посетители казино каждый день испытывают на ней свою удачу, получая или отдавая силу желаний в зависимости от результата.
+
+# Original: Is that so? Then I’ll seek out an opportunity to snatch the container attached to it.
+Отис: Вот как? Тогда поищу способ вытащить контейнер из неё.
+
+# Original: <Think you can pull that off?>
+Данте: <Думаешь, тебе хватит сил?>
+
+# Original: I have carried out countless operations much greater in scale.
+Отис: Я принимала участие в множестве операций куда масштабней этой.
+
+# Original: Your preposterous blunder amounts to nothing in the grander scheme of things, Manager.
+Отис: Ваша нелепая оплошность — ничто в грандиозном порядке вещей, менеджер.
+
+# Original: It has to have been the fault of the drudging dredges who obfuscated your ability to make sensible decisions! Don’t let their words deter you!
+Отис: Должно быть всему виной тот мусор, что затуманил ваш здравый рассудок! Не дайте им себя одурманить!
+
+# Original: <Preposterous… I see… Wait!>
+Данте: <Нелепая… Да уж… Погоди!>
+
+# Original: While we were busy discussing backup plans…
+Рассказчик: Пока мы были заняты обсуждением запасных планов…
+
+# Original: Heathcliff was already making a mad dash for the entrance.
+Рассказчик: Хитклифф уже сломя голову мчался ко входу.
+
+# Original: Were we too focused on the conversation, or did we collectively lose our minds?
+Рассказчик: Мы настолько увлеклись разговором или это было коллективное помешательство?
+
+# Original: In either case, none of us had a clue what he was up to.
+Рассказчик: В любом случае, никто из нас не имел понятия, что у него на уме.
+
+# Original: <Heathcliff?!>
+Данте: <Хитклифф?!>
+
+# Original: Dammit, isn’t it time we stopped chatting and moved up already?
+Хитклиф: Да ё-моё, может хватит уже языками чесать и пойдём уже наконец?
+
+# Original: Then he shouted at security from the top of his lungs.
+Рассказчик: После чего он со всей мочи начал орать на охранников.
+
+# Original: Aren’t you ashamed of yourselves?!
+Хитклиф: Вам ваще не стыдно?!
+
+# Original: That blondie over there is a rookie who’s as unfledged as he gets.
+Хитклиф: Вон тот цыплячий сопляк — новенький, он ничё толком не умеет.
+
+# Original: And that mate there we call our manager has a bad case of lost memories and can’t wield a weapon to save themself.
+Хитклиф: А вон у того вот, нашего вроде бы менеджера, вообще память отшибло будь здоров, даже оружие держать в руках и отбиваться не может.
+
+# Original: This is what you’re struggling against? What a joke…
+Хитклиф: И это с ними-то у вас проблемы? Ну и посмешище…
+
+# Original: Ngh… D-Damn, you…
+Начальник охраны: Мгх… Ч-чёрт, ты…
+
+# Original: H-Heathcliff… That was too harsh…
+Синклер: Х-хитклифф… Это было весьма грубо…
+
+# Original: <Hear, hear. Much too mean, Heathcliff.>
+Данте: <Ага. Это был перебор, Хитклифф.>
+
+# Original: And last thing, that club you’re holding deserves a better owner.
+Хитклиф: Да и вообще, дубинки ваши достойны кого получше.
+
+# Original: You cocky little…!
+Начальник охраны: Нахал…!
+
+# Original: The infuriated security guard swung the club with a furious whish, exploding towards Heathcliff…
+Рассказчик: Взбесившийся охранник с яростным свистом взмахнул своей дубинкой, собираясь ударить Хитклиффа…
+
+# Original: …and as Heathcliff swerved out of its way, the roulette behind him bore the force, being smashed to pieces.
+Рассказчик: …и лишь стоило тому уклониться, как рулетка, стоявшая позади него, разлетелась на осколки.
+
+# Original: The, the wish container…!
+Сауде: К-контейнер желаний…!
+
+# Original: Spouts of what I assume was once wishpower until moments ago poured through the poor remains of the roulette.
+Рассказчик: Потоки того, что, кажется, было силой желаний, разлились в оставшиеся ошмётки рулетки.
+
+# Original: As if in death throes, Saude let out an agonized scream before clapping her hands over her mouth… I couldn’t help but turn away from this tragic sight.
+Рассказчик: Сод, будто в предсмертной агонии, отчаянно закричала, прежде чем зажала рот руками… Я мог лишь отвернуться от этого душераздирающего зрелища.
+
+# Original: “When I grow up, I wanna be a wish sticker, giving hope to everybody!”
+Рассказчик: "Когда я вырасту, то стану меткой желаний, и буду всем давать надежду!"
+
+# Original: I could almost hear the unfulfilled dreams of those lost wishes in my imagination.
+Рассказчик: Я почти что слышал эти несбывшиеся мечты утраченных желаний у себя в голове.
+
+# Original: Oi, listen up, you thickos.
+Хитклиф: Эй, болваны, слухайте.
+
+# Original: Do you want to admit to your boss ‘bout breaking this thing while fighting us and get lambasted for it?
+Хитклиф: Как насчёт того, чтобы передать своему боссу, что вы разнесли эту фиговину пока бились с нами и получить нагоняй за это?
+
+# Original: Or, do you want to make it our fault and let us through?
+Хитклиф: Или скинете всё на нас и пропустите уже?
+
+# Original: T-This was… a month’s worth of luck…
+Суровый охранник: Эт-то… целый месяц удачи…
+
+# Original: ……
+Начальник охраны: ……
+
+# Original: It won’t be any safer for you upstairs…
+Начальник охраны: Наверху будет не сильно безопасней…
+
+# Original: Eh, never been too close to safety anyway. ‘Preciate the advice.
+Хитклиф: Хэ, не то чтобы когда-нибудь я был в безопасности. Но за предупреждение спасибо.
+
+# Original: Heathcliff came to me with one of his shoulders dislocated, likely when he was grazed by the club.
+Рассказчик: Хитклифф подошёл ко мне с вывихнутым плечом. Видимо, его всё же задело дубинкой.
+
+# Original: What’s the look? Do your thing and fix me up.
+Хитклиф: Ну и чё вылупился? Делай там свои делишки и подлатай меня.
+
+# Original: <……>
+Данте: <……>
+
+# Original: I’ve made up my mind. Starting now, I won’t ever try to discuss plans or anything similar with these people.
+Сауде: Я решила. С этого момента, я никогда не буду пытаться обсуждать планы или что-либо подобное с этими людьми.
+
+# Original: Took you long enough to realize.
+Фауст: У тебя ушло на это много времени
+
+# Original: Faust… This is one of those times when it’s better to keep your mouth shut.
+Эффи: Фауст… Вот сейчас лучше было это не озвучивать.
+
+# Original: With that, we dragged ourselves up to the next floor.
+Рассказчик: С этими словами, мы поплелись на следующий этаж.

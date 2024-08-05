@@ -1,0 +1,98 @@
+﻿# Original: I'll rip you to pieces!
+Отис: Я тебя на куски порву!
+
+# Original: The thing emitted a series of sounds one wouldn't expect to hear from a machine. Soon, sparks flew and something ripped apart from it with a loud tearing noise.
+Рассказчик: Из механизма донеслись звуки, которые можно было бы назвать весьма нехарактерными. Вскоре из него вылетели искры и с громким скрежетом от него было что-то оторвано.
+
+# Original: So this was the last one, huh...
+Отис: Фух… это, значит, последний.
+
+# Original: The child tossed the (now defunct) prosthetic to the side of the alleyway and collapsed on wherever she could find a seat.
+Рассказчик: Дитя отбросило роботическую деталь (уже не функционирующую) в сторону и свалилось там, где смогло найти место.
+
+# Original: Whew, I'm tired... I probably should not have tried to complete all of these contracts at once.
+Отис: Устала… Не надо было, наверное, брать на себя столько работы за раз.
+
+# Original: ... Though if I'm going to take care of this job she gave me... I suppose it would be best that I don't leave any unfinished contracts behind.
+Отис: Но… если я собираюсь заняться той работёнкой, которую она мне подкинула, нужно закончить со всеми невыполненными контрактами.
+
+# Original: The child sighed and scribbled something on a small notepad...
+Рассказчик: Дитя вздохнуло и черкануло что-то в маленьком блокноте.
+
+# Original: ... And made her way back to the Office.
+Рассказчик: После чего поспешно его убрало и вернулось в офис.
+
+# Original: The note said [Open Contract 4/4].
+Рассказчик: В блокноте была запись [Общие контракты 4/4].
+
+# Original: And above it were several other entries labeled "Private Contracts".
+Рассказчик: Помимо этого было несколько записей, именуемых как "частные контракты".
+
+# Original: The child's relatively small Fixer Office was flooded with a decent amount of daily contracts. To the point where it rivaled the workload of some Associations' lower ranking Sections.
+Рассказчик: Для относительно малого по количеству корректировщиков офиса в него каждый день приходил целый поток контрактов. В некотором роде его можно было бы сравнить с некоторыми секциями ассоциаций низкого ранга.
+
+# Original: Huhh... What am I even doing? This busyness isn't at all what I wanted when I started my own Fixer Office...
+Отис: Ха-а-а… Не такая занятость была у меня в голове, когда создавала этот офис.
+
+# Original: While Offices and Associations are both Fixer organizations, the minutiae of their workings were somewhat different.
+Рассказчик: Хоть и офисы, и ассоциации являются организациями корректировщиков, суть у них немного отличается.
+
+# Original: It's not entirely correct to say that Associations are naturally superior to Offices, though they employ many more Fixers and operate on a larger scale. This is why many offices maintain an Associate relationship with the Associations.
+Рассказчик: Не совсем правильным будет говорить, что ассоциации всегда важнее офисов, но они определённо набирают больше корректировщиков и охватывают бо́льшую площадь… Именно поэтому многие офисы сотрудничают с ассоциациями.
+
+# Original: Many assume that Offices' primary source of income is from private contracts. But even that isn't easy to snag when the Office hasn't made a name for itself yet.
+Рассказчик: Многие думают, что офисы в основном зарабатывают за счёт частных контрактов, однако если сам офис себе имя ещё не сделал, это оказывается довольно проблематичным.
+
+# Original: So fledgling Offices often take what are known as "Open Contracts".
+Рассказчик: Поэтому новые офисы часто берут "общие контракты".
+
+# Original: Associations often take and post Open Contracts so Fixer Offices can pick them up. But since they are also taken on a first—come, first—serve basis, many offices often go days without grabbing a single one of them.
+Рассказчик: Ассоциации нередко оглашают общие контракты, чтобы ими могли заняться офисы корректировщиков, но так как они выдаются на условии "кто успел, тот и взял", многие офисы целыми днями не могут выхватить для себя ни одного контракта.
+
+# Original: Associate Offices or Offices with an Association insider may be subcontracted by them, but neither has been true for this child.
+Рассказчик: Сотрудничающие с ассоциациями офисы и те, у кого в ассоциации есть инсайдер, могут получить контракты лично от ассоциации, но ни тем, ни другим дитя никогда не пользовалось.
+
+# Original: When the child opened her own Office, she dreamed of slow, easy days of low—effort contracts and nights full of delicious liquor.
+Рассказчик: Когда дитя только открыло свой офис, оно мечтало о спокойной, размеренной жизни с легко выполнимыми контрактами и ночами, наполненными вкусной выпивкой.
+
+# Original: Did she manage to pick up an Open Contract? Time to get to work. Did she not? Time to get plastered.
+Рассказчик: Успела ухватить общий контракт — пора за работу. Не успела — пора в бар.
+
+# Original: ... That was the plan, anyway. After a while of doing exactly that, her Office's reputation inadvertently grew, and Private Contracts enough to form a queue began drizzling in. It had grown to be a rather reputable Office.
+Рассказчик: Таков был план. Придерживаясь его, через некоторое время репутация офиса неотвратимо возросла и стали поступать частные контракты, причём столько, что можно было целую очередь выставить. Офис дитя стал весьма солидным.
+
+# Original: But this contract was...
+Рассказчик: Но в этот раз дитя поступил запрос…
+
+# Original: Something on a completely different level of significance.
+Рассказчик: Совершенно иного уровня.
+
+# Original: Ha ha... I don't know if I should thank my friend for this fortune or blame her for getting me into this mess.
+Отис: Ха-ха… Не знаю, благодарить ли мне подругу за эту возможность или винить за то, что впутала меня в это.
+
+# Original: A contract from a Wing... Even I can't help but feel a bit anxious about it.
+Отис: Контракт от Крыла… Даже мне как-то не по себе от этого.
+
+# Original: This contract had somehow found its way into her Office all the way from R Corp., one of the City's Wings.
+Рассказчик: Контракт этот поступил в её офис из корпорации R — одного из Крыльев Города.
+
+# Original: Of course, it was only sheer luck that the child's friend was the first to bring up this contract... to which the child eagerly and immediately jumped at...
+Рассказчик: Конечно же, дитя лишь просто повезло, что подруга заговорила об этом контракте, а оно охотно вцепилась в него зубами…
+
+# Original: But luck favors those who are prepared to seize it, after all. It may simply be a testament to how much her Office had grown.
+Рассказчик: Но удача в конце концов улыбается тем, кто готов ей воспользоваться. Это было лишь ещё одно доказательство немыслимого роста офиса дитя.
+
+# Original: Hmph. To worry before I even meet the challenge... This isn't like me at all.
+Отис: Хмпф, не в моём стиле волноваться до того, как встретила проблему.
+
+# Original: In fact, I should get myself a drink before the train ride. Just one shot as a pick—me—up...!
+Отис: На самом деле, надо бы выпить чего-нибудь перед поездкой на поезде. Одну стопочку, чтоб взбодриться…!
+
+# Original: Hey! Yi Sang! I'm heading out!
+Отис: Эй! И Сан! Я пошла!
+
+# Original: With that, she jumped to her feet.
+Рассказчик: Сказав это, дитя вскочило на ноги.
+
+# Original: She was going to get herself some good vibes (tipsiness, perhaps?) before embarking on such an important contract.
+Рассказчик: Перед тем, как отправиться на важное дело, оно хотело получить дозу хорошего настроения.

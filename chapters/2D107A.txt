@@ -1,0 +1,23 @@
+﻿# Original: W—Wait… Why are they coming this way?! Stop! I said stop!
+Суровый охранник: П-Погодите… Куда это они?! Стойте! Стойте, я говорю!
+
+# Original: G-Get them away from me! Hurry!
+Суровый охранник: О-отвалите от меня! Брысь!!
+
+# Original: …Forty-seven million, nine hundred…
+Зависимый должник: …Сорок семь миллионов девятьсот тысяч…
+
+# Original: The debtors kept on swinging their pickaxes; forty-seven million, nine hundred thousand picks left and counting down.
+Рассказчик: Должники продолжили махать кирками; осталось отсчитать ещё сорок семь миллионов девятьсот тысяч ударов.
+
+# Original: We were able to find our way down using this opportunity.
+Рассказчик: Воспользовавшись возможностью, мы проскользнули к спуску вниз.
+
+# Original: So we did get help from the debtors after all.
+Грегор: Значит должники нам всё же помогли.
+
+# Original: Just a coincidence.
+Родион: Просто совпадение.
+
+# Original: Rodya replied with an apathetic look.
+Рассказчик: Ответила Родя с апатичным взглядом.

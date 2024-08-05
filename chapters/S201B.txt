@@ -1,0 +1,248 @@
+﻿# Original: The bus wasn’t all that lively.
+Рассказчик: В автобусе было не так уж оживлённо.
+
+# Original: I could hear Rodya’s occasional quips, or Heathcliff starting pointless quarrels with someone—probably Don Quixote or Sinclair.
+Рассказчик: Время от времени я слышал, как Родя кидается редкими колкостями, или как Хитклифф начинает с кем-то бессмысленно спорить — в частности с Дон Кихот и Синклером.
+
+# Original: And Ryōshū’s demanding a source of heat to light her cigarette, having run out of lighter fluid.
+Рассказчик: Иногда Рёшу просила прикурить сигарету, ссылаясь на то, что у неё закончилась жидкость в зажигалке.
+
+# Original: Amidst the gripes and disorder, Gregor was pretty much the only Sinner I could rely on to willingly turn the mood around…
+Рассказчик: Во всех этих прениях и хаосе Грегор оставался единственным грешником, на кого я мог бы положиться, чтобы сменил атмосферу…
+
+# Original: ……
+Грегор: ……
+
+# Original: But now, he was one of the quietest.
+Рассказчик: Но сейчас он вёл себя тише всех.
+
+# Original: He was just staring out through the window, seemingly lost in deep thought.
+Рассказчик: Он просто уставился в окно и, казалось, с головой погрузился в свои мысли.
+
+# Original: ……
+Вергилий: ……
+
+# Original: One thing was for sure.
+Рассказчик: Одно можно было сказать наверняка
+
+# Original: If anyone were to blame for trashing the mood on the bus, it’d be Vergilius.
+Рассказчик: Если кто и виноват в том, что испортил настроение всему автобусу — так это Вергилий.
+
+# Original: The road to the Golden Bough was an awfully arduous one…
+Рассказчик: Дорога к Золотой ветви была ужасно трудной…
+
+# Original: Putting us on the brink of death (and some past that) several times, not to mention the occasions when we almost ended up unemployed.
+Рассказчик: Мы несколько раз оказывались на грани смерти (а иногда и за ней), не говоря уже о том, когда мы чуть не попали под сокращение.
+
+# Original: Yet Vergilius refused to see from our perspective.
+Рассказчик: Но даже так Вергилий отказывался взглянуть на ситуацию нашими глазами.
+
+# Original: Given the circumstances, it’s only natural for our Sinners to be palpably disgruntled.
+Рассказчик: Учитывая обстоятельства, не удивительно, что наши грешники явно недовольны.
+
+# Original: Tired of the silent treatment, Ishmael spoke up.
+Рассказчик: Устав от молчания, Измаил заговорила.
+
+# Original: Couldn’t you tell me where our next destination is now, at least?
+Ишмаэль: Не можете хотя бы сказать какой у нас следующий пункт назначения?
+
+# Original: Oh, sorry about that.
+Вергилий: Ох, простите.
+
+# Original: I was wondering whether briefing the mission to you miscreants would be worth the effort.
+Вергилий: Я просто задумался, есть ли вообще толк в том, чтобы посвящать вас, лоботрясов, в суть миссии.
+
+# Original: Pah, you’re hurting me with your cold shoulder. Don’t you know that kids falling behind need more love?
+Родион: Пха, ваш холодный тон ранит меня. Вы разве не знаете, что отстающим деткам нужно больше любви?
+
+# Original: And let me plead you not to embarrass me this time.
+Вергилий: Будь мила и не ставь меня снова в неловкое положение.
+
+# Original: I sure don’t want to look like a teacher taking a bunch of gradeschoolers out for a picnic.
+Вергилий: Уж кем мне не хочется быть, так это учительницей, вытаскивающей своих старшеклассников на пикник.
+
+# Original: I have high hopes for you in particular, Rodion. You might just make a good guide for this tour.
+Вергилий: Я возлагаю на тебя особо большие надежды, Родя. Из тебя получится неплохой гид для этого тура.
+
+# Original: Huh? I know I’m a big deal, but I don’t think I can be a guide for a place I don’t know…
+Родион: Ха? Я, конечно, не лыком шитая, но не думаю, что от меня будет толк в месте, о котором я ничего не знаю…
+
+# Original: No worries. We’re heading to a location you should be more than familiar with.
+Вергилий: Не переживай. Мы едем туда, с чем ты более, чем знакома.
+
+# Original: A Nest of hedonism where you can drown in money or be drained of everything you have:
+Вергилий: Гнездо гедонизма, где ты можешь купаться в деньгах или потерять всё, что имеешь:
+
+# Original: J Corp’s.
+Вергилий: Корпорация J.
+
+# Original: ……
+Родион: ……
+
+# Original: Great, even Rodya has gone quiet now.
+Рассказчик: Ну прекрасно, теперь даже Родя замолчала.
+
+# Original: Well, I suppose it wouldn’t be so bad to win big while we’re at it.
+Хитклиф: Ну, думаю, можно и куш словить, пока будет торчать там.
+
+# Original: Oi, someone wake me up when we’re there.
+Хитклиф: Э, разбудите меня, когда мы приедем.
+
+# Original: …Coincidentally, the bus will be unable to take you right to the branch building this time, dear passenger.
+Вергилий: …Так уж совпало, что в этот раз автобус не подкинет вас прямо ко входу в филиал, дорогой пассажир.
+
+# Original: Charon, park it.
+Вергилий: Харон, припаркуйся.
+
+# Original: ……
+Харон: ……
+
+# Original: …? Charon?
+Вергилий: …? Харон?
+
+# Original: What’s “park”?
+Харон: Что такое "припаркуйся"?
+
+# Original: It means stop.
+Вергилий: Это значит остановись.
+
+# Original: Stops are red. Red tastes bad to Charon.
+Харон: Стоп — это красный. Красный Харон не нравится.
+
+# Original: Grumbling, Charon hit the brakes without warning, sending most of the Sinners flying face-first into the seats ahead and flinging others off theirs.
+Рассказчик: Ворча под нос, Харон без предупреждения вдарила по тормозам, отправив большинство грешников в полёт с их мест лицом вперёд, навалив их друг на друга.
+
+# Original: I was, of course, powerless against the inertia.
+Рассказчик: Я, разумеется, был бессилен перед инерцией.
+
+# Original: A cacophony of complaints and shouts erupted.
+Рассказчик: Разразилась какофония возмущений и криков.
+
+# Original: Although I didn’t get to hear the Sinners’ ramblings in clear detail…
+Рассказчик: Хотя я и не смог разобрать гомон грешников…
+
+# Original: I’m willing to bet a good half of them were profanities, so maybe I’m better off not knowing.
+Рассказчик: Готов поспорить, что добрая половина из всего этого была ругательствами, так что, возможно, это и к лучшему.
+
+# Original: Good to see you all full of energy. Now out.
+Вергилий: Рад видеть, что вы полны энергии. А теперь выметайтесь.
+
+# Original: Hmm… The destination still seemed rather far… Ah! Will you call a taxi for us?
+Хон Лу: Хмм… Но до цели ещё далеко… Ах! Вы вызовите нам такси?
+
+# Original: …As Ms. Faust will explain in detail, this mission is going to be quite different from our last, Dante.
+Вергилий: ……Как мисс Фауст вам позже детально объяснит, эта миссия будет кардинально отличаться от вашей прошлой, Данте.
+
+# Original: This is because the location of the Golden Bough…
+Вергилий: Всё потому, что Золотая ветвь располагается…
+
+# Original: …is in the underground of a casino.
+Вергилий: …под казино.
+
+# Original: Do you mean to tell us that it’s among the brightly lit buildings standing at the center of that street?
+Отис: Хотите нам сказать, что она находится где-то среди этих ярко освещённых зданий в центре этой улицы?
+
+# Original: That’s right, it’s one of those.
+Вергилий: Именно, она там.
+
+# Original: The Lobotomy Branch Facility we infiltrated last time was one that had been neglected for quite a while.
+Ишмаэль: Филиал «Лоботомии», в который мы проникли в прошлый раз, явно долгое время был заброшен.
+
+# Original: So you mean that… that was the exception?
+Синклер: Хотите сказать, что… он был исключением?
+
+# Original: See, it’s times like this that remind me our team doesn’t necessarily lack critical thinkers… It really does make me wonder how you managed to blunder your previous mission even more.
+Вергилий: Понятно. В такие моменты я вспоминаю, как же нашей команде не хватает критического мышления… Удивительно ещё, как вы только не умудрились ещё сильнее провалиться на предыдущей миссии.
+
+# Original: ……
+Ишмаэль: ……
+
+# Original: The Golden Bough is a potent energy source, holding the essence of many technological marvels.
+Вергилий: Золотая ветвь — это мощный источник энергии, в котором заключена суть многих технологических чудес.
+
+# Original: Such founts of energy will attract flows of wealth and people, and in no time, a whole civilization is built on top of it.
+Вергилий: Такой источник энергии привлекает потоки богатства и людей, и, в мгновение ока, на них строятся целые цивилизации.
+
+# Original: Therefore, it’s likely that future destinations will have been occupied by other factions and their structures.
+Фауст: Следовательно, высока вероятность того, что последующие наши пункты назначения будут захвачены другими фракциями и их структурами.
+
+# Original: …Which, in turn, indicates that we should be prepared to visit a wide variety of venues in addition to this casino.
+Фауст: …Что, в свою очередь, означает, что нам также может понадобится посетить большое разнообразие других заведений, помимо казино.
+
+# Original: It also means that your first mission was a relatively easy one, yet you somehow snatched defeat from the wide-open maws of success.
+Вергилий: Что также значит, что ваша первая миссия была ещё сравнительно лёгкой, но вы всё равно умудрились вырвать поражение из широко раскрытой пасти успеха.
+
+# Original: <…Does he usually hold grudges that long?>
+Данте: <…Он всегда так долго дуется?>
+
+# Original: …Ahem.
+Грегор: …Мхм.
+
+# Original: Don’t ask me~ We haven’t known him much longer than you have.
+Родион: Даже не спрашивай~ Мы и сами его знаем не лучше твоего.
+
+# Original: What’d he say again? Something like, “Welcome to Limbus Company. I’m your guide, Vergilius” and all that…
+Родион: И чего он ещё скажет? Что-нибудь вроде "Добро пожаловать в компанию Лимбус. Я ваш гид, Вергилий," или типа того…
+
+# Original: Hah! Pretty good impression, wasn’t it?
+Родион: Ха! Неплохая пародия, не так ли?
+
+# Original: You got his authoritative tone down to a tee, I’ll give you that. I had to hold myself back from asking if I could resign right after joining.
+Грегор: Отдам тебе должное, ты хорошо попала в его властный тон. Я еле сдержался, чтобы не спросить можно ли мне в отставку прямо после найма.
+
+# Original: <I get the feeling the rest of you thought the same.>
+Данте: <Уверен, что остальные подумали так же.>
+
+# Original: Nonsense! ‘Twas a day to go down in history! Beckoned by the Red Gaze himself! Truly, there is no honor greater than a Color addressing your―
+Дон Кихот: Что за чушь! Этот день достоин того, чтобы его вписали в историю! Замеченные самим Красным взором! Воистину, нет большей чести, чем когда сам Цвет обращается к тебе—
+
+# Original: Huh, I guess he does have a fan after all.
+Грегор: Хах, кажется, не смотря на всё, у него есть фанатка.
+
+# Original: Ufuhu, true that.
+Родион: Ухуху, похоже на то.
+
+# Original: With their spirits lifted, Rodya and Gregor began to chuckle.
+Рассказчик: Приободрившись, Родя и Грегор начали посмеиваться.
+
+# Original: That’s more talking than necessary. I really do not wish for there to be impetus behind a third rule for this bus ride.
+Вергилий:  Что за бессмысленный трёп. Не вынуждайте меня вводить третье правило нахождения в автобусе.
+
+# Original: C’mon, give the employees some room to badmouth their boss. You’re being totally petty.
+Родион: Да ладно вам, дайте сотрудникам немного почмырить своего босса. Вы слишком мелочны.
+
+# Original: Next time, do it out of earshot.
+Вергилий: В следующий раз делайте это не так открыто.
+
+# Original: I’m more fragile than I look, you see.
+Вергилий: Я куда ранимее, чем могу показаться.
+
+# Original: Right, time to get up and at it. I sure hope you come back with a Golden Bough in your hands this time.
+Вергилий: Ладно, поднимайтесь и приступайте к делу. Надеюсь, в этот раз вы вернётесь с Золотой ветвью.
+
+# Original: And if we bugger it twice?
+Хитклиф: А если и во второй раз залажаем?
+
+# Original: Who knows? Charon might suddenly forget what button to press to open the door for you.
+Вергилий: Кто знает? Харон может вдруг забыть нажать кнопку открытия дверей для вас.
+
+# Original: Button, red. Yucky color.
+Харон: Кнопка, красная. Противный цвет.
+
+# Original: …You’re one daft bloke…
+Хитклиф: …Ты, тупорылый…
+
+# Original: UITGAAN.
+Рёшу: ВАБ.
+
+# Original: And that means?
+Хитклиф: И чё это значит?
+
+# Original: Shorthand for “Useless idiotic travelers go and abscond, now”.
+Рёшу: Сокращение от "<i>Вон из автобуса, бестолочи</i>".
+
+# Original: Heathcliff glared at Ryōshū, insults welling up in his throat, only to then expel a loud sigh.
+Рассказчик: Хитклифф пялился на Рёшу, уже готовый разразиться оскорблениями, но лишь громко вздохнул.
+
+# Original: He resigned uncharacteristically, as if he came to the realization that killing her wouldn’t solve anything.
+Рассказчик: Он, как бы это ни было для него странно, смирился, будто до него дошло осознание того, что её убийство ничего не изменит.

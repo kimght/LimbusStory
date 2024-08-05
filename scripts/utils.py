@@ -94,7 +94,7 @@ def apply_translations(lines: list[StoryLineDTO], translations: list[str]) -> li
     result = copy.deepcopy(lines)
     current_id = 0
     for line in result:
-        if not line.content:
+        if not line.content or (line.id is not None and line.id < 0):
             continue
         if current_id >= len(translations):
             raise ValueError("Not enough translations")

@@ -1,0 +1,260 @@
+﻿# Original: We entered the derelict building of Lobotomy Corporation.
+Рассказчик: Мы вошли в старое здание филиала корпорации «Лоботомия».
+
+# Original: As the light goes dim, the dreadful stench from underground grows stronger.
+Рассказчик: Как свет померк, нас встретила ужасающая вонь из подземелья.
+
+# Original: Urk… The smell… It’s awful…
+Синклер: У…угх… Этот запах… Просто ужасен…
+
+# Original: Mmm… I can feel the waste collecting in my lungs.
+И Сан: М-м… Зловоние наполняет мои лёгкие.
+
+# Original: The odor is so intense, it winds back to refreshing.
+И Сан: Этот запах очищает мысли.
+
+# Original: Let me warn you one last time: If you die here, Dante won’t be able to resuscitate you even when the battle has finished.
+Фауст: …И помните, если вы погибнете здесь, Данте не сможет вас воскресить даже после окончания битвы.
+
+# Original: Resuscitate…?
+Хопкинс: Воскресить…?
+
+# Original: Must be a popular joke or something~ Whew, I can’t even tell what kind of stories circulate the City these days~
+Ая: Наверное, просто популярная шутка~ Фью, я даже уследить не могу за всем, что творится в Городе в эти дни~
+
+# Original: They seem to have misunderstood us, but seeing as Faust made no comment on it, I decided not to add my input.
+Рассказчик: Похоже, между нами возникло недопонимание, однако заметив, что Фауст даже не пытается ничего объяснить, я тоже решил промолчать.
+
+# Original: The sources of this rancid smell were a more pressing concern.
+Рассказчик: Скорее, меня привлёк источник вони, заполнившей весь коридор.
+
+# Original: <Looks like they probably died a while ago.>
+Данте: <Похоже, прошло немало времени с их смерти.>
+
+# Original: An astute observation, Manager. The corpses have reached the stage of active decay.
+Отис: Какое точное наблюдение, Менеджер. Кажется, тела уже начали активно разлагаться.
+
+# Original: Bleh, looks like the bugs are having a feast over there.
+Родион: Бе-е, похоже, у тех жуков целое пиршество.
+
+# Original: …Let’s just hurry along.
+Грегор: …Поторопимся.
+
+# Original: Huh… Something up, Gregor babe? Are you scared of bugs?
+Родион: Э-э… Грег? Ты что, боишься жуков?
+
+# Original: …Now, I’m sure you’re more mature than shoving dead bugs in someone’s face…
+Грегор: …Ты взрослая женщина, тебе не кажется слишком детским совать кому-то в лицо мёртвых жуков?…
+
+# Original: Boo!!!
+Родион: Та-да!!!
+
+# Original: But just in case one of y― Gah! Put it away! What’s so funny about this?!
+Грегор: Уверен, ты не станешь делать э… ЭК! УБЕРИ ЕГО ОТ МЕНЯ! Чего в этом смешного?!
+
+# Original: Pffhaw… I mean, it’s hilarious~ Who would’ve thought that you of all people’d be scared of these little wrigglers…
+Родион: Пф-фт… ты такой смешной~ Не думала, что из всех ребят именно ты боишься каких-то букашек…
+
+# Original: …Greg? Did you hate it that bad?
+Родион: …Грег? Неужто ты их так сильно ненавидишь?
+
+# Original: …Forget it.
+Грегор:  …Забудь.
+
+# Original: You there! Stop with your mischief this instant. Do not cause additional concerns for our manager!
+Отис: Эй, вы! Хватит дурачиться. Не вызывайте больше головной боли у Менеджера, чем у него уже есть.
+
+# Original: Hold on… this body is still warm.
+Фауст: Постойте… это тело ещё тёплое.
+
+# Original: Such is the sign of a recent attack.
+И Сан: Верный знак недавней атаки.
+
+# Original: The gloom that had cast over Yuri’s face cleared after observing the bodies for a minute.
+Рассказчик: Мрачное выражение на лице Юри начало рассеиваться, когда она осмотрела мёртвого человека.
+
+# Original: These aren’t our… I mean, Lobotomy Corporation’s employees.
+Юри: Это не на… то есть, не сотрудник корпорации «Лоботомия».
+
+# Original: I heard these buried facilities are considered pure goldmines now, attracting all sorts looking for riches.
+Ишмаэль: Сейчас эти филиалы как золотые шахты, так что уйма людей бросается сюда в поисках наживы.
+
+# Original: Phrases like the “Lobotomy Dream” or the “Enkephalin Rush” are apparently starting to catch on among Fixers and Syndicates.
+Ишмаэль: Слышала, некоторые корректировщики и члены синдикатов зовут это "Мечтой «Лоботомии»" и "Энкефалиновой лихорадкой".
+
+# Original: LD, E-Rush… Got a nice ring to it…
+Рёшу: М-Л, ЭнЛих… А они недурно звучат…
+
+# Original: Sigh, that’s what you have to say after keeping quiet for so long…?
+Ишмаэль: Ха-а, и это то, что ты хочешь сказать после столького молчания?…
+
+# Original: Is such a frivolous use of English not prone to blurring the original meaning?
+И Сан: Но разве в таком фривольном "английском" не теряется истинный смысл фраз?
+
+# Original: That’s what I’m sayi―
+Ишмаэль: Вот и я об эт…
+
+# Original: Huh, you seem to be talking a lot more than usual, Yi Sang?
+Ишмаэль: Постой, И Сан, неужели ты становишься общительней?
+
+# Original: Does that reflect strangely?
+И Сан: <b>И с</b>тр<b>ан</b>но ли это?
+
+# Original: He was never really the quiet sort.
+Фауст: На самом деле он любит поговорить.
+
+# Original: He only had a… shift recently.
+Фауст: И лишь недавно… он изменился.
+
+# Original: It’s not a bad thing to have more lackeys with keen eyes.
+Отис: Неплохо, что количество проницательных подручных увеличивается.
+
+# Original: I’d like you to keep that up. Let us march.
+Отис: Продолжайте в том же духе. Идём.
+
+# Original: You make yourself look like the captain here. I dare say that role belongs to the manager.
+И Сан: Ты ведёшь себя, словно капитан. Смею сказать, что это прерогатива Менеджера.
+
+# Original: …Please forgive my insolence, Manager.
+Отис: …Прошу прощения за дерзость, Менеджер.
+
+# Original: Frowning as though she were caught off-guard, Outis bows to me as she apologizes.
+Рассказчик: Отис замерла и нахмурилась, словно её застали врасплох, и вскоре поклонилась мне.
+
+# Original: <N-No, it’s nothing. Let’s head down.>
+Данте: <Н-ничего такого. Спускаемся.>
+
+# Original: Most of the corpses’ body parts were morphed in bizarre ways.
+Рассказчик: Большинство тел имели странные, изменённые части.
+
+# Original: One had pairs of wings protruding through their intestines, and another had horribly twisted antennae hanging down.
+Рассказчик: У одних торчали крылышки, у других можно было заметить странно скрученные антенны.
+
+# Original: These look kinda similar to the thugs we ran into just before, don’t they?
+Юри: Они похожи на тех людей, которых мы встречали ранее.
+
+# Original: You mean those bug-headed people?
+Ишмаэль: Ты о тех ребятах с жучиными головами?
+
+# Original: Quiet, I’m seeing Uniform Tangos ahead.
+Отис: Контакт на двенадцать.
+
+# Original: As Outis noted, multiple figures could be seen down the corridor.
+Рассказчик: В глубине коридора, как и сказала Отис, можно было увидеть несколько теней.
+
+# Original: (Uni…form? What’s all that?)
+Родион: (На две… надцать? Но к чему это вообще?)
+
+# Original: (Unidentified targets… Possibly hostile.)
+Грегор: (Значит, кто-то впереди нас. Возможно, враждебный.)
+
+# Original: …Mhm.
+Отис: …Мгм.
+
+# Original: I’m sure one idea crossed all of our minds:
+Рассказчик: Возможно, у всех нас зародилась одна и та же мысль.
+
+# Original: The enigmatic ‘Abnormalities’ that might be roaming this facility, as Faust mentioned.
+Рассказчик: Этими "неизвестными", как и говорила Фауст, могут оказаться "аномалии", оставшиеся слоняться по филиалу.
+
+# Original: That might be what those shadowy figures are.
+Рассказчик: И именно им могли принадлежать эти тени.
+
+# Original: …We have no choice but to face them.
+Отис: …Встретимся с ними лицом к лицу.
+
+# Original: Hey! Who goes there?!
+Рассказчик: Эй! Кто здесь?!
+
+# Original: Instead, what we faced was people.
+Рассказчик: Однако на двенадцати часах были люди.
+
+# Original: It was too early to deem that as fortunate, though.
+Рассказчик: Но я не могу сказать, что это к лучшему.
+
+# Original: Huh? I thought we were the only people ‘round here.
+Рассказчик: Что за? Ты говорил, мы одни здесь.
+
+# Original: Did they slip past our team at the entrance? Those scavengers keep coming one after the other.
+Рассказчик: Неужто передок лоханулся? Небось, ещё одни блядские Крысы пробрались внутрь.
+
+# Original: Oi, bug buggers! You friends with the bodies back there?
+Хитклиф: Эй, жучары! Те мертвяки — ваши друганы?
+
+# Original: Bodies?! You bastards didn’t…
+Рассказчик: Мертвяки?! Ах вы тва…
+
+# Original: Wait.
+Рассказчик: Погодь.
+
+# Original: …I don’t know where you scum’re from, but hear me out a sec.
+Рассказчик: …Мне кристалльно похуй на то, откуда вы, но слушьте.
+
+# Original: You’re here for the Enkephalin, aren’t ya? If you go just one floor down, there’s a treasure trove just waiting to be nabbed.
+Рассказчик: Вы же за Энкефалином пришли, да? Энкефалина полно этажом ниже.
+
+# Original: Whatever’s on that floor is yours. We’ll just take what we can here and be on our…
+Рассказчик: Можете его забрать. А мы заберём всё с этого этажа и просто разойдём…
+
+# Original: …way. Ha—Haha.
+Рассказчик: …ся. Ха, ха-ха.
+
+# Original: Tsk, so you recognized me, huh.
+Грегор: Тц, так всё-таки ты меня узнал.
+
+# Original: The moment the soldier’s eyes landed on Gregor’s face…
+Рассказчик: Как он и сказал, лицо человека, только что бывшего с нами "милым"…
+
+# Original: Their thin veil of kindness was torn down.
+Рассказчик: …Исказилось в ту же секунду, как он увидел Грегора.
+
+# Original: Traitorous pissant…
+Рассказчик: Ты, пятисотый…
+
+# Original: Ahh, you must’ve been dispatched to the front lines too. I look better in real life than on those flyers, right?
+Грегор: А-ха, значит ты с фронта. Как думаешь, моя моська вживую гораздо лучше, чем на постере, да?
+
+# Original: Cut the cheeky crap! I’m disgusted that I once saluted to your face.
+Рассказчик: А ну молчать! Меня тошнит от того, что я когда-то отдавала “тебе” честь.
+
+# Original: Whoa, easy there, it’s not like you had to salute me in person.
+Грегор: Воу, полегче, не то, что тебе надо было отдавать честь мне лично.
+
+# Original: While you posed as a normal member of society thanks to your dumbass privilege freeing you from the side effects…
+Рассказчик: Пока ты шлялся среди людей как нормальный благодаря твоей ёбанной привилегии жизни без побочек…
+
+# Original: We never even got a chance, you fraternizer. We were thrown away right after the war was lost.
+Рассказчик: Мы не имели такого счастья, кидалово. Нас вышвырнули как мусор, как только мы проиграли войну.
+
+# Original: …I was tossed out all the same, you know. Isn’t that how it is for all the soldiers?
+Грегор: …Меня так-то тоже бросили. Разве так не со всеми военными?
+
+# Original: So this is the lifestyle you chose? Rifling through the trash like actual bugs?
+Грегор: И вы выбрали такую жизнь? Ползать в мусоре как настоящие жуки?
+
+# Original: Halt! No good can come out of taunting your foe!
+Отис: Прекратить! Провоцирование врага до добра не доведёт!
+
+# Original: You served the military too. Y’know where this is going.
+Грегор: Ты тоже воевала.
+
+# Original: We’re not getting outta this without a fight.
+Грегор: Что бы мы ни сделали, они нападут.
+
+# Original: …We were planning to let you through, we really were.
+Рассказчик: …Мы правда собирались вас отпустить.
+
+# Original: But now, I’ll mince you and your traitor friend into mutt meat.
+Рассказчик: Но теперь, я лично разделаю пятисотого на фарш.
+
+# Original: Like hell you were. You were gonna wait for us to climb back up with the Enkephalin so you could backstab us and swipe it.
+Хитклиф: Ага, конечно. Только поднимись мы с Энкефалином обратно, вы бы воткнули нам нож в спину.
+
+# Original: W—Wait, were they?
+Синклер: Они бы п-правда?
+
+# Original: They’ve fallen to rock bottom and below, an’ I swear down they don’t care a whit for honor, eh?
+Хитклиф: Ты правда думаешь, что у падших на самое дно людей осталась хоть капля чести?
+
+# Original: Well-off or broke, people turn on each other as long as there’s something. You’re way too naive to think otherwise.
+Хитклиф: Люди всегда нападут со спины на тех, у кого что-то есть. И ты слишком наивен, если думаешь, что будет по-другому.

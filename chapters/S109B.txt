@@ -1,0 +1,92 @@
+﻿# Original: We’re here. Charon knew the way all along.
+Харон: Приехали. Как и ожидалось, Харон знает дорогу.
+
+# Original: No, no you didn’t! Sinclair and I had to steer you from both sides nonstop.
+Юри: Как и ожидалось? В смысле, "как и ожидалось"?! Мы с Синклером постоянно одёргивали тебя с обеих сторон.
+
+# Original: I’m glad that at least you learned to tell the difference between southeast and northeast, Charon.
+Синклер: Но я рад, что теперь ты отличаешь северо-восток от юго-востока, Харон.
+
+# Original: <So this is… the old L Corp?>
+Данте: <Это… старая корпорация L?>
+
+# Original: This is my first time seeing it with my own eyes, too… It can’t have been long since ‘that’ happened.
+Ишмаэль: Я тоже впервые вижу её… Не думаю, что прошло много времени с того момента, как "это" произошло…
+
+# Original: My goodness… How can a building be in such a derelict state?
+Хон Лу: Господи, как здание может выглядеть настолько заброшенным?
+
+# Original: Hah, this is a surprising scene for our rich boy, is it.
+Хитклиф: Ха, небось, непривычное зрелище для богатенького сынка.
+
+# Original: Cut the chatter. Time to step off.
+Вергилий: Хватит болтать. На выход.
+
+# Original: <Huh, there are people over there…>
+Данте: <Эм, там какие-то ребята, которых я впервые вижу…>
+
+# Original: They’re Fixers from the same Office as Miss Yuri.
+Фауст: Это корректировщики из того же офиса, на который работает мисс Юри.
+
+# Original: They’re experienced explorers who have visited the branches of L Corp. a number of times.
+Фауст: Они уже несколько раз посещали филиалы корпорации L.
+
+# Original: Give your greetings. The person on the left is Hopkins, and the one on the right is Aya.
+Вергилий: Поприветствуем их. Слева находится мистер Хопкинс, а справа — мисс Ая.
+
+# Original: Greetings~
+Ая: Здравствуйте~
+
+# Original: Th… The… The—
+Хопкинс: К…к…к…
+
+# Original: The Red Gaze! It’s—it’s such an honor to meet you…! I’ve heard so many stories of your deeds, and to see you in person…
+Хопкинс: Красный взор! Немыслимая честь — встретить вас лично…! Я только слышал о ваших подвигах, но…
+
+# Original: Myeah.
+Вергилий: А-а.
+
+# Original: See the shabby warehouse there? That’s where the stairs leading down to the branch facility are.
+Вергилий: Видите тот заброшенный склад? В нём находится лестница вниз, в филиал.
+
+# Original: From there, Yuri here will be your guide.
+Вергилий: И начиная с той лестницы, вашим гидом станет мисс Юри.
+
+# Original: …Yeah.
+Юри: …Да.
+
+# Original: These Fixers have been around a bit. Count on them to handle complications.
+Вергилий: Также эти корректировщики достаточно опытны, чтобы без проблем разобраться с большей частью непредвиденных ситуаций.
+
+# Original: That should be enough, yeah? This is as far as I can accompany you. I’ll be waiting back at the bus.
+Вергилий: Этого достаточно? На этом я оставляю вас. Я буду ждать вас в автобусе.
+
+# Original: <Huh? Wait, what?>
+Данте: <Э-э? Так внезапно?>
+
+# Original: You’re sorely mistaken if you expect me to babysit you forever, Dante.
+Вергилий: Было большой ошибкой считать, что я буду сюсюкаться с вами вечно, Данте.
+
+# Original: So you’ll take a back seat and idle away all alone?
+Хитклиф: То есть ты собираешься развалиться в автобусе, подняв ножки?
+
+# Original: If I get myself involved, the expedition would be a little too free of challenge, wouldn’t it? It’d turn into more of a tour.
+Вергилий: Если я последую за вами, чем это будет отличаться от простой экскурсии?
+
+# Original: …In other words, you want us to come back red, black, and blue.
+Грегор: …Другими словами, вы хотите, чтобы мы вернулись избитые и израненные.
+
+# Original: That’s the kind of line people with ulterior motives say…
+Ишмаэль: Обычно так говорят люди со скрытыми мотивами…
+
+# Original: Think whatever you want.
+Вергилий: Думайте что пожелаете.
+
+# Original: I’ve gotten you guides and everything, so do your best down there.
+Вергилий: У вас даже гид есть, так что ни пуха ни пера.
+
+# Original: Yes! I certainly won’t disappoint you, Mister Red Gaze!
+Хопкинс: Да! Мы постараемся на славу, Красный взор!
+
+# Original: I’ll try my best, I think~
+Ая: Сделаю всё, что в моих силах~

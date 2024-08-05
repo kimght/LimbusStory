@@ -1,0 +1,275 @@
+﻿# Original: Do you see now? You can’t run from us.
+Волк: Только понял? Куда бы ты ни поскакал, блошка, никуда от нас не денешься.
+
+# Original: <You dare… interrupt me just as I was engraving the ■■■■■■… You must be out of your…>
+Данте: <Как смеете вы… Прерывать черчение ■■… С ума сошли…>
+
+# Original: Ah~ If we’re being technical, what our master has planned apparently isn’t one of the City’s taboos.
+Лев: Ах~ По правде говоря, то, что хочет сделать наша наставница, Табу Города ведь не нарушает.
+
+# Original: It’s just the kind of thing that… no one has ever dared to consider, you catch my drift?
+Лев: Никому это и в голову не приходило… Сечёшь, о чём я?
+
+# Original: Huh, would you look at that…
+Лев: О, но только посмотрите…
+
+# Original: You managed to get a different head in so fast. Do people like you always come prepared?
+Пантера: Ты и голову за это время успел сменить. Неужто люди вроде тебя готовятся ко всему?
+
+# Original: <Kngh… Just wait ‘til I get the ■■■■■■… You’ll be no match for my…>
+Данте: <Гх… Остаётся лишь начертить ■■■■■■… И такие, как вы…>
+
+# Original: Haha, I guess that new noggin doesn’t come with a mouth, huh?
+Лев: Ха-ха, похоже, рот с этой головушкой в комплекте не шёл?
+
+# Original: Yep, ticking is all I can hear. You think they’re screaming on the inside?
+Волк: Угу, я слышу лишь "тик-так". Может, он так кричит?
+
+# Original: <Ghaagh…!>
+Данте: <Кхак!…>
+
+# Original: Hmm. It’s ticking faster, so I guess they can still feel pain.
+Волк: Хм-м… тиканье ускорилось, значит, ему всё ещё больно.
+
+# Original: Dammit… Why… am I…!
+Рассказчик: Чёрт подери… Почему… Я?!
+
+# Original: …Why am I being attacked?
+Рассказчик: …Почему на меня напали?
+
+# Original: Not good… Memories are dissolving already… The ■■■ was done too quick…
+Рассказчик: Крх… Неужели уже теряю память… Слишком быстро приступил к ■■■…
+
+# Original: What, they’ve gone quiet already. Let’s get this over with.
+Волк: Что, уже замолк? Давайте, покончим с этим.
+
+# Original: Wolf, this is a place no one visits and somewhere none can see. What’s the hurry?
+Лев: Волчица, сюда никто не забредает, подглядывать за нами некому. Чего ты так торопишься?
+
+# Original: We must follow her teachings. We can’t drag on any longer.
+Волк: Нам нужно следовать её наставлениям. Хватит терять время впустую.
+
+# Original: Yeah, but… Haa, this is the moment of a lifetime. We’re not gonna get a second chance to kill someone of this caliber…
+Лев: Да, но… Ха, когда ещё нам выпадет шанс убить такого, как он?
+
+# Original: Lion, you have a tendency to grow too emotional during your jobs. I hope you show some discretion.
+Пантера: Львица, твоя излишняя эмоциональность мешает нашей работе. Прояви немного благоразумия.
+
+# Original: Pshaw…
+Лев: Тче…
+
+# Original: It’s a shame—I wanted to have a look at your face. I reckon you won’t tell us where your star is, right?
+Пантера: Хотелось бы мне увидеть твоё лицо, но, видимо, не судьба. Ты ж не расскажешь нам, где находится твоя звезда, да?
+
+# Original: <Like hell I am. I’m taking ■■■’s location to the grave with…>
+Данте: <Чёрта с два. Никогда я не скажу, где ■■■■■■...>
+
+# Original: <……>
+Данте: <……>
+
+# Original: Dammit, where was ■■■ supposed to be again? My memories are escaping me too quickly…
+Рассказчик: Чёрт, а где вообще должна быть ■■■■■■? Воспоминания покидают меня слишком быстро…
+
+# Original: …Right. No mouth.
+Пантера: …Точно. Рта-то нет.
+
+# Original: Which in turn means… we won’t learn how to acquire it from this person.
+Пантера: Выходит… у нас никакой возможности вытянуть нужную нам информацию.
+
+# Original: Can I end them now?
+Волк: Я могу уже его прикончить?
+
+# Original: Sure… Huh?
+Пантера: Конеч… э-э?
+
+# Original: Hey, what’s that noise? Don’t tell me, Panther… did you allow yourself to be tracked?
+Лев: Что это за звук? Пантера… неужели за тобой всё это время был хвост?
+
+# Original: No, there was no one that could’ve pursued me. Perhaps a wild animal?
+Пантера: Никак нет, за мной никого не было. Может, это какой-то зверь?
+
+# Original: This is not the sound a beast would make. It’s…
+Волк: Не похоже на звуки животных. Скорее, это…
+
+# Original: A bus…?
+Волк: Автобус?...
+
+# Original: How did it even end up here?
+Пантера: Как он вообще сюда заехал?
+
+# Original: Must’ve taken a wrong turn?
+Лев: Может, свернул не туда?
+
+# Original: Hoo, the price they’ll pay for taking the wrong road will be heavier than they expect…
+Лев: Фух, эта ошибка обойдётся им очень дорого…
+
+# Original: …!
+Лев: …!
+
+# Original: …It bested Lion’s strength?
+Волк: …Даже Львица не устояла на ногах?
+
+# Original: …!
+Пантера: …!
+
+# Original: ……
+Сауде: ……
+
+# Original: If my eyes are still right, then you will reach the harbor of glory.
+Рассказчик: Если взор мой всё так же ясен, то вы достигнете порта славы.
+
+# Original: <Who… are you? That nameplate… says… Faust?>
+Данте: <Вы… кто? Бейджик… Фа…уст?>
+
+# Original: You’ve lost your way in a dark forest.
+Фауст: Вы заблудились в сумрачном лесу.
+
+# Original: <I’m… sorry, what?>
+Данте: <Что… что?>
+
+# Original: Yet you were not overcome with fear. Why was that?
+Фауст: Но вас не объял страх. Почему?
+
+# Original: <That’s…>
+Данте: <Потому…>
+
+# Original: <I could simply… lift my head to find the star.>
+Данте: <Подняв голову… я смог увидеть звезду.>
+
+# Original: That’s right.
+Фауст: Хорошо.
+
+# Original: Now, repeat with the heart what I tell you aloud as you remind yourself of that image.
+Фауст: Теперь, запомнив её, прокричите всем сердцем мои слова.
+
+# Original: Follow your star.
+Фауст: Следуй за своей звездой.
+
+# Original: <Follow… your star.>
+Данте: <Следуй за… своей звездой.>
+
+# Original: At that moment…
+Рассказчик: И в этот момент…
+
+# Original: I felt a sudden thump in my head.
+Рассказчик: Моя голова завелась и загремела изнутри.
+
+# Original: Followed by the sting of several chains penetrating my chest.
+Рассказчик: А грудь словно пронзило несколькими цепями.
+
+# Original: <Hyag… Ah— Aaagh!!!>
+Данте: <Кха… Ы-ыа-а!!!>
+
+# Original: Relax. Though it may feel otherwise, your heart is still functional.
+Фауст: Не беспокойтесь. Ваше сердце всё ещё функционирует.
+
+# Original: With this, the pact has been sealed.
+Фауст: Теперь договор заключён.
+
+# Original: Dante, from this day forth, we are bound to your time.
+Фауст: Данте, с этого момента мы скованы вашим временем.
+
+# Original: <What do you…?>
+Данте: <Что вы имеете в ви…>
+
+# Original: The beating of our hearts now depends on where your hands fall.
+Фауст: Биение наших сердец зависит от стрелок ваших часов.
+
+# Original: I hope you’ll make a fine leader.
+Фауст: Надеюсь, вы станете замечательным лидером.
+
+# Original: <“Our”…?>
+Данте: <"Наших"…?>
+
+# Original: Is that really everything?
+Ишмаэль: Неужели на этом правда всё?
+
+# Original: A single apple has fallen.
+И Сан: Одно яблоко упало на землю.
+
+# Original: …This guy’s still not making any sense.
+Ишмаэль: …Этот парень всё ещё несёт несуразицу.
+
+# Original: Geeeez~ The wait was killing me! Finally some action now?
+Родион: Ъъъ~ Я всё себе уже отсидела! А теперь-то начнётся движ?
+
+# Original: Well, I guess we could use a little warm-up.
+Грегор: Ну, разминка бы нам не помешала.
+
+# Original: What is that wretch miserably writhing on the ground? Are they to be the newest addition to the team?
+Отис: Что это за жалкий бедолага, извивающийся на земле, словно червяк? Неужели “это” — последний член нашей команды?
+
+# Original: Uh… You might wanna watch your words… I heard that’s our soon-to-be boss…
+Грегор: Э-э… Лучше следи за своим языком… Как бы он — наш будущий босс…
+
+# Original: The attack must’ve happened in an instant—I’m impressed you managed to hide your head.
+Фауст: Должно быть, вас атаковали практически сразу, как только вы оказались в Лесу, но вы всё же успели спрятать свою голову.
+
+# Original: <Who are you people? And what’s up with this bus?>
+Данте: <А вы, собственно, кто? И что за автобус такой?>
+
+# Original: We are bearers of justice who have come to aid you, and this is the magical bus that takes us wherever we wish to go.
+Фауст: Мы — посланники справедливости, пришедшие к вам на помощь, а это — волшебный автобус, что отправит нас, куда мы только захотим.
+
+# Original: <Justice? Bus? I don’t…>
+Данте: <Справедливости? Автобус? Я не понима…>
+
+# Original: Wasn’t that what you expected to hear? Either way, you’re better off believing us to be your saviors.
+Фауст: Разве не этого ответа вы ожидали? Как бы то ни было, вам будет гораздо проще думать о нас как о ваших спасителях.
+
+# Original: We’re racing against time and the situation isn’t in our favor, so let me explain this once.
+Фауст: У нас нет времени, и мы в крайне невыгодном для нас положении, так что я всё вам объясню, но лишь раз.
+
+# Original: After some time passed…
+Рассказчик: Спустя некоторое время…
+
+# Original: <So… If I’m not mistaken here and I do as you’ve said, those total strangers will fight for me?>
+Данте: <То есть… Вы хотите сказать, что эти абсолютно незнакомые мне люди готовы сражаться за меня на поле боя, так?>
+
+# Original: Correct. So long as you give them the right orders.
+Фауст: Правильно. Если вы отдадите им верные приказы.
+
+# Original: <Alright, so we’ll kill these arrogant vandals dead…>
+Данте: <Ага, понятно, значит, мы замочим этих ублюдков…>
+
+# Original: <Then I’ll go back to where I was…>
+Данте: <Вернёмся туда, где я был до этого…>
+
+# Original: <Where I was, and…>
+Данте: <Где я был… До этого…>
+
+# Original: <……>
+Данте: <……>
+
+# Original: <What was I doing? Where was I when I did that?>
+Данте: <Но где я был? Куда я вообще шёл?>
+
+# Original: <Something extremely important was upon me. Something I shouldn’t forget…>
+Данте: <Было что-то важное. Что-то, что я не должен был забывать…>
+
+# Original: Calm down. It’s only natural to happen with your current head.
+Фауст: Успокойтесь. Воспоминания часто теряются при смене головы на такую, как у вас сейчас.
+
+# Original: You should focus on the struggle at hand, Dante.
+Фауст: В данный момент нам лучше сосредоточиться на предстоящей битве, Данте.
+
+# Original: Clo… Pardon, I’m not sure how I should address you.
+Отис: Ча… кхм. Прошу прощения, я не знаю, как к вам обращаться.
+
+# Original: Would Commander Clock suffice…? In any case, we await your orders!
+Отис: Командующий "Часы"..? Как бы то ни было, жду ваших указаний!
+
+# Original: Eh, do we really need orders? Seems like going one-on-one is the only way.
+Грегор: Каких указаний ты ждёшь? Тут не остаётся ничего, кроме поединка, нет?
+
+# Original: Huh?! H-Hey!
+Ишмаэль: О-оу?! Из-извините!
+
+# Original: Quit running off your mouths! We just need to crush them all!
+Хитклиф: Хорош молоть языком! Просто переломаем им все кости и дело с концом!
+
+# Original: …Please do your best, Dante.
+Фауст: …Прошу, Данте, сделайте всё, что в ваших силах.
+
+# Original: <…There’s no two ways about it, I suppose.>
+Данте: <…У меня нет иного выбора.>

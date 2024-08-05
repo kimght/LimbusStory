@@ -35,7 +35,8 @@ class StoryLineDTO:
         ]
 
         return collections.OrderedDict(
-            (key, value) for key, value in field_list if value is not None
+            (key, value) for key, value in field_list
+            if value is not None or key == "id"
         )
 
 
