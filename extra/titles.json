@@ -1,1 +1,920 @@
-[]
+[
+  {
+    "original": "Grade 8 Fixer",
+    "translation": "Корректировщица 8 ранга",
+    "model": "유리"
+  },
+  {
+    "original": "???",
+    "translation": "???"
+  },
+  {
+    "original": "Reminisced Soldier",
+    "translation": "Солдат из памяти"
+  },
+  {
+    "original": "Reminisced Person",
+    "translation": "Человек из памяти"
+  },
+  {
+    "original": "Reminisced Person",
+    "translation": "Человек из памяти",
+    "model": "여자시민"
+  },
+  {
+    "original": "Grade 8 Fixer",
+    "translation": "Корректировщица 8 ранга"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "헤르만"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "구보"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "가환"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "에피"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "소드"
+  },
+  {
+    "original": "J Corp. Pawnshop",
+    "translation": "Ломбард Корп. J",
+    "model": "전당포주인"
+  },
+  {
+    "original": "Tingtang Gang",
+    "translation": "Банда «Бом-боб»",
+    "model": "촌스러운말투의콩콩파조직원"
+  },
+  {
+    "original": "Tingtang Gang",
+    "translation": "Банда «Бом-боб»",
+    "model": "세보이고싶었던콩콩파조직원"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "피묻은귀도"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "제복소드"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers",
+    "translation": "Бар \"У Ынбон\"",
+    "model": "뒤틀린주인카운트1"
+  },
+  {
+    "original": "Distorted Thing",
+    "translation": "Искажённый",
+    "model": "뒤틀린닭1"
+  },
+  {
+    "original": "Edgar Family",
+    "translation": "Род Эдгар",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Edgar Family",
+    "translation": "Род Эдгар"
+  },
+  {
+    "original": "Edgar Family",
+    "translation": "Род Эдгар",
+    "model": "그레고르"
+  },
+  {
+    "original": "Chief Butler",
+    "translation": "Экономка",
+    "model": "료슈"
+  },
+  {
+    "original": "Los Mariachis",
+    "translation": "Мариачи",
+    "model": "아이드"
+  },
+  {
+    "original": "Yurodivy",
+    "translation": "Юродивые",
+    "model": "소냐"
+  },
+  {
+    "original": "Tieqiu Crew",
+    "translation": "Банда Железного шара",
+    "model": "철공회보스"
+  },
+  {
+    "original": "Blade Lineage",
+    "translation": "Родословная клинка",
+    "model": "앵두"
+  },
+  {
+    "original": "Kurokumo Clan Captain",
+    "translation": "Вакагасира клана «Курокумо»",
+    "model": "쥰"
+  },
+  {
+    "original": "Kurokumo Clan Captain",
+    "translation": "Вакагасира клана «Курокумо»",
+    "model": "시계쥰"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소드"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에피"
+  },
+  {
+    "original": "N Corp. Großhammer",
+    "translation": "Большой молот Корп. N"
+  },
+  {
+    "original": "N Corp. Kleinhammer",
+    "translation": "Малый молот Корп. N",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Grade 8 Fixer",
+    "translation": "Корректировщик 8 ранга",
+    "model": "홉킨스"
+  },
+  {
+    "original": "L Corp.",
+    "translation": "Корпорация L "
+  },
+  {
+    "original": "L Corp. Employee",
+    "translation": "Сотрудница корпорации L"
+  },
+  {
+    "original": "Molar Boatworks",
+    "translation": "Верфь Коренного",
+    "model": "싱클레어"
+  },
+  {
+    "original": "J Corp. Casino",
+    "translation": "Казино Корп. J",
+    "model": "카지노경호원대장"
+  },
+  {
+    "original": "J Corp. Casino",
+    "translation": "Казино Корп. J",
+    "model": "각잡힌카지노경호원"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "N사심문관1"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "N사심문관2"
+  },
+  {
+    "original": "Guide",
+    "translation": "Гид",
+    "model": "베르길리우스2"
+  },
+  {
+    "original": "Tieqiu Crew",
+    "translation": "Банда Железного шара",
+    "model": "위협적인철공회조직원"
+  },
+  {
+    "original": "Tieqiu Crew",
+    "translation": "Банда Железного шара",
+    "model": "몸푸는철공회조직원"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "귀도"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers",
+    "translation": "Бар \"У Ынбон\"",
+    "model": "뒤틀린주인카운트2"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers",
+    "translation": "Бар \"У Ынбон\"",
+    "model": "뒤틀린주인카운트3"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers",
+    "translation": "Бар \"У Ынбон\"",
+    "model": "뒤틀린주인"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers",
+    "translation": "Бар \"У Ынбон\""
+  },
+  {
+    "original": "Molar Office",
+    "translation": "Офис Коренного",
+    "model": "오티스"
+  },
+  {
+    "original": "N Corp. Mittelhammer",
+    "translation": "Средний молот Корп. N",
+    "model": "로쟈"
+  },
+  {
+    "original": "The One Who Grips",
+    "translation": "Так, кто держит",
+    "model": "파우스트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "늑대"
+  },
+  {
+    "original": "■■■",
+    "translation": "■■■",
+    "model": "프롤로그단테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "사자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "표범"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "???"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "프롤로그파우스트"
+  },
+  {
+    "original": "Me",
+    "translation": "Я",
+    "model": "프롤로그단테2"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент зачистки Корп. W",
+    "model": "파우스트"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент зачистки Корп. W",
+    "model": "홍루"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент зачистки Корп. W",
+    "model": "료슈"
+  },
+  {
+    "original": "District 4 Backstreets",
+    "translation": "Подворотни 4-го Района"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "크로머"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "제복에피"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "크로머목소리"
+  },
+  {
+    "original": "Molar Office",
+    "translation": "Офис Коренного",
+    "model": "이상"
+  },
+  {
+    "original": "Kurokumo Clan",
+    "translation": "Клан «Курокумо»"
+  },
+  {
+    "original": "Kurokumo Wakashu",
+    "translation": "Вакасю «Курокумо»",
+    "model": "홍루"
+  },
+  {
+    "original": "Calw Townsfolk",
+    "translation": "Житель Кальва"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "삼조"
+  },
+  {
+    "original": "Distorted Thing",
+    "translation": "Искажение",
+    "model": "뒤틀린손님2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "지크프리트"
+  },
+  {
+    "original": "A Fixer?",
+    "translation": "Корректировщик?",
+    "model": "지크프리트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아이드"
+  },
+  {
+    "original": "Tingtang Gang",
+    "translation": "Банда «Бом-боб»",
+    "model": "콩콩이파보스"
+  },
+  {
+    "original": "Tingtang Gang",
+    "translation": "Банда «Бом-боб»",
+    "model": "콩을싫어하는콩콩파조직원"
+  },
+  {
+    "original": "Los Mariachis",
+    "translation": "Марьячи"
+  },
+  {
+    "original": "Have You Become Strong",
+    "translation": "Ты стал сильнее",
+    "model": "너맞아볼래매우"
+  },
+  {
+    "original": "Tieqiu Crew",
+    "translation": "Банда Железного шара"
+  },
+  {
+    "original": "Blade Lineage?",
+    "translation": "Родословная клинка?",
+    "model": "김삿갓"
+  },
+  {
+    "original": "Kurokumo Clan",
+    "translation": "Клан «Курокумо»",
+    "model": "흑운회조직원2"
+  },
+  {
+    "original": "District 25",
+    "translation": "25-ый Район"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "T사2등급"
+  },
+  {
+    "original": "LCB & T Corp.",
+    "translation": "LCB и Корп. T",
+    "model": "돈키T3"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "T사대표"
+  },
+  {
+    "original": "District 20",
+    "translation": "20-ый Район",
+    "model": "T사시민"
+  },
+  {
+    "original": "District 20 Yurodivy",
+    "translation": "Юродивый 20-го Района",
+    "model": "유로지비멤버1"
+  },
+  {
+    "original": "District 20 Yurodivy",
+    "translation": "Юродивая 20-го Района",
+    "model": "유로지비멤버2"
+  },
+  {
+    "original": "Grade 8 Fixer",
+    "translation": "Корректировщица 8 ранга",
+    "model": "아야"
+  },
+  {
+    "original": "Los Mariachis",
+    "translation": "Мариачи",
+    "model": "흥겨운마리아치조직원"
+  },
+  {
+    "original": "Los Mariachis",
+    "translation": "Мариачи",
+    "model": "경쾌한마리아치조직원"
+  },
+  {
+    "original": "Liu Section 5",
+    "translation": "5-ая секция «Лю»",
+    "model": "홍루"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "파우스트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "이상"
+  },
+  {
+    "original": "Zwei Section 4",
+    "translation": "4-ая секция «Цвай»",
+    "model": "그레고르"
+  },
+  {
+    "original": "Seven Section 6",
+    "translation": "6-ая секция «Севен»",
+    "model": "이상"
+  },
+  {
+    "original": "Seven Section 6",
+    "translation": "6-ая секция «Севен»"
+  },
+  {
+    "original": "K Corp. Dept. of Food Resource Development",
+    "translation": "МУПП Корп. K",
+    "model": "삼조"
+  },
+  {
+    "original": "Bodhisattva Chicken",
+    "translation": "\"Курочка-бодхисаттва\"",
+    "model": "보살치킨"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корпорация K"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers?",
+    "translation": "Бар \"У Ынбон\"?",
+    "model": "뒤틀린주인"
+  },
+  {
+    "original": "Eunbong’s Bar & Fryers",
+    "translation": "Бар \"У Ынбон\"",
+    "model": "은봉치킨"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "G사부장"
+  },
+  {
+    "original": "G Corp. Remnant",
+    "translation": "Павшая корпорация G",
+    "model": "G사부장"
+  },
+  {
+    "original": "Military Court",
+    "translation": "Военный трибунал"
+  },
+  {
+    "original": "G Corp. Head Manager",
+    "translation": "Командир Корп. G",
+    "model": "오티스"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "범블"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "감속더미"
+  },
+  {
+    "original": "Shi Section 5",
+    "translation": "5-ая секция «Си»",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Shi Section 5",
+    "translation": "5-ая секция «Си»",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Sinner #3",
+    "translation": "Грешница №3",
+    "model": "더미"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "검문소경비"
+  },
+  {
+    "original": "District 11",
+    "translation": "11-ый район",
+    "model": "더미2"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "더미2"
+  },
+  {
+    "original": "Shi Section 5",
+    "translation": "5-ая секция «Си»",
+    "model": "히스클리프"
+  },
+  {
+    "original": "J Corp. Casino",
+    "translation": "Казино Корп. J"
+  },
+  {
+    "original": "The One Who Shall Grip",
+    "translation": "Тот, кому суждено держать",
+    "model": "싱클레어"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB"
+  },
+  {
+    "original": "LCCB Assistant Manager",
+    "translation": "Ассистентка LCCB",
+    "model": "이스마엘"
+  },
+  {
+    "original": "A Survivor?",
+    "translation": "Выжившая?",
+    "model": "석상머리"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "변신크로머"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "데미안"
+  },
+  {
+    "original": "J Corp. Casino",
+    "translation": "Казино Корп. J",
+    "model": "노예"
+  },
+  {
+    "original": "District 23 Backstreets",
+    "translation": "Подворотни 23-го Района",
+    "model": "료슈"
+  },
+  {
+    "original": "Grade 8 Fixer",
+    "translation": "Корректировщица 8 ранга",
+    "model": "쓰러진아야"
+  },
+  {
+    "original": "W Corp.",
+    "translation": "Корпорация W"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент зачистки корпорации W",
+    "model": "뫼르소"
+  },
+  {
+    "original": "R Corp. 4th Pack Rabbit",
+    "translation": "Кролик 4-ой Стаи Корп. R",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Zwei Section 5",
+    "translation": "5-ая секция «Цвай»",
+    "model": "로쟈"
+  },
+  {
+    "original": "Zwei Section 5",
+    "translation": "5-ая секция «Цвай»",
+    "model": "히스클리프"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "화난패잔병"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "의아한패잔병"
+  },
+  {
+    "original": "N Corp. Mittelhammer",
+    "translation": "Средний молот Корп. N"
+  },
+  {
+    "original": "N Corp. Großhammer",
+    "translation": "Большой молот Корп. N",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Student",
+    "translation": "Ученица",
+    "model": "학생크로머"
+  },
+  {
+    "original": "Chump",
+    "translation": "Болван"
+  },
+  {
+    "original": "K Corp. Dept. of Food Resource Development?",
+    "translation": "МУПП Корп. K?",
+    "model": "삼조"
+  },
+  {
+    "original": "Blade Lineage Mentor",
+    "translation": "Наставник Родословной клинка",
+    "model": "김삿갓"
+  },
+  {
+    "original": "Blade Lineage?",
+    "translation": "Родословная клинка?",
+    "model": "최종김삿갓"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "눈이붉은자"
+  },
+  {
+    "original": "My Dear Family",
+    "translation": "Моя семья"
+  },
+  {
+    "original": "Student?",
+    "translation": "Ученица?",
+    "model": "학생크로머"
+  },
+  {
+    "original": "Liu Section 6",
+    "translation": "6-ая секция «Лю»",
+    "model": "그레고르"
+  },
+  {
+    "original": "LCD?",
+    "translation": "LCD?"
+  },
+  {
+    "original": "LCD",
+    "translation": "LCD"
+  },
+  {
+    "original": "LCA",
+    "translation": "LCA",
+    "model": "LCA특작팀"
+  },
+  {
+    "original": "Zwei Section 6",
+    "translation": "6-ая секция «Цвай»",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Zwei Section 6",
+    "translation": "6-ая секция «Цвай»",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Dueling Chefs",
+    "translation": "Повара",
+    "model": "그렉료슈"
+  },
+  {
+    "original": "Mysterious Transfer Student",
+    "translation": "Загадочный новичок",
+    "model": "학생데미안"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "피묻은크로머"
+  },
+  {
+    "original": "Student",
+    "translation": "Ученик"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "마이"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "진짜T사대표"
+  },
+  {
+    "original": "Seven Section 6",
+    "translation": "6-ая секция «Севен»",
+    "model": "료슈"
+  },
+  {
+    "original": "K Corp. Checkpoint",
+    "translation": "Контрольно-пропускной пункт Корп. K"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "침식직원1"
+  },
+  {
+    "original": "Nagel und Hammer",
+    "translation": "Нагель унд Хаммер",
+    "model": "침식직원1"
+  },
+  {
+    "original": "N Corp.",
+    "translation": "Корп. N",
+    "model": "헤르만"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "시계쥰"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쥰"
+  },
+  {
+    "original": "Distorted Thing?",
+    "translation": "Искажённый?",
+    "model": "히스클리프요리사"
+  },
+  {
+    "original": "Sinners",
+    "translation": "Грешники",
+    "model": "그렉료슈"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "T사4등급"
+  },
+  {
+    "original": "N Corp. Mittelhammer",
+    "translation": "Средний молот Корп. N",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Kurokumo Wakashu",
+    "translation": "Вакасю «Курокумо»",
+    "model": "로쟈"
+  },
+  {
+    "original": "Kurokumo Wakashu",
+    "translation": "Вакасю «Курокумо»",
+    "model": "료슈"
+  },
+  {
+    "original": "District 23 Backstreets",
+    "translation": "Подворотни 23-го Района",
+    "model": "그레고르"
+  },
+  {
+    "original": "LCCA",
+    "translation": "LCCA"
+  },
+  {
+    "original": "Lobotomy Corp. Remnant",
+    "translation": "Пережиток корпорации «Лоботомия»",
+    "model": "파우스트"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "T사사무직"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "Announcement"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "N사심문관1"
+  },
+  {
+    "original": "Blade Lineage Salsu",
+    "translation": "Сальсу Родословной клинка",
+    "model": "이상"
+  },
+  {
+    "original": "Blade Lineage Salsu",
+    "translation": "Сальсу Родословной клинка",
+    "model": "오티스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "카이만"
+  },
+  {
+    "original": "LCCA",
+    "translation": "LCCA",
+    "model": "카이만"
+  },
+  {
+    "original": "LCCA Team Leader",
+    "translation": "Капитан команды LCCA",
+    "model": "카이만"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корпорация T",
+    "model": "시살동생"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "로쟈"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "싱클레어"
+  },
+  {
+    "original": "G Corp. Remnant",
+    "translation": "Павшая корпорация G"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "시간살인마"
+  },
+  {
+    "original": "K Corp. Checkpoint",
+    "translation": "КПП Корп. K",
+    "model": "더미2"
+  },
+  {
+    "original": "Liu Section 6",
+    "translation": "6-ая секция «Лю»"
+  },
+  {
+    "original": "Liu Section 6",
+    "translation": "6-ая секция «Лю»",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Zwei Section 4",
+    "translation": "4-ая секция «Цвай»",
+    "model": "파우스트"
+  },
+  {
+    "original": "Zwei Section 4",
+    "translation": "4-ая секция «Цвай»",
+    "model": "이스마엘"
+  }
+]
