@@ -1,0 +1,764 @@
+﻿{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Screening Room",
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Кхе... Кхе..."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "Кровохарканье. Обнадеживающий признак."
+    },
+    {
+      "id": 2,
+      "model": "파우스트",
+      "content": "Даже при регулярных тренировках с сдерживанием Клифот, злоупотребление E.G.O все равно доведет тело пользователя до предела."
+    },
+    {
+      "id": 3,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Теперь ты вернешь Золотую Ветвь, Донгбек?"
+    },
+    {
+      "id": 4,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я должен был передать ее моим гостям здесь, подписав какой-то сложный контракт с несколькими печатями... Так что я не могу нарушить свое слово."
+    },
+    {
+      "id": 5,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Все еще... гордо... хвастаешься... своим... невежеством..."
+    },
+    {
+      "id": 6,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "А ты все еще слаба. По-прежнему."
+    },
+    {
+      "id": 7,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Даже с E.G.O из Корпорации Лоботомия, это было ниже моих ожиданий, Донгбек."
+    },
+    {
+      "id": 8,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Кроме того... я даже не представил тебе технологию, которую я разработал. Знаешь что, давай проведем нашу первую за долгое время конференцию?"
+    },
+    {
+      "id": 9,
+      "model": "K사안내방송",
+      "teller": "Диктор",
+      "title": "K Corp.",
+      "content": "Ежедневная аудиовизуальная трансляция отправлена."
+    },
+    {
+      "id": 10,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Итак, скажи мне, Донгбек..."
+    },
+    {
+      "id": 11,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Насколько сильнее может вырасти твое отчаяние?"
+    },
+    {
+      "id": 12,
+      "teller": "Бегущий Гражданский",
+      "title": "Nest K",
+      "content": "А-а-а-а!! Помогите мне!!!"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Что это за звук?"
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Это та съемка, которую дроны сделали, пока мы сражались с Аномалией на улице..."
+    },
+    {
+      "id": 15,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я прочитал угрозу, которую ты прислала, Донгбек. Ты сказала, что выпустишь Аномалию на улицы, если я не заговорю о Сингулярности."
+    },
+    {
+      "id": 16,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я знаю, что ты всегда любила радикальные события... Но я не думал, что ты действительно это сделаешь."
+    },
+    {
+      "id": 17,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Конечно... Это произвело гораздо больше слез. Все благодаря тебе."
+    },
+    {
+      "id": 18,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Нет... Я не планировала ее выпускать. Она сбежала. Ты проигнорировал мое предупреждение..."
+    },
+    {
+      "id": 19,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Если бы я ответил тогда, это означало бы признание того, что наша лаборатория произвольно экспериментировала с Аномалиями."
+    },
+    {
+      "id": 20,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "К счастью, наши подрядчики оказались рядом с Гнездом, когда это случилось."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "Значит, все это было частью твоего плана, чтобы мы столкнулись с вырвавшейся Аномалией?"
+    },
+    {
+      "id": 22,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Это было ближе к эксперименту, чем к плану. Возможность неудачи учитывалась, но у меня были основания верить, что вы справитесь."
+    },
+    {
+      "id": 23,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я наблюдаю за вами дольше, чем вы можете подумать."
+    },
+    {
+      "id": 24,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я же говорил вам, не так ли?"
+    },
+    {
+      "id": 25,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я ваш поклонник."
+    },
+    {
+      "id": 26,
+      "model": "크로머",
+      "teller": "Кромер",
+      "title": "Нагель унд Хаммер",
+      "content": "Нет, Синклер! Все всегда было наоборот... Это я та, кто держит...!"
+    },
+    {
+      "id": 27,
+      "model": "싱클레어",
+      "content": "Как это... Не думаю, что хочу это смотреть..."
+    },
+    {
+      "id": 28,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "В тот раз мы тоже получили рекордное количество слез. Это сыграло значительную роль в получении награды, должен заметить."
+    },
+    {
+      "id": 29,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Сотрудники определенного отдела в N Corp. не были лучшими собеседниками, но благодаря им я смог получить свежие аудиовизуальные материалы."
+    },
+    {
+      "id": 30,
+      "model": "로쟈",
+      "content": "Это значит... причина, по которой N Corp. могла безнаказанно творить такие жестокости в жилом районе Гнезда K, была..."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Это и было предметом сделки."
+    },
+    {
+      "id": 32,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Помнится, один человек сказал: хотя \"стеклянное окно\" брата Ён-джи было инновационным, оно было слишком обширным, чтобы свободно им управлять, особенно для такого грубого человека, как я."
+    },
+    {
+      "id": 33,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "……."
+    },
+    {
+      "id": 34,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "А, Донгбек. Это была ты?"
+    },
+    {
+      "id": 35,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Что ты... Ты что..."
+    },
+    {
+      "id": 36,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Просто никогда не было достаточно слез."
+    },
+    {
+      "id": 37,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Я имею в виду, посмотри вокруг себя и увидь, сколько людей здесь страдают."
+    },
+    {
+      "id": 38,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Так что они будут плакать за нас."
+    },
+    {
+      "id": 39,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Не успевая закрыть глаза."
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "teller": "И Сан",
+      "title": "League of Nine Littérateurs",
+      "content": "Я внес лишь незначительные изменения в работу брата Ён-джи."
+    },
+    {
+      "id": 41,
+      "model": "이상",
+      "teller": "И Сан",
+      "title": "League of Nine Littérateurs",
+      "content": "Я хотел показать отражение любой возможности в ее неприкрытом виде."
+    },
+    {
+      "id": 42,
+      "model": "이상",
+      "teller": "И Сан",
+      "title": "League of Nine Littérateurs",
+      "content": "Поэтому я рассматриваю для него название:"
+    },
+    {
+      "id": 43,
+      "model": "이상",
+      "teller": "И Сан",
+      "title": "League of Nine Littérateurs",
+      "content": "\"Зеркало\"."
+    },
+    {
+      "id": 44,
+      "model": "이상",
+      "teller": "И Сан",
+      "title": "League of Nine Littérateurs",
+      "content": "Я надеюсь, что это послужит инструментом развлечения... принося нам больше радости."
+    },
+    {
+      "id": 45,
+      "model": "과거동백",
+      "teller": "Донбек",
+      "title": "League of Nine Littérateurs",
+      "content": "Поэтому я не могла видеть тебя в последнее время? Чтобы открыть это?"
+    },
+    {
+      "id": 46,
+      "model": "과거동백",
+      "teller": "Донбек",
+      "title": "League of Nine Littérateurs",
+      "content": "Донран, почему ты так смеешься?"
+    },
+    {
+      "id": 47,
+      "model": "과거동랑",
+      "teller": "Донран",
+      "title": "League of Nine Littérateurs",
+      "content": "Просто забавно, что ты говоришь так свирепо, когда твои глаза полны любопытных искорок."
+    },
+    {
+      "id": 48,
+      "model": "과거동백",
+      "teller": "Донбек",
+      "title": "League of Nine Littérateurs",
+      "content": "И Сан, не мог бы ты сказать ему заткнуться?"
+    },
+    {
+      "id": 49,
+      "model": "과거동랑",
+      "teller": "Донран",
+      "title": "League of Nine Littérateurs",
+      "content": "Почему бы тебе сначала не скрыть на своем лице изумление ребенка, который впервые попробовал мороженое?"
+    },
+    {
+      "id": 50,
+      "content": "Рты, не способные сдержать смех."
+    },
+    {
+      "id": 51,
+      "content": "Возгласы удивления."
+    },
+    {
+      "id": 52,
+      "content": "Улыбки друг другу."
+    },
+    {
+      "id": 53,
+      "content": "Глаза, сияющие ярче звезд."
+    },
+    {
+      "id": 54,
+      "content": "Все там чувствовали... чистую радость."
+    },
+    {
+      "id": 55,
+      "content": "Я только желал, чтобы все это..."
+    },
+    {
+      "id": 56,
+      "content": "Осталось простым развлечением."
+    },
+    {
+      "id": 57,
+      "model": "상이",
+      "teller": "???",
+      "title": "???",
+      "content": "Замолчи."
+    },
+    {
+      "id": 58,
+      "model": "상이",
+      "teller": "???",
+      "title": "???",
+      "content": "Ты просто... будешь жить дальше, как есть. Как будто ничего не знаешь."
+    },
+    {
+      "id": 59,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Стеклянное окно... не было создано для такого злобного вырождения..."
+    },
+    {
+      "id": 60,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "У нас важный момент. Пожалуйста, следи за своими словами."
+    },
+    {
+      "id": 61,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "И я знаю, что ты имеешь в виду. Брат Ён-джи отругал бы меня за это."
+    },
+    {
+      "id": 62,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ах, но знаешь ли ты? Мы больше не в том времени, когда мы радовались игрушечным изобретениям. Аплодисменты не будут такими громкими, учитывая, как мало нас осталось."
+    },
+    {
+      "id": 63,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "……."
+    },
+    {
+      "id": 64,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ты просто не можешь отпустить. Не так ли?"
+    },
+    {
+      "id": 65,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ты произносишь свои громкие речи о зле технологий... Но это не более чем предлог, который ты придумала по пути, чтобы заручиться поддержкой. Чтобы достичь своей истинной цели."
+    },
+    {
+      "id": 66,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ты утверждаешь, что борешься с гнусными технологиями, но сама при этом ведешь себя довольно гнусно."
+    },
+    {
+      "id": 67,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Когда твоя группа захватила филиал Лоботомии, где я как раз проводил свои исследования..."
+    },
+    {
+      "id": 68,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ты, вероятно, сказала своим последователям, что это для расследования Сингулярности, но на самом деле ты поняла, что можешь найти фрагменты технологий, которые можно использовать как оружие, не так ли? Например, E.G.O."
+    },
+    {
+      "id": 69,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Интересно, кто дал тебе всю эту ценную информацию. Шренн не могла этого знать. Может, сыграем в двадцать вопросов, расскажешь мне таким образом?"
+    },
+    {
+      "id": 70,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Не говори так, будто знаешь все. Эта твоя манера... всегда меня раздражала..."
+    },
+    {
+      "id": 71,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ха-ха, тогда позволь мне сделать вид, что я знаю еще об одной вещи."
+    },
+    {
+      "id": 72,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Когда мы заглянули через стеклянное окно брата Ён-джи... и когда мы увидели мельком миры, отраженные в зеркале И Сана..."
+    },
+    {
+      "id": 73,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Мы почувствовали эйфорию и раскол, от которых никогда не сможем оправиться."
+    },
+    {
+      "id": 74,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "……."
+    },
+    {
+      "id": 75,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "С того момента, как было создано стеклянное окно..."
+    },
+    {
+      "id": 76,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Всевозможные заинтересованные группы стучались в дверь."
+    },
+    {
+      "id": 77,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Верно... Хотя мы можем думать... что ушли из Лиги по собственной воле..."
+    },
+    {
+      "id": 78,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Мы все знаем, что на самом деле произошло... На самом деле нас просто разорвали на части и разбросали..."
+    },
+    {
+      "id": 79,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "И причина этому пришла изнутри..."
+    },
+    {
+      "id": 80,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Донгбек, даже если ты поместишь мою работу в концептуальный инсинератор, мы не сможем вернуться в те невинные времена. Ты это знаешь, верно?"
+    },
+    {
+      "id": 81,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Хм... Даже осознавая это... ты все равно не можешь отказаться от своей одержимости..."
+    },
+    {
+      "id": 82,
+      "model": "동백여우각성_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "……."
+    },
+    {
+      "id": 83,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "А, теперь я понял."
+    },
+    {
+      "id": 84,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Если кто-то заново откроет сожженные технологии..."
+    },
+    {
+      "id": 85,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Другие безымянные ребята с другими мечтами... почувствуют ту же эйфорию, которую когда-то чувствовали мы. Вот чего ты хотела добиться."
+    },
+    {
+      "id": 86,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Поскольку мы сами не можем вернуться в прошлое..."
+    },
+    {
+      "id": 87,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ты собиралась воссоздать прошлое для грядущих поколений."
+    },
+    {
+      "id": 88,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ух ты, какая милая и оригинальная идея, Донгбек."
+    },
+    {
+      "id": 89,
+      "model": "싱클레어",
+      "content": "М-мисс Донгбек... Ваше тело..."
+    },
+    {
+      "id": 90,
+      "content": "Донгбек бормотала в пустоту. Казалось, будто она разговаривает с кем-то."
+    },
+    {
+      "id": 91,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Да... Я закопаю это... глубоко в песок... спрячу..."
+    },
+    {
+      "id": 92,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Чтобы кто-нибудь... когда-нибудь нашел..."
+    },
+    {
+      "id": 93,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Мы... не открыли технологии потому, что были лучше или имели эксклюзивные права..."
+    },
+    {
+      "id": 94,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Возможно, ты прав, я обманула всех, включая себя, заставив работать на свои цели... Это была... земля, которую мы возделывали... она была плодородной..."
+    },
+    {
+      "id": 95,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Грустно это слышать. Ты собираешься обесценить все наши усилия, вложенные в возделывание почвы, упуская из виду цветы?"
+    },
+    {
+      "id": 96,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Тогда мы были наивными любителями, а прошлое, которое ты отказываешься забыть, - лишь мимолетный момент, увиденный сквозь розовые очки."
+    },
+    {
+      "id": 97,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Знали ли об этом твои коллеги, отдавшие жизни за дело?"
+    },
+    {
+      "id": 98,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Что дело, о котором ты так громко заявляла, было лишь правдоподобным знаменем для привлечения людей. Что оно было таким же тщетным, как облако на небе."
+    },
+    {
+      "id": 99,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Нет... И все же... Я наконец-то лучше вижу себя. Именно поэтому я должна посадить росток и покрыть его землей своими руками, не так ли?"
+    },
+    {
+      "id": 100,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Бутон упал... и наш плод давно увял..."
+    },
+    {
+      "id": 101,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Его нужно снова покрыть землей... чтобы появились другие плоды..."
+    },
+    {
+      "id": 102,
+      "model": "로쟈",
+      "content": "Эй... Точно нормально оставить ее в таком состоянии?"
+    },
+    {
+      "id": 103,
+      "model": "로쟈",
+      "content": "Знаешь... Разум не работает правильно, когда используешь E.G.O..."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "Погоди-ка... Ты делаешь это нарочно...? Дразнишь ее как можно сильнее..."
+    },
+    {
+      "id": 105,
+      "model": "오티스",
+      "content": "И ждешь, пока она измотается..."
+    },
+    {
+      "id": 106,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "...Назад к невинным временам, теперь без нас."
+    },
+    {
+      "id": 107,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Ах, невинность..."
+    },
+    {
+      "id": 108,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Нет слов более смущающих, чем это."
+    },
+    {
+      "id": 109,
+      "model": "히스클리프",
+      "content": "Эй, держи себя в руках!"
+    },
+    {
+      "id": 110,
+      "model": "동랑",
+      "teller": "Донран",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Никто не может поколебать твой разум так, как я, и тогда, и сейчас. Не так ли?"
+    },
+    {
+      "id": 111,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Нет, я чувствую, что мой разум раскрывается шире, чем когда-либо."
+    },
+    {
+      "id": 112,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Я всегда хотела быть бутоном, готовым вот-вот расцвести."
+    },
+    {
+      "id": 113,
+      "model": "동백에고각성중_먼지",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Окутанная ароматом по всему телу..."
+    },
+    {
+      "id": 114,
+      "model": "동백에고각성",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Даже если это мой собственный душераздирающий путь, непонятный никому..."
+    },
+    {
+      "id": 115,
+      "model": "동백에고각성",
+      "teller": "Донбек",
+      "title": "Technology Liberation Alliance",
+      "content": "Я все равно оставлю после себя завтрашний день, сильный и плодородный, как опавшие лепестки."
+    }
+  ]
+}

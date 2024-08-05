@@ -1,0 +1,55 @@
+﻿{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Ишмаэль медленно приближается к Ахав. Её лицо окутано мрачной тенью."
+    },
+    {
+      "id": 1,
+      "model": "에이해브",
+      "teller": "Ахав",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Так ты наконец убила всех. Не оставила в живых ни единого."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Да. И ты последняя."
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "teller": "Ахав",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Хах..."
+    },
+    {
+      "id": 4,
+      "model": "에이해브",
+      "teller": "Ахав",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "ХА! ХА! АХАХАХАХАХА!!!!"
+    },
+    {
+      "id": 5,
+      "model": "에이해브",
+      "teller": "Ахав",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "ДА! Теперь мы с тобой стали одним целым, Ишмаэль."
+    },
+    {
+      "id": 6,
+      "model": "에이해브",
+      "teller": "Ахав",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Пути к нашим целям теперь ясны. Любая жертва, любое количество смертей может быть оправдано, если мы сможем довести наши миссии до конца!"
+    },
+    {
+      "id": 7,
+      "model": "에이해브",
+      "teller": "Ахав",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Пока мы убьём этого ублюдка, нам больше нечего будет желать в жизни!"
+    }
+  ]
+}
