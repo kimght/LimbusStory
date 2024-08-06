@@ -1,0 +1,33 @@
+name: Validate Translation
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - chapters
+  pull_request:
+    branches:
+      - main
+    paths:
+      - chapters
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+  
+      - name: Setup Python
+        uses:  actions/setup-python@v5
+        with:
+          python-version: 3.12
+    
+      - name: Validate Translation Files
+        run: python -m scripts.validate
