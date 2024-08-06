@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "The Pallid Whale's Right Atrium",
+      "place": "Правое Предсердие Бледного Кита",
       "model": "히스클리프",
       "content": "Эй, твоя повязка...!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "id": 9,
-      "place": "The Pequod",
+      "place": "Пекод",
       "model": "이스마엘과거",
       "content": "Ты хочешь, чтобы я... вычерпывала оттуда масло?"
     },
@@ -359,7 +359,7 @@
     },
     {
       "id": 71,
-      "place": "The Pallid Whale's Right Atrium",
+      "place": "Правое Предсердие Бледного Кита",
       "model": "퀴케그",
       "content": "Та верёвка. Она порвалась."
     },

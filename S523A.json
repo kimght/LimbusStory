@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Cruise Ship",
+      "place": "Круизный Корабль",
       "model": "단테2",
       "content": "<Так это были... русалки...>"
     },
@@ -79,7 +79,7 @@
     },
     {
       "id": 17,
-      "place": "Cabins of Mephistopheles",
+      "place": "Каюты Мефистофеля",
       "model": "단테2",
       "content": "<Значит, мы ничего не нашли...>"
     },
@@ -151,7 +151,7 @@
     },
     {
       "id": 32,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "이스마엘",
       "content": "... Возьми себя в руки."
     },

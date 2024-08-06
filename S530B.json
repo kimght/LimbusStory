@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Abandoned Lobotomy Corp. Drilling Ship",
+      "place": "Заброшенная Буровая Установка Корп. Лоботомии",
       "model": "단테2",
       "content": "<Ни Золотой Ветви, ни выживших...>"
     },
@@ -158,7 +158,7 @@
     },
     {
       "id": 31,
-      "place": "Lobotomy Corp. Drilling Ship Entrance",
+      "place": "Вход на Буровую Установку Корп. Лоботомии",
       "model": "돈키호테",
       "content": "Ч-что за безумие творится?!"
     },

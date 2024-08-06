@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Outreaches of the Outskirts",
+      "place": "На Окраинах",
       "teller": "Неизвестный Мальчик",
       "title": "???",
       "content": "Тихо."
@@ -124,7 +124,7 @@
     },
     {
       "id": 21,
-      "place": "Blossoming League of Nine Littérateurs",
+      "place": "Процветающая Лига Девяти Литераторов",
       "model": "싱클레어",
       "content": "Что это только что было? Казалось, будто история из далёкого прошлого."
     },

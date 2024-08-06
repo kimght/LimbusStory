@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "T Corp. Watch Factory",
+      "place": "Фабрика часов корп. T",
       "model": "탐정홍루",
       "content": "Вероятно, нам стоит подумать о другом."
     },
@@ -74,7 +74,7 @@
     },
     {
       "id": 14,
-      "place": "Alleyways of T Corp.",
+      "place": "Улицы Корп. T",
       "model": "T사2등급",
       "teller": "Сборщик 2-го уровня",
       "title": "Корпорация T",

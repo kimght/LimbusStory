@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Within the Ice Castle",
+      "place": "В ледяном дворце",
       "content": "<b>Бум!</b>"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "id": 7,
-      "place": "Ice Castle Where Neighbors Lie",
+      "place": "Ледяной дворец, где покоятся земляки",
       "content": "Мы в спешке эвакуировались."
     },
     {

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Hallway in N Corp.",
+      "place": "Коридор в Корп. N",
       "model": "구보",
       "teller": "Губо",
       "title": "N Corp.",
@@ -79,7 +79,7 @@
     },
     {
       "id": 12,
-      "place": "K Corp. Laboratory",
+      "place": "Лаборатория Корп. К",
       "model": "동랑",
       "teller": "Донран",
       "title": "K Corp. Dept. of Food Resource Development",
@@ -97,7 +97,7 @@
     },
     {
       "id": 15,
-      "place": "Rowdy League of Nine Littérateurs",
+      "place": "Цветущая Лига Девяти Литераторов",
       "model": "동랑",
       "teller": "Донран",
       "title": "K Corp. Dept. of Food Resource Development",
@@ -112,7 +112,7 @@
     },
     {
       "id": 17,
-      "place": "Withering League of Nine Littérateurs",
+      "place": "Увядающая Лига Девяти Литераторов",
       "model": "과거동백",
       "teller": "Донбек",
       "title": "League of Nine Littérateurs",
@@ -148,7 +148,7 @@
     },
     {
       "id": 22,
-      "place": "K Corp. Laboratory",
+      "place": "Лаборатория Корп. К",
       "model": "그레고르",
       "content": "Ага, похоже, Донран..."
     },

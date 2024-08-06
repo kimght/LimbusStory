@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Yong-jin Building 6F Office",
+      "place": "Офис на 6-м этаже бизнес-центра «Йонджин»",
       "model": "김삿갓",
       "teller": "Ким Саткат",
       "title": "Родословная клинка?",
@@ -76,7 +76,7 @@
     },
     {
       "id": 14,
-      "place": "Mirror Dungeon of the Fathoms",
+      "place": "Зеркальное подземелье души",
       "model": "앵두",
       "teller": "Энду",
       "title": "Родословная клинка",

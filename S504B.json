@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "U Corp.'s Marlin Portship",
+      "place": "Корабль-Порт \"Марлин\" Корп. U",
       "model": "베르길리우스",
       "content": "Что ж. Здесь наши пути разойдутся... ненадолго."
     },
@@ -116,7 +116,7 @@
     },
     {
       "id": 23,
-      "place": "Dark Corners of U Corp.",
+      "place": "В Темном Углу Корп. U",
       "model": "싱클레어",
       "content": "Это место немного жуткое..."
     },

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "이스마엘",
       "content": "Озеро..."
     },
@@ -93,7 +93,7 @@
     },
     {
       "id": 19,
-      "place": "Cabins of Mephistopheles",
+      "place": "Каюты Мефистофеля",
       "model": "이스마엘",
       "content": "Что впереди?"
     },
@@ -138,7 +138,7 @@
     },
     {
       "id": 28,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "싱클레어",
       "content": "Ах, какое облегчение. Это не похоже на пиратский корабль. Это..."
     },
@@ -270,7 +270,7 @@
     },
     {
       "id": 56,
-      "place": "Mephistopheles' Skiff",
+      "place": "Шлюпка Мефистофеля",
       "model": "파우스트",
       "content": "Теперь эта лодка пригодится."
     },
@@ -305,7 +305,7 @@
     },
     {
       "id": 63,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "베르길리우스",
       "content": "Ладно, тогда. Пейте ответственно, все."
     },

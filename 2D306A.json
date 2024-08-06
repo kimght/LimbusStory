@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Ice Castle Where Neighbors Lie",
+      "place": "Ледяной дворец, где покоятся земляки",
       "model": "이스마엘",
       "content": "Я вижу там выход!"
     },
@@ -211,7 +211,7 @@
     },
     {
       "id": 40,
-      "place": "Aboard Mephistopheles",
+      "place": "В Мефистофеле",
       "model": "베르길리우스",
       "content": "…Ясно, вот оно как. Хотя, меня кое-что беспокоит."
     },
@@ -318,7 +318,7 @@
     },
     {
       "id": 62,
-      "place": "Somewhere in the Backstreets",
+      "place": "Где-то в Переулках",
       "model": "헤르만",
       "teller": "Германн",
       "title": "Корп. N",

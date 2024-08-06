@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "The Pallid Whale's Right Atrium Entrance",
+      "place": "Вход в Правое Предсердие Бледного Кита",
       "content": "Ишмаэль молча смотрит на Квиквег."
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "id": 26,
-      "place": "The Pequod",
+      "place": "Пекод",
       "model": "스타벅과거",
       "content": "Пип, твоя очередь спуститься туда."
     },

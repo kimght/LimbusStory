@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Front of Eunbong’s Bar & Fryers",
+      "place": "Перед баром \"У Ынбон\"",
       "model": "단테",
       "content": "<Так как нам решить Искажение?>"
     },
@@ -248,7 +248,7 @@
     },
     {
       "id": 48,
-      "place": "Eunbong’s Bar & Fryers",
+      "place": "Бар \"У Ынбон\"",
       "model": "히스클리프요리사",
       "teller": "Хитклиф?",
       "title": "Искажённый?",

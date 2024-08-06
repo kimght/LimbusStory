@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "place": "Wuthering Heights Rooftop",
+      "place": "Крыша Грозового Перевала",
       "model": "마왕히스클리프3",
       "title": "A Distant World",
       "content": "Где ты, Кэти?! Я хочу снова заключить тебя в свои объятия."
@@ -68,7 +68,7 @@
     },
     {
       "id": 13,
-      "place": "Wuthering Heights of a Certain Future",
+      "place": "Грозовой Перевал Некоторого Будущего",
       "content": "Но среди бесконечности я улавливаю проблеск спокойствия."
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "id": 18,
-      "place": "Wuthering Heights Rooftop",
+      "place": "Крыша Грозового Перевала",
       "model": "마왕히스클리프3",
       "title": "A Distant World",
       "content": "Они были..."

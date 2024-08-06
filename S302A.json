@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "В Мефистофеле",
       "model": "카론",
       "content": "Счастливая Харон счастливо припарковалась."
     },
@@ -32,7 +32,7 @@
     },
     {
       "id": 6,
-      "place": "K Corp. Checkpoint",
+      "place": "Контрольно-пропускной пункт Корп. K",
       "model": "더미2",
       "teller": "Оповещение",
       "title": "КПП Корп. K",

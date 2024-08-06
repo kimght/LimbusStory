@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Unending Hill of Corpses",
+      "place": "Бескрайние горы трупов",
       "model": "싱클레어",
       "content": "Д… Демиан…"
     },
@@ -371,7 +371,7 @@
     },
     {
       "id": 69,
-      "place": "Aboard Mephistopheles",
+      "place": "В Мефистофеле",
       "content": "Пусть мы и собрали Золотую ветвь, но всё равно проиграли."
     },
     {

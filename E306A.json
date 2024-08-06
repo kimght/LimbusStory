@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Eunbong’s Bar & Fryers",
+      "place": "Бар \"У Ынбон\"",
       "model": "은봉치킨",
       "teller": "Хозяин бара\n\"У Ынбон\"",
       "title": "Бар \"У Ынбон\"",
@@ -225,7 +225,7 @@
     },
     {
       "id": 35,
-      "place": "Aboard Mephistopheles",
+      "place": "В Мефистофеле",
       "model": "돈키호테",
       "content": "…И за сим у нас появилось сокровище того господина!"
     },
@@ -342,7 +342,7 @@
     },
     {
       "id": 58,
-      "place": "Bodhisattva Chicken",
+      "place": "Перед \"Курочкой-бодхисаттвой\"",
       "model": "삼조",
       "teller": "Самджо",
       "title": "МУПП Корп. K?",

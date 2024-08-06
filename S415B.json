@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "K Corp. Laboratory",
+      "place": "Лаборатория Корп. К",
       "model": "슈렌느",
       "teller": "Шренн",
       "title": "K Corp. Laboratory",
@@ -336,7 +336,7 @@
     },
     {
       "id": 52,
-      "place": "Way to Lobotomy Corp. Branch in Nest K",
+      "place": "Путь к Филиалу Корп. Лоботомии в Гнезде K",
       "content": "Эта миссия казалась особенно беспокойной."
     },
     {

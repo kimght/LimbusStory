@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Alleyways of T Corp.",
+      "place": "Улицы Корп. T",
       "model": "유로지비멤버1",
       "teller": "Дотошный активист",
       "title": "Юродивый 20-го Района",
@@ -142,7 +142,7 @@
     },
     {
       "id": 23,
-      "place": "Dark Alleyways of T Corp.",
+      "place": "Тёмная улица Корп. T",
       "model": "단테",
       "content": "<Фух, ха-а… куда... куда они убежали…?>"
     },

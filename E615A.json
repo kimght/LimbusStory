@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Clock Tower",
+      "place": "Часовая башня",
       "model": "다친시간살인마변신",
       "content": "……."
     },
@@ -108,7 +108,7 @@
     },
     {
       "id": 19,
-      "place": "T Corp. Watch Factory",
+      "place": "Фабрика часов корп. T",
       "model": "범블",
       "teller": "Бамбл",
       "title": "Корпорация T",
@@ -134,7 +134,7 @@
     },
     {
       "id": 23,
-      "place": "Local Time Collections Office",
+      "place": "Местный коллекторский офис",
       "model": "탐정로쟈",
       "content": "А почему… ты вызвался быть приманкой для Потрошителя, Хон Лу?"
     },
@@ -337,7 +337,7 @@
     },
     {
       "id": 63,
-      "place": "Alleyways of T Corp.",
+      "place": "Улицы Корп. T",
       "model": "마이",
       "teller": "Май",
       "title": "Корпорация T",
@@ -660,7 +660,7 @@
     },
     {
       "id": 117,
-      "place": "Aboard Mephistopheles",
+      "place": "В Мефистофеле",
       "model": "로쟈",
       "content": "…О-о~ Ты уже в рамку вставляешь?"
     },

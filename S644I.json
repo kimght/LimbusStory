@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Wuthering Heights Hall",
+      "place": "Холл Грозового Перевала",
       "model": "히스클리프",
       "content": "Верни... Кэтрин."
     },
@@ -33,11 +33,11 @@
     },
     {
       "id": 6,
-      "place": "Wuthering Heights Hall"
+      "place": "Холл Грозового Перевала"
     },
     {
       "id": 7,
-      "place": "Wuthering Heights Hall",
+      "place": "Холл Грозового Перевала",
       "model": "뫼르소",
       "content": "Он связан. Я не смогу удерживать его этими цепями долго; нейтрализуйте цель как можно скорее."
     }

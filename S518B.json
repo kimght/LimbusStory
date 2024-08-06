@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "단테2",
       "content": "<Кое-что меня беспокоит...>"
     },
@@ -95,7 +95,7 @@
     },
     {
       "id": 19,
-      "place": "Cabins of Mephistopheles",
+      "place": "Каюты Мефистофеля",
       "model": "파우스트",
       "content": "... Отис, нам придется повернуть корабль на левый борт."
     },
@@ -281,7 +281,7 @@
     },
     {
       "id": 57,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "단테2",
       "content": "<Гром...?>"
     },
@@ -307,7 +307,7 @@
     },
     {
       "id": 62,
-      "place": "Cabins of Mephistopheles",
+      "place": "Каюты Мефистофеля",
       "model": "베르길리우스",
       "content": "... Хм. Это было занимательное зрелище."
     },
@@ -337,7 +337,7 @@
     },
     {
       "id": 69,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "단테2",
       "content": "<Что нам... Что нам теперь делать, Ишмаэль?>"
     },

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles's Deck",
+      "place": "На Палубе Мефистофеля",
       "model": "베르길리우스",
       "content": "А... Вот оно."
     },
@@ -189,7 +189,7 @@
     },
     {
       "id": 39,
-      "place": "Mephistopheles' Skiff",
+      "place": "Шлюпка Мефистофеля",
       "model": "홍루",
       "content": "Мы много пользуемся этой лодкой."
     },
@@ -214,7 +214,7 @@
     },
     {
       "id": 44,
-      "place": "Abandoned Lobotomy Corp. Drilling Ship",
+      "place": "Заброшенная Буровая Установка Корп. Лоботомии",
       "content": "Среди Грешников нарастало чувство тревоги..."
     },
     {
