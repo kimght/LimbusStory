@@ -410,7 +410,7 @@
 Ишмаэль: Нас быстро раздавили. Поглотили. Превратили в разбросанную кучу плавучего мусора.
 
 # Original: When I came to, floating in the vast coldness of the sea, holding onto my dear life to a piece of driftwood... there was nothing left.
-Nothing.
+# Nothing.
 Ишмаэль: Когда я пришла в себя, плавая в огромной холодности моря, держась за свою дорогую жизнь за кусок плавучего мусора... ничего не осталось.
 Ничего.
 

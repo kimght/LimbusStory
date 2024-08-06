@@ -137,7 +137,7 @@
 Синклер: Но моим родителям…
 
 # Original: “…won’t like it.”
-I couldn’t even bring myself to finish this humiliating sentence.
+# I couldn’t even bring myself to finish this humiliating sentence.
 Синклер: „…это не понравится“. Я не мог заставить себя даже закончить такое постыдное предложение.
 
 # Original: If you let me check it out, Sinclair…

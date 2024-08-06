@@ -296,7 +296,7 @@
 Данте: <Похоже на то.>
 
 # Original: Warning. Recommended action for the manager: immediate extraction from the scene.
-Imminent arrival of the Thumb: highly likely.
+# Imminent arrival of the Thumb: highly likely.
 Неразговорчивый сотрудник: Предостережение. Менеджер, прикажите им покинуть территорию. Большой палец скоро узнает о произошедшем и направится сюда.
 
 # Original: So, after the Middle is the Thumb. Heh, what I wouldn't give to see the look on their stuck-up faces.

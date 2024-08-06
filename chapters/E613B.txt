@@ -5,7 +5,7 @@
 Родион: …….
 
 # Original: The mood among us had grown so incredibly awkward and cold that I was almost starting to feel a chill in my fingers.
-... I guess this is what happens when Rodya's in a depressive mood...
+# ... I guess this is what happens when Rodya's in a depressive mood...
 Рассказчик: Атмосфера среди нас стала настолько томной и холодной, что, казалось, будто она начала пробирать меня насквозь. 
 ...Выходит, вот как меняется человек, когда он в депрессии.
 

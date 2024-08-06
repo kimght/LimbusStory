@@ -224,7 +224,7 @@
 Ишмаэль: Пфф.
 
 # Original: People who wanted to bury their pasts. People living from one day to the next without dreams, without futures.
-People like me.
+# People like me.
 Ишмаэль: Люди, которые хотели похоронить своё прошлое. Люди, живущие одним днём без мечтаний, без будущего.
 Такие люди, как я.
 

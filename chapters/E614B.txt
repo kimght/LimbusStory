@@ -71,7 +71,7 @@
 Рассказчик: Не только Потрошитель начал вести себя странным образом. Поведение Хон Лу тоже внезапно изменилось.
 
 # Original: His face relaxed into a tranquil look, as though he was ready to let something go. 
-... Or perhaps... that was an expression of liberation.
+# ... Or perhaps... that was an expression of liberation.
 Рассказчик: Он расслабился, будто готов был что-то отпустить… Или как будто у него на душе стало легче…
 
 # Original: A thousand hours...

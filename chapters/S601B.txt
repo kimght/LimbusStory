@@ -5,17 +5,17 @@
 Рассказчик: <color=#4e3076>В поместье, где последние остатки его красоты сохранились в фиолетовых цветах.</color>
 
 # Original: <color=#4e3076>To the manor where its storm-broken breach
-has siphoned all that was once warm.</color>
+# has siphoned all that was once warm.</color>
 Рассказчик: <color=#4e3076>В поместье, где его пробоина, разбитая бурей,
 высосала всё, что когда-то было теплым.</color>
 
 # Original: <color=#4e3076>To the manor that gave you not only life...
-but also scorn and desolation.</color>
+# but also scorn and desolation.</color>
 Рассказчик: <color=#4e3076>В поместье, которое дало тебе не только жизнь...
 но и презрение, и опустошение.</color>
 
 # Original: <color=#4e3076>To the manor where your place was the frozen corner
-that couldn't be further from the hearth.</color>
+# that couldn't be further from the hearth.</color>
 Рассказчик: <color=#4e3076>В поместье, где твоим местом был замерзший угол,
 который не мог быть дальше от очага.</color>
 

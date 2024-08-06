@@ -164,7 +164,7 @@
 Директор Ассоциации Öufi: Вы хотите высказаться за этого человека?
 
 # Original: ... Was what she was going to say, but she decided to remain silent in favor of not getting in trouble, ha ha ha ha ha...
-... Right?
+# ... Right?
 Грегор: ... Вот что она собиралась сказать, но решила промолчать, чтобы не попасть в неприятности, ха-ха-ха-ха-ха...
 ... Верно?
 

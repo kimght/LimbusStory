@@ -32,7 +32,7 @@
 Родион: Ударит ли в нас, если мы пойдем быстрее? Или, может, она бьет в то, что движется слишком медленно? Может, нам ускориться? Я не знаю...
 
 # Original: Our walking speed seems irrelevant. Instead, it's almost as if this lightning has a will of its own, striking with intent. 
-... This brings back some... unpleasant memories.
+# ... This brings back some... unpleasant memories.
 Отис: Похоже, наша скорость ходьбы не имеет значения. Вместо этого, почти кажется, что эта молния обладает собственной волей, ударяя с намерением.
 ... Это вызывает некоторые... неприятные воспоминания.
 

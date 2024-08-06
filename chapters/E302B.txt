@@ -338,7 +338,7 @@
 Родион: Грег, мы всегда были так близки. Давно пора разделиться хотя бы на денёк.
 
 # Original: Heathcliff, having shaken off the dizziness, walked to Gregor’s side.
-Рассказчик: Пришедший в себя Хитклифф тут же встал возле Грегора.
+Рассказчик: Пришедший в себя Хитклиф тут же встал возле Грегора.
 
 # Original: So we win by pulping ‘er up, aye?
 Хитклиф: Знач-ца, мы победим, просто разделавшись с ней, эйо?
@@ -503,7 +503,7 @@
 Рассказчик: Внезапно на кухню ворвались озлобленные цыплята и, агрессивно размахивая общипанными крыльями, ринулись в сторону грешников, как тут…
 
 # Original: Get in my way and you’re all getting chopped!
-Get in my way and you’re all getting sliced!
+# Get in my way and you’re all getting sliced!
 Рёшу и Грегор: <color=#C56968>Только суньтесь, и я вас на ломтики порежу!</color>
 <color=#937E63>Только суньтесь, и я вас нашинкую!</color>
 

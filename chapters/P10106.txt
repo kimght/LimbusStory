@@ -44,7 +44,7 @@
 Рассказчик: Пусть я могу быть и утомлён до той степени, о которой даже не представляю, я продолжаю прибывать на работу и отбывать с неё.
 
 # Original: I who, as I rebuild the passengers' corpus, pay nary a mind to who they were, why they elected to jaunt via this infernal train. The iron horse cares not about the doings of others. It merely comes and goes as it is told.
-... Just as I do.
+# ... Just as I do.
 Рассказчик: Железный конь скачет туда, куда ему велено. 
 …Как и я.
  Мне безразлично то, кем являлись те куски плоти, что я собираю, не думаю о том, чем они занимались, не хочу представлять причины, по которой они попали в этот адский поезд.

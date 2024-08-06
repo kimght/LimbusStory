@@ -5,7 +5,7 @@
 Рассказчик: Мы прибыли... к зданию настолько высокому, что потребовалось бы время, чтобы сосчитать все этажи.
 
 # Original: A few shrank down as if intimidated.
-(I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)
+# (I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)
 Рассказчик: Некоторые съежились, словно испугавшись.
 (Я понимал, почему Синклер был одним из них, но Хитклиф и Ишмаэль, похоже, тоже чувствовали давление.)
 

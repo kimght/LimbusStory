@@ -152,7 +152,7 @@
 И Сан: Я называю его Ёнсим.
 
 # Original: Yeonsim, huh...
-(硏, to grind or study; 尋, to seek)
+# (硏, to grind or study; 尋, to seek)
 Сан И: Ёнсим, да?
 (硏, шлифовать или изучать; 尋, искать)
 
@@ -172,7 +172,7 @@
 И Сан: Но я думаю, что теперь знаю истинное имя зеркала.
 
 # Original: Yeonsim.
-(連心, "to connect the heart")
+# (連心, "to connect the heart")
 И Сан: Ёнсим.
 (連心, "соединять сердце")
 

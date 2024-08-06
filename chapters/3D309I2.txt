@@ -166,7 +166,7 @@
 # Original: …Isn’t that right, Sinclair?
 Демиан: …Верно, Синклер?
 
-# Original: //효과연출1
+# Original: //효과연출1 [DO_NOT_EDIT]
 Рассказчик: //효과연출1
 
 # Original: He moved with grace and airiness, as though he floated in the air.
@@ -181,7 +181,7 @@
 # Original: And, with just a wave of his right arm…
 Рассказчик: И одним взмахом правой руки…
 
-# Original: //효과연출2
+# Original: //효과연출2 [DO_NOT_EDIT]
 Рассказчик: //효과연출2
 
 # Original: Kromer’s upper body vanished in a clean cut.

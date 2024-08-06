@@ -101,6 +101,6 @@
 Рассказчик: Вот они, Грешники... работают так слаженно, как часовой механизм. Но под всем этим, возможно, для них имели значение только... их собственные цели.
 
 # Original: I was wondering if all the times I've spent thinking, hoping, and contemplating about our futures together were... pointless.
-... This thought lingered for a while in my head.
+# ... This thought lingered for a while in my head.
 Рассказчик: Я задумался, были ли все те моменты, когда я размышлял, надеялся и мечтал о нашем общем будущем... бессмысленными.
 ... Эта мысль еще некоторое время не покидала мою голову.

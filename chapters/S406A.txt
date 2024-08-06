@@ -14,7 +14,7 @@
 Вергилий: Вы вернулись позже, чем ожидалось. Я как раз собирался вздремнуть впервые за долгое время.
 
 # Original: I explained the oddities we ran into earlier to Vergilius.
-(To be more precise, Faust did the heavy speaking.)
+# (To be more precise, Faust did the heavy speaking.)
 Рассказчик: Я объяснил Вергилию странности, с которыми мы столкнулись ранее.
 (Точнее говоря, Фауст взяла на себя основную часть объяснений.)
 

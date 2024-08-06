@@ -149,7 +149,7 @@
 Синклер: Может, меня вынудила ребяческая импульсивность или внутреннее желание быть признанным другими.
 
 # Original: “Now Emil, this is a confidential agreement for our business. You mustn’t tell another soul.”
-His insistent reminder echoed in my head—I could see his face.
+# His insistent reminder echoed in my head—I could see his face.
 Синклер: Эхом в моей голове раздались его слова: „Это конфиденциальное соглашение между нашими компаниями, Эмиль. Ни единая душа не должна о нём узнать“. Я даже будто видел его лицо.
 
 # Original: Whoa… Is that for real, Sinclair?

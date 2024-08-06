@@ -8,7 +8,7 @@
 Ишмаэль: <color=#ff9500>Квиквег просила меня не оставлять ее одну в холодном, темном Озере.</color=#ff9500>
 
 # Original: <color=#ff9500>That she didn't want the Whales and Mermaids to tear her apart</color=#ff9500>
-<color=#ff9500>and devour her when her corpse sinks deep into its waters.</color=#ff9500>
+# <color=#ff9500>and devour her when her corpse sinks deep into its waters.</color=#ff9500>
 Ишмаэль: <color=#ff9500>Что она не хочет, чтобы Киты и Русалки разорвали ее на части</color=#ff9500>
 <color=#ff9500>и пожрали, когда ее труп погрузится глубоко в его воды.</color=#ff9500>
 
@@ -16,7 +16,7 @@
 Ишмаэль: <color=#ff9500>Я согласилась.</color=#ff9500>
 
 # Original: <color=#ff9500>The wounds on her skin that only I knew of... the memories of her pain...</color=#ff9500>
-<color=#ff9500>I didn't want those monsters to heartlessly rip into them, to gorge themselves with her scarred flesh.</color=#ff9500>
+# <color=#ff9500>I didn't want those monsters to heartlessly rip into them, to gorge themselves with her scarred flesh.</color=#ff9500>
 Ишмаэль: <color=#ff9500>Раны на ее коже, о которых знала только я... воспоминания о ее боли...</color=#ff9500>
 <color=#ff9500>Я не хотела, чтобы эти монстры бессердечно раздирали их, чтобы насыщаться ее израненной плотью.</color=#ff9500>
 
@@ -24,7 +24,7 @@
 Ишмаэль: <color=#ff9500>Поэтому Квиквег построила себе гроб.</color=#ff9500>
 
 # Original: <color=#ff9500>Built hardily and fastened with ropes twisted and knotted with all her strength.</color=#ff9500>
-<color=#ff9500>So that her coffin would not sink no matter how precariously the ship swayed.</color=#ff9500>
+# <color=#ff9500>So that her coffin would not sink no matter how precariously the ship swayed.</color=#ff9500>
 Ишмаэль: <color=#ff9500>Построила крепко и скрепила веревками, свитыми и завязанными со всей ее силой.</color=#ff9500>
 <color=#ff9500>Чтобы ее гроб не утонул, как бы опасно ни качался корабль.</color=#ff9500>
 

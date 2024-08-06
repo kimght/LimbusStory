@@ -85,7 +85,9 @@ def load_translations(filename: str | pathlib.Path) -> list[str]:
     for line in split_re.split("\n".join(clean_lines)):
         if ":" not in line:
             raise ValueError(f"Invalid line format: {line}")
-        result.append(line.split(":", 1)[1].strip())
+        line = line.split(":", 1)[1].strip()
+        line = line.replace("\n[KEEP_LINE]\n", "\n\n")
+        result.append(line)
 
     return result
 
