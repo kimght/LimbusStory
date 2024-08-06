@@ -14,7 +14,9 @@ def main() -> None:
         places = {}
 
     reference_chapters = get_reference_chapters()
-    for i, (chapter_name, chapter_path) in enumerate(reference_chapters.items(), start=1):
+    for i, (chapter_name, chapter_path) in enumerate(
+        reference_chapters.items(), start=1
+    ):
         print(f"Processing {chapter_name} [{i}/{len(reference_chapters)}]...")
 
         story_lines = load_story_lines(chapter_path)

@@ -12,11 +12,7 @@ def get_reference_chapters() -> dict[str, pathlib.Path]:
     if not path.exists():
         raise FileNotFoundError(f"Reference directory not found: {path}")
 
-    return {
-        file.stem: file
-        for file in path.glob("*.json")
-        if file.is_file()
-    }
+    return {file.stem: file for file in path.glob("*.json") if file.is_file()}
 
 
 def load_story_lines(filename: str | pathlib.Path) -> list[StoryLineDTO]:
@@ -26,10 +22,7 @@ def load_story_lines(filename: str | pathlib.Path) -> list[StoryLineDTO]:
     if "dataList" not in data:
         raise ValueError(f"Invalid file format: {filename}")
 
-    return [
-        StoryLineDTO.from_dict(line)
-        for line in data["dataList"]
-    ]
+    return [StoryLineDTO.from_dict(line) for line in data["dataList"]]
 
 
 def load_tellers() -> list[TellerDTO]:
@@ -56,11 +49,25 @@ def load_titles() -> list[TitleDTO]:
     return [TitleDTO(**title) for title in titles]
 
 
+def load_places() -> dict[str, str]:
+    places_extra = pathlib.Path(__file__).parents[1] / "extra" / "places.json"
+
+    if places_extra.exists():
+        with places_extra.open("r", encoding="utf-8-sig") as f:
+            places = json.load(f)
+    else:
+        places = {}
+
+    return places
+
+
 def save_tellers(tellers: list[TellerDTO]) -> None:
     tellers_extra = pathlib.Path(__file__).parents[1] / "extra" / "tellers.json"
 
     with tellers_extra.open("w", encoding="utf-8-sig") as f:
-        json.dump([teller.export() for teller in tellers], f, ensure_ascii=False, indent=2)
+        json.dump(
+            [teller.export() for teller in tellers], f, ensure_ascii=False, indent=2
+        )
 
 
 def save_titles(titles: list[TitleDTO]) -> None:
@@ -92,7 +99,9 @@ def load_translations(filename: str | pathlib.Path) -> list[str]:
     return result
 
 
-def apply_translations(lines: list[StoryLineDTO], translations: list[str]) -> list[StoryLineDTO]:
+def apply_translations(
+    lines: list[StoryLineDTO], translations: list[str]
+) -> list[StoryLineDTO]:
     result = copy.deepcopy(lines)
     current_id = 0
     for line in result:
@@ -107,7 +116,9 @@ def apply_translations(lines: list[StoryLineDTO], translations: list[str]) -> li
     return result
 
 
-def apply_tellers(lines: list[StoryLineDTO], tellers: list[TellerDTO]) -> list[StoryLineDTO]:
+def apply_tellers(
+    lines: list[StoryLineDTO], tellers: list[TellerDTO]
+) -> list[StoryLineDTO]:
     result = copy.deepcopy(lines)
     for line in result:
         if not line.teller:
@@ -122,7 +133,9 @@ def apply_tellers(lines: list[StoryLineDTO], tellers: list[TellerDTO]) -> list[S
     return result
 
 
-def apply_titles(lines: list[StoryLineDTO], titles: list[TitleDTO]) -> list[StoryLineDTO]:
+def apply_titles(
+    lines: list[StoryLineDTO], titles: list[TitleDTO]
+) -> list[StoryLineDTO]:
     result = copy.deepcopy(lines)
     for line in result:
         if not line.title:
@@ -133,5 +146,20 @@ def apply_titles(lines: list[StoryLineDTO], titles: list[TitleDTO]) -> list[Stor
                 break
         else:
             print("Warning: title not found", line.title, line.model)
+            continue
+    return result
+
+
+def apply_places(
+    lines: list[StoryLineDTO], places: dict[str, str]
+) -> list[StoryLineDTO]:
+    result = copy.deepcopy(lines)
+    for line in result:
+        if not line.place:
+            continue
+        if line.place in places:
+            line.place = places[line.place]
+        else:
+            print("Warning: place not found", line.place)
             continue
     return result

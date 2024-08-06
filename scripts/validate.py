@@ -1,6 +1,5 @@
 import pathlib
 
-from .models import StoryLineDTO
 from .utils import load_story_lines, load_translations, get_reference_chapters
 
 
@@ -31,7 +30,9 @@ def main():
 
         if count_lines != len(translations):
             invalid_chapters.append(chapter_id)
-            print(f"Chapter {chapter_id} has {count_lines} lines but {len(translations)} translations")
+            print(
+                f"Chapter {chapter_id} has {count_lines} lines but {len(translations)} translations"
+            )
 
     if invalid_chapters:
         raise ValueError(f"Invalid chapters: {', '.join(invalid_chapters)}")
@@ -39,5 +40,5 @@ def main():
     print("All chapters are valid!")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

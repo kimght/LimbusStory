@@ -21,7 +21,7 @@ class StoryLineDTO:
             model=data.get("model"),
             teller=data.get("teller"),
             title=data.get("title"),
-            content=data.get("content")
+            content=data.get("content"),
         )
 
     def export(self) -> dict:
@@ -31,11 +31,12 @@ class StoryLineDTO:
             ("model", self.model),
             ("teller", self.teller),
             ("title", self.title),
-            ("content", self.content)
+            ("content", self.content),
         ]
 
         return collections.OrderedDict(
-            (key, value) for key, value in field_list
+            (key, value)
+            for key, value in field_list
             if value is not None or key == "id"
         )
 
@@ -50,7 +51,7 @@ class ModelRelatedTranslationBase:
         field_list = [
             ("original", self.original),
             ("translation", self.translation),
-            ("model", self.model)
+            ("model", self.model),
         ]
 
         return collections.OrderedDict(
