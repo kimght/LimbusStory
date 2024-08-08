@@ -20,7 +20,7 @@
 Кассетти: Я скажу вам это лишь единожды, так что слушайте внимательно.
 
 # Original: You may call me Cassetti, Sixth Kindred, a Kindred of the sixth generation, the rightful prince in refuge from his Family!
-Кассетти: Можете называть меня Кассетти, Шестое Родство, Родство шестого поколения, законный принц в изгнании от своей Семьи!
+Кассетти: Можете называть меня Кассетти, Шестой Родич, Родич шестого поколения, законный принц в изгнании от своей Семьи!
 
 # Original: Art thou the villain... who hath brought such destruction and massacre upon this vessel?
 Дон Кихот: Ты ли тот злодей... который принёс такое разрушение и резню на сей корабль?
@@ -92,7 +92,7 @@
 Кассетти: Всё, что мне нужно делать - это сидеть здесь и ничего не делать, и Кровососы сами предстают передо мной! Нет рая лучше этого... вы понятия не имеете, что я сделал, чтобы создать это место!
 
 # Original: Ohh, how elated my forbear Kindreds would be, should they be here to witness what I have created! This cornucopia of abundance... this pleasure... o, this freedom...!
-Кассетти: О, как бы обрадовались мои предшествующие Родства, если бы они были здесь, чтобы увидеть то, что я создал! Это изобилие... это удовольствие... о, эта свобода...!
+Кассетти: О, как бы обрадовались мои предшествующие Родичи, если бы они были здесь, чтобы увидеть то, что я создал! Это изобилие... это удовольствие... о, эта свобода...!
 
 # Original: But this kingdom is mine! I made it! I'm not giving it away!
 Кассетти: Но это королевство моё! Я его создал! Я не отдам его!
@@ -188,19 +188,19 @@
 Саша: Простите, Лорд Кассетти.
 
 # Original: Ah... allow me to introduce my Kindred to thee, to be the first of many since my escape, for the kingdom I intend to build.
-Кассетти: Ах... позволь мне представить тебе моё Родство, первое из многих с момента моего побега, для королевства, которое я намерен построить.
+Кассетти: Ах... позволь мне представить тебе моего Родича, первого из многих с момента моего побега, в королевстве, которое я намерен построить.
 
 # Original: My Kindred, my loyal squire... who shall be at my side as I build a dynasty of my own, my Family...
-Кассетти: Моё Родство, мой верный оруженосец... который будет рядом со мной, когда я буду строить свою собственную династию, мою Семью...
+Кассетти: Мой Родич, мой верный оруженосец... который будет рядом со мной, когда я буду строить свою собственную династию, мою Семью...
 
 # Original: Lord Cassetti, I had intended to select the more powerful of the bunch to send to this car, as you have commanded me, but... the humans in my car were all weaklings. So I present before you this group from the first class car.
 Саша: Лорд Кассетти, я намеревалась отобрать более сильных из толпы, чтобы отправить в этот вагон, как вы мне приказали, но... люди в моём вагоне были все слабаками. Поэтому я представляю вам эту группу из вагона первого класса.
 
 # Original: Kindred...
-Фауст: Родство...
+Фауст: Родич...
 
 # Original: Are you even aware of the exact nature of a 'Kindred'?
-Фауст: Ты вообще осознаёшь точную природу "Родства"?
+Фауст: Ты вообще осознаёшь точную природу "Родичей"?
 
 # Original: Nah, but I can tell ya this.
 Саша: Не-а, но я могу сказать тебе вот что.
@@ -209,13 +209,13 @@
 Саша: Когда я приняла кровь моего господина в свои вены... это было как будто я родилась заново.
 
 # Original: I see. A Kindred to a Bloodfiend is like a sub-entity. Similar to sub-entities created by Distortions or Abnormalities.
-Фауст: Понятно. Родство для Кровожада подобно суб-сущности. Похоже на суб-сущности, созданные Искажениями или Аномалиями.
+Фауст: Понятно. Родич для Кровожада подобен дочерней сущности. Похоже на дочерние сущности, созданные Искажениями или Аномалиями.
 
 # Original: It must have been desperation that drove you to accept that proposition without hesitation, despite the lack of relevant information.
 Фауст: Должно быть, именно отчаяние заставило тебя принять это предложение без колебаний, несмотря на отсутствие соответствующей информации.
 
 # Original: Maybe. That's... probably what was going through my head before I became a Kindred.
-Саша: Может быть. Это... вероятно, то, о чём я думала, прежде чем стать Родством.
+Саша: Может быть. Это... вероятно, то, о чём я думала, прежде чем стать Родичем.
 
 # Original: Thou hast been in cohorts with this villain... all this time? As his underling?
 Дон Кихот: Ты была в сговоре с сим злодеем... всё это время? Как его подчинённая?
@@ -239,7 +239,7 @@
 Рассказчик: Кшшш...
 
 # Original: Dozens of Bloodbags began shambling into the room from behind Sasha.
-... A smaller one among them stood out to me.
+# ... A smaller one among them stood out to me.
 Рассказчик: Десятки Кровососов начали шаркающей походкой входить в комнату из-за спины Саши.
 ... Среди них выделялся один маленький.
 
