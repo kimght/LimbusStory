@@ -1,0 +1,277 @@
+# Original: <This room...>
+Данте: <Эта комната...>
+
+# Original: What... is with that look on thy faces?
+Кассетти: Что... за выражения на ваших лицах?
+
+# Original: Thou standest in the audience of the prince. Where are thy obsequious smiles?
+Кассетти: Вы стоите перед принцем. Где ваши подобострастные улыбки?
+
+# Original: He... must be the cause of this outbreak. The Bloodfiend we must defeat.
+Фауст: Он... должно быть, причина этой вспышки. Кровожад, которого мы должны победить.
+
+# Original: Fall to thy knees and grovel before royalty!
+Кассетти: Падите на колени и пресмыкайтесь перед королевской особой!
+
+# Original: ... Who the hell are you to make those demands?
+Грегор: ... Кто ты такой, чтобы требовать этого?
+
+# Original: I shall impart this upon thee only once, so listen well.
+Кассетти: Я скажу вам это лишь единожды, так что слушайте внимательно.
+
+# Original: You may call me Cassetti, Sixth Kindred, a Kindred of the sixth generation, the rightful prince in refuge from his Family!
+Кассетти: Можете называть меня Кассетти, Шестое Родство, Родство шестого поколения, законный принц в изгнании от своей Семьи!
+
+# Original: Art thou the villain... who hath brought such destruction and massacre upon this vessel?
+Дон Кихот: Ты ли тот злодей... который принёс такое разрушение и резню на сей корабль?
+
+# Original: Thou art a chatty one, so rudely before your prince. Yet I am feeling generous, for I am quite sated at the moment.
+Кассетти: Ты слишком болтлив для того, кто стоит перед принцем. Но я чувствую себя щедрым, ибо сейчас я весьма сыт.
+
+# Original: As thou must have seen on thy journey here... this place is a hall of banquet for a feast most majestic.
+Кассетти: Как вы, должно быть, видели по пути сюда... это место - зал для пиршества поистине величественного.
+
+# Original: No matter how many Bloodbags I create, no matter how much I devour them... the humans just won't stop coming! I only enjoy what was cast into my maw!
+Кассетти: Сколько бы Кровососов я ни создавал, сколько бы ни пожирал их... люди всё не перестают прибывать! Я лишь наслаждаюсь тем, что попадает в мою пасть!
+
+# Original: ... He dons a mask for the purpose of merrymaking.
+И Сан: ... Он носит маску для увеселений.
+
+# Original: If we're really going to exchange pleasantries, why don't you take that mask off? Do you not even know the basic etiquette?
+Отис: Если мы действительно собираемся обмениваться любезностями, почему бы тебе не снять эту маску? Разве ты не знаешь даже базовых правил этикета?
+
+# Original: Oh, this... this mask!
+Кассетти: О, это... эта маска!
+
+# Original: Won't come off. Can't take it off. Shouldn't take it off! There's no prince without the mask!
+Кассетти: Не снимается. Не могу снять. Не должен снимать! Без маски нет принца!
+
+# Original: We're so, so ugly behind the mask; so we all decided hide how repulsive we've become. But once I've drunk your blood full, then it'll all go back to how it used to be. Only then can I unmask myself...
+Кассетти: Мы так, так уродливы под маской; поэтому мы все решили скрыть, какими отвратительными мы стали. Но как только я выпью вашу кровь полностью, тогда всё вернётся к тому, как было раньше. Только тогда я смогу снять маску...
+
+# Original: Who stitched that mask to your face skin? Not a half-bad job.
+Рёшу: Кто пришил маску к твоей коже? Неплохая работа.
+
+# Original: Of course it's excellent! Ha ha! Because this mask was crafted by none other than the great, the eminent, the Barber himself, whose name I dare not even speak! But... but it hurts so much...!
+Кассетти: Конечно, превосходная! Ха-ха! Потому что эту маску создал не кто иной, как великий, выдающийся Брадобрей, чьё имя я даже не осмеливаюсь произнести! Но... но это так больно...!
+
+# Original: No, no! I'm smiling! Look, look how hard I'm smiling and laughing! HAHAHA! HA! HAAA... YES, I AM THE PRINCE, THAT'S WHAT I AM!
+Кассетти: Нет, нет! Я улыбаюсь! Смотрите, смотрите, как сильно я улыбаюсь и смеюсь! ХАХАХА! ХА! ХААА... ДА, Я ПРИНЦ, ВОТ КТО Я ТАКОЙ!
+
+# Original: He's a bloody loon, innit?
+Хитклиф: Он чёртов псих, не так ли?
+
+# Original: All right, done with the giggles, then? Get ready for the beating of your life.
+Хитклиф: Ладно, закончил со смешками? Готовься к самой жестокой взбучке в твоей жизни.
+
+# Original: I... I enjoy things like you and your friends.
+Кассетти: Я... я люблю таких, как ты и твои друзья.
+
+# Original: Don't cry, bawling and bowing and sniveling on the ground for your lives!...
+Кассетти: Не плачьте, не рыдайте и не кланяйтесь, пресмыкаясь на земле за свои жизни!...
+
+# Original: Lunge at me instead, hm?! The aggression, the boiling blood, oh, how I love the fire!
+Кассетти: Бросайтесь на меня, а?! Агрессия, кипящая кровь, о, как я люблю этот огонь!
+
+# Original: What are you, daft? Look around. There are thirteen of us and only one of you.
+Хитклиф: Ты что, тупой? Оглянись. Нас тринадцать, а ты один.
+
+# Original: Do not let your guard down, Heathcliff. This entity has managed to turn countless passengers of this train into his Bloodbags.
+Фауст: Не теряй бдительности, Хитклиф. Это существо сумело превратить бесчисленных пассажиров этого поезда в своих Кровососов.
+
+# Original: I ain't letting my guard down. But... we blasted through so many Bloodbags we couldn't even keep count, didn't we?
+Хитклиф: Я не теряю бдительности. Но... мы же прорвались через столько Кровососов, что даже не могли сосчитать, верно?
+
+# Original: Couldn't even keep count...? Oh no, no... but the count is so important! I have to keep count of our visitors! Oh yes, of course! I do remember to keep count of our dearest visitors! Yessir I do!
+Кассетти: Не могли даже сосчитать...? О нет, нет... но счёт так важен! Я должен вести счёт нашим гостям! О да, конечно! Я помню, что нужно считать наших дорогих гостей! Да, сэр, я это делаю!
+
+# Original: You have no idea how powerful I am. And I shall not relinquish my throne to thee from this budding kingdom!
+Кассетти: Вы понятия не имеете, насколько я могущественен. И я не уступлю свой трон тебе из этого зарождающегося королевства!
+
+# Original: All I have to do is sit here and do nothing, and the Bloodbags present themselves before me! There's no paradise like this out there... you have no idea what I did to create this place!
+Кассетти: Всё, что мне нужно делать - это сидеть здесь и ничего не делать, и Кровососы сами предстают передо мной! Нет рая лучше этого... вы понятия не имеете, что я сделал, чтобы создать это место!
+
+# Original: Ohh, how elated my forbear Kindreds would be, should they be here to witness what I have created! This cornucopia of abundance... this pleasure... o, this freedom...!
+Кассетти: О, как бы обрадовались мои предшествующие Родства, если бы они были здесь, чтобы увидеть то, что я создал! Это изобилие... это удовольствие... о, эта свобода...!
+
+# Original: But this kingdom is mine! I made it! I'm not giving it away!
+Кассетти: Но это королевство моё! Я его создал! Я не отдам его!
+
+# Original: This is rather curious.
+Фауст: Это довольно любопытно.
+
+# Original: It appears that this Bloodfiend leaves this car only on rare occasions...
+Фауст: Похоже, что этот Кровожад покидает этот вагон лишь в редких случаях...
+
+# Original: ... Yet we have seen signs of his insidious influence throughout every car we have visited so far.
+Фауст: ... Тем не менее, мы видели признаки его коварного влияния во всех вагонах, которые посетили до сих пор.
+
+# Original: Then what he meant by how "the Bloodbags present themselves" before him has to be...
+Хон Лу: Тогда то, что он имел в виду под тем, что "Кровососы сами предстают" перед ним, должно быть...
+
+# Original: HOLD ON A MINUTE!
+Саша: ПОДОЖДИТЕ МИНУТКУ!
+
+# Original: GYAH!!!
+Кассетти: ГЯХ!!!
+
+# Original: A figure suddenly and frantically charged into this car.
+Рассказчик: Внезапно и лихорадочно в этот вагон ворвалась фигура.
+
+# Original: It was Sasha, the Fixer we ran into in one of the earlier cars.
+Рассказчик: Это была Саша, Корректировщик, с которым мы столкнулись в одном из предыдущих вагонов.
+
+# Original: Cassetti shrinks into his throne at the sudden burst, terror apparent in his face.
+Рассказчик: Кассетти съёживается на своём троне от внезапного вторжения, ужас очевиден на его лице.
+
+# Original: Ah, it is thee! By the— hast thou truly journeyed here to assist us in our quest?!
+Дон Кихот: Ах, это ты! Клянусь— неужели ты действительно прибыла сюда, дабы помочь нам в нашем деле?!
+
+# Original: Lo! That villain is the Bloodfiend responsible for the tragedies that hath transpired aboard this train!
+Дон Кихот: Узри! Сей злодей есть Кровожад, ответственный за трагедии, что произошли на сём поезде!
+
+# Original: Help us slay that cur and eventually lead the passengers thou hast protected thus far out of this train!
+Дон Кихот: Помоги нам сразить сего негодяя и в конце концов вывести пассажиров, коих ты защищала доселе, из сего поезда!
+
+# Original: Bloodfiends...
+Фауст: Кровожады...
+
+# Original: ... What if there was more than a single Bloodfiend on board, one still capable of rational thought...
+Фауст: ... Что, если на борту было больше одного Кровожада, ещё способного к рациональному мышлению...
+
+# Original: Damn, you actually made it all the way back here? I guess the Wings don't give out contracts to just anyone.
+Саша: Чёрт, вы действительно добрались до этого места? Похоже, Крыло не раздаёт контракты кому попало.
+
+# Original: I... I fought to my damnest, too. 'Till I was the last one standing...
+Саша: Я... Я тоже сражалась изо всех сил. Пока не осталась последней...
+
+# Original: What's she talking about?
+Родион: О чём она говорит?
+
+# Original: In the end, I stood alone with nothing but a single one of these four arms left.
+Саша: В конце концов, я стояла одна, и у меня осталась только одна из этих четырёх рук.
+
+# Original: Kinda funny how the perspective on life can just completely flip when you're really, really in the shit. I think my last thoughts were...
+Саша: Забавно, как взгляд на жизнь может полностью измениться, когда ты действительно, действительно в полном дерьме. Думаю, моими последними мыслями были...
+
+# Original: "Man... I... don't wanna die..."
+Саша: "Чёрт... Я... не хочу умирать..."
+
+# Original: <…….>
+Данте: <…….>
+
+# Original: So I fell on my knees and pleaded. I told him that...
+Саша: Поэтому я упала на колени и умоляла. Я сказала ему, что...
+
+# Original: Don Quixote, watch out!
+Фауст: Дон Кихот, берегись!
+
+# Original: ... I'd do anything to live.
+Саша: ... Я сделаю всё, чтобы выжить.
+
+# Original: Blood rapidly crystallized around Sasha like a suit of armor as she swung her greatsword at the Sinners, striking them even before Faust finished her sentence.
+Рассказчик: Кровь быстро кристаллизовалась вокруг Саши, словно доспех, когда она взмахнула своим огромным мечом на Грешников, ударив их ещё до того, как Фауст закончила свою фразу.
+
+# Original: ... Agh!
+Хитклиф: ... Агх!
+
+# Original: Wha...
+Кассетти: Что...
+
+# Original: ... What did I say?! I commanded you to give me a warning before jumping in like that!
+Кассетти: ... Что я сказал?! Я приказал тебе предупреждать меня, прежде чем так врываться!
+
+# Original: Don't you know how loud your stupid arms are? I thought the Family had come for me!
+Кассетти: Ты не знаешь, насколько громкие твои глупые руки? Я подумал, что Семья пришла за мной!
+
+# Original: I'm sorry, Lord Cassetti.
+Саша: Простите, Лорд Кассетти.
+
+# Original: Ah... allow me to introduce my Kindred to thee, to be the first of many since my escape, for the kingdom I intend to build.
+Кассетти: Ах... позволь мне представить тебе моё Родство, первое из многих с момента моего побега, для королевства, которое я намерен построить.
+
+# Original: My Kindred, my loyal squire... who shall be at my side as I build a dynasty of my own, my Family...
+Кассетти: Моё Родство, мой верный оруженосец... который будет рядом со мной, когда я буду строить свою собственную династию, мою Семью...
+
+# Original: Lord Cassetti, I had intended to select the more powerful of the bunch to send to this car, as you have commanded me, but... the humans in my car were all weaklings. So I present before you this group from the first class car.
+Саша: Лорд Кассетти, я намеревалась отобрать более сильных из толпы, чтобы отправить в этот вагон, как вы мне приказали, но... люди в моём вагоне были все слабаками. Поэтому я представляю вам эту группу из вагона первого класса.
+
+# Original: Kindred...
+Фауст: Родство...
+
+# Original: Are you even aware of the exact nature of a 'Kindred'?
+Фауст: Ты вообще осознаёшь точную природу "Родства"?
+
+# Original: Nah, but I can tell ya this.
+Саша: Не-а, но я могу сказать тебе вот что.
+
+# Original: When I accepted my lord's blood into my veins... it was as though I was reborn. 
+Саша: Когда я приняла кровь моего господина в свои вены... это было как будто я родилась заново.
+
+# Original: I see. A Kindred to a Bloodfiend is like a sub-entity. Similar to sub-entities created by Distortions or Abnormalities.
+Фауст: Понятно. Родство для Кровожада подобно суб-сущности. Похоже на суб-сущности, созданные Искажениями или Аномалиями.
+
+# Original: It must have been desperation that drove you to accept that proposition without hesitation, despite the lack of relevant information.
+Фауст: Должно быть, именно отчаяние заставило тебя принять это предложение без колебаний, несмотря на отсутствие соответствующей информации.
+
+# Original: Maybe. That's... probably what was going through my head before I became a Kindred.
+Саша: Может быть. Это... вероятно, то, о чём я думала, прежде чем стать Родством.
+
+# Original: Thou hast been in cohorts with this villain... all this time? As his underling?
+Дон Кихот: Ты была в сговоре с сим злодеем... всё это время? Как его подчинённая?
+
+# Original: Even ere then, when we first laid our eyes upon thee...?
+Дон Кихот: Даже тогда, когда мы впервые узрели тебя...?
+
+# Original: Lady, you have no idea how much I freaked out when one of you asked me something about 'red eyes'. Not it would've mattered if you did suspect me though, since my red eye is just a prosthetic.
+Саша: Дамочка, ты понятия не имеешь, как я испугалась, когда один из вас спросил что-то о "красных глазах". Хотя это не имело бы значения, если бы вы и заподозрили меня, поскольку мой красный глаз - просто протез.
+
+# Original: T-then... the passengers who were under thy protection...
+Дон Кихот: Т-тогда... пассажиры, кои были под твоей защитой...
+
+# Original: Haven't I told you... that the count matters?
+Кассетти: Разве я не говорил тебе... что счёт имеет значение?
+
+# Original: The longer the line... the better.
+Кассетти: Чем длиннее очередь... тем лучше.
+
+# Original: Ksshhh...
+Рассказчик: Кшшш...
+
+# Original: Dozens of Bloodbags began shambling into the room from behind Sasha.
+... A smaller one among them stood out to me.
+Рассказчик: Десятки Кровососов начали шаркающей походкой входить в комнату из-за спины Саши.
+... Среди них выделялся один маленький.
+
+# Original: ... My mind immediately snapped to the child who grabbed Don Quixote's coattails.
+Рассказчик: ... Я сразу вспомнил о ребёнке, который хватался за фалды плаща Дон Кихота.
+
+# Original: <…….>
+Данте: <…….>
+
+# Original: I knew that the passengers were dead the moment we realized Sasha was a Bloodfiend. But this... I really, really hoped that I wouldn't have to face this reality. Not like this.
+Рассказчик: Я знал, что пассажиры были мертвы в тот момент, когда мы поняли, что Саша была Кровожадом. Но это... Я очень, очень надеялся, что мне не придётся столкнуться с этой реальностью. Не так.
+
+# Original: …….
+Дон Кихот: …….
+
+# Original: There was... a child...
+Дон Кихот: Там был... ребёнок...
+
+# Original: Yep. Little runt wanted to be a Fixer if she got to grow up.
+Саша: Ага. Маленький сопляк хотел стать Корректировщиком, когда вырастет.
+
+# Original: Good thing she won't, though. I can tell you on good authority that 'living' as a Bloodbag is way better than the drudgery that is the life of a Fixer. Believe me, I'd know.
+Саша: Хорошо, что не вырастет. Могу сказать вам по собственному опыту, что "жить" Кровососом намного лучше, чем тяжёлая жизнь Корректировщика. Поверьте мне, я-то знаю.
+
+# Original: ... Hold thy vile tongue.
+Дон Кихот: ... Придержи свой гнусный язык.
+
+# Original: Dreaming of becoming a famous, respected Fixer? An enactor of justice? It's all just a stupid pipe dream that always ends in crushing disappointment. Or a really, really early grave.
+Саша: Мечтать о том, чтобы стать известным, уважаемым Корректировщиком? Вершителем правосудия? Всё это просто глупые несбыточные мечты, которые всегда заканчиваются сокрушительным разочарованием. Или очень, очень ранней могилой.
+
+# Original: Silence... SILENCE!
+Дон Кихот: Замолчи... ЗАМОЛЧИ!
+
+# Original: Don Quixote did not give Sasha time to finish her sentence; she was already charging full-speed at her with her lance drawn.
+Рассказчик: Дон Кихот не дала Саше закончить предложение; она уже неслась на полной скорости к ней с выставленным вперёд копьём.

@@ -2009,5 +2009,89 @@
     "original": "Gagged Pequod Town Villager",
     "translation": "Житель Деревни Пекод с Кляпом",
     "model": "피쿼드호주민2"
+  },
+  {
+    "original": "Sasha",
+    "translation": "Саша",
+    "model": "북부대검혈귀"
+  },
+  {
+    "original": "Cassetti",
+    "translation": "Кассетти",
+    "model": "카세티"
+  },
+  {
+    "original": "Cassetti",
+    "translation": "Кассетти",
+    "model": "카세티혈귀"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "북부대검"
+  },
+  {
+    "original": "Sasha",
+    "translation": "Саша",
+    "model": "북부대검"
+  },
+  {
+    "original": "Rattled Passenger",
+    "translation": "Напуганный Пассажир"
+  },
+  {
+    "original": "Unhinged Passenger",
+    "translation": "Невозмутимый Пассажир"
+  },
+  {
+    "original": "Curious Child",
+    "translation": "Любопытный Ребенок",
+    "model": "열차아이"
+  },
+  {
+    "original": "Prosthetic Fixer",
+    "translation": "Аугментированный Корректировщик"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "카세티"
+  },
+  {
+    "original": "Bloodbags",
+    "translation": "Кровососы"
+  },
+  {
+    "original": "Cleanup Agent",
+    "translation": "Агент Зачистки",
+    "model": "W사정리요원2"
+  },
+  {
+    "original": "Fixer Colleague",
+    "translation": "Коллега-Корректировщик"
+  },
+  {
+    "original": "Cleanup Agent",
+    "translation": "Агент Зачистки",
+    "model": "W사정리요원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "북부창"
+  },
+  {
+    "original": "Fixer from the North",
+    "translation": "Корректировщик с Севера",
+    "model": "북부창"
+  },
+  {
+    "original": "Train Announcer",
+    "translation": "Диктор Поезда"
+  },
+  {
+    "original": "Don Quixote?",
+    "translation": "Дон Кихот?",
+    "model": "실루엣돈키호테"
   }
 ]

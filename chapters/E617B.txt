@@ -1,0 +1,347 @@
+# Original: <This place is huge...>
+Данте: <Это место огромное...>
+
+# Original: That was my first impression of the WARP train station.
+Рассказчик: Таким было мое первое впечатление от станции ВАРП поезда.
+
+# Original: Ooho! So this is...!!!
+Дон Кихот: Ого! Так вот оно...!!!
+
+# Original: Don Quixote shouted vibrantly, immediately recovered from her previous apprehension of the sheer possibility that she might be separated from Rocinante.
+Рассказчик: Дон Кихот восторженно воскликнула, мгновенно оправившись от предыдущего беспокойства о том, что ее могут разлучить с Росинантом.
+
+# Original: <So each Nest has one of these... massive structures in them?>
+Данте: <Так в каждом Гнезде есть... такие массивные сооружения?>
+
+# Original: I've got nothin'. Oi, know anything about what they're asking?
+Хитклиф: Без понятия. Эй, ты что-нибудь знаешь о том, что они спрашивают?
+
+# Original: Heathcliff asked, gesturing toward Meursault with his chin.
+Рассказчик: Хитклиф спросил, кивнув в сторону Мерсо.
+
+# Original: …….
+Мерсо: …….
+
+# Original: Every WARP train station has been built with a general design philosophy that draws from their respective Nest's architectural idiosyncrasies. It can also be said that many critics in relevant fields praise the WARP train stations as one of the many cultural cornerstones of the City.
+Мерсо: Каждая станция ВАРП поезда была построена с учетом общей философии дизайна, которая отражает архитектурные особенности соответствующего Гнезда. Можно также сказать, что многие критики в соответствующих областях считают станции ВАРП поездов одним из многих культурных краеугольных камней Города.
+
+# Original: ... I have no idea when it happened, but Heathcliff's started treating Meursault like a walking encyclopedia from time to time.
+Рассказчик: ... Я не знаю, когда это произошло, но Хитклиф время от времени стал обращаться с Мерсо как с ходячей энциклопедией.
+
+# Original: Meursault, young Meursault...!
+Дон Кихот: Мерсо, юный Мерсо...!
+
+# Original: Lo! Is that passenger over yonder one from the west?
+Дон Кихот: Ответствуй! Не с запада ли тот пассажир вон там?
+
+# Original: Mm...
+Мерсо: Мм...
+
+# Original: Incorrect. Leather-based clothing and metal armor are predominant fashion trends often visible in the outfits of the western population. While that individual's cloth-based style is something ubiquitously observed throughout the population of north and south, they are largely considered to be an eastern fashion trend, rarely seen among western—
+Мерсо: Некорректно. Кожаная одежда и металлическая броня являются преобладающими модными тенденциями, часто заметными в нарядах западного населения. В то время как тканевый стиль того индивида повсеместно наблюдается среди населения севера и юга, он в основном считается восточной модной тенденцией, редко встречающейся среди западных—
+
+# Original: Prithee, slow thyself! For I must make a record of thy lectures...!
+Дон Кихот: Молю, говори медленнее! Ибо я должна записать твои лекции...!
+
+# Original: What wisdom dost thou have to impart regarding the fashion of the northern region? I have once espied in a magazine that they are garbed in loose-fitting outfits. Understandably so, given the colder climate of the region!
+Дон Кихот: Какую мудрость ты можешь поведать о моде северного региона? Я однажды узрела в журнале, что они облачены в свободные одеяния. Понятно почему, учитывая более холодный климат региона!
+
+# Original: An opportunity for a firsthand observation stands before you.
+Мерсо: Возможность непосредственного наблюдения находится перед вами.
+
+# Original: Hm?
+Дон Кихот: Хм?
+
+# Original: UOOOOOOH!!!!!
+Дон Кихот: УОООООООХ!!!!!
+
+# Original: AAAAAAAH!!!!!
+Корректировщик с Севера: ААААААХ!!!!!
+
+# Original: Three seconds of screaming duet; one of utter fascination, the other of unmitigated frustration.
+Рассказчик: Три секунды кричащего дуэта; один из полного восхищения, другой из неприкрытого раздражения.
+
+# Original: What the shit?! You nearly blew out my eardrums!
+Корректировщик с Севера: Какого черта?! Ты чуть не взорвала мои барабанные перепонки!
+
+# Original: You're the one to talk...
+Хитклиф: Ты-то о чем говоришь...
+
+# Original: Dude, I've got an audible frequency range expansion implant in my eardrums!!! Holy shit, man...
+Корректировщик с Севера: Чувак, у меня имплант расширения диапазона слышимых частот в ушах!!! Черт возьми...
+
+# Original: Now, get the hell outta my way! You're blocking the walkway like a ragtag band of hicks who's never even seen a WARP train before.
+Корректировщик с Севера: А теперь убирайтесь с дороги! Вы загораживаете проход, как банда деревенщин, которые никогда не видели ВАРП поезда.
+
+# Original: Dammit, I take the train all the way here for an expedition, only to lose my target, and now these assholes are trying to blow out my eardrums. Great, just great. I love this.
+Корректировщик с Севера: Черт, я тащусь сюда на поезде для экспедиции только чтобы потерять свою цель, а теперь эти придурки пытаются взорвать мои барабанные перепонки. Отлично, просто замечательно. Я в восторге.
+
+# Original: G-guys, is it that obvious that we've never been on a WARP train before?
+Родион: Р-ребята, неужели так очевидно, что мы никогда не были в ВАРП поезде?
+
+# Original: And the ticket fee came straight out of my damn pocket!
+Корректировщик с Севера: И плата за билет вышла прямо из моего кармана!
+
+# Original: Woah... Watch out, big fella... Someone might get seriously hurt if you keep swinging those four arms around. Each holding a weapon, to boot...
+Грегор: Воу... Осторожнее, здоровяк... Кто-нибудь может серьезно пострадать, если ты продолжишь размахивать этими четырьмя руками. К тому же, каждая держит оружие...
+
+# Original: P-prithee, wilt thou stand still for but a moment to satisfy a few inquiries of mine regarding thy outfit? Ooh, yes, yes!! Stand in absolute stillness for five minutes, and I—
+Дон Кихот: П-прошу тебя, не соизволишь ли ты постоять неподвижно на мгновение, дабы удовлетворить несколько моих вопросов касательно твоего наряда? О, да, да!! Стой в абсолютной неподвижности пять минут, и я—
+
+# Original: Seriously?!!!
+Корректировщик с Севера: Серьезно?!!!
+
+# Original: The Fixer, with a particularly impressive set of prosthetic arms, spent a few minutes venting several of his numerous grievances at us before storming off to a different platform.
+Рассказчик: Корректировщик с особенно впечатляющим набором протезов рук несколько минут изливал на нас множество своих многочисленных жалоб, прежде чем умчаться на другую платформу.
+
+# Original: Ah, indeed... 'tis grand, this City of sundry odd personalities...
+Дон Кихот: Ах, воистину... сей Град полон разнообразных причудливых личностей...
+
+# Original: I'm pretty sure he was thinking the same thing...
+Ишмаэль: Я уверена, он думал то же самое...
+
+# Original: I guess the City really is full of people with full body prosthetics...
+Синклер: Похоже, Город действительно полон людей с полными протезами тела...
+
+# Original: That's when Vergilius slowly walked up to our group.
+Рассказчик: В этот момент Вергилий медленно подошел к нашей группе.
+
+# Original: Well, then. We'll rendezvous at the destination.
+Вергилий: Что ж. Мы встретимся в пункте назначения.
+
+# Original: Huh?! Wilt the illustrious Red Gaze not ride alongside us?
+Дон Кихот: А?! Неужели славный Алый Взор не поедет вместе с нами?
+
+# Original: W Corp. policy demands that those with the title of a Color must board a train specially prepared for them instead.
+Вергилий: Политика Крыла W. требует, чтобы те, кто носит титул Цвета, садились на специально подготовленный для них поезд.
+
+# Original: Ooh, are you like, riding the 'first class plus' or something?
+Родион: О, ты типа едешь в "первом классе плюс" или что-то в этом роде?
+
+# Original: That's a Color for you, I guess. Special treatment from the Wings no matter he goes.
+Ишмаэль: Вот что значит быть Цветом, полагаю. Особое отношение от Крыльев, куда бы он ни пошел.
+
+# Original: Charon wants to go back to Mephi. Mephi'll be lonely.
+Харон: Харон хочет вернуться к Мефи. Мефи будет одиноко.
+
+# Original: ... I already told you why you can't, Charon, on three separate occasions in which I bought you those multi-flavored candies. Humans are not allowed aboard the freight cars.
+Вергилий: ... Я уже трижды объяснял тебе, почему ты не можешь, Харон, и каждый раз покупал тебе те разноцветные конфеты. Людям не разрешается находиться в грузовых вагонах.
+
+# Original: Then, Miss Faust.
+Вергилий: Тогда, мисс Фауст.
+
+# Original: ... Yes.
+Фауст: ... Да.
+
+# Original: Vergilius, after exchanging a knowing look and a nod with Faust, escorted the particularly peeved Charon away.
+Рассказчик: Вергилий, обменявшись понимающим взглядом и кивком с Фауст, увел особенно недовольную Харон.
+
+# Original: Dante, let us proceed this way.
+Фауст: Данте, давайте проследуем сюда.
+
+# Original: We followed Faust's guidance to the entrance to our train car.
+Рассказчик: Мы последовали за Фауст к входу в наш вагон.
+
+# Original: Damn...
+Грегор: Черт...
+
+# Original: Woah... hey, our colors are starting to come back!
+Родион: Вау... эй, к нам возвращаются наши цвета!
+
+# Original: Ooh... oooooh...
+Дон Кихот: Ох... оооох...
+
+# Original: Hey~ These must be the fabled complimentary food & drink of the first class seats...! Heck yeah, of course! Quality stuff like these gotta be included with that insane pricing...
+Родион: Эй~ Это должно быть те самые легендарные бесплатные еда и напитки первого класса...! Черт возьми, конечно! Такие качественные вещи должны быть включены в эту безумную цену...
+
+# Original: The general response to this room was a surprise at the rows upon rows of expensive-looking, sizable capsules.
+Рассказчик: Общей реакцией на эту комнату было удивление рядами дорого выглядящих, внушительных капсул.
+
+# Original: Flash-freeze hibernation, huh... I guess it literally freezes our bodies in a flash?
+Рассказчик: Мгновенная заморозка для гибернации, да? Полагаю, она буквально заморозит наши тела в одно мгновение?
+
+# Original: <Faust, are these flash-freeze hibernation devices... safe?>
+Данте: <Фауст, эти устройства мгновенной заморозки для гибернации... безопасны?>
+
+# Original: Please elaborate on your exact definition of 'safe'.
+Фауст: Пожалуйста, уточните ваше точное определение "безопасности".
+
+# Original: <These things are supposed to freeze us solid, right...? Can we really come back from something like that?>
+Данте: <Эти штуки должны заморозить нас полностью, верно...? Мы действительно можем вернуться после чего-то подобного?>
+
+# Original: A flash-freeze hibernation device will put you in a temporary state of death caused by rapid cellular cryopreservation process. However, the rapidity of the process prevents damage to your cell walls during the phase change. Therefore, in most normal cases, this will not cause any issues.
+Фауст: Устройство мгновенной заморозки для гибернации введет вас во временное состояние смерти, вызванное процессом быстрой клеточной криоконсервации. Однако быстрота процесса предотвращает повреждение клеточных стенок во время фазового перехода. Таким образом, в большинстве нормальных случаев это не вызовет никаких проблем.
+
+# Original: Faust is aware that this model has fully resolved cell wall-breaching issues caused by cryogenic density change or by ice crystal growths of hydrogen molecules.
+Фауст: Фауст знает, что эта модель полностью решила проблемы с разрушением клеточных стенок, вызванные криогенным изменением плотности или ростом кристаллов льда из молекул водорода.
+
+# Original: <... I missed about half of what you said, but your point is that it's safe, right?>
+Данте: <... Я не понял примерно половину того, что ты сказала, но суть в том, что это безопасно, верно?>
+
+# Original: Yes, as far as Faust is aware. Even if an issue were to arise during the journey, because everyone will be reverted to their states at the beginning of the train trip upon arrival, there won't be any lasting complications from the said problem.
+Фауст: Да, насколько известно Фауст. Даже если во время путешествия возникнет проблема, поскольку все будут возвращены в свое состояние на момент начала поездки по прибытии, никаких длительных осложнений от указанной проблемы не будет.
+
+# Original: Oi, you've got some real talent in dragging out something so simple as "yeah, it's safe" to so many words. Seriously.
+Хитклиф: Эй, у тебя реальный талант растягивать что-то такое простое, как "да, это безопасно" на столько слов. Серьезно.
+
+# Original: Indeed. As Faust's talents are not limited to a singular field. 
+Фауст: Действительно. Таланты Фауст не ограничиваются одной областью.
+
+# Original: <…….>
+Данте: <…….>
+
+# Original: Okay, but... that still leaves a lot to be worried about... ... Wait, there was something odd about the way she phrased that.
+Рассказчик: Ладно, но... это все еще оставляет много поводов для беспокойства... ... Подождите, было что-то странное в том, как она это сформулировала.
+
+# Original: <As far as Faust is aware...? Are you saying that it could be wrong?>
+Данте: <Насколько известно Фауст...? Ты говоришь, что это может быть неверно?>
+
+# Original: As a general rule, Faust does not err. However, Faust is also not a divine being.
+Фауст: Как правило, Фауст не ошибается. Однако Фауст также не является божественным существом.
+
+# Original: There are certain information in the world that Faust is yet to have access to. Therefore, while Faust may speak the facts, what is said may not always align with the truth.
+Фауст: В мире существует определенная информация, к которой Фауст еще не имеет доступа. Поэтому, хотя Фауст может говорить факты, сказанное не всегда может соответствовать истине.
+
+# Original: <Okay...>
+Данте: <Хорошо...>
+
+# Original: They don't call first class 'first class' for nothing, I guess... P Corp.'s way up there in the northernmost corner of the City, but this thing'll take us there in the blink of an eye, huh? That's one helluva timesaver.
+Грегор: Видимо, первый класс не зря называют "первым классом"... П Корп. находится далеко на самом северном краю Города, но эта штука доставит нас туда в мгновение ока, да? Вот это я понимаю экономия времени.
+
+# Original: Hoohah! Hoohah! Hoohah! Prepare thyself, Rocinante!! Thus begins the long jaunt...
+Дон Кихот: Хооха! Хооха! Хооха! Приготовься, Росинант!! Так начинается долгое путешествие...
+
+# Original: Oh, I've been meaning to ask, Don Quixote...
+Родион: О, я давно хотела спросить, Дон Кихот...
+
+# Original: ... Do ya ever... y'know... wash those shoes?
+Родион: ... Ты когда-нибудь... ну, знаешь... моешь эти ботинки?
+
+# Original: <Where'd that come from, Rodya?>
+Данте: <С чего это вдруг, Родя?>
+
+# Original: No, I mean, like, think back to when we were inside that Whale.
+Родион: Нет, я имею в виду, вспомни, когда мы были внутри того Кита.
+
+# Original: When that Whale blew up, we got all kinds of its gross, slimy bits on us. They were on our clothes, our shoes, everything!
+Родион: Когда этот Кит взорвался, мы все покрылись всякими его мерзкими, склизкими кусочками. Они были на нашей одежде, обуви, везде!
+
+# Original: ... Yeah.
+Ишмаэль: ... Да.
+
+# Original: And do you remember how much work it took us to clean our bloodied, fishy-fleshy-gunked clothing...?
+Родион: И помнишь, сколько усилий нам потребовалось, чтобы очистить нашу окровавленную, провонявшую рыбой и мясом одежду...?
+
+# Original: This really isn't something I want to revisit, but... yeah.
+Ишмаэль: Я действительно не хочу это вспоминать, но... да.
+
+# Original: Right? And do you also remember how Don Quixote never took her shoes off once during that whole ordeal?!
+Родион: Верно? И ты также помнишь, как Дон Кихот ни разу не сняла свои ботинки за все это время?!
+
+# Original: ... Okay, I guess they do look a bit filthy...
+Ишмаэль: ... Ладно, думаю, они действительно выглядят немного грязными...
+
+# Original: I ask thee, dear compatriots. Hast thou ever witnessed an errant knight who leaves the side of their beloved steed?
+Дон Кихот: Я спрашиваю вас, дорогие соратники. Видели ли вы когда-нибудь странствующего рыцаря, который покидает бок своего возлюбленного скакуна?
+
+# Original: Can't say I've ever witnessed a 'knight' before, though...?
+Грегор: Не могу сказать, что когда-либо видел "рыцаря" вообще...?
+
+# Original: Then thou shalt know... starting now! Behold it, hearken to it, and remember it well!
+Дон Кихот: Тогда вы узнаете... начиная с этого момента! Узрите это, внемлите этому и запомните это хорошенько!
+
+# Original: Hmph, they never quiet down, do they?
+Отис: Хмф, они никогда не успокаиваются, не так ли?
+
+# Original: Woah, have you been on one of these, Outis~?
+Хон Лу: Ого, ты уже бывала на таком, Отис~?
+
+# Original: I have been treated to premium, VIP seats of similar grandiosity back when. This is nothing to fuss over.
+Отис: Мне доводилось пользоваться премиальными, VIP-местами подобной грандиозности в прошлом. В этом нет ничего особенного.
+
+# Original: Outis, who was sitting there and shaking her legs, suddenly asked Faust a question.
+Рассказчик: Отис, которая сидела там и покачивала ногами, внезапно задала Фауст вопрос.
+
+# Original: ... Hey. You're confident that no accident's ever occurred on one of these first class cars, yes?
+Отис: ... Эй. Ты уверена, что никогда не происходило аварий в этих вагонах первого класса, да?
+
+# Original: In order to prevent cases of unnecessary anxiety and misgivings among the Sinners, the history of accidents that has occurred aboard WARP trains will not be shared.
+Фауст: Во избежание случаев ненужного беспокойства и недоверия среди Грешников, история аварий, произошедших на борту ВАРП поездов, не будет разглашаться.
+
+# Original: ... Wait, what the—
+Отис: ... Погоди, что за—
+
+# Original: BEEP—
+Рассказчик: БИП—
+
+# Original: Oh, I think we're leaving soon.
+Ишмаэль: О, кажется, мы скоро отправляемся.
+
+# Original: This is for WARP train PW-612 bound for P Corp. Boarding period is ending soon.
+Рассказчик: Это для ВАРП поезда PW-612, направляющегося в П Корп. Период посадки скоро заканчивается.
+
+# Original: The Sinners, who were either leisurely enjoying their complimentary snacks or taking a look around the first class car, suddenly became a lot busier.
+Рассказчик: Грешники, которые либо неторопливо наслаждались бесплатными закусками, либо осматривали вагон первого класса, внезапно засуетились.
+
+# Original: Then, let us hurry and enter our capsules before it is too late.
+Фауст: Тогда давайте поспешим и войдем в наши капсулы, пока не стало слишком поздно.
+
+# Original: <O-oh no, why isn't this—>
+Данте: <О-о нет, почему это не—>
+
+# Original: The other Sinners made it into their capsules no problem, but...
+Рассказчик: Другие Грешники без проблем забрались в свои капсулы, но...
+
+# Original: ... I felt like I was the only one who's fumbling.
+Рассказчик: ... Я чувствовал, что был единственным, кто неловко возился.
+
+# Original: Is it anxiety, Dante?
+Фауст: Это беспокойство, Данте?
+
+# Original: <I think so...>
+Данте: <Думаю, да...>
+
+# Original: Initiating warp in ten minutes.
+Рассказчик: Начало прыжка через десять минут.
+
+# Original: Allow me to assist you. Stand as though you are leaning back, and...
+Фауст: Позвольте мне помочь вам. Встаньте так, будто вы откидываетесь назад, и...
+
+# Original: Faust expertly guided me into the capsule as though she'd done something like this before, then pressed a button inside the capsule that closed the hatch.
+Рассказчик: Фауст умело направила меня в капсулу, словно она делала что-то подобное раньше, затем нажала кнопку внутри капсулы, которая закрыла люк.
+
+# Original: Do not worry too much.
+Фауст: Не беспокойтесь слишком сильно.
+
+# Original: ... We will meet again in but a moment, Dante.
+Фауст: ... Мы встретимся снова через мгновение, Данте.
+
+# Original: I thought I heard a brief sigh, but the hatch shut tightly before I could ask her anything...
+Рассказчик: Мне показалось, что я услышал короткий вздох, но люк плотно закрылся прежде, чем я смог спросить ее о чем-либо...
+
+# Original: Initiating warp. Please confirm that your seatbelts are firmly fastened.
+Рассказчик: Начало прыжка. Пожалуйста, убедитесь, что ваши ремни безопасности надежно застегнуты.
+
+# Original: The last thing I saw before my capsule began to fill with gas was Faust climbing into her own capsule opposite of mine.
+Рассказчик: Последнее, что я увидел перед тем, как моя капсула начала наполняться газом, была Фауст, забирающаяся в свою капсулу напротив моей.
+
+# Original: ... I had no idea then.
+Рассказчик: ... Тогда я не знал.
+
+# Original: What she really meant by 'We will meet again in but a moment'.
+Рассказчик: Что она на самом деле имела в виду, говоря "Мы встретимся снова через мгновение".
+
+# Original: <…?>
+Данте: <…?>
+
+# Original: Dante, you must wake up. Dante—
+Фауст: Данте, ты должен проснуться. Данте—
+
+# Original: But one thing I knew for sure was...
+Рассказчик: Но одно я знал наверняка...
+
+# Original: ... An inconceivable situation has occurred.
+Фауст: ... Произошла невообразимая ситуация.
+
+# Original: ... that something had seriously, seriously gone wrong.
+Рассказчик: ... что что-то пошло серьезно, серьезно не так.

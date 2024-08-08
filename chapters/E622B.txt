@@ -1,0 +1,191 @@
+# Original: <Wait, a Bloodfiend...?>
+Данте: <Подождите, Кровожад...?>
+
+# Original: What's... a Bloodfiend...?
+Рассказчик: Что такое... Кровожад...?
+
+# Original: A Bloodfiend...? What in the name of Wings is that?
+Дон Кихот: Кровожад...? Что это, во имя Крыльев, такое?
+
+# Original: Huh... You of all people haven't heard about Bloodfiends? Thought you were our team expert on obscure lore.
+Грегор: Хм... Ты, из всех людей, не слышала о Кровожадах? А я-то думал, ты у нас эксперт по малоизвестным легендам.
+
+# Original: Verily, I have not once heard mention of these 'Bloodfiends'! Perchance I have let a magazine article slip from my memory?
+Дон Кихот: Воистину, я ни разу не слышала упоминания об этих "Кровожадах"! Быть может, я упустила статью в каком-нибудь журнале?
+
+# Original: Don Quixote furrowed her brows, genuinely lost. It was as though the very word sounded alien to her.
+Рассказчик: Дон Кихот нахмурилась, искренне растерявшись. Казалось, будто само это слово звучало для неё чуждо.
+
+# Original: I thought they were just monsters in stories to scare children in the night... They're supposed to be afraid of garlic and sunlight, right...?
+Синклер: Я думал, это просто чудовища из историй, которыми пугают детей на ночь... Они вроде как боятся чеснока и солнечного света, верно...?
+
+# Original: Ooh~ That sounds a bit different from what I've heard. I heard their fear of garlic and sunlight is just a rumor, and what they're really afraid of is water!
+Хон Лу: О~ Это немного отличается от того, что я слышал. Я слышал, что их боязнь чеснока и солнечного света - это просто слухи, а на самом деле они боятся воды!
+
+# Original: …….
+Фауст: …….
+
+# Original: I have been briefed on the existence of Bloodfiends in the past, when I served as a commanding officer.
+Отис: Меня информировали о существовании Кровожадов в прошлом, когда я служила офицером.
+
+# Original: And I have seen the... 'dregs' that they command.
+Отис: И я видела... "отбросов", которыми они командуют.
+
+# Original: ... Though my memory isn't very clear, I am quite certain that these monsters here do not resemble what I've seen.
+Отис: ... Хотя мои воспоминания не очень чёткие, я вполне уверена, что эти монстры здесь не похожи на то, что я видела.
+
+# Original: I've seen one who called themselves a Bloodfiend among the Fingers. But the things that 'Bloodfiend' commanded weren't like these rubber-textured ones.
+Рёшу: Я видела одного, кто называл себя Кровожадом среди Пальцев. Но те существа, которыми командовал тот "Кровожад", не были похожи на этих резиноподобных.
+
+# Original: There's something off about this one. That one didn't spawn these dregs with abandon like this.
+Рёшу: Здесь что-то не так. Тот не порождал этих отбросов так бездумно.
+
+# Original: But aren't you supposed to know this already?
+Рёшу: Но разве ты не должна уже знать об этом?
+
+# Original: ... Yes. I see that some Sinners may have encountered Bloodfiends in the past. A long-winded explanation seems unnecessary.
+Фауст: ... Да. Я вижу, что некоторые Грешники, возможно, сталкивались с Кровожадами в прошлом. Похоже, длинное объяснение не требуется.
+
+# Original: As many of you have stated thus far, the entities we faced in this train do not appear to be 'Bloodfiends'.
+Фауст: Как многие из вас уже заявили, существа, с которыми мы столкнулись в этом поезде, не похожи на "Кровожадов".
+
+# Original: In a sense, they are dreg-like beings that have failed to become Kindreds... they are referred to as 'Bloodbags' among relevant parties, according to information I am aware of.
+Фауст: В некотором смысле, это существа, подобные отбросам, которым не удалось стать Сородичами... Среди посвящённых их называют "Кровососами", согласно известной мне информации.
+
+# Original: Hmph, not a terrible name.
+Рёшу: Хмф, неплохое название.
+
+# Original: <Why would anyone name someone 'Bloodbags'...?>
+Данте: <Почему кто-то вообще назвал их "Кровососами"...?>
+
+# Original: As it has been said prior, it is impossible for passengers to disappear aboard WARP trains under normal circumstances.
+Фауст: Как уже было сказано ранее, при нормальных обстоятельствах пассажирам невозможно исчезнуть на борту ВАРП поездов.
+
+# Original: Though our reserve of intelligence regarding the WARP trains or W Corp. is vast, if incomplete, we could not find a possible exception to the above rule.
+Фауст: Хотя наш запас информации о ВАРП поездах или Корпорации W обширен, хоть и неполон, мы не смогли найти возможного исключения из вышеупомянутого правила.
+
+# Original: Within that reserve of intelligence, however, I have discovered that inserting a previously unseen variable into the equation allows for a formulation of a new hypothesis.
+Фауст: Однако в рамках этого запаса информации я обнаружила, что введение ранее не наблюдавшейся переменной в уравнение позволяет сформулировать новую гипотезу.
+
+# Original: Wait, you're saying that these Bloodfiends can completely erase people, or passengers, from existence?
+Ишмаэль: Погоди, ты говоришь, что эти Кровожады могут полностью стереть людей, или пассажиров, из существования?
+
+# Original: A more accurate descriptor would be to say that they are either dissolved or vaporized.
+Фауст: Более точным определением было бы сказать, что они либо растворяются, либо испаряются.
+
+# Original: Dissolved...
+Ишмаэль: Растворяются...
+
+# Original: No matter the degree of violence the passengers may indulge in, no matter how severe the damages may be, the WARP trains can revert them to their initial states at the beginning of the journey.
+Фауст: Независимо от степени насилия, которому могут предаваться пассажиры, независимо от того, насколько серьёзными могут быть повреждения, ВАРП поезда могут вернуть их в исходное состояние, в котором они были в начале путешествия.
+
+# Original: Among several interpretations of the word 'violence' involves cannibalization, of course.
+Фауст: Среди нескольких интерпретаций слова "насилие", конечно, подразумевается и каннибализм.
+
+# Original: Eugh...
+Синклер: Фу...
+
+# Original: However, as the passengers' collective time itself is in moratorium for the duration of the train's operation, digestion is not a biological process that should be active. In other words, even the devoured passengers could be reconstructed.
+Фауст: Однако, поскольку коллективное время пассажиров находится в состоянии моратория на время работы поезда, пищеварение не должно быть активным биологическим процессом. Другими словами, даже пожранные пассажиры могли бы быть реконструированы.
+
+# Original: Hm. If they are merely stuffed into the digestive tract, then I suppose they could gut the passengers to retrieve the chewed-up chunks of other passengers and piece them back together via the vein-like things connecting each individual.
+Отис: Хм. Если они просто застряли в пищеварительном тракте, то, я полагаю, можно было бы вспороть пассажиров, чтобы извлечь пережёванные куски других пассажиров и собрать их обратно с помощью этих жилоподобных нитей, соединяющих каждого индивида.
+
+# Original: However, such is not true for 'Bloodbags'. Bloodbags are, by their nature, obsessed with blood; their existence hinges on supplying themselves with the blood of their victims.
+Фауст: Однако это не относится к "Кровососам". Кровососы по своей природе одержимы кровью; их существование зависит от снабжения себя кровью жертв.
+
+# Original: And it is said that they must consume a minuscule amount of blood to maintain their forms.
+Фауст: И говорят, что они должны потреблять минимальное количество крови, чтобы поддерживать свою форму.
+
+# Original: Wait, what? Didn't you just say that digestion's not a thing while we're on the train?
+Грегор: Погоди, что? Разве ты только что не сказала, что пищеварение не работает, пока мы в поезде?
+
+# Original: If I were to continue my deductions... perhaps 'consumption of blood', for Bloodfiends and Bloodbags is a fundamentally different process from our 'consumption of nutrients' for energy.
+Фауст: Если продолжить мои рассуждения... возможно, "потребление крови" для Кровожадов и Кровососов - это принципиально иной процесс, нежели наше "потребление питательных веществ" для энергии.
+
+# Original: To them, blood is a culmination, an entailment of something that forms the self, including but not limited to: emotions, ambitions, wealth, purposes of existence... Then, it must naturally follow that they can spend their blood at will, which is a process that is isolated from other biological processes such as digestion.
+Фауст: Для них кровь - это кульминация, следствие чего-то, что формирует 'самость', включая, но не ограничиваясь: эмоции, амбиции, богатство, цели существования... Тогда естественно следует, что они могут расходовать свою кровь по желанию, и этот процесс изолирован от других биологических процессов, таких как пищеварение.
+
+# Original: Whu... uh. I ain't following even half of that.
+Хитклиф: Чё... э. Я и половины не понял.
+
+# Original: ... You exist in moratoria of time at the present moment, Heathcliff; yet your emotions still persist, do they not? Anger, sorrow, and joy... they continue to spark within you.
+И Сан: ... Ты существуешь в моратории времени в данный момент, Хитклиф; но твои эмоции всё ещё сохраняются, не так ли? Гнев, печаль и радость... они продолжают вспыхивать внутри тебя.
+
+# Original: Huh? Well, I suppose they are.
+Хитклиф: А? Ну, думаю, да.
+
+# Original: Though we cannot tell whether they may be in a state of alteration, or whether they remain ensnared in the wheel of creation and destruction, it can be said that emotions, once passed, exist not in continuation.
+И Сан: Хотя мы не можем сказать, находятся ли они в состоянии изменения, или остаются в ловушке колеса создания и разрушения, можно сказать, что эмоции, однажды прошедшие, не существуют в продолжении.
+
+# Original: The passengers' will to persist, the worth of this very existence in which they thrive, do they not all gently atrophy into nonexistence even amidst the 'ceased' time? Miss Faust seeks to illustrate the similarity between how emotions are to ourselves and how blood is to Bloodfiends.
+И Сан: Воля пассажиров к существованию, ценность самого этого существования, в котором они процветают, разве они все не угасают мягко в небытие даже среди "остановленного" времени? Мисс Фауст стремится проиллюстрировать сходство между тем, чем являются эмоции для нас, и тем, чем является кровь для Кровожадов.
+
+# Original: Gotcha... so that's why she said their blood is 'vaporized', huh?
+Грегор: Понял... так вот почему она сказала, что их кровь "испаряется", да?
+
+# Original: If that's the case, then the very blood that's supposed to bind these chunks of flesh together will also evaporate. Which means that they can't be pieced back together.
+Ишмаэль: Если это так, то сама кровь, которая должна связывать эти куски плоти вместе, тоже испарится. А это значит, что их нельзя собрать обратно.
+
+# Original: There is no incongruence in that logic.
+Мерсо: В этой логике нет несоответствий.
+
+# Original: ... Everyone fell silent for a moment.
+Рассказчик: ... На мгновение все замолчали.
+
+# Original: That was way too much information to process at once. We didn't even know what to make of them, either.
+Рассказчик: Это было слишком много информации для восприятия сразу. Мы даже не знали, что с ней делать.
+
+# Original: I would like to ask a few questions, if you would permit me.
+И Сан: Я хотел бы задать несколько вопросов, если вы позволите.
+
+# Original: Yi Sang was the first to break the silence.
+Рассказчик: И Сан первым нарушил молчание.
+
+# Original: Could it be said that Bloodbags are direct creations of Bloodfiends? If such is the case, then by which method do they—
+И Сан: Можно ли сказать, что Кровососы являются прямыми творениями Кровожадов? Если это так, то каким методом они—
+
+# Original: ... That information is inaccessible at the moment.
+Фауст: ... Эта информация в данный момент недоступна.
+
+# Original: Faust replies, avoiding Yi Sang's gaze.
+Рассказчик: Фауст отвечает, избегая взгляда И Сана.
+
+# Original: ... There isn't anything I can do about this. The Sinners will only get more stressed if they find out, and that's something Faust and I both want to avoid.
+Рассказчик: ... Я ничего не могу с этим поделать. Грешники только больше будут напряжены, если узнают, а этого и Фауст, и я хотим избежать.
+
+# Original: Inaccessible... Ah, indeed. Now I recall what you have said in the past.
+И Сан: Недоступна... Ах, действительно. Теперь я вспоминаю, что вы говорили в прошлом.
+
+# Original: This is only a speculation, however... I assume that a form of direct physical contact is needed to turn an individual into a Bloodbag. If such were not the case, then we, who are likely the greatest obstacles to this entity's goal at the moment, would have been the first ones to be turned.
+Фауст: Это лишь предположение, однако... Я полагаю, что для превращения человека в Кровососа необходима какая-то форма прямого физического контакта. Если бы это было не так, то мы, вероятно являющиеся сейчас величайшим препятствием на пути к цели этого существа, были бы первыми, кого превратили.
+
+# Original: Mm, indeed.
+И Сан: Мм, действительно.
+
+# Original: In that case! That villain of a Bloodfiend must be hiding out somewhere aboard this train!
+Дон Кихот: В таком случае! Этот злодей Кровожад должен прятаться где-то на борту этого поезда!
+
+# Original: Indeed. If we are to believe the words of the Fixer from earlier, then there is a high likelihood that the horde is advancing in this direction from the back of the train...
+Фауст: Действительно. Если верить словам Корректировщика, с которым мы встретились ранее, то есть большая вероятность того, что орда продвигается в этом направлении с задней части поезда...
+
+# Original: In other words, continuing down the train cars will lead us straight to the Bloodfiend.
+Фауст: Другими словами, продолжая идти по вагонам, мы прямиком придём к Кровожаду.
+
+# Original: Very well! I shan't forsake this opportunity to bring peace to the souls of the innocent passengers who have perished by the villain's hands!
+Дон Кихот: Отлично! Я не упущу этой возможности принести мир душам невинных пассажиров, погибших от рук злодея!
+
+# Original: ... Dante.
+Фауст: ... Данте.
+
+# Original: It seemed that Don Quixote was now invigorated. The other Sinners also seemed satisfied now that we had a clearer sight of our goal. Faust, who stood amidst them, nodded in my direction.
+Рассказчик: Казалось, Дон Кихот теперь воодушевилась. Другие Грешники тоже выглядели удовлетворёнными, теперь, когда у нас появилось более чёткое представление о нашей цели. Фауст, стоявшая среди них, кивнула в моём направлении.
+
+# Original: <... Well, then. Let's go.>
+Данте: <... Что ж, тогда. Пойдём.>
+
+# Original: We're making the best of what's available to us at the moment.
+Рассказчик: Мы делаем всё возможное с тем, что у нас есть в данный момент.
+
+# Original: Let's move forward... for now.
+Рассказчик: Давайте двигаться вперёд... пока что.
