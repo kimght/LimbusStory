@@ -332,7 +332,7 @@
 Измаил: ... Волны наконец-то ударили, да?
 
 # Original: <Ish... mael?>
-Данте: <Иш... маэль?>
+Данте: <Из... маил?>
 
 # Original: After such a long period of isolation, Ishmael staggered out of her room at last.
 Рассказчик: После такого долгого периода изоляции Измаил наконец вышла из своей комнаты.
