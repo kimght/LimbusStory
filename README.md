@@ -322,3 +322,41 @@
 62. [Эпизод 62 (промеж. 3)](./chapters/S648I3.txt)
 63. [Эпизод 63 (промеж. 4)](./chapters/S648I4.txt)
 64. [Эпизод 64 (после боя)](./chapters/S648A.txt)
+
+# Интерваллы
+
+## TimeKilling Time
+1. [Эпизод 1 (до боя)](./chapters/E601B.txt)
+2. [Эпизод 2 (после боя)](./chapters/E602A.txt)
+3. [Эпизод 3 (до боя)](./chapters/E603B.txt)
+4. [Эпизод 4 (до боя)](./chapters/E604B.txt)
+5. [Эпизод 5 (до боя)](./chapters/E605B.txt)
+6. [Эпизод 6 (до боя)](./chapters/E606B.txt)
+7. [Эпизод 7 (до боя)](./chapters/E607B.txt)
+8. [Эпизод 8 (до боя)](./chapters/E609B.txt)
+9. [Эпизод 9 (после боя)](./chapters/E610A.txt)
+10. [Эпизод 10 (до боя)](./chapters/E611B.txt)
+11. [Эпизод 11 (до боя)](./chapters/E612B.txt)
+12. [Эпизод 12 (до боя)](./chapters/E613B.txt)
+13. [Эпизод 13 (до боя)](./chapters/E614B.txt)
+14. [Эпизод 14 (после боя)](./chapters/E614A.txt)
+15. [Эпизод 15 (до боя)](./chapters/E615B.txt)
+16. [Эпизод 16 (после боя)](./chapters/E615A.txt)
+
+## Murder in the WARP Express
+1. [Эпизод 1 (до боя)](./chapters/E616B.txt)
+2. [Эпизод 2 (до боя)](./chapters/E617B.txt)
+3. [Эпизод 3 (до боя)](./chapters/E618B.txt)
+4. [Эпизод 4 (до боя)](./chapters/E619B.txt)
+5. [Эпизод 5 (после боя)](./chapters/E619A.txt)
+6. [Эпизод 6 (до боя)](./chapters/E620B.txt)
+7. [Эпизод 7 (после боя)](./chapters/E621A.txt)
+8. [Эпизод 8 (до боя)](./chapters/E622B.txt)
+9. [Эпизод 9 (после боя)](./chapters/E623A.txt)
+10. [Эпизод 10 (после боя)](./chapters/E624A.txt)
+11. [Эпизод 11 (до боя)](./chapters/E625B.txt)
+12. [Эпизод 12 (промеж. 1)](./chapters/E625I.txt)
+13. [Эпизод 13 (после боя)](./chapters/E625A.txt)
+14. [Эпизод 14 (до боя)](./chapters/E626B.txt)
+15. [Эпизод 15 (до боя)](./chapters/E627B.txt)
+
