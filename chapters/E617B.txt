@@ -2,13 +2,13 @@
 Данте: <Это место огромное...>
 
 # Original: That was my first impression of the WARP train station.
-Рассказчик: Таким было мое первое впечатление от станции ВАРП поезда.
+Рассказчик: Таким было мое первое впечатление от станции для WARP поездов.
 
 # Original: Ooho! So this is...!!!
 Дон Кихот: Ого! Так вот оно...!!!
 
 # Original: Don Quixote shouted vibrantly, immediately recovered from her previous apprehension of the sheer possibility that she might be separated from Rocinante.
-Рассказчик: Дон Кихот восторженно воскликнула, мгновенно оправившись от предыдущего беспокойства о том, что ее могут разлучить с Росинантом.
+Рассказчик: Дон Кихот восторженно воскликнула, мгновенно оправившись от совего опасения относительно самой возможности разлуки с Росинантом.
 
 # Original: <So each Nest has one of these... massive structures in them?>
 Данте: <Так в каждом Гнезде есть... такие массивные сооружения?>
@@ -23,10 +23,10 @@
 Мерсо: …….
 
 # Original: Every WARP train station has been built with a general design philosophy that draws from their respective Nest's architectural idiosyncrasies. It can also be said that many critics in relevant fields praise the WARP train stations as one of the many cultural cornerstones of the City.
-Мерсо: Каждая станция ВАРП поезда была построена с учетом общей философии дизайна, которая отражает архитектурные особенности соответствующего Гнезда. Можно также сказать, что многие критики в соответствующих областях считают станции ВАРП поездов одним из многих культурных краеугольных камней Города.
+Мерсо: Каждая станция WARP поезда была построена на основании общего дизайна, отражающего архитектурные особенности каждого Гнезда. Стоит также сказать, что многие критики в соответствующих областях восхваляют станции WARP поездов в качестве одного из краеугольных камней культурного пространства Города.
 
 # Original: ... I have no idea when it happened, but Heathcliff's started treating Meursault like a walking encyclopedia from time to time.
-Рассказчик: ... Я не знаю, когда это произошло, но Хитклиф время от времени стал обращаться с Мерсо как с ходячей энциклопедией.
+Рассказчик: ... Я не знаю, когда это произошло, но Хитклиф стал иногда обращаться с Мерсо как с ходячей энциклопедией.
 
 # Original: Meursault, young Meursault...!
 Дон Кихот: Мерсо, юный Мерсо...!
@@ -38,13 +38,13 @@
 Мерсо: Мм...
 
 # Original: Incorrect. Leather-based clothing and metal armor are predominant fashion trends often visible in the outfits of the western population. While that individual's cloth-based style is something ubiquitously observed throughout the population of north and south, they are largely considered to be an eastern fashion trend, rarely seen among western—
-Мерсо: Некорректно. Кожаная одежда и металлическая броня являются преобладающими модными тенденциями, часто заметными в нарядах западного населения. В то время как тканевый стиль того индивида повсеместно наблюдается среди населения севера и юга, он в основном считается восточной модной тенденцией, редко встречающейся среди западных—
+Мерсо: Некорректно. Одежда на кожанной основе и металлическая броня являются преобладающими модными тенденциями, часто заметными в нарядах западного населения. Хотя тканевый стиль того индивида повсеместно наблюдается среди населения и севера, и юга, считается он в основном модной тенденцией востока, редко встречающейся среди западных—
 
 # Original: Prithee, slow thyself! For I must make a record of thy lectures...!
-Дон Кихот: Молю, говори медленнее! Ибо я должна записать твои лекции...!
+Дон Кихот: Молю, говорите медленнее! Ибо я должна записать твои лекции...!
 
 # Original: What wisdom dost thou have to impart regarding the fashion of the northern region? I have once espied in a magazine that they are garbed in loose-fitting outfits. Understandably so, given the colder climate of the region!
-Дон Кихот: Какую мудрость ты можешь поведать о моде северного региона? Я однажды узрела в журнале, что они облачены в свободные одеяния. Понятно почему, учитывая более холодный климат региона!
+Дон Кихот: Какую мудрость ты можешь поведать о моде северного региона? Я однажды узрела в журнале, что они облачены в свободные одеяния. Вполне объяснимо, учитывая холодный климат того региона!
 
 # Original: An opportunity for a firsthand observation stands before you.
 Мерсо: Возможность непосредственного наблюдения находится перед вами.
@@ -53,46 +53,46 @@
 Дон Кихот: Хм?
 
 # Original: UOOOOOOH!!!!!
-Дон Кихот: УОООООООХ!!!!!
+Дон Кихот: УООООООО!!!!!
 
 # Original: AAAAAAAH!!!!!
-Корректировщик с Севера: ААААААХ!!!!!
+Корректировщик с Севера: АААААА!!!!!
 
 # Original: Three seconds of screaming duet; one of utter fascination, the other of unmitigated frustration.
-Рассказчик: Три секунды кричащего дуэта; один из полного восхищения, другой из неприкрытого раздражения.
+Рассказчик: Три секунды кричащего дуэта; один крик состоит из полного восхищения, другой из абсолютного раздражения.
 
 # Original: What the shit?! You nearly blew out my eardrums!
-Корректировщик с Севера: Какого черта?! Ты чуть не взорвала мои барабанные перепонки!
+Корректировщик с Севера: Какого черта?! Ты чуть мои барабанные перепонки не взорвала!
 
 # Original: You're the one to talk...
-Хитклиф: Ты-то о чем говоришь...
+Хитклиф: Не тебе говорить...
 
 # Original: Dude, I've got an audible frequency range expansion implant in my eardrums!!! Holy shit, man...
 Корректировщик с Севера: Чувак, у меня имплант расширения диапазона слышимых частот в ушах!!! Черт возьми...
 
 # Original: Now, get the hell outta my way! You're blocking the walkway like a ragtag band of hicks who's never even seen a WARP train before.
-Корректировщик с Севера: А теперь убирайтесь с дороги! Вы загораживаете проход, как банда деревенщин, которые никогда не видели ВАРП поезда.
+Корректировщик с Севера: А теперь убирайтесь с дороги! Вы загораживаете проход, как банда деревенщин, никогда не видевших WARP поезда.
 
 # Original: Dammit, I take the train all the way here for an expedition, only to lose my target, and now these assholes are trying to blow out my eardrums. Great, just great. I love this.
-Корректировщик с Севера: Черт, я тащусь сюда на поезде для экспедиции только чтобы потерять свою цель, а теперь эти придурки пытаются взорвать мои барабанные перепонки. Отлично, просто замечательно. Я в восторге.
+Корректировщик с Севера: Проклятье, я тащусь сюда на поезде для экспедиции только чтобы потерять свою цель, а теперь эти придурки пытаются взорвать мои барабанные перепонки. Отлично, просто замечательно. Я в восторге.
 
 # Original: G-guys, is it that obvious that we've never been on a WARP train before?
-Родион: Р-ребята, неужели так очевидно, что мы никогда не были в ВАРП поезде?
+Родион: Р-ребята, неужели так очевидно, что мы никогда не были в WARP поезде?
 
 # Original: And the ticket fee came straight out of my damn pocket!
-Корректировщик с Севера: И плата за билет вышла прямо из моего кармана!
+Корректировщик с Севера: И плата за билет взымается из моего гребаного кармана!
 
 # Original: Woah... Watch out, big fella... Someone might get seriously hurt if you keep swinging those four arms around. Each holding a weapon, to boot...
-Грегор: Воу... Осторожнее, здоровяк... Кто-нибудь может серьезно пострадать, если ты продолжишь размахивать этими четырьмя руками. К тому же, каждая держит оружие...
+Грегор: Воу... Осторожнее, мужик... Кто-нибудь может серьезно пострадать, если ты продолжишь размахивать этими четырьмя руками. К тому же, каждая держит оружие...
 
 # Original: P-prithee, wilt thou stand still for but a moment to satisfy a few inquiries of mine regarding thy outfit? Ooh, yes, yes!! Stand in absolute stillness for five minutes, and I—
-Дон Кихот: П-прошу тебя, не соизволишь ли ты постоять неподвижно на мгновение, дабы удовлетворить несколько моих вопросов касательно твоего наряда? О, да, да!! Стой в абсолютной неподвижности пять минут, и я—
+Дон Кихот: П-прошу тебя, не соизволишь ли ты постоять неподвижно на мгновение, дабы удовлетворить несколько моих запросов касательно твоего наряда? О, да, да!! Стой в абсолютной неподвижности пять минут, и я—
 
 # Original: Seriously?!!!
 Корректировщик с Севера: Серьезно?!!!
 
 # Original: The Fixer, with a particularly impressive set of prosthetic arms, spent a few minutes venting several of his numerous grievances at us before storming off to a different platform.
-Рассказчик: Корректировщик с особенно впечатляющим набором протезов рук несколько минут изливал на нас множество своих многочисленных жалоб, прежде чем умчаться на другую платформу.
+Рассказчик: Корректировщик с впечатляющим набором протезированных рук несколько минут изливал на нас множество своих многочисленные недовольства, прежде чем умчаться на другую платформу.
 
 # Original: Ah, indeed... 'tis grand, this City of sundry odd personalities...
 Дон Кихот: Ах, воистину... сей Град полон разнообразных причудливых личностей...
