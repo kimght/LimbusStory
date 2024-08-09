@@ -131,7 +131,7 @@
 Донгбек: О чем вы там шепчетесь?
 
 # Original: You know, Dongbaek. Gap-ryong was thinking back to how we all managed to gather here at T Corp.
-Донран: Знаешь, Донгбек. Гап-рён вспоминал, как мы все оказались здесь в Т Корп.
+Донран: Знаешь, Донгбек. Гап-рён вспоминал, как мы все оказались здесь в Корп. T.
 
 # Original: That really bugs me... Oi, don't call me by that name.
 Хитклиф: Меня это реально бесит... Эй, не называй меня этим именем.

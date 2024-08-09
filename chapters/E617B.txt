@@ -206,7 +206,7 @@
 Данте: <Хорошо...>
 
 # Original: They don't call first class 'first class' for nothing, I guess... P Corp.'s way up there in the northernmost corner of the City, but this thing'll take us there in the blink of an eye, huh? That's one helluva timesaver.
-Грегор: Видимо, первый класс не зря называют "первым классом"... П Корп. находится далеко на самом северном краю Города, но эта штука доставит нас туда в мгновение ока, да? Вот это я понимаю экономия времени.
+Грегор: Видимо, первый класс не зря называют "первым классом"... Корп. P находится далеко на самом северном краю Города, но эта штука доставит нас туда в мгновение ока, да? Вот это я понимаю экономия времени.
 
 # Original: Hoohah! Hoohah! Hoohah! Prepare thyself, Rocinante!! Thus begins the long jaunt...
 Дон Кихот: Хооха! Хооха! Хооха! Приготовься, Росинант!! Так начинается долгое путешествие...
@@ -278,7 +278,7 @@
 Ишмаэль: О, кажется, мы скоро отправляемся.
 
 # Original: This is for WARP train PW-612 bound for P Corp. Boarding period is ending soon.
-Рассказчик: Это для ВАРП поезда PW-612, направляющегося в П Корп. Период посадки скоро заканчивается.
+Рассказчик: Это для ВАРП поезда PW-612, направляющегося в Корп. P Период посадки скоро заканчивается.
 
 # Original: The Sinners, who were either leisurely enjoying their complimentary snacks or taking a look around the first class car, suddenly became a lot busier.
 Рассказчик: Грешники, которые либо неторопливо наслаждались бесплатными закусками, либо осматривали вагон первого класса, внезапно засуетились.

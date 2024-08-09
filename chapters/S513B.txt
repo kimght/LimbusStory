@@ -41,7 +41,7 @@
 Пилот: Кхем, кхем...
 
 # Original: "Hey. I bet you guys are chaotically running around somewhere in U Corp. like headless chickens and messing everything up."
-Пилот: "Эй. Держу пари, вы, ребята, сейчас хаотично носитесь где-то в У Корп. как курицы без голов и всё портите."
+Пилот: "Эй. Держу пари, вы, ребята, сейчас хаотично носитесь где-то в Корп. U как курицы без голов и всё портите."
 
 # Original: ... Time for O.O.F.
 Рёшу: ... Время для В.Н.

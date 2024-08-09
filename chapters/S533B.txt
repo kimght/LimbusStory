@@ -119,7 +119,7 @@
 Рассказчик: Это было расстояние, через которое большинство людей даже не подумали бы прыгать, но...
 
 # Original: ... the figure leaped over from the skiff to the Lobotomy Corp. Branch gracefully and with agility.
-Рассказчик: ... фигура грациозно и ловко перепрыгнула с ялика на Филиал Лоботомической Корпорации.
+Рассказчик: ... фигура грациозно и ловко перепрыгнула с ялика на палубу Филиала Корпорации Лоботомия.
 
 # Original: The man from the Middle, who so far had appeared unassailable... stumbled, and fell to his knees. His shoulder was skewered.
 Рассказчик: Человек из Среднего Пальца, который до сих пор казался неприступным... споткнулся и упал на колени. Его плечо было пронзено.

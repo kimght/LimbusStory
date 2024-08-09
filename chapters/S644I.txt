@@ -11,7 +11,7 @@
 Хитклиф из Зеркального Мира: Гах...!
 
 # Original: Heathcliff the Erlking falls to his knees.
-Рассказчик: Хитклиф Эрлькёниг падает на колени.
+Рассказчик: Хитклиф-Эрлкинг падает на колени.
 
 # Original: We were less than ten paces from the rooftop; we had to stop him from going up the stairs no matter what.
 Рассказчик: Мы были меньше чем в десяти шагах от крыши; нам нужно было любой ценой остановить его, не дать ему подняться по лестнице.

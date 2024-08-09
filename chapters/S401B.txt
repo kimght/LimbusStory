@@ -38,7 +38,7 @@
 Рассказчик: И все же мы находимся в центре Гнезда.
 
 # Original: Weren’t Abnormalities… supposed to be confined within Lobotomy Corp’s branch facilities or dungeons?
-Рассказчик: Разве Аномалии… не должны были быть заключены в филиалах Lobotomy Corp или подземельях?
+Рассказчик: Разве Аномалии… не должны были быть заключены в филиалах Корпорации Лоботомия или подземельях?
 
 # Original: Meanwhile, the Abnormality pierced Yi Sang’s abdomen as I wondered.
 Рассказчик: Пока я размышлял, Аномалия пронзила живот И Сана.
@@ -77,22 +77,22 @@
 Вергилий: Как вы все знаете, Золотые Ветви – это относительно недавнее открытие.
 
 # Original: Fortunately, J Corp. and D Corp. didn’t have much interest when we visited their districts.
-Вергилий: К счастью, J Corp. и D Corp. не проявили особого интереса, когда мы посетили их районы.
+Вергилий: К счастью, Корп. J и Корп. D не проявили особого интереса, когда мы посетили их районы.
 
 # Original: That is why those facilities were populated by no more than Backstreets miscreants or ragtag Syndicates.
 Вергилий: Вот почему эти объекты были населены не более чем отбросами из Подворотен или разношерстными Синдикатами.
 
 # Original: However…There are Wings that have caught wind of their existence and value early, like K Corp, whose turf we’re in right now.
-Вергилий: Однако... Есть Крылья, которые рано узнали об их существовании и ценности, например, K Corp, на чьей территории мы сейчас находимся.
+Вергилий: Однако... Есть Крылья, которые рано узнали об их существовании и ценности, например, Корп. K, на чьей территории мы сейчас находимся.
 
 # Original: Hmm? But I thought we’d already taken the Golden Bough here in K Corp’s Nest?
-Грегор: Хмм? Но я думал, что мы уже забрали Золотую Ветвь здесь, в Гнезде K Corp?
+Грегор: Хмм? Но я думал, что мы уже забрали Золотую Ветвь здесь, в Гнезде Корп. K?
 
 # Original: I never said that there were any rules that say only one Bough may exist in a District.
 Вергилий: Я никогда не говорил, что существуют правила, по которым в Районе может быть только одна Ветвь.
 
 # Original: The distribution of Lobotomy Corp’s branch facilities is more complicated than you’d expect. They can be found everywhere… spread quite literally like tree branches.
-Вергилий: Распределение филиалов Lobotomy Corp сложнее, чем вы могли бы ожидать. Их можно найти повсюду... буквально разветвленных, как ветви дерева.
+Вергилий: Распределение филиалов Корпорации Лоботомия сложнее, чем вы могли бы ожидать. Их можно найти повсюду... буквально разветвленных, как ветви дерева.
 
 # Original: Like how one was connected to our estate’s basement…
 Синклер: Как тот, что был соединен с подвалом нашего поместья...
@@ -188,7 +188,7 @@
 Ишмаэль: Заблокирована?
 
 # Original: Strange that there’s a blocked road. This is in the middle of K Corp’s Nest, too; it’s unlikely that there’s a scene—
-Ишмаэль: Странно, что есть заблокированная дорога. Это же в центре Гнезда K Corp, маловероятно, что там—
+Ишмаэль: Странно, что есть заблокированная дорога. Это же в центре Гнезда Корп. K, маловероятно, что там—
 
 # Original: Before Ishmael could finish her sentence, a dull thud at the window interrupted her.
 Рассказчик: Прежде чем Ишмаэль успела закончить фразу, глухой удар в окно прервал ее.

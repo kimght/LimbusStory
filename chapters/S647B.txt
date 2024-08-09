@@ -1,5 +1,5 @@
 # Original: Erlking Heathcliff awaits us on the rooftop. Just as Faust expected, the powerful and oppressive energy that surrounded him had only grown more ferocious since our last encounter.
-Рассказчик: Эрлькёниг Хитклиф ждёт нас на крыше. Как и ожидал Фауст, мощная и угнетающая энергия, окружавшая его, стала ещё более свирепой с момента нашей последней встречи.
+Рассказчик: Хитклиф-Эрлкинг ждёт нас на крыше. Как и ожидал Фауст, мощная и угнетающая энергия, окружавшая его, стала ещё более свирепой с момента нашей последней встречи.
 
 # Original: This must be because of the Golden Bough and the 'pure' form of humanity.
 Рассказчик: Должно быть, это из-за Золотой Ветви и "чистой" формы человечества.

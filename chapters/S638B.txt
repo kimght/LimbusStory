@@ -143,10 +143,10 @@
 Данте: <Значит... им нет конца?>
 
 # Original: He is the conduit that has brought them all to this world. He leads this army at its vanguard, as its Erlkönig... or the Erlking.
-Фауст: Он является проводником, который привел их всех в этот мир. Он ведет эту армию в авангарде, как ее Эрлькёниг... или Король эльфов.
+Фауст: Он является проводником, который привел их всех в этот мир. Он ведет эту армию в авангарде, как ее Эрлькёниг... или Эрлкинг.
 
 # Original: This army will never stop until the Erlking's orders are withdrawn.
-Фауст: Эта армия не остановится, пока не будут отменены приказы Эрлькёнига.
+Фауст: Эта армия не остановится, пока не будут отменены приказы Эрлкинга.
 
 # Original: A brutal tempest... descends...
 Нелли: Жестокая буря... надвигается...

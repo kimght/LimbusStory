@@ -5,7 +5,7 @@
 Фауст: Данте. Наш главный приоритет должен быть...
 
 # Original: ... finding out who it was that showed the Erlking Heathcliff about Heathcliffs and Catherines in every world. The one who opened his eyes to the Mirror Worlds.
-Фауст: ... выяснить, кто показал Эрлькёнигу Хитклифу о Хитклифах и Кэтрин во всех мирах. Тот, кто открыл ему глаза на Зеркальные Миры.
+Фауст: ... выяснить, кто показал Хитклифу-Эрлкингу о Хитклифах и Кэтрин во всех мирах. Тот, кто открыл ему глаза на Зеркальные Миры.
 
 # Original: <... I see now. Faust, you only have the potential to know all things... not the knowledge of all things.>
 Данте: <... Теперь я понимаю. Фауст, у тебя есть только потенциал знать всё... но не само знание всего.>
@@ -23,7 +23,7 @@
 Ишмаэль: Так что практически наверняка был кто-то, действовавший за кулисами, подстрекая её...
 
 # Original: Indeed. Someone who handed the mirror to Catherine, leading her to create the laboratory. Someone who had to have invited Erlking Heathcliff to this manor.
-Фауст: Действительно. Кто-то, кто передал зеркало Кэтрин, побудив её создать лабораторию. Кто-то, кто должен был пригласить Эрлькёнига Хитклифа в это поместье.
+Фауст: Действительно. Кто-то, кто передал зеркало Кэтрин, побудив её создать лабораторию. Кто-то, кто должен был пригласить Хитклифа-Эрлкинга в это поместье.
 
 # Original: It must be someone close to Catherine. Someone who she heavily relied on.
 Мерсо: Это должен быть кто-то близкий к Кэтрин. Кто-то, на кого она сильно полагалась.
@@ -92,7 +92,7 @@
 Хитклиф из Зеркального Мира: Не спрашивай меня почему, ответ вполне очевиден. Потому что мы оба устали терпеть!
 
 # Original: Erlking Heathcliff, now freed by Nelly's hand...
-Рассказчик: Эрлькёниг Хитклиф, теперь освобождённый рукой Нелли...
+Рассказчик: Хитклиф-Эрлкинг, теперь освобождённый рукой Нелли...
 
 # Original: <NO!>
 Данте: <НЕТ!>

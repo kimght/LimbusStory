@@ -56,7 +56,7 @@
 Хитклиф: ... потому что я наконец понял кое-что.
 
 # Original: ... So Linton will be made quite affluent soon. If I were to marry him... I shall be the greatest inventor of the neighborhood, no? Perhaps I shall be awarded the 'Inventor of the Year' award from T Corp!
-Кэтрин: ... Так что Линтон скоро станет весьма состоятельным. Если я выйду за него замуж... Я стану величайшим изобретателем в округе, не так ли? Возможно, я даже получу награду "Изобретатель года" от T Corp!
+Кэтрин: ... Так что Линтон скоро станет весьма состоятельным. Если я выйду за него замуж... Я стану величайшим изобретателем в округе, не так ли? Возможно, я даже получу награду "Изобретатель года" от Корп. Т!
 
 # Original: Then... what of Heathcliff, Miss Catherine?
 Нелли: Тогда... что насчёт Хитклифа, мисс Кэтрин?

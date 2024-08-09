@@ -98,7 +98,7 @@
 Рассказчик: Остался лишь странный поперечный срез.
 
 # Original: It's U Corp.'s Singularity, the resonance tuning fork.
-Ишмаэль: Это Сингулярность U Corp., резонансный камертон.
+Ишмаэль: Это Сингулярность Корп. U, резонансный камертон.
 
 # Original: Ships operating in the Great Lake can merge and separate when needed. As though they’ve always been a single vessel or as though they’ve never been parts of the same ship.
 Ишмаэль: Корабли, работающие в Великом Озере, могут сливаться и разделяться при необходимости. Как будто они всегда были единым судном или как будто никогда не были частями одного корабля.
@@ -140,7 +140,7 @@
 Рассказчик: Удручённая и с опущенными плечами, Отис направилась в каюты корабля (бывшие автобусные отсеки).
 
 # Original: Our destination is near. Welcome to one of the Five Great Ports of U Corp., the Marlin Port.
-Фауст: Наш пункт назначения близко. Добро пожаловать в один из Пяти Великих Портов U Corp., Порт Марлин.
+Фауст: Наш пункт назначения близко. Добро пожаловать в один из Пяти Великих Портов Корп. U, Порт Марлин.
 
 # Original: Faust's voice was dry and emotionless, as though what had just happened didn't affect her one bit.
 Рассказчик: Голос Фауста был сухим и бесэмоциональным, словно то, что только что произошло, никак её не затронуло.

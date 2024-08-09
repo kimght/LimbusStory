@@ -8,7 +8,7 @@
 Ишмаэль: Это "Кит Пористой Руки"... Я... очень надеялась, что мы его не встретим...
 
 # Original: <Is that... one of the Whales they were talking about at U Corp.?>
-Данте: <Это... один из тех Китов, о которых говорили в U Corp.?>
+Данте: <Это... один из тех Китов, о которых говорили в Корп. U?>
 
 # Original: Do Mermaids raid ships, too...? I read about them once as a child, but these don't look anything like how they did in the books...
 Синклер: Русалки тоже нападают на корабли...? Я читал о них в детстве, но они совсем не похожи на тех, что были в книгах...
@@ -23,7 +23,7 @@
 Родион: Вергилий... может, ты наконец-то нам поможешь?
 
 # Original: Really? That's the guy who practically spectated like a bystander when we got slaughtered back at K Corp. He didn't even blink.
-Грегор: Правда? Это тот самый парень, который практически наблюдал со стороны, когда нас убивали в K Corp. Он даже глазом не моргнул.
+Грегор: Правда? Это тот самый парень, который практически наблюдал со стороны, когда нас убивали в Корп. K. Он даже глазом не моргнул.
 
 # Original: Ah, he did wave at us, though! But I couldn't wave back because my wrists were getting snapped in half!
 Хон Лу: Ах, но он нам помахал! Правда, я не мог помахать в ответ, потому что мне ломали запястья!

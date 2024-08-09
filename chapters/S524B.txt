@@ -2,7 +2,7 @@
 Вергилий: А... Вот оно.
 
 # Original: Our destination, the Lobotomy Corp. Branch of U Corp.
-Вергилий: Наша цель, филиал Лоботомической Корпорации U Corp.
+Вергилий: Наша цель, филиал Корпорации Лоботомия в Корп. U.
 
 # Original: You think they're still there...? The survivors Pilot mentioned?
 Синклер: Как думаешь, они все еще там...? Выжившие, о которых говорил Пилот?
@@ -20,7 +20,7 @@
 Рассказчик: Все Грешники, кроме Рёшу, замерли.
 
 # Original: That's... the Lobotomy Corp. Branch...?
-Грегор: Это... филиал Лоботомической Корпорации...?
+Грегор: Это... филиал Корпорации Лоботомия...?
 
 # Original: We are as close as it is physically possible to be to the center of the area delineated by the coordinates. The structure's size and appearance match the intel we received as well.
 Фауст: Мы находимся настолько близко к центру области, обозначенной координатами, насколько это физически возможно. Размер и внешний вид структуры также соответствуют полученным нами разведданным.
@@ -35,13 +35,13 @@
 Рассказчик: Надежда на то, что в этой структуре могут быть выжившие, была слишком оптимистичной для того, что предстало перед нами.
 
 # Original: I observe the Lobotomy Corp. logo between the white materials.
-Мерсо: Я наблюдаю логотип Лоботомической Корпорации среди белых материалов.
+Мерсо: Я наблюдаю логотип Корпорации Лоботомия среди белых материалов.
 
 # Original: So that's... really...
 Родион: Так это... действительно...
 
 # Original: Only the smeared logo of the Lobotomy Corp. Branch glistened amidst mounds of pallid, blasphemous white. This was the undeniable reality we found ourselves in.
-Рассказчик: Только размазанный логотип филиала Лоботомической Корпорации поблескивал среди куч бледной, богохульной белизны. Это была неоспоримая реальность, в которой мы оказались.
+Рассказчик: Только размазанный логотип филиала Корпорации Лоботомия поблескивал среди куч бледной, богохульной белизны. Это была неоспоримая реальность, в которой мы оказались.
 
 # Original: What the hell happened here...?
 Грегор: Какого черта здесь произошло...?
@@ -56,10 +56,10 @@
 И Сан: Это зрелище пробуждает в моей памяти воспоминания о ранних днях этой компании. Способ, которым органические ткани... наклеены на стены, весьма напоминает тот опыт.
 
 # Original: Eugh... Back at the D Corp. Branch, right? I hope there's no poison gas trap or anything like that in here...
-Родион: Ух... В филиале D Corp., верно? Надеюсь, здесь нет никаких ловушек с ядовитым газом или чего-то подобного...
+Родион: Ух... В филиале Корп. D, верно? Надеюсь, здесь нет никаких ловушек с ядовитым газом или чего-то подобного...
 
 # Original: At D Corp., there was a traitor in our midst. Thus, it would be false equivalency to use that experience to gauge the intensity of this mission.
-Мерсо: В D Corp. среди нас был предатель. Следовательно, было бы неверным сравнением использовать тот опыт для оценки интенсивности этой миссии.
+Мерсо: В Корп. D среди нас был предатель. Следовательно, было бы неверным сравнением использовать тот опыт для оценки интенсивности этой миссии.
 
 # Original: Yeah, I... don't think it'll be much better here... if not worse.
 Грегор: Да, я... не думаю, что здесь будет намного лучше... если не хуже.
@@ -74,7 +74,7 @@
 Данте: <Так что Бедствие было...>
 
 # Original: The Calamity that Pilot mentioned didn't destroy the Lobotomy Corp. Branch.
-Рассказчик: Бедствие, о котором упоминал Пилот, не уничтожило филиал Лоботомической Корпорации.
+Рассказчик: Бедствие, о котором упоминал Пилот, не уничтожило филиал Корпорации Лоботомия.
 
 # Original: It transformed this place into something uncanny. Something so grotesque that total obliteration would've been preferable to whatever happened here.
 Рассказчик: Оно превратило это место во что-то жуткое. Во что-то настолько гротескное, что полное уничтожение было бы предпочтительнее того, что здесь произошло.
@@ -98,7 +98,7 @@
 Вергилий: И сейчас пришло время грести в руины, оставленные Бедствием.
 
 # Original: Take the skiff to the Lobotomy Corp. Branch. It's on the Lake adjacent to this one.
-Вергилий: Отправляйтесь на шлюпке к филиалу Лоботомической Корпорации. Он находится на Озере, прилегающем к этому.
+Вергилий: Отправляйтесь на шлюпке к филиалу Корпорации Лоботомия. Он находится на Озере, прилегающем к этому.
 
 # Original: I'll be keeping my distance and watching from this Lake, just in case of an emergency.
 Вергилий: Я буду держаться на расстоянии и наблюдать с этого Озера, на случай чрезвычайной ситуации.
@@ -122,7 +122,7 @@
 Родион: Мм, я все еще не доверяю этой посудине... Она слишком маленькая.
 
 # Original: The small engine on the skiff revved gently, and our short, sputtering journey to the Lobotomy Corp. Branch began.
-Рассказчик: Маленький двигатель шлюпки мягко зарокотал, и наше короткое, прерывистое путешествие к филиалу Лоботомической Корпорации началось.
+Рассказчик: Маленький двигатель шлюпки мягко зарокотал, и наше короткое, прерывистое путешествие к филиалу Корпорации Лоботомия началось.
 
 # Original: Are Lakes usually this foggy? The Lake earlier was pretty misty, too...
 Синклер: Озера обычно такие туманные? Предыдущее Озеро тоже было довольно мглистым...
@@ -134,7 +134,7 @@
 Рассказчик: Среди Грешников нарастало чувство тревоги...
 
 # Original: ... as we climbed the pale membrane-enveloped stairs leading up to the Lobotomy Corp. Branch.
-Рассказчик: ... когда мы поднимались по бледным, покрытым мембраной ступеням, ведущим к филиалу Лоботомической Корпорации.
+Рассказчик: ... когда мы поднимались по бледным, покрытым мембраной ступеням, ведущим к филиалу Корпорации Лоботомия.
 
 # Original: Hey, Dante? Can you... sense it? The Golden Bough?
 Родион: Эй, Данте? Ты... чувствуешь это? Золотую Ветвь?

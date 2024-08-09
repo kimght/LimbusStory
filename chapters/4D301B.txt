@@ -53,7 +53,7 @@
 Сан И: Тогда... позволь ему это сделать. Ты можешь быть в центре внимания, пока стоишь рядом с ним.
 
 # Original: Right now, N Corp's director has been trying to form a new League of Nine with you, Gubo, and Aseah.
-Сан И: Сейчас директор N Corp пытается сформировать новую Лигу Девяти с тобой, Губо и Асеа.
+Сан И: Сейчас директор Корп. N пытается сформировать новую Лигу Девяти с тобой, Губо и Асеа.
 
 # Original: I cannot bring myself to call that organization the League when its roots are entirely different. It has simply borrowed the name that will have to be returned one day.
 И Сан: Я не могу заставить себя называть эту организацию Лигой, когда ее корни совершенно иные. Она просто позаимствовала имя, которое однажды придется вернуть.

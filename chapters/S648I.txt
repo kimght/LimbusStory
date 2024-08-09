@@ -5,7 +5,7 @@
 Данте: <Что с ними будет?>
 
 # Original: Erlking Heathcliff, once he kills Heathcliff of this world for good... will leap over to other worlds to slay other versions of Heathcliff.
-Фауст: Эрлькёниг Хитклиф, как только окончательно убьет Хитклифа этого мира... перепрыгнет в другие миры, чтобы убить другие версии Хитклифа.
+Фауст: Хитклиф-Эрлкинг, как только окончательно убьет Хитклифа этого мира... перепрыгнет в другие миры, чтобы убить другие версии Хитклифа.
 
 # Original: If Catherine's summoning succeeds... she will become another Catherine who leaps between every world, creating more Catherines like herself.
 Фауст: Если призыв Кэтрин удастся... она станет другой Кэтрин, которая прыгает между всеми мирами, создавая больше Кэтрин, подобных себе.

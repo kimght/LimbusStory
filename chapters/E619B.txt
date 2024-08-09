@@ -101,10 +101,10 @@
 Рассказчик: Фауст прочистила горло кашлем, прежде чем продолжить.
 
 # Original: By A Corp.'s standard time scale, approximately three days have passed since our departure.
-Фауст: По стандартной шкале времени A Corp. прошло примерно три дня с момента нашего отправления.
+Фауст: По стандартной шкале времени Корп. A. прошло примерно три дня с момента нашего отправления.
 
 # Original: As per the contract between Limbus Company and W Corp., I acquired the master keycard placed inside my capsule and adjusted the hatch settings to open automatically in three days.
-Фауст: Согласно контракту между Компанией Лимбус и W Corp., я получила мастер-карту, помещенную внутрь моей капсулы, и настроила люк так, чтобы он автоматически открылся через три дня.
+Фауст: Согласно контракту между Компанией Лимбус и Корп. W., я получила мастер-карту, помещенную внутрь моей капсулы, и настроила люк так, чтобы он автоматически открылся через три дня.
 
 # Original: Three days, huh...
 Грегор: Три дня, значит...
@@ -113,16 +113,16 @@
 Синклер: Такое чувство, что я просто моргнул, и... полагаю, это и есть гибернация.
 
 # Original: As you were all informed prior to boarding, there is no way for the economy class passengers to enter the first class car; that is why this place has remained untouched.
-Фауст: Как вам всем сообщили перед посадкой, у пассажиров экономического класса нет возможности войти в вагон первого класса; именно поэтому это место осталось нетронутым.
+Фауст: Как вам всем сообщили перед посадкой, у пассажиров эконом-класса нет возможности войти в вагон первого класса; именно поэтому это место осталось нетронутым.
 
 # Original: However, cross-referencing my own deductions and W Corp.'s rather fragmentary explanations, I can assume that 'the situation' is currently under progress in the economy class cars.
-Фауст: Однако, сопоставляя мои собственные выводы и довольно фрагментарные объяснения W Corp., я могу предположить, что "ситуация" в настоящее время развивается в вагонах экономического класса.
+Фауст: Однако, сопоставляя мои собственные выводы и довольно фрагментарные объяснения Корп. W., я могу предположить, что "ситуация" в настоящее время развивается в вагонах эконом-класса.
 
 # Original: The uh... the part where they thrash the shite out of one another, tearin' their limbs off, all that mess?
 Хитклиф: Эта, ну... часть, где они колошматят друг друга, отрывая конечности, вся эта срань?
 
 # Original: No, I doubt that... I don't think it gets that bad in just three days. Besides, that's supposed to be business as usual for W Corp., right? There must be something else that's out of the ordinary that they want us to deal with.
-Ишмаэль: Нет, я сомневаюсь... Не думаю, что всё становится настолько плохо всего за три дня. Кроме того, это должно быть обычным делом для W Corp., верно? Должно быть что-то ещё необычное, с чем они хотят, чтобы мы разобрались.
+Ишмаэль: Нет, я сомневаюсь... Не думаю, что всё становится настолько плохо всего за три дня. Кроме того, это должно быть обычным делом для Корп. W., верно? Должно быть что-то ещё необычное, с чем они хотят, чтобы мы разобрались.
 
 # Original: Precisely. In my opinion, it is—
 Фауст: Именно. По моему мнению, это—

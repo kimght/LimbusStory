@@ -59,7 +59,7 @@
 Ахав: Но вы прибыли, идеально вписавшись в этот головоломный пазл, словно сама судьба предначертала это. Судьба – вещь капризная, не так ли?
 
 # Original: Ms. Ahab... must be referring to the Abnormalities that were swallowed alongside the Lobotomy Corp. Branch.
-Фауст: Госпожа Ахав... должно быть, имеет в виду Аномалии, которые были проглочены вместе с филиалом Лоботомической Корпорации.
+Фауст: Госпожа Ахав... должно быть, имеет в виду Аномалии, которые были проглочены вместе с филиалом Корпорации Лоботомия.
 
 # Original: So you know something about those odd creatures. Indeed, our encounter was ordained by fate! The very destiny that leads me to the heart of the Whale!
 Ахав: Значит, вы что-то знаете об этих странных существах. Воистину, наша встреча была предначертана судьбой! Той самой судьбой, что ведёт меня к сердцу Кита!

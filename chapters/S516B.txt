@@ -1,5 +1,5 @@
 # Original: So uh, Ishmael... This Lobotomy Corp. Branch is still a ways away. Why don't you rest up for a bit while you can? That's what we always do, anyway.
-Грегор: Так, э-э, Ишмаэль... До этого филиала Лоботомической Корпорации еще далеко. Почему бы тебе немного не отдохнуть, пока есть возможность? Мы всегда так делаем.
+Грегор: Так, э-э, Ишмаэль... До этого филиала Корпорации Лоботомия еще далеко. Почему бы тебе немного не отдохнуть, пока есть возможность? Мы всегда так делаем.
 
 # Original: Or at least let me take the next shift. I've done my fair share of night... yawn... watches.
 Грегор: Или хотя бы позволь мне взять следующую смену. У меня немалый опыт ночных... *зевает*... дежурств.

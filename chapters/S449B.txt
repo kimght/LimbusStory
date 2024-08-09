@@ -35,7 +35,7 @@
 Рассказчик: Их органы или части тела были сильно повреждены; это можно описать только как "воскрешение".
 
 # Original: Huh, I've seen some stuff, but bringing people back from the dead... sounds too implausible. Even K Corp's HP ampules couldn't do this much, right?
-Грегор: Хм, я повидал всякое, но возвращение людей из мёртвых... звучит слишком невероятно. Даже ампулы HP от K Corp не могли сделать столько, верно?
+Грегор: Хм, я повидал всякое, но возвращение людей из мёртвых... звучит слишком невероятно. Даже ампулы HP от Корп. K не могли сделать столько, верно?
 
 # Original: It's unlikely that there was absolutely no technology or Singularity capable of complete revival at some point.
 Отис: Маловероятно, что в какой-то момент не существовало абсолютно никакой технологии или Сингулярности, способной на полное возрождение.

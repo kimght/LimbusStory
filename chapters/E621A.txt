@@ -107,7 +107,7 @@
 Родион: А? Есть что-то ещё, что нам нужно сделать, кроме как надрать задницы всему, что встанет у нас на пути?
 
 # Original: That will not change, no. However, what I am about to share will give you a better understanding of the purpose behind W Corp.'s contract, and provide us with the possible means of finding the method by which we may complete it.
-Фауст: Это не изменится, нет. Однако то, чем я собираюсь поделиться, даст вам лучшее понимание цели контракта W Corp. и предоставит нам возможные способы найти метод, которым мы сможем его выполнить.
+Фауст: Это не изменится, нет. Однако то, чем я собираюсь поделиться, даст вам лучшее понимание цели контракта Корп. W и предоставит нам возможные способы найти метод, которым мы сможем его выполнить.
 
 # Original: It is of high likelihood that the entity behind the incidents on this train, and by extension, every incident of the same nature that has occurred in previous WARP train trips...
 Фауст: С высокой вероятностью, сущность, стоящая за инцидентами в этом поезде, и, соответственно, за каждым инцидентом такого же характера, который произошёл в предыдущих поездках ВАРП поездов...

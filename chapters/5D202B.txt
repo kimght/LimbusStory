@@ -2,7 +2,7 @@
 Квиквег: Это. Не Русалка. Не Кит. Монстр из других Окраин?
 
 # Original: Their official denomination is 'Abnormalities'. They were once contained within the Lobotomy Corp. Branch, but the Whale has devoured them.
-Фауст: Их официальное название - "Аномалии". Раньше они содержались в филиале Лоботомической Корпорации, но Кит их поглотил.
+Фауст: Их официальное название - "Аномалии". Раньше они содержались в филиале Корпорации Лоботомия, но Кит их поглотил.
 
 # Original: I saw similar things before. But not Abnormality. Different.
 Квиквег: Я видела похожее раньше. Но не Аномалия. Другое.

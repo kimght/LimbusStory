@@ -173,7 +173,7 @@
 Фауст: Если говорить просто, мы проведём время в пространстве, отделённом от поезда.
 
 # Original: The train should be arriving at its destination in approximately ten seconds, going by the A Corp. time scale. All we must do is to remain somewhere in our original dimension for that duration.
-Фауст: Поезд должен прибыть к месту назначения примерно через десять секунд по шкале времени A Corp. Всё, что нам нужно сделать, это оставаться где-то в нашем исходном измерении в течение этого времени.
+Фауст: Поезд должен прибыть к месту назначения примерно через десять секунд по шкале времени Корп. A. Всё, что нам нужно сделать, это оставаться где-то в нашем исходном измерении в течение этого времени.
 
 # Original: And with that, Faust came to a sudden stop in the middle of one of the corridors.
 Рассказчик: И с этими словами Фауст внезапно остановилась посреди одного из коридоров.
@@ -245,7 +245,7 @@
 Агент по уборке: В-воу, вы, ребята, в порядке? Как эти пассажиры...?
 
 # Original: We were so happy to be done with this whole ordeal, that even the W Corp. Cleanup Agents in the middle of a cleanup mission looked downright hospitable.
-Рассказчик: Мы были так счастливы, что всё это закончилось, что даже Агенты по уборке W Corp. посреди миссии по уборке выглядели чрезвычайно гостеприимными.
+Рассказчик: Мы были так счастливы, что всё это закончилось, что даже Агенты Зачистки Корп. W. посреди миссии по уборке выглядели чрезвычайно гостеприимными.
 
 # Original: We are employees of Limbus Company. We boarded the WARP train at the behest of your employer.
 Фауст: Мы сотрудники Компании Лимбус. Мы сели на ВАРП поезд по просьбе вашего работодателя.
@@ -299,7 +299,7 @@
 Вергилий: ... Понятно. Я выслушаю подробности инцидента в автобусе, когда мы снова будем в пути.
 
 # Original: Understood. Any and all relevant reports will be sent to W Corp. via LCCA, and...
-Фауст: Понятно. Все соответствующие отчёты будут отправлены в W Corp. через LCCA, и...
+Фауст: Понятно. Все соответствующие отчёты будут отправлены в Корп. W через LCCA, и...
 
 # Original: Vergilius was already there when we arrived. He was sharing a conversation with Faust about what went down inside that the train with a serious expression.
 Рассказчик: Вергилий уже был там, когда мы прибыли. Он серьёзно беседовал с Фауст о том, что произошло внутри поезда.

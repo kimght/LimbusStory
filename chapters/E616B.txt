@@ -199,7 +199,7 @@
 И Сан: Забота компании о нашем благополучии непривычна, но приветствуется. Предоставление такой роскоши просто для нашего комфорта... такое случается довольно редко.
 
 # Original: Right? I honestly thought they were going to slip just the guide and Charon into the first class seats and ship the rest of us in the economy cars.
-Родион: Верно? Честно говоря, я думала, что они просто посадят гида и Харона на места первого класса, а остальных отправят в экономический класс.
+Родион: Верно? Честно говоря, я думала, что они просто посадят гида и Харона на места первого класса, а остальных отправят в эконом-класс.
 
 # Original: Hmph, this seems like an unnecessary luxury. They should have saved their budget and given only the Executive Manager and their loyal advisor access to those seats.
 Отис: Хмф, это кажется ненужной роскошью. Им следовало бы сэкономить свой бюджет и предоставить доступ к этим местам только Исполнительному Менеджеру и его верному советнику.
@@ -211,7 +211,7 @@
 Синклер: Верно...?! Я знаю, что это первый класс и все такое, но ВАРП поезда просто жуткие. Я знал, что ты тоже будешь беспокоиться о—
 
 # Original: For example, economy passengers are going to have a hard time getting into a first class car. If they can even attempt open it, I mean. I'm pretty sure the door separating the cars is ironclad.
-Ишмаэль: Например, пассажирам экономического класса будет трудно попасть в вагон первого класса. Если они вообще смогут попытаться открыть его, я имею в виду. Я почти уверена, что дверь, разделяющая вагоны, бронированная.
+Ишмаэль: Например, пассажирам эконом-класса будет трудно попасть в вагон первого класса. Если они вообще смогут попытаться открыть его, я имею в виду. Я почти уверена, что дверь, разделяющая вагоны, бронированная.
 
 # Original: Ishmael, who'd been holding that first class promotional pamphlet in her hands for a while, was chattering on with fire in her eyes.
 Рассказчик: Ишмаэль, которая уже некоторое время держала в руках рекламный буклет первого класса, болтала с огнем в глазах.

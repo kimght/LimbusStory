@@ -1,5 +1,5 @@
 # Original: Nelly was right. Heathcliff the Erlking had already disappeared into the rooftops.
-Рассказчик: Нелли была права. Хитклиф-Эрлькёниг уже исчез на крыше.
+Рассказчик: Нелли была права. Хитклиф-Эрлкинг уже исчез на крыше.
 
 # Original: The only chance Vergilius gave us... the awakening I managed with my clock...
 Рассказчик: Единственный шанс, который нам дал Вергилий... пробуждение, которого я добился с помощью своих часов...
@@ -56,7 +56,7 @@
 Нелли: Жалкий... не правда ли? Он бы ни капли не изменился, сколько бы времени ни провёл в вашей компании.
 
 # Original: Look at Heathcliff the Erlking. Heathcliff the devil.
-Нелли: Посмотрите на Хитклифа-Эрлькёнига. Хитклифа-дьявола.
+Нелли: Посмотрите на Хитклифа-Эрлкинга. Хитклифа-дьявола.
 
 # Original: The very same end that awaits Heathcliff.
 Нелли: Тот же самый конец, который ждёт Хитклифа.
@@ -221,7 +221,7 @@
 Нелли: ... Ты... что?
 
 # Original: Heathcliff the Erlking will not be my future.
-Хитклиф: Хитклиф-Эрлькёниг не станет моим будущим.
+Хитклиф: Хитклиф-Эрлкинг не станет моим будущим.
 
 # Original: You, him... you both had access to every knowledge, but made the same choices anyway.
 Хитклиф: Ты, он... вы оба имели доступ ко всем знаниям, но всё равно сделали те же выборы.

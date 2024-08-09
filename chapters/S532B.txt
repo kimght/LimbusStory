@@ -203,7 +203,7 @@
 Рикардо: Когда-то был купон. Купон на получение желанного персонального ухода за волосами...
 
 # Original: ... from the director of a top-level luxury hair salon on one of the richest ports of U Corp., the Stingray Portship! Continuously, for FIVE HOURS!
-Рикардо: ... от директора элитного люксового салона на одном из самых богатых портов U Corp., Портшипе Скат! Непрерывно в течение ПЯТИ ЧАСОВ!
+Рикардо: ... от директора элитного люксового салона на одном из самых богатых портов Корп. U, порта-корабля Скат! Непрерывно в течение ПЯТИ ЧАСОВ!
 
 # Original: It is said that, with that coupon, anyone could enter the world of the luscious! And anyone with a coupon had the privilege of an appointment-free visit!
 Рикардо: Говорят, что с этим купоном любой мог войти в мир пышности! И любой, у кого был купон, имел привилегию посещения без предварительной записи!

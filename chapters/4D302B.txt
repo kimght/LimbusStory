@@ -2,7 +2,7 @@
 Хон Лу: Интересно, что этот парень по имени Губо хотел сделать с зеркалом?
 
 # Original: What exactly N Corp. wished to do... I do not know in detail. I did not bother to ask.
-И Сан: Что именно хотела N Corp... Я не знаю в деталях. Я не стал спрашивать.
+И Сан: Что именно хотела Корп. N... Я не знаю в деталях. Я не стал спрашивать.
 
 # Original: However...
 И Сан: Однако...
@@ -119,7 +119,7 @@
 Данте: <Неужели сотрудники технологического агентства последовали за ним до самого конца?>
 
 # Original: It's implausible for employees of T Corp's tech agency to chase him into N Corp.
-Мерсо: Маловероятно, чтобы сотрудники технологического агентства T Corp преследовали его до N Corp.
+Мерсо: Маловероятно, чтобы сотрудники технологического агентства Корп. T преследовали его до Корп. N.
 
 # Original: Which suggests this is a foreign substance attempting to breach into the fathoms of ego.
 Мерсо: Это указывает на то, что это инородное вещество, пытающееся проникнуть в глубины эго.
