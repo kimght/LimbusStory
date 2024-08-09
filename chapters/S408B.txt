@@ -59,13 +59,13 @@
 Родион: Тогда, может, тебе стоило подать заявку~ Почему бы не попробовать?
 
 # Original: You’re joking, right, Rodion? Not everyone can join these companies. This kind of firm only accepts the very best of the elite.
-Ишмаэль: Ты же шутишь, правда, Родя? Не каждый может присоединиться к таким компаниям. Такие фирмы принимают только лучших из лучших.
+Измаил: Ты же шутишь, правда, Родя? Не каждый может присоединиться к таким компаниям. Такие фирмы принимают только лучших из лучших.
 
 # Original: Like Faust or Yi Sang, for example…
-Ишмаэль: Например, как Фауст или И Сан...
+Измаил: Например, как Фауст или И Сан...
 
 # Original: Ishmael’s remark gave me a good opportunity to bring up my earlier question.
-Рассказчик: Замечание Ишмаэль дало мне хорошую возможность поднять мой предыдущий вопрос.
+Рассказчик: Замечание Измаил дало мне хорошую возможность поднять мой предыдущий вопрос.
 
 # Original: <Yeah, why did you choose to join Limbus Company out of all the options you had? There must’ve been better places to shoot for.>
 Данте: <Да, почему вы выбрали Компанию Лимбус из всех вариантов, которые у вас были? Наверняка были места получше, куда можно было бы стремиться.>
@@ -95,7 +95,7 @@
 Данте: <......>
 
 # Original: It looks like Ishmael wasn’t exaggerating about the qualifications it takes to join this firm.
-Рассказчик: Похоже, Ишмаэль не преувеличивала насчет квалификации, необходимой для присоединения к этой фирме.
+Рассказчик: Похоже, Измаил не преувеличивала насчет квалификации, необходимой для присоединения к этой фирме.
 
 # Original: The laboratory was dominated by a stillness that could only be achieved with everyone in total focus.
 Рассказчик: В лаборатории царила тишина, которая могла быть достигнута только при полной концентрации всех присутствующих.
@@ -116,7 +116,7 @@
 Родион: Это потрясающе, Ишка, может, нам стоит уволиться и присоединиться сюда?
 
 # Original: Everyone can hear you, Rodya…
-Ишмаэль: Все тебя слышат, Родя...
+Измаил: Все тебя слышат, Родя...
 
 # Original: Rodion, the work contract says…
 Фауст: Родион, в трудовом договоре говорится...
@@ -296,13 +296,13 @@
 Донран: Мы ждем нового сотрудника, который займет это место.
 
 # Original: Oh… Is there an application guideline for the position, then? Where can I see it?
-Ишмаэль: О... Есть ли руководство по подаче заявки на эту должность? Где я могу его увидеть?
+Измаил: О... Есть ли руководство по подаче заявки на эту должность? Где я могу его увидеть?
 
 # Original: Ahem.
 Самджо: Кхм.
 
 # Original: Ishmael’s bright-eyed inquisition was interrupted by Samjo’s displeased utterance.
-Рассказчик: Яркий вопрос Ишмаэль был прерван недовольным восклицанием Самджо.
+Рассказчик: Яркий вопрос Измаил был прерван недовольным восклицанием Самджо.
 
 # Original: Oh dear, our Mr. Samjo is feeling all uncomfortable now. Shall we actually get to the point then, Samjo?
 Донран: О боже, нашему господину Самджо становится неудобно. Может, перейдем к сути дела, Самджо?
@@ -323,7 +323,7 @@
 Данте: <Контрактный Офис...? Я-я не знаю, что происходит... Действительно ли это должно быть так сложно?>
 
 # Original: In J Corp’s District, we couldn’t get the Golden Bough right away despite winning because we didn’t have anyone overseeing the deal.
-Ишмаэль: В Районе Корпорации J мы не смогли получить Золотую Ветвь сразу после победы, потому что у нас не было никого, кто бы наблюдал за сделкой.
+Измаил: В Районе Корпорации J мы не смогли получить Золотую Ветвь сразу после победы, потому что у нас не было никого, кто бы наблюдал за сделкой.
 
 # Original: Oh… That Ayuda from the Merry Archils? She started a fight even after Rodya won the game.
 Грегор: О... Эта Аюда из Веселых Архилов? Она начала драку даже после того, как Родя выиграла игру.
@@ -332,13 +332,13 @@
 Синклер: Это Аида из Лос Мариачис...
 
 # Original: That’s right. Instead of playing the role of the observer, she left us with no choice but to take the Bough with force.
-Ишмаэль: Верно. Вместо того чтобы выполнять роль наблюдателя, она не оставила нам выбора, кроме как забрать Ветвь силой.
+Измаил: Верно. Вместо того чтобы выполнять роль наблюдателя, она не оставила нам выбора, кроме как забрать Ветвь силой.
 
 # Original: Which is why it is safer to use the service of an Association or a Contract Office to stand as an observer or to notarize the contract even if it can be costly. That’s what Faust probably considered most carefully, I think.
-Ишмаэль: Вот почему безопаснее использовать услуги Ассоциации или Контрактного Офиса в качестве наблюдателя или для нотариального заверения контракта, даже если это может быть дорого. Думаю, именно это Фауст и учла наиболее тщательно.
+Измаил: Вот почему безопаснее использовать услуги Ассоциации или Контрактного Офиса в качестве наблюдателя или для нотариального заверения контракта, даже если это может быть дорого. Думаю, именно это Фауст и учла наиболее тщательно.
 
 # Original: Ishmael explained like it was common knowledge. I guess it’s something well-known among City folks…
-Рассказчик: Ишмаэль объяснила это как общеизвестный факт. Полагаю, это что-то хорошо известное среди жителей Города...
+Рассказчик: Измаил объяснила это как общеизвестный факт. Полагаю, это что-то хорошо известное среди жителей Города...
 
 # Original: This contract certainly favors our side.
 Фауст: Этот контракт определенно выгоден для нашей стороны.
@@ -356,7 +356,7 @@
 Грегор: Разве это не совпадение? Для нас это то же самое.
 
 # Original: Aren’t you supposed to be the last person to be ignorant of your secretary’s words…?
-Ишмаэль: Разве ты не должен быть последним человеком, который не понимает слова своего секретаря...?
+Измаил: Разве ты не должен быть последним человеком, который не понимает слова своего секретаря...?
 
 # Original: Aha, still, I guess making a contract with K Corp’s laboratory means we won’t be fighting against the Wing’s staff for a while.
 Хон Лу: Ага, все же, я думаю, заключение контракта с лабораторией Корпорации K означает, что мы некоторое время не будем сражаться с персоналом Крыла.

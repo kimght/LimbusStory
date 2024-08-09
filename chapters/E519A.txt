@@ -20,7 +20,7 @@
 Данте: <…Тик-так.>
 
 # Original: Very funny, Dante. You know we just barely survived a deadly encounter, right?
-Ишмаэль: Мы ещё от битвы не отошли, а вы тут уже глупо шутите, Данте.
+Измаил: Мы ещё от битвы не отошли, а вы тут уже глупо шутите, Данте.
 
 # Original: Well, she asked me to...
 Рассказчик: Но меня попросили ответить именно так…
@@ -303,16 +303,16 @@
 Рёшу: Сначала Средний, теперь Большой. Ху, хотела бы увидеть лица этих старпёров.
 
 # Original: I think he's telling us to get out of here before the thumb catches us red-handed...
-Ишмаэль: Разве нас не предупреждают <b>не</b> лезть на рожон…
+Измаил: Разве нас не предупреждают <b>не</b> лезть на рожон…
 
 # Original: Correction. Limbus Company was already on a crash course against the Thumb the moment we commenced this mission.
 Неразговорчивый сотрудник: Поправка. С момента решения о проведении этой миссии в компании «Лимбус» приняли, что идут против Большого пальца.
 
 # Original: ... That makes sense. It'll only be a matter of time before they put the pieces together and realize that we're involved in what happened.
-Ишмаэль: …Понятно. Со временем они всё равно поймут, кто в этом замешан.
+Измаил: …Понятно. Со временем они всё равно поймут, кто в этом замешан.
 
 # Original: Are you sure that we can handle not only the Middle... but also the Thumb?
-Ишмаэль: Разве это не плохо? Так открыто идти против Большого пальца…
+Измаил: Разве это не плохо? Так открыто идти против Большого пальца…
 
 # Original: ... Irrelevant.
 Неразговорчивый сотрудник: …Не важно.
@@ -357,7 +357,7 @@
 Родион: Фью, не думала, что встречу столько разных людей за такой короткий срок.
 
 # Original: Well, I'm pretty happy that I got to know more about the workings of this company.
-Ишмаэль: А я рада, что нам начинают раскрывать информацию о том, чем занимается эта компания.
+Измаил: А я рада, что нам начинают раскрывать информацию о том, чем занимается эта компания.
 
 # Original: Once we returned to the bus, the Sinners each began chattering away about what had just happened.
 Рассказчик: Только мы вернулись в автобус, как грешники начали делиться друг с другом мыслями и чувствами о произошедшем.

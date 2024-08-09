@@ -2,7 +2,7 @@
 Данте: <Так это были... русалки...>
 
 # Original: Yeah. Whoever sailed on this ship... they were probably too distracted by the party to realize that they broke a law of the Lake. So...
-Ишмаэль: Да. Те, кто плыл на этом корабле... вероятно, были слишком увлечены вечеринкой, чтобы понять, что нарушили закон Озера. Так что...
+Измаил: Да. Те, кто плыл на этом корабле... вероятно, были слишком увлечены вечеринкой, чтобы понять, что нарушили закон Озера. Так что...
 
 # Original: <So they ended up getting devoured by a Whale.>
 Данте: <Так они в итоге были поглощены Китом.>
@@ -11,16 +11,16 @@
 Данте: <А этот опустевший корабль... результат произошедшего.>
 
 # Original: Even if we stick to every single law of the Lake, depending on the type of its Waves, getting too close to a ship that broke the law could get us swept up in the aftermath.
-Ишмаэль: Даже если мы будем соблюдать каждый закон Озера, в зависимости от типа его Волн, слишком близкое приближение к кораблю, нарушившему закон, может втянуть нас в последствия.
+Измаил: Даже если мы будем соблюдать каждый закон Озера, в зависимости от типа его Волн, слишком близкое приближение к кораблю, нарушившему закон, может втянуть нас в последствия.
 
 # Original: Their single lapse of judgment led to this chilling catastrophe.
 Рассказчик: Их единственная ошибка в суждении привела к этой леденящей душу катастрофе.
 
 # Original: I remembered Ishmael looking into the Lake, muttering to herself. I also remembered the rough, biting words she threw at us.
-Рассказчик: Я вспомнил, как Ишмаэль смотрела в Озеро, бормоча что-то себе под нос. Я также вспомнил резкие, колкие слова, которые она бросала в нашу сторону.
+Рассказчик: Я вспомнил, как Измаил смотрела в Озеро, бормоча что-то себе под нос. Я также вспомнил резкие, колкие слова, которые она бросала в нашу сторону.
 
 # Original: This was the reality of the Great Lake that Ishmael survived before joining us.
-Рассказчик: Это была реальность Великого Озера, в которой Ишмаэль выживала до того, как присоединилась к нам.
+Рассказчик: Это была реальность Великого Озера, в которой Измаил выживала до того, как присоединилась к нам.
 
 # Original: A place where even the smallest mistake could mean total annihilation.
 Рассказчик: Место, где даже малейшая ошибка может означать полное уничтожение.
@@ -29,13 +29,13 @@
 Рассказчик: Место, где нужно постоянно бороться, чтобы выжить в ужасающей неизвестности.
 
 # Original: <So this was the kind of path Ishmael sailed before joining us...>
-Данте: <Так вот по какому пути плыла Ишмаэль до того, как присоединилась к нам...>
+Данте: <Так вот по какому пути плыла Измаил до того, как присоединилась к нам...>
 
 # Original: If only... If only I'd known... Then maybe I could've been more understanding of her.
 Рассказчик: Если бы только... Если бы я только знал... Тогда, возможно, я мог бы лучше её понять.
 
 # Original: I keep going back to my quarrel with Ishmael back at the Boatworks. I can't stop thinking about it.
-Рассказчик: Я всё время возвращаюсь мыслями к нашей ссоре с Ишмаэль в Верфи. Я не могу перестать думать об этом.
+Рассказчик: Я всё время возвращаюсь мыслями к нашей ссоре с Измаил в Верфи. Я не могу перестать думать об этом.
 
 # Original: We have dispatched the Mermaids that descended onto the deck, but lingering any longer may draw the rest of them to us.
 Отис: Мы справились с русалками, спустившимися на палубу, но если мы задержимся дольше, это может привлечь к нам остальных.
@@ -56,13 +56,13 @@
 Данте: <Я принял неверное решение. Мне не следовало действовать так опрометчиво.>
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: It's okay. At least we're still alive.
-Ишмаэль: Всё в порядке. По крайней мере, мы всё ещё живы.
+Измаил: Всё в порядке. По крайней мере, мы всё ещё живы.
 
 # Original: And that was that. Ishmael didn't say more.
-Рассказчик: На этом всё. Ишмаэль больше ничего не сказала.
+Рассказчик: На этом всё. Измаил больше ничего не сказала.
 
 # Original: It is fortunate, however, that we procured ourselves some ration for the journey ahead.
 И Сан: Однако нам повезло, что мы раздобыли припасы для предстоящего путешествия.
@@ -80,10 +80,10 @@
 Грегор: ... Филиалом Корпорации Лоботомия в Районе 21.
 
 # Original: ... I'm going out for some air.
-Ишмаэль: ... Я выйду подышать воздухом.
+Измаил: ... Я выйду подышать воздухом.
 
 # Original: Ishmael slowly returned to the spot by the ship's railings where she stood muttering to herself.
-Рассказчик: Ишмаэль медленно вернулась к месту у перил корабля, где она стояла, бормоча себе под нос.
+Рассказчик: Измаил медленно вернулась к месту у перил корабля, где она стояла, бормоча себе под нос.
 
 # Original: For a moment, I wondered if I should follow her like I did earlier, but...
 Рассказчик: На мгновение я задумался, не последовать ли мне за ней, как раньше, но...
@@ -95,19 +95,19 @@
 Рассказчик: ... Но, возможно, ей хотелось побыть одной и подумать о чем-то. Я решил оставить её в покое.
 
 # Original: ... Get your shit together.
-Ишмаэль: ... Возьми себя в руки.
+Измаил: ... Возьми себя в руки.
 
 # Original: Bury your feelings from them.
-Ишмаэль: Скрой свои чувства от них.
+Измаил: Скрой свои чувства от них.
 
 # Original: I have a mission I must see through to the end—my one and only mission. I've sharpened my harpoon for that singular moment.
-Ишмаэль: У меня есть миссия, которую я должна довести до конца — моя единственная миссия. Я заострила свой гарпун для этого единственного момента.
+Измаил: У меня есть миссия, которую я должна довести до конца — моя единственная миссия. Я заострила свой гарпун для этого единственного момента.
 
 # Original: I... have to be colder. Harsher.
-Ишмаэль: Я... должна быть холоднее. Жёстче.
+Измаил: Я... должна быть холоднее. Жёстче.
 
 # Original: I have... a mission that I can't fail...
-Ишмаэль: У меня... есть миссия, которую я не могу провалить...
+Измаил: У меня... есть миссия, которую я не могу провалить...
 
 # Original: And if anything even dares to stand in my way, I'll...
-Ишмаэль: И если что-нибудь осмелится встать на моем пути, я...
+Измаил: И если что-нибудь осмелится встать на моем пути, я...

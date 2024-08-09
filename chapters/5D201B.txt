@@ -1,8 +1,8 @@
 # Original: Ishmael stares wordlessly at Queequeg.
-Рассказчик: Ишмаэль молча смотрит на Квиквег.
+Рассказчик: Измаил молча смотрит на Квиквег.
 
 # Original: I... I thought you... everyone... died.
-Ишмаэль: Я... я думала, ты... все... погибли.
+Измаил: Я... я думала, ты... все... погибли.
 
 # Original: Me too. Also thought you dead.
 Квиквег: Я тоже. Тоже думала, ты умерла.
@@ -17,7 +17,7 @@
 Квиквег: Потому что нам нужно забыть.
 
 # Original: Did you bury me... too?
-Ишмаэль: Ты... похоронила и меня тоже?
+Измаил: Ты... похоронила и меня тоже?
 
 # Original: I...
 Квиквег: Я...
@@ -29,19 +29,19 @@
 Квиквег: Это заставляет меня двигаться. Дышать. Бросать гарпуны.
 
 # Original: ... I thought you didn't like the outside world?
-Ишмаэль: ... Я думала, тебе не нравится внешний мир?
+Измаил: ... Я думала, тебе не нравится внешний мир?
 
 # Original: Sunset, always warm. Wherever it sets.
 Квиквег: Закат всегда теплый. Где бы он ни садился.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: <I'm hearing a terrifying cry... coming from far away...>
 Данте: <Я слышу ужасающий крик... доносящийся издалека...>
 
 # Original: It's the Mermaids' cry...
-Ишмаэль: Это крик Русалок...
+Измаил: Это крик Русалок...
 
 # Original: Our future. If we fail to escape.
 Квиквег: Наше будущее. Если не сбежим.
@@ -65,22 +65,22 @@
 Данте: <…!>
 
 # Original: I see another vision of Ishmael.
-Рассказчик: Я вижу ещё одно видение Ишмаэль.
+Рассказчик: Я вижу ещё одно видение Измаил.
 
 # Original: It's growing more and more frequent... Maybe it's the influence of the Golden Bough.
 Рассказчик: Они становятся всё чаще и чаще... Возможно, это влияние Золотой Ветви.
 
 # Original: Crying.
-Ишмаэль: Плач.
+Измаил: Плач.
 
 # Original: Every night, a terrifying cry echoes from the holds.
-Ишмаэль: Каждую ночь ужасающий крик эхом разносится из трюмов.
+Измаил: Каждую ночь ужасающий крик эхом разносится из трюмов.
 
 # Original: Pip, it's your turn to go down there.
 Старбак: Пип, твоя очередь спуститься туда.
 
 # Original: The Mermaids cried every single night. So, we had to lock them deep in the holds.
-Ишмаэль: Русалки кричали каждую ночь. Поэтому нам пришлось запереть их глубоко в трюмах.
+Измаил: Русалки кричали каждую ночь. Поэтому нам пришлось запереть их глубоко в трюмах.
 
 # Original: Pip doesn't wanna go down there... It's scary.
 Пип: Пип не хочет туда спускаться... Там страшно.
@@ -89,16 +89,16 @@
 Старбак: Это просто результат твоего жребия, Пип. Мне жаль, но... тебе придётся принять это.
 
 # Original: Isn't it weird, Queequeg...?
-Ишмаэль: Разве это не странно, Квиквег...?
+Измаил: Разве это не странно, Квиквег...?
 
 # Original: Why are we... doing any of this?
-Ишмаэль: Зачем мы... вообще всё это делаем?
+Измаил: Зачем мы... вообще всё это делаем?
 
 # Original: …….
 Квиквег: …….
 
 # Original: Ishmael. Steel yourself.
-Квиквег: Ишмаэль. Соберись.
+Квиквег: Измаил. Соберись.
 
 # Original: We'll see Pallid Whale. Soon.
 Квиквег: Скоро увидим Бледного Кита.
@@ -107,10 +107,10 @@
 Квиквег: Значит, всё это скоро закончится.
 
 # Original: Yeah. It'll all be over, soon...
-Ишмаэль: Да. Скоро всё закончится...
+Измаил: Да. Скоро всё закончится...
 
 # Original: So when this voyage is over...
-Ишмаэль: Так что когда это плавание закончится...
+Измаил: Так что когда это плавание закончится...
 
 # Original: What is this mess? Can you not even man your stations properly, you deckhands?
 Ахав: Что за беспорядок? Вы даже не можете нормально стоять на своих постах, матросы?
@@ -143,49 +143,49 @@
 Ахав: Это существо приведёт нас к Бледному Киту.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: That night, I snuck into Captain Ahab's quarters.
-Ишмаэль: В ту ночь я прокралась в каюту капитана Ахав.
+Измаил: В ту ночь я прокралась в каюту капитана Ахав.
 
 # Original: To enter the Captain's quarters, unauthorized, was like breaking a taboo. Every sailor knew that.
-Ишмаэль: Войти в каюту капитана без разрешения было подобно нарушению табу. Каждый моряк это знал.
+Измаил: Войти в каюту капитана без разрешения было подобно нарушению табу. Каждый моряк это знал.
 
 # Original: If I was caught... I would've had to accept whatever punishment they decided to levy upon me for committing a sin that may as well have been a mutiny.
-Ишмаэль: Если бы меня поймали... Мне пришлось бы принять любое наказание, которое они решили бы наложить на меня за совершение греха, равносильного мятежу.
+Измаил: Если бы меня поймали... Мне пришлось бы принять любое наказание, которое они решили бы наложить на меня за совершение греха, равносильного мятежу.
 
 # Original: But I don't know what I was thinking when I walked in there.
-Ишмаэль: Но я не знаю, о чём я думала, когда вошла туда.
+Измаил: Но я не знаю, о чём я думала, когда вошла туда.
 
 # Original: ...!
-Ишмаэль: ...!
+Измаил: ...!
 
 # Original: C-Captain Ahab... I...
-Ишмаэль: К-капитан Ахав... Я...
+Измаил: К-капитан Ахав... Я...
 
 # Original: …….
 Ахав: …….
 
 # Original: C-Captain?
-Ишмаэль: К-капитан?
+Измаил: К-капитан?
 
 # Original: The Captain's eyes were locked on the map of the Great Lake stuck to the ceiling of her quarters.
-Ишмаэль: Глаза Капитана были прикованы к карте Великого Озера, прикреплённой к потолку её каюты.
+Измаил: Глаза Капитана были прикованы к карте Великого Озера, прикреплённой к потолку её каюты.
 
 # Original: She did not stir.
-Ишмаэль: Она даже не шевельнулась.
+Измаил: Она даже не шевельнулась.
 
 # Original: I looked at this sight for a moment... before stumbling out of the Captain's quarters.
-Ишмаэль: Я смотрела на это зрелище мгновение... прежде чем выбежать из каюты Капитана.
+Измаил: Я смотрела на это зрелище мгновение... прежде чем выбежать из каюты Капитана.
 
 # Original: I had to.
-Ишмаэль: Я должна была.
+Измаил: Я должна была.
 
 # Original: So, you went into the Captain's quarters, huh?
 Старбак: Значит, ты заходила в каюту Капитана, да?
 
 # Original: M-mister Starbuck...
-Ишмаэль: М-мистер Старбак...
+Измаил: М-мистер Старбак...
 
 # Original: Captain never gets a proper shut-eye. Even when she sleeps, she sleeps with her eyes wide open.
 Старбак: Капитан никогда не спит нормально. Даже когда она спит, она спит с широко открытыми глазами.
@@ -197,10 +197,10 @@
 Старбак: Капитан не спит. Она бодрствует. Всегда.
 
 # Original: Yeah... on the Pequod, the Captain had a tight leash around us.
-Ишмаэль: Да... на "Пекоде" Капитан держала нас на коротком поводке.
+Измаил: Да... на "Пекоде" Капитан держала нас на коротком поводке.
 
 # Original: We were merely gasping on what little air she permitted us.
-Ишмаэль: Мы просто задыхались от того малого количества воздуха, которое она нам позволяла.
+Измаил: Мы просто задыхались от того малого количества воздуха, которое она нам позволяла.
 
 # Original: Go and get some rest. Like Captain said, that Whale's gotta be close.
 Старбак: Иди отдохни. Как сказала Капитан, этот Кит должен быть близко.

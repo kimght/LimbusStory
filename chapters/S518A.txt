@@ -2,10 +2,10 @@
 И Сан: Нет слов, чтобы верно описать это... существо.
 
 # Original: The unfathomable entities inhabiting the depths of the Lakes are called 'Whales'. And those that emerge from them are called 'Mermaids'.
-Ишмаэль: Непостижимые создания, обитающие в глубинах Озёр, называются "Китами". А те, что выходят из них, зовутся "Русалками".
+Измаил: Непостижимые создания, обитающие в глубинах Озёр, называются "Китами". А те, что выходят из них, зовутся "Русалками".
 
 # Original: That's the 'Whale of the Porous Hand'... I was... really hoping to avoid that one...
-Ишмаэль: Это "Кит Пористой Руки"... Я... очень надеялась, что мы его не встретим...
+Измаил: Это "Кит Пористой Руки"... Я... очень надеялась, что мы его не встретим...
 
 # Original: <Is that... one of the Whales they were talking about at U Corp.?>
 Данте: <Это... один из тех Китов, о которых говорили в Корп. U?>

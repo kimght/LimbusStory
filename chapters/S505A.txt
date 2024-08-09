@@ -8,19 +8,19 @@
 Пират: П-погодите! Я ещё не закончил! Отойдите! Прочь!
 
 # Original: Oh, that's convenient.
-Ишмаэль: О, как удобно.
+Измаил: О, как удобно.
 
 # Original: <......>
 Данте: <......>
 
 # Original: Nice. Now we know we can go up the chain and talk to their 'boss' in charge. Let's stop wasting our time here.
-Ишмаэль: Отлично. Теперь мы знаем, что можем подняться по цепочке и поговорить с их "боссом". Давайте не будем тратить здесь время впустую.
+Измаил: Отлично. Теперь мы знаем, что можем подняться по цепочке и поговорить с их "боссом". Давайте не будем тратить здесь время впустую.
 
 # Original: I don't want to have to crack open these shipping containers one by one and go through mountains of rotting corpses.
-Ишмаэль: Я не хочу вскрывать эти контейнеры один за другим и копаться в горах гниющих трупов.
+Измаил: Я не хочу вскрывать эти контейнеры один за другим и копаться в горах гниющих трупов.
 
 # Original: You can still point, right?
-Ишмаэль: Ты всё ещё можешь показать, верно?
+Измаил: Ты всё ещё можешь показать, верно?
 
 # Original: ......
 Пират: ......
@@ -29,43 +29,43 @@
 Пират: П... пожалуйста...
 
 # Original: The location of your boss. Mark it on this map with your finger.
-Ишмаэль: Местоположение вашего босса. Отметь его пальцем на этой карте.
+Измаил: Местоположение вашего босса. Отметь его пальцем на этой карте.
 
 # Original: I wasn't sure when she picked it up, but Ishmael was carrying a travel brochure of Marlin Port. She shoved it in the pirate's face, who struggled for a moment before pointing to a location on the map.
-Рассказчик: Я не заметил, когда она его подобрала, но Ишмаэль держала туристический буклет Марлин Порта. Она сунула его в лицо пирату, который немного поборолся, прежде чем указать на место на карте.
+Рассказчик: Я не заметил, когда она его подобрала, но Измаил держала туристический буклет Марлин Порта. Она сунула его в лицо пирату, который немного поборолся, прежде чем указать на место на карте.
 
 # Original: As soon as her trembling finger reached the paper...
 Рассказчик: Как только её дрожащий палец коснулся бумаги...
 
 # Original: <Ishmael, Wait—>
-Данте: <Ишмаэль, подожди—>
+Данте: <Измаил, подожди—>
 
 # Original: Well, we have our next stop. What are we waiting for?
-Ишмаэль: Что ж, у нас есть следующая остановка. Чего мы ждём?
+Измаил: Что ж, у нас есть следующая остановка. Чего мы ждём?
 
 # Original: Ishmael walked out, leaving nothing but shipping containers full of both old and fresh bodies behind.
-Рассказчик: Ишмаэль вышла, оставив позади только контейнеры, полные как старых, так и свежих трупов.
+Рассказчик: Измаил вышла, оставив позади только контейнеры, полные как старых, так и свежих трупов.
 
 # Original: What are the odds that the LCCB Agent we were supposed to meet is still alive...?
 Грегор: Каковы шансы, что агент LCCB, с которым мы должны были встретиться, всё ещё жив...?
 
 # Original: Depends on how rich they think we are.
-Ишмаэль: Зависит от того, насколько богатыми они нас считают.
+Измаил: Зависит от того, насколько богатыми они нас считают.
 
 # Original: ... He could already be dead, then.
 Грегор: ... Значит, он уже может быть мёртв.
 
 # Original: Even if the worst comes to pass, we should still find his body. That'll at least give us something.
-Ишмаэль: Даже если случится худшее, мы всё равно должны найти его тело. Это хотя бы даст нам что-то.
+Измаил: Даже если случится худшее, мы всё равно должны найти его тело. Это хотя бы даст нам что-то.
 
 # Original: ... If that's all we find at the end of this, his corpse... Ishmael...
-Синклер: ... Если это всё, что мы найдём в конце, его труп... Ишмаэль...
+Синклер: ... Если это всё, что мы найдём в конце, его труп... Измаил...
 
 # Original: I... don't think I could forgive...
 Синклер: Я... не думаю, что смогу простить...
 
 # Original: Ha... who, me?
-Ишмаэль: Ха... кого, меня?
+Измаил: Ха... кого, меня?
 
 # Original: No. Us. We who... didn't even try to save them.
 Синклер: Нет. Нас. Тех, кто... даже не попытался их спасти.
@@ -77,7 +77,7 @@
 Фауст: Фауст слушает.
 
 # Original: <Should we do something? Is she going to be okay? I mean, Ishmael...>
-Данте: <Нам стоит что-нибудь предпринять? С ней всё будет в порядке? Я имею в виду, Ишмаэль...>
+Данте: <Нам стоит что-нибудь предпринять? С ней всё будет в порядке? Я имею в виду, Измаил...>
 
 # Original: I can give you answers regarding her insubordination and her emotional state.
 Фауст: Фауст может дать вам ответы относительно её неподчинения и эмоционального состояния.
@@ -101,16 +101,16 @@
 Отис: Я была... лидером людей однажды, как вы сейчас. Я могу посочувствовать вашим трудностям.
 
 # Original: <I don't know if I can manage Ishmael anymore... I just don't.>
-Данте: <Я не знаю, смогу ли я дальше управлять Ишмаэль... Просто не знаю.>
+Данте: <Я не знаю, смогу ли я дальше управлять Измаил... Просто не знаю.>
 
 # Original: <Though it looked like she was acting rash, maybe it was... maybe she knew the right thing to do in this scenario.>
 Данте: <Хотя казалось, что она действовала опрометчиво, может быть... может быть, она знала, как правильно поступить в этой ситуации.>
 
 # Original: <If Ishmael suddenly decides to quit, or something...>
-Данте: <Если Ишмаэль вдруг решит уйти или что-то в этом роде...>
+Данте: <Если Измаил вдруг решит уйти или что-то в этом роде...>
 
 # Original: Faust will doubtless proceed to educate me on the various clauses that prevent Ishmael from quitting...
-Рассказчик: Фауст, несомненно, приступит к разъяснению различных пунктов, которые не позволяют Ишмаэль уйти...
+Рассказчик: Фауст, несомненно, приступит к разъяснению различных пунктов, которые не позволяют Измаил уйти...
 
 # Original: But it's not like I could force her to come along should this hostility escalate. Besides, she'd already acted without my orders earlier.
 Рассказчик: Но я не смогу заставить её идти с нами, если эта враждебность усилится. К тому же, она уже действовала без моих приказов ранее.
@@ -125,7 +125,7 @@
 Отис: Нам не обязательно нужно, чтобы было 12 Грешников.
 
 # Original: <... Are you saying that we leave Ishmael?>
-Данте: <... Ты предлагаешь оставить Ишмаэль?>
+Данте: <... Ты предлагаешь оставить Измаил?>
 
 # Original: Executive Manager. I have wandered for many years in far, far lands before making my journey here. And I have done so with steadfast determination—for a single clause on my contract with the company.
 Отис: Исполнительный менеджер. Я странствовала много лет по далёким землям, прежде чем отправиться сюда. И я делала это с непоколебимой решимостью — ради единственного пункта в моём контракте с компанией.

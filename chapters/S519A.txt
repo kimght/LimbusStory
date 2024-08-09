@@ -2,19 +2,19 @@
 Русалка Кита Пористой Руки: … Визг!
 
 # Original: Huff... Huff...
-Ишмаэль: Хах... Хах...
+Измаил: Хах... Хах...
 
 # Original: How... many... left...?
-Ишмаэль: Сколько... их... осталось...?
+Измаил: Сколько... их... осталось...?
 
 # Original: None.
 Отис: Ни одной.
 
 # Original: Then this is the last one.
-Ишмаэль: Значит, это была последняя.
+Измаил: Значит, это была последняя.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: There was something off about those... 'Mermaids' that crawled out of that Whale.
 Рассказчик: Было что-то странное в этих... "Русалках", которые выползли из того Кита.
@@ -26,25 +26,25 @@
 Данте: <Русалки... они когда-то были людьми?>
 
 # Original: I guess I should've explained better...
-Ишмаэль: Думаю, мне стоило объяснить лучше...
+Измаил: Думаю, мне стоило объяснить лучше...
 
 # Original: Not every creature that lives in the depths of the Great Lake are called 'Whales'. Whales specifically refer to...
-Ишмаэль: Не все существа, живущие в глубинах Великого Озера, называются "Китами". Киты конкретно относятся к...
+Измаил: Не все существа, живущие в глубинах Великого Озера, называются "Китами". Киты конкретно относятся к...
 
 # Original: ... everything in the Great Lake that can parasitize humans.
-Ишмаэль: ... всему в Великом Озере, что может паразитировать на людях.
+Измаил: ... всему в Великом Озере, что может паразитировать на людях.
 
 # Original: And Whales give birth to 'Mermaids'.
-Ишмаэль: И Киты рождают "Русалок".
+Измаил: И Киты рождают "Русалок".
 
 # Original: <… And where do the Mermaids come from?>
 Данте: <… А откуда берутся Русалки?>
 
 # Original: They're people devoured by Whales that came with the Waves. There's no guarantee that we won't meet the same fate.
-Ишмаэль: Это люди, поглощённые Китами, которые пришли с Волнами. Нет никакой гарантии, что нас не постигнет та же участь.
+Измаил: Это люди, поглощённые Китами, которые пришли с Волнами. Нет никакой гарантии, что нас не постигнет та же участь.
 
 # Original: See? Now you know why you could turn the clock all day and fail to bring us back.
-Ишмаэль: Видишь? Теперь ты знаешь, почему ты мог бы крутить часы весь день и не смог бы вернуть нас обратно.
+Измаил: Видишь? Теперь ты знаешь, почему ты мог бы крутить часы весь день и не смог бы вернуть нас обратно.
 
 # Original: I see now.
 Рассказчик: Теперь я понимаю.
@@ -53,19 +53,19 @@
 Рассказчик: Волны будут неумолимыми, непрекращающимися...
 
 # Original: And Ishmael, who'd already weathered and braved these endless, crashing Waves…
-Рассказчик: А Ишмаэль, которая уже выдержала и преодолела эти бесконечные, обрушивающиеся Волны…
+Рассказчик: А Измаил, которая уже выдержала и преодолела эти бесконечные, обрушивающиеся Волны…
 
 # Original: ... Was starting to snap, strand by strand.
 Рассказчик: ... Начинала ломаться, нить за нитью.
 
 # Original: I have... a mission that I can't fail...
-Ишмаэль: У меня есть... миссия, в которой я не могу потерпеть неудачу...
+Измаил: У меня есть... миссия, в которой я не могу потерпеть неудачу...
 
 # Original: And I'll kill everything that stands in my way...
-Ишмаэль: И я убью всё, что встанет на моём пути...
+Измаил: И я убью всё, что встанет на моём пути...
 
 # Original: Even if I were to stumble, even if every part of me were to fall apart... I'll see it through to the end.
-Ишмаэль: Даже если я споткнусь, даже если каждая часть меня развалится... Я доведу это до конца.
+Измаил: Даже если я споткнусь, даже если каждая часть меня развалится... Я доведу это до конца.
 
 # Original: Determined and ferocious. Both good attitudes to have when setting sail on an adventure.
 Отис: Решительность и свирепость. Оба качества хороши, когда отправляешься в приключение.

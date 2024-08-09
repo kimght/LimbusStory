@@ -26,16 +26,16 @@
 Нелли: Хитклиф...
 
 # Original: W-wait. Give us some time. There has to be a way to shut down the power supply.
-Ишмаэль: П-подожди. Дай нам немного времени. Должен быть способ отключить подачу энергии.
+Измаил: П-подожди. Дай нам немного времени. Должен быть способ отключить подачу энергии.
 
 # Original: Then we'll pick up the Golden Bough from this coffin, then—
-Ишмаэль: Тогда мы возьмем Золотую Ветвь из этого гроба, а затем—
+Измаил: Тогда мы возьмем Золотую Ветвь из этого гроба, а затем—
 
 # Original: DON'T! Don't lecture me! Don't you even try. Do you really think you can change my mind?
 Хитклиф: НЕ СМЕЙ! Не читай мне лекции! Даже не пытайся. Ты правда думаешь, что можешь изменить мое мнение?
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: ... Maybe this is the time to beat the sense back into him, like we discussed earlier on the bus.
 Рассказчик: ... Может быть, сейчас самое время вбить в него немного здравого смысла, как мы обсуждали ранее в автобусе.

@@ -1,5 +1,5 @@
 ﻿# Original: I see… This is what that was about.
-Ишмаэль: Понятно… Вот что вы имели в виду.
+Измаил: Понятно… Вот что вы имели в виду.
 
 # Original: There’s no need to get impatient, Ishmael. As the bus goes onward, you’ll naturally…
 Фауст: Не стоит так спешить, Измаил. Пока автобус едет, естественно, что…
@@ -11,7 +11,7 @@
 Вергилий: Понимаю, желание добиться своих целей овладевает вами… Но имейте же терпение.
 
 # Original: …Tch.
-Ишмаэль: …Тц.
+Измаил: …Тц.
 
 # Original: Since this works by whisking out one of our limitless possibilities from the mirrored world, it’ll have overwritten a part of our memories.
 Фауст: Мы извлекаем одну из множества возможностей Зеркального мира, так что часть ваших воспоминаний может на время "перезаписаться".

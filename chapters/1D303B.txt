@@ -71,7 +71,7 @@
 Фауст: …Вы не имеете права бежать.
 
 # Original: I don’t get it. I heard every employee under the corporation had modifications, but it can’t have been this foul.
-Ишмаэль: Ума не приложу. Я слышала, что все сотрудники прошли через операции, но не чтобы всё было так плохо.
+Измаил: Ума не приложу. Я слышала, что все сотрудники прошли через операции, но не чтобы всё было так плохо.
 
 # Original: What we see here may differ from actual accounts.
 Фауст: То, что мы видим, может быть отлично от истины.

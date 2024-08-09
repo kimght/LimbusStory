@@ -23,7 +23,7 @@
 Линтон: Я не знаю... Меня никогда особо не волновали детали того, как модифицировали это поместье. Если бы мой брат узнал, чем я занимаюсь, он бы попытался меня убить... но мне было всё равно.
 
 # Original: How did you even come across the Golden Bough? It's...
-Ишмаэль: Как ты вообще получил Золотую Ветвь? Это...
+Измаил: Как ты вообще получил Золотую Ветвь? Это...
 
 # Original: ... impossible for a private individual to acquire the Golden Boughs? Indeed. But the Edgar Family is a family of vast means.
 Линтон: ... невозможно для частного лица приобрести Золотые Ветви? Действительно. Но семья Эдгар – это семья с обширными средствами.
@@ -191,7 +191,7 @@
 Нелли: Господин Линтон...
 
 # Original: This staircase leads to the basement...? What the hell were you doing down there...?
-Ишмаэль: Эта лестница ведёт в подвал...? Какого чёрта ты там делал...?
+Измаил: Эта лестница ведёт в подвал...? Какого чёрта ты там делал...?
 
 # Original: All I can say is that... I have been preparing to invite a new guest.
 Линтон: Всё, что я могу сказать... я готовился пригласить нового гостя.

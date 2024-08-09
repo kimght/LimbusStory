@@ -1,8 +1,8 @@
 # Original: You could've given your crew a chance!
-Ишмаэль: Ты могла бы дать своей команде шанс!
+Измаил: Ты могла бы дать своей команде шанс!
 
 # Original: A chance to see for themselves where they stood...!
-Ишмаэль: Шанс самим увидеть, где они стоят...!
+Измаил: Шанс самим увидеть, где они стоят...!
 
 # Original: Always in my wake... are pallid, opaque traces.
 Ахав: Всегда в моем кильватере... остаются бледные, непрозрачные следы.

@@ -110,10 +110,10 @@
 Хитклиф: Ха, черт возьми. Я даже не могу выразить это чувство словами.
 
 # Original: He's the one that couldn't change, not you. Look at him, clinging desperately to his past like it's the only thing he's got.
-Ишмаэль: Это он не смог измениться, не ты. Посмотри на него, он отчаянно цепляется за свое прошлое, как будто это единственное, что у него есть.
+Измаил: Это он не смог измениться, не ты. Посмотри на него, он отчаянно цепляется за свое прошлое, как будто это единственное, что у него есть.
 
 # Original: He's just... he's just like an immature kid who never grew up past ten.
-Ишмаэль: Он просто... он просто как незрелый ребенок, который так и не вырос после десяти лет.
+Измаил: Он просто... он просто как незрелый ребенок, который так и не вырос после десяти лет.
 
 # Original: Where is Catherine's room? We would do well to be on our guard in this manor. We must always be wary of our surroundings in this field of battle.
 Отис: Где комната Кэтрин? Нам следует быть начеку в этом поместье. Мы должны всегда быть бдительны к нашему окружению на этом поле битвы.

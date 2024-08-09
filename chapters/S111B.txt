@@ -77,25 +77,25 @@
 Юри: Это не на… то есть, не сотрудник корпорации «Лоботомия».
 
 # Original: I heard these buried facilities are considered pure goldmines now, attracting all sorts looking for riches.
-Ишмаэль: Сейчас эти филиалы как золотые шахты, так что уйма людей бросается сюда в поисках наживы.
+Измаил: Сейчас эти филиалы как золотые шахты, так что уйма людей бросается сюда в поисках наживы.
 
 # Original: Phrases like the “Lobotomy Dream” or the “Enkephalin Rush” are apparently starting to catch on among Fixers and Syndicates.
-Ишмаэль: Слышала, некоторые корректировщики и члены синдикатов зовут это "Мечтой «Лоботомии»" и "Энкефалиновой лихорадкой".
+Измаил: Слышала, некоторые корректировщики и члены синдикатов зовут это "Мечтой «Лоботомии»" и "Энкефалиновой лихорадкой".
 
 # Original: LD, E-Rush… Got a nice ring to it…
 Рёшу: М-Л, ЭнЛих… А они недурно звучат…
 
 # Original: Sigh, that’s what you have to say after keeping quiet for so long…?
-Ишмаэль: Ха-а, и это то, что ты хочешь сказать после столького молчания?…
+Измаил: Ха-а, и это то, что ты хочешь сказать после столького молчания?…
 
 # Original: Is such a frivolous use of English not prone to blurring the original meaning?
 И Сан: Но разве в таком фривольном "английском" не теряется истинный смысл фраз?
 
 # Original: That’s what I’m sayi―
-Ишмаэль: Вот и я об эт…
+Измаил: Вот и я об эт…
 
 # Original: Huh, you seem to be talking a lot more than usual, Yi Sang?
-Ишмаэль: Постой, И Сан, неужели ты становишься общительней?
+Измаил: Постой, И Сан, неужели ты становишься общительней?
 
 # Original: Does that reflect strangely?
 И Сан: <b>И с</b>тр<b>ан</b>но ли это?
@@ -134,7 +134,7 @@
 Юри: Они похожи на тех людей, которых мы встречали ранее.
 
 # Original: You mean those bug-headed people?
-Ишмаэль: Ты о тех ребятах с жучиными головами?
+Измаил: Ты о тех ребятах с жучиными головами?
 
 # Original: Quiet, I’m seeing Uniform Tangos ahead.
 Отис: Контакт на двенадцать.

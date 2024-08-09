@@ -32,25 +32,25 @@
 Синклер: Ты думаешь, это то, что имел в виду Сми? Что мы пожалеем, если...
 
 # Original: No.
-Ишмаэль: Нет.
+Измаил: Нет.
 
 # Original: Your juvenile whining... That's not from shame.
-Ишмаэль: Ваш юношеский скулёж... Это не от стыда.
+Измаил: Ваш юношеский скулёж... Это не от стыда.
 
 # Original: Huh?
 Пират: А?
 
 # Original: When all of your mates lay dead, consumed, manipulated and led into a meat grinder by a collective insanity of a madwoman... when you are left in that endless void where the only sound is the beating of your heart...
-Ишмаэль: Когда все ваши товарищи будут лежать мёртвыми, поглощёнными, манипулируемыми и загнанными в мясорубку коллективным безумием сумасшедшей женщины... когда вы останетесь в той бесконечной пустоте, где единственным звуком будет биение вашего сердца...
+Измаил: Когда все ваши товарищи будут лежать мёртвыми, поглощёнными, манипулируемыми и загнанными в мясорубку коллективным безумием сумасшедшей женщины... когда вы останетесь в той бесконечной пустоте, где единственным звуком будет биение вашего сердца...
 
 # Original: W-wait...
 Пират: П-подожди...
 
 # Original: And when you realize that... your heart continues to beat because it's still desperately, pathetically clinging onto life, despite all that...
-Ишмаэль: И когда вы поймёте, что... ваше сердце продолжает биться, потому что оно всё ещё отчаянно, жалко цепляется за жизнь, несмотря на всё это...
+Измаил: И когда вы поймёте, что... ваше сердце продолжает биться, потому что оно всё ещё отчаянно, жалко цепляется за жизнь, несмотря на всё это...
 
 # Original: That's... When you'll feel true shame.
-Ишмаэль: Вот тогда... вы почувствуете настоящий стыд.
+Измаил: Вот тогда... вы почувствуете настоящий стыд.
 
 # Original: Wait, wait. Looking at the sorry state of yer boat, I can hazard ye have no clue what yer doin' out here...
 Пират: Подожди, подожди. Глядя на жалкое состояние вашей лодки, могу предположить, что вы понятия не имеете, что делаете здесь...
@@ -62,16 +62,16 @@
 Пират: Тебе нечего терять, а, девочка? Не будет у тебя никого, кто бы замолвил... словечко!... Если ты меня убьёшь.
 
 # Original: ......
-Ишмаэль: ......
+Измаил: ......
 
 # Original: Haha...! Am I getting through to ye? Spare me, and ye just might sail out of this Lake with yer—
 Пират: Хаха...! Я до тебя достучался? Пощади меня, и вы, возможно, выплывете из этого Озера с вашими—
 
 # Original: ... Haah. I'm tired of listening to these inane, meaningless pleas.
-Ишмаэль: ... Хаах. Я устала слушать эти бессмысленные, пустые мольбы.
+Измаил: ... Хаах. Я устала слушать эти бессмысленные, пустые мольбы.
 
 # Original: That was the last one, right? Let's go back to our ship.
-Ишмаэль: Это был последний, верно? Давайте вернёмся на наш корабль.
+Измаил: Это был последний, верно? Давайте вернёмся на наш корабль.
 
 # Original: The ship was still as death. Its sails fluttered a forlorn dance in the winds.
 Рассказчик: Корабль был тих, как смерть. Его паруса печально трепетали на ветру.

@@ -2,7 +2,7 @@
 Хитклиф: Что? Это всё?
 
 # Original: I heard Abnormalities were supposed to be so powerful that even suppressing them is a dangerous task…
-Ишмаэль: Я слышала, что аномалии настолько сильны, что просто усмирить их уже крайне тяжело…
+Измаил: Я слышала, что аномалии настолько сильны, что просто усмирить их уже крайне тяжело…
 
 # Original: It’s the Qliphoth Deterrence in action.
 Фауст: Сдерживание Клипот всё ещё в силе.
@@ -17,7 +17,7 @@
 Фауст: Но чем больше Золотых ветвей мы соберём, тем слабее станет сдерживание Клипот. Так что сейчас они кажутся просты в усмирении, но дальше…
 
 # Original: …Later on, one of them might take our lives more than a hundredfold to handle it.
-Ишмаэль: Возможно, нам придётся умирать по сто раз, чтобы усмирить одну такую…
+Измаил: Возможно, нам придётся умирать по сто раз, чтобы усмирить одну такую…
 
 # Original: That’s a terrifying thought…
 Рассказчик: Только представив это, я почувствовал, как сильно моя голова закружилась…
@@ -62,7 +62,7 @@
 Хитклиф: Чего? Да вы, сука, издеваетесь…
 
 # Original: You mean, those things won’t die?
-Ишмаэль: То есть вы хотите сказать, что эти твари не умирают?
+Измаил: То есть вы хотите сказать, что эти твари не умирают?
 
 # Original: Abnormalities simply cannot die. It’s one of the factors that contributed to L Corp’s massive energy production.
 Фауст: Аномалии не способны умереть. Именно поэтому корпорация «Лоботомия» производила такое большое количество энергии.
@@ -71,7 +71,7 @@
 Юри: Раньше, я возвращала яйца в камеры содержания… Теперь всё иначе.
 
 # Original: Umm… What can we do before this egg hatches?
-Ишмаэль: Э-эм… И что нам делать, пока это яйцо не вылупилось снова?
+Измаил: Э-эм… И что нам делать, пока это яйцо не вылупилось снова?
 
 # Original: Limbus Company has a department dedicated to dealing with Abnormalities like this. They’ll retrieve them for us.
 Фауст: В компании «Лимбус» есть специальный отдел, занимающийся аномалиями. Они заберут его.

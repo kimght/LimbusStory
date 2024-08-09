@@ -32,7 +32,7 @@
 Вергилий: ... Это меня не касается. Я хочу знать только, какие сведения вы получили. И покороче.
 
 # Original: We know where the Golden Bough is. It's in a Lobotomy Corp. Branch in the middle of the Great Lake.
-Ишмаэль: Мы знаем, где находится Золотая Ветвь. Она в филиале Корпорации Лоботомии посреди Великого Озера.
+Измаил: Мы знаем, где находится Золотая Ветвь. Она в филиале Корпорации Лоботомии посреди Великого Озера.
 
 # Original: ... Of course it's in a Lobotomy Corp. Branch. Did you learn anything else?
 Вергилий: ... Разумеется, она в филиале Корпорации Лоботомии Узнали что-нибудь ещё?
@@ -59,19 +59,19 @@
 Вергилий: Я разберусь с этим. Не вмешивайтесь.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: You look impatient, Ishmael.
-Вергилий: Ты выглядишь нетерпеливой, Ишмаэль.
+Вергилий: Ты выглядишь нетерпеливой, Измаил.
 
 # Original: I see that our earlier... 'consultation' did not ease your anxiety.
 Вергилий: Я вижу, что наша предыдущая... 'консультация' не облегчила твою тревогу.
 
 # Original: Of course not. I don't even know what's happening with my mission. We're wading blindly through a misty sea...
-Ишмаэль: Конечно, нет. Я даже не знаю, что происходит с моей миссией. Мы бредём вслепую через туманное море...
+Измаил: Конечно, нет. Я даже не знаю, что происходит с моей миссией. Мы бредём вслепую через туманное море...
 
 # Original: Yet here we are, shoving our noses in everything, everywhere. It's driving me up the wall.
-Ишмаэль: И вот мы здесь, суём нос во всё подряд, везде. Это меня с ума сводит.
+Измаил: И вот мы здесь, суём нос во всё подряд, везде. Это меня с ума сводит.
 
 # Original: Hah, relax. You must know that no path is ever direct in the Great Lake. I did not expect this much lack of patience from someone who spent most of her life here.
 Вергилий: Ха, расслабься. Ты должна знать, что ни один путь в Великом Озере никогда не бывает прямым. Я не ожидал такого нетерпения от кого-то, кто провёл большую часть своей жизни здесь.
@@ -80,7 +80,7 @@
 Вергилий: Могу я предположить, что беспорядок, который ты оставила на плече менеджера... тоже следствие твоего нетерпения?
 
 # Original: That’s…
-Ишмаэль: Это…
+Измаил: Это…
 
 # Original: Well... Clearly, an unintentional mistake. If it wasn't, you wouldn't be sitting before me with your throat intact.
 Вергилий: Что ж... Очевидно, непреднамеренная ошибка. Если бы это было не так, ты бы не сидела передо мной с целым горлом.
@@ -89,7 +89,7 @@
 Фауст: …….
 
 # Original: Why do you fail to look further, Ishmael? By now, you must have realized what awaits you at the end of this journey.
-Вергилий: Почему ты не смотришь дальше, Ишмаэль? К этому моменту ты должна была понять, что ждёт тебя в конце этого путешествия.
+Вергилий: Почему ты не смотришь дальше, Измаил? К этому моменту ты должна была понять, что ждёт тебя в конце этого путешествия.
 
 # Original: That 'contract clause' you're so impatient about... is bound to make an appearance as long as you follow the manager's peculiar misadventures.
 Вергилий: Тот 'пункт контракта', о котором ты так нетерпеливо думаешь... обязательно появится, пока ты следуешь за странными злоключениями менеджера.
@@ -98,25 +98,25 @@
 Вергилий: Твоё воинственное отношение к менеджеру только отсрочит неизбежное.
 
 # Original: It happened four times. That's not a very big sample.
-Ишмаэль: Это случилось четыре раза. Не такая уж большая выборка.
+Измаил: Это случилось четыре раза. Не такая уж большая выборка.
 
 # Original: Well... I'm good at reading how these things usually flow.
 Вергилий: Ну... Я хорошо умею читать, как обычно развиваются такие вещи.
 
 # Original: ...!
-Ишмаэль: ...!
+Измаил: ...!
 
 # Original: ... If you're so sure about it... then fine. I won't let frustration get the better of me. I won't step out of line... not any more than necessary.
-Ишмаэль: ... Если ты так в этом уверен... тогда ладно. Я не позволю разочарованию взять верх надо мной. Я не буду выходить за рамки... не больше, чем необходимо.
+Измаил: ... Если ты так в этом уверен... тогда ладно. Я не позволю разочарованию взять верх надо мной. Я не буду выходить за рамки... не больше, чем необходимо.
 
 # Original: Ishmael, what happened... happened. You will still have to write up a form explaining your actions and the circumstances surrounding them.
-Фауст: Ишмаэль, что случилось... случилось. Тебе всё равно придётся заполнить форму, объясняющую твои действия и обстоятельства, связанные с ними.
+Фауст: Измаил, что случилось... случилось. Тебе всё равно придётся заполнить форму, объясняющую твои действия и обстоятельства, связанные с ними.
 
 # Original: Gladly.
-Ишмаэль: С удовольствием.
+Измаил: С удовольствием.
 
 # Original: As long as the guide is right.
-Ишмаэль: Если проводник прав.
+Измаил: Если проводник прав.
 
 # Original: H-have you brought us any ice cream, by any...
 И Сан: В-вы случайно не принесли нам мороженого...

@@ -44,7 +44,7 @@
 Ахав: Заключите эту Русалку в большую цистерну внизу в трюме. Её инстинкт поведёт её к Киту ненависти.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: Captain... Captain... Please, no...!
 Стаб: Капитан... Капитан... Пожалуйста, нет...!
@@ -53,16 +53,16 @@
 Ахав: Старбак, спусти шлюпку.
 
 # Original: ... What? Now?
-Ишмаэль: ... Что? Сейчас?
+Измаил: ... Что? Сейчас?
 
 # Original: ... Aye.
 Старбак: ... Есть.
 
 # Original: A few moments later, I heard a splash of water. All hands of the ship emerged from their stations and gathered around Ahab.
-Ишмаэль: Через несколько мгновений я услышала всплеск воды. Все члены экипажа корабля вышли из своих постов и собрались вокруг Ахав.
+Измаил: Через несколько мгновений я услышала всплеск воды. Все члены экипажа корабля вышли из своих постов и собрались вокруг Ахав.
 
 # Original: And Ahab... thundered.
-Ишмаэль: И Ахав... загремела.
+Измаил: И Ахав... загремела.
 
 # Original: Ooh! I hear him! Listen well, for it is Stubb who speaks! Heed his voice!
 Ахав: О! Я слышу его! Слушайте внимательно, ибо это говорит Стаб! Внимайте его голосу!
@@ -71,7 +71,7 @@
 Пип: …?
 
 # Original: What the hell is she...
-Ишмаэль: Что за чертовщину она...
+Измаил: Что за чертовщину она...
 
 # Original: All of you! Listen well! The voice of the great sailor Stubb echoes from across that Lake! The great sailor Stubb who so willingly threw his life in danger for the hunt of the Whale!
 Ахав: Все вы! Слушайте внимательно! Голос великого моряка Стаба эхом разносится по тому Озеру! Великого моряка Стаба, который так охотно подверг свою жизнь опасности ради охоты на Кита!
@@ -89,13 +89,13 @@
 Ахав: Он кричит! О да, он ревёт о нашей победе! И он ревёт, что мы должны идти вперёд, плыть к победе!
 
 # Original: What kind of insanity is...
-Ишмаэль: Что за безумие...
+Измаил: Что за безумие...
 
 # Original: ... We. Sail forth.
 Квиквег: ... Мы. Плывём вперёд.
 
 # Original: ... Queequeg?
-Ишмаэль: ... Квиквег?
+Измаил: ... Квиквег?
 
 # Original: This voyage will soon meet its victorious end. Then I shall sail to the nearest port!
 Ахав: Это путешествие скоро подойдёт к своему победному концу. Тогда я поплыву к ближайшему порту!
@@ -161,10 +161,10 @@
 Стаб: ... Есть!!!
 
 # Original: Yeah. It'll all be over when we kill the Pallid Whale.
-Ишмаэль: Да. Всё закончится, когда мы убьём Бледного Кита.
+Измаил: Да. Всё закончится, когда мы убьём Бледного Кита.
 
 # Original: When we kill the Whale of all evils...
-Ишмаэль: Когда мы убьём Кита всех зол...
+Измаил: Когда мы убьём Кита всех зол...
 
 # Original: <So all along, we've not only...>
 Данте: <Значит, всё это время мы не только...>

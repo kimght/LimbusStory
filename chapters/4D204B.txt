@@ -1,8 +1,8 @@
 # Original: Isn't this a concept incinerator?
-Ишмаэль: Разве это не концептуальный сжигатель?
+Измаил: Разве это не концептуальный сжигатель?
 
 # Original: What is it doing here...
-Ишмаэль: Что он здесь делает...
+Измаил: Что он здесь делает...
 
 # Original: We've received an official notice that private technological invention groups of five or more people not registered as a business require a permit from T Corp.
 Отис: Мы получили официальное уведомление о том, что частные группы технологических изобретателей из пяти или более человек, не зарегистрированные как предприятие, требуют разрешения от Крыла Т.
@@ -17,7 +17,7 @@
 Отис: Именно поэтому мы избавим мир от них, прежде чем это произойдет.
 
 # Original: But, why now of all times? Is it because of the League's gatherings... No, is this about the window...?
-Ишмаэль: Но почему именно сейчас? Это из-за собраний Лиги... Нет, это связано с окном...?
+Измаил: Но почему именно сейчас? Это из-за собраний Лиги... Нет, это связано с окном...?
 
 # Original: Wait, wait. This idea that we have to make technology in secret could be a pitfall, you know? Who knows, T Corp. might just give us the approval.
 Донран: Подождите, подождите. Эта идея о том, что мы должны создавать технологии тайно, может быть ловушкой, понимаете? Кто знает, может Крыло Т просто даст нам одобрение.

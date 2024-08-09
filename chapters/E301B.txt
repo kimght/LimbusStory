@@ -41,7 +41,7 @@
 Хитклиф: Видать, ты вообще понятия не имеешь, кто мы такие, раз внаглую встреваешь в разговор.
 
 # Original: …Can you even explain who we are?
-Ишмаэль: …А кто мы?
+Измаил: …А кто мы?
 
 # Original: Gracious, what could those things roaming around the restaurant possibly be? They don’t appear very normal to me.
 Самджо: Мамочки, что это шляется перед рестораном? Так странно выглядят.
@@ -59,7 +59,7 @@
 Синклер: М-может быть, это какой-то маскот? Если приглядеться, то выглядят они довольно мило…
 
 # Original: Those “mascots” have people running and screaming, though?
-Ишмаэль: Но разве посетители убегают с криками ужаса, увидев маскоты ресторана?
+Измаил: Но разве посетители убегают с криками ужаса, увидев маскоты ресторана?
 
 # Original: Seems a bit off, but let’s leave ‘em be. Doesn’t look like they’re coming this way, and I don’t particularly feel like getting wrapped up in something bothersome—
 Грегор: Выглядит весьма подозрительно, как по мне, так что давайте не лезть. Они не идут в нашу сторону, и лично я не хочу ни с чем разбираться…
@@ -113,7 +113,7 @@
 Родион: Ага, точно цыплята.
 
 # Original: Raw ones at that, too.
-Ишмаэль: К тому же, ещё и сырые.
+Измаил: К тому же, ещё и сырые.
 
 # Original: It’s like the ghosts of dead chickens’re clucking back from hell for revenge…
 Грегор: Словно курица на тяге ненависти выкарабкалась из самых глубин Ада…

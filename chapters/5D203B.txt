@@ -5,7 +5,7 @@
 Хитклиф: Вся в крови измазана. Выглядишь прям жутко, а?
 
 # Original: Nothing a quick wash in the water can't fix.
-Ишмаэль: Ничего, быстро помою в воде, и всё будет в порядке.
+Измаил: Ничего, быстро помою в воде, и всё будет в порядке.
 
 # Original: Your headband. Familiar.
 Квиквег: Твоя повязка. Знакомая.
@@ -14,10 +14,10 @@
 Квиквег: Знакомый узел. Узел Отчаяния.
 
 # Original: Queequeg... I survived by hanging onto the ropes you tied to your coffin.
-Ишмаэль: Квиквег... Я выжила, держась за верёвки, которыми ты привязала свой гроб.
+Измаил: Квиквег... Я выжила, держась за верёвки, которыми ты привязала свой гроб.
 
 # Original: The ropes that you could have held... Instead, I held onto it with my dear life...
-Ишмаэль: Верёвки, за которые ты могла бы держаться... Вместо этого я держалась за них изо всех сил...
+Измаил: Верёвки, за которые ты могла бы держаться... Вместо этого я держалась за них изо всех сил...
 
 # Original: That rope...
 Квиквег: Та верёвка...
@@ -26,58 +26,58 @@
 Квиквег: ... тоже для тебя.
 
 # Original: You want me to... bucket out oil from in there?
-Ишмаэль: Ты хочешь, чтобы я... вычерпывала оттуда масло?
+Измаил: Ты хочешь, чтобы я... вычерпывала оттуда масло?
 
 # Original: Yep. It's not as hard as it looks, though.
 Старбак: Ага. Но это не так сложно, как кажется.
 
 # Original: The cadaver of a Whale hung from a hook and swayed from side to side. Its stench was awful.
-Ишмаэль: Труп Кита висел на крюке и качался из стороны в сторону. Вонь была ужасная.
+Измаил: Труп Кита висел на крюке и качался из стороны в сторону. Вонь была ужасная.
 
 # Original: The smaller and more nimble you are, the easier it will be.
 Старбак: Чем ты меньше и проворнее, тем легче будет.
 
 # Original: I'm not that small, though...
-Ишмаэль: Но я не такая уж и маленькая...
+Измаил: Но я не такая уж и маленькая...
 
 # Original: It's a job for greenhorns anyway! Less talk, more oil-bucketing. Get on with it, will ya?
 Стаб: Это работа для новичков в любом случае! Меньше болтовни, больше черпания масла. Давай, приступай уже!
 
 # Original: A Whaler's toil does not end with killing the Whale.
-Ишмаэль: Труд китобоя не заканчивается убийством Кита.
+Измаил: Труд китобоя не заканчивается убийством Кита.
 
 # Original: Whalers also had to bucket and carry the inordinate amount of oil from the dead Whale.
-Ишмаэль: Китобоям также приходилось вычерпывать и переносить огромное количество масла из мёртвого Кита.
+Измаил: Китобоям также приходилось вычерпывать и переносить огромное количество масла из мёртвого Кита.
 
 # Original: I mean... How the hell do I know what's in there...?
-Ишмаэль: То есть... Откуда мне знать, что там внутри...?
+Измаил: То есть... Откуда мне знать, что там внутри...?
 
 # Original: Well, whaddaya think? Whale oil! It feeds us, it keeps us warm...
 Стаб: Ну, как ты думаешь? Китовое масло! Оно нас кормит, оно нас греет...
 
 # Original: Aboard the Pequod was a man named Stubb, the second mate. He was a man of irritable disposition.
-Ишмаэль: На борту "Пекода" был человек по имени Стабб, второй помощник. Он был раздражительного нрава.
+Измаил: На борту "Пекода" был человек по имени Стабб, второй помощник. Он был раздражительного нрава.
 
 # Original: I...
-Ишмаэль: Я...
+Измаил: Я...
 
 # Original: I can't. Into that abyss, on nothing but a rope that looks like it'll snap from a slight breeze? I can't...
-Ишмаэль: Я не могу. В эту бездну, на верёвке, которая, кажется, порвётся от малейшего ветерка? Я не могу...
+Измаил: Я не могу. В эту бездну, на верёвке, которая, кажется, порвётся от малейшего ветерка? Я не могу...
 
 # Original: ... Those words nearly escaped my mouth, when...
-Ишмаэль: ... Эти слова чуть не сорвались с моих губ, когда...
+Измаил: ... Эти слова чуть не сорвались с моих губ, когда...
 
 # Original: …….
 Квиквег: …….
 
 # Original: What... are you doing?
-Ишмаэль: Что... ты делаешь?
+Измаил: Что... ты делаешь?
 
 # Original: Your rope. Tie it to my waist.
 Квиквег: Твоя верёвка. Привяжи к моей талии.
 
 # Original: B-but why?
-Ишмаэль: Н-но зачем?
+Измаил: Н-но зачем?
 
 # Original: Tethered like so. Now if you fall, I fall.
 Квиквег: Привязаны так. Теперь если ты упадёшь, я упаду.
@@ -86,139 +86,139 @@
 Квиквег: Ты. Я. Вместе.
 
 # Original: Her sentences were stuttering and incomplete. But there was something there that oddly soothed me.
-Ишмаэль: Её предложения были прерывистыми и неполными. Но в них было что-то, что странным образом успокаивало меня.
+Измаил: Её предложения были прерывистыми и неполными. Но в них было что-то, что странным образом успокаивало меня.
 
 # Original: Together...
-Ишмаэль: Вместе...
+Измаил: Вместе...
 
 # Original: Someone to catch me if I fell.
-Ишмаэль: Кто-то, кто поймает меня, если я упаду.
+Измаил: Кто-то, кто поймает меня, если я упаду.
 
 # Original: Someone to watch over me if I fell.
-Ишмаэль: Кто-то, кто присмотрит за мной, если я упаду.
+Измаил: Кто-то, кто присмотрит за мной, если я упаду.
 
 # Original: So I tied one end of the rope to Queequeg's waist, and the other on mine.
-Ишмаэль: Так я привязала один конец верёвки к талии Квиквег, а другой – к своей.
+Измаил: Так я привязала один конец верёвки к талии Квиквег, а другой – к своей.
 
 # Original: Ah... Huh...?
-Ишмаэль: Ах... Хм...?
+Измаил: Ах... Хм...?
 
 # Original: Funny I should mention that.
-Ишмаэль: Забавно, что я это упомянула.
+Измаил: Забавно, что я это упомянула.
 
 # Original: The rope was too short, too flimsy. It immediately snapped...
-Ишмаэль: Верёвка оказалась слишком короткой, слишком хлипкой. Она немедленно порвалась...
+Измаил: Верёвка оказалась слишком короткой, слишком хлипкой. Она немедленно порвалась...
 
 # Original: And I was sent hurtling down into the lard-filled belly of the Whale.
-Ишмаэль: И я полетела вниз в наполненное жиром брюхо Кита.
+Измаил: И я полетела вниз в наполненное жиром брюхо Кита.
 
 # Original: Kah! Gaah...
-Ишмаэль: Кха! Гхаа...
+Измаил: Кха! Гхаа...
 
 # Original: What was harder to bear than the entrails, the viscera, the oil, and various other things I didn't want to think about... was the pitch-black darkness.
-Ишмаэль: Что было труднее вынести, чем внутренности, потроха, масло и разные другие вещи, о которых я не хотела думать... так это кромешная тьма.
+Измаил: Что было труднее вынести, чем внутренности, потроха, масло и разные другие вещи, о которых я не хотела думать... так это кромешная тьма.
 
 # Original: Mmph! Mmrph!
-Ишмаэль: Ммф! Ммрф!
+Измаил: Ммф! Ммрф!
 
 # Original: Whale oil makes a sound as it quivers and reverberates.
-Ишмаэль: Китовое масло издаёт звук, когда дрожит и вибрирует.
+Измаил: Китовое масло издаёт звук, когда дрожит и вибрирует.
 
 # Original: The reverberating oil tries to become one with everything it touches.
-Ишмаэль: Вибрирующее масло пытается слиться воедино со всем, к чему прикасается.
+Измаил: Вибрирующее масло пытается слиться воедино со всем, к чему прикасается.
 
 # Original: Some City folk talk about this phenomenon using big words like ultravibro-fusion, oscillation frequency... How such elements are used to produce the resonance tuning forks, their wavelengths and fuel...
-Ишмаэль: Некоторые жители Города говорят об этом явлении, используя умные слова вроде ультравибро-слияния, частоты осцилляции... О том, как эти элементы используются для производства резонансных камертонов, их длинах волн и топливе...
+Измаил: Некоторые жители Города говорят об этом явлении, используя умные слова вроде ультравибро-слияния, частоты осцилляции... О том, как эти элементы используются для производства резонансных камертонов, их длинах волн и топливе...
 
 # Original: But the point is, a Whale's oil covers and devours anyone it comes in contact with.
-Ишмаэль: Но суть в том, что китовое масло покрывает и поглощает всех, с кем соприкасается.
+Измаил: Но суть в том, что китовое масло покрывает и поглощает всех, с кем соприкасается.
 
 # Original: And when you're devoured by a living Whale's oil, you become a mermaid.
-Ишмаэль: И когда тебя поглощает масло живого Кита, ты становишься русалкой.
+Измаил: И когда тебя поглощает масло живого Кита, ты становишься русалкой.
 
 # Original: And when you're devoured by a dead Whale's oil, your sense of self slowly scatters, until there is nothing of you left.
-Ишмаэль: А когда тебя поглощает масло мёртвого Кита, твоё чувство себя медленно рассеивается, пока от тебя ничего не остаётся.
+Измаил: А когда тебя поглощает масло мёртвого Кита, твоё чувство себя медленно рассеивается, пока от тебя ничего не остаётся.
 
 # Original: ... Ha, ha... Haah...
-Ишмаэль: ... Ха, ха... Хаах...
+Измаил: ... Ха, ха... Хаах...
 
 # Original: That's when I...
-Ишмаэль: Вот тогда я...
+Измаил: Вот тогда я...
 
 # Original: ... realized how tiny and fragile I was. How insignificant of a thing I was.
-Ишмаэль: ... осознала, какой крошечной и хрупкой я была. Каким незначительным существом я была.
+Измаил: ... осознала, какой крошечной и хрупкой я была. Каким незначительным существом я была.
 
 # Original: Maybe the Whales were just lonely.
-Ишмаэль: Может быть, Китам просто было одиноко.
+Измаил: Может быть, Китам просто было одиноко.
 
 # Original: And that's why they carried within them the oil that had the power to turn others just like them.
-Ишмаэль: И поэтому они носили в себе масло, которое обладало силой превращать других в таких же, как они.
+Измаил: И поэтому они носили в себе масло, которое обладало силой превращать других в таких же, как они.
 
 # Original: Maybe, people are the same...
-Ишмаэль: Может быть, люди такие же...
+Измаил: Может быть, люди такие же...
 
 # Original: Out of loneliness, we want to make something, someone ours. To paint them just like us, to fill them with things that make us.
-Ишмаэль: Из-за одиночества мы хотим сделать что-то, кого-то своим. Раскрасить их так же, как мы, наполнить их тем, что составляет нас.
+Измаил: Из-за одиночества мы хотим сделать что-то, кого-то своим. Раскрасить их так же, как мы, наполнить их тем, что составляет нас.
 
 # Original: I don't even know what makes me. How could I possibly paint others like me... if even I don't know what I am?
-Ишмаэль: Я даже не знаю, что составляет меня. Как я могу раскрасить других, как я... если даже я не знаю, кто я?
+Измаил: Я даже не знаю, что составляет меня. Как я могу раскрасить других, как я... если даже я не знаю, кто я?
 
 # Original: Maybe I'm shallower than a Whale.
-Ишмаэль: Может быть, я мельче, чем Кит.
+Измаил: Может быть, я мельче, чем Кит.
 
 # Original: I, who boarded the Pequod just because I wanted to live a life unlike those of others. Just because living a humdrum life was too boring for me...
-Ишмаэль: Я, которая поднялась на борт "Пекода" только потому, что хотела жить жизнью, непохожей на жизнь других. Просто потому, что жить обыденной жизнью было слишком скучно для меня...
+Измаил: Я, которая поднялась на борт "Пекода" только потому, что хотела жить жизнью, непохожей на жизнь других. Просто потому, что жить обыденной жизнью было слишком скучно для меня...
 
 # Original: I...
-Ишмаэль: Я...
+Измаил: Я...
 
 # Original: What do I even want?
-Ишмаэль: Чего я вообще хочу?
+Измаил: Чего я вообще хочу?
 
 # Original: In the dark, where the distinction of all things begin to blur...
-Ишмаэль: В темноте, где границы всех вещей начинают размываться...
+Измаил: В темноте, где границы всех вещей начинают размываться...
 
 # Original: I saw light.
-Ишмаэль: Я увидела свет.
+Измаил: Я увидела свет.
 
 # Original: A ray of light scattered through an opening. I saw a rope drop from there. A rope lowered from the heavens into this dark, lonely abyss.
-Ишмаэль: Луч света, рассеянный через отверстие. Я увидела верёвку, спускающуюся оттуда. Верёвку, опущенную с небес в эту тёмную, одинокую бездну.
+Измаил: Луч света, рассеянный через отверстие. Я увидела верёвку, спускающуюся оттуда. Верёвку, опущенную с небес в эту тёмную, одинокую бездну.
 
 # Original: This rope. I wanted to hold onto this rope and live.
-Ишмаэль: Эта верёвка. Я хотела ухватиться за эту верёвку и жить.
+Измаил: Эта верёвка. Я хотела ухватиться за эту верёвку и жить.
 
 # Original: Because it was there, right before me.
-Ишмаэль: Потому что она была там, прямо передо мной.
+Измаил: Потому что она была там, прямо передо мной.
 
 # Original: Ishmael!
-Квиквег: Ишмаэль!
+Квиквег: Измаил!
 
 # Original: Rope, hold tight!
 Квиквег: Верёвка, держись крепко!
 
 # Original: Ah...
-Ишмаэль: Ах...
+Измаил: Ах...
 
 # Original: Man... Dying in that oil... Now that would've left nothin' for nobody to remember.
 Старбак: Чёрт... Умереть в этом масле... Это бы не оставило ничего, что кто-нибудь мог бы вспомнить.
 
 # Original: Yeah. Guess I almost died one of the most meaningless deaths in the City...
-Ишмаэль: Да. Похоже, я чуть не умерла одной из самых бессмысленных смертей в Городе...
+Измаил: Да. Похоже, я чуть не умерла одной из самых бессмысленных смертей в Городе...
 
 # Original: I was born again that day, maybe.
-Ишмаэль: Возможно, в тот день я родилась заново.
+Измаил: Возможно, в тот день я родилась заново.
 
 # Original: The rope I held onto that day... was a rope that could never be severed.
-Ишмаэль: Верёвка, за которую я держалась в тот день... была верёвкой, которую никогда нельзя было разорвать.
+Измаил: Верёвка, за которую я держалась в тот день... была верёвкой, которую никогда нельзя было разорвать.
 
 # Original: That rope. It snapped.
 Квиквег: Та верёвка. Она порвалась.
 
 # Original: No, no. It can... We can make it whole again. We'll tie another knot. As long as we can make it to the heart...
-Ишмаэль: Нет, нет. Мы можем... Мы можем сделать её целой снова. Мы завяжем ещё один узел. Пока мы сможем добраться до сердца...
+Измаил: Нет, нет. Мы можем... Мы можем сделать её целой снова. Мы завяжем ещё один узел. Пока мы сможем добраться до сердца...
 
 # Original: ... you'll be free.
-Ишмаэль: ... ты будешь свободна.
+Измаил: ... ты будешь свободна.
 
 # Original: Once we, trapped here...
 Квиквег: Когда мы, запертые здесь...

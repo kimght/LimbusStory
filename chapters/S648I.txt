@@ -14,7 +14,7 @@
 Данте: <... К какому концу это приведет?>
 
 # Original: ... To an end where there is nothing but the silence and the lamentation of both Heathcliff and Catherine. Wouldn't you agree?
-Ишмаэль: ... К концу, где останутся лишь тишина и стенания обоих - Хитклифа и Кэтрин. Ты не согласен?
+Измаил: ... К концу, где останутся лишь тишина и стенания обоих - Хитклифа и Кэтрин. Ты не согласен?
 
 # Original: <...Huh?>
 Данте: <...А?>

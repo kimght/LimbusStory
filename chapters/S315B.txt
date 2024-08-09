@@ -41,7 +41,7 @@
 Рассказчик: Распространяющийся огонь превратил ослепительный блеск этих протезированных тел в черноту.
 
 # Original: If this hellscape is their idea of purification, I’d rather stay unclean.
-Ишмаэль: Они же буквально создают ад на земле, прикрываясь её очищением.
+Измаил: Они же буквально создают ад на земле, прикрываясь её очищением.
 
 # Original: Nagel und Hammer has always been devoted to scrutinizing the idea of humanity.
 Мерсо: «Гвоздь и Молот» всегда были одержимы идеей изучения человечности.
@@ -137,7 +137,7 @@
 Хитклиф: Э? Ты чё, хочешь сказать, что нами часы командуют или чё?
 
 # Original: Good grief… You’re reaching uncharted depths of idiocy with your theories. I can’t even be bothered to refute them.
-Ишмаэль: Боже мой… Это настолько дурацкое утверждение, что мне даже оспаривать его не хочется.
+Измаил: Боже мой… Это настолько дурацкое утверждение, что мне даже оспаривать его не хочется.
 
 # Original: Don’t misunderstand, I do like our Dante with their clock-headedness.
 Хон Лу: Не поймите неправильно, мне нравится часоголовость нашего Данте.

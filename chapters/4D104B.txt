@@ -1,5 +1,5 @@
 # Original: It looks like the group was at peace.
-Ишмаэль: Похоже, группа была в мире.
+Измаил: Похоже, группа была в мире.
 
 # Original: Things were good for a short while. It was as though we were on a trip. We thought everything would be fine after leaving our hometown for this new place, but alas...
 Донран: Некоторое время всё было хорошо. Словно мы были в путешествии. Мы думали, что всё будет в порядке после того, как покинем родной город ради этого нового места, но увы...
@@ -71,7 +71,7 @@
 И Сан: Меня это не беспокоит, ибо накопление богатства не имеет для меня смысла. Я настаиваю, чтобы вы потратили эти деньги на благо Лиги.
 
 # Original: Whaaat? Wait, Yi Sang! Were you that rich?
-Ишмаэль: Чтооо? Подождите, И Сан! Ты что, настолько богат?
+Измаил: Чтооо? Подождите, И Сан! Ты что, настолько богат?
 
 # Original: Haha, you might want to do a better job at remembering your part, yes?
 Донран: Ха-ха, тебе стоит лучше запоминать свою роль, да?
@@ -83,4 +83,4 @@
 Хитклиф: Посмотрите, кто тут валяет дурака, не справляясь с тем, что так же легко, как читать слова на бумаге.
 
 # Original: Haah...
-Ишмаэль: Хаах...
+Измаил: Хаах...

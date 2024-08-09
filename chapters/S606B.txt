@@ -29,7 +29,7 @@
 Хитклиф: Ну, погода на Грозовом Перевале всегда была такой ужасной, с громом или без.
 
 # Original: That really is one massive manor if it looks that big from this far away.
-Ишмаэль: Это действительно огромное поместье, если оно выглядит таким большим с такого расстояния.
+Измаил: Это действительно огромное поместье, если оно выглядит таким большим с такого расстояния.
 
 # Original: Charon can’t see well. Not sure if this is the right place. But we're here.
 Харон: Харон плохо видит. Не уверена, правильное ли это место. Но мы здесь.
@@ -47,7 +47,7 @@
 Грегор: А когда было иначе, дружище менеджер...?
 
 # Original: I mean, it's not like we're digging into a Lobotomy Corp. Branch or entering one of the Wings, right? It's just a manor, so I don't see what's stopping him from coming with us.
-Ишмаэль: То есть, мы же не копаемся в филиале Корпорации Лоботомия и не входим в одно из Крыльев, верно? Это просто поместье, так что я не понимаю, что мешает ему пойти с нами.
+Измаил: То есть, мы же не копаемся в филиале Корпорации Лоботомия и не входим в одно из Крыльев, верно? Это просто поместье, так что я не понимаю, что мешает ему пойти с нами.
 
 # Original: Now, off the bus.
 Вергилий: А теперь, сойдите с автобуса.
@@ -80,28 +80,28 @@
 Рассказчик: Так что...
 
 # Original: Vergilius.
-Ишмаэль: Вергилий.
+Измаил: Вергилий.
 
 # Original: Looks like Ishmael decided to step up as our representative.
-Рассказчик: Похоже, Ишмаэль решила выступить в качестве нашего представителя.
+Рассказчик: Похоже, Измаил решила выступить в качестве нашего представителя.
 
 # Original: You introduced yourself to us as our ‘guide’, didn’t you?
-Ишмаэль: Ты представился нам как наш "проводник", не так ли?
+Измаил: Ты представился нам как наш "проводник", не так ли?
 
 # Original: So what kind of 'guide' just tosses everyone at the start of the journey and goes off on their own with the bus driver? Where are you guys even going?
-Ишмаэль: Так что же это за "проводник", который просто бросает всех в начале путешествия и уезжает сам с водителем автобуса? Куда вы вообще едете?
+Измаил: Так что же это за "проводник", который просто бросает всех в начале путешествия и уезжает сам с водителем автобуса? Куда вы вообще едете?
 
 # Original: …….
 Вергилий: …….
 
 # Original: I want to make it clear that I’m not being a hardass for no good reason.
-Ишмаэль: Я хочу ясно дать понять, что я не придираюсь без веской причины.
+Измаил: Я хочу ясно дать понять, что я не придираюсь без веской причины.
 
 # Original: I’m asking you, because I want to trust you.
-Ишмаэль: Я спрашиваю тебя, потому что хочу тебе доверять.
+Измаил: Я спрашиваю тебя, потому что хочу тебе доверять.
 
 # Original: After all, we’re technically all in the same boat. We're coworkers. I’d say the least you could do is to tell us where we’re headed.
-Ишмаэль: В конце концов, мы технически все в одной лодке. Мы коллеги. Я бы сказала, что меньшее, что ты можешь сделать, это сказать нам, куда мы направляемся.
+Измаил: В конце концов, мы технически все в одной лодке. Мы коллеги. Я бы сказала, что меньшее, что ты можешь сделать, это сказать нам, куда мы направляемся.
 
 # Original: Vergilius held his silence for a moment. His brows were not as furrowed as they usually are… which was the only indicator to me that he wasn’t as offended to hear this as I thought he’d be.
 Рассказчик: Вергилий некоторое время хранил молчание. Его брови были не так нахмурены, как обычно... что для меня было единственным признаком того, что он не так оскорблен этими словами, как я думал.
@@ -122,7 +122,7 @@
 Вергилий: Я не хочу утруждать себя подробным изложением каждого пункта моего контракта, да и не должен...
 
 # Original: ... But Ishmael, I quite liked that you used the word 'trust' in your speech. So I believe that you deserve at least a brief explanation.
-Вергилий: ... Но, Ишмаэль, мне понравилось, что ты использовала слово "доверие" в своей речи. Поэтому я считаю, что ты заслуживаешь хотя бы краткого объяснения.
+Вергилий: ... Но, Измаил, мне понравилось, что ты использовала слово "доверие" в своей речи. Поэтому я считаю, что ты заслуживаешь хотя бы краткого объяснения.
 
 # Original: I am not supposed to retrieve the Golden Boughs myself, nor am I allowed to provide you with any direct support. The contract stipulates that I must leave everything to the manager and the Sinners.
 Вергилий: Я не должен сам добывать Золотые Ветви, и мне не разрешается оказывать вам какую-либо прямую поддержку. Контракт предусматривает, что я должен оставить все менеджеру и Грешникам.
@@ -188,7 +188,7 @@
 Хитклиф: Если я вернусь в этих лохмотьях, эти ублюдки—
 
 # Original: ... Those 'bastards'? Who are they?
-Ишмаэль: ... Эти "ублюдки"? Кто они?
+Измаил: ... Эти "ублюдки"? Кто они?
 
 # Original: Bastards that'd always eye me up and down, trying to find a speck of dust, a single flaw, something to latch onto just to humiliate me…
 Хитклиф: Ублюдки, которые всегда осматривали меня с головы до ног, пытаясь найти пылинку, единственный изъян, за что-нибудь зацепиться, чтобы унизить меня...
@@ -305,7 +305,7 @@
 Родион: Не трогай их! Ты хоть представляешь, как усердно Хон Лу над ними работал?
 
 # Original: ... Where'd his bat go?
-Ишмаэль: ... А куда делась его бита?
+Измаил: ... А куда делась его бита?
 
 # Original: It’s a reunion of the century! We can’t possibly let him say hello to his old flame with a big brutish club in his hand~
 Родион: Это же воссоединение века! Мы не можем позволить ему поздороваться со своей старой пассией с большой грубой дубинкой в руке~

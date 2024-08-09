@@ -11,7 +11,7 @@
 Фауст: Ты довольно поздно это осознала.
 
 # Original: …Something feels strange about this Abnormality. Doesn’t quite feel like the others we’ve fought.
-Ишмаэль: …Что-то странное в этой Аномалии. Не похожа на те, с которыми мы сражались раньше.
+Измаил: …Что-то странное в этой Аномалии. Не похожа на те, с которыми мы сражались раньше.
 
 # Original: Hmm, not sure if we even have that much experience in that department, but…
 Грегор: Хм, не уверен, что у нас вообще много опыта в этом деле, но…
@@ -71,7 +71,7 @@
 Рассказчик: Хитклиф был сбит на землю, не успев оказать сопротивление.
 
 # Original: Manager… It looks like you have your work cut out for you.
-Ишмаэль: Менеджер… Похоже, у вас впереди много работы.
+Измаил: Менеджер… Похоже, у вас впереди много работы.
 
 # Original: …Please remember that I gave you my expostulation, Executive Manager.
 Отис: …Пожалуйста, помните, что я высказала вам свои возражения, исполнительный менеджер.

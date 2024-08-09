@@ -68,7 +68,7 @@
 Мерсо: Возможность возникновения ошибки нельзя отрицать, однако сама она мизерна.
 
 # Original: Oh, now that I'm looking at it... that's a sunset, not a sunrise. I couldn't tell because of the lack of color.
-Ишмаэль: О, а ведь действительно, я из-за отсутствия цвета вначале не поняла, но… солнце сейчас не садится. Оно встаёт.
+Измаил: О, а ведь действительно, я из-за отсутствия цвета вначале не поняла, но… солнце сейчас не садится. Оно встаёт.
 
 # Original: This cannot be! This must be the early hours of the morrow, is it not...?!
 Дон Кихот: Сего не может быть! Ведь в сий час солнце должно заходить…
@@ -182,7 +182,7 @@
 Данте: <…….>
 
 # Original: Well, off they go, I guess...? Didn't even give us the chance to ask them more questions.
-Ишмаэль: Ушли так быстро, что я даже и спросить ничего не успела…
+Измаил: Ушли так быстро, что я даже и спросить ничего не успела…
 
 # Original: They're just leaving us here like this...? But isn't this whole mess basically about what'll happen to us?
 Родион: И нас тут оставляют совсем одних...? Но разве от результата этой кутерьмы не наша судьба зависит?
@@ -224,7 +224,7 @@
 Май: Точно! В качестве эксперимента в этом офисе действует протокол TT5-2, так что не забывайте! Любой, кто не синхронизирован со стандартным суточным временем может испытать лёгкий дискомфорт, держите это в уме.
 
 # Original: Whu-what...?
-Ишмаэль: Что… что он сказал…?
+Измаил: Что… что он сказал…?
 
 # Original: Now that's a look of someone who has never once heard of the TT5-2 Protocol, eh? TT5-2 Protocol, as its name suggests, is an invention to address the temporal efficiency problem present in the TT4 Protocol. It's doing test-runs in only a few select T Corp. offices, so if you do ever feel the urge to leave your impressions of this new shiny thing, feel free to jot down a few words on that bulletin— wait a minute, who wrote that 3-star review?
 Май: Никогда раньше не слышали о протоколе TT5-2? Что ж, как можно понять из названия, протокол TT5-2 был разработан, чтобы решить проблему временной эффективности в сравнении с протоколом TT4. Тест-раны проводятся всего в парочке офисов корпорации T, так что если захотите оставить отзыв о нашей новинке — прошу написать его на вон той доске объяв— сто-о-оп, это кто там поставил нам три звезды?
@@ -290,7 +290,7 @@
 Май: Божечки-божечки… Похоже, извлечь из вашего друга десять миллиардов и сорок миллионов ан было непосильной задачей. Видите надпись? Написано “ошибка измерения”. Такое едва ли когда-то происходило.
 
 # Original: ... Wait, you pulled the lever when you didn't even know what was going to happen? Just out of curiosity?
-Ишмаэль: …Стоп, то есть вы хотите сказать, что не знали, что произойдёт, и всё это было из любопытства?
+Измаил: …Стоп, то есть вы хотите сказать, что не знали, что произойдёт, и всё это было из любопытства?
 
 # Original: Hm? Of course! Ten billion Ahn of Time Tax debt is a historically unprecedented amount of debt, so I had to see what would happen. You could land first place in a lottery and you still wouldn't even come close to making ten billion Ahn, and that's before taxes. I'd say you all belong in a museum of history, if I'm being honest!
 Май: Хм? Ну конечно же. Десять миллиардов ан — самая высокая сумма долга, которую я когда-либо видел, так что не мог упустить возможности посмотреть, что произойдёт. Можно хоть главный приз в лотерее выиграть, а это всё равно и близко не будет к десяти миллиардам ан, даже без вычета налогов. Должен сказать, ваше существование уже достойно того, чтобы вас выставить в качестве экспонатов в историческом музее!

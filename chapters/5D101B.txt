@@ -35,43 +35,43 @@
 Рассказчик: Не так давно...
 
 # Original: I'm proposing that we... enter the stomach of the Whale that devoured the Golden Bough.
-Ишмаэль: Я предлагаю... войти в желудок Кита, который поглотил Золотую Ветвь.
+Измаил: Я предлагаю... войти в желудок Кита, который поглотил Золотую Ветвь.
 
 # Original: ... You're mad. All that thrashing's finally sent you off the deep end.
 Хитклиф: ... Ты сошла с ума. Вся эта тряска окончательно свела тебя с ума.
 
 # Original: I'm just going there for my mission. And the Golden Bough just happens to be in the way.
-Ишмаэль: Я просто иду туда ради своей миссии. А Золотая Ветвь просто оказалась на пути.
+Измаил: Я просто иду туда ради своей миссии. А Золотая Ветвь просто оказалась на пути.
 
 # Original: I'll leave it up to you. Well, to the manager, since their decision matters the most.
-Ишмаэль: Я оставляю решение за вами. Точнее, за менеджером, так как их решение имеет наибольшее значение.
+Измаил: Я оставляю решение за вами. Точнее, за менеджером, так как их решение имеет наибольшее значение.
 
 # Original: This Company, me... We're both just trying to find a way to reach our goals. That's all this is.
-Ишмаэль: Эта Компания, я... Мы оба просто пытаемся найти способ достичь своих целей. Вот и все.
+Измаил: Эта Компания, я... Мы оба просто пытаемся найти способ достичь своих целей. Вот и все.
 
 # Original: …….
 Старик Индиго: …….
 
 # Original: Besides, does anyone have a better idea?
-Ишмаэль: Кроме того, есть ли у кого-нибудь идея получше?
+Измаил: Кроме того, есть ли у кого-нибудь идея получше?
 
 # Original: If that thing swallowed the Golden Bough... and if that Golden Bough really counteracts that damned Pallid Whale's Pallidification effects, then...
-Ишмаэль: Если эта штука проглотила Золотую Ветвь... и если эта Золотая Ветвь действительно противодействует эффектам Бледнения этого проклятого Бледного Кита, тогда...
+Измаил: Если эта штука проглотила Золотую Ветвь... и если эта Золотая Ветвь действительно противодействует эффектам Бледнения этого проклятого Бледного Кита, тогда...
 
 # Original: ... We just might be able to survive without getting affected by it.
-Ишмаэль: ... Мы, возможно, сможем выжить, не подвергаясь его воздействию.
+Измаил: ... Мы, возможно, сможем выжить, не подвергаясь его воздействию.
 
 # Original: That's a gamble, Ishy. There's just...
 Родион: Это рискованно, Иши. Просто...
 
 # Original: Yeah. You should know. It's one of your favorite things.
-Ишмаэль: Да. Ты должна знать. Это одна из твоих любимых вещей.
+Измаил: Да. Ты должна знать. Это одна из твоих любимых вещей.
 
 # Original: What do you think, manager?
-Ишмаэль: Что думаешь, менеджер?
+Измаил: Что думаешь, менеджер?
 
 # Original: Ishmael looked at me with expectant eyes as though she knew I had no choice but to agree to this plan.
-Рассказчик: Ишмаэль посмотрела на меня ожидающим взглядом, словно зная, что у меня нет выбора, кроме как согласиться с этим планом.
+Рассказчик: Измаил посмотрела на меня ожидающим взглядом, словно зная, что у меня нет выбора, кроме как согласиться с этим планом.
 
 # Original: Her eyes were telling me: 'You came this far for the Golden Bough. You're not going to go back empty-handed now, are you?'
 Рассказчик: Ее глаза говорили мне: "Ты пришел так далеко за Золотой Ветвью. Ты ведь не собираешься вернуться с пустыми руками?"
@@ -116,7 +116,7 @@
 Фауст: По крайней мере, с учетом известных на данный момент переменных.
 
 # Original: So we *have* a chance.
-Ишмаэль: Значит, у нас *есть* шанс.
+Измаил: Значит, у нас *есть* шанс.
 
 # Original: <... Do you have any other ideas that might get us the Golden Bough?>
 Данте: <... У тебя есть другие идеи, как мы могли бы получить Золотую Ветвь?>

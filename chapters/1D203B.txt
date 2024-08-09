@@ -1,5 +1,5 @@
 ﻿# Original: There appear to be no more signs of the ex-soldiers from this point onward.
-Ишмаэль: С этого момента, я больше не вижу следов бывших солдат.
+Измаил: С этого момента, я больше не вижу следов бывших солдат.
 
 # Original: The commander did warn us not to go further…
 Синклер: Он предупреждал нас не идти глубже…
@@ -32,10 +32,10 @@
 Данте: <Тут как-то слишком много тел.>
 
 # Original: What kind of Abnormality could have massacred all these employees―
-Ишмаэль: Что за аномалия могла устроить резню со столькими сотрудниками?…
+Измаил: Что за аномалия могла устроить резню со столькими сотрудниками?…
 
 # Original: Wait… What’s this smell?
-Ишмаэль: Постойте… Что это за запах?
+Измаил: Постойте… Что это за запах?
 
 # Original: …You see, our Office purchased an expensive device the other day.
 Хопкинс: …Видите ли, как-то раз, наш офис купил весьма недешёвое оборудование.
@@ -200,7 +200,7 @@
 Грегор: Кха… Да, это грех. По крайней мере, здесь.
 
 # Original: Kahoff, kahf. That stings a little, Gregor…
-Ишмаэль: Кха, кха. Это болезненные слова, Грегор…
+Измаил: Кха, кха. Это болезненные слова, Грегор…
 
 # Original: Standing astounded, I snapped back to reality and checked on the Sinners.
 Рассказчик: Стоя в изумлении, я наконец пришёл в себя и осмотрел грешников.

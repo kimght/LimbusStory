@@ -68,7 +68,7 @@
 Саша: Вы все из вагона первого класса?
 
 # Original: Yeah. We just woke up from our capsules.
-Ишмаэль: Да. Мы только что проснулись из наших капсул.
+Измаил: Да. Мы только что проснулись из наших капсул.
 
 # Original: Hmm, but none of you look very... I mean, aren't first class seats supposed to be... Well, why didn't you say so from the get-go?
 Саша: Хмм, но никто из вас не выглядит очень... Я имею в виду, разве места первого класса не должны быть... Ну, почему вы не сказали об этом сразу?
@@ -107,7 +107,7 @@
 Отис: Как отвлекающе... Тебе трудно говорить, не будучи такой гиперактивной?
 
 # Original: Or at least stop swinging your arms around like that...
-Ишмаэль: Или хотя бы перестань так размахивать руками...
+Измаил: Или хотя бы перестань так размахивать руками...
 
 # Original: Can't do that, friend... I broke all my prosthetic arms in a fight, so I'm calibrating a new set. Gotta keep swinging 'em if I want 'em to sync up with the other parts anytime soon.
 Саша: Не могу этого сделать, друг... Я сломала все свои протезированные руки в бою, так что я калибрую новый набор. Нужно продолжать ими махать, если я хочу, чтобы они синхронизировались с остальными частями в ближайшее время.
@@ -257,22 +257,22 @@
 Данте: <... Я не думаю, что Дон Кихоту нужно слышать то, что она только что сказала.>
 
 # Original: ... Didn't know you could be like that, Faust.
-Ишмаэль: ... Не знала, что ты можешь быть такой, Фауст.
+Измаил: ... Не знала, что ты можешь быть такой, Фауст.
 
 # Original: Be like... what?
 Фауст: Быть... какой?
 
 # Original: You knew there was no way the Fixer was actually there to protect them out of pure goodwill, but you decided to go along with Don Quixote's delusions anyway. Am I right?
-Ишмаэль: Ты знала, что нет никакой возможности, что Корректировщик на самом деле защищает их из чистого добросердечия, но ты решила подыграть иллюзиям Дон Кихота. Я права?
+Измаил: Ты знала, что нет никакой возможности, что Корректировщик на самом деле защищает их из чистого добросердечия, но ты решила подыграть иллюзиям Дон Кихота. Я права?
 
 # Original: …….
 Фауст: …….
 
 # Original: Good move. I was getting worried about what might happen if she started acting out again.
-Ишмаэль: Хороший ход. Я начинала беспокоиться о том, что может случиться, если она снова начнет чудить.
+Измаил: Хороший ход. Я начинала беспокоиться о том, что может случиться, если она снова начнет чудить.
 
 # Original: You saw the twinkle in her eyes too, right...? Don Quixote's always been energetic, but she's been especially bouncy today.
-Ишмаэль: Ты тоже видела блеск в ее глазах, верно...? Дон Кихот всегда была энергичной, но сегодня она особенно оживленная.
+Измаил: Ты тоже видела блеск в ее глазах, верно...? Дон Кихот всегда была энергичной, но сегодня она особенно оживленная.
 
 # Original: Eyes...
 Фауст: Глаза...

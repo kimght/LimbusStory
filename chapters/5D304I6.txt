@@ -1,11 +1,11 @@
 # Original: Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
-Рассказчик: Ишмаэль медленно приближается к Ахав. Её лицо окутано мрачной тенью.
+Рассказчик: Измаил медленно приближается к Ахав. Её лицо окутано мрачной тенью.
 
 # Original: So you've finally killed everyone. Didn't even leave a single one of them alive.
 Ахав: Так ты наконец убила всех. Не оставила в живых ни единого.
 
 # Original: Yeah. And you're the last one.
-Ишмаэль: Да. И ты последняя.
+Измаил: Да. И ты последняя.
 
 # Original: Hah...
 Ахав: Хах...
@@ -14,7 +14,7 @@
 Ахав: ХА! ХА! АХАХАХАХАХА!!!!
 
 # Original: YES! Now, we have become one and the same, Ishmael.
-Ахав: ДА! Теперь мы с тобой стали одним целым, Ишмаэль.
+Ахав: ДА! Теперь мы с тобой стали одним целым, Измаил.
 
 # Original: The paths to our destinations are both unclouded. Any sacrifice, any amount of death can be justified as long as we can see our missions through to their ends!
 Ахав: Пути к нашим целям теперь ясны. Любая жертва, любое количество смертей может быть оправдано, если мы сможем довести наши миссии до конца!

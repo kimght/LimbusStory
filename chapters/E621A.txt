@@ -50,7 +50,7 @@
 Дон Кихот: Истинно, истинно! Очевидно, что они жаждут чего-то, бросаясь на всех и вся в отчаянных поисках этого!
 
 # Original: Right... That's strange, though. I thought hunger or thirst wasn't a thing aboard these trains.
-Ишмаэль: Верно... Хотя это странно. Я думала, что голод или жажда не существуют на этих поездах.
+Измаил: Верно... Хотя это странно. Я думала, что голод или жажда не существуют на этих поездах.
 
 # Original: It could be determined from the entities' attack patterns that their offensives were not based on rational thought. The source of this behavior can only be traced back to primal aggressiveness.
 Мерсо: По характеру атак этих сущностей можно определить, что их наступательные действия не основаны на рациональном мышлении. Источник такого поведения можно проследить только к первобытной агрессивности.

@@ -104,13 +104,13 @@
 Хитклиф: Да захлопнись ты уже!
 
 # Original: …Sorry, did you happen to realize you’re being louder here?
-Ишмаэль: …Эй, ты понимаешь, что сам гораздо громче неё?
+Измаил: …Эй, ты понимаешь, что сам гораздо громче неё?
 
 # Original: …Even if you can’t die, you sure as hell can suffer, no? So say that again.
 Хитклиф: …Может, ты не сдохнешь, но помучаешься знатно. Давай, вякни мне тут ещё раз.
 
 # Original: I say the right thing and your first response is violence? Shows how refined you are.
-Ишмаэль: Приятно знать, что на правду ты отвечаешь насилием. Это многое говорит о тебе.
+Измаил: Приятно знать, что на правду ты отвечаешь насилием. Это многое говорит о тебе.
 
 # Original: …Ha.
 Хитклиф: …Ха-а.
@@ -128,7 +128,7 @@
 Хитклиф: Гх…
 
 # Original: Kuhㅡ
-Ишмаэль: Кх…ы…
+Измаил: Кх…ы…
 
 # Original: TRANCHES.
 Рёшу: ЛОШОК.
@@ -293,7 +293,7 @@
 Хитклиф: Мгх…
 
 # Original: …Ugh.
-Ишмаэль: …Хх.
+Измаил: …Хх.
 
 # Original: As the lumps of blood rose into the air and flew away, my sight was cleared of dreadful redness, returning to the grumbling bus.
 Рассказчик: И когда кровавые пузыри поднялись в воздух и исчезли, красный, ужасающий вид покинул моё поле зрения, мигом превратившись в трясущийся автобус.
@@ -332,7 +332,7 @@
 Хитклиф: Следующим, часоголовый, будешь ты. Уяснил?
 
 # Original: You really are as coarse as you look.
-Ишмаэль: Я думала, мне кажется, но нет, ты в самом деле настолько неотёсан и груб.
+Измаил: Я думала, мне кажется, но нет, ты в самом деле настолько неотёсан и груб.
 
 # Original: …Was dying once not enough for you?
 Хитклиф: …Ты подохла уже разок, не хватило?
@@ -353,7 +353,7 @@
 Хитклиф: …!
 
 # Original: ……
-Ишмаэль: ……
+Измаил: ……
 
 # Original: The Sinners on a collision course stopped dead in their tracks.
 Рассказчик: Грешники, только собиравшиеся сцепиться в новой драке, с ужасом замерли на месте.

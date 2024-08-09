@@ -228,13 +228,13 @@
 Рассказчик: Но он лишь пустым взглядом уставился в окно, не выражая какого-либо интереса к последующему диалогу.
 
 # Original: Haaa… I can’t believe you people. Aren’t proper introductions the first step to being a member of society?
-Ишмаэль: Ха-а… Вы меня разочаровываете. Разве вы не знаете, что общение начинается с приветствия?
+Измаил: Ха-а… Вы меня разочаровываете. Разве вы не знаете, что общение начинается с приветствия?
 
 # Original: Call me Ishmael, if you please.
-Ишмаэль: Зовите меня Измаил.
+Измаил: Зовите меня Измаил.
 
 # Original: I heard you glued our bodies back together from pieces. I look forward to working with you.
-Ишмаэль: Слышала, это вы собрали нас по кусочкам. Надеюсь, мы сработаемся.
+Измаил: Слышала, это вы собрали нас по кусочкам. Надеюсь, мы сработаемся.
 
 # Original: She gave a polite bow before returning to her seat.
 Рассказчик: Она вежливо поклонилась, прежде чем вернуться на своё место.
@@ -384,7 +384,7 @@
 Рассказчик: Я одобрительно кивнул, выслушав её речь, хотя до сих пор не понимаю, что она имела в виду под "грубостью".
 
 # Original: I’m amazed at how you can sing such bold-faced high praise not too long after calling them a “miserably writhing wretch”.
-Ишмаэль: Поверить не могу: в Лесу называешь его жалким, а затем поёшь такие панегирики о его величии.
+Измаил: Поверить не могу: в Лесу называешь его жалким, а затем поёшь такие панегирики о его величии.
 
 # Original: …I think I see now.
 Рассказчик: …Кажется, теперь я понял.

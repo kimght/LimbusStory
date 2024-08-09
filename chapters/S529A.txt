@@ -1,11 +1,11 @@
 # Original: Looks like Rim wasn't lying. I don't think there's a Golden Bough here.
-Ишмаэль: Похоже, Рим не соврал. Я не думаю, что здесь есть Золотая Ветвь.
+Измаил: Похоже, Рим не соврал. Я не думаю, что здесь есть Золотая Ветвь.
 
 # Original: I don't feel the bough, either.
-Ишмаэль: Я тоже не чувствую ветви.
+Измаил: Я тоже не чувствую ветви.
 
 # Original: Now... what will you do?
-Ишмаэль: Теперь... что вы будете делать?
+Измаил: Теперь... что вы будете делать?
 
 # Original: All organic matter other than us in this Lobotomy Corp. Branch have doubtless been infected.
 Мерсо: Вся органическая материя в этом филиале Корпорации Лоботомии, кроме нас, несомненно, заражена.

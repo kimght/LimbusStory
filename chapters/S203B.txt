@@ -14,25 +14,25 @@
 Грегор: А не маловато ли в этой "совместной операции", собственно, самой совместной работы? Вы ж буквально говорите нам следовать гуськом за вами.
 
 # Original: This is insulting. Are they taking us for lubbers or what?
-Ишмаэль: Оскорбительно. Они нас за увальней что ли держат?
+Измаил: Оскорбительно. Они нас за увальней что ли держат?
 
 # Original: Look, Manager, we’ve got to put our foot down and…
-Ишмаэль: Менеджер, послушайте, нам надо твёрдо встать на своём…
+Измаил: Менеджер, послушайте, нам надо твёрдо встать на своём…
 
 # Original: And…
-Ишмаэль: И…
+Измаил: И…
 
 # Original: …do as they say, I guess?
-Ишмаэль: …пожалуй, послушаться их?
+Измаил: …пожалуй, послушаться их?
 
 # Original: <Huh?>
 Данте: <Хах?>
 
 # Original: …The documents they gave us. They’re flawless.
-Ишмаэль: …Документы, что они нам дали. Они безупречны.
+Измаил: …Документы, что они нам дали. Они безупречны.
 
 # Original: Look at this. It has routes drawn out and everything. It’s been ages since I saw a plan this clear and meticulous.
-Ишмаэль: Взгляните. Тут полностью расписаны все варианты развития событий — вообще всё. Я уже целую вечность не видела настолько чёткого и тщательно проработанного плана.
+Измаил: Взгляните. Тут полностью расписаны все варианты развития событий — вообще всё. Я уже целую вечность не видела настолько чёткого и тщательно проработанного плана.
 
 # Original: Mhm, surely. This is certainly indicative of their knowledge in writing up proper plans of operation.
 Отис: Мхм, действительно. Это определённо свидетельствует о их познаниях в составлении надлежащих планов для операции.
@@ -206,7 +206,7 @@
 Член банды Бом-бом: На чё вылупились? Думаете шучу?
 
 # Original: Gee… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?
-Ишмаэль: Боже… Так заезженно, что аж отвечать не хочется. Почему люди так неизобретательны в разбрасывании колкостями?
+Измаил: Боже… Так заезженно, что аж отвечать не хочется. Почему люди так неизобретательны в разбрасывании колкостями?
 
 # Original: Shouldn’t we… help out, maybe?
 Синклер: Может… нам как-то помочь?
@@ -296,7 +296,7 @@
 Рассказчик: И это идёт вразрез её принципам…!
 
 # Original: …!
-Ишмаэль: …!
+Измаил: …!
 
 # Original: Ishmael seems to have noticed what I meant, and hurriedly looked around.
 Рассказчик: Измаил, кажется, догадалась о чём я думал, и быстро оглянулась.
@@ -455,7 +455,7 @@
 Хитклиф: Этот лживый старикан…
 
 # Original: I had no expectations for him in the first place, but that man really has a shaky reed for his backbone.
-Ишмаэль: Я, конечно, не возлагала на него особых надежд, но не думала, что он так быстро переобуется.
+Измаил: Я, конечно, не возлагала на него особых надежд, но не думала, что он так быстро переобуется.
 
 # Original: Although the pawnbroker switching sides in a heartbeat and the finger-pointing clock slander—over something I wasn’t responsible for, too—hurt me a little, I was determined to stand firm.
 Рассказчик: И хотя ростовщик в мгновение ока переметнулся на другую сторону, переложив всю вину на меня, — за то, к чему я вообще даже был не причастен, — что ранило меня, я был намерен продолжать стоять на своём.

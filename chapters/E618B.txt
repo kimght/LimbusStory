@@ -106,10 +106,10 @@
 Рассказчик: ... И это возвращает нас к настоящему моменту.
 
 # Original: Let me get this right...
-Ишмаэль: Дайте-ка мне уточнить...
+Измаил: Дайте-ка мне уточнить...
 
 # Original: This train's still running...
-Ишмаэль: Этот поезд всё ещё движется...
+Измаил: Этот поезд всё ещё движется...
 
 # Original: And we're drifting through some unknown dimension...?
 Хитклиф: И мы дрейфуем через какое-то неизвестное измерение...?
@@ -124,7 +124,7 @@
 Фауст: ... Да.
 
 # Original: Haaaaah...
-Ишмаэль: Хааах...
+Измаил: Хааах...
 
 # Original: What... what the hell is wrong with you? Huh?
 Грегор: Что... что, чёрт возьми, с тобой не так? А?
@@ -196,7 +196,7 @@
 Данте: <Давайте сначала выслушаем её. Вас это устроит, ребята?>
 
 # Original: ... If you say so. I'll go along with it.
-Ишмаэль: ... Если ты так говоришь. Я согласна.
+Измаил: ... Если ты так говоришь. Я согласна.
 
 # Original: ... Fine. I suppose losin' my rag rarely ever did anything.
 Хитклиф: ... Ладно. Полагаю, злиться редко когда помогало.
@@ -277,13 +277,13 @@
 Грегор: ... Хаах. Я бы оценил, если бы ты хотя бы дала нам подсказку.
 
 # Original: Yeah. I understand where you're coming from, but it's not like there's someone out there monitoring your every move and every word, right?
-Ишмаэль: Да. Я понимаю, откуда ты исходишь, но ведь нет никого, кто следил бы за каждым твоим движением и каждым словом, верно?
+Измаил: Да. Я понимаю, откуда ты исходишь, но ведь нет никого, кто следил бы за каждым твоим движением и каждым словом, верно?
 
 # Original: That is...
 Фауст: Это...
 
 # Original: Haaah...
-Ишмаэль: Хааах...
+Измаил: Хааах...
 
 # Original: ... But not everyone was willing to let this go without saying their piece.
 Рассказчик: ... Но не все были готовы оставить это без комментариев.

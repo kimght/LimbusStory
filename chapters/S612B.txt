@@ -32,7 +32,7 @@
 Хитклиф: …….
 
 # Original: ... Her will, huh? We should at least give it a listen to hear why she mentioned Heathcliff.
-Ишмаэль: ... Завещание, да? Мы должны хотя бы выслушать, почему она упомянула Хитклифа.
+Измаил: ... Завещание, да? Мы должны хотя бы выслушать, почему она упомянула Хитклифа.
 
 # Original: Heathcliff sat down wordlessly.
 Рассказчик: Хитклиф молча сел.
@@ -209,7 +209,7 @@
 Рассказчик: <color=#c29a5f>... моя Золотая Ветвь станет твоей.</color>
 
 # Original: ... Huh?
-Ишмаэль: ... А?
+Измаил: ... А?
 
 # Original: The mere mention of the Golden Bough...
 Рассказчик: Одно лишь упоминание Золотой Ветви...
@@ -230,7 +230,7 @@
 Рассказчик: <color=#c29a5f>Я оставлю свою Золотую Ветвь тебе, Хитклиф.</color>
 
 # Original: The Golden Bough... was her personal property? Not even her estate's or her family's? Just her?
-Ишмаэль: Золотая Ветвь... была её личной собственностью? Не поместья или её семьи? Просто её?
+Измаил: Золотая Ветвь... была её личной собственностью? Не поместья или её семьи? Просто её?
 
 # Original: Seventh strike of lightning? What do you think that means?
 Синклер: Седьмой удар молнии? Как вы думаете, что это значит?

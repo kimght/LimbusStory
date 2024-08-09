@@ -50,7 +50,7 @@
 Данте: <А, понял! <i>Нашинковать их всех!</i>>
 
 # Original: …Huh.
-Ишмаэль: …Хах.
+Измаил: …Хах.
 
 # Original: Nod.
 Рёшу: Угу.
@@ -80,7 +80,7 @@
 Рассказчик: Воистину ужасающая картина.
 
 # Original: I think I like Heathcliff better this way, y’know? He actually seems intelligent now.
-Ишмаэль: Кажется, Хитклифу даже идёт? Словно сразу интеллекта прибавилось.
+Измаил: Кажется, Хитклифу даже идёт? Словно сразу интеллекта прибавилось.
 
 # Original: Oh gosh, what do we do, Dante? Wait, quick! Your clock!
 Родион: Д-Данте, что нам делать? Точно! Быстро, твои часы!
@@ -206,7 +206,7 @@
 Хитклиф: А потом хозяин стал странным… И заразил нас…
 
 # Original: Pft… Did you just say those chickens were “us”?
-Ишмаэль: Пф-ф… Ты что, только что сказал про себя и цыплят "мы"?
+Измаил: Пф-ф… Ты что, только что сказал про себя и цыплят "мы"?
 
 # Original: …Bugger, I’m still recovering from those headhens… This is confusing…
 Хитклиф: …Ай сука, поверить не могу, что эти лицыплята… Такая путаница в голове.
@@ -353,7 +353,7 @@
 Грегор: Это дело вкуса!
 
 # Original: This is childish, really. Do you guys seriously want to take sides over this?
-Ишмаэль: Вы словно дети, ей-богу. Вы серьёзно разделились из-за этого?
+Измаил: Вы словно дети, ей-богу. Вы серьёзно разделились из-за этого?
 
 # Original: Tell us, why don’t you tell us? Which side are you, Ishy? If you had to choose between Greg and Ryōshū to serve food for us Sinners…
 Родион: И что? Ну же, ты за кого, Изенька? Выбирай, кто станет твоим шефом, Рёшу или Грегор…
@@ -368,7 +368,7 @@
 Грегор: Из-измаил…?
 
 # Original: Sorry, Gregor, but if it’s canned goods we’re talking about… I ate more than I ever want on the ship…
-Ишмаэль: Сэр Грегор, эти ваши консервы… Мне уже было плохо от них ещё со времён на корабле…
+Измаил: Сэр Грегор, эти ваши консервы… Мне уже было плохо от них ещё со времён на корабле…
 
 # Original: C’mon, why won’t you look me in the eyes, Ishmael? Eh?
 Грегор: Но почему ты избегаешь мой взгляд, Измаил? Эй?

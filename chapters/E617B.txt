@@ -98,7 +98,7 @@
 Дон Кихот: Ах, воистину... сей Град полон разнообразных причудливых личностей...
 
 # Original: I'm pretty sure he was thinking the same thing...
-Ишмаэль: Я уверена, он думал то же самое...
+Измаил: Я уверена, он думал то же самое...
 
 # Original: I guess the City really is full of people with full body prosthetics...
 Синклер: Похоже, Город действительно полон людей с полными протезами тела...
@@ -119,7 +119,7 @@
 Родион: О, ты типа едешь в "первом классе плюс" или что-то в этом роде?
 
 # Original: That's a Color for you, I guess. Special treatment from the Wings no matter he goes.
-Ишмаэль: Вот что значит быть Цветом, полагаю. Особое отношение от Крыльев, куда бы он ни пошел.
+Измаил: Вот что значит быть Цветом, полагаю. Особое отношение от Крыльев, куда бы он ни пошел.
 
 # Original: Charon wants to go back to Mephi. Mephi'll be lonely.
 Харон: Харон хочет вернуться к Мефи. Мефи будет одиноко.
@@ -227,19 +227,19 @@
 Родион: Когда этот Кит взорвался, мы все покрылись всякими его мерзкими, склизкими кусочками. Они были на нашей одежде, обуви, везде!
 
 # Original: ... Yeah.
-Ишмаэль: ... Да.
+Измаил: ... Да.
 
 # Original: And do you remember how much work it took us to clean our bloodied, fishy-fleshy-gunked clothing...?
 Родион: И помнишь, сколько усилий нам потребовалось, чтобы очистить нашу окровавленную, провонявшую рыбой и мясом одежду...?
 
 # Original: This really isn't something I want to revisit, but... yeah.
-Ишмаэль: Я действительно не хочу это вспоминать, но... да.
+Измаил: Я действительно не хочу это вспоминать, но... да.
 
 # Original: Right? And do you also remember how Don Quixote never took her shoes off once during that whole ordeal?!
 Родион: Верно? И ты также помнишь, как Дон Кихот ни разу не сняла свои ботинки за все это время?!
 
 # Original: ... Okay, I guess they do look a bit filthy...
-Ишмаэль: ... Ладно, думаю, они действительно выглядят немного грязными...
+Измаил: ... Ладно, думаю, они действительно выглядят немного грязными...
 
 # Original: I ask thee, dear compatriots. Hast thou ever witnessed an errant knight who leaves the side of their beloved steed?
 Дон Кихот: Я спрашиваю вас, дорогие соратники. Видели ли вы когда-нибудь странствующего рыцаря, который покидает бок своего возлюбленного скакуна?
@@ -275,7 +275,7 @@
 Рассказчик: БИП—
 
 # Original: Oh, I think we're leaving soon.
-Ишмаэль: О, кажется, мы скоро отправляемся.
+Измаил: О, кажется, мы скоро отправляемся.
 
 # Original: This is for WARP train PW-612 bound for P Corp. Boarding period is ending soon.
 Рассказчик: Это для ВАРП поезда PW-612, направляющегося в Корп. P Период посадки скоро заканчивается.

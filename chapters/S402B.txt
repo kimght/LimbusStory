@@ -23,13 +23,13 @@
 Дон Кихот: Полно вам, можете быть спокойны! Мы примчались сюда, дабы спасти невинные жизни, подобные вашей, ибо мы есть...
 
 # Original: We are no such things as heroes, so please don’t say anything unnecessary.
-Ишмаэль: Мы не герои, так что, пожалуйста, не говори ничего лишнего.
+Измаил: Мы не герои, так что, пожалуйста, не говори ничего лишнего.
 
 # Original: Oi, we need to cross here. If you’re here to stop us for nothing, then I’ll give you a taste of this bat.
 Хитклиф: Эй, нам нужно пройти здесь. Если ты пришёл остановить нас просто так, то я дам тебе попробовать эту биту.
 
 # Original: Looking at Heathcliff’s intimidating face and Ishmael’s frowned expression in turn, the civilian seemed to take a moment to consider which would be more of a threat.
-Рассказчик: Глядя поочерёдно на устрашающее лицо Хитклифа и нахмуренное выражение Ишмаэль, гражданский, казалось, задумался, что представляет большую угрозу.
+Рассказчик: Глядя поочерёдно на устрашающее лицо Хитклифа и нахмуренное выражение Измаил, гражданский, казалось, задумался, что представляет большую угрозу.
 
 # Original: There’s… something ahead… something that shouldn’t be real…
 Бегущий гражданский: Там... что-то впереди... что-то, чего не должно существовать...
@@ -44,7 +44,7 @@
 Бегущий гражданский: ...Да, вы правы. Именно так...!
 
 # Original: Then, if it isn’t a person…
-Ишмаэль: Тогда, если это не человек...
+Измаил: Тогда, если это не человек...
 
 # Original: Keeping the suspected possibilities in our minds, we headed for the center of the disturbance…
 Рассказчик: Держа в уме предполагаемые возможности, мы направились к центру беспорядков...
@@ -83,7 +83,7 @@
 Синклер: ...Может, это охрана, которую отправляет Корпорация К?
 
 # Original: Rather than suppressing the Abnormality… they’re just getting completely wrecked.
-Ишмаэль: Вместо подавления Аномалии... их просто полностью уничтожают.
+Измаил: Вместо подавления Аномалии... их просто полностью уничтожают.
 
 # Original: Mmh… It sorta takes me back to the time when we got beat bad in D Corp’s District…
 Грегор: Мм... Это как-то напоминает мне о том времени, когда нас сильно побили в Районе Корпорации D...
@@ -254,16 +254,16 @@
 И Сан: Это... устройство, называемое дроном.
 
 # Original: Oh, they might be combat drones K Corp. sent to help us. The Wing seems to be above average in terms of technology.
-Ишмаэль: О, это могут быть боевые дроны, которые Корпорация К отправила нам на помощь. Похоже, это Крыло выше среднего уровня в плане технологий.
+Измаил: О, это могут быть боевые дроны, которые Корпорация К отправила нам на помощь. Похоже, это Крыло выше среднего уровня в плане технологий.
 
 # Original: No, viewing its design, it doesn’t appear to be equipped with combat functionalities. It also has a camera at the center.
 Фауст: Нет, судя по его дизайну, он не оснащён боевыми функциями. У него также камера в центре.
 
 # Original: Well… I guess it makes sense to get a close look at the mess happening in a well-off Nest.
-Ишмаэль: Ну... Думаю, имеет смысл получить детальный взгляд на беспорядок, происходящий в благополучном Гнезде.
+Измаил: Ну... Думаю, имеет смысл получить детальный взгляд на беспорядок, происходящий в благополучном Гнезде.
 
 # Original: Abashed, Ishmael mumbled.
-Рассказчик: Смущённо пробормотала Ишмаэль.
+Рассказчик: Смущённо пробормотала Измаил.
 
 # Original: Ohh! Will we be featured on the thing called the “news”?
 Дон Кихот: Ох! Неужели мы будем показаны в том, что именуется "новостями"?
@@ -326,7 +326,7 @@
 Загадочный дрон: Приветствуем вас, граждане, ваша безопасность обеспечена. Пожалуйста, держитесь на расстоянии десяти метров.
 
 # Original: Hah, the instructions make no sense. What difference is ten meters going to make in this mess?
-Ишмаэль: Ха, эти инструкции бессмысленны. Какая разница сделают эти десять метров в этом хаосе?
+Измаил: Ха, эти инструкции бессмысленны. Какая разница сделают эти десять метров в этом хаосе?
 
 # Original: Tsk, not gonna do us any favors, huh…
 Грегор: Тск, не собираются нам помогать, да...

@@ -1,11 +1,11 @@
 ﻿# Original: …That was a tough opponent. We should move before they come back to their senses.
-Ишмаэль: …Тяжёлый был соперник. Пойдёмте отсюда, пока они не очнулись.
+Измаил: …Тяжёлый был соперник. Пойдёмте отсюда, пока они не очнулись.
 
 # Original: What a shameful thing to say. A soldier does not retreat before the enemy when victory is in sight.
 Отис: Как постыдно. Солдату нельзя бежать от врага, когда победа прямо у него под носом.
 
 # Original: Can’t you save the military drill for a better time?
-Ишмаэль: Можешь отложить свои военные заморочки на потом?
+Измаил: Можешь отложить свои военные заморочки на потом?
 
 # Original: <Ishmael is right. That’s not someone we can beat easily.>
 Данте: <Измаил права. Они не из тех, с кем нам будет легко справиться.>
@@ -113,7 +113,7 @@
 Рассказчик: Ночь свята…
 
 # Original: It’s clearer than ever now… Prosthetic body parts are “heresy” to them.
-Ишмаэль: Теперь предельно ясно… что "ересь" в их понимании — это протезы.
+Измаил: Теперь предельно ясно… что "ересь" в их понимании — это протезы.
 
 # Original: Though it has been quite a while since prostheses were first introduced to the City…
 Фауст: Пусть протезы достаточно давно появились в Городе…
@@ -140,13 +140,13 @@
 Синклер: И поэтомy…
 
 # Original: No.
-Ишмаэль: Нет.
+Измаил: Нет.
 
 # Original: The way I see it, attributing it to a high-flown cause of any kind is giving them too much credit.
-Ишмаэль: На мой взгляд, иметь о них такое представление — слишком большая честь.
+Измаил: На мой взгляд, иметь о них такое представление — слишком большая честь.
 
 # Original: They’re… just lunatics, consumed by madness and violence.
-Ишмаэль: Они… просто поехавшие, движимые лишь сумасшествием и жестокостью.
+Измаил: Они… просто поехавшие, движимые лишь сумасшествием и жестокостью.
 
 # Original: Ishmael asserted to him.
 Рассказчик: Оборвала его Измаил.

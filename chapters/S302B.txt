@@ -38,10 +38,10 @@
 Рассказчик: Всё меньше грешников задавались вопросом, что же значат аббревиатуры Рёшу.
 
 # Original: A company as big as ours might get a free pass.
-Ишмаэль: Компании по типу «Лимбус» должны предоставлять бесплатный пропуск.
+Измаил: Компании по типу «Лимбус» должны предоставлять бесплатный пропуск.
 
 # Original: Not to mention, breaking through using the method dear Ryōshū suggested will take ages. How badly must you underestimate a Nest actively governed by a Wing to say that?
-Ишмаэль: К тому же метод, предложенный мисс Рёшу, займёт уйму времени. Это насколько надо недооценивать Гнездо, охраняемое Крылом, чтобы предложить подобное?
+Измаил: К тому же метод, предложенный мисс Рёшу, займёт уйму времени. Это насколько надо недооценивать Гнездо, охраняемое Крылом, чтобы предложить подобное?
 
 # Original: <Oh, I see, no one’s gonna take into account how much I’ll suffer for that CIDER, huh?>
 Данте: <И видимо никто не берёт в расчёт, насколько я пострадаю от этого СОВОКа?>

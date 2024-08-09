@@ -182,7 +182,7 @@
 Эффи: Мы изучили записи иммиграционного контроля и обнаружили, что корпорация N отправила сюда целую кучу своих сотрудников пару недель назад. В нашем же направлении.
 
 # Original: From N Corp?
-Ишмаэль: Из корпорации N?
+Измаил: Из корпорации N?
 
 # Original: Though this wasn’t an officially disclosed activity, seeing that K Corp. has let them pass means they might have made a deal under the table.
 Эффи: Так как они официально не объявляли об этом, исходя из того, что корпорация К их пропустила, можно сделать вывод, что они заключили подпольную сделку.
@@ -236,7 +236,7 @@
 Сауде: …Можете ничего не говорить.
 
 # Original: Come on, we don’t have much time, so we should get going.
-Ишмаэль: Давайте, у нас не так много времени, идём уже.
+Измаил: Давайте, у нас не так много времени, идём уже.
 
 # Original: Ah, dear. Mr. Vergilius is nowhere to be seen again.
 Эффи: Эх, и Вергилия опять нет нигде поблизости.

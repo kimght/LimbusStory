@@ -29,13 +29,13 @@
 Фауст: …….
 
 # Original: Did you just sigh, Faust?
-Ишмаэль: Это сейчас раздражение было в вашем вздохе, Фауст?
+Измаил: Это сейчас раздражение было в вашем вздохе, Фауст?
 
 # Original: No. Faust merely exhaled more forcefully for a moment.
 Фауст: Нет. Дыхание Фауст просто лишь на мгновение стало интенсивнее.
 
 # Original: I'm not saying that there's anything wrong with that, it's just... it's been a while since you've shown a genuine reaction to anything.
-Ишмаэль: Я под этим ничего не хочу сказать… Но просто давно не видела, чтобы вы имели подлинную реакцию на что-либо.
+Измаил: Я под этим ничего не хочу сказать… Но просто давно не видела, чтобы вы имели подлинную реакцию на что-либо.
 
 # Original: The other child snickered before producing a notepad.
 Рассказчик: Дитя слегка хихикнуло и достало блокнот.
@@ -44,13 +44,13 @@
 Фауст: …Нет необходимости записывать всё это, Измаил.
 
 # Original: It's our job to observe and record every event during a territory protection contract, isn't it?
-Ишмаэль: Разве это не наша работа — отслеживать и фиксировать всё, что происходит во время территориальной защиты?
+Измаил: Разве это не наша работа — отслеживать и фиксировать всё, что происходит во время территориальной защиты?
 
 # Original: I am not some observation target.
 Фауст: Я не являюсь целью защиты…
 
 # Original: Hey, Don Quixote is on the move.
-Ишмаэль: А-а, Дон Кихот в движении.
+Измаил: А-а, Дон Кихот в движении.
 
 # Original: ...Hm.
 Фауст: …Хм.
@@ -77,7 +77,7 @@
 Фауст: Клиент уже вошёл в контакт с вражескими силами. А упомянутая вами сторона оценивается как вторженцы со стороны…
 
 # Original: Oh, someone's moving in on Don Quixote's position.
-Ишмаэль: О, в том месте, где сейчас Дон Кихот, кто-то двигается.
+Измаил: О, в том месте, где сейчас Дон Кихот, кто-то двигается.
 
 # Original: ...Sinclair, immediately move to Don Quixote's position and provide support. Section 6, follow the plan and focus on neutralizing any and all external forces.
 Фауст: …Синклер, сию же секунду направляйтесь в сторону Дон Кихот и окажите ей поддержку. Шестая секция, на вас будет нейтрализация вторгающихся со стороны сил.
@@ -86,7 +86,7 @@
 Синклер: Ого, так быстро… Да! Вас понял!
 
 # Original: ...This turned out to be a pretty big operation, huh?
-Ишмаэль: …Эта операция становится всё закрученнее и закрученнее.
+Измаил: …Эта операция становится всё закрученнее и закрученнее.
 
 # Original: While a joint operation isn't strictly uncommon, it's not quotidian, either.
 Фауст: Совместные операции не так уж и редки, но и не распространены.
@@ -98,7 +98,7 @@
 Фауст: Например, существует вероятность, что…
 
 # Original: Huh, speak of the devil.
-Ишмаэль: Ха, помяни дьявола.
+Измаил: Ха, помяни дьявола.
 
 # Original: Indeed. Such occurrences would warrant it.
 Фауст: Воистину. Может произойти это.

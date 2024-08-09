@@ -20,7 +20,7 @@
 Фауст: …Для молитвы.
 
 # Original: …What is this sound?
-Ишмаэль: …Что это был за звук?
+Измаил: …Что это был за звук?
 
 # Original: This feels awfully familiar… Somehow annoyingly tingly… and unpleasant…
 Хитклиф: Звучит отвратительно знакомо… Почему-то бесяще… и мерзко…

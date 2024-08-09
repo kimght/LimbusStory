@@ -62,22 +62,22 @@
 Хитклиф: Ты отдал все для Лиги.
 
 # Original: ...Do you remember? The first thing I invented... after getting a job at T Corp.
-Ишмаэль: ...Помнишь? Первое, что я изобрела... после того, как устроилась на работу в Крыло T.
+Измаил: ...Помнишь? Первое, что я изобрела... после того, как устроилась на работу в Крыло T.
 
 # Original: The identification tags, right?
 Хон Лу: Идентификационные метки, верно?
 
 # Original: Yeah, I made them to help lost kids.
-Ишмаэль: Да, я сделала их, чтобы помочь потерявшимся детям.
+Измаил: Да, я сделала их, чтобы помочь потерявшимся детям.
 
 # Original: It's absurd, I know. Maybe I expected it to help more children reunite with their parents.
-Ишмаэль: Это абсурдно, я знаю. Может, я надеялась, что это поможет большему количеству детей воссоединиться с родителями.
+Измаил: Это абсурдно, я знаю. Может, я надеялась, что это поможет большему количеству детей воссоединиться с родителями.
 
 # Original: But now... they're being used to monitor the workers' time spent on the job in every factory.
-Ишмаэль: Но теперь... их используют для контроля времени, проведенного рабочими на работе, на каждой фабрике.
+Измаил: Но теперь... их используют для контроля времени, проведенного рабочими на работе, на каждой фабрике.
 
 # Original: Heck, I made those things, and even I'm not free from the obligation to wear one while working.
-Ишмаэль: Черт, я сама сделала эти штуки, и даже я не освобождена от обязанности носить их во время работы.
+Измаил: Черт, я сама сделала эти штуки, и даже я не освобождена от обязанности носить их во время работы.
 
 # Original: Those were the kinds of achievements we accomplished in T Corp's district.
 И Сан: Вот такие достижения мы совершали в районе Крыла T.

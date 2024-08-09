@@ -84,7 +84,7 @@
 Рассказчик: Сырые цыплята… Нападали на людей.
 
 # Original: …What in the world? Is he commanding the chickens?
-Ишмаэль: …Что? Он управляет этими цыплятами?
+Измаил: …Что? Он управляет этими цыплятами?
 
 # Original: That’s definitely strange behavior. How spiteful does someone have to be to resort to that kind of stuff…?
 Грегор: Это не нормальная реакция. Сколько злобы должен хранить в себе человек, чтобы стать таким…?
@@ -159,7 +159,7 @@
 Хитклиф: Это… Не такой уж и плохой запрос…
 
 # Original: Hello…? Aren’t we supposed to be looking for Golden Boughs, not golden drumsticks? Since when did we—
-Ишмаэль: Прошу прощения… Разве мы не охотимся за Золотыми ветвями, а не золотистыми куриными ножками? Так с каких пор…
+Измаил: Прошу прощения… Разве мы не охотимся за Золотыми ветвями, а не золотистыми куриными ножками? Так с каких пор…
 
 # Original: Didn’t you hear him? We’re dining on free crispy chicken forever!
 Хитклиф: Ты не слышала? Мы сможем есть хрустящую курочку всю жизнь!
@@ -174,7 +174,7 @@
 Хитклиф: Помню. Порой, мы ходили туда с ребятами, обмыть успешное дельце.
 
 # Original: Ugh, Ms. Faust, can you have them cut the crap already? Shouldn’t there be some company clause against fried chicken requests?
-Ишмаэль: Гх, мисс Фауст, скажите на милость. У компании же должны быть какие-то правила на этот счёт?
+Измаил: Гх, мисс Фауст, скажите на милость. У компании же должны быть какие-то правила на этот счёт?
 
 # Original: Faust was deep in thought by her lonesome.
 Рассказчик: Некоторое время Фауст думала, полностью погрузившись в себя.
@@ -183,13 +183,13 @@
 Фауст: Хорошо, мы принимаем ваше предложение.
 
 # Original: Excuse me?!
-Ишмаэль: Э-Э-Э-Э?!
+Измаил: Э-Э-Э-Э?!
 
 # Original: This might also be the first time I’ve seen Ishmael taken aback to this extent.
 Рассказчик: Впервые я вижу Измаил настолько ошеломлённой.
 
 # Original: I’m sorry, Faust… but did you… go out of your mind for a second there?
-Ишмаэль: Нет-нет, мисс Фауст… Неужели… И вы на мгновение лишились рассудка?
+Измаил: Нет-нет, мисс Фауст… Неужели… И вы на мгновение лишились рассудка?
 
 # Original: Yeesh, Ishmael, no need to be so biting there…
 Грегор: Измаил, не стоит так прокусывать кормящую ру…
@@ -244,7 +244,7 @@
 Данте: <Ага, понятно…>
 
 # Original: So that’s what it’s about? Phew… I almost got worried that I might have to knock some sense back into you, Faust.
-Ишмаэль: А, эвона как? Фух… А я уже было подумала, даже мисс Фауст тронулась рассудком и её пора приводить в чувства.
+Измаил: А, эвона как? Фух… А я уже было подумала, даже мисс Фауст тронулась рассудком и её пора приводить в чувства.
 
 # Original: Is that why you were clutching your mace so tight, Ishmael…?
 Грегор: Тогда почему ты так вцепилась в свою булаву, Измаил…?

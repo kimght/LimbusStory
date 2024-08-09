@@ -2,10 +2,10 @@
 Рассказчик: Дым, едва заметный из окна автобуса, накрывал весь посёлок.
 
 # Original: Ugh… What a mess this is, huh.
-Ишмаэль: Угх… Как здесь всё запущено.
+Измаил: Угх… Как здесь всё запущено.
 
 # Original: By the way… Don’t you hear a familiar song from somewhere?
-Ишмаэль: Кстати… Песня вам не кажется знакомой?
+Измаил: Кстати… Песня вам не кажется знакомой?
 
 # Original: Oh, yeah, I know this one. Used to hear this tune an awful lot on snowy days…
 Хитклиф: О, да, я её помню. Часто приходилось слышать её в снежные дни…
@@ -77,7 +77,7 @@
 Данте: <…? Но разве для Рождества ещё не рановато?>
 
 # Original: You’re right, it’s not any time soon.
-Ишмаэль: Да, оно не скоро.
+Измаил: Да, оно не скоро.
 
 # Original: My name is Kromer. I’m a humanitarian who loves purity, and the one who grips the hammer.
 Кромер: Меня зовут Кромер. Я гуманистка, любящая чистоту, и Та, кто держит молот.

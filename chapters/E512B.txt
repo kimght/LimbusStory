@@ -203,7 +203,7 @@
 Родион: Фух…
 
 # Original: You were right, manager. She did have some useful intel for us.
-Ишмаэль: Но, всё же, менеджер оказался прав, и мы раздобыли полезную информацию.
+Измаил: Но, всё же, менеджер оказался прав, и мы раздобыли полезную информацию.
 
 # Original: Yong-jin Building... I suppose we have some business there, then.
 Отис: Бизнес-центр «Йонджин»… Есть ли у нас причины отправиться в это место?

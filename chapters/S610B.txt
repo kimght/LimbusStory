@@ -59,10 +59,10 @@
 Хитклиф: Хехех...
 
 # Original: Lackeys…?
-Ишмаэль: Подручные...?
+Измаил: Подручные...?
 
 # Original: Ishmael glared at Heathcliff with a look that could kill… but she decided to hold her silence and merely shook her head in disbelief. She probably decided that it was not worth the trouble.
-Рассказчик: Ишмаэль метнула на Хитклифа убийственный взгляд... но решила промолчать и лишь недоверчиво покачала головой. Вероятно, она решила, что это не стоит усилий.
+Рассказчик: Измаил метнула на Хитклифа убийственный взгляд... но решила промолчать и лишь недоверчиво покачала головой. Вероятно, она решила, что это не стоит усилий.
 
 # Original: So what’s up with the masks, boss?
 Хитклиф: Так что за дело с масками, босс?
@@ -194,10 +194,10 @@
 Хиндли: Что? ...ЧТО? Т-ты наглый дурак...!
 
 # Original: That man’s been saying some pretty nasty stuff about us…
-Ишмаэль: Этот человек говорил о нас довольно мерзкие вещи...
+Измаил: Этот человек говорил о нас довольно мерзкие вещи...
 
 # Original: But he doesn't even look like someone that's worth arguing with...
-Ишмаэль: Но он даже не похож на того, с кем стоит спорить...
+Измаил: Но он даже не похож на того, с кем стоит спорить...
 
 # Original: Haah… mate, did you even check yourself in the mirror in the last week?
 Хитклиф: Хаах... приятель, ты хоть раз смотрелся в зеркало за последнюю неделю?
@@ -236,7 +236,7 @@
 Грегор: Он позволил алкоголю поглотить себя, а не наоборот. Упал в большую, мерзкую бочку, из которой нет выхода.
 
 # Original: I’ve seen the same look on some sailors. Failing to pull themselves out of that habit… would lead them straight into the merciless maws of the Lake. Not even a trace of them would be left.
-Ишмаэль: Я видела такой же взгляд у некоторых моряков. Неспособность избавиться от этой привычки... привела бы их прямо в безжалостную пасть Озера. От них не осталось бы и следа.
+Измаил: Я видела такой же взгляд у некоторых моряков. Неспособность избавиться от этой привычки... привела бы их прямо в безжалостную пасть Озера. От них не осталось бы и следа.
 
 # Original: Well, this man’s still my client.
 Босс "Мертвых Кроликов": Ну, этот человек все еще мой клиент.

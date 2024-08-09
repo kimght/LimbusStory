@@ -176,7 +176,7 @@
 Хитклиф: …Народ, вы серьёзно?
 
 # Original: It’s not like there’s any other way. We’re all exhausted.
-Ишмаэль: А другого выхода и нет. Все уже устали, как собаки.
+Измаил: А другого выхода и нет. Все уже устали, как собаки.
 
 # Original: Besides… Look at that… paint on its nails.
 Грегор: И, к слову… Понимаете… Эти ногти.

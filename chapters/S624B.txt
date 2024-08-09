@@ -68,7 +68,7 @@
 Данте: <Недоразумение?>
 
 # Original: What misunderstanding? Those people in the pods are clearly the same people who were kidnapped at T Corp.
-Ишмаэль: Какое недоразумение? Эти люди в капсулах явно те же самые, кого похитили в Корп. T.
+Измаил: Какое недоразумение? Эти люди в капсулах явно те же самые, кого похитили в Корп. T.
 
 # Original: Lo, at those who stand flanking the machines...
 Дон Кихот: Узрите же тех, кто стоит по бокам от машин...

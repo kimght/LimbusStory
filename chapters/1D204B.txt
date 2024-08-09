@@ -41,13 +41,13 @@
 Данте: <Жертвоприношения…?>
 
 # Original: What happens if no human sacrifice is made?
-Ишмаэль: Но что будет, если не принести никого в жертву?
+Измаил: Но что будет, если не принести никого в жертву?
 
 # Original: We never found out… We followed every procedure without fail.
 Юри: …Никто не знает. Мы никогда не отступали от правил корпорации.
 
 # Original: I guess it escaped and started killing people left and right.
-Ишмаэль: Вероятно, она просто сбежала и начала убивать людей направо и налево.
+Измаил: Вероятно, она просто сбежала и начала убивать людей направо и налево.
 
 # Original: Ha! That “Abnormality” must’ve been one spineless bugger. Does it thwack victims in the back of the head?
 Хитклиф: Ха! Знач-ца, эта ваша "аномалия" — то ещё ссыкло. Неужели она реально била людей в затылок?
@@ -89,10 +89,10 @@
 Хитклиф: …Всё, конец истории.
 
 # Original: And the last survivor… put on the stone mask belonging to the statueheads…
-Ишмаэль: И последняя выжившая… Надела на себя маску камнеголовых…
+Измаил: И последняя выжившая… Надела на себя маску камнеголовых…
 
 # Original: Believing that it’ll save her from being sacrificed.
-Ишмаэль: В надежде, что эта голова спасёт её от становления жертвой.
+Измаил: В надежде, что эта голова спасёт её от становления жертвой.
 
 # Original: That can’t be. Alex wouldn’t kill others just so she could live…
 Юри: Но это невозможно. Алекс бы никогда не забрала чужие жизни, даже ради своей…

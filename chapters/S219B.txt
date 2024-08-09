@@ -119,7 +119,7 @@
 Рассказчик: Справедливости ради, любой бы мог принять нас за воров, увидь как мы неловко прячемся поодаль хранилища.
 
 # Original: Quite the grand excavation. They even made space to insert vaults, all the while digging a tunnel.
-Ишмаэль: Довольно крупная выработка. Они даже расчистили место под хранилища, пока копают туннель.
+Измаил: Довольно крупная выработка. Они даже расчистили место под хранилища, пока копают туннель.
 
 # Original: What a stunning sight… When I die, please bury me in a mound of cash like that. I want to fill my lungs with the scent of bills for my final breath.
 Родион: Ну и зрелище… Когда я умру, пожалуйста, похороните меня под кучей этой налички. Хочу чтобы запах банкнот наполнил мои лёгкие, когда я сделаю последний вдох.
@@ -146,7 +146,7 @@
 Хон Лу: Может, это они так питомцев разводят?
 
 # Original: …Does your family usually count creatures violently shaking their cages as pets?
-Ишмаэль: …В твоей семье что, существ, яростно бьющихся в своих клетках, за питомцев считают?
+Измаил: …В твоей семье что, существ, яростно бьющихся в своих клетках, за питомцев считают?
 
 # Original: It’s the Peccatula.
 Фауст: Это грехи.
@@ -167,7 +167,7 @@
 Фауст: При условии, что они обладают таким же уровнем интеллекта, что и люди, и что существует эмпирически доказанный метод управления ими.
 
 # Original: Huh… If it did work out, I guess they could’ve made good guard dogs.
-Ишмаэль: Хах… Если у них выйдет, уверена, из них выйдут неплохие сторожевые собаки.
+Измаил: Хах… Если у них выйдет, уверена, из них выйдут неплохие сторожевые собаки.
 
 # Original: Oh? I’m taking a closer look, and these people have fingers or other parts of their bodies bitten off.
 Хон Лу: О? Я пригляделся, и у этих людей откусаны пальцы или другие части тел.

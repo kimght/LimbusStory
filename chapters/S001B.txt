@@ -182,13 +182,13 @@
 Данте: <"Наших"…?>
 
 # Original: Is that really everything?
-Ишмаэль: Неужели на этом правда всё?
+Измаил: Неужели на этом правда всё?
 
 # Original: A single apple has fallen.
 И Сан: Одно яблоко упало на землю.
 
 # Original: …This guy’s still not making any sense.
-Ишмаэль: …Этот парень всё ещё несёт несуразицу.
+Измаил: …Этот парень всё ещё несёт несуразицу.
 
 # Original: Geeeez~ The wait was killing me! Finally some action now?
 Родион: Ъъъ~ Я всё себе уже отсидела! А теперь-то начнётся движ?
@@ -263,7 +263,7 @@
 Грегор: Каких указаний ты ждёшь? Тут не остаётся ничего, кроме поединка, нет?
 
 # Original: Huh?! H-Hey!
-Ишмаэль: О-оу?! Из-извините!
+Измаил: О-оу?! Из-извините!
 
 # Original: Quit running off your mouths! We just need to crush them all!
 Хитклиф: Хорош молоть языком! Просто переломаем им все кости и дело с концом!

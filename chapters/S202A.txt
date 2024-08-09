@@ -11,16 +11,16 @@
 Хитклиф: О чём треплется этот старикан?
 
 # Original: …Am I the only one here who read up on Nest J? Vergilius gave us a pamphlet to peruse before we left.
-Ишмаэль: …Я что, единственная, кто прочла о Гнезде J? Вергилий же раздавал нам ознакомительные брошюры перед тем, как мы ушли.
+Измаил: …Я что, единственная, кто прочла о Гнезде J? Вергилий же раздавал нам ознакомительные брошюры перед тем, как мы ушли.
 
 # Original: Well, I think I remember glancing at the cover…
 Грегор: Ну, я вроде бы пробежался взглядом по обложке…
 
 # Original: Here, you’ll get loaned different amounts depending on your fortune for the day.
-Ишмаэль: Вот, вам дают взаймы в зависимости от удачи на сегодня.
+Измаил: Вот, вам дают взаймы в зависимости от удачи на сегодня.
 
 # Original: If you draw a great boon, you get extra cash, while misfortune means far less than what the pawn is worth.
-Ишмаэль: Вытяните удачный жребий – получите больше налички, а неудачный – получите даже меньше стоимости залога.
+Измаил: Вытяните удачный жребий – получите больше налички, а неудачный – получите даже меньше стоимости залога.
 
 # Original: Ah~ That reminds me, our family had hired dedicated fortunetellers.
 Хон Лу: А-ах~ Навевает воспоминания о том, как моя семья нанимала особых гадалок.
@@ -29,7 +29,7 @@
 Хон Лу: Они предрекли мне большую удачу перед моим отъездом. Должно быть это было знаком того, что я присоединюсь к вам, замечательным людям, в нашем с вами путешествии.
 
 # Original: Wow, really, so indulging in lofty leisure on your grand estate was your fated life. Maybe I should pray that I’m born that rich if there’s a next time.
-Ишмаэль: Ва, вот уж у тебя и судьба — придаваться роскошному отдыху в своём роскошном поместье. Может, мне следует помолиться родиться такой же богатой в следующий раз, если такое возможно.
+Измаил: Ва, вот уж у тебя и судьба — придаваться роскошному отдыху в своём роскошном поместье. Может, мне следует помолиться родиться такой же богатой в следующий раз, если такое возможно.
 
 # Original: I’m good. It’s well-off folks like him that tend to play dirty.
 Хитклиф: А меня и так всё устраивает. Такие состоятельные ханжи как он склонны нечестно играть.
@@ -158,10 +158,10 @@
 Хитклиф: Тц… Это поэтому он нас фиг знает где высадил? Потому что ему стыдно было?!
 
 # Original: …Doesn’t anyone have a thing to say about us being belittled?
-Ишмаэль: …Никто не собирается чем-нибудь возразить на эти унижения?
+Измаил: …Никто не собирается чем-нибудь возразить на эти унижения?
 
 # Original: And won’t all the boasting and bluffing not do much if we don’t introduce ourselves first?
-Ишмаэль: Да и что толку от этих бахвальства и блефа, если мы даже не представились?
+Измаил: Да и что толку от этих бахвальства и блефа, если мы даже не представились?
 
 # Original: These two will be our cooperators for this mission. They’re from the Limbus Company Clearance department, also known as the LCC.
 Фауст: Эти двое будут нашими партнёрами в этой миссии. Они из отдела исполнения компании «Лимбус», также известном как "LCC".

@@ -1,5 +1,5 @@
 ﻿# Original: Gaaah, I… said! Thrusting doesn’t work when you do it in the enemy’s… face!
-Ишмаэль: Ха, я же… говорила! В нападении нет смысла, если нападаешь… в лоб!
+Измаил: Ха, я же… говорила! В нападении нет смысла, если нападаешь… в лоб!
 
 # Original: The ginger child deftly dodged the long blade swung by her opponent.
 Рассказчик: Рыжее дитя ловко увернулось от длинного меча своего оппонента.
@@ -14,7 +14,7 @@
 Хитклиф: Эй! Да стой ты смирно!
 
 # Original: You’re an assassin, so assassinate! I have no idea how you managed to join us!
-Ишмаэль: Ты же убийца, так убивай! Без понятия, как ты вообще к нам попал!
+Измаил: Ты же убийца, так убивай! Без понятия, как ты вообще к нам попал!
 
 # Original: Grr… You…!
 Хитклиф: Ах… Ты…!
@@ -29,13 +29,13 @@
 Рассказчик: Было ли оно шокировано горечью в словах или…
 
 # Original: Wow. I didn’t think you’d actually say that out loud.
-Ишмаэль: Ого. Не думала, что ты такое скажешь вслух.
+Измаил: Ого. Не думала, что ты такое скажешь вслух.
 
 # Original: Ah, so she was simply baffled by his childish rebuttal.
 Рассказчик: Дитя просто было ошеломлено настолько несуразным опровержением.
 
 # Original: You know what? I’m done. I’ll just go have a word with the director!
-Ишмаэль: Всё, хватит. Больше я это терпеть не буду. Я пойду переговорю с директором!
+Измаил: Всё, хватит. Больше я это терпеть не буду. Я пойду переговорю с директором!
 
 # Original: Oi, hold on a sec… Oi!
 Хитклиф: Э-э, погодь… Эй!

@@ -5,7 +5,7 @@
 Рёшу: И долго вы ещё собираетесь тратить силы на эту шелупонь?
 
 # Original: It’s often the case that grumbling people don’t have a clear solution to contribute.
-Ишмаэль: Кто больше всего ворчит приносит в дело минимум вклада.
+Измаил: Кто больше всего ворчит приносит в дело минимум вклада.
 
 # Original: Listening to Ishmael’s disapproval, Ryōshū shook her head and assumed a confident look.
 Рассказчик: Выслушав осуждение Измаил, Рёшу покачала головой и приняла уверенный вид.
@@ -86,4 +86,4 @@
 Синклер: А я рад, что никто из нас не пострадал!
 
 # Original: …We’ll have to see about that.
-Ишмаэль: …Это мы ещё посмотрим.
+Измаил: …Это мы ещё посмотрим.

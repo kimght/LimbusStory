@@ -29,13 +29,13 @@
 И Сан: Эта регенерационная ампула...
 
 # Original: Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.
-И Сан: Её номер подчиняется тому же правилу, что и "ампулы распада", которые насильно вводили мисс Ишмаэль во время недавней стычки между бойцами К Корп и вторгшимися машинами.
+И Сан: Её номер подчиняется тому же правилу, что и "ампулы распада", которые насильно вводили мисс Измаил во время недавней стычки между бойцами К Корп и вторгшимися машинами.
 
 # Original: That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an "O" are original- Wait, why am I explaining this, again?
 Самджо: Это называется серийным кодом. Это уникальная строка чисел для категоризации ампул. Те, что начинаются с "О", являются оригинальными... Стоп, почему я это объясняю?
 
 # Original: Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule.
-И Сан: Оригинальная... Идентичная "ампуле распада", введенной мисс Ишмаэль... Это предполагает, что её сущность не отличалась от регенерационной ампулы.
+И Сан: Оригинальная... Идентичная "ампуле распада", введенной мисс Измаил... Это предполагает, что её сущность не отличалась от регенерационной ампулы.
 
 # Original: This series of regeneration ampule is, well, how do I say it... It's an undiluted solution. It's not exactly like the commercially available ones.
 Донран: Эта серия регенерационных ампул, ну, как бы сказать... Это неразбавленный раствор. Он не совсем такой, как те, что доступны в продаже.

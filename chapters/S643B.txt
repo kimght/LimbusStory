@@ -1,5 +1,5 @@
 # Original: ... So how are there two Golden Boughs here? I mean, it's a rich family manor, but it's not like they're a corporation or a Syndicate.
-Ишмаэль: ... Так как здесь оказалось две Золотые Ветви? В смысле, это богатое семейное поместье, но они же не корпорация и не Синдикат.
+Измаил: ... Так как здесь оказалось две Золотые Ветви? В смысле, это богатое семейное поместье, но они же не корпорация и не Синдикат.
 
 # Original: Mm... One was acquired by Linton, who spent nearly all of his fortune on it, and...
 Хон Лу: Мм... Одну приобрел Линтон, потратив на нее почти все свое состояние, а...
@@ -47,7 +47,7 @@
 Дон Кихот: Ага! Потому что это! Акт справедливости!
 
 # Original: It's all just a part of our contracts. I don't know what they're planning to do with the Golden Boughs, though.
-Ишмаэль: Это просто часть наших контрактов. Хотя я не знаю, что они планируют делать с Золотыми Ветвями.
+Измаил: Это просто часть наших контрактов. Хотя я не знаю, что они планируют делать с Золотыми Ветвями.
 
 # Original: So none of you even know why you are collecting the Golden Boughs.
 Нелли: Значит, никто из вас даже не знает, зачем вы собираете Золотые Ветви.
@@ -95,7 +95,7 @@
 Рассказчик: Я не буду тратить этот шанс впустую.
 
 # Original: This is the only way to the rooftops, right?
-Ишмаэль: Это единственный путь на крышу, верно?
+Измаил: Это единственный путь на крышу, верно?
 
 # Original: Yes.
 Нелли: Да.
@@ -209,7 +209,7 @@
 Хитклиф из Зеркального Мира: …….
 
 # Original: Heathcliff, focus! He's getting away!
-Ишмаэль: Хитклиф, сосредоточься! Он уходит!
+Измаил: Хитклиф, сосредоточься! Он уходит!
 
 # Original: Bollocks...
 Хитклиф: Черт...

@@ -1,5 +1,5 @@
 ﻿# Original: Okay, what should we do now? If we move quietly, we might be able to pass by the other Inquisitors unnoticed.
-Ишмаэль: Хорошо, а что нам теперь делать? Если будем идти тихо, то сможем незаметно проскользнуть мимо остальных инквизиторов.
+Измаил: Хорошо, а что нам теперь делать? Если будем идти тихо, то сможем незаметно проскользнуть мимо остальных инквизиторов.
 
 # Original: Dante… I… I’d like to apologize in advance.
 Синклер: Данте… Я… хотел бы заранее извиниться перед вами.

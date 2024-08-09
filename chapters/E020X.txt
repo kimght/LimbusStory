@@ -26,7 +26,7 @@
 Харон: Радио говорит: "Вставайте из-за руля как только почувствуете желание спать".
 
 # Original: That’s a good point, but… you need to be a bit more flexible about that sorta thing.
-Ишмаэль: Так и есть, но… Стоит ли быть столь категоричной?
+Измаил: Так и есть, но… Стоит ли быть столь категоричной?
 
 # Original: Fuhu, a statement as plain as that can be quite amusing depending on who says it~
 Хон Лу: Хе-хе, как играют простые слова в зависимости от уст, сказавших их~
@@ -35,7 +35,7 @@
 Хитклиф: Пха, похоже, мы с тобой на одной волне. Смешно, когда такое говорит самый категоричный человек.
 
 # Original: …What was that? If that’s what you’re playing at, what about that old fogey over there who still thinks she’s a wartime general—
-Ишмаэль: …Всё сказал? Раз ты об этом, то как насчёт нашей мадам, что до сих пор думает, что она генерал на войне…?
+Измаил: …Всё сказал? Раз ты об этом, то как насчёт нашей мадам, что до сих пор думает, что она генерал на войне…?
 
 # Original: Ishmael pointed to Outis, whose veins were beginning to stick out on her veteran and placid face.
 Рассказчик: И Измаил пальцем указала в сторону Отис, на лице которой уже начали проступать вены.
@@ -62,7 +62,7 @@
 Хитклиф: Чего…
 
 # Original: Ahem…
-Ишмаэль: Кхм…
+Измаил: Кхм…
 
 # Original: It’s laughable how you behave. You’re like dogs that drool at the sound of a bell.
 Вергилий: Ваша реакция забавляет меня. Словно собаки, истекающие слюной от звона колокольчика.
@@ -195,7 +195,7 @@
 Отис: Менеджер! Ваша тяжкая работа днём…
 
 # Original: Sure~ Let’s get you to bed.
-Ишмаэль: Ага~ Идём же.
+Измаил: Ага~ Идём же.
 
 # Original: Ishmael gave me a small nod, and then proceeded to draggingly chaperone Outis through the back door with Rodya.
 Рассказчик: Легонько кивнув мне, Измаил схватила Отис и вместе с Родей затащила ту в чёрный выход автобуса.

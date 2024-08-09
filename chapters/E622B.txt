@@ -68,13 +68,13 @@
 Фауст: Однако в рамках этого запаса информации я обнаружила, что введение ранее не наблюдавшейся переменной в уравнение позволяет сформулировать новую гипотезу.
 
 # Original: Wait, you're saying that these Bloodfiends can completely erase people, or passengers, from existence?
-Ишмаэль: Погоди, ты говоришь, что эти Кровожады могут полностью стереть людей, или пассажиров, из существования?
+Измаил: Погоди, ты говоришь, что эти Кровожады могут полностью стереть людей, или пассажиров, из существования?
 
 # Original: A more accurate descriptor would be to say that they are either dissolved or vaporized.
 Фауст: Более точным определением было бы сказать, что они либо растворяются, либо испаряются.
 
 # Original: Dissolved...
-Ишмаэль: Растворяются...
+Измаил: Растворяются...
 
 # Original: No matter the degree of violence the passengers may indulge in, no matter how severe the damages may be, the WARP trains can revert them to their initial states at the beginning of the journey.
 Фауст: Независимо от степени насилия, которому могут предаваться пассажиры, независимо от того, насколько серьёзными могут быть повреждения, ВАРП поезда могут вернуть их в исходное состояние, в котором они были в начале путешествия.
@@ -125,7 +125,7 @@
 Грегор: Понял... так вот почему она сказала, что их кровь "испаряется", да?
 
 # Original: If that's the case, then the very blood that's supposed to bind these chunks of flesh together will also evaporate. Which means that they can't be pieced back together.
-Ишмаэль: Если это так, то сама кровь, которая должна связывать эти куски плоти вместе, тоже испарится. А это значит, что их нельзя собрать обратно.
+Измаил: Если это так, то сама кровь, которая должна связывать эти куски плоти вместе, тоже испарится. А это значит, что их нельзя собрать обратно.
 
 # Original: There is no incongruence in that logic.
 Мерсо: В этой логике нет несоответствий.

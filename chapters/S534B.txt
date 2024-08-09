@@ -71,37 +71,37 @@
 Старик Индиго: …….
 
 # Original: I've got a plan.
-Ишмаэль: У меня есть план.
+Измаил: У меня есть план.
 
 # Original: And I'll do anything to make it work. Even if you want me there only as bait.
-Ишмаэль: И я сделаю всё, чтобы он сработал. Даже если вы хотите, чтобы я была там только в качестве приманки.
+Измаил: И я сделаю всё, чтобы он сработал. Даже если вы хотите, чтобы я была там только в качестве приманки.
 
 # Original: And this is how we'll do it.
-Ишмаэль: И вот как мы это сделаем.
+Измаил: И вот как мы это сделаем.
 
 # Original: … …… … …….
-Ишмаэль: … …… … …….
+Измаил: … …… … …….
 
 # Original: The crowd fell silent when Ishmael finished explaining her plan.
-Рассказчик: Толпа замолчала, когда Ишмаэль закончила объяснять свой план.
+Рассказчик: Толпа замолчала, когда Измаил закончила объяснять свой план.
 
 # Original: ... You're mad. All that thrashing's finally sent you off the deep end.
 Хитклиф: ... Ты сумасшедшая. Все эти побои наконец-то свели тебя с ума.
 
 # Original: I'm just going there for my mission. And the Golden Bough just happens to be in the same direction.
-Ишмаэль: Я просто иду туда ради своей миссии. А Золотая Ветвь просто оказалась в том же направлении.
+Измаил: Я просто иду туда ради своей миссии. А Золотая Ветвь просто оказалась в том же направлении.
 
 # Original: I'll leave it up to you. Well, to the manager, since their decision matters the most.
-Ишмаэль: Я оставлю это вам. Ну, менеджеру, поскольку их решение имеет наибольшее значение.
+Измаил: Я оставлю это вам. Ну, менеджеру, поскольку их решение имеет наибольшее значение.
 
 # Original: This Company, me... We're both just trying to find a way to reach our goals. That's all this is.
-Ишмаэль: Эта Компания, я... Мы оба просто пытаемся найти способ достичь своих целей. Вот и всё.
+Измаил: Эта Компания, я... Мы оба просто пытаемся найти способ достичь своих целей. Вот и всё.
 
 # Original: …….
 Старик Индиго: …….
 
 # Original: Besides, does anyone have a better idea?
-Ишмаэль: Кроме того, у кого-нибудь есть идея получше?
+Измаил: Кроме того, у кого-нибудь есть идея получше?
 
 # Original: No. Can't agree to that. We're making a mistake by even entertaining that barmy idea.
 Хитклиф: Нет. Не могу согласиться с этим. Мы делаем ошибку, даже рассматривая эту безумную идею.
@@ -239,13 +239,13 @@
 Старик Индиго: Я имею в виду, что не смог бы проверить пределы.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: The limits? What are you even talking about?
-Ишмаэль: Пределы? О чем ты вообще говоришь?
+Измаил: Пределы? О чем ты вообще говоришь?
 
 # Original: Look, to hunt that Whale, we have to prepare with everything we have. And...
-Ишмаэль: Слушай, чтобы охотиться на этого Кита, мы должны подготовиться всем, что у нас есть. И...
+Измаил: Слушай, чтобы охотиться на этого Кита, мы должны подготовиться всем, что у нас есть. И...
 
 # Original: Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits.
 Старик Индиго: Из страха люди провели границы даже на Окраинах, лежащих за пределами Города.
@@ -260,7 +260,7 @@
 Отис: ... Ты говоришь о том, что лежит за Окраинами? Их отдаленных уголках?
 
 # Original: That Whale... devours everything. It brings nothing but calamity... How could you..
-Ишмаэль: Этот Кит... пожирает всё. Он приносит только бедствия... Как ты мог..
+Измаил: Этот Кит... пожирает всё. Он приносит только бедствия... Как ты мог..
 
 # Original: Ah, so you have been a prey once, sailor.
 Старик Индиго: А, так ты однажды была добычей, моряк.
@@ -275,7 +275,7 @@
 Старик Индиго: Вспомни этот разговор.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: I'm no good with advice. Never was.
 Старик Индиго: Я не силен в советах. Никогда не был.
@@ -290,10 +290,10 @@
 Рассказчик: Согласно указаниям старика, мы сели на лодку, подготовленную на Мефистофеле.
 
 # Original: I saw Ishmael, moments before boarding the skiff on Mephistopheles.
-Рассказчик: Я видел Ишмаэль за мгновение до того, как она поднялась на лодку на Мефистофеле.
+Рассказчик: Я видел Измаил за мгновение до того, как она поднялась на лодку на Мефистофеле.
 
 # Original: This was Ishmael's plan, but... I had no way of knowing what she was really thinking.
-Рассказчик: Это был план Ишмаэль, но... я не мог знать, о чем она на самом деле думала.
+Рассказчик: Это был план Измаил, но... я не мог знать, о чем она на самом деле думала.
 
 # Original: I had an inkling, yes. And so far, I've been going along with those vague guesses. Vague guesses that led to disasters.
 Рассказчик: У меня было смутное представление, да. И до сих пор я следовал этим смутным догадкам. Смутным догадкам, которые приводили к катастрофам.
@@ -302,31 +302,31 @@
 Рассказчик: Поэтому я должен был спросить ее сам.
 
 # Original: <Ishmael. What do you really want?>
-Данте: <Ишмаэль. Чего ты на самом деле хочешь?>
+Данте: <Измаил. Чего ты на самом деле хочешь?>
 
 # Original: What I really want...
-Ишмаэль: Чего я на самом деле хочу...
+Измаил: Чего я на самом деле хочу...
 
 # Original: <…!>
 Данте: <…!>
 
 # Original: I see another vision of Ishmael.
-Рассказчик: Я вижу еще одно видение Ишмаэль.
+Рассказчик: Я вижу еще одно видение Измаил.
 
 # Original: She was hiding it well from the other Sinners and Vergilius. But I could clearly see what she really wanted. Her true desire.
 Рассказчик: Она хорошо скрывала это от других Грешников и Вергилия. Но я ясно видел, чего она на самом деле хотела. Ее истинное желание.
 
 # Original: <Ishmael, you...!>
-Данте: <Ишмаэль, ты...!>
+Данте: <Измаил, ты...!>
 
 # Original: She was lifting a body from the waters.
 Рассказчик: Она поднимала тело из воды.
 
 # Original: A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh... Ishmael trembled with elation before what looked like the Captain's mutilated corpse.
-Рассказчик: Тело, которое было разорвано на части. Раздробленные кости, полоски мышечной ткани, плоть... Ишмаэль дрожала от восторга перед тем, что выглядело как изуродованный труп Капитана.
+Рассказчик: Тело, которое было разорвано на части. Раздробленные кости, полоски мышечной ткани, плоть... Измаил дрожала от восторга перед тем, что выглядело как изуродованный труп Капитана.
 
 # Original: What?
-Ишмаэль: Что?
+Измаил: Что?
 
 # Original: Come on, let's get going.
-Ишмаэль: Давай, пора идти.
+Измаил: Давай, пора идти.

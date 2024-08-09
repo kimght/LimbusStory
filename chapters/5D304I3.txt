@@ -1,11 +1,11 @@
 # Original: Starbuck...! You... you were the only crew of the ship that could challenge Ahab.
-Ишмаэль: Старбак...! Ты... ты был единственным членом экипажа, способным бросить вызов Ахав.
+Измаил: Старбак...! Ты... ты был единственным членом экипажа, способным бросить вызов Ахав.
 
 # Original: So how could you...
-Ишмаэль: Как же ты мог...
+Измаил: Как же ты мог...
 
 # Original: How foolish, Ishmael! How foolish!
-Ахав: Как глупо, Ишмаэль! Как глупо!
+Ахав: Как глупо, Измаил! Как глупо!
 
 # Original: Starbuck was the first to kneel. It matters not how many waves a first mate has weathered... A first mate's station is still beneath his Captain...!
 Ахав: Старбак был первым, кто преклонил колени. Неважно, сколько штормов пережил первый помощник... Место первого помощника всё равно ниже, чем у его Капитана...!
@@ -17,4 +17,4 @@
 Ахав: Если ты знал, что он искал лучший путь, почему же ты не помог ему увидеть его?!
 
 # Original: So the fault lies with you again, Ishmael!
-Ахав: Так что вина снова лежит на тебе, Ишмаэль!
+Ахав: Так что вина снова лежит на тебе, Измаил!

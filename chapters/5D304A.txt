@@ -20,10 +20,10 @@
 Рассказчик: Ее голос рассеивается в пустоте.
 
 # Original: I will watch you live. Because you are the proof of my wandering years.
-Ишмаэль: Я буду смотреть, как ты живешь. Потому что ты — доказательство моих лет скитаний.
+Измаил: Я буду смотреть, как ты живешь. Потому что ты — доказательство моих лет скитаний.
 
 # Original: So that I may endlessly struggle against the devouring seas. The testament to my sins. My Whale.
-Ишмаэль: Чтобы я могла бесконечно бороться с пожирающими морями. Свидетельство моих грехов. Мой Кит.
+Измаил: Чтобы я могла бесконечно бороться с пожирающими морями. Свидетельство моих грехов. Мой Кит.
 
 # Original: No, you will not look down at me…!
 Ахав: Нет, ты не будешь смотреть на меня свысока...!
@@ -68,7 +68,7 @@
 Рассказчик: Кто-то или что-то сбросило сверху большую, крепкую веревку.
 
 # Original: …!
-Ишмаэль: …!
+Измаил: …!
 
 # Original: <Who dropped that rope...?>
 Данте: <Кто сбросил эту веревку...?>
@@ -77,16 +77,16 @@
 Родион: Неважно, давайте возьмем ее!
 
 # Original: Ishmael stared at that rope for a moment.
-Рассказчик: Ишмаэль на мгновение уставилась на эту веревку.
+Рассказчик: Измаил на мгновение уставилась на эту веревку.
 
 # Original: What are you standing around there for? Let's go.
 Хитклиф: Чего ты там стоишь? Пошли.
 
 # Original: This rope...
-Ишмаэль: Эта веревка...
+Измаил: Эта веревка...
 
 # Original: I have a feeling that this rope won't snap.
-Ишмаэль: У меня такое чувство, что эта веревка не порвется.
+Измаил: У меня такое чувство, что эта веревка не порвется.
 
 # Original: You... You should have killed me...
 Ахав: Ты... Ты должна была убить меня...
@@ -98,16 +98,16 @@
 Хитклиф: А что... с ней?
 
 # Original: ... We'll let her watch as this place crumbles around her.
-Ишмаэль: ... Пусть смотрит, как это место рушится вокруг нее.
+Измаил: ... Пусть смотрит, как это место рушится вокруг нее.
 
 # Original: The Captain must go down with the ship, after all.
-Ишмаэль: В конце концов, капитан должен пойти ко дну вместе с кораблем.
+Измаил: В конце концов, капитан должен пойти ко дну вместе с кораблем.
 
 # Original: We all grabbed onto the rope and climbed.
 Рассказчик: Мы все схватились за веревку и начали подниматься.
 
 # Original: Like Ishmael said, this rope did not snap. We felt the cool breeze blowing in from the outside.
-Рассказчик: Как и сказала Ишмаэль, эта веревка не порвалась. Мы почувствовали прохладный ветерок, дующий снаружи.
+Рассказчик: Как и сказала Измаил, эта веревка не порвалась. Мы почувствовали прохладный ветерок, дующий снаружи.
 
 # Original: We never once looked back at the abyss that was the Whale.
 Рассказчик: Мы ни разу не оглянулись на бездну, которой был Кит.
@@ -176,64 +176,64 @@
 Синклер: Я думаю... он наблюдал за нами с небольшого расстояния. Может быть, в шаге от нас.
 
 # Original: Ishmael was gazing beyond the Lake's horizons.
-Рассказчик: Ишмаэль смотрела за горизонт Озера.
+Рассказчик: Измаил смотрела за горизонт Озера.
 
 # Original: She no longer casts her gaze into its waters.
 Рассказчик: Она больше не опускает взгляд в его воды.
 
 # Original: <Ishmael.>
-Данте: <Ишмаэль.>
+Данте: <Измаил.>
 
 # Original: Oh, I was reading the winds.
-Ишмаэль: О, я читала ветра.
+Измаил: О, я читала ветра.
 
 # Original: We're cutting it close. I expect to see the Waves rushing in our direction at any minute.
 Отис: Мы на грани. Я ожидаю увидеть Волны, несущиеся в нашу сторону в любую минуту.
 
 # Original: ... Heh.
-Ишмаэль: ... Хех.
+Измаил: ... Хех.
 
 # Original: Ishmael chuckled lightly.
-Рассказчик: Ишмаэль тихо усмехнулась.
+Рассказчик: Измаил тихо усмехнулась.
 
 # Original: Then let's face it head-on this time. Ready, Dante?
-Ишмаэль: Тогда давайте встретим их лицом к лицу на этот раз. Готов, Данте?
+Измаил: Тогда давайте встретим их лицом к лицу на этот раз. Готов, Данте?
 
 # Original: <I... don't know how to sail.>
 Данте: <Я... не умею управлять кораблем.>
 
 # Original: Haah... Don't you understand? After all that? It doesn't matter how good of a sailor you are.
-Ишмаэль: Хаах... Ты не понимаешь? После всего этого? Неважно, насколько ты хороший моряк.
+Измаил: Хаах... Ты не понимаешь? После всего этого? Неважно, насколько ты хороший моряк.
 
 # Original: What's important... is that someone is there to help steer you right.
-Ишмаэль: Важно... чтобы кто-то был рядом, чтобы помочь тебе держать правильный курс.
+Измаил: Важно... чтобы кто-то был рядом, чтобы помочь тебе держать правильный курс.
 
 # Original: And as the first mate of this ship, I'll trust and follow your directions.
-Ишмаэль: И как первый помощник этого корабля, я буду доверять и следовать твоим указаниям.
+Измаил: И как первый помощник этого корабля, я буду доверять и следовать твоим указаниям.
 
 # Original: So... you're my Captain. For now.
-Ишмаэль: Так что... ты мой Капитан. Пока что.
+Измаил: Так что... ты мой Капитан. Пока что.
 
 # Original: My skiff will go on an adventure of its own one day. But for now, I've tied that skiff to a bigger ship called Limbus Company and you.
-Ишмаэль: Моя шлюпка когда-нибудь отправится в собственное приключение. Но пока я привязала эту шлюпку к большому кораблю под названием Компания Лимбус и к тебе.
+Измаил: Моя шлюпка когда-нибудь отправится в собственное приключение. Но пока я привязала эту шлюпку к большому кораблю под названием Компания Лимбус и к тебе.
 
 # Original: Because I really want to find out what's waiting for me at the end of this voyage.
-Ишмаэль: Потому что я действительно хочу узнать, что ждет меня в конце этого путешествия.
+Измаил: Потому что я действительно хочу узнать, что ждет меня в конце этого путешествия.
 
 # Original: ... Besides, you guys are the only friends I have left.
-Ишмаэль: ... Кроме того, вы, ребята, единственные друзья, которые у меня остались.
+Измаил: ... Кроме того, вы, ребята, единственные друзья, которые у меня остались.
 
 # Original: <Ishmael...>
-Данте: <Ишмаэль...>
+Данте: <Измаил...>
 
 # Original: I'll trust your decisions and your orders, Captain. But I'm not going to just accept them at a face value. I'll constantly question and try to understand them.
-Ишмаэль: Я буду доверять твоим решениям и приказам, Капитан. Но я не собираюсь просто принимать их на веру. Я буду постоянно их оспаривать и пытаться понять.
+Измаил: Я буду доверять твоим решениям и приказам, Капитан. Но я не собираюсь просто принимать их на веру. Я буду постоянно их оспаривать и пытаться понять.
 
 # Original: So that when I see that my compass no longer aligns with yours, I can take my skiff and sail away.
-Ишмаэль: Чтобы, когда я увижу, что мой компас больше не совпадает с твоим, я смогла взять свою шлюпку и уплыть.
+Измаил: Чтобы, когда я увижу, что мой компас больше не совпадает с твоим, я смогла взять свою шлюпку и уплыть.
 
 # Original: So that I won't let anything consume me again. So that I won't lose myself again.
-Ишмаэль: Чтобы ничто больше не поглотило меня. Чтобы я больше не потеряла себя.
+Измаил: Чтобы ничто больше не поглотило меня. Чтобы я больше не потеряла себя.
 
 # Original: I can see the Waves rushing toward us from a distance.
 Рассказчик: Я вижу, как вдалеке к нам несутся Волны.
@@ -248,16 +248,16 @@
 Данте: <Что ж, я думаю, мы справимся с этим.>
 
 # Original: Heh.
-Ишмаэль: Хех.
+Измаил: Хех.
 
 # Original: Waves incoming in 15 seconds. Get to the helm, Swab— No.
 Отис: Волны приближаются через 15 секунд. К штурвалу, матро— Нет.
 
 # Original: First mate Ishmael.
-Отис: Первый помощник Ишмаэль.
+Отис: Первый помощник Измаил.
 
 # Original: You're not even the Captain, Outis. Come on.
-Ишмаэль: Ты даже не Капитан, Отис. Да ладно.
+Измаил: Ты даже не Капитан, Отис. Да ладно.
 
 # Original: Sorry for intruding.
 Харон: Извините, что вмешиваюсь.
@@ -269,10 +269,10 @@
 Отис: Кхм...
 
 # Original: Haaah...
-Ишмаэль: Хааах...
+Измаил: Хааах...
 
 # Original: Now that's a proper Ishmael sigh. I haven't heard her do that in a long while.
-Рассказчик: Вот это настоящий вздох Ишмаэль. Я не слышал, чтобы она так вздыхала уже давно.
+Рассказчик: Вот это настоящий вздох Измаил. Я не слышал, чтобы она так вздыхала уже давно.
 
 # Original: With it, she tightly gripped a handle of the bus, her gaze fixed on the approaching Waves.
 Рассказчик: С этим она крепко схватилась за ручку автобуса, ее взгляд был устремлен на приближающиеся Волны.
@@ -284,10 +284,10 @@
 Рассказчик: Ее волосы цвета заката развеваются на ветру.
 
 # Original: The wind feels... nice.
-Ишмаэль: Ветер... приятный.
+Измаил: Ветер... приятный.
 
 # Original: It's a perfect breeze to push us toward a new voyage.
-Ишмаэль: Это идеальный бриз, чтобы подтолкнуть нас к новому путешествию.
+Измаил: Это идеальный бриз, чтобы подтолкнуть нас к новому путешествию.
 
 # Original: Mhm. Voyage to ice cream. Splish splash.
 Харон: Мхм. Путешествие за мороженым. Плюх-плюх.

@@ -44,10 +44,10 @@
 Рассказчик: ... Я не могу думать об этом сейчас. Давайте сначала разберемся с текущей задачей.
 
 # Original: Maybe these people are from the same Office as that guy we met at the platform. Remember? He said he was warped over to T Corp. on an expedition.
-Ишмаэль: Может быть, эти люди из того же Офиса, что и тот парень, которого мы встретили на платформе. Помните? Он сказал, что его отправился в Крыло T на экспедицию.
+Измаил: Может быть, эти люди из того же Офиса, что и тот парень, которого мы встретили на платформе. Помните? Он сказал, что его отправился в Крыло T на экспедицию.
 
 # Original: Look, it's almost like they're all wearing standardized sets of prosthetics. Same make, same model, everything.
-Ишмаэль: Смотрите, это почти как если бы они все носили стандартизированные наборы протезов. Одна и та же марка, одна и та же модель, все.
+Измаил: Смотрите, это почти как если бы они все носили стандартизированные наборы протезов. Одна и та же марка, одна и та же модель, все.
 
 # Original: Mm... I believe I have read articles stating that certain Offices do exclusively hire Fixers with prosthetics.
 Дон Кихот: Мм... Мнится мне, я читала статьи, гласящие, что некоторые Офисы нанимают исключительно Корректировщиков с протезами.
@@ -116,31 +116,31 @@
 Рассказчик: Вторую часть своего предложения она произнесла таким шепотом, что даже я едва мог расслышать, что она говорит.
 
 # Original: Ah, I know what you mean.
-Ишмаэль: Ах, я понимаю, что ты имеешь в виду.
+Измаил: Ах, я понимаю, что ты имеешь в виду.
 
 # Original: Feeling like you're completely lost, obsessively casting net after net over the black, rippleless Lake in desperate hopes that one of them might pull in something we could eat.
-Ишмаэль: Чувствуешь себя полностью потерянной, одержимо забрасывая сеть за сетью в черное, спокойное Озеро в отчаянной надежде, что одна из них может вытащить что-то съедобное.
+Измаил: Чувствуешь себя полностью потерянной, одержимо забрасывая сеть за сетью в черное, спокойное Озеро в отчаянной надежде, что одна из них может вытащить что-то съедобное.
 
 # Original: No way to tell where we are. No way to tell if there's even anything to eat under that glassy water surface... Grasping at the straws, you know?
-Ишмаэль: Нет способа узнать, где мы находимся. Нет способа узнать, есть ли вообще что-нибудь съедобное под этой стеклянной водной поверхностью... Хватаешься за соломинку, понимаешь?
+Измаил: Нет способа узнать, где мы находимся. Нет способа узнать, есть ли вообще что-нибудь съедобное под этой стеклянной водной поверхностью... Хватаешься за соломинку, понимаешь?
 
 # Original: This sense I find mired in is not unlike your own; it is like lying my back over an unseen grave, for the reflection of radiance upon my eyes and the sanguine scent hanging from the tip of my olfactory tells me not of the forging path.
 И Сан: Чувство, в коем я погряз, не отлично от твоего; оно подобно лежанию спиной на незримой могиле, ибо отражение сияния в очах моих и кровавый аромат, висящий на кончике обоняния моего, не говорят мне о пути грядущем.
 
 # Original: It seemed that the first part of the sentence was well heard by Ishmael and Yi Sang, however. They walked up to her and shared a few words of consolation.
-Рассказчик: Казалось, что первую часть предложения Ишмаэль и И Сан хорошо расслышали. Они подошли к ней и поделились несколькими словами утешения.
+Рассказчик: Казалось, что первую часть предложения Измаил и И Сан хорошо расслышали. Они подошли к ней и поделились несколькими словами утешения.
 
 # Original: By the way... I don't ever recall you talking like that, Faust.
-Ишмаэль: Кстати... Я не помню, чтобы ты раньше так говорила, Фауст.
+Измаил: Кстати... Я не помню, чтобы ты раньше так говорила, Фауст.
 
 # Original: I don't know what it is, but you feel... different from your usual self, somehow?
-Ишмаэль: Не знаю, что это, но ты кажешься... другой, не похожей на себя обычную, как-то?
+Измаил: Не знаю, что это, но ты кажешься... другой, не похожей на себя обычную, как-то?
 
 # Original: That is...
 Фауст: Это...
 
 # Original: Oh, I mean, I don't hate it. I'm actually glad to learn that you had a softer side.
-Ишмаэль: О, я имею в виду, мне это не противно. Я на самом деле рада узнать, что у тебя есть более мягкая сторона.
+Измаил: О, я имею в виду, мне это не противно. Я на самом деле рада узнать, что у тебя есть более мягкая сторона.
 
 # Original: This unseen side of yours... it is unfamiliar, yet quite fresh.
 И Сан: Незримая сторона твоя... она непривычна, но весьма свежа.

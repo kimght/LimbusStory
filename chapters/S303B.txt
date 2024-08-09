@@ -1,8 +1,8 @@
 ﻿# Original: The line’s moving quickly. It’ll be our turn in about 10 minutes at most.
-Ишмаэль: Очередь движется быстро. До нас, в худшем случае, дойдёт минут через десять.
+Измаил: Очередь движется быстро. До нас, в худшем случае, дойдёт минут через десять.
 
 # Original: Will all thirteen of us need to answer immigration questions? They won’t be able to understand Manager Dante, so what should we do?
-Ишмаэль: Всем тринадцати придётся отвечать на миграционные вопросы? Вряд ли они поймут менеджера Данте… И что же в таком случае делать?
+Измаил: Всем тринадцати придётся отвечать на миграционные вопросы? Вряд ли они поймут менеджера Данте… И что же в таком случае делать?
 
 # Original: Ishmael seemed to have a habit of speaking quickly and being more inquisitive when she got anxious.
 Рассказчик: Похоже, у Измаил есть привычка тараторить и задавать уйму вопросов, когда она начинает нервничать.
@@ -71,7 +71,7 @@
 Родион: Тогда и к причудливой руке Грега и восхитительным часам Данте претензий тоже не будет?
 
 # Original: That should be the case. For your reference, our manager’s head counts as a prosthetic rather than a weapon, which means it’d be approved even if what we had were a tourist visa, powers to revive notwithstanding.
-Ишмаэль: Верно. К тому же, голова нашего менеджера будет скорее считаться протезом, нежели оружием, пусть она и может воскрешать, и его бы пропустили даже с туристической визой.
+Измаил: Верно. К тому же, голова нашего менеджера будет скорее считаться протезом, нежели оружием, пусть она и может воскрешать, и его бы пропустили даже с туристической визой.
 
 # Original: Ishmael took the role of the model student and answered in Vergilius’s stead.
 Рассказчик: Измаил, взяв на себя роль примера для подражания, ответила за Вергилия.
@@ -158,7 +158,7 @@
 Рассказчик: Наша очередь двигалась с такой скоростью, что едва ли осталось время перекинуться парой слов, прежде чем нам начнут задавать вопросы.
 
 # Original: Remember: When you’re asked about the purpose of your visit…
-Ишмаэль: Запомните, когда вас спросят о цели визита…
+Измаил: Запомните, когда вас спросят о цели визита…
 
 # Original: …Remind me one more time and I’ll show SANGRIA to you and the official or whatever.
 Рёшу: Попробуй сказать это ещё хоть раз, и я продемонстрирую ВСТИМ и на тебе, и на пограничниках.
@@ -191,7 +191,7 @@
 Люди в очереди: …… ……
 
 # Original: …Something’s amiss over there.
-Ишмаэль: …Кажется, там что-то случилось.
+Измаил: …Кажется, там что-то случилось.
 
 # Original: The glass wall standing between us and them was thick enough to block out sound.
 Рассказчик: Стеклянная стена, разделяющая их и нас, была достаточно плотной, дабы не пропускать звуки.
@@ -206,13 +206,13 @@
 Рассказчик: А неподалёку стоял напуганный и растерянный ребёнок.
 
 # Original: …We shouldn’t bother. I don’t know what happened, but I guess someone broke a taboo.
-Ишмаэль: …Это нас не касается. Без понятия, что там произошло, но, наверное, кто-то нарушил табу.
+Измаил: …Это нас не касается. Без понятия, что там произошло, но, наверное, кто-то нарушил табу.
 
 # Original: Yeah, sure. Those impoverished vandals and their audacity to break the taboo of not stuffing enough cash in the right people’s pockets, am I right?
 Хитклиф: Сто пудов. Ох уж эти разорённые бедняки, нарушившие табу, не дав должного количества бабла правильным людям, да?
 
 # Original: …Are you mocking me right now?
-Ишмаэль: …Ты передразниваешь меня?
+Измаил: …Ты передразниваешь меня?
 
 # Original: Huh. What, I thought you didn’t care? Guess someone’s knickers are in a twist.
 Хитклиф: О-о. Тебе ж вроде плевать было? Или вдруг резко перестало?
@@ -293,7 +293,7 @@
 Хитклиф: …Стоило проломить ей череп и протащить в мешке для трупов.
 
 # Original: I doubt that would’ve made much of a difference.
-Ишмаэль: Вряд ли бы от этого что-то изменилось.
+Измаил: Вряд ли бы от этого что-то изменилось.
 
 # Original: Thrombo, Leuko… I believe they refer to platelets and white blood cells respectively.
 И Сан: Тромбо, лейко… Полагаю, они отсылаются на тромбоциты и белые кровяные тельца.

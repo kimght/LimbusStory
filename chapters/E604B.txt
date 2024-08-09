@@ -5,7 +5,7 @@
 Вергилий: …Мы смогли договориться.
 
 # Original: And? You explained things to them, right? Please tell me that the agreement doesn't involve us collectively dangling from that stupid gallows.
-Ишмаэль: И как прошло? Вы всё им объяснили ведь, да? Нам же не придётся всей группой болтаться на этой дурацкой виселице?
+Измаил: И как прошло? Вы всё им объяснили ведь, да? Нам же не придётся всей группой болтаться на этой дурацкой виселице?
 
 # Original: A ten billion Ahn... is certainly an absurd amount of money. But that doesn't change the fact that we are still responsible for it. We did benefit from the extra time it granted us, and its use was something that wasn't mutually agreed upon before our unilateral activation.
 Вергилий: Десять миллиардов ан… слишком несуразная сумма, но в то же время никто не отменял нашей ответственности за произошедший инцидент. Мы извлекли выгоду из того времени, а его использование ни с кем заранее не было обговорено.
@@ -131,7 +131,7 @@
 Отис: Иного и быть не может—
 
 # Original: All right, all right, enough with your nonsense. So... how many of us are allowed to work on this case anyway?
-Ишмаэль: Тихо, тихо, хватит балаболить… Так сколько из нас будут работать над этим делом?
+Измаил: Тихо, тихо, хватит балаболить… Так сколько из нас будут работать над этим делом?
 
 # Original: Hm...
 Вергилий: Хм…
@@ -143,7 +143,7 @@
 Вергилий: Трое. Включая менеджера, вам хватит и четверых.
 
 # Original: That's not a lot...
-Ишмаэль: Так мало…
+Измаил: Так мало…
 
 # Original: Accept it. We barely managed to get the authorization for four after much debate.
 Вергилий: Смиритесь. Нам на четверых-то лишь чудом удалось добиться разрешения.
@@ -332,22 +332,22 @@
 Грегор: Кстати… Причины остальных я понимаю, но почему ты пролетела, Измаил?
 
 # Original: Didn't get picked? I never volunteered.
-Ишмаэль: В смысле пролетела… Я ведь даже руку не поднимала.
+Измаил: В смысле пролетела… Я ведь даже руку не поднимала.
 
 # Original: Hey, it's not every day you get a legitimate chance to get some free paid time off without breaking company rules. And I wasn't about to let that chance slip.
-Ишмаэль: В конце концов, не каждый же день выпадает возможность передохнуть, не нарушая при этом правила компании.
+Измаил: В конце концов, не каждый же день выпадает возможность передохнуть, не нарушая при этом правила компании.
 
 # Original: I... guess I did have some last-minute regrets when I saw who Vergilius picked, but... I'll just relax for a bit and jump in to help 'em out when needed.
-Ишмаэль: После того, как я увидела, кого выбрал Вергилий, мне, конечно, было немного жалко, но... Ничего, если у них ничего не получится, я помогу после отдыха.
+Измаил: После того, как я увидела, кого выбрал Вергилий, мне, конечно, было немного жалко, но... Ничего, если у них ничего не получится, я помогу после отдыха.
 
 # Original: Well, good luck. While the...
-Ишмаэль: Что ж, пока эти четверо…
+Измаил: Что ж, пока эти четверо…
 
 # Original: Heh, call us 'The Elite Four'! ... How's that?
 Родион: Хех, называй нас "Элитная четвёрка"!
 
 # Original: ... while 'The Self-proclaimed Elite Four' runs around T Corp, why don't we find a place to take the edge off and unwind?
-Ишмаэль: ...пока самопровозглашённая "элитная четвёрка" будет слоняться тут и там… давайте что ли найдём местечко, где можно развеяться?
+Измаил: ...пока самопровозглашённая "элитная четвёрка" будет слоняться тут и там… давайте что ли найдём местечко, где можно развеяться?
 
 # Original: How unfortunate.
 Вергилий: Сожалею.
@@ -371,7 +371,7 @@
 Отис: Гид. Уверены, что в этом можно „проживать“?
 
 # Original: I... they're going to... I'm going to jail...?
-Ишмаэль: Я… меня посадят… за решётку?
+Измаил: Я… меня посадят… за решётку?
 
 # Original: Yep... as living collaterals, apparently...
 Синклер: Похоже... мы будем живым залогом…

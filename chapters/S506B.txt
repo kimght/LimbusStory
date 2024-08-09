@@ -101,43 +101,43 @@
 Мерсо: Ключевые элементы для прохождения мимо вышибал...
 
 # Original: You'd be right... if this was just any other club.
-Ишмаэль: Ты был бы прав... если бы это был обычный клуб.
+Измаил: Ты был бы прав... если бы это был обычный клуб.
 
 # Original: Ishy...?
 Родион: Иши...?
 
 # Original: Ishmael walked past us and up to the club entrance.
-Рассказчик: Ишмаэль прошла мимо нас к входу в клуб.
+Рассказчик: Измаил прошла мимо нас к входу в клуб.
 
 # Original: This is a home to a leader of a Syndicate. The question you should be asking is... what are the *other* ways of entering this establishment?
-Ишмаэль: Это дом лидера Синдиката. Вопрос, который вы должны задать... какие еще есть способы попасть в это заведение?
+Измаил: Это дом лидера Синдиката. Вопрос, который вы должны задать... какие еще есть способы попасть в это заведение?
 
 # Original: And I'm sure the answer lies with a Syndicate member.
-Ишмаэль: И я уверена, что ответ кроется в члене Синдиката.
+Измаил: И я уверена, что ответ кроется в члене Синдиката.
 
 # Original: Easy enough, right?
-Ишмаэль: Достаточно просто, верно?
+Измаил: Достаточно просто, верно?
 
 # Original: What brings you here, if I may ask?
 Вышибала: Что привело вас сюда, если позволите спросить?
 
 # Original: I...
-Ишмаэль: Я...
+Измаил: Я...
 
 # Original: ...?
 Вышибала: ...?
 
 # Original: I'm... Queequeg's... friend.
-Ишмаэль: Я... друг... Квиквега.
+Измаил: Я... друг... Квиквега.
 
 # Original: You're... whose friend?
 Вышибала: Вы... чей друг?
 
 # Original: Queequeg.
-Ишмаэль: Квиквега.
+Измаил: Квиквега.
 
 # Original: You recognized that name, didn't you?
-Ишмаэль: Вы узнали это имя, не так ли?
+Измаил: Вы узнали это имя, не так ли?
 
 # Original: At the mere mention of that name, the bouncer's expression changed from that of indifference to disbelief.
 Рассказчик: При одном упоминании этого имени выражение лица вышибалы изменилось с безразличного на недоверчивое.
@@ -158,19 +158,19 @@
 Вышибала: Вы действительно друг этого Квиквега?
 
 # Original: ... What if I am?
-Ишмаэль: ... А что, если да?
+Измаил: ... А что, если да?
 
 # Original: Where is Queequeg?
 Вышибала: Где Квиквег?
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: It's the Boss askin'.
 Вышибала: Это Босс спрашивает.
 
 # Original: Right... so your Boss is in the club, huh.
-Ишмаэль: Ясно... значит, ваш Босс в клубе, да?
+Измаил: Ясно... значит, ваш Босс в клубе, да?
 
 # Original: I ask again. Where is Queeq...
 Вышибала: Я спрашиваю еще раз. Где Квик...
@@ -182,7 +182,7 @@
 Данте: <Я думал, мы пытаемся проникнуть незаметно?!>
 
 # Original: No.
-Ишмаэль: Нет.
+Измаил: Нет.
 
 # Original: I just wanted to know if their Boss was home. We should be able to get all the intel we want from them.
-Ишмаэль: Я просто хотела узнать, дома ли их Босс. Мы должны получить всю нужную информацию от них.
+Измаил: Я просто хотела узнать, дома ли их Босс. Мы должны получить всю нужную информацию от них.

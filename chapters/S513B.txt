@@ -1,17 +1,17 @@
 # Original: This one... It's gotta be this shipping container. And in here should be the LCCB Team Captain...
-Ишмаэль: Этот... Должно быть, этот контейнер. И внутри должен быть капитан команды ККЛБ...
+Измаил: Этот... Должно быть, этот контейнер. И внутри должен быть капитан команды ККЛБ...
 
 # Original: Pshaw...! I... I really thought I was done for. Sniff, sniff...
 Пилот: Фух...! Я... Я думал, мне конец. Хнык, хнык...
 
 # Original: ……
-Ишмаэль: ......
+Измаил: ......
 
 # Original: Name's Pilot. LCCB Preliminary Observation Unit 3 Assistant Manager.
 Пилот: Меня зовут Пилот. Помощник менеджера 3-го подразделения предварительного наблюдения ККЛБ.
 
 # Original: Wait, you're not the Team Leader? But the pirates said they captured the LCCB Team Leader...?
-Ишмаэль: Подожди, ты не руководитель команды? Но пираты сказали, что захватили лидера команды ККЛБ...?
+Измаил: Подожди, ты не руководитель команды? Но пираты сказали, что захватили лидера команды ККЛБ...?
 
 # Original: Hey... I'm standing right here... What's up with the obvious disappointment...?
 Пилот: Эй... Я же прямо здесь... Что за явное разочарование...?
@@ -65,7 +65,7 @@
 Данте: <...!>
 
 # Original: Saude... is alive?
-Ишмаэль: Сауде... жива?
+Измаил: Сауде... жива?
 
 # Original: M-manager...? Did she get promoted?
 Грегор: М-менеджер...? Её повысили?
@@ -83,16 +83,16 @@
 Данте: <Я рад, что с ней всё в порядке...>
 
 # Original: Is Saude... okay?
-Ишмаэль: Сауде... в порядке?
+Измаил: Сауде... в порядке?
 
 # Original: 'Course! It wasn't the smoothest recovery, but she's now healthy enough to eat some grub and hold a lengthy conversation.
 Пилот: Конечно! Восстановление было не самым гладким, но сейчас она достаточно здорова, чтобы есть и вести длительные разговоры.
 
 # Original: That's great, but I was asking, because...
-Ишмаэль: Это здорово, но я спрашиваю, потому что...
+Измаил: Это здорово, но я спрашиваю, потому что...
 
 # Original: She lost her partner. Right before her eyes.
-Ишмаэль: Она потеряла своего напарника. Прямо у неё на глазах.
+Измаил: Она потеряла своего напарника. Прямо у неё на глазах.
 
 # Original: ......
 Синклер: ......
@@ -113,19 +113,19 @@
 Пилот: И я горжусь этим! Я горжусь жертвами, которые мы приносим. Хотя большинство моих коллег в ККЛБ просто хотят быстро заработать перед увольнением и говорят, что я странный.
 
 # Original: You're... proud of sacrifice?
-Ишмаэль: Ты... гордишься жертвами?
+Измаил: Ты... гордишься жертвами?
 
 # Original: Seriously?
-Ишмаэль: Серьёзно?
+Измаил: Серьёзно?
 
 # Original: Now now, Ishy~ Whaaat? You want Sardine Whale flavored ice cream? No way, me too! Why don't we head out and get some together~?
 Родион: Ну-ну, Иши~ Чтоо? Ты хочешь мороженое со вкусом сардинового кита? Да ладно, я тоже! Почему бы нам не пойти и не взять немного вместе~?
 
 # Original: Hey, let me go. Let me g— Gah, how are you so strong—
-Ишмаэль: Эй, отпусти меня. Отпус— Гах, как ты такая сильная—
+Измаил: Эй, отпусти меня. Отпус— Гах, как ты такая сильная—
 
 # Original: Rodya grabbed Ishmael's arm and began practically dragging her outside.
-Рассказчик: Родя схватила Ишмаэль за руку и практически вытащила её наружу.
+Рассказчик: Родя схватила Измаил за руку и практически вытащила её наружу.
 
 # Original: <Well... just in case she gets into another fight...>
 Данте: <Ну... на всякий случай, если она снова ввяжется в драку...>
@@ -143,34 +143,34 @@
 Родион: Я понимаю, что сейчас всё немного сложно, но давай будем немного терпеливее, ладно~?
 
 # Original: Rodion, that back there... that's just indoctrination. They're brainwashing them.
-Ишмаэль: Родион, то, что там было... это просто индоктринация. Они промывают им мозги.
+Измаил: Родион, то, что там было... это просто индоктринация. Они промывают им мозги.
 
 # Original: No one wants to admit that they're just throwing themselves into a meat grinder. So they wrap that neatly in the name of self-sacrifice...
-Ишмаэль: Никто не хочет признавать, что они просто бросают себя в мясорубку. Поэтому они красиво упаковывают это в название самопожертвования...
+Измаил: Никто не хочет признавать, что они просто бросают себя в мясорубку. Поэтому они красиво упаковывают это в название самопожертвования...
 
 # Original: I know.
 Родион: Я знаю.
 
 # Original: Then why...
-Ишмаэль: Тогда почему...
+Измаил: Тогда почему...
 
 # Original: People need a way to endure that reality and go on living somehow. Some people live from paycheck to paycheck. Sometimes... they just don't have a choice.
 Родион: Людям нужен способ вынести эту реальность и как-то жить дальше. Некоторые люди живут от зарплаты до зарплаты. Иногда... у них просто нет выбора.
 
 # Original: ......
-Ишмаэль: ......
+Измаил: ......
 
 # Original: Let's hear out our overzealous friend, how 'bout that?
 Родион: Давай выслушаем нашего чрезмерно усердного друга, как насчёт этого?
 
 # Original: ... Don't talk down to me like you're coddling some baby.
-Ишмаэль: ... Не говори со мной свысока, как будто нянчишься с ребёнком.
+Измаил: ... Не говори со мной свысока, как будто нянчишься с ребёнком.
 
 # Original: We're not that close, Rodion.
-Ишмаэль: Мы не настолько близки, Родион.
+Измаил: Мы не настолько близки, Родион.
 
 # Original: But I'll listen, just this once.
-Ишмаэль: Но я послушаю, только на этот раз.
+Измаил: Но я послушаю, только на этот раз.
 
 # Original: ... Fine, fine~
 Родион: ... Ладно, ладно~

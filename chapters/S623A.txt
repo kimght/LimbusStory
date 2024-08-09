@@ -65,7 +65,7 @@
 Фауст: Есть небольшая вероятность, что твои "подозрения" могут быть верными. Вот что я думаю.
 
 # Original: What are you two even talking about...?
-Ишмаэль: О чем вы двое вообще говорите...?
+Измаил: О чем вы двое вообще говорите...?
 
 # Original: I would like to recommend that you open the diary yourself, Heathcliff.
 Фауст: Я бы хотела порекомендовать тебе самому открыть дневник, Хитклиф.
@@ -125,7 +125,7 @@
 Синклер: Вот оно снова. Это "мы"...
 
 # Original: Most diaries are written in first person. Do you know anything about this, Heathcliff?
-Ишмаэль: Большинство дневников пишутся от первого лица. Ты что-нибудь знаешь об этом, Хитклиф?
+Измаил: Большинство дневников пишутся от первого лица. Ты что-нибудь знаешь об этом, Хитклиф?
 
 # Original: No... She's never once mentioned this dream to me.
 Хитклиф: Нет... Она никогда не рассказывала мне об этом сне.

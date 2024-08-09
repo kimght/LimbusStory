@@ -38,10 +38,10 @@
 Фауст: Да, мы будем исследовать филиалы корпорации «Лоботомия»… Также известной, как “старая корпорация L”.
 
 # Original: If I were you, I wouldn’t have taken part in this.
-Ишмаэль: На твоём месте я бы держалась за тридевять земель от подобных затей.
+Измаил: На твоём месте я бы держалась за тридевять земель от подобных затей.
 
 # Original: Being a fallen Wing and everything, I doubt your employment ended on pleasant terms.
-Ишмаэль: Связь с павшим Крылом обычно не кончается хорошо.
+Измаил: Связь с павшим Крылом обычно не кончается хорошо.
 
 # Original: What’re you on about? Any point in your life can be pleasant as long as you’ve money to spend.
 Родион: О чём ты? Будь то Крыло или что-то ещё, жизнь и воспоминания о ней прекрасны, пока ты при деньгах.
@@ -83,7 +83,7 @@
 Синклер: А, значит… нам больше не придётся скармливать людей этой махине, да?
 
 # Original: We could also grab some E.G.O if we’re lucky, so that’s three rats with one stone.
-Ишмаэль: К тому же, если нам повезёт, мы отыщем ЭГО — убьём трёх Крыс одним выстрелом.
+Измаил: К тому же, если нам повезёт, мы отыщем ЭГО — убьём трёх Крыс одним выстрелом.
 
 # Original: E.G.O? That’s another unknown term that makes my head tilt…
 Рассказчик: ЭГО? Вновь услышав неизвестное слово, я невольно наклонил голову, но…
@@ -110,7 +110,7 @@
 Рассказчик: Юри легонько кивнула, и Измаил тяжко вздохнула.
 
 # Original: I don’t know who gave you that idea, but Fixers are anything but noble or heroic. The only scent you’ll smell is the miserable stink of wage slaves.
-Ишмаэль: Не знаю, откуда ты это взяла, но в корректировщиках нет ничего благородного или святого. А несёт от них только жалостью потрёпанных наёмных рабов.
+Измаил: Не знаю, откуда ты это взяла, но в корректировщиках нет ничего благородного или святого. А несёт от них только жалостью потрёпанных наёмных рабов.
 
 # Original: …It couldn’t have been easy to find another job so soon. Good that you’re holding up.
 Грегор: …Нелегко так скоро найти новое место работы. Хорошо, что вы держитесь на плаву.
@@ -119,10 +119,10 @@
 Юри: Сейчас, правда… я лишь контрактница.
 
 # Original: Aha. That explains why you decided to crawl on back there.
-Ишмаэль: А-ха. Теперь понятно, зачем ты приползла сюда.
+Измаил: А-ха. Теперь понятно, зачем ты приползла сюда.
 
 # Original: Did they promise to promote you to team leader or something if you struck gold in your former workplace?
-Ишмаэль: Тебе сказали, что поднимут тебя до лидера команды, если ты обворуешь своё прошлое место работы?
+Измаил: Тебе сказали, что поднимут тебя до лидера команды, если ты обворуешь своё прошлое место работы?
 
 # Original: …My contracts might get extended if I return with results.
 Юри: …Если я не подведу, мне могут продлить контракт.
@@ -131,13 +131,13 @@
 Грегор: К-конечно… Если ты контрактник, то ради хороших результатов для места на работе можно и жизнью рискнуть.
 
 # Original: Ha, and what a futile life that is.
-Ишмаэль: Ха, какое ж бесполезное прожигание жизни.
+Измаил: Ха, какое ж бесполезное прожигание жизни.
 
 # Original: (Hey, what’s with the sarcasm? Is something a problem?)
 Грегор: (Эй, почему ты настолько саркастична? Что не так?)
 
 # Original: …I dunno, I have a problem with every single thing I’m hearing right now. 
-Ишмаэль: …Ну не знаю, на мой взгляд тут вообще всё не так.
+Измаил: …Ну не знаю, на мой взгляд тут вообще всё не так.
 
 # Original: Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat.
 Рассказчик: Словно её это не задело, Юри осмотрелась и заняла свободное сидение.

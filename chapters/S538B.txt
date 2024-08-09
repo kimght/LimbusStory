@@ -20,22 +20,22 @@
 Родион: Ха, думаю, это правда~
 
 # Original: ... All right. Heading into the zone.
-Ишмаэль: ... Хорошо. Входим в зону.
+Измаил: ... Хорошо. Входим в зону.
 
 # Original: Are there any laws of that Lake that we must be mindful of?
 Отис: Есть ли какие-то законы этого Озера, о которых мы должны помнить?
 
 # Original: I don't know the laws of that Lake, nor its Waves.
-Ишмаэль: Я не знаю законов этого Озера, ни его Волн.
+Измаил: Я не знаю законов этого Озера, ни его Волн.
 
 # Original: I remember the way the fog split open. I remember the obsidian sea and the endless tempest.
-Ишмаэль: Я помню, как расступился туман. Я помню обсидиановое море и бесконечную бурю.
+Измаил: Я помню, как расступился туман. Я помню обсидиановое море и бесконечную бурю.
 
 # Original: But the rest of it... All I remember is that the Captain was excitedly delivering a speech at witnessing the legends come to life, and that we were all busy preparing for the Whale hunt.
-Ишмаэль: Но остальное... Всё, что я помню, это то, что Капитан взволнованно произносил речь, став свидетелем ожившей легенды, и что мы все были заняты подготовкой к охоте на Кита.
+Измаил: Но остальное... Всё, что я помню, это то, что Капитан взволнованно произносил речь, став свидетелем ожившей легенды, и что мы все были заняты подготовкой к охоте на Кита.
 
 # Original: ... So, what awaits us ahead is a real adventure. We'll be sailing blindly into the night.
-Ишмаэль: ... Так что то, что ждёт нас впереди, - настоящее приключение. Мы будем плыть вслепую в ночь.
+Измаил: ... Так что то, что ждёт нас впереди, - настоящее приключение. Мы будем плыть вслепую в ночь.
 
 # Original: ... Gulp.
 Дон Кихот: ... Гулп.
@@ -44,16 +44,16 @@
 Отис: Тогда... нам придётся встретиться со всем лицом к лицу.
 
 # Original: Yes. If the Waves come to claim us, we will face them. Head-on.
-Ишмаэль: Да. Если Волны придут за нами, мы встретим их. Лицом к лицу.
+Измаил: Да. Если Волны придут за нами, мы встретим их. Лицом к лицу.
 
 # Original: ... Even the Whale.
-Ишмаэль: ... Даже с Китом.
+Измаил: ... Даже с Китом.
 
 # Original: ... No signs of that Whale yet, though.
-Ишмаэль: ... Хотя пока нет никаких признаков того Кита.
+Измаил: ... Хотя пока нет никаких признаков того Кита.
 
 # Original: Back then, it attacked us mere minutes after we entered the Lake.
-Ишмаэль: В тот раз он атаковал нас через несколько минут после того, как мы вошли в Озеро.
+Измаил: В тот раз он атаковал нас через несколько минут после того, как мы вошли в Озеро.
 
 # Original: Everyone was as tense as they could ever be, looking around nervously...
 Рассказчик: Все были напряжены как никогда, нервно оглядываясь по сторонам...
@@ -80,19 +80,19 @@
 Синклер: Маяки? Да, я вроде как вижу это...
 
 # Original: ......
-Ишмаэль: ......
+Измаил: ......
 
 # Original: <Do you remember seeing anything like that, Ishmael?>
-Данте: <Ты помнишь, чтобы видела что-то подобное, Ишмаэль?>
+Данте: <Ты помнишь, чтобы видела что-то подобное, Измаил?>
 
 # Original: No... I don't even have a hazy recollection of it. I've never seen it before in my...
-Ишмаэль: Нет... У меня даже нет смутного воспоминания об этом. Я никогда раньше не видела этого в своей...
+Измаил: Нет... У меня даже нет смутного воспоминания об этом. Я никогда раньше не видела этого в своей...
 
 # Original: ...!
-Ишмаэль: ...!
+Измаил: ...!
 
 # Original: I-Ishmael. Has the nausea of the swaying sea gotten to you as well?
-И Сан: И-Ишмаэль. Неужели морская болезнь от качки добралась и до тебя?
+И Сан: И-Измаил. Неужели морская болезнь от качки добралась и до тебя?
 
 # Original: Your face has grown rather pale...
 И Сан: Твоё лицо стало довольно бледным...
@@ -101,13 +101,13 @@
 Рассказчик: Я знал, что это не может быть правдой.
 
 # Original: A seasick sailor only exists in jokes. Besides, Ishmael was doing just fine mere moments ago.
-Рассказчик: Страдающий от морской болезни моряк существует только в шутках. К тому же, Ишмаэль чувствовала себя прекрасно всего несколько мгновений назад.
+Рассказчик: Страдающий от морской болезни моряк существует только в шутках. К тому же, Измаил чувствовала себя прекрасно всего несколько мгновений назад.
 
 # Original: Then... she must've had a sudden realization.
 Рассказчик: Значит... она должна была внезапно что-то осознать.
 
 # Original: I see... So that's what it looked like. Even a small part of it is...
-Ишмаэль: Я поняла... Вот как это выглядело. Даже небольшая часть этого...
+Измаил: Я поняла... Вот как это выглядело. Даже небольшая часть этого...
 
 # Original: A terrifying realization.
 Рассказчик: Ужасающее осознание.
@@ -116,7 +116,7 @@
 Синклер: Ч-что такое?
 
 # Original: You'll find out soon enough. Even if you don't want to.
-Ишмаэль: Скоро узнаешь. Даже если не захочешь.
+Измаил: Скоро узнаешь. Даже если не захочешь.
 
 # Original: There, a rogue wave ahead...!
 Отис: Там, впереди блуждающая волна...!
@@ -167,25 +167,25 @@
 Родион: Я хочу вернуться во времена, когда не знала, как на самом деле выглядят Киты...
 
 # Original: So this is the Lake where the Whales come to sleep...
-Ишмаэль: Так это Озеро, куда приходят спать Киты...
+Измаил: Так это Озеро, куда приходят спать Киты...
 
 # Original: Yeah. If they're deep in the water with their necks bent like that... I could see their tails rising tall over the surface.
-Ишмаэль: Да. Если они глубоко в воде с изогнутыми шеями... Я могла видеть их хвосты, возвышающиеся над поверхностью.
+Измаил: Да. Если они глубоко в воде с изогнутыми шеями... Я могла видеть их хвосты, возвышающиеся над поверхностью.
 
 # Original: But... There's no way they missed this commotion.
-Ишмаэль: Но... Нет никакой возможности, чтобы они пропустили этот переполох.
+Измаил: Но... Нет никакой возможности, чтобы они пропустили этот переполох.
 
 # Original: T-t-t-the ship is... We're... we're keeling over!
 Синклер: К-к-к-корабль... Мы... мы кренимся!
 
 # Original: ... The Whales are waking up.
-Ишмаэль: ... Киты просыпаются.
+Измаил: ... Киты просыпаются.
 
 # Original: 'We're finally here.'
 Рассказчик: "Мы наконец здесь."
 
 # Original: ... I think that's what Ishmael whispered. But the storm, the waves buried her voice deep into the Lake.
-Рассказчик: ... Думаю, это то, что прошептала Ишмаэль. Но шторм, волны глубоко погребли её голос в Озере.
+Рассказчик: ... Думаю, это то, что прошептала Измаил. Но шторм, волны глубоко погребли её голос в Озере.
 
 # Original: If the Indigo Elder made it here as we planned...
 Фауст: Если Старик Индиго добрался сюда, как мы планировали...
@@ -215,10 +215,10 @@
 Отис: Тогда нам нужно сделать свою часть.
 
 # Original: Ah!
-Ишмаэль: Ах!
+Измаил: Ах!
 
 # Original: There, there!
-Ишмаэль: Там, там!
+Измаил: Там, там!
 
 # Original: There was a Whale that stood out even among the herd of ineffably immense Whales.
 Рассказчик: Среди стада невыразимо огромных Китов выделялся один.
@@ -230,10 +230,10 @@
 Отис: Этот особенно изранен.
 
 # Original: Ha, ha ha ha... I've found it!
-Ишмаэль: Ха, ха-ха-ха... Я нашла его!
+Измаил: Ха, ха-ха-ха... Я нашла его!
 
 # Original: Yes... He was right. The wounds, the scars that we... the Pequod made... they're all still there.
-Ишмаэль: Да... Он был прав. Раны, шрамы, которые мы... "Пекод" нанёс... они всё ещё там.
+Измаил: Да... Он был прав. Раны, шрамы, которые мы... "Пекод" нанёс... они всё ещё там.
 
 # Original: I assume that you have finally located the Whale?
 Вергилий: Полагаю, вы наконец обнаружили Кита?
@@ -248,37 +248,37 @@
 Фауст: Действительно, это так.
 
 # Original: OARSMEN!!!!!!!
-Ишмаэль: ГРЕБЦЫ!!!!!!!
+Измаил: ГРЕБЦЫ!!!!!!!
 
 # Original: Ishmael thundered.
-Рассказчик: Прогремела Ишмаэль.
+Рассказчик: Прогремела Измаил.
 
 # Original: <Ishmael...?>
-Данте: <Ишмаэль...?>
+Данте: <Измаил...?>
 
 # Original: No, louder than the thunder itself. As though her personality itself had suddenly shifted. Her voice seemed to overwhelm the very storm itself.
 Рассказчик: Нет, громче самого грома. Как будто её личность внезапно изменилась. Казалось, её голос перекрыл саму бурю.
 
 # Original: ANSWERS, YOU DOGS!!!!! OARSMEN!!!!
-Ишмаэль: ОТВЕЧАЙТЕ, ПСЫ!!!!! ГРЕБЦЫ!!!!
+Измаил: ОТВЕЧАЙТЕ, ПСЫ!!!!! ГРЕБЦЫ!!!!
 
 # Original: Huh?! A-aye!
 Хитклиф: А?! Е-есть!
 
 # Original: Set route to that pallid thing! FULL SPEED AHEAD!!!! ROW!
-Ишмаэль: Проложить курс к этой бледной твари! ПОЛНЫЙ ВПЕРЁД!!!! ГРЕБИТЕ!
+Измаил: Проложить курс к этой бледной твари! ПОЛНЫЙ ВПЕРЁД!!!! ГРЕБИТЕ!
 
 # Original: ... Full speed ahead! Row!
 Отис: ... Полный вперёд! Гребите!
 
 # Original: Even Outis was swept up in this sudden turn of events, repeating after Ishmael's bellowing commands.
-Рассказчик: Даже Отис была захвачена этим внезапным поворотом событий, повторяя за громогласными командами Ишмаэль.
+Рассказчик: Даже Отис была захвачена этим внезапным поворотом событий, повторяя за громогласными командами Измаил.
 
 # Original: Is this what Ishmael was like when she sailed the Lakes? Or...
-Рассказчик: Такой ли была Ишмаэль, когда плавала по Озёрам? Или...
+Рассказчик: Такой ли была Измаил, когда плавала по Озёрам? Или...
 
 # Original: Ha... HA HA...!
-Ишмаэль: Ха... ХА-ХА...!
+Измаил: Ха... ХА-ХА...!
 
 # Original: ... Or is this the Captain?
 Рассказчик: ... Или это Капитан?
@@ -311,7 +311,7 @@
 Старик Индиго: О, как я желал увидеть тебя лицом к лицу.
 
 # Original: The old man, harpoon in hand, draws closer to the whale with a grim, stony expression. Ishmael also aims her harpoon at the great Whale, her face nearly tearing with uncontainable joy. Some sinners tremble with fear, while others prepare themselves.
-Рассказчик: Старик, с гарпуном в руке, приближается к киту с мрачным, каменным выражением лица. Ишмаэль также нацеливает свой гарпун на великого Кита, её лицо почти разрывается от неудержимой радости. Некоторые грешники дрожат от страха, в то время как другие готовятся.
+Рассказчик: Старик, с гарпуном в руке, приближается к киту с мрачным, каменным выражением лица. Измаил также нацеливает свой гарпун на великого Кита, её лицо почти разрывается от неудержимой радости. Некоторые грешники дрожат от страха, в то время как другие готовятся.
 
 # Original: All of it, the world... contained in a single reflective eye that stretched even beyond our peripheral visions.
 Рассказчик: Всё это, весь мир... заключён в одном отражающем глазу, который простирался даже за пределы нашего периферического зрения.
@@ -323,7 +323,7 @@
 Старик Индиго: Я знаю, у тебя нет другого выбора. Кусать, пожирать — это всё, что ты когда-либо знал.
 
 # Original: OARSMEN!!!!! SPLIT THE SEA WITH YOUR OARS!!!!!
-Ишмаэль: ГРЕБЦЫ!!!!! РАССЕКИТЕ МОРЕ СВОИМИ ВЁСЛАМИ!!!!!
+Измаил: ГРЕБЦЫ!!!!! РАССЕКИТЕ МОРЕ СВОИМИ ВЁСЛАМИ!!!!!
 
 # Original: I respect you, Pallid Whale. I respect that you have lived years in numbers that I cannot even begin to imagine. I respect that you hail from a place beyond my ken.
 Старик Индиго: Я уважаю тебя, Бледный Кит. Я уважаю то, что ты прожил годы в количествах, которые я даже не могу себе представить. Я уважаю то, что ты родом из места за пределами моего понимания.
@@ -341,22 +341,22 @@
 Отис: Сейчас наш шанс! Гребите, гребите!
 
 # Original: Ishmael rose tall and alone, looking straight out beyond the speeding boat's swaying bow, harpoon in her hand.
-Рассказчик: Ишмаэль поднялась высоко и в одиночку, глядя прямо за качающийся нос быстро движущейся лодки, с гарпуном в руке.
+Рассказчик: Измаил поднялась высоко и в одиночку, глядя прямо за качающийся нос быстро движущейся лодки, с гарпуном в руке.
 
 # Original: I've been thinking... ever since then... about what feelings you might dig up from my heart if I saw you again.
-Ишмаэль: Я думала... с тех самых пор... о том, какие чувства ты можешь вызвать в моём сердце, если я увижу тебя снова.
+Измаил: Я думала... с тех самых пор... о том, какие чувства ты можешь вызвать в моём сердце, если я увижу тебя снова.
 
 # Original: Ha... But this feeling is much more straightforward than I expected.
-Ишмаэль: Ха... Но это чувство гораздо более прямолинейное, чем я ожидала.
+Измаил: Ха... Но это чувство гораздо более прямолинейное, чем я ожидала.
 
 # Original: ... Nice meeting you again, you FUCKING WHALE!
-Ишмаэль: ... Приятно снова встретиться, ты, ГРЁБАНЫЙ КИТ!
+Измаил: ... Приятно снова встретиться, ты, ГРЁБАНЫЙ КИТ!
 
 # Original: …! ……!
 Бледный Кит: …! ……!
 
 # Original: Compared to the old man's harpoon, the harpoon Ishmael hurled was like a needle.
-Рассказчик: По сравнению с гарпуном старика, гарпун, который метнула Ишмаэль, был как иголка.
+Рассказчик: По сравнению с гарпуном старика, гарпун, который метнула Измаил, был как иголка.
 
 # Original: But once struck, as though its body was wracked by an immense, unbearable pain, the Pallid Whale's maw opened—and the air itself began to vibrate.
 Рассказчик: Но как только он попал в цель, словно тело Кита пронзила невыносимая боль, пасть Бледного Кита открылась — и сам воздух начал вибрировать.

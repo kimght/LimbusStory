@@ -14,7 +14,7 @@
 Грегор: …Неужели никто ничего не слышит?
 
 # Original: We’ve been hearing a constant growl. Rodya, are you really that hungry at a time like this?
-Ишмаэль: Всё, что я слышу, это шумное урчание. Родя, неужели ты проголодалась в такой неподходящий момент?
+Измаил: Всё, что я слышу, это шумное урчание. Родя, неужели ты проголодалась в такой неподходящий момент?
 
 # Original: H-Hey, you’re supposed to let that kinda stuff slide~ Please, girl?
 Родион: Т-тебе не стоило обращать на это внимание~ М-м?
@@ -41,7 +41,7 @@
 Данте: <Грего…!>
 
 # Original: Did we… travel back in time?
-Ишмаэль: Неужели мы… Переместились во времени?
+Измаил: Неужели мы… Переместились во времени?
 
 # Original: I see an overcast sky.
 Рассказчик: Я вижу пасмурное небо над головой.
@@ -71,7 +71,7 @@
 Фауст: Мы недалеко от эссенции, ради которой мы и пришли сюда.
 
 # Original: You mean the Golden Bough?
-Ишмаэль: Золотая ветвь?
+Измаил: Золотая ветвь?
 
 # Original: Correct. Do you recognize when this was?
 Фауст: Да, но знаете ли вы, когда это происходило?
@@ -89,7 +89,7 @@
 Отис: Совершенно естественно, что вы не знаете о происходящем, Менеджер. У вас же нет глаз.
 
 # Original: Was that the best excuse you have…
-Ишмаэль: И это твоё лучшее оправдание…
+Измаил: И это твоё лучшее оправдание…
 
 # Original: Outis cleared her throat as if to mask her embarrassment, then turned her narrow gaze to the battlefield.
 Рассказчик: Отис откашлялась, словно пытаясь скрыть неловкость и, щурясь, взглянула на поле боя.

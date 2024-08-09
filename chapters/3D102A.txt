@@ -191,7 +191,7 @@
 Грегор: …Сод, идём отсюда. Мы остановим тебе кровотечение… и… вернём обратно в форму.
 
 # Original: Right. I’ll get a tourniquet…
-Ишмаэль: Верно. Я наложу жгут…
+Измаил: Верно. Я наложу жгут…
 
 # Original: Don’t be stupid. I can hardly lift a finger.
 Сауде: Да о чём вы? Я едва могу двигаться.
@@ -206,7 +206,7 @@
 Синклер: Как, как ты можешь…
 
 # Original: You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?
-Ишмаэль: Ты ведь сама только что сказала, что едва двигаешься. Нельзя же доверять свой тыл кому-то в таком состоянии… да?
+Измаил: Ты ведь сама только что сказала, что едва двигаешься. Нельзя же доверять свой тыл кому-то в таком состоянии… да?
 
 # Original: You know… in moments like this… you’re supposed to just nod at me and be on your way.
 Сауде: Слушайте… в такие моменты… вы должны просто смириться и продолжить путь.

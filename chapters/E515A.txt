@@ -68,7 +68,7 @@
 Данте: <Когда Свет в тот день проник в сердца людей и дал семенам, зарытым глубоко внутри, возрасти…>
 
 # Original: ... Manager?
-Ишмаэль: …Менеджер?
+Измаил: …Менеджер?
 
 # Original: <If one's ■■■■ ■■ ■■■■■■■■, devoured by their sins, they are reborn in the form of the ■■■■■■■■■, their image reflecting the ■■■■■■■ ■■■■■ ■■ ■■■ ■■■■ dreamt by those who are nothing.>
 Данте: <Поглощённые грехом и ■■■■■■■■■■ ■■■■, люди, что грезили, оставшись ничем, по образу и подобию ■■■■ ■■■■■■■■ ■■■■■■ сами перерождаются в форме ■■■■■■.>
@@ -125,7 +125,7 @@
 Дон Кихот: А-ай! Г-горячо! П-п-полагала я, что пламя на главе менеджера-милорда — лишь украшение…
 
 # Original: Faust! What if they accidentally activated the self-destruct sequence?! Agh, this heat... if we don't douse it now, it's going to melt everything around them...!
-Ишмаэль: Мисс Фауст! Как работает его кнопка самоуничтожения?! Кажется, словно он вот-вот всё расплавит своим пламенем…
+Измаил: Мисс Фауст! Как работает его кнопка самоуничтожения?! Кажется, словно он вот-вот всё расплавит своим пламенем…
 
 # Original: ... Yes, the operating principles are the same. Dante is, via the Golden Boughs, connected to the root of the sapling planted in the subterranean area of the headquarters. Which is to say that—
 Фауст: …Принцип одинаков. Золотыми ветвями Данте соединён с саженцами в цоколе штаб-квартиры…
@@ -167,7 +167,7 @@
 Данте: <Э? Неисправности? Я её сломал?>
 
 # Original: Don't talk about them like you're talking about some machine... Haah, either way, there isn't anything we can do about what just happened. Not here.
-Ишмаэль: Ты говоришь с ним, словно он – машина… Ха, не думаю, что мы сможем с этим что-либо поделать в ближайшее время.
+Измаил: Ты говоришь с ним, словно он – машина… Ха, не думаю, что мы сможем с этим что-либо поделать в ближайшее время.
 
 # Original: We can discuss this later once we return. What just transpired does not seem to pose any hindrance to our mission.
 Фауст: Поговорим об этом как вернёмся. Важно то, что это не мешает нашей миссии.

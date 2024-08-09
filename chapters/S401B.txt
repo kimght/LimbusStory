@@ -65,7 +65,7 @@
 Фауст: У нас, похоже, есть клиент.
 
 # Original: You mean… We take requests from outside like we’re a Fixer Office or something?
-Ишмаэль: Ты имеешь в виду... Мы принимаем запросы извне, как будто мы офис Корректировщиков или что-то в этом роде?
+Измаил: Ты имеешь в виду... Мы принимаем запросы извне, как будто мы офис Корректировщиков или что-то в этом роде?
 
 # Original: Oho, hath our carriage begun to be frequented by requests already? ¡Excelente! It may take little time at all to become a renowned Fixer!
 Дон Кихот: Охо, неужели наша карета уже начала пользоваться спросом? ¡Excelente! Возможно, потребуется совсем немного времени, чтобы стать известным Корректировщиком!
@@ -116,7 +116,7 @@
 Вергилий: Поскольку на кону стоит Золотая Ветвь, у нас...
 
 # Original: No choice… I get it now.
-Ишмаэль: Нет выбора... Теперь я понимаю.
+Измаил: Нет выбора... Теперь я понимаю.
 
 # Original: Thus… Haaa, I don’t know how many times I have to remind you of this, but do not do anything to aggravate the client.
 Вергилий: Таким образом... Хааа, не знаю, сколько раз мне придется напоминать вам об этом, но не делайте ничего, что могло бы рассердить клиента.
@@ -185,13 +185,13 @@
 Вергилий: ......
 
 # Original: It’s blocked?
-Ишмаэль: Заблокирована?
+Измаил: Заблокирована?
 
 # Original: Strange that there’s a blocked road. This is in the middle of K Corp’s Nest, too; it’s unlikely that there’s a scene—
-Ишмаэль: Странно, что есть заблокированная дорога. Это же в центре Гнезда Корп. K, маловероятно, что там—
+Измаил: Странно, что есть заблокированная дорога. Это же в центре Гнезда Корп. K, маловероятно, что там—
 
 # Original: Before Ishmael could finish her sentence, a dull thud at the window interrupted her.
-Рассказчик: Прежде чем Ишмаэль успела закончить фразу, глухой удар в окно прервал ее.
+Рассказчик: Прежде чем Измаил успела закончить фразу, глухой удар в окно прервал ее.
 
 # Original: …Something just got flung at the bus and boinked off… That was a person, wasn’t it?
 Родион: ...Что-то только что ударилось об автобус и отскочило... Это был человек, да?

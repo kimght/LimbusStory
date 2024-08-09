@@ -89,7 +89,7 @@
 Данте: <Может ли там быть Золотая ветвь…>
 
 # Original: No chance. If the Golden Bough was as common as any other twig in some Backstreets, why'd we be doing any of this globetrotting waste of time?
-Ишмаэль: Вряд ли. Если бы они встречались в Городе так же часто, как всякие гнилые палки в глуши Подворотен, к чему бы нас вообще собирали?
+Измаил: Вряд ли. Если бы они встречались в Городе так же часто, как всякие гнилые палки в глуши Подворотен, к чему бы нас вообще собирали?
 
 # Original: <T-true, I guess...>
 Данте: <И… И то верно…>

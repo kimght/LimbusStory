@@ -32,13 +32,13 @@
 Рассказчик: Услышав эти слова, я наконец приметил красный логотип на правом плече.
 
 # Original: Huh? Wait, can she hear what you're saying?
-Ишмаэль: Э? Эта дама, она может слышать нашего менеджера?
+Измаил: Э? Эта дама, она может слышать нашего менеджера?
 
 # Original: No. Don't have any talent in tick-tock interpretation, either. But it was pretty easy to tell with that blank, stupid look they were giving me.
 Кайман: Не слышу. И не училась переводить звуки часов. Просто он выглядит так тупо, непонимающе качая головой, что у него на циферблате всё написано.
 
 # Original: Don't you even have the common decency to mince your—
-Ишмаэль: А слова подбирать ты не умее-… Кхм…
+Измаил: А слова подбирать ты не умее-… Кхм…
 
 # Original: Ishmael scowled, about to tell the woman off... until she coughed and collected herself. Maybe she suddenly recalled her old attitude.
 Рассказчик: Измаил было нахмурилась, раздражённая словами незнакомки, но осеклась и неловко кашлянула, вспомнив собственное прошлое.
@@ -62,7 +62,7 @@
 Кайман: Команда ликвидации последствий занимается нелёгким трудом заметания за вами следов, вечно мрущие шавки подзаборные, словно ничего не происходило.
 
 # Original: Wastes of lives...? Is that how you guys see us?
-Ишмаэль: Вечно мрущие шавки… То есть вот кто мы для вас?
+Измаил: Вечно мрущие шавки… То есть вот кто мы для вас?
 
 # Original: Oh, that's not all. Wastes of lives, bumper cars, the most expensive bus in the world, meat shields, maniacs with more luck than they deserve, and then some. Doesn't seem like the most relevant conversation topic for now, though.
 Кайман: Именно. Жизни вхолостую, автодром, жрущий деньги автобус, мясные щиты, отборные шизики. Что ж… Это не весь список, но сейчас не об этом.
@@ -146,7 +146,7 @@
 Кайман: Конечно, вас за это не накажут.
 
 # Original: I suppose so. I've been wondering about the company's finances for a while. Where do we even get our funding from?
-Ишмаэль: А ведь точно. Мне всегда было интересно. Чем вообще занимается эта компания…
+Измаил: А ведь точно. Мне всегда было интересно. Чем вообще занимается эта компания…
 
 # Original: Well, there is no need for you to concern yourself with the company's finances. We have much more than enough capital to do what we want. What the company really lacks, however...
 Кайман: Что же, точно не заработком. Деньги льются на нас потоком, словно из рога изобилия. А вот чего не хватает, так это…
@@ -251,10 +251,10 @@
 Мерсо: И такой подход к передаче мыслей довольно удобен для восприятия, так как не нужно пытаться читать между строк.
 
 # Original: ... Huh, I guess that's one way of looking at things.
-Ишмаэль: …Ха, ну, можете считать и так.
+Измаил: …Ха, ну, можете считать и так.
 
 # Original: Anyway, she's right that we really don't have much say in the matter. If the company asks us to do our jobs, we do our jobs.
-Ишмаэль: Во всяком случае, что я поняла из её слов, так это то, что у нас нет выбора, кроме как слепо слушаться указаний компании.
+Измаил: Во всяком случае, что я поняла из её слов, так это то, что у нас нет выбора, кроме как слепо слушаться указаний компании.
 
 # Original: I don't have anything to add myself; I have no issues with following orders.
 Отис: Мне нечего сказать об этом приказе.

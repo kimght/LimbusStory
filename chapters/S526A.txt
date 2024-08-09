@@ -230,25 +230,25 @@
 Рим: ... Таким же пустым, как падение увядших лепестков.
 
 # Original: I just need to know one thing.
-Ишмаэль: Мне нужно знать только одно.
+Измаил: Мне нужно знать только одно.
 
 # Original: If... the Golden Bough is inside the Whale that devoured this place... And if the Golden Boughs can really...
-Ишмаэль: Если... Золотая Ветвь находится внутри Кита, который поглотил это место... И если Золотые Ветви действительно могут...
+Измаил: Если... Золотая Ветвь находится внутри Кита, который поглотил это место... И если Золотые Ветви действительно могут...
 
 # Original: Somehow... counteract the Pallidification effects...
-Ишмаэль: Как-то... противодействовать эффектам Обледнения...
+Измаил: Как-то... противодействовать эффектам Обледнения...
 
 # Original: Ishmael's breathing was quick and light. She couldn't finish her sentence.
-Рассказчик: Дыхание Ишмаэль было быстрым и легким. Она не могла закончить предложение.
+Рассказчик: Дыхание Измаил было быстрым и легким. Она не могла закончить предложение.
 
 # Original: It can be said that, indeed, what you believe, what you wish to be true, is correct.
 Рим: Можно сказать, что, действительно, то, во что ты веришь, то, что ты хочешь считать правдой, верно.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: I see.
-Ишмаэль: Понятно.
+Измаил: Понятно.
 
 # Original: I hope I have been a useful signpost to you all.
 Рим: Надеюсь, я был полезным указателем для вас всех.

@@ -11,7 +11,7 @@
 Рассказчик: Во всей этой суете дитя с беспристрастным выражением лица бесшумно протирает оконные ставни.
 
 # Original: Come on, let's try not to neglect these out-of-the-way corners.
-Ишмаэль: Помните, ни один укромный уголок не должен остаться без внимания.
+Измаил: Помните, ни один укромный уголок не должен остаться без внимания.
 
 # Original: The child would normally have quietly taken care of it herself without telling anyone, but...
 Рассказчик: Обычно дитя прибиралось тихо и безмолвно, но…
@@ -23,13 +23,13 @@
 Рассказчик: Сие могло прозвучать придирчиво, но так дитя лишь беспокоилось за остальную прислугу.
 
 # Original: Even a pinch of dust particles could be dangerous for our Master, you know.
-Ишмаэль: Даже щепотка пыли может быть опасна для господина.
+Измаил: Даже щепотка пыли может быть опасна для господина.
 
 # Original: S-sorry. I'll be more careful from now on.
 Рассказчик: П-простите, впредь я буду внимательней.
 
 # Original: C'mon. The hunt's coming up, so let's keep ourselves in tip-top shape, alright?
-Ишмаэль: Охота уже не за горами, нужно быть наготове.
+Измаил: Охота уже не за горами, нужно быть наготове.
 
 # Original: Of course, she wasn't just worried for her fellow Butlers.
 Рассказчик: Разумеется, дитя волнуется не за одну лишь прислугу.
@@ -62,25 +62,25 @@
 Рассказчик: Не думаешь, что господин бы… уже окреп, не охоться он на волка?
 
 # Original: I doubt it. Master had already lost his arm and Miss Isabella even before the hunt started.
-Ишмаэль: Сомневаюсь. Господин потерял руку и мисс Изабеллу ещё до охоты.
+Измаил: Сомневаюсь. Господин потерял руку и мисс Изабеллу ещё до охоты.
 
 # Original: Yeah, but...
 Рассказчик: Право, но…
 
 # Original: Besides, it doesn't matter whether our Master gives up his hunt or not. Because that wolf won't.
-Ишмаэль: Тем более… даже сдайся господин, этот волк не остановится.
+Измаил: Тем более… даже сдайся господин, этот волк не остановится.
 
 # Original: ... He won't stop until he's taken everything that our Master has.
-Ишмаэль: …Он не остановится, пока не заберёт у господина абсолютно всё. Я уверена.
+Измаил: …Он не остановится, пока не заберёт у господина абсолютно всё. Я уверена.
 
 # Original: ... Oh, speaking of which, didn't that wolf love... uh, um...
-Ишмаэль: …Ох, кстати, не любит ли этот волк… Хм…
+Измаил: …Ох, кстати, не любит ли этот волк… Хм…
 
 # Original: Huh? Love? What are you talking about?
 Рассказчик: Хм? Любит? Ты о чём?
 
 # Original: ... Uh, what was it again...? Haah, it's nothing. Sorry, I have no idea where that came from.
-Ишмаэль: …Как же там… Ах, ничего. Прости, даже не знаю что такое с языка сорвалось…
+Измаил: …Как же там… Ах, ничего. Прости, даже не знаю что такое с языка сорвалось…
 
 # Original: There was a large hole where that child once stood. The child who was likely the cause of all this misery.
 Рассказчик: На месте дитя, что стало причиной всех бед, зияла огромная дыра.
@@ -95,7 +95,7 @@
 Рассказчик: Куда разумней будет сосредоточиться на охоте, нежели таких мелочах.
 
 # Original: Is it already time...?
-Ишмаэль: Время уже пришло…?
+Измаил: Время уже пришло…?
 
 # Original: The sun hangs over the horizon.
 Рассказчик: Солнце клонилось к горизонту.
@@ -119,7 +119,7 @@
 Рассказчик: Другое дитя, — её господин, — подняло свою шпагу, готовое к бою. Дитя покачала головой.
 
 # Original: Master. Lady Ryōshū. Leave them to me.
-Ишмаэль: Господин, леди Рёшу, я о них позабочусь.
+Измаил: Господин, леди Рёшу, я о них позабочусь.
 
 # Original: D.B.S. Me and this fool of a Master can take them out in the blink of an eye.
 Рёшу: НМЧ. Мы с господином разберёмся с ними в мгновение ока.
@@ -128,10 +128,10 @@
 Рассказчик: Коридор поместья осветил тёплый закатный свет подстать волосам дитяти, когда та взглянула прямо им в глаза.
 
 # Original: The two of you have a wolf to hunt.
-Ишмаэль: Вы двое должны охотиться на волка.
+Измаил: Вы двое должны охотиться на волка.
 
 # Original: Don't let the dead waste your energy.
-Ишмаэль: Не тратьте силы попусту на этих покойников.
+Измаил: Не тратьте силы попусту на этих покойников.
 
 # Original: …….
 Грегор: …….
@@ -146,7 +146,7 @@
 Рассказчик: Лишь тогда дитя достало метлу со странной гравировкой и острый нож из пространственного дипломата, что носили все прислуги.
 
 # Original: ... Hunting cutlery's at the ready.
-Ишмаэль: …Охотничьи приборы наготове.
+Измаил: …Охотничьи приборы наготове.
 
 # Original: ... Tsk. Don't get yourself killed like an idiot.
 Рёшу: …Тц. Только не помри как подёнщик какой-то.

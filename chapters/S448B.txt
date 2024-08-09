@@ -38,7 +38,7 @@
 Рассказчик: А-а-а-а!! Помогите мне!!!
 
 # Original: What's up with this sound?
-Ишмаэль: Что это за звук?
+Измаил: Что это за звук?
 
 # Original: Is that the footage those drones filmed while we were fighting the Abnormality on the street...
 Грегор: Это та съемка, которую дроны сделали, пока мы сражались с Аномалией на улице...
@@ -62,7 +62,7 @@
 Донран: К счастью, наши подрядчики оказались рядом с Гнездом, когда это случилось.
 
 # Original: So it was all part of your plan to have us run into the breached Abnormality?
-Ишмаэль: Значит, все это было частью твоего плана, чтобы мы столкнулись с вырвавшейся Аномалией?
+Измаил: Значит, все это было частью твоего плана, чтобы мы столкнулись с вырвавшейся Аномалией?
 
 # Original: It was closer to an experiment than a plan. The possibility of failure was kept in mind, but I had evidence to trust that you'd make it through.
 Донран: Это было ближе к эксперименту, чем к плану. Возможность неудачи учитывалась, но у меня были основания верить, что вы справитесь.

@@ -1,17 +1,17 @@
 # Original: So uh, Ishmael... This Lobotomy Corp. Branch is still a ways away. Why don't you rest up for a bit while you can? That's what we always do, anyway.
-Грегор: Так, э-э, Ишмаэль... До этого филиала Корпорации Лоботомия еще далеко. Почему бы тебе немного не отдохнуть, пока есть возможность? Мы всегда так делаем.
+Грегор: Так, э-э, Измаил... До этого филиала Корпорации Лоботомия еще далеко. Почему бы тебе немного не отдохнуть, пока есть возможность? Мы всегда так делаем.
 
 # Original: Or at least let me take the next shift. I've done my fair share of night... yawn... watches.
 Грегор: Или хотя бы позволь мне взять следующую смену. У меня немалый опыт ночных... *зевает*... дежурств.
 
 # Original: Gregor's yawn betrayed his confidence. Ishmael didn't care—she wasn't going to move from her station anyway.
-Рассказчик: Зевок Грегора выдал его самоуверенность. Ишмаэль было все равно — она все равно не собиралась покидать свой пост.
+Рассказчик: Зевок Грегора выдал его самоуверенность. Измаил было все равно — она все равно не собиралась покидать свой пост.
 
 # Original: ......
-Ишмаэль: ......
+Измаил: ......
 
 # Original: Ishmael looked like she was waiting for something to happen. Or maybe she was deathly afraid of something...
-Рассказчик: Казалось, Ишмаэль чего-то ждала. Или, может быть, она чего-то смертельно боялась...
+Рассказчик: Казалось, Измаил чего-то ждала. Или, может быть, она чего-то смертельно боялась...
 
 # Original: She did not, not even for a second, leave the telescope(courtesy of Rain, most likely) installed on the modified Mephistopheles.
 Рассказчик: Она ни на секунду не отрывалась от телескопа (скорее всего, любезно предоставленного Рейном), установленного на модифицированном Мефистофеле.
@@ -23,7 +23,7 @@
 Рассказчик: Из любопытства я спросил Отис, что она думает, но она просто ответила, что Вергилий уже принял меры по этому поводу. Если Исполнительный Менеджер не предпримет действий, то на этом все.
 
 # Original: She also explained that while she would not hesitate to clash with Ishmael again should the need arise, she would not continue this pointless tussle that only lowered the team's morale.
-Рассказчик: Она также объяснила, что хотя она не колеблясь вступила бы в конфликт с Ишмаэль снова, если возникнет необходимость, она не будет продолжать эту бессмысленную борьбу, которая только снижает боевой дух команды.
+Рассказчик: Она также объяснила, что хотя она не колеблясь вступила бы в конфликт с Измаил снова, если возникнет необходимость, она не будет продолжать эту бессмысленную борьбу, которая только снижает боевой дух команды.
 
 # Original: <I guess that's good enough...>
 Данте: <Думаю, этого достаточно...>
@@ -35,13 +35,13 @@
 Грегор: И пока мы придерживаемся, эм, законов Великого Озера, я не вижу причин для...
 
 # Original: ...!
-Ишмаэль: ...!
+Измаил: ...!
 
 # Original: There, ahead...
-Ишмаэль: Там, впереди...
+Измаил: Там, впереди...
 
 # Original: Ishmael suddenly got up and hurried into the cabins as though she noticed something through the telescope.
-Рассказчик: Ишмаэль внезапно встала и поспешила в каюты, словно заметила что-то через телескоп.
+Рассказчик: Измаил внезапно встала и поспешила в каюты, словно заметила что-то через телескоп.
 
 # Original: —attacked by anything. My bad.
 Грегор: ...нападения. Виноват.
@@ -50,10 +50,10 @@
 Харон: Опять будем дрейфовать, рыженькая?
 
 # Original: It's too late to change course. That trick won't help us here.
-Ишмаэль: Уже слишком поздно менять курс. Этот трюк нам здесь не поможет.
+Измаил: Уже слишком поздно менять курс. Этот трюк нам здесь не поможет.
 
 # Original: They went through the trouble of hiding themselves in an artificial fog of war... We're obviously their target.
-Ишмаэль: Они не зря прятались в искусственном тумане войны... Мы явно их цель.
+Измаил: Они не зря прятались в искусственном тумане войны... Мы явно их цель.
 
 # Original: It's a matter of time before they catch up with this ship, now that they know our location.
 Вергилий: Это вопрос времени, когда они нагонят этот корабль, теперь, когда они знают наше местоположение.
@@ -62,19 +62,19 @@
 Вергилий: Разбирайтесь с ними, как считаете нужным.
 
 # Original: Manager, permit us to board their ship.
-Ишмаэль: Менеджер, разрешите нам взойти на их корабль.
+Измаил: Менеджер, разрешите нам взойти на их корабль.
 
 # Original: <Are you sure that boarding their ship is the best course of action if we want to save our ship?>
 Данте: <Ты уверена, что подняться на их корабль — лучший способ спасти наш корабль?>
 
 # Original: According to my experience, yes.
-Ишмаэль: Согласно моему опыту, да.
+Измаил: Согласно моему опыту, да.
 
 # Original: <... Okay. I'll leave it to you, then.>
 Данте: <... Хорошо. Тогда я доверяюсь тебе.>
 
 # Original: ... I hope you'll continue to make wise choices like that.
-Ишмаэль: ... Надеюсь, ты и дальше будешь принимать такие мудрые решения.
+Измаил: ... Надеюсь, ты и дальше будешь принимать такие мудрые решения.
 
 # Original: I sighed with relief, as she seemed to be going along with me for now...
 Рассказчик: Я вздохнул с облегчением, так как она, похоже, пока что следовала моим указаниям...
@@ -83,7 +83,7 @@
 Рассказчик: С этими словами я отступил на несколько шагов назад от других Грешников и наблюдал за ней.
 
 # Original: We'll hook their ship with harpoons, force them into a melee range! Somebody grab the helm and turn it on my signal!
-Ишмаэль: Мы зацепим их корабль гарпунами, заставим их сблизиться для рукопашного боя! Кто-нибудь, возьмитесь за штурвал и поверните его по моему сигналу!
+Измаил: Мы зацепим их корабль гарпунами, заставим их сблизиться для рукопашного боя! Кто-нибудь, возьмитесь за штурвал и поверните его по моему сигналу!
 
 # Original: Hm. Then someone should be on standby, ready to shut the engine off at the right moment.
 Отис: Хм. Тогда кто-то должен быть наготове, чтобы выключить двигатель в нужный момент.
@@ -92,10 +92,10 @@
 Отис: Эй, ты! Принеси дополнительную веревку. Ты! Жди ее сигнала в рубке!
 
 # Original: Ishmael's explanations were rapid and confident. Outis nodded along affirmatively. The other Sinners were quick to follow their instructions.
-Рассказчик: Объяснения Ишмаэль были быстрыми и уверенными. Отис одобрительно кивала. Другие Грешники быстро следовали их указаниям.
+Рассказчик: Объяснения Измаил были быстрыми и уверенными. Отис одобрительно кивала. Другие Грешники быстро следовали их указаниям.
 
 # Original: Watching Ishmael throw her razor-sharp harpoon toward the pirate ship... I started to feel... that something was off.
-Рассказчик: Наблюдая за тем, как Ишмаэль бросает свой острый как бритва гарпун в сторону пиратского корабля... я начал чувствовать... что что-то не так.
+Рассказчик: Наблюдая за тем, как Измаил бросает свой острый как бритва гарпун в сторону пиратского корабля... я начал чувствовать... что что-то не так.
 
 # Original: There they were, the Sinners... working so well together like clockwork. But underneath all that, maybe all that mattered to them was... their own goals.
 Рассказчик: Вот они, Грешники... работают так слаженно, как часовой механизм. Но под всем этим, возможно, для них имели значение только... их собственные цели.

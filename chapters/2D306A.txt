@@ -1,5 +1,5 @@
 ﻿# Original: I see the exit over there!
-Ишмаэль: Я вижу там выход!
+Измаил: Я вижу там выход!
 
 # Original: Gah, persistent rotters.
 Хитклиф: Гах, надоедливая дрянь.

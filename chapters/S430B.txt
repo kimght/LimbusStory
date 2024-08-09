@@ -86,19 +86,19 @@
 Рассказчик: <i>С тех пор этот человек и его семья, как и все жители города, каждую ночь смотрели в небо и говорили о счастье.</i>
 
 # Original: That explains it. I read that Nest K has a custom of walking outside without an umbrella to stand in the rain on the night of a certain month every year...
-Ишмаэль: Вот оно что. Я читала, что в Гнезде К есть обычай выходить на улицу без зонта и стоять под дождем в определенную ночь каждого года...
+Измаил: Вот оно что. Я читала, что в Гнезде К есть обычай выходить на улицу без зонта и стоять под дождем в определенную ночь каждого года...
 
 # Original: ...Don't tell me, am I alone in this again? Have none of you checked out the pamphlet guide to K Corp's Nest and Backstreets until now? No one?
-Ишмаэль: ...Не говорите мне, что я снова одна в этом? Неужели никто из вас до сих пор не прочитал буклет-путеводитель по Гнезду и Подворотням К Корп? Никто?
+Измаил: ...Не говорите мне, что я снова одна в этом? Неужели никто из вас до сих пор не прочитал буклет-путеводитель по Гнезду и Подворотням К Корп? Никто?
 
 # Original: Oh, that thing... I used mine to whack some bugs... So I gotta get a... new one...
 Родион: О, эта штука... Я использовала свою, чтобы прихлопнуть жуков... Так что мне надо... новую...
 
 # Original: Does this look like the time to be joking around, Rodya?!
-Ишмаэль: Тебе кажется, что сейчас время для шуток, Родя?!
+Измаил: Тебе кажется, что сейчас время для шуток, Родя?!
 
 # Original: Rodya didn't look like she was joking at all, but Ishmael seemed unaware of it.
-Рассказчик: Родя совсем не выглядела так, будто шутит, но Ишмаэль, похоже, не замечала этого.
+Рассказчик: Родя совсем не выглядела так, будто шутит, но Измаил, похоже, не замечала этого.
 
 # Original: By the way, that story... It feels similar to what the regeneration ampule does, doesn't it?
 Синклер: Кстати, эта история... Она похожа на то, что делает ампула регенерации, не так ли?
@@ -242,7 +242,7 @@
 Сотрудник отдела ликвидации 2 класса: Нам было приказано ликвидировать террористов. Цель: все части.
 
 # Original: Huff. We outnumber them by a wide margin. It might be a little unfair, but... it seems like we won't have any trouble beating them.
-Ишмаэль: Хм. Мы значительно превосходим их числом. Это может быть немного нечестно, но... похоже, у нас не будет проблем с тем, чтобы победить их.
+Измаил: Хм. Мы значительно превосходим их числом. Это может быть немного нечестно, но... похоже, у нас не будет проблем с тем, чтобы победить их.
 
 # Original: Ms. Ran's expertise was hijacking machines.
 Член Альянса: Специализация госпожи Ран заключалась в захвате машин.

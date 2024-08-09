@@ -5,7 +5,7 @@
 Дон Кихот: ... Воистину, словно они полностью лишились рассудка...
 
 # Original: Like people pallidified by the Whale...
-Ишмаэль: Как люди, обледненные Китом...
+Измаил: Как люди, обледненные Китом...
 
 # Original: Don Quixote hesitated until the last minute before raising her weapon to fight them. She hangs her head mournfully.
 Рассказчик: Дон Кихот колебалась до последней минуты, прежде чем поднять оружие, чтобы сразиться с ними. Она печально опускает голову.
@@ -29,7 +29,7 @@
 И Сан: Вы кажетесь особенно любопытной сегодня, мисс Фауст.
 
 # Original: Huh, yeah. Aren't you usually the one who has all the answers while we're wracking our brains trying to come up with something?
-Ишмаэль: Хм, да. Разве обычно не ты та, у кого есть все ответы, пока мы ломаем головы, пытаясь что-то придумать?
+Измаил: Хм, да. Разве обычно не ты та, у кого есть все ответы, пока мы ломаем головы, пытаясь что-то придумать?
 
 # Original: The Sinners were starting to feel that there's something off about Faust's behavior.
 Рассказчик: Грешники начали чувствовать, что в поведении Фауст что-то не так.

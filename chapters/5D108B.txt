@@ -92,7 +92,7 @@
 Ахав: И вы пронзите меня последним гарпуном, чтобы навсегда прервать моё дыхание!
 
 # Original: ... Heh.
-Ишмаэль: ... Хех.
+Измаил: ... Хех.
 
 # Original: While I am yet to analyze the geography of this entity... The general structure of the plan appears sound to me, Executive Manager.
 Отис: Хотя я ещё не проанализировала географию этого существа... Общая структура плана кажется мне разумной, Исполнительный Менеджер.
@@ -131,10 +131,10 @@
 Хитклиф: ... Тц.
 
 # Original: As long as we destroy the heart... I can end her.
-Ишмаэль: Пока мы уничтожим сердце... Я смогу покончить с ней.
+Измаил: Пока мы уничтожим сердце... Я смогу покончить с ней.
 
 # Original: As long as we destroy the heart...
-Ишмаэль: Пока мы уничтожим сердце...
+Измаил: Пока мы уничтожим сердце...
 
 # Original: She grits her teeth as she repeats it to herself like a mantra.
 Рассказчик: Она стискивает зубы, повторяя это себе как мантру.

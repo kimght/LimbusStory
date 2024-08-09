@@ -11,7 +11,7 @@
 Данте: <Это… старая корпорация L?>
 
 # Original: This is my first time seeing it with my own eyes, too… It can’t have been long since ‘that’ happened.
-Ишмаэль: Я тоже впервые вижу её… Не думаю, что прошло много времени с того момента, как "это" произошло…
+Измаил: Я тоже впервые вижу её… Не думаю, что прошло много времени с того момента, как "это" произошло…
 
 # Original: My goodness… How can a building be in such a derelict state?
 Хон Лу: Господи, как здание может выглядеть настолько заброшенным?
@@ -77,7 +77,7 @@
 Грегор: …Другими словами, вы хотите, чтобы мы вернулись избитые и израненные.
 
 # Original: That’s the kind of line people with ulterior motives say…
-Ишмаэль: Обычно так говорят люди со скрытыми мотивами…
+Измаил: Обычно так говорят люди со скрытыми мотивами…
 
 # Original: Think whatever you want.
 Вергилий: Думайте что пожелаете.

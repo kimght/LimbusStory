@@ -14,7 +14,7 @@
 Рассказчик: Жестокая сцена из колыхающихся чёрных одеяний и бликов от перекрещивающихся клинков ярко простиралась всего в паре дюжин шагов от нас.
 
 # Original: They're... the Kurokumo Clan?
-Ишмаэль: Неужели это… клан «Курокумо»?
+Измаил: Неужели это… клан «Курокумо»?
 
 # Original: Kurokumo Clan. I've heard of them before.
 Рассказчик: Клан «Курокумо»… Я припоминаю это название.
@@ -89,7 +89,7 @@
 Рассказчик: Член клана «Курокумо» подошёл ближе, словно так и надо.
 
 # Original: Just as I begin to wonder about how dumb you could possibly be... you show your shrewd detective side. Gotta say, it's a real mystery.
-Ишмаэль: Ты часто ведёшь себя как недоумок, но в такие моменты в тебе просыпается превосходный детектив… Удивительно, просто настоящие чудеса.
+Измаил: Ты часто ведёшь себя как недоумок, но в такие моменты в тебе просыпается превосходный детектив… Удивительно, просто настоящие чудеса.
 
 # Original: Ishmael muttered at Heathcliff, who was shrugging at us with an expression that clearly read 'I told you so'.
 Рассказчик: Ответила Измаил, глядя на Хитклифа, что пожал плечами с лицом, на котором явно читалось: „Видите?“.
@@ -119,7 +119,7 @@
 Рассказчик: Что ж… Сколько бы они ни просили, мы не собираемся давать этому синдикату и сотни ан.
 
 # Original: …….
-Ишмаэль: ……
+Измаил: ……
 
 # Original: Ishmael turned and looked quietly in my direction. I nodded back.
 Рассказчик: И, приметив на себе выжидающий взгляд Измаил, я кивнул.
@@ -167,7 +167,7 @@
 Хитклиф: <b>Чегось?!</b>
 
 # Original: Manager...? I didn't think that this was what that nod was about...?
-Ишмаэль: Менеджер…? Поверить не могу, что вы говорите это после жеста, что всё поняли…
+Измаил: Менеджер…? Поверить не могу, что вы говорите это после жеста, что всё поняли…
 
 # Original: <No, no. I'm not saying that we should get involved because 'it's the right thing to do' or anything like that.>
 Данте: <Нет, нет же. Дело не в моральных принципах.>

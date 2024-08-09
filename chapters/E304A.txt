@@ -153,7 +153,7 @@
 Синклер: С МЕНЯ ХВАТИТ! Мне будет проще победить сэра Хитклифа в армрестлинге чем приготовить то, что вы хотите, как и сказала мисс Измаил!
 
 # Original: That—That was a joke…
-Ишмаэль: Н-ну-ну, я лишь пошутила…
+Измаил: Н-ну-ну, я лишь пошутила…
 
 # Original: Statistically speaking, it is as likely as Sinclair’s height increasing by five centimeters in just one week; in other words, a nigh impossib—
 Фауст: Статистически это так же возможно, как факт того, что господин Синклер может вырасти на более чем пять сантиметров в неделю, то есть, сама идея просто абсурд…
@@ -291,7 +291,7 @@
 Отис: По этой же причине у тебя такая грубая кожа на руках.
 
 # Original: Excuse me? This is because of all the work I did aboard the ship!
-Ишмаэль: Да-а? Вообще-то это из-за работы на корабле, что б ты знала!
+Измаил: Да-а? Вообще-то это из-за работы на корабле, что б ты знала!
 
 # Original: Me next, Outis! What about me? What’s the diagnosis?
 Родион: Мадам Отис! А я? Что насчёт меня?

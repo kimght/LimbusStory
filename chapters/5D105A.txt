@@ -11,25 +11,25 @@
 Рёшу: Если не сокращаешь акронимами... то просто тратишь время.
 
 # Original: Ishmael's mace nicked the harpooneer's mask. She came dangerously close to smashing their skull.
-Рассказчик: Булава Ишмаэль задела маску гарпунёра. Она была опасно близка к тому, чтобы проломить ей череп.
+Рассказчик: Булава Измаил задела маску гарпунёра. Она была опасно близка к тому, чтобы проломить ей череп.
 
 # Original: Should've gotten out of my way when I gave you the chance... Now I'm going to have to bash your face in.
-Ишмаэль: Надо было уйти с дороги, когда я дала тебе шанс... Теперь мне придётся разбить тебе лицо.
+Измаил: Надо было уйти с дороги, когда я дала тебе шанс... Теперь мне придётся разбить тебе лицо.
 
 # Original: But you. You are sailor.
 Квиквег: Но ты. Ты моряк.
 
 # Original: ... Right.
-Ишмаэль: ... Верно.
+Измаил: ... Верно.
 
 # Original: ... We both are.
-Ишмаэль: ... Мы обе.
+Измаил: ... Мы обе.
 
 # Original: Queequeg!!!
-Ишмаэль: Квиквег!!!
+Измаил: Квиквег!!!
 
 # Original: In a sudden, explosive burst of energy, Ishmael bolted forth like a cannonball toward Queequeg before holding her in a tight embrace.
-Рассказчик: В неожиданном взрыве энергии Ишмаэль рванулась вперёд, словно пушечное ядро, к Квиквег, прежде чем крепко обнять её.
+Рассказчик: В неожиданном взрыве энергии Измаил рванулась вперёд, словно пушечное ядро, к Квиквег, прежде чем крепко обнять её.
 
 # Original: Whew... wasn't she saying something about bashing her face in just moments ago?
 Родион: Фух... разве она не говорила что-то о том, чтобы разбить ей лицо всего мгновение назад?
@@ -50,7 +50,7 @@
 Квиквег: Но не нападай на Капитана.
 
 # Original: Why...? I'm just...
-Ишмаэль: Почему...? Я просто...
+Измаил: Почему...? Я просто...
 
 # Original: You attack Captain again, I attack you.
 Квиквег: Ты снова нападёшь на Капитана, я нападу на тебя.
@@ -59,7 +59,7 @@
 Квиквег: Тогда убить или быть убитым. Одна из нас.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: Well now, whatever shall you do? Starbuck here has, out of the kindness of his heart, rescued you from jaws of death. Invited you to my village!
 Ахав: Ну что ж, что же вы будете делать? Старбак здесь, по доброте душевной, спас вас из пасти смерти. Пригласил вас в мою деревню!
@@ -134,28 +134,28 @@
 Данте: <…….>
 
 # Original: Talk with her? In peace...? Nonsense...
-Ишмаэль: Поговорить с ней? Мирно...? Чушь...
+Измаил: Поговорить с ней? Мирно...? Чушь...
 
 # Original: <It's not like we have a way out of here...>
 Данте: <Не то чтобы у нас был выход отсюда...>
 
 # Original: Ishmael's gaze followed Queequeg, who walked wordlessly behind the Captain.
-Рассказчик: Взгляд Ишмаэль следовал за Квиквег, которая молча шла за Капитаном.
+Рассказчик: Взгляд Измаил следовал за Квиквег, которая молча шла за Капитаном.
 
 # Original: Haah.
-Ишмаэль: Хаах.
+Измаил: Хаах.
 
 # Original: ... Let's go.
-Ишмаэль: ... Пойдёмте.
+Измаил: ... Пойдёмте.
 
 # Original: Let's listen to what that bastard's got to say.
-Ишмаэль: Давайте послушаем, что эта сволочь хочет сказать.
+Измаил: Давайте послушаем, что эта сволочь хочет сказать.
 
 # Original: There's nowhere to run, after all.
-Ишмаэль: В конце концов, бежать некуда.
+Измаил: В конце концов, бежать некуда.
 
 # Original: For her, or for us.
-Ишмаэль: Ни для неё, ни для нас.
+Измаил: Ни для неё, ни для нас.
 
 # Original: …….
 Квиквег: …….

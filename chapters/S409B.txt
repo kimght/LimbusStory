@@ -11,7 +11,7 @@
 Хитклиф: Так давай-ка проясним... Ты тот, кто их поставляет? Черт возьми, ты хоть представляешь, как сильно это усложнило нам жизнь—
 
 # Original: We barely managed to crawl over that adversary…
-Ишмаэль: Мы едва справились с тем противником...
+Измаил: Мы едва справились с тем противником...
 
 # Original: I’m relieved that none of you seem to have passed away or suffered severe wounds, at the very least.
 Донран: Я рад, что никто из вас, по крайней мере, не погиб и не получил серьезных ранений.
@@ -26,7 +26,7 @@
 Донран: Ха-ха, конечно нет. HP-пули давно коммерциализированы. Мой текущий проект — улучшение скота с их помощью.
 
 # Original: Improving… livestock?
-Ишмаэль: Улучшение... скота?
+Измаил: Улучшение... скота?
 
 # Original: If “cutting” as a concept is reduced to irrelevance… if it becomes limited to a fleeting moment…
 Донран: Если понятие "разрезания" станет неактуальным... если оно будет ограничено лишь мимолетным моментом...
@@ -80,10 +80,10 @@
 Синклер: Почему все должно быть так? Я пытаюсь сказать...
 
 # Original: Ah, I think I know what you’re getting at.
-Ишмаэль: Ах, кажется, я понимаю, к чему ты клонишь.
+Измаил: Ах, кажется, я понимаю, к чему ты клонишь.
 
 # Original: It does feel rather unnatural, doesn't it? If it was simply for the sake of improving food... there could've been more efficient ways to do it.
-Ишмаэль: Это действительно кажется довольно неестественным, не так ли? Если бы это было просто ради улучшения пищи... можно было бы найти более эффективные способы.
+Измаил: Это действительно кажется довольно неестественным, не так ли? Если бы это было просто ради улучшения пищи... можно было бы найти более эффективные способы.
 
 # Original: Ahh~ There's one thing I can say for sure. If this technology had been made available in the Backstreets...
 Родион: Ах~ Одно могу сказать наверняка. Если бы эта технология была доступна в Подворотнях...

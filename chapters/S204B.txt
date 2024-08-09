@@ -8,13 +8,13 @@
 Член банды Бом-бом: Что, шавки, думаете, можете связаться с нашей семьёй и выйти сухими из воды?
 
 # Original: What’s with brutish Syndicates and their pretend families? Is that the only thing they can think of to bond with each other?
-Ишмаэль: И почему жестокие синдикаты всегда называют друг друга семьёй? Ничего другого что ли придумать не могут?
+Измаил: И почему жестокие синдикаты всегда называют друг друга семьёй? Ничего другого что ли придумать не могут?
 
 # Original: Look at the bump you made on our precious young’un’s head!
 Член банды Бом-бом: Вы только гляньте какой шишбан оставили нашему малому на башке!
 
 # Original: ……
-Ишмаэль: ……
+Измаил: ……
 
 # Original: Good gracious… This was not part of the plan…
 Эффи: Боже правый… Это в план не входило…
@@ -68,7 +68,7 @@
 Грегор: …Эх.
 
 # Original: That was a very inspiring way of reaffirming that we’re living, breathing garbage to you.
-Ишмаэль: Это был крайне вдохновляющий способ сказать, что мы для тебя живой мусор.
+Измаил: Это был крайне вдохновляющий способ сказать, что мы для тебя живой мусор.
 
 # Original: …Morons.
 Эффи: …Придурки.

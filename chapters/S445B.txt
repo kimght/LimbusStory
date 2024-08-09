@@ -29,13 +29,13 @@
 Данте: <Он с самого начала планировал дать И Сану эту должность?>
 
 # Original: Do you think he's trying to headhunt him? That's supposedly a violation of moral principles between firms or something like that, isn't it?
-Ишмаэль: Думаешь, он пытается его переманить? Это вроде как нарушение моральных принципов между фирмами, разве нет?
+Измаил: Думаешь, он пытается его переманить? Это вроде как нарушение моральных принципов между фирмами, разве нет?
 
 # Original: BAFFLED.
 Рёшу: ОЗАДАЧЕНА.
 
 # Original: ...What's that supposed to be an acronym for?
-Ишмаэль: ...Что это должно означать?
+Измаил: ...Что это должно означать?
 
 # Original: It's not. I'm just baffled.
 Рёшу: Ничего. Я просто озадачена.
@@ -56,7 +56,7 @@
 Хитклиф: Хех, так ты деревенщина на своём языке, да? Или лучше сказать корабельщина?
 
 # Original: Erggh...
-Ишмаэль: Эргх...
+Измаил: Эргх...
 
 # Original: <Even if that was the case... This really is strange.>
 Данте: <Даже если это так... Это действительно странно.>
@@ -98,7 +98,7 @@
 И Сан: То, чего я страстно желал...
 
 # Original: The thing I recited to myself every night...
-Ишмаэль: То, что я повторял себе каждую ночь...
+Измаил: То, что я повторял себе каждую ночь...
 
 # Original: Yes, the thing I thought would be impossible...
 Отис: Да, то, что я считала невозможным...

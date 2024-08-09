@@ -8,58 +8,58 @@
 Хитклиф: Хочешь выпустить пар? Вдруг захотелось поиграть в "ударь крота"? Это так?
 
 # Original: Of course not.
-Ишмаэль: Конечно, нет.
+Измаил: Конечно, нет.
 
 # Original: This is just the only method I know.
-Ишмаэль: Это просто единственный метод, который я знаю.
+Измаил: Это просто единственный метод, который я знаю.
 
 # Original: ... You better be ready to explain what you're talking about.
 Хитклиф: ... Ты лучше будь готова объяснить, о чем ты говоришь.
 
 # Original: Heathcliff, furious... wasn't the only Sinner looking at Ishmael with expectant eyes.
-Рассказчик: Разъяренный Хитклиф... был не единственным Грешником, смотревшим на Ишмаэль с ожиданием в глазах.
+Рассказчик: Разъяренный Хитклиф... был не единственным Грешником, смотревшим на Измаил с ожиданием в глазах.
 
 # Original: There were Outis and the other Sinners who all looked to her for some answers.
 Рассказчик: Отис и другие Грешники тоже смотрели на нее в ожидании ответов.
 
 # Original: <Ishmael.>
-Данте: <Ишмаэль.>
+Данте: <Измаил.>
 
 # Original: And I was too, of course.
 Рассказчик: И я, конечно, тоже.
 
 # Original: Haah... I also didn't think I'd actually be doing this...
-Ишмаэль: Хаах... Я тоже не думала, что на самом деле буду это делать...
+Измаил: Хаах... Я тоже не думала, что на самом деле буду это делать...
 
 # Original: Well... so there's this legend-like tale.
-Ишмаэль: Ну... в общем, есть такая легенда.
+Измаил: Ну... в общем, есть такая легенда.
 
 # Original: Legend...?
 Синклер: Легенда...?
 
 # Original: Each Lake of the Great Lake has its own culture, with many wandering and choosing to call those places their homes. So, naturally, there are as many tales as there are Lakes.
-Ишмаэль: У каждого Озера Великого Озера своя культура, и многие странники выбирают эти места своим домом. Так что, естественно, легенд столько же, сколько и Озер.
+Измаил: У каждого Озера Великого Озера своя культура, и многие странники выбирают эти места своим домом. Так что, естественно, легенд столько же, сколько и Озер.
 
 # Original: But there's that one tale of a certain Lake that is passed down orally from sailor to sailor. Just like the legends of old.
-Ишмаэль: Но есть одна история об определенном Озере, которая передается из уст в уста от моряка к моряку. Прямо как древние легенды.
+Измаил: Но есть одна история об определенном Озере, которая передается из уст в уста от моряка к моряку. Прямо как древние легенды.
 
 # Original: The legend of the 'Gloomy Grey Lake of Wafting and Rumbling'. Sailors sang the legend of that Lake, passing it down for years upon years.
-Ишмаэль: Легенда о "Мрачном Сером Озере Колыхания и Грохота". Моряки пели эту легенду, передавая ее из поколения в поколение.
+Измаил: Легенда о "Мрачном Сером Озере Колыхания и Грохота". Моряки пели эту легенду, передавая ее из поколения в поколение.
 
 # Original: Doom, and hew thy veiled path to misty seas.
-Ишмаэль: Обреки, и прорубись сквозь затуманенный путь к туманным морям.
+Измаил: Обреки, и прорубись сквозь затуманенный путь к туманным морям.
 
 # Original: Begloom, and let Whales draw their pearls in search of pallid hue.
-Ишмаэль: Омрачи, и пусть Киты ищут свои жемчужины в поисках бледного оттенка.
+Измаил: Омрачи, и пусть Киты ищут свои жемчужины в поисках бледного оттенка.
 
 # Original: Toom, shall be thy mist-path, heeding the weeping Whales.
-Ишмаэль: Пустынным, будет твой туманный путь, внимая плачущим Китам.
+Измаил: Пустынным, будет твой туманный путь, внимая плачущим Китам.
 
 # Original: ... Whatever does that mean?
 Дон Кихот: ... Что же это значит?
 
 # Original: It's simple. Hit the Porous Whales to wake them, draw out and hunt their Mermaids, and the path to the Pallid Whale should clear of the mist.
-Ишмаэль: Все просто. Ударь по Пористым Китам, чтобы разбудить их, выманить и охотиться на их Русалок, и путь к Бледному Киту должен очиститься от тумана.
+Измаил: Все просто. Ударь по Пористым Китам, чтобы разбудить их, выманить и охотиться на их Русалок, и путь к Бледному Киту должен очиститься от тумана.
 
 # Original: Do you really believe that? You expect us to just... believe that hogwash?
 Хитклиф: Ты правда в это веришь? Ты ожидаешь, что мы просто... поверим в эту чушь?
@@ -83,34 +83,34 @@
 Хитклиф: Заткнись, умник... Я серьезно.
 
 # Original: ... And you think the law that sends Waves after us if we don't cross the borders at the exact right moment makes sense?
-Ишмаэль: ... А ты думаешь, что закон, по которому за нами гонятся Волны, если мы не пересекаем границы в точно нужный момент, имеет смысл?
+Измаил: ... А ты думаешь, что закон, по которому за нами гонятся Волны, если мы не пересекаем границы в точно нужный момент, имеет смысл?
 
 # Original: Huh?
 Хитклиф: А?
 
 # Original: You think the law that makes us go in circles before reaching our destination, the law that doesn't let us go back the way we came from, makes any sense?
-Ишмаэль: Ты думаешь, что закон, заставляющий нас ходить кругами, прежде чем достичь пункта назначения, закон, который не позволяет нам вернуться тем же путем, каким мы пришли, имеет какой-то смысл?
+Измаил: Ты думаешь, что закон, заставляющий нас ходить кругами, прежде чем достичь пункта назначения, закон, который не позволяет нам вернуться тем же путем, каким мы пришли, имеет какой-то смысл?
 
 # Original: I've been telling you this whole time. Common sense has no place in the Great Lake.
-Ишмаэль: Я все время вам говорю. Здравый смысл неприменим к Великому Озеру.
+Измаил: Я все время вам говорю. Здравый смысл неприменим к Великому Озеру.
 
 # Original: That's just the way this place works, okay? Just... You just have to accept that.
-Ишмаэль: Просто так это место работает, понятно? Просто... Тебе просто нужно это принять.
+Измаил: Просто так это место работает, понятно? Просто... Тебе просто нужно это принять.
 
 # Original: ... Fine. I'll give you that. But they're like the laws of the City. As outlandish as they are, they're still strict laws that can be calculated into those variable coordinates or whatnot. What you're blathering here is some vague old song. Am I supposed to believe something so absurd?
 Хитклиф: ... Ладно. Допустим. Но они похожи на законы Города. Какими бы странными они ни были, это все еще строгие законы, которые можно рассчитать с помощью этих переменных координат или как их там. То, что ты тут болтаешь - это какая-то старая расплывчатая песня. Я должен поверить в нечто столь абсурдное?
 
 # Original: Yes. Because I've seen it myself.
-Ишмаэль: Да. Потому что я сама это видела.
+Измаил: Да. Потому что я сама это видела.
 
 # Original: ......
 Хитклиф: ......
 
 # Original: Years ago, when a young, stupid, but motivated sailor boarded the ship, she had the most unfortunate opportunity of witnessing this very legend with her own eyes.
-Ишмаэль: Много лет назад, когда молодая, глупая, но мотивированная моряка поднялась на корабль, ей выпала самая несчастная возможность стать свидетельницей этой самой легенды своими глазами.
+Измаил: Много лет назад, когда молодая, глупая, но мотивированная моряка поднялась на корабль, ей выпала самая несчастная возможность стать свидетельницей этой самой легенды своими глазами.
 
 # Original: Because that's how she saw the Pallid Whale.
-Ишмаэль: Потому что именно так она увидела Бледного Кита.
+Измаил: Потому что именно так она увидела Бледного Кита.
 
 # Original: Heathcliff fell silent, scratching his head. The rest of the Sinners also nodded and began whispering.
 Рассказчик: Хитклиф замолчал, почесывая голову. Остальные Грешники тоже кивнули и начали шептаться.
@@ -119,13 +119,13 @@
 Хитклиф: ... Ты мне очень не нравишься.
 
 # Original: Took the words right out of my mouth.
-Ишмаэль: Ты прямо читаешь мои мысли.
+Измаил: Ты прямо читаешь мои мысли.
 
 # Original: I don't like... any of this. But I know that you're not the kind of lass to lie or tell tall tales just to get the upper hand in a petty squabble.
 Хитклиф: Мне не нравится... ничего из этого. Но я знаю, что ты не из тех девчонок, которые лгут или рассказывают небылицы только для того, чтобы получить преимущество в мелкой ссоре.
 
 # Original: …….
-Ишмаэль: …….
+Измаил: …….
 
 # Original: Fine, let's go all the way to the end. I'll keep whacking those mole-like things with this club.
 Хитклиф: Ладно, давай дойдем до конца. Я продолжу колотить этих кротоподобных существ этой дубинкой.
@@ -134,7 +134,7 @@
 Отис: Я тоже могу принять твое объяснение. Но... впредь я была бы признательна, если бы ты могла делиться с нами своими знаниями, прежде чем что-либо предпринимать.
 
 # Original: ... I'll try.
-Ишмаэль: ... Я постараюсь.
+Измаил: ... Я постараюсь.
 
 # Original: In a way, I am relieved that we now have a definite path forward.
 Фауст: В некотором смысле, я испытываю облегчение от того, что у нас теперь есть определенный путь вперед.
@@ -152,7 +152,7 @@
 И Сан: ... Воистину, морской туман расступается, словно его рассекли лезвием пополам.
 
 # Original: Once we eliminated the Mermaids of the last Whale singled out by Ishmael, the fog slowly began to fade. Behind it was a different Lake, beyond the grey sea.
-Рассказчик: Как только мы уничтожили Русалок последнего Кита, указанного Ишмаэль, туман начал медленно рассеиваться. За ним открылось другое Озеро, за серым морем.
+Рассказчик: Как только мы уничтожили Русалок последнего Кита, указанного Измаил, туман начал медленно рассеиваться. За ним открылось другое Озеро, за серым морем.
 
 # Original: Haah... Finally.
-Ишмаэль: Хаах... Наконец-то.
+Измаил: Хаах... Наконец-то.

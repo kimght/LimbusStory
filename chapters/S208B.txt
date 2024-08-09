@@ -23,13 +23,13 @@
 Грегор: Постарайся не таращиться на всё как восторженный ребёнок, Дон Кихот. Ты вызовешь подозрения…
 
 # Original: The guests here look dead inside with their dim eyes, and they smell worse than the Tingtang schmucks we faced. Do they even wash…
-Ишмаэль: У посетителей тут взгляд мертвый, от них даже пахнет хуже, чем от встреченных нами придурков из "Бом-боба". Они вообще моются…?
+Измаил: У посетителей тут взгляд мертвый, от них даже пахнет хуже, чем от встреченных нами придурков из "Бом-боба". Они вообще моются…?
 
 # Original: I don’t think they’d be too happy about you holding your nose right before their faces, Ishmael…
 Грегор: Не думаю, что они будут в восторге, если ты будешь совать к ним свой нос, Измаил…
 
 # Original: But, this is the kind of bilgy stench I’d only ever caught from deckhands…
-Ишмаэль: Но я такую вонь только от матросов и чуяла…
+Измаил: Но я такую вонь только от матросов и чуяла…
 
 # Original: Fortunately, most of them were too focused on the machines to care about what we were doing.
 Рассказчик: К счастью, большинство из них были поглощены автоматами, чтобы обратить на сказанное внимание.
@@ -122,10 +122,10 @@
 Дон Кихот: Фишки изобилуют подобно падающим звёздам!
 
 # Original: I’d hoped you of all people would have a sense of responsibility… Yet all it took was Don Quixote’s siren plea for you to give in.
-Ишмаэль: Я надеялась, что из всех собравшихся хотя бы у вас есть чувство ответственности… Но стоило лишь Дон Кихот сиреной запеть, как вы сразу прогнулись.
+Измаил: Я надеялась, что из всех собравшихся хотя бы у вас есть чувство ответственности… Но стоило лишь Дон Кихот сиреной запеть, как вы сразу прогнулись.
 
 # Original: I’m disappointed. You’re none other than our manager, and I expected you to show your capability and clear the disgrace of failure from us.
-Ишмаэль: Я разочарована. Вы, как никак, наш менеджер, и я ожидала, что вы покажете себя с лучшей стороны и смоете с нас клеймо неудачников.
+Измаил: Я разочарована. Вы, как никак, наш менеджер, и я ожидала, что вы покажете себя с лучшей стороны и смоете с нас клеймо неудачников.
 
 # Original: Ishmael’s barrage of scathing whispers was something to marvel at, as Gregor muttered in awe.
 Рассказчик: Тирада из едких нашёптываний Измаил настолько удивила, что Грегор даже благоговейно забормотал.
@@ -185,7 +185,7 @@
 Эффи: ……
 
 # Original: …Sigh.
-Ишмаэль: …Эх.
+Измаил: …Эх.
 
 # Original: Faust turned to me with a tranquil face.
 Рассказчик: Фауст со спокойным лицом повернулась ко мне.

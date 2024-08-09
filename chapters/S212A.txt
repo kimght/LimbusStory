@@ -1,8 +1,8 @@
 ﻿# Original: As absurd as it sounds, if we want to leave this floor early…
-Ишмаэль: Как бы это абсурдно ни звучало, но, если мы хотим пройти без лишнего сопротивления…
+Измаил: Как бы это абсурдно ни звучало, но, если мы хотим пройти без лишнего сопротивления…
 
 # Original: We’re going to need to touch their hearts with a powerful dance.
-Ишмаэль: Нам нужно тронуть их сердца чувственным танцем.
+Измаил: Нам нужно тронуть их сердца чувственным танцем.
 
 # Original: <As you all know, my memories are hazy, so… dance, is it…? Can’t say I’m all too familiar.>
 Данте: <Ну, вы же помните, что воспоминания у меня крайне туманные, так что… танец…? Чего-то ничего на ум не приходит.>
@@ -29,7 +29,7 @@
 И Сан: Мой внутренний голос выражает ужас.
 
 # Original: …Me? I spent half of my life on a ship.
-Ишмаэль: …Я? Я полжизни провела на корабле.
+Измаил: …Я? Я полжизни провела на корабле.
 
 # Original: Dance is where I—! Hrrmph! Cease this relentless obstruction of my words!
 Дон Кихот: Танец, что я—! Хм-м-мпф! Прекратите столь беспощадно препятствовать словам моим!
@@ -92,7 +92,7 @@
 Данте: <Синклер… Ты сможешь.>
 
 # Original: Yeah, think of all the times when Heathcliff trampled over you…
-Ишмаэль: Ага, просто думай о том, как Хитклиф тебя постоянно лупит…
+Измаил: Ага, просто думай о том, как Хитклиф тебя постоянно лупит…
 
 # Original: I, I’m…
 Синклер: Я, а я…

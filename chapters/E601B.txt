@@ -89,7 +89,7 @@
 Дон Кихот: Н-ну... кто знает! Быть может, кто-нибудь, прочитав сию статью, явится взять интервью…
 
 # Original: Yeah, I'm sure they'll have a grand old time looking for 'wandering bystanders' for an interview. Very descriptive.
-Ишмаэль: Чтобы взять интервью, им бы для начала знать, где находятся эти „блуждающие прохожие“…
+Измаил: Чтобы взять интервью, им бы для начала знать, где находятся эти „блуждающие прохожие“…
 
 # Original: <I doubt anyone will pay us much attention, Don Quixote. Better not set yourself up for disappointment, and—>
 Данте: <Дон Кихот… Я не думаю, что на нас кто-то обратит внимание. Лучше не тешь себя ложными надеждами—>
@@ -153,19 +153,19 @@ Will you be making your tax payment in installments?
 И Сан: Ожидаемо… Такие гости никогда не приносят добрых вестей…
 
 # Original: Wait, Time Tax...? No, that doesn't make any sense...
-Ишмаэль: Временной налог? Но ведь этого не может быть…
+Измаил: Временной налог? Но ведь этого не может быть…
 
 # Original: We already paid our Time Tax in full when we went through the T Corp. Nest immigration process. Vergilius said—
-Ишмаэль: Мы же уже оплатили в полном объёме временной налог, когда проходили иммиграционный процесс корпорации T. Вергилий ещё сказал…
+Измаил: Мы же уже оплатили в полном объёме временной налог, когда проходили иммиграционный процесс корпорации T. Вергилий ещё сказал…
 
 # Original: Few days ago, aboard Mephistopheles...
 Рассказчик: Пару дней назад, в Мефистофеле...
 
 # Original: Are you sure we don't need to pick up a timepiece for each of us to carry?
-Ишмаэль: Вы уверены, что у нас не будет проблем, если не у каждого будут с собой часы?
+Измаил: Вы уверены, что у нас не будет проблем, если не у каждого будут с собой часы?
 
 # Original: You probably know this already, but in T Corp….
-Ишмаэль: А то ведь в корпорации T…
+Измаил: А то ведь в корпорации T…
 
 # Original: ... everyone must carry a timepiece, yes. I know the rules.
 Вергилий: ...Одним из привил является обладание часами, да. Мне это прекрасно известно.
@@ -195,13 +195,13 @@ Will you be making your tax payment in installments?
 Вергилий: Как я уже говорил ранее, финансовых проблем у компании нет. Для неё в порядке вещей покрывать подобные расходы.
 
 # Original: Hm... We're finally starting to operate like a real, professional company now, huh?
-Ишмаэль: Хм… Наконец-то возникает ощущение профессионализма компании.
+Измаил: Хм… Наконец-то возникает ощущение профессионализма компании.
 
 # Original: <Yeah. There must’ve been a minor miscalculation or something. Maybe we fell slightly short of the amount we had to pay?>
 Данте: <Знаю, наверное, возникла какая-то ошибка… Быть может, мы слегка недоплатили?>
 
 # Original: It hasn't even been thirty days since we arrived here, though.
-Ишмаэль: Ко всему прочему, тридцать дней ещё не прошло.
+Измаил: Ко всему прочему, тридцать дней ещё не прошло.
 
 # Original: Well… I’m sure we can pawn away their stuff to fix what probably amounts to a roundin’ error. Easy-peasy.
 Хитклиф: Ну… Если уж и придётся платить, то наверняка мы сможем надыбать деньжат, сбагрив в ломбард шмотки тех двоих.
