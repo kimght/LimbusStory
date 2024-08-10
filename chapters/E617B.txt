@@ -8,7 +8,7 @@
 Дон Кихот: Ого! Так вот оно...!!!
 
 # Original: Don Quixote shouted vibrantly, immediately recovered from her previous apprehension of the sheer possibility that she might be separated from Rocinante.
-Рассказчик: Дон Кихот восторженно воскликнула, мгновенно оправившись от совего опасения относительно самой возможности разлуки с Росинантом.
+Рассказчик: Дон Кихот восторженно воскликнула, мгновенно оправившись от своего опасения относительно возможности разлуки с Росинантом.
 
 # Original: <So each Nest has one of these... massive structures in them?>
 Данте: <Так в каждом Гнезде есть... такие массивные сооружения?>
