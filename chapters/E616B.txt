@@ -142,7 +142,7 @@
 Фауст: Ваша встревоженная реакция и возможное несогласие уже были учтены.
 
 # Original: Faust?! Then thou hast known this all along?! Wherefore hast thou not deigned to tell me of this?!
-Дон Кихот: Фауст?! Так вы знали об этом все время?! Почему вы даже не соизволили рассказать мне об этом?!
+Дон Кихот: Фауст?! Так ты знала об этом все это время?! И почему же ты не соизволила рассказать мне об этом?!
 
 # Original: Faust has indeed known this all along, as no knowledge is out of Faust's reach. As expected, a solution to your dilemma has already been prepared.
 Фауст: Фауст действительно знала об этом все время, так как нет знаний, недоступных для Фауст. Как и ожидалось, разрешение вашей проблемы уже подготовлено.
@@ -280,13 +280,13 @@
 Измаил: Я не думаю, что видела... что-нибудь... подобное в буклете. Дай мне секунду...
 
 # Original: I mustn't be separated from Rocinante, not even for a twinkle...! I shan't toss Rocinante to the side next to such vulgarities like the ugly shoes of Sir Heathcliff...!
-Дон Кихот: Я не должна расставаться с Росинантом, даже если и на мгновение...! Я не брошу Росинанта в сторону рядом с такими вульгарностями, как уродливые ботинки сэра Хитклифа...!
+Дон Кихот: Я не должна расставаться с Росинантом, даже если и на мгновение...! Я не брошу Росинанта рядом с такими вульгарностями, как уродливые ботинки сэра Хитклифа...!
 
 # Original: Oi, you little...!
 Хитклиф: Эй, ты, мелкая...!
 
 # Original: I implore thee, O Illustrious Red Gaze...! Prithee, grant me thy permission and allow me to board with Rocinanteeeehhhhhh...?
-Дон Кихот: Умоляю вас, о Славный Алый Взор...! Прошу вас, дайте мне свое разрешение и позвольте мне сесть на поезд с Росинантооооом...?
+Дон Кихот: Умоляю тебя, о Достославный Алый Взор...! Прошу тебя, дай мне свое разрешение и позволь мне сесть на поезд с Росинантооооом...?
 
 # Original: …….
 Вергилий: …….
