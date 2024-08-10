@@ -38,13 +38,13 @@
 Родион: ... Может, здесь время — это просто ещё один товар для продажи и покупки.
 
 # Original: Guys… is it just me again…? The T Corp. pamphlet guide... did no one really...?
-Измаил: Ребята... это опять только я...? Путеводитель по Корп. T... неужели никто действительно...?
+Измаил: Ребята... это опять только я...? Путеводитель по Корпорации T... неужели никто действительно...?
 
 # Original: …Ishmael’s eyes start to glaze over. Once again, she may have been the only Sinner who bothered to read up on our destination…
 Рассказчик: ...Глаза Измаил начинают стекленеть. Похоже, она снова оказалась единственной Грешницей, которая потрудилась почитать о нашем пункте назначения...
 
 # Original: In T Corp… also known as TimeTrack Corporation...
-И Сан: В Корп. T... также известной как Корпорация TimeTrack...
+И Сан: В Корпорации T... также известной как Корпорация TimeTrack...
 
 # Original: … its citizenry utilizes timepieces as personal identification. They oft trade with ‘time’ instead of physical currency; their means of transaction done via the timepieces they carry. Most laborers in these lands are rewarded for their efforts with time.
 И Сан: ... её граждане используют часы в качестве личного удостоверения. Они часто торгуют "временем" вместо физической валюты; их способ совершения сделок осуществляется через часы, которые они носят. Большинство рабочих в этих землях вознаграждаются за свои усилия временем.
@@ -65,10 +65,10 @@
 Грегор: Ладно, я давно хотел спросить... что так напугало тебя насчёт похищения раньше?
 
 # Original: Oh… There’s a pretty scary rumor of indiscriminate kidnappings going around these T Corp. streets.
-Чрезмерно драматичный гражданин: О... На этих улицах Корп. T ходит довольно страшный слух о беспорядочных похищениях.
+Чрезмерно драматичный гражданин: О... На этих улицах Корпорации T ходит довольно страшный слух о беспорядочных похищениях.
 
 # Original: These are abandoned streets, so when I saw a dozen or so people running around together, I was scared that you guys might be the infamous kidnapping Syndicate or something...
-Чрезмерно драматичный гражданин: Это заброшенные улицы, поэтому когда я увидел десяток или около того людей, бегающих вместе, я испугался, что вы могли быть печально известным похищающим Синдикатом или чем-то в этом роде...
+Чрезмерно драматичный гражданин: Это заброшенные улицы, поэтому когда я увидел десяток или около того людей, бегающих вместе, я испугался, что вы могли быть печально известным похищающим людей Синдикатом или чем-то в этом роде...
 
 # Original: We need more details. I want the who, when, where, what, how, and why. Proceed.
 Отис: Нам нужно больше деталей. Я хочу знать кто, когда, где, что, как и почему. Продолжай.
@@ -101,19 +101,19 @@
 Хитклиф: ... Парень прав. Здесь гораздо меньше людей, чем я помню.
 
 # Original: This street used to be packed with workers headed to their factory jobs and inventors selling their useless trinkets… It’s never been this... empty.
-Хитклиф: Эта улица обычно была забита рабочими, направляющимися на свои фабричные работы, и изобретателями, продающими свои бесполезные безделушки... Никогда не было так... пусто.
+Хитклиф: Эта улица обычно была забита рабочими, направляющимися на свои рабочие места на фабрике, и изобретателями, продающими свои бесполезные безделушки... Тут никогда не было так... пусто.
 
 # Original: This empty street of T Corp. was thick with fog, the bustling crowd from Heathcliff's memories nowhere to be seen.
-Рассказчик: Эта пустая улица Корп. T была окутана густым туманом, а оживлённая толпа из воспоминаний Хитклифа нигде не виднелась.
+Рассказчик: Эта пустая улица Корпорации T была окутана густым туманом, а оживлённая толпа из воспоминаний Хитклифа нигде не виднелась.
 
 # Original: Maybe the lack of color made the fog appear even thicker.
 Рассказчик: Возможно, отсутствие цвета делало туман ещё гуще.
 
 # Original: This reminds me of the kidnapping ‘rumor’ we heard when we were working on the Blade Lineage case.
-Отис: Это напоминает мне "слух" о похищениях, который мы слышали, когда работали над делом Клинкового Наследия.
+Отис: Это напоминает мне "слух" о похищениях, который мы слышали, когда работали над делом Родословной Клинка.
 
 # Original: Missing people… Maybe there really is a messed-up kidnapping, human trafficking Syndicate roaming this area.
-Измаил: Пропавшие люди... Может, здесь действительно орудует какой-то чокнутый похищающий, торгующий людьми Синдикат.
+Измаил: Пропавшие люди... Может, здесь действительно орудует какой-то чокнутый, похищающий, торгующий людьми Синдикат.
 
 # Original: I’ve never heard of such Syndicate strutting about this place. Back when I lived here, at least.
 Хитклиф: Я никогда не слышал о таком Синдикате, разгуливающем по этим местам. По крайней мере, когда я здесь жил.
@@ -134,7 +134,7 @@
 Данте: <Если это не просто ещё одна жестокая трагедия... то, возможно, здесь кроется нечто большее. Может быть, за ниточки дёргает какая-то могущественная организация...>
 
 # Original: Y’know, that’s a lot of conjecture to make just from the fact that no bodies have been found.
-Родион: Знаете, это слишком много догадок на основе того факта, что не было найдено ни одного тела.
+Родион: Знаете, тут слишком много догадок на основе того факта, что не было найдено ни одного тела.
 
 # Original: I'm sorry?
 Синклер: Прошу прощения?
