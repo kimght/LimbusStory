@@ -59,13 +59,13 @@
 Данте: <Это было так громко...>
 
 # Original: It's okay. I-I heard that it's extremely rare for lightning to actually hit people.
-Синклер: Все в порядке. Я-я слышал, что крайне редко молния на самом деле попадает в людей.
+Синклер: Все в порядке. Я-я слышал, что молния крайне редко на самом деле попадает в людей.
 
 # Original: ... A momentary musing reveals that a strike of levin brings about a sensation that is not unlike the joy of fireworks.
-И Сан: ... Минутное размышление открывает, что удар молнии вызывает ощущение, не отличимое от радости фейерверка.
+И Сан: ... Минутное размышление открывает, что удар молнии вызывает ощущение, не отличимое от радости фейерверков.
 
 # Original: It fills the dark and cold void of the night sky with its incandescent brilliance, even for a brief moment, before fading away into oblivion.
-И Сан: Она заполняет темную и холодную пустоту ночного неба своим раскаленным сиянием, пусть даже на короткий миг, прежде чем исчезнуть в небытии.
+И Сан: Она заполняет темную и холодную пустоту ночного неба своим раскаленным сиянием, пусть даже на короткий миг, прежде чем исчезнуть в небытие.
 
 # Original: … Right. And in exchange, it loses everything it has, burning and leaving nothing but ash behind.
 Хитклиф: ... Верно. И в обмен она теряет все, что у нее есть, сгорая и оставляя после себя лишь пепел.
@@ -134,7 +134,7 @@
 Хитклиф: Я... не стучал в эти ворота много лет.
 
 # Original: I once had to wait out here for hours because they all refused to let me in. Everyone... except Catherine. She snuck out of the manor to open it for me.
-Хитклиф: Однажды мне пришлось ждать здесь часами, потому что все отказывались впустить меня. Все... кроме Кэтрин. Она выскользнула из поместья, чтобы открыть их для меня.
+Хитклиф: Однажды мне пришлось ждать здесь часами, потому что все отказывались впустить меня. Все... кроме Кэтрин. Она выкрадывалась из поместья, чтобы открыть их для меня.
 
 # Original: Walking through the heavy rain.
 Хитклиф: Шагая под проливным дождем.
@@ -167,7 +167,7 @@
 Хитклиф: Нет.
 
 # Original: Heathcliff was a whole bundle of anxiety before he knocked on the front gate, but…
-Рассказчик: Хитклиф был комком нервов, прежде чем постучать в парадные ворота, но...
+Рассказчик: Хитклиф был очень напряжен, прежде чем постучать в парадные ворота, но...
 
 # Original: … perhaps this perceived slight reverted Heathcliff into his usual, angry self.
 Рассказчик: ... возможно, это воспринятое оскорбление вернуло Хитклифа в его обычное, разгневанное состояние.
@@ -185,7 +185,7 @@
 Хитклиф: КЭТРИН!
 
 # Original: Despite his efforts, not even a soul stirred beyond the front gate. None of us really believed that anyone would come out to greet him.
-Рассказчик: Несмотря на его усилия, за парадными воротами не шевельнулась ни одна душа. Никто из нас на самом деле не верил, что кто-нибудь выйдет поприветствовать его.
+Рассказчик: Несмотря на его усилия, за парадными воротами не шевельнулась ни единая душа. Никто из нас на самом деле не верил, что кто-нибудь выйдет поприветствовать его.
 
 # Original: But…
 Рассказчик: Но…
@@ -197,4 +197,4 @@
 Рассказчик: Парадные ворота начали со скрипом открываться, словно кто-то отвечал на его мольбы.
 
 # Original: … The makeover was worth it, hmm?
-Хон Лу: ... Преображение того стоило, хм?
+Хон Лу: ... Преображение того стоило, хмм?
