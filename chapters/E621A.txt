@@ -1,20 +1,20 @@
 # Original: Whew... Battling in a narrow hallway really takes a lot out of you.
-Синклер: Уф... Битва в узком коридоре действительно выматывает.
+Синклер: Уф... Битва в таком узком коридоре действительно выматывает.
 
 # Original: Too bad~ Making big movements when there's not a lot of room to move around in takes more energy than you might think. Especially for people like us, who use longer weapons.
-Хон Лу: Жаль~ Большие движения в ограниченном пространстве требуют больше энергии, чем можно подумать. Особенно для таких, как мы, кто использует длинное оружие.
+Хон Лу: Какая жалость~ Размашистые движения требуют больше энергии, когда ты сражаешься в таком забитом пространстве. Особенно для тех, ко использует длинное оружие, как мы.
 
 # Original: These enemies weren't much harder than the ones we'd fought earlier, but it was inevitable that their sheer number would eventually wear down the Sinners.
-Рассказчик: Эти враги не были намного сильнее тех, с которыми мы сражались раньше, но было неизбежно, что их огромное количество в конечном итоге измотает Грешников.
+Рассказчик: Эти враги были ненамного сильнее тех, с которыми мы сражались раньше, но их чистое количество неизбежно изматывало Грешников.
 
 # Original: Who... what... are these things, Faust...?
-Синклер: Кто... что... эти существа, Фауст...?
+Синклер: Кто... или что... эти существа, Фауст...?
 
 # Original: …….
 Фауст: …….
 
 # Original: Yeah, I've been wondering that too! Why are ya so tight-lipped all of a sudden?
-Родион: Да, я тоже об этом думала! Чего ты вдруг стала такой молчаливой?
+Родион: Да, мне тоже было интересно! С чего ты вдруг стала такой молчаливой?
 
 # Original: Those entities are...
 Фауст: Эти сущности...
@@ -41,19 +41,19 @@
 Рассказчик: Конечно, Фауст не подтвердила и не опровергла его вопрос, но Синклер был вполне способен интерпретировать её молчание по-своему.
 
 # Original: Mm... There were some things I learned after fighting them. I think.
-Синклер: Хм... Кажется, я кое-что понял после боя с ними.
+Синклер: Хм... Я думаю, я кое-что понял после боя с ними.
 
 # Original: These monsters aren't... mad at us, nor do they want to attack us because we're an obstacle. That's not why they're attacking us.
-Синклер: Эти монстры не... злятся на нас и не хотят атаковать нас потому, что мы препятствие. Не поэтому они на нас нападают.
+Синклер: Эти монстры не... злы на нас и не атаковуют нас потому, что мы препятствуем им. Они нападают на нас по какой-то другой причине.
 
 # Original: Quite, quite! 'Tis apparent that they hunger for aught, charging at anyone and anything in a desperate quest of it!
-Дон Кихот: Истинно, истинно! Очевидно, что они жаждут чего-то, бросаясь на всех и вся в отчаянных поисках этого!
+Дон Кихот: Истинно, истинно! Очевидно, что они жаждут чего-то, бросаясь на всех и вся в отчаянном стремлении найти это!
 
 # Original: Right... That's strange, though. I thought hunger or thirst wasn't a thing aboard these trains.
 Измаил: Верно... Хотя это странно. Я думала, что голод или жажда не существуют на этих поездах.
 
 # Original: It could be determined from the entities' attack patterns that their offensives were not based on rational thought. The source of this behavior can only be traced back to primal aggressiveness.
-Мерсо: По характеру атак этих сущностей можно определить, что их наступательные действия не основаны на рациональном мышлении. Источник такого поведения можно проследить только к первобытной агрессивности.
+Мерсо: По характеру атак этих сущностей можно определить, что их наступательные действия не основаны на рациональном мышлении. Источник такого поведения можно свести только к первобытной агрессивности.
 
 # Original: Hm...
 Отис: Хм...
@@ -62,16 +62,16 @@
 Фауст: Да, и? Было ли что-нибудь ещё?
 
 # Original: Anything else...? Uhm... Uh... Oh yeah, I think they all had red eyes...
-Синклер: Что-нибудь ещё...? Эмм... Ээ... А, да, кажется, у всех у них были красные глаза...
+Синклер: Что-нибудь ещё...? Эмм... Ээм... А, да, кажется, у них всех были красные глаза...
 
 # Original: Their bodies wreathed in blankets of red.
-И Сан: Их тела окутаны покрывалами красного.
+И Сан: Их тела окутаны красными покровами.
 
 # Original: I smelled blood, so that's likely what they're made of.
-Рёшу: Пахло кровью. Вероятно, из неё они и состоят.
+Рёшу: Я чувствовала запах крови. Вероятно, из неё они и состоят.
 
 # Original: Then it must be that the 'red' was congealed... nay, crystallized blood.
-И Сан: Значит, этот "красный" был свернувшейся... нет, кристаллизованной кровью.
+И Сан: Значит, эта краснота был свернувшейся... нет, кристаллизованной кровью.
 
 # Original: Thank you, all. Your input has all been very helpful.
 Фауст: Спасибо всем. Ваш вклад был очень полезен.
@@ -86,31 +86,31 @@
 Фауст: Нам повезло, Данте.
 
 # Original: I have read upon this subject as a tangent while perusing information regarding our next destination, moments before we boarded the train. And while that will be a useful element in resolving this situation...
-Фауст: Я читала об этом как о побочной теме, просматривая информацию о нашем следующем пункте назначения, за мгновения до того, как мы сели на поезд. И хотя это будет полезным элементом в разрешении этой ситуации...
+Фауст: Я касалась этого предмета в своем чтении, когда просматривала информацию о нашем следующем пункте назначения, за мгновения до того, как мы сели на поезд. И хотя это будет полезным элементом в разрешении этой ситуации...
 
 # Original: ... the Sinners have also been a very good source of intelligence when it came to categorizing and identifying important evidence from the available sea of information. Your advice was correct, Dante.
-Фауст: ... Грешники также были очень хорошим источником информации, когда дело дошло до классификации и выявления важных улик из доступного моря информации. Твой совет был верным, Данте.
+Фауст: ... Грешники также были очень хорошим источником информации, когда дело дошло до классификации и выявления важных улик из доступного множества данных. Твой совет был верным, Данте.
 
 # Original: <You mean... you know what to do to blow this case wide open?!>
-Данте: <Ты имеешь в виду... ты знаешь, что делать, чтобы раскрыть это дело?!>
+Данте: <Ты имеешь в виду... ты знаешь, как нам раскрыть это дело?!>
 
 # Original: Nothing can be said with absolute certainty at the moment. However, this will be a good place for us to start.
-Фауст: Ничего нельзя сказать с абсолютной уверенностью на данный момент. Однако это будет хорошим началом для нас.
+Фауст: На данный момент, ничего нельзя сказать с абсолютной уверенностью. Однако это будет для нас хорошим началом.
 
 # Original: With that, Faust turned around and faced the rest of the Sinners.
 Рассказчик: С этими словами Фауст повернулась и обратилась к остальным Грешникам.
 
 # Original: ... I will now present before you a solution to this predicament.
-Фауст: ... Сейчас я представлю вам решение этой проблемы.
+Фауст: ... Сейчас я представлю вам решение нашего затруднительного положения.
 
 # Original: Huh? Is there something else we gotta do other than beating the crap outta whatever's in our way?
-Родион: А? Есть что-то ещё, что нам нужно сделать, кроме как надрать задницы всему, что встанет у нас на пути?
+Родион: А? Есть что-то ещё, что нам нужно сделать? Кроме как надрать задницы всему, что встанет у нас на пути?
 
 # Original: That will not change, no. However, what I am about to share will give you a better understanding of the purpose behind W Corp.'s contract, and provide us with the possible means of finding the method by which we may complete it.
-Фауст: Это не изменится, нет. Однако то, чем я собираюсь поделиться, даст вам лучшее понимание цели контракта Корп. W и предоставит нам возможные способы найти метод, которым мы сможем его выполнить.
+Фауст: Этот аспект не изменится, нет. Однако то, чем я собираюсь поделиться, даст вам лучшее понимание смысла, стоящего за контрактом Корпорации W, и предоставит нам возможные средства для его выполнения.
 
 # Original: It is of high likelihood that the entity behind the incidents on this train, and by extension, every incident of the same nature that has occurred in previous WARP train trips...
-Фауст: С высокой вероятностью, сущность, стоящая за инцидентами в этом поезде, и, соответственно, за каждым инцидентом такого же характера, который произошёл в предыдущих поездках ВАРП поездов...
+Фауст: С высокой степенью вероятности, сущность, стоящая за инцидентом в этом поезде, и, соответственно, за каждым инцидентом такого же характера, который произошёл в предыдущих рейсах WARP поездов...
 
 # Original: ... is a Bloodfiend.
 Фауст: ... это Кровожад.
