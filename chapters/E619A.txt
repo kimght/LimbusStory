@@ -2,40 +2,40 @@
 Дон Кихот: Леди Фауст, как бы они ни были похожи на пассажиров...
 
 # Original: ... Verily, 'tis as though they were in complete want of sense...
-Дон Кихот: ... Воистину, словно они полностью лишились рассудка...
+Дон Кихот: ... Воистину, они словно полностью лишились рассудка...
 
 # Original: Like people pallidified by the Whale...
-Измаил: Как люди, обледненные Китом...
+Измаил: Как люди, Китом страдающие от палификации Кита...
 
 # Original: Don Quixote hesitated until the last minute before raising her weapon to fight them. She hangs her head mournfully.
-Рассказчик: Дон Кихот колебалась до последней минуты, прежде чем поднять оружие, чтобы сразиться с ними. Она печально опускает голову.
+Рассказчик: Дон Кихот колебалась до последнего мгновения, прежде чем поднять оружие и сразиться с ними. Она печально опускает голову.
 
 # Original: Normally...
 Рассказчик: Обычно...
 
 # Original: Faust would have told her more information about those monsters before the fight began.
-Рассказчик: Фауст рассказала бы ей больше информации об этих монстрах до начала боя.
+Рассказчик: Фауст уже рассказала бы больше информации об этих монстрах до начала боя.
 
 # Original: And she would not have been burdened by the sheer thought of bringing harm to the innocent.
-Рассказчик: И ей не пришлось бы нести бремя мысли о причинении вреда невиновным.
+Рассказчик: И Дон Кихот бы не пришлось отягчать себя мыслью о причинении вреда невиновным.
 
 # Original: …….
 Фауст: …….
 
 # Original: Faust began searching the area, closely observing various bodies and the general area for information.
-Рассказчик: Фауст начала обыскивать территорию, внимательно осматривая различные тела и общую обстановку в поисках информации.
+Рассказчик: Фауст начала осматривать территорию, внимательно изучая тела и окружение в поисках информации.
 
 # Original: You appear particularly inquisitive today, Miss Faust.
-И Сан: Вы кажетесь особенно любопытной сегодня, мисс Фауст.
+И Сан: Вы кажетесь особенно любознательной сегодня, мисс Фауст.
 
 # Original: Huh, yeah. Aren't you usually the one who has all the answers while we're wracking our brains trying to come up with something?
-Измаил: Хм, да. Разве обычно не ты та, у кого есть все ответы, пока мы ломаем головы, пытаясь что-то придумать?
+Измаил: Хм, да. Ты ведь обычно та, кто уже знает все ответы, пока мы ломаем свои головы и пытаемся что-то придумать?
 
 # Original: The Sinners were starting to feel that there's something off about Faust's behavior.
-Рассказчик: Грешники начали чувствовать, что в поведении Фауст что-то не так.
+Рассказчик: Грешники начали чувствовать, что с поведением Фауст что-то не так.
 
 # Original: They might even soon realize that there's something wrong with Faust right now.
-Рассказчик: Они могут даже вскоре понять, что с Фауст сейчас что-то не в порядке.
+Рассказчик: Такими темпами они смогут понять, что с Фауст сейчас что-то не в порядке.
 
 # Original: ... Don Quixote.
 Фауст: ... Дон Кихот.
@@ -44,10 +44,10 @@
 Фауст: Они не мертвы.
 
 # Original: ... Huhh?
-Дон Кихот: ... Хухх?
+Дон Кихот: ... Хах?
 
 # Original: Observe closer. The parts are all tethered to one another by something, are they not?
-Фауст: Присмотрись внимательнее. Все части связаны друг с другом чем-то, не так ли?
+Фауст: Присмотритесь внимательнее. Все части тела все ещё связаны друг с другом, не так ли?
 
 # Original: Hm...
 Дон Кихот: Хм...
@@ -56,43 +56,43 @@
 Дон Кихот: Ооо!
 
 # Original: It appears that the flow of time has ceased in this space. Therefore, it follows that the... connections, that tether bodies to life and away from death, remain intact.
-Фауст: Похоже, что в этом пространстве поток времени остановился. Следовательно, ... связи, которые удерживают тела в жизни и от смерти, остаются нетронутыми.
+Фауст: Похоже, что в этом пространстве поток времени остановился. Следовательно, те связи, которые удерживают тела от смерти, остаются нетронутыми.
 
 # Original: To my relief...
 Рассказчик: К моему облегчению...
 
 # Original: ... Faust managed to correctly figure out what's going on like her usual self, even if it took her slightly longer than it usually does.
-Рассказчик: ... Фауст удалось правильно разобраться в происходящем, как обычно, хотя это заняло у неё немного больше времени, чем обычно.
+Рассказчик: ... Фауст удалось правильно разобраться в происходящем, как и всегда, даже если это заняло у неё чуть больше времени, чем обычно.
 
 # Original: <Hey, what'd I say? We got this...!>
-Данте: <Эй, что я говорил? Мы справимся...!>
+Данте: <Ну, что я говорил? Мы справимся...!>
 
 # Original: Huh? What was that about?
-Родион: А? Что это было?
+Родион: А? Это еще к чему?
 
 # Original: <O-oh, nothing...>
 Данте: <О-о, ничего...>
 
 # Original: But... I'd forgotten that not all Sinners were content with nodding along to whatever information Faust told us.
-Рассказчик: Но... я забыл, что не все Грешники были довольны тем, что просто кивают в ответ на любую информацию, которую нам сообщала Фауст.
+Рассказчик: Но... я забыл, что не все Грешники были удовотворены простым пооддакиванием в ответ на любую информацию, которую им сообщала Фауст.
 
 # Original: Hm...
 И Сан: Хм...
 
 # Original: The flow of time is ceased aboard a WARP train, is it...?
-И Сан: Поток времени остановился на борту ВАРП поезда, не так ли...?
+И Сан: Поток времени остановливается на борту WARP поезда, так...?
 
 # Original: …….
 Фауст: …….
 
 # Original: Yi Sang grew pensive. Seeing that, Faust lips parted for a moment before closing shut.
-Рассказчик: И Сан задумался. Увидев это, губы Фауст на мгновение приоткрылись, прежде чем снова закрыться.
+Рассказчик: И Сан принял задумчивый вид. Увидев это, Фауст на мгновение приоткрыла рот, прежде чем снова закрыть его.
 
 # Original: I was starting to get a good read on her. That was an unmistakable look of regret, no matter how short-lived.
-Рассказчик: Я начинал хорошо понимать её. Это был безошибочный взгляд сожаления, каким бы кратковременным он ни был.
+Рассказчик: Я стал достаточно хорошо понимать её. Вне всякого сомнения, это было выражение сожаления, каким бы кратковременным оно ни было.
 
 # Original: Howbeit, would it not be more accurate to muse that the flow of time has decelerated to the point where, to an extradimensional observer, it has slowed to a stop? What is your perspective regarding this suggestion?
-И Сан: Однако, не было бы более точным предположить, что поток времени замедлился до такой степени, что для внемерного наблюдателя он остановился? Каково ваше мнение относительно этого предположения?
+И Сан: Однако, не было бы более точным предположить, что поток времени только замедлился до такой степени, что для постороннего наблюдателя он выглядит остановившимся? Каково ваше мнение относительно такого предположения?
 
 # Original: Yes. That is a most rational suggestion, Yi Sang.
 Фауст: Да. Это весьма рациональное предположение, И Сан.
@@ -101,79 +101,79 @@
 Синклер: Эм... Мисс Фауст только что ошиблась?
 
 # Original: <W-wow, Yi Sang sure is a time expert, right? Can you summarize it in easier language now that we're talking about it anyway?>
-Данте: <В-вау, И Сан, похоже, настоящий эксперт по времени, да? Можешь теперь объяснить это более простым языком, раз уж мы об этом заговорили?>
+Данте: <В-вау, И Сан, похоже, настоящий эксперт по времени? Раз уж мы об этом заговорили, не могу бы ты объяснить это более простым языком?>
 
 # Original: Ah. Gladly, if you would allow me.
 И Сан: Ах. С удовольствием, если позволите.
 
 # Original: Yi Sang began to elaborate with gentle enthusiasm.
-Рассказчик: И Сан начал объяснять с мягким энтузиазмом.
+Рассказчик: И Сан начал объясняться с мягким энтузиазмом.
 
 # Original: ... That was close.
 Рассказчик: ... Это было близко.
 
 # Original: To speak in brevity, it can be said that death is not an element aboard this train.
-И Сан: Если говорить кратко, можно сказать, что элемент смерти отсутствует на борту этого поезда.
+И Сан: Если говорить кратко, можно сказать, что смерть как явление отсутсвует на борту этого поезда.
 
 # Original: And...? Can ya maybe speak in a little less brevity?
-Родион: И...? Может, ты объяснишь чуть менее кратко?
+Родион: И...? Может, скажешь чуть менее кратко?
 
 # Original: Ah, to elaborate...
-И Сан: Ах, позвольте уточнить...
+И Сан: Ах, позвольте мне объясниться...
 
 # Original: ... Ah, verily! This one's heart beats still!
 Дон Кихот: ... Ах, воистину! Сердце сего создания всё ещё бьётся!
 
 # Original: Don Quixote lowers her head and listens closely to what appeared to be a dismembered torso... and shouts with relief.
-Рассказчик: Дон Кихот наклоняет голову и внимательно прислушивается к тому, что казалось расчленённым торсом... и с облегчением восклицает.
+Рассказчик: Дон Кихот наклонила голову к тому, что казалось расчленённым торсом и внимательно прислушалась... после чего воскликнула с облегчением.
 
 # Original: Their state is akin to an unassembled jigsaw puzzle; merely immobilized and separated.
 И Сан: Их состояние подобно несобранной головоломке; они просто обездвижены и разделены.
 
 # Original: Though their corpus has been sundered, the concept of death is at a state of, for all intents and purposes, eternal delay aboard this train, existence in continuance of moratorium...
-И Сан: Хотя их тела и разорваны, концепция смерти находится в состоянии, по сути, вечной отсрочки на борту этого поезда, существование в продолжающемся моратории...
+И Сан: Хотя их тела и были разорваны, концепция смерти на борту этого поезда находится в состоянии, во всех смыслах, вечной отсрочки, существование в продолжающемся моратории...
 
 # Original: Forced, they are, to be tethered upon the thinnest yet tenacious thread of life.
-И Сан: Они вынуждены быть привязанными к тончайшей, но упорной нити жизни.
+И Сан: Они связаны тончайшей, но неразрывной нитью жизни.
 
 # Original: Mm... I ill understood what hath been said here, yet they are not dead all the same, hm?
-Дон Кихот: Мм... Я плохо поняла, что здесь было сказано, но они всё же не мертвы, хм?
+Дон Кихот: Мм... Я плохо поняла, что здесь было сказано, но всё же они не мертвы, хм?
 
 # Original: If their severed parts are all connected... then it can be said that no matter how entangled their bodies become, it is not impossible to eventually gather their parts together to form a single passenger.
-Фауст: Если все их разделённые части связаны... то можно сказать, что независимо от того, насколько запутаны их тела, не невозможно в конечном итоге собрать их части вместе, чтобы сформировать единого пассажира.
+Фауст: Если все их разделённые части связаны... то можно сказать, что независимо от того, насколько спутаны их тела, их части все еще можно собрать воедино, чтобы сформировать целого пассажира.
 
 # Original: Thus, naturally, we can determine how and why the profession 'W Corp. Cleanup Agent' has come to be.
-Фауст: Таким образом, естественно, мы можем определить, как и почему появилась профессия "Агент Зачистки Корп. W".
+Фауст: Из этого мы естественным образом можем вывести, как и почему появилась профессия "Агент Зачистки Корпорации W".
 
 # Original: I see. Because someone will have to categorize and reconstruct these puzzles once the journey is over.
-Отис: Понятно. Потому что кому-то придётся классифицировать и реконструировать эти головоломки после окончания путешествия.
+Отис: Понятно. Потому что кому-то придётся определять принадлежность и восстанавливать эти кусочки паззла после окончания путешествия.
 
 # Original: <It's really baffling to me that a job like that even exists...>
-Данте: <Для меня действительно непостижимо, что такая работа вообще существует...>
+Данте: <Меня действительно ошеломляет, что такая работа вообще существует...>
 
 # Original: Ever seen a Wing that wasn't baffling in every sense of that word?
-Грегор: Ты когда-нибудь видел Крыло, которое не было бы непостижимым во всех смыслах этого слова?
+Грегор: Ты когда-нибудь видел Крыло, которое не было бы ошеломляющим во всех смыслах этого слова?
 
 # Original: <Still... I guess that means that, as long as the train arrives at the station, they'll all be put back together like nothing happened.>
-Данте: <Тем не менее... Полагаю, это означает, что, пока поезд прибудет на станцию, их всех соберут обратно, как будто ничего не произошло.>
+Данте: <Тем не менее... Полагаю, это означает, что до тех пор, пока поезд прибудет на станцию, их всех соберут обратно как ни в чем не бывало.>
 
 # Original: From what I learned through the W Corp. Identities, their main job was to gather chunks of flesh together to bring them back to their original shapes before they boarded the trains.
-Рассказчик: Из того, что я узнал через Личности Корп. W, их основная работа заключалась в сборе кусков плоти вместе, чтобы вернуть их в исходное состояние до того, как они сели на поезда.
+Рассказчик: Из того, что я узнал через Личности Корпорации W, их основная работа заключалась в сборе кусков плоти, чтобы вернуть все тела в исходное состояние.
 
 # Original: It's a lot more visceral when I have to look at it in person...
-Рассказчик: Это гораздо более наглядно, когда приходится смотреть на это лично...
+Рассказчик: Это выглядит гораздо более грязно, когда приходится иметь с этим дело лично...
 
 # Original: Phew... that is quite the auspicious news among ill tidings indeed.
-Дон Кихот: Фух... это действительно благоприятные новости среди дурных вестей.
+Дон Кихот: Фух... действительно радостные новости среди всех этих дурных вестей.
 
 # Original: It soon clicked in me what Faust was, though with some effort, trying to do as I watched Don Quixote sigh with relief.
-Рассказчик: Вскоре мне стало понятно, что Фауст, хоть и с некоторым усилием, пыталась сделать, когда я наблюдал, как Дон Кихот вздыхает с облегчением.
+Рассказчик: Наблюдая,  как Дон Кихот вздыхает с облегчением, я неожиданно для себя я понял, что Фауст, хоть и с определенными затруднениями, пыталась сделать.
 
 # Original: Maybe Faust was trying to cheer Don Quixote up in her own way.
-Рассказчик: Возможно, Фауст пыталась подбодрить Дон Кихот по-своему.
+Рассказчик: Похоже, Фауст пыталась по-своему подбодрить Дон.
 
 # Original: The other Faust would not find it even necessary to do something like that...
-Рассказчик: Другая Фауст не сочла бы даже необходимым делать что-то подобное...
+Рассказчик: Другая Фауст не сочла бы необходимым даже делать что-то подобное...
 
 # Original: Dante.
 Фауст: Данте.
@@ -188,70 +188,70 @@
 Данте: <О. Время шептаться, да?>
 
 # Original: ... Indeed. I intend to collect further intelligence.
-Фауст: ... Действительно. Я намерена собрать дополнительные сведения.
+Фауст: ... Именно так. Я намерена собрать дополнительные сведения.
 
 # Original: <Well, if there's anything I can tell you...>
 Данте: <Ну, если есть что-то, что я могу тебе сказать...>
 
 # Original: Faust cast a dark gaze toward the chunks of flesh. Her gaze remained fixed upon them as she whispered.
-Рассказчик: Фауст бросила мрачный взгляд на куски плоти. Её взгляд оставался прикованным к ним, когда она прошептала.
+Рассказчик: Фауст бросила мрачный взгляд на разбросанные куски плоти. Её взгляд оставался прикованным к ним, когда она прошептала.
 
 # Original: Are they Distortions, or... Abnormalities?
 Фауст: Это Искажения или... Аномалии?
 
 # Original: <Oh... yeah. I actually wanted to ask you about that.>
-Данте: <О... да. Я на самом деле хотел спросить тебя об этом.>
+Данте: <А... да. Я на самом деле хотел тебя об этом спросить.>
 
 # Original: They weren't humans, that's for sure. From them, I felt the same sensation I felt from monsters.
-Рассказчик: Это точно не люди. От них я чувствовал то же ощущение, что и от монстров.
+Рассказчик: Они точно не были людьми. От них я чувствовал то же ощущение, что и от монстров.
 
 # Original: Something inexplicable. An unclear sensation or an aura.
-Рассказчик: Что-то необъяснимое. Неясное ощущение или аура.
+Рассказчик: Что-то необъяснимое. Неясное ощущение или может аура.
 
 # Original: I've felt this somewhere before, I'm sure of it. But... I couldn't quite pinpoint the source of this sensation.
-Рассказчик: Я уверен, что чувствовал это где-то раньше. Но... я не мог точно определить источник этого ощущения.
+Рассказчик: Я уверен, что чувствовал что-то похожее раньше. Но... я не мог точно определить источник этого ощущения.
 
 # Original: One thing I do know for sure is that this sensation was not the same feeling I got from Abnormalities, Distortions, or even the Peccatula.
 Рассказчик: Одно я знаю наверняка: это ощущение не было таким же, как то, которое я получал от Аномалий, Искажений или даже Пеккатул.
 
 # Original: <If I had to lean one way or the other, I'd say they're... closer to Distortions.>
-Данте: <Если бы мне пришлось склониться к чему-то одному, я бы сказал, что они... ближе к Искажениям.>
+Данте: <Если бы мне пришлось выбрать что-то одно, то я бы сказал, что они... ближе к Искажениям.>
 
 # Original: <I'm sorry, I don't think they're either of those.>
-Данте: <Извини, я не думаю, что они относятся ни к тем, ни к другим.>
+Данте: <Извини, но я не думаю, что они относятся к тем или другим.>
 
 # Original: Is it difficult to be certain at the moment?
 Фауст: Трудно быть уверенным в данный момент?
 
 # Original: <Again, I'm not sure how I can explain this, but they're very, very similar to Distortions. But also... different.>
-Данте: <Опять же, я не уверен, как это объяснить, но они очень, очень похожи на Искажения. Но также... отличаются.>
+Данте: <Опять же, я не уверен, как это объяснить. Они очень, очень похожи на Искажения. Но также... отличаются.>
 
 # Original: <If you had to ask, then... I'm gonna guess Faust doesn't know?>
-Данте: <Если тебе пришлось спрашивать, то... я думаю, Фауст не знает?>
+Данте: <Если тебе пришлось спрашивать, то... надо полагать, Фауст не знает?>
 
 # Original: Faust may know... but I, at this moment, have no way of knowing.
 Фауст: Фауст может знать... но я, в данный момент, не имею возможности знать.
 
 # Original: <... I feel like I should apologize for that.>
-Данте: <... Мне кажется, я должен извиниться за это.>
+Данте: <... Мне почему-то кажется, что я должен извиниться за это.>
 
 # Original: There is no need, Dante.
 Фауст: В этом нет необходимости, Данте.
 
 # Original: Though the information you have provided me is rather ambiguous, it has helped me deduce something of worth.
-Фауст: Хотя информация, которую ты мне предоставил, довольно неоднозначна, она помогла мне сделать некоторые полезные выводы.
+Фауст: Хотя информация, которую ты мне предоставил, несколько неоднозначна, она помогла мне сделать некоторые полезные выводы.
 
 # Original: And...
 Фауст: И...
 
 # Original: Collecting intelligence myself and creating deductions based on sparse information is quite...
-Фауст: Самостоятельный сбор сведений и создание выводов на основе скудной информации довольно...
+Фауст: Самостоятельный сбор данных и создание выводов на основе скудной информации — это довольно...
 
 # Original: She paused, holding a bloody, slimy chunk of flesh in her hands.
-Рассказчик: Она сделала паузу, держа в руках кровавый, слизистый кусок плоти.
+Рассказчик: Она сделала паузу, держа в руках кровавый, слизкий кусок плоти.
 
 # Original: ... Did she just smile to herself with gore in her hands?
-Хитклиф: ... Она только что улыбнулась себе с кровавыми останками в руках?
+Хитклиф: ... Она, что, только что улыбнулась сама себе, держа чьи-то окровавленые внутренности в руках?
 
 # Original: Hooh. Finally, the awakening has begun.
-Рёшу: Хоо. Наконец, пробуждение началось.
+Рёшу: Ооо. Наконец-то, началось пробуждение.
