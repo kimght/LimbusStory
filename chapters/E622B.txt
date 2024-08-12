@@ -152,7 +152,7 @@
 Рассказчик: Фауст ответила, избегая взгляда И Сана.
 
 # Original: ... There isn't anything I can do about this. The Sinners will only get more stressed if they find out, and that's something Faust and I both want to avoid.
-Рассказчик: ... Я ничего не могу с этим поделать. Грешники только станут напряженнными, если узнают, а этого мы с Фауст и хотим избежать.
+Рассказчик: ... Я ничего не могу с этим поделать. Грешники только станут более напряженнными, если узнают, а этого мы с Фауст и хотим избежать.
 
 # Original: Inaccessible... Ah, indeed. Now I recall what you have said in the past.
 И Сан: Недоступна... Ах, действительно. Теперь я вспоминаю, что вы говорили в прошлом.
