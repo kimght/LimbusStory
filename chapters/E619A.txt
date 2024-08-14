@@ -158,13 +158,13 @@
 Данте: <Тем не менее... Полагаю, это означает, что до тех пор, пока поезд прибудет на станцию, их всех соберут обратно как ни в чем не бывало.>
 
 # Original: From what I learned through the W Corp. Identities, their main job was to gather chunks of flesh together to bring them back to their original shapes before they boarded the trains.
-Рассказчик: Из того, что я узнал через Личности Корпорации W, их основная работа заключалась в сборе кусков плоти, чтобы вернуть все тела в исходное состояние.
+Рассказчик: Из того, что я узнал через Идентичности Корпорации W, их основная работа заключалась в сборе кусков плоти и возвращении всех тел в исходное состояние.
 
 # Original: It's a lot more visceral when I have to look at it in person...
-Рассказчик: Это выглядит гораздо более грязно, когда приходится иметь с этим дело лично...
+Рассказчик: Это выглядит гораздо более тошнотворно, когда приходится иметь с этим дело лично...
 
 # Original: Phew... that is quite the auspicious news among ill tidings indeed.
-Дон Кихот: Фух... действительно радостные новости среди всех этих дурных вестей.
+Дон Кихот: Фух... наконец-то радостные новости среди всех этих дурных вестей.
 
 # Original: It soon clicked in me what Faust was, though with some effort, trying to do as I watched Don Quixote sigh with relief.
 Рассказчик: Наблюдая,  как Дон Кихот вздыхает с облегчением, я неожиданно для себя я понял, что Фауст, хоть и с определенными затруднениями, пыталась сделать.
