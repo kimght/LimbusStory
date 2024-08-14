@@ -26,7 +26,7 @@
 Фауст: …….
 
 # Original: I have been briefed on the existence of Bloodfiends in the past, when I served as a commanding officer.
-Отис: Мне давали инструктаж касательно существования Кровожадов, когда я была коммандующим офицером.
+Отис: Мне давали инструктаж касательно существования Кровожадов, когда я была командующим офицером.
 
 # Original: And I have seen the... 'dregs' that they command.
 Отис: И я видела... "отбросы", которыми они командуют.
