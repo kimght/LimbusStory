@@ -2,7 +2,7 @@
 Синклер: Уф... Битва в таком узком коридоре действительно выматывает.
 
 # Original: Too bad~ Making big movements when there's not a lot of room to move around in takes more energy than you might think. Especially for people like us, who use longer weapons.
-Хон Лу: Какая жалость~ Размашистые движения требуют больше энергии, когда ты сражаешься в таком забитом пространстве. Особенно для тех, ко использует длинное оружие, как мы.
+Хон Лу: Какая жалость~ Размашистые движения требуют больше энергии, когда ты сражаешься в таком забитом пространстве. Особенно для тех, кто использует длинное оружие, как мы.
 
 # Original: These enemies weren't much harder than the ones we'd fought earlier, but it was inevitable that their sheer number would eventually wear down the Sinners.
 Рассказчик: Эти враги были ненамного сильнее тех, с которыми мы сражались раньше, но их чистое количество неизбежно изматывало Грешников.
