@@ -14,7 +14,7 @@
 Дон Кихот: Воистину, ни разу я еще не слышала упоминания об этих "Кровожадах"! Быть может, я упустила статью в каком-нибудь журнале?
 
 # Original: Don Quixote furrowed her brows, genuinely lost. It was as though the very word sounded alien to her.
-Рассказчик: Дон Кихот нахмурилась, искренне растерявшись. Казалось, будто само это слово звучало для неё чуждым.
+Рассказчик: Дон Кихот нахмурилась, искренне растерявшись. Казалось, будто само это слово звучало для неё чуждо.
 
 # Original: I thought they were just monsters in stories to scare children in the night... They're supposed to be afraid of garlic and sunlight, right...?
 Синклер: Я думал, это просто чудовища из тех историй, которыми пугают детей на ночь... Они вроде как боятся чеснока и солнечного света, так...?
