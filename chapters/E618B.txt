@@ -2,13 +2,13 @@
 Данте: <Мы уже здесь...?>
 
 # Original: <Wow, I guess that wasn't an exaggeration at all... It all really happened in the blink of an eye.>
-Данте: <Ого, похоже, это вовсе не было преувеличением... Всё действительно произошло в мгновение ока.>
+Данте: <Ого, похоже, это не было преувеличением... Всё действительно произошло в мгновение ока.>
 
 # Original: As always, Faust was giving me her usual look, which was a complete lack of any emotive expression.
 Рассказчик: Как обычно, Фауст смотрела на меня своим привычным взглядом, лишённым каких-либо эмоций.
 
 # Original: Which, I suppose, is why it didn't immediately register that something had gone awry.
-Рассказчик: Что, полагаю, и стало причиной того, что я не сразу понял – что-то пошло не так.
+Рассказчик: Из-за этого, думаю, я не сразу понял, что-то пошло не так.
 
 # Original: No, we are not yet at our destination.
 Фауст: Нет, мы ещё не достигли нашего пункта назначения.
@@ -17,13 +17,13 @@
 Данте: <А?>
 
 # Original: When I finally came to, and after I had some time to digest that odd reply, I looked up at her face once again.
-Рассказчик: Когда я наконец пришёл в себя и у меня было время осмыслить этот странный ответ, я снова посмотрел ей в лицо.
+Рассказчик: Когда я наконец пришёл в себя и у меня появилось время осмыслить этот странный ответ, я снова взглянул ей в лицо.
 
 # Original: ... And realized that her expression was more antsy than usual by a microscopically minuscule degree.
-Рассказчик: ... И понял, что её выражение было чуть более беспокойным, чем обычно, на микроскопически малую величину.
+Рассказчик: ... И понял, что её выражение было чуть более беспокойным, чем обычно, даже если на микроскопически малую величину.
 
 # Original: <So... this train is still 'running'?>
-Данте: <Значит... этот поезд всё ещё 'в пути'?>
+Данте: <Значит... поезд всё ещё 'в пути'?>
 
 # Original: Yes.
 Фауст: Да.
@@ -32,13 +32,13 @@
 Данте: <Тогда... где мы?>
 
 # Original: ... I believe we are currently stranded in an unidentified dimension. Coordinates: unknown.
-Фауст: ... Полагаю, в данный момент мы застряли в неизвестном измерении. Координаты: неизвестны.
+Фауст: ... Я думаю, в данный момент мы застряли в неизвестном измерении. Координаты: неизвестны.
 
 # Original: I took a reflexive, deep breath from the sheer horror of the numerous implications stuffed into that dryly delivered sentence.
 Рассказчик: Я рефлекторно глубоко вздохнул от ужаса перед многочисленными последствиями, заключёнными в этой сухо произнесённой фразе.
 
 # Original: When that passed, the first thing that struck my mind was that we were about to suffer the very thing that we were so worried about.
-Рассказчик: Когда это прошло, первое, что пришло мне в голову, было то, что мы вот-вот столкнёмся с тем, чего так опасались.
+Рассказчик: После этого первое, что пришло мне в голову, было то, что мы вот-вот столкнёмся с тем, чего так опасались.
 
 # Original: <... I see.>
 Данте: <... Понятно.>
@@ -47,10 +47,10 @@
 Рассказчик: Но вскоре я обнаружил, что успокаиваюсь.
 
 # Original: Yeah, this had to be a part of Faust's plan. She probably saw this coming from a mile away.
-Рассказчик: Да, это должно быть частью плана Фауст. Она, вероятно, предвидела это издалека.
+Рассказчик: Да, это должно быть частью плана Фауст. Она, вероятно, предвидела эту ситуацию заранее.
 
 # Original: I'm sure she's about to proudly tell me every little detail of her plan that will help us out of this situation.
-Рассказчик: Уверен, она вот-вот с гордостью расскажет мне каждую мелочь своего плана, который поможет нам выбраться из этой ситуации.
+Рассказчик: Уверен, она вот-вот с гордостью расскажет мне каждую деталь своего плана, который поможет нам выбраться из этой ситуации.
 
 # Original: <But this is all just a part of the plan, right? Faust?>
 Данте: <Но всё это просто часть плана, верно? Фауст?>
@@ -62,7 +62,7 @@
 Рассказчик: ... Это было необычно долгое молчание для Фауст.
 
 # Original: You are half correct, yet half incorrect.
-Фауст: Ты наполовину прав, но наполовину неправ.
+Фауст: Вы наполовину правы, но наполовину - нет.
 
 # Original: With that, Faust left me to flounder in the chaotic stream of vaguely terrifying information as she began stopping by each capsule to wake the Sinners.
 Рассказчик: С этими словами Фауст оставила меня барахтаться в хаотическом потоке смутно пугающей информации и начала обходить каждую капсулу, чтобы разбудить Грешников.
@@ -74,13 +74,13 @@
 Фауст: Нет.
 
 # Original: Ooh, what's this? We're here already, for real? It really happened in the blink of an—
-Родион: Ох, что это? Мы уже здесь, правда? Это действительно произошло в мгновение—
+Родион: Ох, что такое? Мы уже здесь, серьезно? Это действительно произошло в мгновение—
 
 # Original: No.
 Фауст: Нет.
 
 # Original: Woah, w-we're here already? I guess I really was worrying over nothi—
-Синклер: Ого, м-мы уже здесь? Похоже, я зря волновал—
+Синклер: Вау, м-мы уже здесь? Похоже, я зря волновал—
 
 # Original: No.
 Фауст: Нет.
@@ -96,7 +96,7 @@
 
 # Original: There was a brief cheer, a little hurrah about regaining our colors, followed by a flat-toned explanation of our current predicament, which was then followed by a long, loaded silence...
 # ... which was a sequence of events I had the pleasure of watching play out on about ten consecutive occasions...
-Рассказчик: Последовало короткое ликование, небольшое "ура" по поводу возвращения наших цветов, затем монотонное объяснение нашего текущего затруднительного положения, за которым последовало долгое, напряжённое молчание...
+Рассказчик: Началом всего было короткое ликование, небольшое "ура" по поводу возвращения наших цветов, а затем — монотонное объяснение нашего текущего положения, за которым последовало долгое, напряжённое молчание...
 ... и эту последовательность событий мне посчастливилось наблюдать примерно десять раз подряд...
 
 # Original: Dante. I understand your confusion, however... perhaps an elaboration of our present circumstance is necessary.
@@ -124,58 +124,58 @@
 Фауст: ... Да.
 
 # Original: Haaaaah...
-Измаил: Хааах...
+Измаил: Хааа...
 
 # Original: What... what the hell is wrong with you? Huh?
 Грегор: Что... что, чёрт возьми, с тобой не так? А?
 
 # Original: The Sinners each begin to voice their anger.
-Рассказчик: Грешники начинают выражать своё возмущение.
+Рассказчик: Каждый Грешник начал выражать своё возмущение.
 
 # Original: Of course, this wasn't the first time Faust and Vergilius intentionally and knowingly omitted certain details about events in our path.
 Рассказчик: Конечно, это был не первый раз, когда Фауст и Вергилий намеренно и сознательно опускали некоторые детали о событиях на нашем пути.
 
 # Original: What, are you insane? It's not like we can just retreat or jump out that door when stuff hits the fan!
-Грегор: Что, ты с ума сошла? Мы же не можем просто отступить или выпрыгнуть в ту дверь, когда всё пойдёт наперекосяк!
+Грегор: Ты с ума сошла? Не то чтобы мы могли отступить или просто выпрыгнуть в эту дверь, когда вся эта вещь начнется!
 
 # Original: Opening the door will result in nearly immediate destruction of the physical body.
 Мерсо: Открытие двери приведёт к практически мгновенному разрушению физического тела.
 
 # Original: But hey, Fau... at least you know what to do like you always do. You've got a plan, right?
-Родион: Но эй, Фау... по крайней мере, ты знаешь, что делать, как всегда. У тебя есть план, верно?
+Родион: Но эй, Фау... по крайней мере, ты как всегда знаешь, что делать. У тебя есть план, так?
 
 # Original: …….
 Фауст: …….
 
 # Original: ... Right?
-Родион: ... Верно?
+Родион: ... Так ведь?
 
 # Original: Faust, whom I had never seen at a loss for words... was having oddly long instances of silence.
-Рассказчик: Фауст, которую я никогда не видел в растерянности... делала необычно долгие паузы молчания.
+Рассказчик: Фауст, которую я никогда не видел не способной найтись с ответом... делала необычно долгие паузы.
 
 # Original: Uh. What's up with her? Lass looks totally out of it today.
-Хитклиф: Эм. Что с ней? Девчонка сегодня выглядит совсем не в себе.
+Хитклиф: Эм. Что с ней? Девчонка выглядит совсем не в себе.
 
 # Original: She gives me a sideways glance.
 Рассказчик: Она бросает на меня косой взгляд.
 
 # Original: ... There must be something she can't discuss in front of the Sinners.
-Рассказчик: ... Должно быть что-то, о чём она не может говорить при Грешниках.
+Рассказчик: ... Должно быть есть что-то, о чём она не может говорить в присутствии Грешников.
 
 # Original: <... Guys, let's pause for a bit.>
-Данте: <... Ребята, давайте немного передохнём.>
+Данте: <... Ребята, давайте ненадолго возьмем паузу.>
 
 # Original: She said that something inconceivable's happened...
 Рассказчик: Она сказала, что произошло что-то немыслимое...
 
 # Original: The other Sinners' anger was completely understandable. It also makes sense that this continued lack of communication is harming our trust in Faust.
-Рассказчик: Гнев других Грешников был вполне понятен. Также понятно, что это продолжающееся отсутствие коммуникации вредит нашему доверию к Фауст.
+Рассказчик: Гнев других Грешников был вполне понятен. Резонно, что возникающие разрывы в коммуникации вредят нашему доверию к Фауст.
 
 # Original: <Alright. We're going to go over the situation from the start, okay?>
 Данте: <Хорошо. Мы разберём ситуацию с самого начала, договорились?>
 
 # Original: But just letting things play out might really turn everyone against Faust, and for good.
-Рассказчик: Но просто позволить событиям идти своим чередом может действительно настроить всех против Фауст, и окончательно.
+Рассказчик: Но если я просто позволю событиям идти своим чередом, то это может действительно настроить всех против Фауст, и окончательно.
 
 # Original: And...
 Рассказчик: И...
@@ -184,13 +184,13 @@
 Фауст: …….
 
 # Original: ... I doubt Faust had any ill intent in waking us up in the middle of the trip.
-Рассказчик: ... Я сомневаюсь, что у Фауст были какие-либо злые намерения, когда она разбудила нас посреди путешествия.
+Рассказчик: ... Я сомневаюсь, что Фауст, разбудив нас посреди путешествия, руководствовалась какими-то злыми намерениями.
 
 # Original: First things first, I gotta get the Sinners to calm down. Then I'll ask Faust to tell us what happened. If there's a problem, we'll figure it out and deal with it as we move along.
-Рассказчик: Прежде всего, мне нужно успокоить Грешников. Потом я попрошу Фауст рассказать нам, что произошло. Если возникнет проблема, мы разберёмся с ней и решим по ходу дела.
+Рассказчик: Прежде всего, мне нужно успокоить Грешников. Потом я попрошу Фауст рассказать нам, что произошло. Если возникнет проблема, мы разберёмся с ней по ходу дела.
 
 # Original: <Tell us what's going on, Faust. All of it. And in a way that we can all understand.>
-Данте: <Расскажи нам, что происходит, Фауст. Всё. И так, чтобы мы все могли понять.>
+Данте: <Расскажи нам, что происходит, Фауст. Всё целиком. И так, чтобы мы все могли понять.>
 
 # Original: <Let's hear her out first. Is that okay with you guys?>
 Данте: <Давайте сначала выслушаем её. Вас это устроит, ребята?>
@@ -199,7 +199,7 @@
 Измаил: ... Если ты так говоришь. Я согласна.
 
 # Original: ... Fine. I suppose losin' my rag rarely ever did anything.
-Хитклиф: ... Ладно. Полагаю, злиться редко когда помогало.
+Хитклиф: ... Ладно. Думаю, злость редко когда мне помогала.
 
 # Original: Thank you. Then...
 Фауст: Спасибо. Тогда...
@@ -211,16 +211,16 @@
 Рассказчик: Суть объяснения Фауст была следующей.
 
 # Original: The cause of this issue, as always, involved a certain contract and a unilateral decision from the higher-ups of Limbus Company.
-Рассказчик: Причина этой проблемы, как всегда, включала в себя определённый контракт и одностороннее решение вышестоящих лиц Компании Лимбус.
+Рассказчик: Причина этой проблемы, как и всегда, включала в себя определённый контракт и одностороннее решение вышестоящих лиц Компании Лимбус.
 
 # Original: W Corp. caught wind of Limbus Company's recent Distortion contract management promotions,
-Рассказчик: Крыло W узнало о недавних продвижениях Компании Лимбус в управлении контрактами Искажений,
+Рассказчик: Корпорация W наткнулась на рекламные акции Компании Лимбус, предлагающие помощь с разрешением проблем с Искажениями,
 
 # Original: and decided to contract us to deal with a mysterious, repeated series of incidents suspected to have been caused by a Distortion. After multiple failed attempts to resolve it on their own, of course.
-Рассказчик: и решило заключить с нами контракт на решение загадочной, повторяющейся серии инцидентов, предположительно вызванных Искажением. После многократных неудачных попыток решить проблему самостоятельно, конечно.
+Рассказчик: и решило заключить с нами контракт для разрешения загадочной серии инцидентов, предположительно вызванных Искажением. После многократных неудачных попыток решить проблему самостоятельно, разумеется.
 
 # Original: The Distortions themselves likely did not pose a problem for W Corp. Based on the available information, it can be determined that they would have all been neutralized as soon as the train arrived, and any transformed passengers would have been reverted to their human forms.
-Фауст: Сами Искажения, вероятно, не представляли проблемы для Крыла W. На основе имеющейся информации можно определить, что все они были бы нейтрализованы, как только поезд прибыл бы, и все трансформированные пассажиры вернулись бы в свою человеческую форму.
+Фауст: Сами Искажения, вероятно, не представляли проблемы для Крыла W. На основе имеющейся информации можно определить, что все они были бы нейтрализованы, как только поезд прибыл бы на место, а все трансформированные пассажиры вернулись бы в свою человеческую форму.
 
 # Original: But...
 Фауст: Но...
@@ -229,13 +229,13 @@
 Рассказчик: Настоящая проблема заключалась в том, что пассажиры исчезали.
 
 # Original: Passengers... spirited away?! Alas, such is an impossibility aboard these trains, is it not?
-Дон Кихот: Пассажиры... похищены?! Увы, сие невозможно на борту сих поездов, не так ли?
+Дон Кихот: Пассажиры... растворившиеся в воздухе?! Однако, сие невозможно на борту сих поездов, разве не так?
 
 # Original: That is the question for which we must discover the precise cause and effect of.
-Фауст: Это вопрос, для которого мы должны выяснить точную причину и следствие.
+Фауст: Это та проблема, причину и следствия которой мы и должны определить.
 
 # Original: <Did W Corp. share anything to get us started?>
-Данте: <Крыло W поделилось чем-нибудь, с чего мы могли бы начать?>
+Данте: <Корпорация W поделилось чем-нибудь, с чего мы могли бы начать?>
 
 # Original: ... That appears to be the most prominent cause of this misunderstanding.
 Фауст: ... Похоже, это самая заметная причина этого недоразумения.
@@ -244,28 +244,28 @@
 Рассказчик: Она объяснила, что Крыло W отказалось делиться какой-либо информацией о поездах, потому что они были обеспокоены сохранением секретов своей Сингулярности.
 
 # Original: Maybe that's exactly why they sought out an upstart business like Limbus Company to deal with this, now that I think about it...
-Рассказчик: Возможно, именно поэтому они обратились к такому начинающему бизнесу, как Компания Лимбус, чтобы разобраться с этим, теперь, когда я об этом думаю...
+Рассказчик: Возможно, именно поэтому они обратились к относительно недавно возникшему бизнесу, такому как Компания Лимбус, чтобы разобраться с этой ситуацией...
 
 # Original: We wouldn't even know where to start if we didn't have access to the information that the Identity Cards had to offer.
-Рассказчик: Мы бы даже не знали, с чего начать, если бы у нас не было доступа к информации, которую могли предложить Карты Личностей.
+Рассказчик: Мы бы даже не знали, с чего начать, если бы у нас не было доступа к информации, которую нам дали Карты Идентичностей.
 
 # Original: Faust produced what appeared to be a keycard with a W Corp. logo on it before continuing with her explanations.
-Рассказчик: Фауст достала то, что выглядело как ключ-карта с логотипом Крыла W, прежде чем продолжить свои объяснения.
+Рассказчик: Фауст показала нам что-то, выглядящее как ключ-карта с логотипом Корпорации W, прежде чем продолжить свои объяснения.
 
 # Original: However, we were given this master keycard that can open and close the hibernation capsules at will.
-Фауст: Однако нам дали эту мастер-карту, которая может открывать и закрывать капсулы гибернации по желанию.
+Фауст: Однако они дали нам карту, которая позволит открывать и закрывать капсулы гибернации по желанию.
 
 # Original: We may return to our respective capsules as soon as the contract is fulfilled and safely complete the rest of the journey as we had planned from the beginning.
-Фауст: Мы можем вернуться в наши соответствующие капсулы, как только контракт будет выполнен, и безопасно завершить остаток путешествия, как мы и планировали изначально.
+Фауст: Мы можем вернуться в наши капсулы, как только контракт будет выполнен, и после этого безопасно завершить остаток путешествия, как мы и планировали изначально.
 
 # Original: These bloody Wings... every single one of 'em's been absolutely barmy.
 Хитклиф: Эти чёртовы Крылья... каждое из них абсолютно чокнутое.
 
 # Original: Hmm~ I think it's a bit unkind of them to ask us to finish the puzzle without all the important pieces...
-Хон Лу: Хмм~ Я думаю, это немного недобро с их стороны просить нас закончить головоломку без всех важных кусочков...
+Хон Лу: Хмм~ Я думаю, это немного грубо с их стороны просить нас закончить головоломку, не дав важных кусочков...
 
 # Original: At least at T Corp., their Chief Executive Director tagged along as our assistant, not to mention kindly explaining so many new things to us.
-Хон Лу: По крайней мере, в Крыле T их Главный Исполнительный Директор сопровождал нас в качестве ассистента, не говоря уже о том, что любезно объяснял нам так много новых вещей.
+Хон Лу: По крайней мере, в Корпорации T их Главный Исполнительный Директор сопровождал нас в качестве ассистента, не говоря уже о том, что он любезно объяснил нам так много вещей.
 
 # Original: I-it sounds like Miss Faust was stuck between a rock and a hard place herself...
 Синклер: П-похоже, мисс Фауст сама оказалась между молотом и наковальней...
@@ -274,37 +274,37 @@
 Рассказчик: Некоторые Грешники стали более восприимчивыми после её объяснений, хотя и со вздохом.
 
 # Original: ... Haah. I would've appreciated it if you at least gave us a hint.
-Грегор: ... Хаах. Я бы оценил, если бы ты хотя бы дала нам подсказку.
+Грегор: ... Хаах. Я был бы очень рад, если бы ты хотя бы дала нам подсказку.
 
 # Original: Yeah. I understand where you're coming from, but it's not like there's someone out there monitoring your every move and every word, right?
-Измаил: Да. Я понимаю, откуда ты исходишь, но ведь нет никого, кто следил бы за каждым твоим движением и каждым словом, верно?
+Измаил: Ага. Я понимаю, почему ты так действуешь, но ведь тут нет никого, кто следил бы за каждым твоим движением и словом, верно?
 
 # Original: That is...
 Фауст: Это...
 
 # Original: Haaah...
-Измаил: Хааах...
+Измаил: Хааа...
 
 # Original: ... But not everyone was willing to let this go without saying their piece.
-Рассказчик: ... Но не все были готовы оставить это без комментариев.
+Рассказчик: ... Но не все были готовы оставить произошедшее без комментариев.
 
 # Original: ... Next time, I will take your inputs into account.
-Фауст: ... В следующий раз я учту ваши мнения.
+Фауст: ... В следующий раз я приму ваши мнения во внимание.
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: ... And that's everything I can do for her. It's an undeniable truth that Faust has disappointed the Sinners with what she's done.
-Рассказчик: ... И это всё, что я могу сделать для неё. Неоспоримая истина в том, что Фауст разочаровала Грешников своими действиями.
+Рассказчик: ... И это всё, что я могу для неё сделать. Нет никаких сомнений, что Фауст разочаровала Грешников своими действиями.
 
 # Original: But she is Faust, after all. I'm sure she has backup plans of backup plans to get us out of this situation.
-Рассказчик: Но она всё-таки Фауст. Я уверен, у неё есть запасные планы запасных планов, чтобы вытащить нас из этой ситуации.
+Рассказчик: Но она всё-таки Фауст. Я уверен, у неё есть запасные планы для запасных планов, которые смогут вытащить нас из этой ситуации.
 
 # Original: Hm. So what's next on our agenda?
 Отис: Хм. Так что дальше в нашей повестке дня?
 
 # Original: Yeah~ What's done is done, right? Besides, it's not like we gotta rot away for thousands of years inside this metal box.
-Родион: Да~ Что сделано, то сделано, верно? К тому же, нам же не придётся гнить тысячи лет внутри этой металлической коробки.
+Родион: Ага~ Что сделано, то сделано, так? К тому же, не то чтобы нам придётся гнить внутри этой металлической коробки тысячи лет.
 
 # Original: ... That, is something I must first discuss with Dante.
 Фауст: ... Это то, что я должна сначала обсудить с Данте.
@@ -322,10 +322,10 @@
 Фауст: Я рекомендую тебе понизить голос с этого момента, Данте.
 
 # Original: <Wh... why are we whispering...?>
-Данте: <П-почему мы шепчем...?>
+Данте: <П-почему мы шепчемся...?>
 
 # Original: Her secretive attitude only served to exacerbate my already-battered sense of safety...
-Рассказчик: Её скрытность только усугубила моё и без того уже изрядно потрёпанное чувство безопасности...
+Рассказчик: Её скрытность только расшатала моё и без того уже изрядно потрёпанное чувство безопасности...
 
 # Original: ... My connection to Gesellschaft... I mean, Faust, has been severed.
 Фауст: ... Моя связь с Гезельшафтом... то есть, Фауст, была прервана.
@@ -337,4 +337,4 @@
 Фауст: Я... не могу получить доступ к знаниям Фауст в данный момент.
 
 # Original: I guess I was absolutely right to be anxious.
-Рассказчик: Похоже, я был абсолютно прав, беспокоясь.
+Рассказчик: Похоже, у меня были все основания беспокоиться.
