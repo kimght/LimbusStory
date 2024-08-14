@@ -8,10 +8,10 @@
 Рассказчик: Забрались в наши шикарные капсулы мгновенной заморозки первого класса, и...
 
 # Original: ... we were supposed to arrive at P Corp. after a quick blink of an eye, but...
-Рассказчик: ... мы должны были прибыть в Корпорацию P. и глазом не моргнув, но...
+Рассказчик: ... мы должны были прибыть в Корпорацию P, даже глазом не моргнув, но...
 
 # Original: Dante, please respond. There's—
-Фауст: Данте, пожалуйста, ответьте. Тут—
+Фауст: Данте, пожалуйста, ответь. Тут—
 
 # Original: The first thing I saw when my vision returned was the perplexed look on Faust,
 # who had entered hibernation at the same time as I did...
@@ -52,7 +52,7 @@
 Рассказчик: Ага. Так все и началось.
 
 # Original: There I was, still perplexed by the incidents at T Corp., with my awful idea of clearing the air by asking Vergilius for our next destination. Not knowing the storm that my innocent question would bring.
-Рассказчик: Мне, все еще растерянному после инцидента в Корпорации Т., пришла в голову ужасная идея разрешить напряжение, спросив у Вергилия о нашем следующем пункте назначения. Я и не знал, какую бурю вызовет мой невинный вопрос.
+Рассказчик: Мне, все еще растерянному после инцидента в Корпорации Т, пришла в голову ужасная идея разрешить напряжение, спросив у Вергилия о нашем следующем пункте назначения. Я и не знал, какую бурю вызовет мой невинный вопрос.
 
 # Original: V-V-V-V-V-Verily, I must have misheard thee!?
 Дон Кихот: В-в-в-воистину, я, должно быть, ослышалась!?
@@ -61,13 +61,13 @@
 Вергилий: Я уверен, что ты все правильно расслышала, Дон Кихот.
 
 # Original: We are now en route to the T Corp. WARP train station.
-Вергилий: Мы сейчас направляемся к станции WARP поезда Корпорации Т.
+Вергилий: Мы сейчас направляемся к станции для WARP поездов Корпорации Т.
 
 # Original: That whuh-WARP train station must have some conundrum that must be resolved there, indeed? A-a quest that must be swiftly addressed *at* the station, yes?
 Дон Кихот: На этой... эм, станции ВАРП поезда, должно быть, возникла какая-то ситуация, которую нужно разрешить, не так ли? З-задание, которое нужно будет быстро выполнить *на* станции, да?
 
 # Original: Did a Distortion pop up at one of the WARP platforms or something?
-Грегор: Может, на одной из платформ WARPа появилось Искажение или что-то в этом роде?
+Грегор: Может, на одной из платформ WARP'а появилось Искажение или что-то в этом роде?
 
 # Original: I see that you are now significantly less disinclined to take on some side jobs. But no.
 Вергилий: Я вижу, что теперь вы гораздо менее склонны отказываться от побочных заданий. Но нет.
@@ -97,7 +97,7 @@
 И Сан: Хотя у меня и есть смутные, если вообще присутствующие, воспоминания о времени, когда я ношу Идентичности...
 
 # Original: Mm. It can be determined from the conversational records between the Manager and the Identities that the mechanisms behind WARP trains' operations can be deemed as somewhat bizarre and inefficient.
-Мерсо: Мм. Из записей разговоров между Менеджером и Личностями можно определить, что механизмы работы WARP поездов могут быть охарактеризованы как в чем-то странные и неэффективные.
+Мерсо: Мм. Из записей разговоров между Менеджером и Идентичностями можно определить, что механизмы работы WARP поездов могут быть охарактеризованы как в чем-то странные и неэффективные.
 
 # Original: Ohh~ Yeah! It's that 10-second trip that actually takes a long, long time~ Right? And when the train reaches the destination, they just wipe the passengers' memories?
 Хон Лу: А~ Да! Это та 10-секундная поездка, которая на самом деле длится очень, очень долго~ Так? И когда поезд прибывает в пункт назначения, они просто стирают память пассажиров?
@@ -118,7 +118,7 @@
 Рассказчик: Я помню, что Фауст объясняла то, как из-за рисков, связанных с подобными влияниями, был введен процесс фильтрации, намеренно блокировавший воспоминания для Грешников.
 
 # Original: That's why the Sinners could use the Identities of some of our worst enemies without getting infected by their philosophies and whatnot...
-Рассказчик: Именно поэтому Грешники могли использовать Идентичности некоторых из наших злейших врагов, не заражаясь их философией и тому подобным...
+Рассказчик: Именно поэтому Грешники могли использовать Идентичности некоторых из наших злейших врагов, не заражаясь их философией и в этом роде...
 
 # Original: ... but it also meant that they couldn't retain any new information that each Identity had to offer. That's why I keep a record of some things that sound particularly important and sometimes share it with the rest of the Sinners.
 Рассказчик: ... но это также означало, что они не могли сохранить для себя ту информацию, которую могла предложить каждая Идентичность. Поэтому я веду записи о некоторых вещах, которые кажутся мне особенно важными, и иногда делюсь ими с остальными Грешниками.
@@ -127,7 +127,7 @@
 Данте: <Мой 'голос' не очень хорошо проходит через Окно, поэтому большая часть нашего общения односторонняя. Но...>
 
 # Original: ... I had an abundance of W Corp. Identities, so it wasn't difficult to piece together the truth behind the trains.
-Рассказчик: ... у меня было достаточно Личностей Корпорации W, поэтому сложить вместе правдое представление о поездах было несложно.
+Рассказчик: ... у меня было достаточно Идентичностей Корпорации W, поэтому сложить вместе правдивое представление о поездах было несложно.
 
 # Original: But... Um...
 Рассказчик: Но... Хм...
@@ -145,13 +145,13 @@
 Дон Кихот: Фауст?! Так ты знала об этом все это время?! И почему же ты не соизволила рассказать мне об этом?!
 
 # Original: Faust has indeed known this all along, as no knowledge is out of Faust's reach. As expected, a solution to your dilemma has already been prepared.
-Фауст: Фауст действительно знала об этом все время, так как нет знаний, недоступных для Фауст. Как и ожидалось, разрешение вашей проблемы уже подготовлено.
+Фауст: Фауст действительно знала об этом все время, так как не существует знаний, недоступных для Фауст. Как и следовало ожидать, решение вашей проблемы уже было подготовлено.
 
 # Original: I serioiusly doubt your solution involves *not* getting on the train, so what is it?
 Измаил: Я серьезно сомневаюсь, что твое решение включает в себя возможность *не* садиться на поезд, так что же это?
 
 # Original: The bus... oh, what about this bus? There's no way this thing fits inside a train car!
-Синклер: Автобус... а как насчет автобуса? Нет никакой возможности, чтобы эта штука поместилась внутри вагона поезда!
+Синклер: Автобус... а как насчет автобуса? Не может быть, чтобы эта штука поместилась внутри вагона поезда!
 
 # Original: Charon vetoes, too. No one to feed Mephi when Charon's gone. 
 Харон: Харон тоже против. Некому кормить Мефи, если Харон уйдет.
@@ -169,7 +169,7 @@
 Фауст: ... иметь преимущество посадки в качестве пассажиров первого класса.
 
 # Original: The bus begins to swell with noise again, though in a slightly different air to the alarmed response from earlier.
-Рассказчик: Автобус снова начинает наполняться шумом, хотя и в несколько другой атмосфере, чем встревоженная реакция ранее.
+Рассказчик: Автобус снова начинает наполняться шумом, хотя и в несколько иной атмосфере, чем встревоженная реакция ранее.
 
 # Original: First class passengers...? What, the seats for those pompous toffs?
 Хитклиф: Пассажиры первого класса...? Что, места для этих напыщенных болванов?
@@ -184,7 +184,7 @@
 Родион: Разве билет на одно место в первом классе не стоит как три-четыре месячных зарплаты сотрудника Крыла на первом году работы? Наш бюджет действительно может справиться с оплатой всех наших билетов?
 
 # Original: The company's budget is not a subject that warrants your concern.
-Фауст: Бюджет компании не нуждается в вашем беспокойстве.
+Фауст: Бюджет компании это тема, не нуждающаяся в вашем беспокойстве.
 
 # Original: I heard first class passengers get some cool bonus stuff like... personalized private capsules or something, don't they?
 Грегор: Я слышал, что пассажиры первого класса получают какие-то крутые бонусы, вроде... персонализированных частных капсул или что-то в этом роде, не так ли?
