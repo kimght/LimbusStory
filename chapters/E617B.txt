@@ -92,7 +92,7 @@
 Корректировщик с Севера: Серьезно?!!!
 
 # Original: The Fixer, with a particularly impressive set of prosthetic arms, spent a few minutes venting several of his numerous grievances at us before storming off to a different platform.
-Рассказчик: Корректировщик с впечатляющим набором протезированных рук несколько минут изливал на нас множество своих многочисленные недовольства, прежде чем умчаться на другую платформу.
+Рассказчик: Корректировщик с впечатляющим набором протезированных рук несколько минут изливал на нас свои многочисленные жалобы, прежде чем умчаться на другую платформу.
 
 # Original: Ah, indeed... 'tis grand, this City of sundry odd personalities...
 Дон Кихот: Ах, воистину... сей Город полон разнообразных причудливых личностей...
