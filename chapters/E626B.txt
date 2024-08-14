@@ -1,5 +1,5 @@
 # Original: <So this passageway leads straight into Mephistopheles...?>
-Данте: <так значит, этот проход вел прямо в Мефистофель...?>
+Данте: <Так значит, этот проход вел прямо в Мефистофель...?>
 
 # Original: This is where it all started... This... this stupid bus awoke me from my slumber!
 Кассетти: Вот где всё и началось... Этот... этот глупый автобус пробудил меня ото сна!
