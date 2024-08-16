@@ -74,7 +74,7 @@
 Хон Лу: Мм... я бы сказал, это как менять причёску время от времени!
 
 # Original: Maintaining the exact same style of hair for too long gets pretty boring, you know~
-Хон Лу: Поддерживать один и тот же стиль волос слишком долго становится довольно скучно, знаешь~
+Хон Лу: Поддерживать один и тот же стиль волос слишком долго, становится довольно скучно, знаешь~
 
 # Original: Uh-huh. So that's how, uh, casual a full-on house remodeling is like for rich folks. I see.
 Родион: Ага. Так вот насколько, эм, обыденна полная перепланировка дома для богатых. Понятно.
