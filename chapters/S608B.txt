@@ -5,7 +5,7 @@
 Дон Кихот: Хоть мы давно миновали парадные врата, ни единой души не видать...
 
 # Original: The bubbling excitement of the Sinners when they disembarked the bus had all but disappeared. Silent air of apprehension surrounded them as they gingerly took their hesitant steps toward the manor.
-Рассказчик: Бурлящее возбуждение Грешников, когда они сошли с автобуса, практически исчезло. Их окружала тихая атмосфера тревоги, пока они осторожно делали нерешительные шаги к поместью.
+Рассказчик: Бурлящее воодушевление Грешников, когда они сошли с автобуса, практически исчезло. Их окружала тихая атмосфера тревоги, пока они осторожно делали нерешительные шаги к поместью.
 
 # Original: Cathy! Have you been well? No… Catherine, it has been a while, hasn’t it? No, this ain't it either…
 Хитклиф: Кэти! Как ты поживаешь? Нет... Кэтрин, давно не виделись, не так ли? Нет, и это не то...
@@ -151,7 +151,7 @@
 Рассказчик: Кто-то торопливо бежит к нам от парадной двери поместья, держа фонарь.
 
 # Original: What an awful weather, hmm? Well, T Corp. is… the Wuthering Heights manor is rarely ever sunny, but this is quite the storm!
-Нелли: Какая ужасная погода, да? Ну, Корпорация Т.... то есть, поместье Грозового Перевала редко бывает солнечным, но это просто буря!
+Нелли: Какая ужасная погода, да? Ну, Т Корп... то есть, поместье Грозового Перевала редко бывает солнечным, но это просто буря!
 
 # Original: ... Long...
 Хитклиф: ... Давно...
@@ -292,7 +292,7 @@
 Измаил: Что, типо... вы вытирали Хитклифу сопли, меняли его детскую одежду, и... я правильно понимаю слово "няня"?
 
 # Original: And when the baby’s fussy about the food, nannies spoon-feed it to them.
-Хон Лу: И когда малыш капризничает из-за еды, няни кормят его с ложечки.
+Хон Лу: И когда малыш капризничает из-за еды, няня кормит его с ложечки.
 
 # Original: Oi, Nelly! Quit teasin’ me like that.
 Хитклиф: Эй, Нелли! Хватит меня так дразнить.
@@ -367,7 +367,7 @@
 Синклер: Нельзя скрыть нарастающее чувство ужаса от таких мест. Неважно, как сильно ты стараешься.
 
 # Original: This manor does not appear to have been a place where liveliness is an expected element.
-Мерсо: Это поместье, по-видимому, не было местом, где ожидалась оживленность.
+Мерсо: Это поместье, по-видимому, не было местом, где ожидалась какая либо оживленность.
 
 # Original: I see signs of rushed cleaning, conducted immediately before the guests arrived. Several cracks and areas in need of repair have been identified as well.
 Мерсо: Я вижу признаки поспешной уборки, проведённой непосредственно перед прибытием гостей. Также обнаружено несколько трещин и участков, нуждающихся в ремонте.
