@@ -1,5 +1,5 @@
 # Original: I espy blood, everywhere on the floor...
-Дон Кихот: Я зрю кровь, повсюду на полу...
+Дон Кихот: Я вижу кровь, повсюду на полу...
 
 # Original: I doubt anything nice went down here, that's for sure...
 Родион: Сомневаюсь, что здесь произошло что-то хорошее, это точно...
@@ -23,7 +23,7 @@
 Нелли: Что вы все здесь делаете?
 
 # Original: My, my. If it isn't Nelly, the vagabond child, and his gang o' uninvited guests.
-Жозефина: Ну надо же. Если это не Нелли, бродяжка, и ее банда незваных гостей.
+Жозефина: Ну надо же. Если это не Нелли, бродяжка, и его банда незваных гостей.
 
 # Original: ... Is... is she talking about us?
 Родион: ... Это... она о нас говорит?
@@ -101,7 +101,7 @@
 Родион: Ух, правда? А что, если они забудут, о чем вообще был контракт?
 
 # Original: Ha ha... Still, the contract isn't voided merely because people stop remembering it. Breaking it may invite the Taboo Hunters from an unexpected Nest or Fixers from the Öufi Association we had the pleasure of meeting earlier.
-Нелли: Ха-ха... И все же контракт не аннулируется только потому, что люди перестают его помнить. Его нарушение может привлечь Охотников за Табу из неожиданного Гнезда или Корректировщиков из Ассоциации Öufi, с которыми мы имели удовольствие встретиться ранее.
+Нелли: Ха-ха... И все же контракт не аннулируется только потому, что люди перестают его помнить. Его нарушение может привлечь Охотников за Табу из нежданного Гнезда или Корректировщиков из Ассоциации Оуфи, с которыми мы имели удовольствие встретиться ранее.
 
 # Original: And that Josephine is obsessed with following the long-dead Mistress' orders and won't listen to anyone else.
 Нелли: А эта Жозефина одержима выполнением приказов давно умершей Хозяйки и не будет слушать никого другого.
