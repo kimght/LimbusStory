@@ -23,7 +23,7 @@
 Данте: <Так это их босс...>
 
 # Original: Yes, Executive Manager. It is immediately obvious from the way he walks and from the way he carries himself that he is someone quite experienced in combat.
-Отис: Да, менеджер-распорядитель. По его походке и манере держаться сразу видно, что это человек, весьма опытный в бою.
+Отис: Да, Исполнительный менеджер. По его походке и манере держаться сразу видно, что это человек, весьма опытный в бою.
 
 # Original: Right on time. Your lackeys are… lacking. How could they let these group of no-name hooligans knock them on their arses?
 Хиндли: Как раз вовремя. Твои прихвостни... никуда не годятся. Как они могли позволить этой группе безымянных хулиганов уложить их на лопатки?
