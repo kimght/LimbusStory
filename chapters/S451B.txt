@@ -8,7 +8,7 @@
 Фауст: Данте, чувствуешь ли ты присутствие Золотой Ветви поблизости?
 
 # Original: Last time I saw, the Golden Bough was lodged into Dongbaek's body...
-Фауст: В последний раз, когда я видела, Золотая Ветвь была воткнута в тело Донгбек...
+Фауст: В последний раз, когда я видела, Золотая Ветвь была воткнута в тело Донбек...
 
 # Original: <I can't find her corpse anywhere... Must have been moved away when the space twisted.>
 Данте: <Я нигде не могу найти ее труп... Должно быть, его унесло, когда пространство исказилось.>
@@ -20,7 +20,7 @@
 Синклер: Ах, я тоже не вижу Донрана.
 
 # Original: He's likely to be in the same location as the deceased Dongbaek.
-Фауст: Вероятно, он находится в том же месте, что и покойная Донгбек.
+Фауст: Вероятно, он находится в том же месте, что и покойная Донбек.
 
 # Original: Until now... we've experienced the fathoms of ego at the same time. I guess it's thanks to Dante's particular... affinity, if that makes sense...?
 Синклер: До сих пор... мы испытывали глубины эго одновременно. Полагаю, это благодаря особой... близости Данте, если можно так выразиться...?

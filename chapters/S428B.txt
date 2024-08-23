@@ -11,10 +11,10 @@
 Донран: И Сан, ты опять всю ночь работал над исследованиями? Я же тебе говорю, пропускать сон — это верная смерть.
 
 # Original: He's something else. Remember how he'd forget to eat or sleep when he got into something?
-Донгбек: Он неисправим. Помнишь, как он забывал есть и спать, когда увлекался чем-то?
+Донбек: Он неисправим. Помнишь, как он забывал есть и спать, когда увлекался чем-то?
 
 # Original: He can't be helped, Dongbaek. So... what do you plan to show us at this illuminators' conference?
-Донран: С ним ничего не поделаешь, Донгбек. Так... что ты планируешь показать нам на этой конференции просветителей?
+Донран: С ним ничего не поделаешь, Донбек. Так... что ты планируешь показать нам на этой конференции просветителей?
 
 # Original: I can't help but look forward to something you've been working on tirelessly in your room.
 Донран: Не могу не ждать с нетерпением то, над чем ты так неустанно трудился в своей комнате.
@@ -50,7 +50,7 @@
 Рассказчик: Вспышка света вырвалась из Золотой Ветви в момент, когда она пронзила его грудь, на мгновение ослепив всех...
 
 # Original: And Dongbaek had disappeared in the meantime.
-Рассказчик: А Донгбек тем временем исчезла.
+Рассказчик: А Донбек тем временем исчезла.
 
 # Original: The smiles the people in the photograph made at each other were nowhere to be seen now.
 Рассказчик: Улыбки людей на фотографии, обращённые друг к другу, теперь нигде не было видно.
@@ -59,7 +59,7 @@
 Рассказчик: А Донран устремил взгляд в пустоту, оценивая ситуацию, в которую мы попали.
 
 # Original: ...I'm sure Dongbaek's plan was to stab me.
-Донран: ...Я уверен, что план Донгбек заключался в том, чтобы ударить меня.
+Донран: ...Я уверен, что план Донбек заключался в том, чтобы пронзить меня.
 
 # Original: Shrenne and Ran probably told her that I brought help from the outside...
 Донран: Шренн и Ран, вероятно, сказали ей, что я привёл помощь извне...
@@ -119,7 +119,7 @@
 Рассказчик: На этот раз он, похоже, не собирался уклоняться от моего вопроса.
 
 # Original: I was once part of an organization named the League of Nine. Gubo, Dongrang, and Dongbaek, the one who stabbed my chest. Those faces you have seen were members of it as well, manager.
-И Сан: Когда-то я был частью организации под названием Лига Девяти. Губо, Донран и Донгбек, та, что пронзила мою грудь. Те лица, которые вы видели, тоже были её членами, менеджер.
+И Сан: Когда-то я был частью организации под названием Лига Девяти. Губо, Донран и Донбек, та, что пронзила мою грудь. Те лица, которые вы видели, тоже были её членами, менеджер.
 
 # Original: However, it disbanded and scattered one day. Each of us was flown away into our own path.
 И Сан: Однако однажды она распалась и рассеялась. Каждый из нас полетел своим путём.
