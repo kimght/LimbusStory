@@ -140,7 +140,7 @@
 Данте: <…….>
 
 # Original: Demian... he's appeared before me in the past. He would always leave me with these cryptic riddles.
-Рассказчик: Демиан... он появлялся передо мной и раньше. Он всегда оставлял меня с этими непонятыми загадками.
+Рассказчик: Демиан... он появлялся передо мной и раньше. Он всегда оставлял меня с этими непонятными загадками.
 
 # Original: But I'm starting to understand what his riddles are supposed to represent.
 Рассказчик: Но я начинаю понимать, что должны означать его загадки.
