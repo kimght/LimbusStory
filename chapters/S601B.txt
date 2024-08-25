@@ -194,7 +194,7 @@
 Рассказчик: С раздраженным видом Родя указала на людей за пределами автобуса.
 
 # Original: A sufficient amount of payment must be made in order to retrieve your colors. It must be emphasized that this question has been repeatedly answered on twenty-three separate occasions.
-Фауст: Для восстановления ваших цветов необходимо произвести достаточную оплату. Следует подчеркнуть, что на этот вопрос были дан ответ в двадцати трех отдельных случаях.
+Фауст: Для восстановления ваших цветов необходимо произвести достаточную оплату. Следует подчеркнуть, что на этот вопрос был дан ответ в двадцати трех отдельных случаях.
 
 # Original: Well, let me have a gander. His coat, his trousers...
 Хитклиф: Ну, дайте-ка взглянуть. Его пальто, его брюки...
