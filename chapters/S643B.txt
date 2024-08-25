@@ -26,7 +26,7 @@
 Нелли: Тогда вам, должно быть, пришлось сражаться со многими людьми во время вашего путешествия.
 
 # Original: Hm. I suppose every day's been like a battlefield. We've all seen more than enough of our share of battles.
-Грегор: Хм. Полагаю, каждый день был как на поле боя. Мы все насмотрелись более чем достаточно сражений.
+Грегор: Хм. Полагаю, каждый день был как на поле боя. Мы все повидали на свою долю более чем достаточно сражений.
 
 # Original: Can't say I disagree with that comparison. Except we have tasted nothing but victory so far.
 Отис: Не могу не согласиться с этим сравнением. За исключением того, что до сих пор мы пробовали на вкус только победу.
