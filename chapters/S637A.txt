@@ -32,7 +32,7 @@
 Линтон: Как я всегда говорил тебе... У меня нет сожалений.
 
 # Original: I merely think that... we were both walking in different paces.
-Линтон: Я просто думаю, что... мы шли разными темпами.
+Линтон: Я просто думаю, что... мы оба шли в разном темпе.
 
 # Original: And you always happened to walk ahead of me.
 Линтон: И ты всегда оказывалась впереди меня.
@@ -173,7 +173,7 @@
 Асеа: Если бы директор Герман или кто-то из других руководителей услышали то, что ты сказал, я уверен, они бы использовали все возможные средства, чтобы заполучить тебя.
 
 # Original: Mother... dammit, I knew that woman would be...!
-Грегор: Мать... черт возьми, я знал, что эта женщина будет...!
+Грегор: Мама... черт возьми, я знал, что эта женщина будет...!
 
 # Original: The 'dough', the being you refer to as a human... I presume that one could apply any Identity from any possibility, no matter how distant and irrelevant the world, to that being...
 И Сан: "Тесто", существо, которое вы называете человеком... Я полагаю, что к этому существу можно применить любую Идентичность из любой возможности, независимо от того, насколько далек и несвязан мир...
@@ -203,7 +203,7 @@
 Асеа: …….
 
 # Original: Correct. The Golden Bough acts as a lightning rod, draws the merciless strikes of lightning, then harnesses it into a form of energy for itself. Your breadth of knowledge is starting to get unsettling.
-Асеа: Верно. Золотая Ветвь действует как громоотвод, притягивает беспощадные удары молний, а затем преобразует их в энергию для себя. Твоя широта знаний начинает пугать.
+Асеа: Верно. Золотая Ветвь действует как громоотвод, притягивая беспощадные удары молний, а затем преобразуя их в энергию для себя. Твоя широта знаний начинает пугать.
 
 # Original: Well, now that everything is in order... I must really make my exit.
 Асеа: Что ж, теперь, когда все в порядке... Я действительно должен уйти.
@@ -221,7 +221,7 @@
 Асеа: Сын директора Германа, верно? Я слышал, что ты ветеран Дымовой Войны. Тогда, возможно, это зрелище покажется тебе знакомым, хотя и немного отличающимся в некоторых местах.
 
 # Original: And Yi Sang, my dear fellow.
-Асеа: И И Сан, мой дорогой коллега.
+Асеа: А и конечно же И Сан, мой дорогой коллега.
 
 # Original: Live. So that I may have aught to look forward to in the time I have left.
 Асеа: Живи. Чтобы у меня было чего ждать в оставшееся мне время.
