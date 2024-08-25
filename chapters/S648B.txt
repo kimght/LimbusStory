@@ -11,7 +11,7 @@
 Данте: <Седьмая молния ударила...>
 
 # Original: <She's... being overwritten by a Catherine from a different world...>
-Данте: <Она... перезаписывается Кэтрин из другого мира...>
+Данте: <Она... перезаписывается на Кэтрин из другого мира...>
 
 # Original: Please don't do this, Catherine.
 Хитклиф: Пожалуйста, не делай этого, Кэтрин.
@@ -59,7 +59,7 @@
 Хитклиф из Зеркального Мира: Кэти! Ты здесь, где-то...! Где ты?!
 
 # Original: <The Identity... something's gone wrong with the summoning.>
-Данте: <Личность... что-то пошло не так с призывом.>
+Данте: <Идентичность... что-то пошло не так с призывом.>
 
 # Original: It is likely that Miss Catherine's will is intervening in the summoning.
 Фауст: Вероятно, воля мисс Кэтрин вмешивается в призыв.
