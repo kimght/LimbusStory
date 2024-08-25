@@ -61,19 +61,19 @@
 Хон Лу: И все же их можно было увидеть вблизи.
 
 # Original: Is this why I haven't been able to see you lately? To discover this? I thought you caved to your yearning for rice and went back to S Corp's district...
-Донгбек: Так вот почему я не могла тебя найти в последнее время? Чтобы открыть это? Я думала, ты поддался тоске по рису и вернулся в район Корпорации S...
+Донбек: Так вот почему я не могла тебя найти в последнее время? Чтобы открыть это? Я думала, ты поддался тоске по рису и вернулся в район Корпорации S...
 
 # Original: I'll say, though... This isn't half bad.
-Донгбек: Скажу так... Это не так уж плохо.
+Донбек: Скажу так... Это не так уж плохо.
 
 # Original: Dongrang, why are you laughing like that?
-Донгбек: Донран, почему ты так смеешься?
+Донбек: Донран, почему ты так смеешься?
 
 # Original: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
 Донран: Просто забавно, что ты говоришь так свирепо, когда твои глаза полны любопытных искорок.
 
 # Original: Yi Sang, will you tell him to shut it?
-Донгбек: И Сан, не мог бы ты сказать ему заткнуться?
+Донбек: И Сан, не мог бы ты сказать ему заткнуться?
 
 # Original: Why don't you first hide your facial recreation of a child who's tried ice cream for the first time?
 Донран: Почему бы тебе сначала не скрыть выражение лица ребенка, который впервые попробовал мороженое?
@@ -85,7 +85,7 @@
 Дон Кихот: ...Что еще мне добавить? Похоже, все уже единодушны.
 
 # Original: ...If you're trying to be an odd one out, at least have some audacity. Some cold fish you are.
-Донгбек: ...Если ты пытаешься выделиться, то хотя бы имей смелость. Ну и бесчувственный же ты.
+Донбек: ...Если ты пытаешься выделиться, то хотя бы имей смелость. Ну и бесчувственный же ты.
 
 # Original: I see... So this... is how you view the world.
 Хон Лу: Понятно... Так вот... как ты видишь мир.
@@ -133,13 +133,13 @@
 Донран: Слушай, что же ты такое...
 
 # Original: Pft... Yi Sang. That was the second funniest moment I've seen out of you.
-Донгбек: Пфф... И Сан. Это был второй самый смешной момент, который я видела от тебя.
+Донбек: Пфф... И Сан. Это был второй самый смешной момент, который я видела от тебя.
 
 # Original: The first is... y'know, when the yellow calf was being fed milk, and it suddenly licked his hair... Pfh...
-Донгбек: Первый... знаешь, когда желтого теленка кормили молоком, и он вдруг лизнул его волосы... Пфх...
+Донбек: Первый... знаешь, когда желтого теленка кормили молоком, и он вдруг лизнул его волосы... Пфх...
 
 # Original: True, I've never seen Dongbaek laugh as loudly as then.
-Донран: Верно, я никогда не видел, чтобы Донгбек смеялась так громко, как тогда.
+Донран: Верно, я никогда не видел, чтобы Донбек смеялась так громко, как тогда.
 
 # Original: T-That... I think we'd best forget...
 И Сан: Э-это... Я думаю, нам лучше забыть об этом...

@@ -20,7 +20,7 @@
 Донран: Поэтому я всегда смотрю на неё с благодарностью и жалостью.
 
 # Original: I see now... That's what Ran told me about.
-Донгбек: Теперь я понимаю... Вот о чём мне говорила Ран.
+Донбек: Теперь я понимаю... Вот о чём мне говорила Ран.
 
 # Original: The voice of a person we've been desperately looking for was heard.
 Рассказчик: Прозвучал голос человека, которого мы отчаянно искали.
@@ -32,7 +32,7 @@
 Рассказчик: Казалось, что какая-то прозрачная вуаль спала, когда она поднялась...
 
 # Original: And Dongbaek was looking at us.
-Рассказчик: И Донгбек смотрела на нас.
+Рассказчик: И Донбек смотрела на нас.
 
 # Original: Ahh~ I've been wondering how, and now I know the answer.
 Донран: А-а~ Я всё гадал, как это произошло, и теперь я знаю ответ.
@@ -59,13 +59,13 @@
 Измаил: ...Кхм.
 
 # Original: ……
-Донгбек: ......
+Донбек: ......
 
 # Original: It's an expensive Singularity-based item only famous Fixers, Wing executives, or the richest classes could afford... Even if I asked how you got it, you won't answer me, will you?
 Донран: Это дорогой предмет на основе Сингулярности, который могут позволить себе только известные Корректировщики, руководители Крыльев или самые богатые классы... Даже если я спрошу, как ты его получила, ты ведь не ответишь, верно?
 
 # Original: Is what I'm seeing the truth behind regeneration ampules?
-Донгбек: То, что я вижу – это правда о регенерационных ампулах?
+Донбек: То, что я вижу – это правда о регенерационных ампулах?
 
 # Original: ...Yes, that's right. The source of the ampules you're hellbent on destroying.
 Донран: ...Да, верно. Источник ампул, которые ты так стремишься уничтожить.
@@ -77,22 +77,22 @@
 Самджо: Позволь задать тебе вопрос: Разве ты не знаешь, сколько жизней могут спасти эти ампулы?
 
 # Original: These regeneration ampules don't simply regenerate the body.
-Донгбек: Эти регенерационные ампулы не просто восстанавливают тело.
+Донбек: Эти регенерационные ампулы не просто восстанавливают тело.
 
 # Original: These tears can kill as easily as they can save.
-Донгбек: Эти слезы могут убивать так же легко, как и спасать.
+Донбек: Эти слезы могут убивать так же легко, как и спасать.
 
 # Original: Hah... Are you trying to suggest that these tears kill people?
 Самджо: Ха... Ты пытаешься утверждать, что эти слезы убивают людей?
 
 # Original: I have nothing more to say to you if you won't believe me even after seeing it happen several times already.
-Донгбек: Мне больше нечего тебе сказать, если ты не поверишь мне даже после того, как уже несколько раз видел это своими глазами.
+Донбек: Мне больше нечего тебе сказать, если ты не поверишь мне даже после того, как уже несколько раз видел это своими глазами.
 
 # Original: Fine then, will you concede if I prove their safety by walking into this pool?
 Самджо: Хорошо, тогда ты признаешь свою неправоту, если я докажу их безопасность, войдя в этот резервуар?
 
 # Original: What?
-Донгбек: Что?
+Донбек: Что?
 
 # Original: Don't slander Mr. Dongrang with your baseless claims. Countless people have recovered from life-threatening conditions thanks to this technology.
 Самджо: Не клевещи на господина Донрана своими беспочвенными заявлениями. Бесчисленное количество людей оправилось от опасных для жизни состояний благодаря этой технологии.
@@ -212,19 +212,19 @@
 Донран: В результате она устраняет боль, но, ну...
 
 # Original: So, are you satisfied, Dongbaek? You were right, and Samjo probably turned into the original form of humanity or something like that in the vat of tears. Congratulations. Now, what do you really want?
-Донран: Итак, ты удовлетворена, Донгбек? Ты была права, и Самджо, вероятно, превратился в изначальную форму человечества или что-то в этом роде в чане со слезами. Поздравляю. Теперь, чего ты действительно хочешь?
+Донран: Итак, ты удовлетворена, Донбек? Ты была права, и Самджо, вероятно, превратился в изначальную форму человечества или что-то в этом роде в чане со слезами. Поздравляю. Теперь, чего ты действительно хочешь?
 
 # Original: ……
-Донгбек: ......
+Донбек: ......
 
 # Original: The Singularity. Permanently destroying it and everything related by using the concept incinerator.
-Донгбек: Сингулярность. Навсегда уничтожить её и всё, что с ней связано, используя концептуальный инсинератор.
+Донбек: Сингулярность. Навсегда уничтожить её и всё, что с ней связано, используя концептуальный инсинератор.
 
 # Original: Concept incinerator, huh. You'll use it again?
 Донран: Концептуальный инсинератор, да? Ты снова его используешь?
 
 # Original: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
-Донран: Итак, Донгбек... Допустим, тебе удастся вернуться в эпоху небытия... Что дальше?
+Донран: Итак, Донбек... Допустим, тебе удастся вернуться в эпоху небытия... Что дальше?
 
 # Original: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
 Донран: Рубить деревья, строить хижины, делать одежду из кожи... Это тот образ жизни, которого ты хочешь?
@@ -233,19 +233,19 @@
 Донран: Оплакивать потерянные жизни деревьев и животных, которых ты убила?
 
 # Original: Look, Dongbaek... With an attitude like that... you'll be nothing more than a primitive amateur. Are you really sure that's what you want?
-Донран: Послушай, Донгбек... С таким отношением... ты будешь не более чем примитивным любителем. Ты действительно уверена, что этого хочешь?
+Донран: Послушай, Донбек... С таким отношением... ты будешь не более чем примитивным любителем. Ты действительно уверена, что этого хочешь?
 
 # Original: You... always ask stupid questions, then and now.
-Донгбек: Ты... всегда задаешь глупые вопросы, и тогда, и сейчас.
+Донбек: Ты... всегда задаешь глупые вопросы, и тогда, и сейчас.
 
 # Original: We decided to use vile technology as tools to get rid of their vile creators.
-Донгбек: Мы решили использовать отвратительные технологии как инструменты, чтобы избавиться от их отвратительных создателей.
+Донбек: Мы решили использовать отвратительные технологии как инструменты, чтобы избавиться от их отвратительных создателей.
 
 # Original: Thus, no one can remain in the future we envision.
-Донгбек: Таким образом, никто не сможет остаться в будущем, которое мы представляем.
+Донбек: Таким образом, никто не сможет остаться в будущем, которое мы представляем.
 
 # Original: That's why we could be free. From the obsession with survival.
-Донгбек: Вот почему мы могли быть свободными. От одержимости выживанием.
+Донбек: Вот почему мы могли быть свободными. От одержимости выживанием.
 
 # Original: Haha, what are you talking about? So you weren't envisioning a future; you just can't let go of the past.
 Донран: Ха-ха, о чем ты говоришь? Так ты не представляла будущее; ты просто не можешь отпустить прошлое.
@@ -257,22 +257,22 @@
 И Сан: Я не хочу, чтобы старые распри повторялись перед моими глазами.
 
 # Original: Yi Sang, you look fine.
-Донгбек: И Сан, ты выглядишь нормально.
+Донбек: И Сан, ты выглядишь нормально.
 
 # Original: You say it like you're relieved. Didn't you want him...
 Грегор: Ты говоришь так, будто испытываешь облегчение. Разве ты не хотела, чтобы он...
 
 # Original: You're right. I wanted him to die.
-Донгбек: Ты прав. Я хотела, чтобы он умер.
+Донбек: Ты прав. Я хотела, чтобы он умер.
 
 # Original: But I'm sure he wished for the same.
-Донгбек: Но я уверена, что он желал того же.
+Донбек: Но я уверена, что он желал того же.
 
 # Original: He wouldn't resist while it dug into his heart.
-Донгбек: Он бы не сопротивлялся, пока оно вгрызалось в его сердце.
+Донбек: Он бы не сопротивлялся, пока оно вгрызалось в его сердце.
 
 # Original: It was unpleasant. It felt like I was granting your wish.
-Донгбек: Это было неприятно. Казалось, будто я исполняю твое желание.
+Донбек: Это было неприятно. Казалось, будто я исполняю твое желание.
 
 # Original: ……
 И Сан: ......
@@ -281,19 +281,19 @@
 Грегор: Мне кажется, у вас обоих не все дома. Вы думаете, что сталкивание кого-то с обрыва можно оправдать тем, что этот человек колебался?
 
 # Original: Hesi— Haah, why don't we hear it from the person himself, then?
-Донгбек: Коле— Хаах, почему бы нам не услышать это от самого человека?
+Донбек: Коле— Хаах, почему бы нам не услышать это от самого человека?
 
 # Original: ...I have no words to say.
 И Сан: ...Мне нечего сказать.
 
 # Original: This conversation is over, then.
-Донгбек: Тогда этот разговор окончен.
+Донбек: Тогда этот разговор окончен.
 
 # Original: I'm frankly glad it is.
-Донгбек: Честно говоря, я рада этому.
+Донбек: Честно говоря, я рада этому.
 
 # Original: I'll take this opportunity to kill two of my old companions with my own hands.
-Донгбек: Я воспользуюсь этой возможностью, чтобы убить двух моих старых товарищей собственными руками.
+Донбек: Я воспользуюсь этой возможностью, чтобы убить двух моих старых товарищей собственными руками.
 
 # Original: Then I'll seize and burn the Singularity.
-Донгбек: Затем я захвачу и сожгу Сингулярность.
+Донбек: Затем я захвачу и сожгу Сингулярность.

@@ -53,16 +53,16 @@
 Донран: Судя по всему... Нам придется читать этот сценарий вслух, верно?
 
 # Original: Maybe Dongbaek might just come, Yi Sang.
-Донран: Может быть, Донгбек тоже придет, И Сан.
+Донран: Может быть, Донбек тоже придет, И Сан.
 
 # Original: If Dongbaek got to this... space before she died... Haha, I'm not sure what I should call this.
-Донран: Если Донгбек попала в это... пространство до своей смерти... Хаха, я не уверен, как это назвать.
+Донран: Если Донбек попала в это... пространство до своей смерти... Хаха, я не уверен, как это назвать.
 
 # Original: Anyway, if the entrance opened while she was alive... Her consciousness might have been wrapped up in this, as ours were.
 Донран: В любом случае, если вход открылся, пока она была жива... Ее сознание могло быть завернуто в это, как и наше.
 
 # Original: ...For what reason did you stab Dongbaek?
-И Сан: ...По какой причине ты заколол Донгбек?
+И Сан: ...По какой причине ты заколол Донбек?
 
 # Original: She hesitated a little too much... What, did you want this kind of eulogy from me?
 Донран: Она слишком долго колебалась... Что, ты хотел от меня такого рода эпитафию?
@@ -71,7 +71,7 @@
 И Сан: ...Причину, я хочу ее услышать.
 
 # Original: No, it's really... You knew as well, Yi Sang. In that state, Dongbaek's death was imminent... Her life would've painfully scattered away if I let her be.
-Донран: Нет, на самом деле... Ты и сам знал, И Сан. В том состоянии смерть Донгбек была неизбежна... Ее жизнь болезненно рассеялась бы, если бы я ее оставил.
+Донран: Нет, на самом деле... Ты и сам знал, И Сан. В том состоянии смерть Донбек была неизбежна... Ее жизнь болезненно рассеялась бы, если бы я ее оставил.
 
 # Original: That's why you can't lash out at me, despite the anger boiling inside you. It wouldn't have made much of a difference.
 Донран: Вот почему ты не можешь набрасываться на меня, несмотря на кипящий внутри гнев. Это не сильно бы изменило ситуацию.
@@ -110,13 +110,13 @@
 Донран: Какая интересная реплика.
 
 # Original: ...Why did you stand in front of the door like a dork?
-Донгбек: ...Почему ты стоял перед дверью как дурак?
+Донбек: ...Почему ты стоял перед дверью как дурак?
 
 # Original: ...What did you call me? Wait... Aren't you the one that just...
 Хитклиф: ...Как ты меня назвала? Подожди... Разве ты не та, которая только что...
 
 # Original: What are you staring at my face for, like you were looking at a dead person? Why, do I look cool?
-Донгбек: Что ты уставился на мое лицо, словно смотришь на мертвеца? Что, я выгляжу круто?
+Донбек: Что ты уставился на мое лицо, словно смотришь на мертвеца? Что, я выгляжу круто?
 
 # Original: S-She's right, Gap-ryong, don't act like such a country bumpkin. Do you want your mannerisms to match your name?
 Синклер: С-Она права, Гап-рён, не веди себя как деревенщина. Хочешь, чтобы твои манеры соответствовали твоему имени?
@@ -128,10 +128,10 @@
 Синклер: (Ох, я просто читаю по сценарию, мистер Хитклиф. Сценарий...! Так написано в моем.)
 
 # Original: What are you whispering like that?
-Донгбек: О чем вы там шепчетесь?
+Донбек: О чем вы там шепчетесь?
 
 # Original: You know, Dongbaek. Gap-ryong was thinking back to how we all managed to gather here at T Corp.
-Донран: Знаешь, Донгбек. Гап-рён вспоминал, как мы все оказались здесь в Корп. T.
+Донран: Знаешь, Донбек. Гап-рён вспоминал, как мы все оказались здесь в Корп. T.
 
 # Original: That really bugs me... Oi, don't call me by that name.
 Хитклиф: Меня это реально бесит... Эй, не называй меня этим именем.
@@ -164,7 +164,7 @@
 Отис: Именно тогда Брат Ён-джи собрал нас вместе.
 
 # Original: Ah... I was the one who called Yi Sang and Dongbaek. We grew up in the same town.
-Донран: Ах... Это я позвал И Сана и Донгбек. Мы выросли в одном городе.
+Донран: Ах... Это я позвал И Сана и Донбек. Мы выросли в одном городе.
 
 # Original: ...Right, Brother Young-ji and Dongrang brought us together.
 Отис: ...Верно, Брат Ён-джи и Донран собрали нас вместе.
@@ -212,37 +212,37 @@
 Синклер: ......
 
 # Original: Hey, Aneung, are you gonna keep chatting away?
-Донгбек: Эй, Анын, ты собираешься продолжать болтать?
+Донбек: Эй, Анын, ты собираешься продолжать болтать?
 
 # Original: The conference is today. Watch, I've made a vibrant amusement.
-Донгбек: Сегодня конференция. Смотри, я создала яркое развлечение.
+Донбек: Сегодня конференция. Смотри, я создала яркое развлечение.
 
 # Original: Look. It blows up better than before, doesn't it?
-Донгбек: Смотри. Оно взрывается лучше, чем раньше, не так ли?
+Донбек: Смотри. Оно взрывается лучше, чем раньше, не так ли?
 
 # Original: I have to wonder what is up with your obsession with explosives... I mean, fireworks, Dongbaek...
-Измаил: Интересно, что у тебя за одержимость взрывчатыми веществами... То есть, фейерверками, Донгбек...
+Измаил: Интересно, что у тебя за одержимость взрывчатыми веществами... То есть, фейерверками, Донбек...
 
 # Original: Here, you can't see stars in the night sky thanks to blinding lights and smokestacks filling the air. The stars were so pretty in my hometown, it was fun watching them together.
-Донгбек: Здесь не видно звезд в ночном небе из-за ослепляющих огней и дымовых труб, заполняющих воздух. Звезды в моем родном городе были такими красивыми, было весело наблюдать за ними вместе.
+Донбек: Здесь не видно звезд в ночном небе из-за ослепляющих огней и дымовых труб, заполняющих воздух. Звезды в моем родном городе были такими красивыми, было весело наблюдать за ними вместе.
 
 # Original: What's more, there's no color here. Where we were, we could at least see the colors of flowers.
-Донгбек: Более того, здесь нет цвета. Там, где мы были, мы могли хотя бы видеть цвета цветов.
+Донбек: Более того, здесь нет цвета. Там, где мы были, мы могли хотя бы видеть цвета цветов.
 
 # Original: So... I wanted to bring it back in some way.
-Донгбек: Поэтому... Я хотела как-то вернуть это.
+Донбек: Поэтому... Я хотела как-то вернуть это.
 
 # Original: Look. Even if it's all black and white, you can still see it, right?
-Донгбек: Смотри. Даже если все черно-белое, ты все равно можешь это видеть, верно?
+Донбек: Смотри. Даже если все черно-белое, ты все равно можешь это видеть, верно?
 
 # Original: Fire makes such a warm color.
-Донгбек: Огонь создает такой теплый цвет.
+Донбек: Огонь создает такой теплый цвет.
 
 # Original: I'm a bit embarrassed. I don't have anything to show off for now.
 Донран: Мне немного стыдно. Мне пока нечем похвастаться.
 
 # Original: Is that really something to admit so merrily?
-Донгбек: Это действительно то, в чем стоит так весело признаваться?
+Донбек: Это действительно то, в чем стоит так весело признаваться?
 
 # Original: Haha, treating injured animals on the streets took much of my time.
 Донран: Хаха, лечение раненых животных на улицах занимало много моего времени.
@@ -251,19 +251,19 @@
 Донран: Я не мог оставить их. Они напоминали мне о желтом теленке, которого я оставил в родном городе.
 
 # Original: It used to like you so much. I don't get what it saw in you.
-Донгбек: Он так тебя любил. Не понимаю, что он в тебе нашел.
+Донбек: Он так тебя любил. Не понимаю, что он в тебе нашел.
 
 # Original: It was abandoned by its mother. Seeking warmth to lean on is an instinct all living beings have.
 Донран: Его бросила мать. Искать тепло, к которому можно прильнуть, - это инстинкт всех живых существ.
 
 # Original: Well, by now, I guess it... has offspring?
-Донгбек: Ну, к настоящему времени, наверное... у него уже есть потомство?
+Донбек: Ну, к настоящему времени, наверное... у него уже есть потомство?
 
 # Original: Hm, probably not. That calf was male.
 Донран: Хм, вряд ли. Тот теленок был мужского пола.
 
 # Original: ……
-Донгбек: ......
+Донбек: ......
 
 # Original: Agh... Urrgiahh...
 Возрожденный? Член Альянса Освобождения: Агх... Урргиахх...
@@ -272,10 +272,10 @@
 Данте: <…!>
 
 # Original: Oh, bother... Here we go again.
-Донгбек: Ох, опять...
+Донбек: Ох, опять...
 
 # Original: Gap-ryong, looks like the bar owner is here to take the tab you owe again. Why don't you go outside and greet them?
-Донгбек: Гап-рён, похоже, владелец бара пришел забрать долг, который ты ему должен. Почему бы тебе не выйти и не поприветствовать их?
+Донбек: Гап-рён, похоже, владелец бара пришел забрать долг, который ты ему должен. Почему бы тебе не выйти и не поприветствовать их?
 
 # Original: What the, those crooks... How'd they get here?
 Хитклиф: Что за, эти мошенники... Как они сюда попали?
