@@ -26,7 +26,7 @@
 Рассказчик: <color=#4e3076>Пора тебе вернуться домой.</color>
 
 # Original: <So this is what T Corp.’s Nest looks like...>
-Данте: <Так вот как выглядит Гнездо Т Корп...>
+Данте: <Так вот как выглядит Гнездо Корпорации Т...>
 
 # Original: We had surprisingly little trouble making it past the Nest’s borders. I guess my concerns were unfounded.
 Рассказчик: У нас на удивление не возникло проблем с прохождением границ Гнезда. Похоже, мои опасения были напрасны.
@@ -164,7 +164,7 @@
 Рассказчик: Дон Кихот скорбно посмотрела на все вокруг, а затем на себя. Казалось, она вот-вот расплачется.
 
 # Original: Everything had been drained of color since the moment we entered T Corp. through the Backstreets.
-Рассказчик: Все потеряло цвет с того момента, как мы вошли в Т.Корп через Подворотни.
+Рассказчик: Все потеряло цвет с того момента, как мы вошли в Корпорацию Т через Подворотни.
 
 # Original: It feels like even more of our colors have been taken away since then.
 Рассказчик: Кажется, с тех пор у нас забрали еще больше наших цветов.
@@ -227,7 +227,7 @@
 Хон Лу: Они... то, что называют "бандой"?
 
 # Original: Tsk, the gangs of T Corp. have certainly seen better days. I wouldn’t even call ‘em a gang… they’re just lowlives running out of ‘time’.
-Хитклиф: Тск, банды Т Корп. определенно видели лучшие дни. Я бы даже не назвал их бандой... они просто отбросы, у которых заканчивается "время".
+Хитклиф: Тск, банды Корпорации Т определенно видели лучшие дни. Я бы даже не назвал их бандой... они просто отбросы, у которых заканчивается "время".
 
 # Original: The last time I was here, scum like ‘em couldn't even dare to infest the streets so brazenly.
 Хитклиф: В последний раз, когда я был здесь, такая шваль не смела так нагло заполонять улицы.

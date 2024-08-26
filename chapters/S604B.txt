@@ -125,7 +125,7 @@
 Измаил: Просто шучу, И Сан. Просто шучу. Вообще-то, я думала о том же.
 
 # Original: Since we’re not looking for a Lobotomy Corp. branch of T Corp., since we’re heading to this 'Wuthering Heights' manor instead...
-Измаил: Раз мы ищем не филиал Корпорации Лоботомия в Т Корп. , а направляемся в этот особняк "Грозового перевала" вместо этого...
+Измаил: Раз мы ищем не филиал Корпорации Лоботомия в Корпорации Т, а направляемся в этот особняк "Грозовой перевал" вместо этого...
 
 # Original: … I suppose that that’s where we’ll find the Golden Bough.
 Измаил: ... Полагаю, именно там мы найдём Золотую Ветвь.
@@ -152,7 +152,7 @@
 Фауст: Был отчёт от LCCB о том, что была замечена Золотая Ветвь.
 
 # Original: They narrowed its location down to somewhere within the Wuthering Heights manor...
-Фауст: Они сузили её местоположение до территории особняка Грозового перевала...
+Фауст: Они сузили её местоположение до территории Грозового Перевала...
 
 # Original: But there was a significant risk, on account of the manor's unique security system, that prevented the Before Team from conducting their on-site preliminary survey. The exact location of the Bough is yet to be identified.
 Фауст: Но существовал значительный риск из-за уникальной системы безопасности особняка, что помешало Команде "До" провести предварительное обследование на месте. Точное местоположение Ветви ещё не определено.
@@ -173,7 +173,7 @@
 Фауст: Можно сказать, что Золотая Ветвь... не всегда находилась внутри особняка.
 
 # Original: I see. Then, the Golden Bough, its previous location in an unknown area within the T Corp.’s Lobotomy Corp. branch, has been transferred to the manor for a reason we are yet to be aware of.
-И Сан: Понятно. Значит, Золотая Ветвь, её предыдущее местоположение в неизвестной области внутри филиала Корпорации Лоботомия Т Корп. , была перемещена в особняк по причине, о которой мы пока не знаем.
+И Сан: Понятно. Значит, Золотая Ветвь, её предыдущее местоположение в неизвестной области внутри филиала Корпорации Лоботомия Корпорации Т, была перемещена в особняк по причине, о которой мы пока не знаем.
 
 # Original: Right. Then... this ‘Catherine’ person will be a major part of this operation.
 Измаил: Верно. Тогда... эта "Кэтрин" будет играть важную роль в этой операции.

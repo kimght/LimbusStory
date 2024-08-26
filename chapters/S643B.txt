@@ -11,7 +11,7 @@
 Мерсо: Возможно, была вовлечена третья сторона, которая помогла Линтону и Кэтрин.
 
 # Original: With what information we gathered from this Aseah... all evidence seems to point to Director Hermann of N Corp. being our 'third party'.
-Отис: Судя по информации, которую мы собрали от этой Асеи... все улики, похоже, указывают на директора Герман из Корп. N. как на нашу "третью сторону".
+Отис: Судя по информации, которую мы собрали от этой Асеи... все улики, похоже, указывают на директора Герман из Корпорации N. как на нашу "третью сторону".
 
 # Original: Right... hiring former Ring researchers of all people? That's not something you see every day.
 Родион: Верно... нанимать бывших исследователей Безымянного Пальца? Такое не каждый день увидишь.

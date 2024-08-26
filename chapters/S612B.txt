@@ -50,7 +50,7 @@
 Хиндли: Почему бы тебе не рассказать подробнее об этой несправедливости, Линтон? Поведай историю о том, как Кэтрин и Линтон Эдгар предали меня! Как вы двое уничтожили меня!
 
 # Original: There was no injustice. It was done in a perfectly legal manner; bring the case to T Corp. courts if you wish. It will change absolutely nothing.
-Линтон: Не было никакой несправедливости. Всё было сделано совершенно законно; подайте дело в суды Т Корп. , если хотите. Это абсолютно ничего не изменит.
+Линтон: Не было никакой несправедливости. Всё было сделано совершенно законно; подайте дело в суды Корпорации Т, если хотите. Это абсолютно ничего не изменит.
 
 # Original: An Öufi Association Fixer carrying a piece of paper stepped in between Hindley and Linton as two men continued to growl at each other.
 Рассказчик: Корректировщик из Ассоциации Оуфи с листом бумаги встал между Хиндли и Линтоном, пока двое мужчин продолжали рычать друг на друга.
@@ -155,7 +155,7 @@
 Хиндли: Давай, Кэтрин. Дай мне что-нибудь, что угодно...
 
 # Original: <color=#c29a5f>... signed you up for the 'Abyss Trauma Correctional Facility' at M Corp.</color>
-Рассказчик: <color=#c29a5f>... записала тебя в "Исправительное учреждение Глубоких Травм" в М Корп.</color>
+Рассказчик: <color=#c29a5f>... записала тебя в "Исправительное учреждение Глубоких Травм" в Корпорации М</color>
 
 # Original: <color=#c29a5f>If you don't visit the facility within 1 week after attending this will-reading...</color>
 Рассказчик: <color=#c29a5f>Если ты не посетишь учреждение в течение 1 недели после присутствия на этом чтении завещания...</color>
@@ -170,10 +170,10 @@
 Рассказчик: <color=#c29a5f>Я искренне надеюсь, что твоё сердце исцелится, дорогой брат.</color>
 
 # Original: NO! That's absolute nonsense...! How the hell am I even supposed to get to M Corp. in a week?!
-Хиндли: НЕТ! Это полный бред...! Как, чёрт возьми, я вообще должен добраться до М Корп. за неделю?!
+Хиндли: НЕТ! Это полный бред...! Как, чёрт возьми, я вообще должен добраться до Корпорации М за неделю?!
 
 # Original: <color=#c29a5f>Of course, I have already prepared a WARP Train ticket to M Corp. for you, so please don't worry about the travel fees.</color>
-Рассказчик: <color=#c29a5f>Конечно, я уже подготовила для тебя билет на WARP-поезд до М Корп. , так что, пожалуйста, не беспокойся о расходах на дорогу.</color>
+Рассказчик: <color=#c29a5f>Конечно, я уже подготовила для тебя билет на WARP-поезд до Корпорации М, так что, пожалуйста, не беспокойся о расходах на дорогу.</color>
 
 # Original: No, this is a load of shite!!!
 Хиндли: Нет, это полная чушь!!!
@@ -278,7 +278,7 @@
 Хиндли: Пап, где моя скрипка?
 
 # Original: What about my X Corp. all-purpose wrench?!
-Кэтрин: А как насчёт моего универсального гаечного ключа от Корп. X?!
+Кэтрин: А как насчёт моего универсального гаечного ключа от Корпорации X?!
 
 # Original: Again, I'm sorry. I did not have the room for the violin or the wrench.
 Мистер Эрншоу: Ещё раз прошу прощения. У меня не было места для скрипки или гаечного ключа.
