@@ -2,7 +2,7 @@
 Хитклиф: Верни... Кэтрин.
 
 # Original: ... She is forever lost. Her consciousness is broken, scattered to a thousand places.
-Хитклиф из Зеркального Мира: ... Она навсегда потеряна. Её сознание разбито, рассеяно по тысяче мест.
+Хитклиф из Зеркального Мира: ... Она потеряна навсегда. Её сознание разбито, рассеяно по тысяче мест.
 
 # Original: Shut up! You'll have to do much worse to make me give up!
 Хитклиф: Заткнись! Тебе придётся сделать что-то похуже, чтобы заставить меня сдаться!
@@ -11,7 +11,7 @@
 Хитклиф из Зеркального Мира: Гах...!
 
 # Original: Heathcliff the Erlking falls to his knees.
-Рассказчик: Хитклиф-Эрлкинг падает на колени.
+Рассказчик: Эрлкинг Хитклиф падает на колени.
 
 # Original: We were less than ten paces from the rooftop; we had to stop him from going up the stairs no matter what.
 Рассказчик: Мы были меньше чем в десяти шагах от крыши; нам нужно было любой ценой остановить его, не дать ему подняться по лестнице.

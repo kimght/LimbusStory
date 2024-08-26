@@ -101,7 +101,7 @@
 Рассказчик: Я плакала и умоляла ангелов отправить меня обратно...
 
 # Original: And the angels were so furious that they cast me out from heaven back into the middle of the violet flowers on top of Wuthering Heights.
-Рассказчик: И ангелы были так разгневаны, что изгнали меня с небес обратно в середину фиолетовых цветов на вершине Грозового Перевала.
+Рассказчик: И ангелы были так разгневаны, что изгнали меня с небес обратно в центр посреди фиалковых цветов на вершине Грозового Перевала.
 
 # Original: Only then did I truly awake in this world, sobbing for joy.
 Рассказчик: Только тогда я по-настоящему проснулась в этом мире, рыдая от радости.
@@ -119,7 +119,7 @@
 Рассказчик: Да. Если бы мы были на небесах, мы были бы вечно несчастны.
 
 # Original: Thus we must embrace the encroaching sins and descend into the world beneath.
-Рассказчик: Поэтому мы должны принять надвигающиеся грехи и спуститься в мир внизу.
+Рассказчик: Поэтому мы должны принять надвигающиеся грехи и спуститься в мир под нами.
 
 # Original: Here it is again. The 'we'...
 Синклер: Вот оно снова. Это "мы"...
@@ -134,7 +134,7 @@
 И Сан: Хотя это может быть беспочвенным предположением...
 
 # Original: But to say that we must "embrace the encroaching sins and descend into the world beneath"...
-И Сан: Но сказать, что мы должны "принять надвигающиеся грехи и спуститься в мир внизу"...
+И Сан: Но сказать, что мы должны "принять надвигающиеся грехи и спуститься в мир под нами"...
 
 # Original: ... Perhaps the diary means to instruct us to face the Peccatula and continue to descend into the basement.
 И Сан: ... Возможно, дневник хочет сказать нам встретиться лицом к лицу с Пеккатулами и продолжить спуск в подвал.

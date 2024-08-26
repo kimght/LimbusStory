@@ -14,7 +14,7 @@
 Синклер: …….
 
 # Original: There is a dark look on Sinclair's face.
-Рассказчик: На лице Синклера мрачное выражение.
+Рассказчик: У Синклера мрачное выражение лица.
 
 # Original: ... This is a grim reminder of our experience back in the basement of his mansion.
 Рассказчик: ... Это мрачное напоминание о нашем опыте в подвале его особняка.
@@ -35,7 +35,7 @@
 Данте: <... Да. Я это ясно вижу.>
 
 # Original: ... That's good. Sometimes, I'm not sure if I'm just imagining that I'm getting better.
-Синклер: ... Это хорошо. Иногда я не уверен, не кажется ли мне только, что мне становится лучше.
+Синклер: ... Это хорошо. Иногда я не уверен, не только ли мне кажется, что мне становится лучше.
 
 # Original: <…….>
 Данте: <…….>

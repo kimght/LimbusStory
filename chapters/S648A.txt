@@ -56,7 +56,7 @@
 Рассказчик: ... Возможно, именно поэтому он мог открыть дверь и увидеть новый, более широкий мир.
 
 # Original: Not a single color remained in the silent Wuthering Heights once the tempest passed.
-Рассказчик: Ни единого цвета не осталось в молчаливых Грозовых высотах после того, как буря прошла.
+Рассказчик: Ни единого цвета не осталось в молчаливом Грозовом Перевале после того, как буря прошла.
 
 # Original: All monochromatic, save for...
 Рассказчик: Всё монохромно, кроме...
@@ -89,7 +89,7 @@
 Синклер: Ну, может, тебе стоило сначала мне об этом сказать?!
 
 # Original: Another day, another Distortion hunting in the streets of T Corp. as per LCD's orders.
-Рассказчик: Ещё один день, ещё одна охота на Искажение на улицах Корпорации Т. по приказу ЖКД.
+Рассказчик: Ещё один день, ещё одна охота на Искажение на улицах Корпорации Т. по приказу LCD.
 
 # Original: Looks like it didn't take too long for Heathcliff to be his usual energetic self once agai—
 Рассказчик: Похоже, Хитклифу не потребовалось много времени, чтобы снова стать самим собой, энергичны—
@@ -140,7 +140,7 @@
 Данте: <…….>
 
 # Original: Demian... he's appeared before me in the past. He would always leave me with these cryptic riddles.
-Рассказчик: Демиан... он появлялся передо мной и раньше. Он всегда оставлял меня с этими загадочными загадками.
+Рассказчик: Демиан... он появлялся передо мной и раньше. Он всегда оставлял меня с этими непонятными загадками.
 
 # Original: But I'm starting to understand what his riddles are supposed to represent.
 Рассказчик: Но я начинаю понимать, что должны означать его загадки.

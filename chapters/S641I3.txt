@@ -8,13 +8,13 @@
 Фауст: ... Вергилий.
 
 # Original: Yes, I am aware. I won't be receiving everything I wanted from the contract. I will have to forgo my avarice, make compromises, or even give up a few clauses. I suppose I'll also be summoned to some bothersome meetings.
-Вергилий: Да, я понимаю. Я не получу всего, чего хотел от контракта. Мне придется отказаться от своей алчности, пойти на компромиссы или даже отказаться от нескольких пунктов. Полагаю, меня также вызовут на какие-нибудь утомительные совещания.
+Вергилий: Да, я понимаю. Я не получу всего, чего хотел от контракта. Мне придется отказаться от своей скупости, пойти на компромиссы или даже отказаться от нескольких пунктов. Полагаю, меня также вызовут на какие-нибудь утомительные совещания.
 
 # Original: Yet I was compelled to come here nonetheless.
 Вергилий: И все же я был вынужден прийти сюда.
 
 # Original: Ah, so much for my determination to follow the great flow. ... But I simply could not permit this stench, this sight to exist any longer. Even if it meant that I must swim against the flow.
-Вергилий: Ах, вот и вся моя решимость следовать великому потоку. ... Но я просто не мог позволить этому зловонию, этому зрелищу существовать дольше. Даже если это означало, что мне придется плыть против течения.
+Вергилий: Ах, вот и вся моя решимость следовать великому потоку. ... Но я просто не мог позволить этому зловонию, этому зрелищу существовать дальше. Даже если это означало, что мне придется плыть против течения.
 
 # Original: Very well.
 Фауст: Очень хорошо.
@@ -62,7 +62,7 @@
 Вергилий: Семья...
 
 # Original: A word I haven't heard in such a long time. What a... blood-drenched word it is.
-Вергилий: Слово, которое я не слышал так давно. Какое же оно... обагренное кровью.
+Вергилий: Слово, которое я не слышал так давно. Как же оно... обагренно кровью.
 
 # Original: Blood poured from Vergilius' head like sweat and tears, seeping from where the crown dug under his skin.
 Рассказчик: Кровь лилась с головы Вергилия, как пот и слезы, сочась из-под короны, впившейся в его кожу.

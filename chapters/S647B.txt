@@ -1,5 +1,5 @@
 # Original: Erlking Heathcliff awaits us on the rooftop. Just as Faust expected, the powerful and oppressive energy that surrounded him had only grown more ferocious since our last encounter.
-Рассказчик: Хитклиф-Эрлкинг ждёт нас на крыше. Как и ожидал Фауст, мощная и угнетающая энергия, окружавшая его, стала ещё более свирепой с момента нашей последней встречи.
+Рассказчик: Хитклиф-Эрлкинг ждёт нас на крыше. Как и ожидала Фауст, мощная и угнетающая энергия, окружавшая его, стала ещё более свирепой с момента нашей последней встречи.
 
 # Original: This must be because of the Golden Bough and the 'pure' form of humanity.
 Рассказчик: Должно быть, это из-за Золотой Ветви и "чистой" формы человечества.
@@ -56,7 +56,7 @@
 Хитклиф из Зеркального Мира: Я не находил удовольствия в своей работе.
 
 # Original: How could I, when I made it my mission to slay those poor, wretched souls? When all of them died so alone, unloved by all that is living, by the world?
-Хитклиф из Зеркального Мира: Как я мог, когда моей миссией было убивать этих бедных, несчастных душ? Когда все они умирали так одиноко, нелюбимые всем живым, миром?
+Хитклиф из Зеркального Мира: Как я мог, когда моей миссией было убивать эти бедные, несчастные души? Когда все они умирали так одиноко, нелюбимые всем живым, миром?
 
 # Original: Did you know that no one ever weeps for Heathcliff's death? So, the task falls to me to bury them. To shed my tears for them. Yet, only silence shall attend my own demise.
 Хитклиф из Зеркального Мира: Знаешь ли ты, что никто никогда не плачет о смерти Хитклифа? Поэтому задача хоронить их ложится на меня. Проливать слёзы за них. И всё же, только тишина будет сопровождать мою собственную кончину.
@@ -122,7 +122,7 @@
 Хитклиф: Ты, я... мы оба несчастные. Я это понимаю...
 
 # Original: But... I refuse to break like you did. Leaping from world to world, seeking to kill everyone that you deemed to be the cause of that misery...
-Хитклиф: Но... я отказываюсь сломаться, как ты. Прыгать из мира в мир, стремясь убить всех, кого ты считал причиной этого несчастья...
+Хитклиф: Но... я отказываюсь сломиться, как ты. Прыгать из мира в мир, стремясь убить всех, кого ты считал причиной этого несчастья...
 
 # Original: ... No matter how broken my heart has become.
 Хитклиф: ... Несмотря на то, насколько разбитым стало моё сердце.
@@ -146,7 +146,7 @@
 Хитклиф из Зеркального Мира: Ты хочешь убить меня? Ты?
 
 # Original: No. I will stab myself, just as you wished.
-Хитклиф: Нет. Я пронжу себя, как ты и хотел.
+Хитклиф: Нет. Я проткну себя, как ты и хотел.
 
 # Original: ... You're... what?
 Хитклиф из Зеркального Мира: ... Ты... что?
@@ -155,7 +155,7 @@
 Хитклиф: Понятно.
 
 # Original: I don't exactly understand why, but this Golden Bough bein' imbued with lightning is a necessary part of your plan, innit?
-Хитклиф: Я не совсем понимаю почему, но эта Золотая Ветвь, пропитанная молнией, – необходимая часть твоего плана, не так ли?
+Хитклиф: Я не совсем понимаю почему, но эта Золотая Ветвь, пропитанная молниями, – необходимая часть твоего плана, не так ли?
 
 # Original: What if I just... drained its powers? That'd cock up your grand scheme, won't it?
 Хитклиф: Что, если я просто... истощу её силы? Это ведь разрушит твой грандиозный план, не так ли?
@@ -164,7 +164,7 @@
 Данте: <Подожди... откуда ты вообще это знаешь, Хитклиф?>
 
 # Original: I ain't educated, but you know I'm good at sniffing these things out.
-Хитклиф: Я не образованный, но ты знаешь, что я хорошо чую такие вещи.
+Хитклиф: Я необразованный, но ты знаешь, что я хорошо чую такие вещи.
 
 # Original: <Heathcliff!>
 Данте: <Хитклиф!>
@@ -293,10 +293,10 @@
 Кэтрин: Я тянула Хитклифа в самую бездну отчаяния. Он стал холодным и несчастным... погряз в бесконечном цикле несчастий.
 
 # Original: It was as though his fate was already written to be miserable. No matter what he did, he would always meet a wretched end.
-Кэтрин: Было похоже, что его судьба уже была предначертана быть несчастной. Что бы он ни делал, его всегда ждал жалкий конец.
+Кэтрин: Было похоже, что ему уже было предначертано быть несчастным. Что бы он ни делал, его всегда ждал жалкий конец.
 
 # Original: Do you see that? I see... another ghost.
-Кэтрин: Видишь это? Я вижу... ещё один призрак.
+Кэтрин: Ты видишь это? Я вижу... ещё один призрак.
 
 # Original: Miss, you are still very ill. Please do not let the chill winds sicken you further.
 Нелли: Мисс, вы всё ещё очень больны. Пожалуйста, не позволяйте холодному ветру ещё больше ухудшить ваше состояние.
@@ -479,7 +479,7 @@
 Кэтрин: То, что я принимала за призраков... были просто мы из других миров.
 
 # Original: Suffering, in wretched pain, yet wandering the manor still, determined to end my life.
-Кэтрин: Страдающие, в ужасной боли, но всё ещё блуждающие по особняку, решившие покончить с моей жизнью.
+Кэтрин: Страдающие, в ужасной боли, но всё ещё блуждающие по особняку, решившие покончить с своей жизнью.
 
 # Original: Now, after the lightning strikes seven times upon your coffin...
 Герман: Теперь, после того как молния ударит семь раз по вашему гробу...
@@ -545,7 +545,7 @@
 Герман: Не беспокойтесь. Мы позаботимся о том, чтобы этот ритуал призыва прошёл с оглушительным успехом.
 
 # Original: And just in case you forget... remember to hold steadfast. Remember that all of this is for the good of Heathcliff whom you love so much.
-Герман: И на случай, если вы забудете... помните, чтобы держаться твёрдо. Помните, что всё это ради блага Хитклифа, которого вы так сильно любите.
+Герман: И на случай, если вы забудете... помните, чтобы держаться стойко. Помните, что всё это ради блага Хитклифа, которого вы так сильно любите.
 
 # Original: …….
 Кэтрин: …….

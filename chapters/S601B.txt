@@ -6,7 +6,7 @@
 
 # Original: <color=#4e3076>To the manor where its storm-broken breach
 # has siphoned all that was once warm.</color>
-Рассказчик: <color=#4e3076>В поместье, где его пробоина, разбитая бурей,
+Рассказчик: <color=#4e3076>В поместье, где его дыра, разбитая бурей,
 высосала всё, что когда-то было теплым.</color>
 
 # Original: <color=#4e3076>To the manor that gave you not only life...
@@ -16,7 +16,7 @@
 
 # Original: <color=#4e3076>To the manor where your place was the frozen corner
 # that couldn't be further from the hearth.</color>
-Рассказчик: <color=#4e3076>В поместье, где твоим местом был замерзший угол,
+Рассказчик: <color=#4e3076>В поместье, где твоим местом был замерзший уголок,
 который не мог быть дальше от очага.</color>
 
 # Original: <color=#4e3076>Return from the moors.</color>
@@ -26,7 +26,7 @@
 Рассказчик: <color=#4e3076>Пора тебе вернуться домой.</color>
 
 # Original: <So this is what T Corp.’s Nest looks like...>
-Данте: <Так вот как выглядит Гнездо Корпорации Т...>
+Данте: <Так вот как выглядит Гнездо Т Корп...>
 
 # Original: We had surprisingly little trouble making it past the Nest’s borders. I guess my concerns were unfounded.
 Рассказчик: У нас на удивление не возникло проблем с прохождением границ Гнезда. Похоже, мои опасения были напрасны.
@@ -89,7 +89,7 @@
 Хитклиф: Родина? Ну...
 
 # Original: I wasn’t born here, I was raised here… I suppose that could still count as a ‘homeland’, in a way.
-Хитклиф: Я не родился здесь, я вырос здесь... Полагаю, это все еще можно считать "родиной" в каком-то смысле.
+Хитклиф: Я не родился здесь, я здесь вырос... Полагаю, это все еще можно считать "родиной" в каком-то смысле.
 
 # Original: But it doesn’t conjure in me the same feeling that a ‘homeland’ is supposed to.
 Хитклиф: Но это не вызывает у меня того же чувства, которое должна вызывать "родина".
@@ -98,7 +98,7 @@
 И Сан: ... То есть...?
 
 # Original: You’ve no idea how many times I imagined it, played it out in my head. Returning to that bloody manor, smashing every little thing in that place to bits until there is nothing left...
-Хитклиф: Ты понятия не имеешь, сколько раз я представлял это, проигрывал в голове. Возвращение в это чертово поместье, разбивание каждой мелочи в этом месте на куски, пока ничего не останется...
+Хитклиф: Ты понятия не имеешь, сколько раз я представлял это, проигрывал у себя в голове. Возвращение в это чертово поместье, разбивание каждой мелочи в этом месте на куски, пока ничего не останется...
 
 # Original: Okay, so you’ll smash everything to bits. Then what?
 Измаил: Ладно, так ты разобьешь все на куски. А потом что?
@@ -110,7 +110,7 @@
 Хитклиф: ... Я кое-чему научился.
 
 # Original: If I ever lose the plot and push myself to the brink of no return, I trust that one of you louts will pull me right out of it.
-Хитклиф: Если я когда-нибудь потеряю контроль и доведу себя до грани невозврата, я верю, что кто-нибудь из вас, олухов, вытащит меня прямо оттуда.
+Хитклиф: Если я когда-нибудь потеряю контроль и доведу себя до точки невозврата, я верю, что кто-нибудь из вас, олухов, вытащит меня прямо оттуда.
 
 # Original: ... Are you giving us permission to beat the sense back into you?
 Измаил: ... Ты даешь нам разрешение вбить в тебя здравый смысл?
@@ -128,7 +128,7 @@
 Хитклиф: Ладно, вы, наглые ублюдки...
 
 # Original: Seriously, this ain't an invitation to use me as your emotional punching bag. I’m not in the mood to—
-Хитклиф: Серьезно, это не приглашение использовать меня как вашу эмоциональную грушу для битья. Я не в настроении—
+Хитклиф: Серьезно, это не приглашение использовать меня как вашу эмоциональную грушу для битья. Я не в настроении для—
 
 # Original: Still, I think your present self can do this, Heathcliff.
 Хон Лу: И все же, я думаю, твое нынешнее "я" может справиться с этим, Хитклиф.
@@ -152,7 +152,7 @@
 Рассказчик: Хон Лу далеко не самый разговорчивый Грешник, но когда он говорит... обычно он говорит что-то проницательное.
 
 # Original: Though since he never says it in a way that’s immediately obvious, his words are very prone to misunderstandings…
-Рассказчик: Хотя, поскольку он никогда не говорит это так, чтобы было сразу понятно, его слова очень подвержены недопониманию...
+Рассказчик: Хотя, поскольку он никогда не говорит это так, чтобы это было сразу понятно, его слова очень подвержены недопониманию...
 
 # Original: In a way, we’re all ‘deprived’... and that can change a lot of things. Maybe there are things that we can understand only when we’re left with nothing.
 Хон Лу: В каком-то смысле, мы все "лишены"... и это может многое изменить. Возможно, есть вещи, которые мы можем понять только тогда, когда у нас ничего не осталось.
@@ -164,7 +164,7 @@
 Рассказчик: Дон Кихот скорбно посмотрела на все вокруг, а затем на себя. Казалось, она вот-вот расплачется.
 
 # Original: Everything had been drained of color since the moment we entered T Corp. through the Backstreets.
-Рассказчик: Все потеряло цвет с того момента, как мы вошли в Корпорацию Т через Подворотни.
+Рассказчик: Все потеряло цвет с того момента, как мы вошли в Т.Корп через Подворотни.
 
 # Original: It feels like even more of our colors have been taken away since then.
 Рассказчик: Кажется, с тех пор у нас забрали еще больше наших цветов.
@@ -194,7 +194,7 @@
 Рассказчик: С раздраженным видом Родя указала на людей за пределами автобуса.
 
 # Original: A sufficient amount of payment must be made in order to retrieve your colors. It must be emphasized that this question has been repeatedly answered on twenty-three separate occasions.
-Фауст: Для восстановления ваших цветов необходимо произвести достаточную оплату. Следует подчеркнуть, что на этот вопрос было дано ответы в двадцати трех отдельных случаях.
+Фауст: Для восстановления ваших цветов необходимо произвести достаточную оплату. Следует подчеркнуть, что на этот вопрос был дан ответ в двадцати трех отдельных случаях.
 
 # Original: Well, let me have a gander. His coat, his trousers...
 Хитклиф: Ну, дайте-ка взглянуть. Его пальто, его брюки...
@@ -212,7 +212,7 @@
 Рёшу: Согласна. Это цвет дерьма. Кровь должна была остаться красной.
 
 # Original: That poor sod’s going to get himself jumped wanderin’ about with that look. That's just enough colour to invite the bandits, but not enough to keep ‘em away.
-Хитклиф: Этого бедолагу собираются ограбить, если он будет бродить с таким видом. Этого как раз достаточно, чтобы привлечь бандитов, но недостаточно, чтобы отпугнуть их.
+Хитклиф: Этот бедолага сейчас сам себя ограбит, если он будет бродить с таким видом. Этого как раз достаточно, чтобы привлечь бандитов, но недостаточно, чтобы отпугнуть их.
 
 # Original: Heathcliff’s predictions came true soon enough; several thieves surrounded the ‘bloke who’s only trying to come off as though he’s loaded’ and bashed him on the back of his head.
 Рассказчик: Предсказания Хитклифа вскоре сбылись; несколько воров окружили "парня, который только пытается выглядеть так, будто он богат" и ударили его по затылку.
@@ -227,7 +227,7 @@
 Хон Лу: Они... то, что называют "бандой"?
 
 # Original: Tsk, the gangs of T Corp. have certainly seen better days. I wouldn’t even call ‘em a gang… they’re just lowlives running out of ‘time’.
-Хитклиф: Тск, банды Корпорации Т определенно видели лучшие дни. Я бы даже не назвал их бандой... они просто отбросы, у которых заканчивается "время".
+Хитклиф: Тск, банды Т Корп. определенно видели лучшие дни. Я бы даже не назвал их бандой... они просто отбросы, у которых заканчивается "время".
 
 # Original: The last time I was here, scum like ‘em couldn't even dare to infest the streets so brazenly.
 Хитклиф: В последний раз, когда я был здесь, такая шваль не смела так нагло заполонять улицы.

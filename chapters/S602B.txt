@@ -2,7 +2,7 @@
 Нетерпеливый гангстер T Corp.: Прочь с дороги, недоумки. Эта добыча наша!
 
 # Original: Looks like you lot are running low on time as well… tough luck! We’ve only got thirty minutes ourselves!
-Нетерпеливый гангстер T Corp.: Похоже, у вас тоже на исходе время... не повезло! У нас самих осталось всего тридцать минут!
+Нетерпеливый гангстер T Corp.: Похоже, у вас тоже время на исходе... не повезло! У нас самих осталось всего тридцать минут!
 
 # Original: Oi, maybe they’re one of the Dead Rabbits or somethin’.
 Испуганный гангстер T Corp.: Эй, может они из Мёртвых Кроликов или типа того.

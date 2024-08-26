@@ -17,7 +17,7 @@
 Фауст: Говори.
 
 # Original: I am certain that you, with your gift of omniscience and brilliance... already hold the knowledge the rest are not privy to.
-И Сан: Я уверен, что вы, с вашим даром всеведения и блеска... уже обладаете знанием, недоступным остальным.
+И Сан: Я уверен, что вы, с вашим даром всеведения и гениальности... уже обладаете знанием, недоступным остальным.
 
 # Original: Yet you have deemed that there must be some things better left unuttered, thus you have not shared with us all that you know.
 И Сан: Однако вы решили, что некоторые вещи лучше оставить невысказанными, поэтому не поделились с нами всем, что знаете.
@@ -101,7 +101,7 @@
 И Сан: ... Ты давно меня узнал, не так ли?
 
 # Original: Do not stand there in silence; utter aught to me.
-И Сан: Не стой там в молчании; скажи мне хоть что-нибудь.
+И Сан: Не стой там в безмолвии; скажи мне хоть что-нибудь.
 
 # Original: What better response is there for you than my utter silence...
 Асеа: Какой ответ лучше для тебя, чем мое полное молчание...
@@ -110,7 +110,7 @@
 Асеа: ... когда обычные приветствия, слова враждебности и вопросы о твоем самочувствии кажутся такими неуместными?
 
 # Original: This is no different from how you had always remained a close fellow of silence then... no?
-Асеа: Разве это не то же самое, как ты всегда был близким товарищем молчания тогда... не так ли?
+Асеа: Разве это не то же самое, как ты всегда был близким товарищем безмолвия тогда... не так ли?
 
 # Original: If you can speak so placidly, surrounded betwixt these abominable horrors...
 И Сан: Если ты можешь говорить так спокойно, окруженный этими омерзительными ужасами...
@@ -146,13 +146,13 @@
 Рёшу: Я же говорила, что с ними что-то не так.
 
 # Original: I remember Ryōshū telling the Öufi Association Fixers to stop. That there was something off about them.
-Рассказчик: Я помню, как Рёшу сказала Корректировщикам ассоциации Öufi остановиться. Что с ними что-то не так.
+Рассказчик: Я помню, как Рёшу сказала Корректировщикам ассоциации Оуфи остановиться. Что с ними что-то не так.
 
 # Original: Then...
 Рассказчик: Значит...
 
 # Original: They're not Öufi.
-Рёшу: Они не Öufi.
+Рёшу: Они не Оуфи.
 
 # Original: They're nothing but cheap imitations.
 Рёшу: Они всего лишь дешевые имитации.

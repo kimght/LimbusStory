@@ -11,7 +11,7 @@
 Рассказчик: Он терзает, рвет и раздирает все, что перед ним...
 
 # Original: ... but his mournful howling is tinged with so much pain that it hurts me to even listen.
-Рассказчик: ... но его скорбный вой пронизан такой болью, что мне больно даже слушать.
+Рассказчик: ... но его скорбный вой пронизан такой болью, что даже мне больно слушать.
 
 # Original: He's killing everyone... the researchers, the Dead Rabbits, even people trapped in the glass pods...
 Измаил: Он убивает всех... исследователей, Мертвых Кроликов, даже людей, запертых в стеклянных капсулах...
@@ -20,7 +20,7 @@
 Данте: <Если мы встанем у него на пути...>
 
 # Original: Yes, Executive Manager. He will not hesitate to attack us as well.
-Отис: Да, господин Исполнительный Менеджер. Он не колеблясь нападет и на нас.
+Отис: Да, Исполнительный Менеджер. Он не колеблясь нападет и на нас.
 
 # Original: This will be a difficult battle for everyone.
 Рассказчик: Это будет трудная битва для всех.

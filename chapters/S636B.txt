@@ -71,13 +71,13 @@
 Мерсо: Даже если это решение приведет к тому, что мы не сможем получить Золотую Ветвь.
 
 # Original: Everyone fell silent, deep in thought after hearing Meursault's judgment. It wasn't a decision based on cold, hard facts that we had come to expect from him.
-Рассказчик: Все замолчали, глубоко задумавшись после суждения Мерсо. Это было не то решение, основанное на холодных, жестких фактах, которого мы привыкли ожидать от него.
+Рассказчик: Все замолчали, глубоко задумавшись после рассуждения Мерсо. Это было не то решение, основанное на холодных, жестких фактах, которого мы привыкли ожидать от него.
 
 # Original: Agreed...
 Отис: Согласна...
 
 # Original: It never appeared that the lightning strikes were a result of natural phenomena. It always struck at the most dramatic moments. Always on a certain trigger, killing the manor's power without fail.
-Отис: Никогда не казалось, что удары молнии были результатом природных явлений. Они всегда били в самые драматичные моменты. Всегда по определенному триггеру, неизменно отключая электричество в поместье.
+Отис: Никогда не казалось, что удары молнии были результатом природных явлений. Они всегда били в самые драматичные моменты. Всегда по определенному условию, неизменно отключая электричество в поместье.
 
 # Original: Okay, let's think about this. Let's think about the circumstances...
 Грегор: Ладно, давайте подумаем об этом. Давайте подумаем об обстоятельствах...
@@ -113,7 +113,7 @@
 Рассказчик: Усталый голос Линтона прервал наши размышления.
 
 # Original: He looks around at the destroyed laboratory, the corpses, and the husks of dead Peccatula. There was a hollow look in his eyes.
-Рассказчик: Он оглядывает разрушенную лабораторию, трупы и оболочки мертвых Пеккатула. В его глазах был пустой взгляд.
+Рассказчик: Он оглядывает разрушенную лабораторию, трупы и оболочки мертвых Пеккатул. В его глазах был пустой взгляд.
 
 # Original: His face, already so sallow, had lost even more of its color. But he stood tall.
 Рассказчик: Его лицо, и без того бледное, потеряло еще больше цвета. Но он стоял прямо.

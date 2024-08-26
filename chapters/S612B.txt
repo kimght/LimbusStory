@@ -50,10 +50,10 @@
 Хиндли: Почему бы тебе не рассказать подробнее об этой несправедливости, Линтон? Поведай историю о том, как Кэтрин и Линтон Эдгар предали меня! Как вы двое уничтожили меня!
 
 # Original: There was no injustice. It was done in a perfectly legal manner; bring the case to T Corp. courts if you wish. It will change absolutely nothing.
-Линтон: Не было никакой несправедливости. Всё было сделано совершенно законно; подайте дело в суды Корп. T, если хотите. Это абсолютно ничего не изменит.
+Линтон: Не было никакой несправедливости. Всё было сделано совершенно законно; подайте дело в суды Т Корп. , если хотите. Это абсолютно ничего не изменит.
 
 # Original: An Öufi Association Fixer carrying a piece of paper stepped in between Hindley and Linton as two men continued to growl at each other.
-Рассказчик: Корректировщик из Ассоциации Öufi с листом бумаги встал между Хиндли и Линтоном, пока двое мужчин продолжали рычать друг на друга.
+Рассказчик: Корректировщик из Ассоциации Оуфи с листом бумаги встал между Хиндли и Линтоном, пока двое мужчин продолжали рычать друг на друга.
 
 # Original: The allotted recess has expired. We will now proceed to the inheritance bequeathment will-reading.
 Директор Ассоц. Öufi: Отведённый перерыв истёк. Теперь мы приступим к чтению завещания о наследовании.
@@ -92,7 +92,7 @@
 Рассказчик: <color=#c29a5f>Надеюсь, что никто из вас не разгневается во время этого события. Всё-таки это мои единственные похороны.</color>
 
 # Original: <color=#c29a5f>I am at peace; there is no pain, no suffering where I am.</color>
-Рассказчик: <color=#c29a5f>Я обрела покой; там, где я сейчас, нет боли, нет страданий.</color>
+Рассказчик: <color=#c29a5f>Я обрела покой; там, где я сейчас, без боли, без страданий.</color>
 
 # Original: <color=#c29a5f>So do not consider my death a tragic one.</color>
 Рассказчик: <color=#c29a5f>Поэтому не считайте мою смерть трагичной.</color>
@@ -110,7 +110,7 @@
 Рассказчик: <color=#c29a5f>Чтобы я могла почувствовать вашу скорбь и знать, что вы все действительно любили меня.</color>
 
 # Original: <color=#c29a5f>Wuthering Heights. An old and desolate manor.</color>
-Рассказчик: <color=#c29a5f>Грозовой Перевал. Старый и заброшенный особняк.</color>
+Рассказчик: <color=#c29a5f>Грозовой Перевал. Старый и брошенный особняк.</color>
 
 # Original: <color=#c29a5f>I have always been afraid of this place. Fear and nightmares would consume me every night.</color>
 Рассказчик: <color=#c29a5f>Я всегда боялась этого места. Страх и кошмары поглощали меня каждую ночь.</color>
@@ -143,7 +143,7 @@
 Рассказчик: Ноги Хиндли начали нервно трястись. Как и его голос.
 
 # Original: <color=#c29a5f>I heard that you are mired in quite the heavy debt.</color>
-Рассказчик: <color=#c29a5f>Я слышала, что ты погряз в тяжёлых долгах.</color>
+Рассказчик: <color=#c29a5f>Я слышала, что ты погряз в больших долгах.</color>
 
 # Original: <color=#c29a5f>And that you have been spending most of your days drinking and gambling.</color>
 Рассказчик: <color=#c29a5f>И что ты проводишь большую часть своих дней, выпивая и играя в азартные игры.</color>
@@ -155,7 +155,7 @@
 Хиндли: Давай, Кэтрин. Дай мне что-нибудь, что угодно...
 
 # Original: <color=#c29a5f>... signed you up for the 'Abyss Trauma Correctional Facility' at M Corp.</color>
-Рассказчик: <color=#c29a5f>... записала тебя в "Исправительное учреждение Травмы Бездны" в Корп. M</color>
+Рассказчик: <color=#c29a5f>... записала тебя в "Исправительное учреждение Глубоких Травм" в М Корп.</color>
 
 # Original: <color=#c29a5f>If you don't visit the facility within 1 week after attending this will-reading...</color>
 Рассказчик: <color=#c29a5f>Если ты не посетишь учреждение в течение 1 недели после присутствия на этом чтении завещания...</color>
@@ -170,10 +170,10 @@
 Рассказчик: <color=#c29a5f>Я искренне надеюсь, что твоё сердце исцелится, дорогой брат.</color>
 
 # Original: NO! That's absolute nonsense...! How the hell am I even supposed to get to M Corp. in a week?!
-Хиндли: НЕТ! Это полный бред...! Как, чёрт возьми, я вообще должен добраться до Корп. M за неделю?!
+Хиндли: НЕТ! Это полный бред...! Как, чёрт возьми, я вообще должен добраться до М Корп. за неделю?!
 
 # Original: <color=#c29a5f>Of course, I have already prepared a WARP Train ticket to M Corp. for you, so please don't worry about the travel fees.</color>
-Рассказчик: <color=#c29a5f>Конечно, я уже подготовила для тебя билет на ВАРП-поезд до Корп. M, так что, пожалуйста, не беспокойся о расходах на дорогу.</color>
+Рассказчик: <color=#c29a5f>Конечно, я уже подготовила для тебя билет на WARP-поезд до М Корп. , так что, пожалуйста, не беспокойся о расходах на дорогу.</color>
 
 # Original: No, this is a load of shite!!!
 Хиндли: Нет, это полная чушь!!!
@@ -215,7 +215,7 @@
 Рассказчик: Одно лишь упоминание Золотой Ветви...
 
 # Original: ... suddenly intensified the sensation I felt earlier. I definitely sensed that the Golden Bough was located somewhere within this manor.
-Рассказчик: ... внезапно усилило ощущение, которое я чувствовал ранее. Я определённо ощущал, что Золотая Ветвь находилась где-то в этом особняке.
+Рассказчик: ... внезапно усилилось ощущение, которое я чувствовал ранее. Я определённо ощущал, что Золотая Ветвь находилась где-то в этом особняке.
 
 # Original: <…….>
 Данте: <…….>
@@ -242,7 +242,7 @@
 Хиндли: Какого чёрта это должно означать? Что...!
 
 # Original: There's more than one here.
-Рассказчик: Здесь их больше одной.
+Рассказчик: Их здесь больше одной.
 
 # Original: Dante. Are you all right?
 Фауст: Данте. Ты в порядке?
