@@ -80,7 +80,7 @@
 Дон Кихот: Посему~
 
 # Original: I-it's the Cinq Association!
-Рассказчик: Э-это Ассоциация Пяти!
+Рассказчик: Э-это Ассоциация Сэнк!
 
 # Original: O-oh boy, am I glad to have one of you here! Lemme request you to duel in my stead!
 Рассказчик: О-ох, как же я рад, что здесь есть кто-то из вас! Позвольте мне попросить вас сразиться вместо меня!
