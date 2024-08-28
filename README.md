@@ -325,6 +325,18 @@
 
 # Интерваллы
 
+## S.E.A.
+1. [Эпизод 1 (до боя)](./chapters/E401B.txt)
+2. [Эпизод 2 (до боя)](./chapters/E402B.txt)
+3. [Эпизод 3 (после боя)](./chapters/E402A.txt)
+4. [Эпизод 4 (до боя)](./chapters/E403B.txt)
+5. [Эпизод 5 (до боя)](./chapters/E404B.txt)
+6. [Эпизод 6 (до боя)](./chapters/E405B.txt)
+7. [Эпизод 7 (после боя)](./chapters/E405A.txt)
+8. [Эпизод 8 (до боя)](./chapters/E406B.txt)
+9. [Эпизод 9 (до боя)](./chapters/E407B.txt)
+10. [Эпизод 10 (после боя)](./chapters/E407A.txt)
+
 ## TimeKilling Time
 1. [Эпизод 1 (до боя)](./chapters/E601B.txt)
 2. [Эпизод 2 (после боя)](./chapters/E602A.txt)
