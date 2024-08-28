@@ -17,7 +17,7 @@
 Отис: Хм, это ничто по сравнению с тем, что мне приходилось делать в былые времена, когда я работала в инженерном корпусе...
 
 # Original: ...Outis, who appeared to be rather knowledgeable in engineering, continued to support Molar Boatworks' bus modifications.
-Рассказчик: ...Отис, которая, похоже, неплохо разбиралась в технике, продолжала помогать с модификациями автобуса Моларских Корабельщиков.
+Рассказчик: ...Отис, которая, похоже, неплохо разбиралась в технике, продолжала помогать с модификациями автобуса Мастерской Коренного.
 
 # Original: Miss Faust, do you by any chance possess any documentation of items that the Sinners may be partial to, or have preferences for in their personal information forms?
 И Сан: Мисс Фауст, нет ли у вас случайно каких-нибудь документов о вещах, которые Грешники могут предпочитать или иметь какие-то пристрастия, указанные в их личных делах?
