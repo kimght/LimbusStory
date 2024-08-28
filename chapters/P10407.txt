@@ -20,16 +20,16 @@
 Рассказчик: Большинство Корректировщиков всегда ищут всевозможные способы обрести силу.
 
 # Original: Minor augmentation procedures, unsightly and pointless enhancement tattoos... pouring every bit of Ahn they make into those useless things just to survive in the City.
-Рассказчик: Мелкие процедуры по усовершенствованию, уродливые и бессмысленные татуировки для улучшения... вкладывают каждый Ан, который зарабатывают, в эти бесполезные вещи, просто чтобы выжить в Городе.
+Рассказчик: Мелкие аугментационные процедуры, уродливые и бессмысленные татуировки для улучшения... вкладывают каждый Ан, который зарабатывают, в эти бесполезные вещи, просто чтобы выжить в Городе.
 
 # Original: How pointless of an endeavor it is. Such things are not the factors deciding who lives and who dies in a battle.
 Рассказчик: Насколько бессмысленно это стремление. Такие вещи не являются факторами, определяющими, кто выживет, а кто погибнет в бою.
 
 # Original: Augmented body in lieu of the experienced mind to properly use them is no different from an automated training dummy.
-Рассказчик: Усовершенствованное тело без опытного разума, способного правильно его использовать, ничем не отличается от автоматизированного манекена для тренировок.
+Рассказчик: Аугментированное тело без опытного разума, способного правильно его использовать, ничем не отличается от автоматизированного манекена для тренировок.
 
 # Original: In other words... experience built up through endless training is an augmentation unique only to yourself, something that cannot be bought simply by shelling out money.
-Рассказчик: Другими словами... опыт, накопленный в результате бесконечных тренировок, - это усовершенствование, уникальное только для вас самих, то, что нельзя купить, просто выложив деньги.
+Рассказчик: Другими словами... опыт, накопленный в результате бесконечных тренировок, - это аугментация, уникальное только для вас самих, то, что нельзя купить, просто выложив деньги.
 
 # Original: ... Of course, expensive weaponry and a augmented body would certainly aid me in my quest for strength.
 Рассказчик: ... Конечно, дорогое оружие и усовершенствованное тело, безусловно, помогли бы мне в моем стремлении к силе.
