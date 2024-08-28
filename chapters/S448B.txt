@@ -5,7 +5,7 @@
 Отис: Кровохарканье. Обнадеживающий признак.
 
 # Original: Even with the repeated training with Qliphoth deterrence, abuse of E.G.O will still push the user's body to the limit.
-Фауст: Даже при регулярных тренировках с сдерживанием Клифот, злоупотребление E.G.O все равно доведет тело пользователя до предела.
+Фауст: Даже при регулярных тренировках с подавлением Клипот, злоупотребление ЭГО все равно доведет тело пользователя до предела.
 
 # Original: Will you return the Golden Bough now, Dongbaek?
 Донран: Теперь ты вернешь Золотую Ветвь, Донбек?
@@ -20,7 +20,7 @@
 Донран: А ты все еще слаба. По-прежнему.
 
 # Original: Even with the E.G.O from Lobotomy Corp, this was below my expectations, Dongbaek.
-Донран: Даже с E.G.O из Корпорации Лоботомия, это было ниже моих ожиданий, Донбек.
+Донран: Даже с ЭГО из Корпорации Лоботомия, это было ниже моих ожиданий, Донбек.
 
 # Original: Besides... I haven't even introduced you to the technology I developed. I know, why don't we hold our first conference in a while?
 Донран: Кроме того... я даже не представил тебе технологию, которую я разработал. Знаешь что, давай проведем нашу первую за долгое время конференцию?
@@ -203,7 +203,7 @@
 Донран: Когда твоя группа захватила филиал Лоботомии, где я как раз проводил свои исследования...
 
 # Original: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
-Донран: Ты, вероятно, сказала своим последователям, что это для расследования Сингулярности, но на самом деле ты поняла, что можешь найти фрагменты технологий, которые можно использовать как оружие, не так ли? Например, E.G.O.
+Донран: Ты, вероятно, сказала своим последователям, что это для расследования Сингулярности, но на самом деле ты поняла, что можешь найти фрагменты технологий, которые можно использовать как оружие, не так ли? Например, ЭГО.
 
 # Original: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?
 Донран: Интересно, кто дал тебе всю эту ценную информацию. Шренн не могла этого знать. Может, сыграем в двадцать вопросов, расскажешь мне таким образом?
@@ -308,7 +308,7 @@
 Родион: Эй... Точно нормально оставить ее в таком состоянии?
 
 # Original: You know... Your mind doesn't work right when you're using E.G.O...
-Родион: Знаешь... Разум не работает правильно, когда используешь E.G.O...
+Родион: Знаешь... Разум не работает правильно, когда используешь ЭГО...
 
 # Original: Now hold on... Are you doing this on purpose...? Taunt her as much as you can...
 Хитклиф: Погоди-ка... Ты делаешь это нарочно...? Дразнишь ее как можно сильнее...

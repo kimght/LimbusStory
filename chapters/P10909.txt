@@ -1,5 +1,5 @@
 # Original: A restaurant in T Corp.
-Рассказчик: Ресторан в T Corp.
+Рассказчик: Ресторан в Корпорации T.
 
 # Original: By the— Behold this glorious piece of steak! 'Tis practically dripping with juice!
 Дон Кихот: Боже правый! Узрите сей славный кусок стейка! Он буквально истекает соком!
@@ -59,10 +59,10 @@
 Рассказчик: Она права. Не то чтобы у нас часто бывает возможность для такого выхода, да?
 
 # Original: Her coworker was right. T Corp. employees of different Classes rarely dined together.
-Рассказчик: Ее коллега был прав. Сотрудники T Corp. разных Классов редко обедали вместе.
+Рассказчик: Ее коллега был прав. Сотрудники Корпорации T разных Классов редко обедали вместе.
 
 # Original: Because they all lived varying hours in a given day, most T Corp. employees preferred to dine with those living in similar time scales.
-Рассказчик: Поскольку они все жили в разных временных масштабах в течение дня, большинство сотрудников T Corp. предпочитали обедать с теми, кто жил в схожих временных масштабах.
+Рассказчик: Поскольку они все жили в разных временных масштабах в течение дня, большинство сотрудников Корпорации T предпочитали обедать с теми, кто жил в схожих временных масштабах.
 
 # Original: To dine together without making each other uncomfortable, their only choice was to go to a restaurant under the TT4 Protocol...
 Рассказчик: Чтобы обедать вместе, не создавая друг другу неудобств, их единственным выбором было идти в ресторан по Протоколу TT4...
@@ -116,7 +116,7 @@
 Рассказчик: Эмм, да. Увидимся.
 
 # Original: The child departed the restaurant for the Backstreets of T Corp.
-Рассказчик: Дитя покинула ресторан и направилась в Подворотни T Corp.
+Рассказчик: Дитя покинула ресторан и направилась в Подворотни Корпорации T.
 
 # Original: Her job today consisted of conducting on-site report verification, contacting the Technology Administration Agency with her findings, and retrieving any and all unregistered inventions.
 Рассказчик: Ее сегодняшняя работа состояла в проведении проверки отчетов на месте, связи с Агентством по управлению технологиями с ее выводами и изъятии всех незарегистрированных изобретений.
@@ -145,13 +145,13 @@
 Рассказчик: Дитя просто давала ему завышенное число, чтобы немного присвоить себе для личного использования.
 
 # Original: Embezzlement is a common practice among the lower-ranking, underpaid Collection Staff at T Corp.
-Рассказчик: Растрата - обычная практика среди низкоранговых, низкооплачиваемых Сотрудников сбора в T Corp.
+Рассказчик: Растрата - обычная практика среди низкоранговых, низкооплачиваемых Сотрудников сбора в Корпорации T.
 
 # Original: They fine people for more than they owe, and take the surplus time for themselves.
 Рассказчик: Они штрафуют людей на большую сумму, чем те должны, и забирают излишек времени себе.
 
 # Original: Most Citizens of T Corp. already know this, but they simply allow it to happen because they don't want to risk beefing with a Collector, which is usually more trouble than it's worth.
-Рассказчик: Большинство Граждан T Corp. уже знают об этом, но просто позволяют этому происходить, потому что не хотят рисковать конфликтовать с Сборщиком, что обычно приносит больше проблем, чем пользы.
+Рассказчик: Большинство Граждан Корпорации T уже знают об этом, но просто позволяют этому происходить, потому что не хотят рисковать конфликтовать с Сборщиком, что обычно приносит больше проблем, чем пользы.
 
 # Original: Besides, you should consider yourself lucky that it's me you're dealing with. The other guys would've tried to rip you off for ten hours per item or something ridiculous like that.
 Родион: Кроме того, тебе повезло, что ты имеешь дело со мной. Другие ребята попытались бы содрать с тебя по десять часов за предмет или что-то столь же нелепое.
@@ -202,7 +202,7 @@
 Рассказчик: Механизм гремит и поворачивается — и ее тело начинает мерцать остаточными изображениями.
 
 # Original: The T Corp. Collectors' standard issue watch.
-Рассказчик: Стандартные часы Сборщиков T Corp.
+Рассказчик: Стандартные часы Сборщиков Корпорации T.
 
 # Original: Once she depletes all the time that is assigned to her for the mission, she'll have to resort to using her own time.
 Рассказчик: Как только она израсходует все время, выделенное ей на миссию, ей придется прибегнуть к использованию своего собственного времени.

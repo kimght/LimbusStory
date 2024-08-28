@@ -83,7 +83,7 @@
 Рассказчик: Что-то необратимое должно было произойти в одном из вагонов первого класса.
 
 # Original: But the children, who were but lowly employees, had no way of knowing exactly occurred in there. Only the higher-ups at W Corp. would be privy to such information.
-Рассказчик: Но дети, будучи всего лишь рядовыми сотрудниками, не могли знать, что именно там произошло. Такой информацией владело только высшее руководство W Corp.
+Рассказчик: Но дети, будучи всего лишь рядовыми сотрудниками, не могли знать, что именно там произошло. Такой информацией владело только высшее руководство Корпорации W.
 
 # Original: The child also knew that employees trying to dig into such truths would be, for the Wing, cause for an 'incident' greater than 'the incident' itself.
 Рассказчик: Дитя также знало, что сотрудники, пытающиеся докопаться до такой правды, стали бы для Крыла причиной "инцидента", превосходящего сам "инцидент".
@@ -149,7 +149,7 @@
 Отис: Может быть засада, так что держите барьеры заряда активными. Разрывайте пространство каждый раз, когда у вас достаточно заряда, чтобы разорвать забаррикадированные двери.
 
 # Original: Thanks to the child's methodical and systematic employment of her subordinates and their W Corp. issued weapons, her team usually blitzes through the train cars at a much faster pace than the estimates written on the employee manual.
-Рассказчик: Благодаря методичному и систематическому использованию дитя своих подчиненных и их оружия, выданного W Corp., ее команда обычно проносится через вагоны поезда гораздо быстрее, чем предполагают оценки, написанные в руководстве сотрудника.
+Рассказчик: Благодаря методичному и систематическому использованию дитя своих подчиненных и их оружия, выданного Корпорации W, ее команда обычно проносится через вагоны поезда гораздо быстрее, чем предполагают оценки, написанные в руководстве сотрудника.
 
 # Original: We're ahead of schedule again.
 Отис: Мы снова опережаем график.

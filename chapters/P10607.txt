@@ -62,25 +62,25 @@
 Хон Лу: Ну, если вам всё равно... Я думаю, мне нравится получать стабильную оплату за убийство людей.
 
 # Original: Who would've thunk that people like us, people from a killer Syndicate, would be working for an Office? Business cards and all.
-Хон Лу: Кто бы мог подумать, что такие, как мы, люди из убийственного Синдиката, будут работать на Отдел? С визитками и всем прочим.
+Хон Лу: Кто бы мог подумать, что такие, как мы, люди из убийственного Синдиката, будут работать на Офис? С визитками и всем прочим.
 
 # Original: S.O.R. Picking up the Backstreets dogs like us... Now that's one strange Office Rep.
-Рёшу: З.Д.С. Подбирает таких дворняг из Подворотен, как мы... Вот это странный Представитель Отдела.
+Рёшу: З.Д.С. Подбирает таких дворняг из Подворотен, как мы... Вот это странный Представитель Офиса.
 
 # Original: This is our niche. There are as many Offices as there are Syndicates; it is a reasonable choice for a businessman to prioritize a smaller niche in an over-saturated market.
-Мерсо: Это наша ниша. Отделов столько же, сколько и Синдикатов; это разумный выбор для бизнесмена — сосредоточиться на меньшей нише на перенасыщенном рынке.
+Мерсо: Это наша ниша. Офисов столько же, сколько и Синдикатов; это разумный выбор для бизнесмена — сосредоточиться на меньшей нише на перенасыщенном рынке.
 
 # Original: Hm... But I have a feeling that this Office won't last long.
-Хон Лу: Хм... Но у меня такое чувство, что этот Отдел долго не протянет.
+Хон Лу: Хм... Но у меня такое чувство, что этот Офис долго не протянет.
 
 # Original: We can tear people up into pretty little straps and hang them up all day... But it's not like we're leaving our business cards behind. There's no way to get the Office's name out there.
-Хон Лу: Мы можем разрывать людей на красивые ленточки и развешивать их хоть целый день... Но мы же не оставляем свои визитки. Нет способа распространить имя Отдела.
+Хон Лу: Мы можем разрывать людей на красивые ленточки и развешивать их хоть целый день... Но мы же не оставляем свои визитки. Нет способа распространить имя Офиса.
 
 # Original: I.A. This canvas is not nearly good enough for real, proper art.
 Рёшу: С.С. Этот холст недостаточно хорош для настоящего, правильного искусства.
 
 # Original: This Office isn't going to get any new clientele beyond fledgling Syndicates or other poor people who want to hire us for petty scare jobs.
-Хон Лу: Этот Отдел не получит новых клиентов, кроме начинающих Синдикатов или других бедняков, которые хотят нанять нас для мелких запугиваний.
+Хон Лу: Этот Офис не получит новых клиентов, кроме начинающих Синдикатов или других бедняков, которые хотят нанять нас для мелких запугиваний.
 
 # Original: Will you propose an alternative, then?
 Мерсо: Тогда ты предложишь альтернативу?

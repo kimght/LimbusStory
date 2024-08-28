@@ -17,7 +17,7 @@
 Рассказчик: Другое дитя, разъяренное и расстроенное, глубоко вздохнуло и закрыло глаза с раздражением.
 
 # Original: They were members of the Blade Lineage on the run... but as soon as they clear their names, as soon as they can return to S Corp... they will be taking jobs as personal guards of the high-ranking officials.
-Рассказчик: Они были членами Клана Клинка в бегах... но как только они очистят свои имена, как только они смогут вернуться в Корпорацию S... они будут работать личными телохранителями высокопоставленных чиновников.
+Рассказчик: Они были членами Родословной Клинка в бегах... но как только они очистят свои имена, как только они смогут вернуться в Корпорацию S... они будут работать личными телохранителями высокопоставленных чиновников.
 
 # Original: And that meant that they would have to know high society etiquette by heart in case they had to join them for a meal. The other child's head began to fill with all kinds of terrible faux pas shenanigans that this child would put herself into.
 Рассказчик: А это означало, что им нужно было знать этикет высшего общества наизусть на случай, если им придется присоединиться к ним за трапезой. Голова другого дитя начала наполняться всевозможными ужасными сценариями фо па, в которые это дитя могло бы себя втянуть.
@@ -158,7 +158,7 @@
 Рассказчик: Хотя они и не начинали как члены Синдиката, бродящие по Подворотням, причина, по которой члены Клана Клинка без колебаний убивают людей...
 
 # Original: ... is that they have all each been slayers for a long time. Blade Lineage or not.
-Рассказчик: ... в том, что они все давно уже убийцы. Член Клана Клинка или нет.
+Рассказчик: ... в том, что они все давно уже убийцы. Член Родословной Клинка или нет.
 
 # Original: Yet, there is a difference.
 Рассказчик: Однако есть разница.

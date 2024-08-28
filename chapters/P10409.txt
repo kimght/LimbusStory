@@ -1,5 +1,5 @@
 # Original: T Corp. Staff standard issue weaponry. A rice cooker that doubles as a slow cooker for hearty beef stew. Cute, chicken-shaped plush. Lollipop candies of various flavor, too.
-Рассказчик: Стандартное оружие сотрудников T Corp. Рисоварка, которая также служит медленноваркой для сытного говяжьего рагу. Милая плюшевая игрушка в виде курицы. И леденцы разных вкусов.
+Рассказчик: Стандартное оружие сотрудников Корпорации T. Рисоварка, которая также служит медленноваркой для сытного говяжьего рагу. Милая плюшевая игрушка в виде курицы. И леденцы разных вкусов.
 
 # Original: All kinds of items are on display in each stall...
 Рассказчик: Всевозможные предметы выставлены в каждой лавке...
@@ -185,7 +185,7 @@
 Рассказчик: Именно тогда она заметила короткую вспышку света рядом с уличным фонарем.
 
 # Original: A T Corp. surveillance camera.
-Рассказчик: Камера наблюдения T Corp.
+Рассказчик: Камера наблюдения Корпорации T.
 
 # Original: Tsk, that recording won't do this piece of art justice.
 Рёшу: Тск, эта запись не отдаст должное этому произведению искусства.
