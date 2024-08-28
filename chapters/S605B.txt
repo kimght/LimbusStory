@@ -17,10 +17,10 @@
 Данте: <Ты случайно не бывал здесь, И Сан?>
 
 # Original: He was the only other Sinner who had spent a while in T Corp., so I decided to ask if he recognized anything. But it was evident that this scenery was unfamiliar to him.
-Рассказчик: Он был единственным другим Грешником, который провел некоторое время в Корп. T, поэтому я решил спросить, узнает ли он что-нибудь. Но было очевидно, что этот пейзаж был ему незнаком.
+Рассказчик: Он был одним из единственным другим Грешником, который провел некоторое время в Корпорации Т, поэтому я решил спросить, узнает ли он что-нибудь. Но было очевидно, что этот пейзаж был ему незнаком.
 
 # Original: Though I have resided here for some time, most of my hours were spent earning a living and conducting my research when I could afford to do so. Thus I have not ventured freely the streets of T Corp.
-И Сан: Хоть я и пребывал здесь некоторое время, большую часть часов я проводил, зарабатывая на жизнь и занимаясь исследованиями, когда мог себе это позволить. Посему я не имел возможности свободно бродить по улицам Корп. T.
+И Сан: Хоть я и пребывал здесь некоторое время, большую часть часов я проводил, зарабатывая на жизнь и занимаясь исследованиями, когда мог себе это позволить. Посему я не имел возможности свободно бродить по улицам Корпорации Т.
 
 # Original: <I can’t imagine doing any research at a place like this… Can’t have been easy.>
 Данте: <Не могу представить, как можно проводить какие-либо исследования в таком месте... Должно быть, было нелегко.>
@@ -35,7 +35,7 @@
 Рассказчик: И Сан смотрит куда-то вдаль, далеко отсюда. Скорее всего, в воспоминания о своем прошлом.
 
 # Original: … Did you ever hear anything about what T Corp.’s Singularity is?
-Измаил: ... Ты когда-нибудь слышал что-нибудь о том, что представляет собой Сингулярность Корп. T?
+Измаил: ... Ты когда-нибудь слышал что-нибудь о том, что представляет собой Сингулярность Корпорации Т?
 
 # Original: … As all Singularities are, its true nature, its mechanisms, and function are all something of an enigma. Yet...
 И Сан: ... Как и все Сингулярности, ее истинная природа, механизмы и функции - все это загадка. Однако...
@@ -53,19 +53,19 @@
 Фауст: …….
 
 # Original: Its singularity is one of the reasons T Corp. constantly drains colors from its inhabitants.
-Фауст: Ее Сингулярность - одна из причин, по которой Корп. T постоянно вытягивает цвета из своих обитателей.
+Фауст: Ее Сингулярность - одна из причин, по которой Корпорации Т постоянно вытягивает цвета из своих обитателей.
 
 # Original: What’s time got to do with… color?
 Родион: Какое отношение время имеет к... цвету?
 
 # Original: If the control of time is so imperative to T Corp.'s operations... then they must also control the realm of ‘light’.
-Фауст: Если контроль над временем настолько важен для операций Корп. T... то они должны также контролировать область 'света'.
+Фауст: Если контроль над временем настолько важен для операций Корпорации Т... то они должны также контролировать область 'света'.
 
 # Original: As light inherently has much to do with the spectrum of colors, these two subjects eventually overlap.
 Фауст: Поскольку свет по своей природе тесно связан со спектром цветов, эти две темы в конечном итоге пересекаются.
 
 # Original: That is as far as I could deduce regarding the concept of time that I am aware of. Yet, it must also be said that it takes time for me to reach Faust’s specific knowledge regarding T Corp.’s Singularity.
-Фауст: Это все, что я могла вывести относительно концепции времени, о которой мне известно. Однако следует также отметить, что Фауст требуется время, чтобы получить доступ к конкретным знаниям о Сингулярности Корп. T.
+Фауст: Это все, что я могла вывести относительно концепции времени, о которой мне известно. Однако следует также отметить, что Фауст требуется время, чтобы получить доступ к конкретным знаниям о Сингулярности Корпорации Т.
 
 # Original: Faust, known among us for her ‘Hm.’, ‘Maybe.’, and ‘Perhaps.’… rarely ever gave us answers this detailed.
 Рассказчик: Фауст, известная среди нас своими "Хм.", "Возможно." и "Пожалуй."... редко давала нам столь подробные ответы.
@@ -77,7 +77,7 @@
 И Сан: Мисс Фауст, пока мы обсуждаем тему времени—
 
 # Original: Indeed. It would be safe for us to move on from the subject of T Corp. at this time.
-Фауст: Действительно. Будет безопаснее для нас перейти от темы Корп. T в данный момент.
+Фауст: Действительно. Будет безопаснее для нас отойти от темы Корпорации Т в данный момент.
 
 # Original: <Aw...>
 Данте: <Ох...>
@@ -170,7 +170,7 @@
 Хитклиф: Это цвет, который получается, когда вываливаешь в ведро весь набор красок, верно?
 
 # Original: And that’s exactly why I tolerate it. Keep throwing paint over paint over paint… and you get black. Simple.
-Хитклиф: И именно поэтому я его терплю. Продолжаешь лить краску на краску на краску... и получаешь черный. Просто.
+Хитклиф: И именно поэтому я его выношу. Продолжаешь лить краску, на краску, на краску... и получаешь черный. Просто.
 
 # Original: I can clearly hear that Heathcliff is muttering through gritted teeth.
 Рассказчик: Я отчетливо слышу, что Хитклиф бормочет сквозь стиснутые зубы.

@@ -53,16 +53,16 @@
 И Сан: ...Я могу это оплатить. Поэтому предлагаю закрыть этот вопрос.
 
 # Original: Wait, why haven't I been told about this before? Seized? Did you know all along, Young-ji? I want to hear it from you directly.
-Донгбек: Подождите, почему мне об этом раньше не сказали? Конфискация? Ты всё это время знал, Ён-джи? Я хочу услышать это напрямую от тебя.
+Донбек: Подождите, почему мне об этом раньше не сказали? Конфискация? Ты всё это время знал, Ён-джи? Я хочу услышать это напрямую от тебя.
 
 # Original: I understand that you're upset, but be mindful of what you say to Brother Young-ji, Dongbaek.
-Отис: Я понимаю, что ты расстроена, но будь осторожна в выражениях по отношению к брату Ён-джи, Донгбек.
+Отис: Я понимаю, что ты расстроена, но будь осторожна в выражениях по отношению к брату Ён-джи, Донбек.
 
 # Original: I'm fine, Sang-heo.
 Хон Лу: Всё в порядке, Сан-хо.
 
 # Original: Dongbaek, I was planning to tell you once it had been dealt with. I figured you'd be the first to get furious about matters concerning the League.
-Хон Лу: Донгбек, я планировал рассказать тебе, когда вопрос будет решён. Я полагал, что ты первая разозлишься по поводу всего, что касается Лиги.
+Хон Лу: Донбек, я планировал рассказать тебе, когда вопрос будет решён. Я полагал, что ты первая разозлишься по поводу всего, что касается Лиги.
 
 # Original: And Yi Sang, while I sincerely appreciate your offer, I couldn't possibly take it.
 Хон Лу: А И Сан, хоть я и искренне ценю твоё предложение, я никак не могу его принять.

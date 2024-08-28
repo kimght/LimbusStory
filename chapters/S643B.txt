@@ -11,7 +11,7 @@
 Мерсо: Возможно, была вовлечена третья сторона, которая помогла Линтону и Кэтрин.
 
 # Original: With what information we gathered from this Aseah... all evidence seems to point to Director Hermann of N Corp. being our 'third party'.
-Отис: Судя по информации, которую мы собрали от этой Асеи... все улики, похоже, указывают на директора Герман из Корп. N. как на нашу "третью сторону".
+Отис: Судя по информации, которую мы собрали от этой Асеи... все улики, похоже, указывают на директора Герман из Корпорации N. как на нашу "третью сторону".
 
 # Original: Right... hiring former Ring researchers of all people? That's not something you see every day.
 Родион: Верно... нанимать бывших исследователей Безымянного Пальца? Такое не каждый день увидишь.
@@ -26,7 +26,7 @@
 Нелли: Тогда вам, должно быть, пришлось сражаться со многими людьми во время вашего путешествия.
 
 # Original: Hm. I suppose every day's been like a battlefield. We've all seen more than enough of our share of battles.
-Грегор: Хм. Полагаю, каждый день был как на поле боя. Мы все насмотрелись более чем достаточно сражений.
+Грегор: Хм. Полагаю, каждый день был как на поле боя. Мы все повидали на свою долю более чем достаточно сражений.
 
 # Original: Can't say I disagree with that comparison. Except we have tasted nothing but victory so far.
 Отис: Не могу не согласиться с этим сравнением. За исключением того, что до сих пор мы пробовали на вкус только победу.

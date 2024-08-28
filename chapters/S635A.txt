@@ -8,10 +8,10 @@
 Измаил: ... Как ты себя чувствуешь?
 
 # Original: Like shite.
-Хитклиф: Паршиво.
+Хитклиф: Дерьмовым.
 
 # Original: And miserable.
-Хитклиф: И отвратительно.
+Хитклиф: И жалким.
 
 # Original: These bodies... your wounds... I did that, didn't I?
 Хитклиф: Эти тела... ваши раны... это я сделал, верно?
