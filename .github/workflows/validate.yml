@@ -2,9 +2,6 @@ name: Validate Translation
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   pull_request:
     types: [opened, reopened, edited]
     branches-ignore:
