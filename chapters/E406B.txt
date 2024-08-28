@@ -1,5 +1,5 @@
 # Original: The days were as suffocating for them as it was for me.
-Рассказчик: Дни были такими же удушающими для них, как и для меня.
+Рассказчик: Для них дни были такими же удушающими, как и для меня.
 
 # Original: Well, save for Outis, maybe...
 Рассказчик: Ну, кроме разве что Отис...
@@ -11,7 +11,7 @@
 Мика: И что же нам тогда делать? Там же три отдельных провода.
 
 # Original: Amateurish. Allow me to demonstrate.
-Отис: Непрофессионально. Позвольте мне показать.
+Отис: Дилетанты. Позвольте мне показать.
 
 # Original: Hmph, this is nothing compared to what I had to do back in the day, when I worked with the engineering corps...
 Отис: Хм, это ничто по сравнению с тем, что мне приходилось делать в былые времена, когда я работала в инженерном корпусе...
@@ -26,13 +26,13 @@
 Фауст: ...Мы не храним записи о таких деталях.
 
 # Original: Yi Sang, as I have informed you repeatedly, it is the best policy as a Sinner to leave the decisions to the manager's...
-Фауст: И Сан, как я уже неоднократно информировала вас, для Грешника лучше всего оставлять решение менеджеру...
+Фауст: И Сан, как я уже неоднократно информировала вас, будучи Грешником лучше всего оставлять все решения менеджеру...
 
 # Original: Oiiyi~ There's nothing like booze and gettin' right sloshed to mend a broken friendship! What, maybe you could try my secret weapon?
 Ольга: Ойи~ Ничто так не лечит сломанную дружбу, как выпивка и качественная попойка! Может, тебе стоит попробовать мое секретное оружие?
 
 # Original: No way... you mean the king trash crab brain wine that you've been talking about?
-Рейн: Да ладно... ты про то крабье мозговое вино из королевского мусора, о котором постоянно говоришь?
+Рейн: Да ладно... ты про то королевское мусорно-крабовое мозговое вино, о котором постоянно говоришь?
 
 # Original: Ooh... color me interested, actually.
 Родион: Ого... звучит интересно, честно говоря.
@@ -59,7 +59,7 @@
 Рёшу: Ах да... Возможно, сделать это, пока они еще живы, было бы способом двигаться в новом направлении в искусстве, в духе авангардизма.
 
 # Original: My suggestion was not to inflict them further pain. Simply a more appropriate method of engaging in the culinary arts.
-Мерсо: Я не предлагал причинять им дополнительную боль. Просто более подходящий метод занятия кулинарным искусством.
+Мерсо: Мое предложение состояло в том, чтобы не причинять им дальнейшей боли. Просто более подходящий метод занятия кулинарным искусством.
 
 # Original: I'm sorry, but... when's dinner? You've been having this same conversation for the last 30 minutes...
 Мика: Извините, но... когда ужин? Вы уже полчаса ведете этот разговор...
@@ -95,13 +95,13 @@
 Рассказчик: Большинство других Грешников занимались охотой на мусорных крабов и сбором металлолома.
 
 # Original: They say that practice makes perfect. And everyone was already performing rather well-coordinated attacks even without my input.
-Рассказчик: Говорят, практика делает совершенным. И все уже неплохо координировали атаки, даже без моих указаний.
+Рассказчик: Говорят, что практика приводит к совершенству. И все уже неплохо координировали атаки, даже без моих указаний.
 
 # Original: As for Heathcliff...
 Рассказчик: Что же до Хитклифа...
 
 # Original: Woah, Gregor~! Are you showing off your rotisserie skills?
-Хон Лу: Ого, Грегор~! Ты показываешь свои навыки гриль?
+Хон Лу: Ого, Грегор~! Ты демонстрируешь свои навыки приготовления на гриле?
 
 # Original: Insipid. Your flames lack flair.
 Рёшу: Безвкусно. Твоему пламени не хватает изюминки.
@@ -110,10 +110,10 @@
 Синклер: П-подождите! Он просто кремирует его!
 
 # Original: It has been extracted. However, this can no longer serve its function as a proper source of nutrients.
-Мерсо: Оно извлечено. Однако оно больше не сможет послужить надлежащим источником питательных веществ.
+Мерсо: Оно экстрагировано. Однако оно больше не сможет послужить надлежащим источником питательных веществ.
 
 # Original: G-give it hither! I have consumed naught but 3 legs so far!
-Дон Кихот: С-сюда его! Я съел всего 3 ноги до этого!
+Дон Кихот: Д-давайте сюда! Я съела всего 3 ножки до этого!
 
 # Original: ...Ah!
 И Сан: ...Ах!
@@ -131,7 +131,7 @@
 Хитклиф: Ах, эй. Это, эм...
 
 # Original: The guide and I had a chat. I'm... okay now.
-Хитклиф: Мы с гидом поговорили. Я... в порядке теперь.
+Хитклиф: Мы с гидом поговорили. Я... теперь в порядке.
 
 # Original: Was it... really just a chat?
 Родион: Это... действительно был просто разговор?
@@ -155,7 +155,7 @@
 Рассказчик: Но Измаил...
 
 # Original: ...A moment, Dante?
-Вергилий: ...Удели мне минутку, Данте?
+Вергилий: ...Уделишь мне минутку, Данте?
 
 # Original: Haah, well... As one-sided as this chat is going to be...
 Вергилий: Хаах, что ж... Каким бы односторонним ни был этот разговор...
@@ -185,10 +185,10 @@
 Вергилий: Ты, наверное, задаешься вопросом, о чем это я.
 
 # Original: I hope you aren't expecting me to kindly explain everything to you. You will realize it on your own soon enough.
-Вергилий: Надеюсь, ты не ожидаешь, что я любезно все тебе объясню. Ты сам это поймешь достаточно скоро.
+Вергилий: Надеюсь, ты не ожидаешь, что я любезно все тебе объясню. Достаточно скоро ты сам это поймешь.
 
 # Original: After all, this... babysitting and fostering nonsense is not a part of my work, Manager Dante.
-Вергилий: В конце концов, эти... нянченья и воспитания - не часть моей работы, менеджер Данте.
+Вергилий: В конце концов, эти... нянченье и воспитания - не часть моей работы, менеджер Данте.
 
 # Original: <I know you're putting in extra work... and I appreciate it.>
 Данте: <Я знаю, что ты делаешь дополнительную работу... и ценю это.>
@@ -200,16 +200,16 @@
 Вергилий: Можешь считать "разговор", который я добровольно провел с этими двумя, небольшой услугой от меня за твою приличную работу в последнее время.
 
 # Original: Now, I have remaining business with the Fixers of Molar Office.
-Вергилий: А теперь у меня остались дела с Корректировщиками Моларского Офиса.
+Вергилий: А теперь у меня остались дела с Корректировщиками Офиса Коренного.
 
 # Original: ...Like that, Ishmael was left alone, with little progress to speak of.
-Рассказчик: ...Вот так Измаил осталась одна и особого прогресса не наблюдалось.
+Рассказчик: ...Вот так Измаил осталась одна и какого-то особого прогресса не наблюдалось.
 
 # Original: According to the people from the boatworks, she apparently snuck out alone late at night to make various preparations.
-Рассказчик: По словам Корабельщиков, она, видимо, ускользала по ночам в одиночку, чтобы сделать какие-то приготовления.
+Рассказчик: По словам ребят из Мастерской, она, видимо, ускользала по ночам в одиночку, чтобы сделать какие-то приготовления.
 
 # Original: Even when I visited her, when I found her hanging about and called over to her...
-Рассказчик: Даже когда я пришел к ней, застал ее слоняющейся без дела и окликнул...
+Рассказчик: Даже когда я пришел к ней, я застал ее слоняющейся без дела и окликнул...
 
 # Original: ……
 Измаил: ......
@@ -218,7 +218,7 @@
 Рассказчик: Она совсем не отреагировала.
 
 # Original: She wasn't ignoring me. Rather... she seemed too deeply fixated on what she was doing.
-Рассказчик: Она не игнорировала меня. Скорее... слишком глубоко погрузилась в свое занятие.
+Рассказчик: Она не игнорировала меня. Скорее... слишком глубоко погрузилась в чем занималась.
 
 # Original: What should I do about her? No, what was I supposed to do then?
 Рассказчик: Что же мне с ней делать? Нет, что я должен был тогда сделать?

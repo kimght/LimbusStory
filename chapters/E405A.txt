@@ -71,7 +71,7 @@
 Измаил: И... я же не говорю, что мы должны просто сидеть полгода сложа руки. Я говорю, что нам сначала нужно посетить другие места, прежде чем возвращаться сюда.
 
 # Original: That is impossible. Not every location of Golden Boughs in the Nests has been identified, and the Before Team hasn't completed their preliminary surveys yet.
-Фауст: Это невозможно. Не все локации Золотых Ветвей в Гнездах идентифицированы, и Команда"До" еще не завершила предварительные исследования.
+Фауст: Это невозможно. Не все локации Золотых Ветвей в Гнездах идентифицированы, и Команда "До" еще не завершила предварительные исследования.
 
 # Original: Excuses.
 Измаил: Отговорки.
@@ -104,10 +104,10 @@
 Измаил: В чем твоя проблема?
 
 # Original: Shut your gob. Think you're the only one struggling here? We've all died more times than we can count. Every single one of us!
-Хитклиф: Заткнись. Думаешь, ты тут одна мучаешься? Мы все умирали чаще, чем можем сосчитать. Каждый из нас!
+Хитклиф: Заткнись уже. Думаешь, ты тут одна мучаешься? Мы все умирали чаще, чем можем сосчитать. Каждый из нас!
 
 # Original: So I'm telling you that it'll work out again, somehow!
-Хитклиф: Поэтому я говорю тебе, что все как-нибудь наладится!
+Хитклиф: Поэтому я и говорю тебе, что все как-нибудь наладится!
 
 # Original: And I'm telling you that the Great Lake is different. What if the manager drowns? What if that thing eats us and our bodies can't be recovered?
 Измаил: А я говорю тебе, что Великое Озеро - это другое. Что, если менеджер утонет? Что, если эта тварь сожрет нас, и наши тела не смогут восстановиться?
@@ -119,13 +119,13 @@
 Измаил: Тогда у меня... не будет шанса убить этого ублюдка...
 
 # Original: ...Okay. Let's say that you're right. If we go now, we're all going to bite it and I won't be able to get Cath... I mean, get back up.
-Хитклиф: ...Ладно. Предположим, ты права. Если мы пойдем сейчас, нам всем крышка, и я не смогу вернуть Кэт... то есть, подняться.
+Хитклиф: ...Ладно. Предположим, ты права. Если мы пойдем сейчас, нам всем крышка, и я не смогу вернуть Кэт... то есть, вернуться живыми.
 
 # Original: So what's wrong with faffin' about for a little while? What, are those whales working out or something?
-Хитклиф: Так что плохого в том, чтобы немного побездельничать? Что, эти киты качаются или что?
+Хитклиф: Так что плохого в том, чтобы немного побездельничать? Что, эти киты тренируются или что?
 
 # Original: You've been mucking up the mood ever since we got here, so how about you use some bloody common sense to not bring everyone else down with you!
-Хитклиф: Ты портишь всем настроение с самого нашего прибытия, так что, может, воспользуешься своим хваленым здравым смыслом и не будешь тянуть всех за собой на дно!
+Хитклиф: Ты портишь всем настроение с самого нашего прибытия, так что, может, воспользуешься своим хваленым здравым смыслом и не будешь тянуть нас всех за собой на дно!
 
 # Original: That's rich coming from you, Heathcliff.
 Измаил: Это ты мне говоришь, Хитклиф?
@@ -137,7 +137,7 @@
 Измаил: Что ты вообще знаешь о жизни моряка? Ха, откуда тебе знать? Целыми днями ты ноешь о своей подружке, дремлешь в автобусе или время от времени закатываешь истерики!
 
 # Original: ...Quit it.
-Хитклиф: ...Прекрати.
+Хитклиф: ...Прекращай.
 
 # Original: It's kill or be killed, by everything from the depths of the waters to the heights of the skies crawling and falling onto the deck...
 Измаил: Убей или будь убитым, всем - от глубин вод до высот небес, ползающих и падающих на палубу...
@@ -149,7 +149,7 @@
 Измаил: А из штормов - высокие волны величиной с горы! После этого эти чертовы монстры, которых волнами выбрасывает на палубу!
 
 # Original: Look away for a moment and your mate, whom you've trusted with your life, is slain! Everyone and every goddamn thing goes mad and is transformed into something else entirely on that abominable lake!
-Измаил: Отвернешься на мгновение - и твой товарищ, которому ты доверял свою жизнь, убит! Все и вся сходят с ума и превращаются во что-то совершенно иное на этом отвратительном озере!
+Измаил: Отвернешься на мгновение - и твой товарищ, которому ты доверял свою жизнь, убит! Все и вся сходят с ума и превращаются во что-то совершенно иное в этом отвратительном озере!
 
 # Original: It's something that a pathetic lovey-dovey tenderfoot like you...
 Измаил: Это то, чего такой жалкий неженка, как ты...
@@ -245,7 +245,7 @@
 Рассказчик: Что, черт возьми, я должен был с этим делать?
 
 # Original: ...Was what I wanted to say, but I managed to hold my metaphorical tongue.
-Рассказчик: ...Вот что я хотел сказать, но мне удалось прикусить метафорический язык.
+Рассказчик: ...Вот что я хотел сказать, но мне удалось прикусить свой метафорический язык.
 
 # Original: How does the fault lie with the Executive Manager, Faust? It's those two fools who got into this senseless altercation.
 Отис: Почему в этом виноват Исполнительный Менеджер, Фауст? Это эти два дурака затеяли бессмысленную потасовку.
@@ -287,10 +287,10 @@
 Измаил: ......
 
 # Original: <The two of you, stop working together for a while. Distance yourselves.>
-Данте: <Вы двое, прекратите пока работать вместе. Держитесь на расстоянии.>
+Данте: <Вы двое, пока прекращаете работать вместе. Держитесь на расстоянии.>
 
 # Original: <At least... at least until I can think of a way to deal with you two.>
-Данте: <По крайней мере... по крайней мере, пока я не придумаю, как с вами разобраться.>
+Данте: <По крайней мере... по крайней мере, пока я не придумаю, что с вами делать.>
 
 # Original: It's not like I enjoy looking at her mug.
 Хитклиф: Не то чтобы мне нравится пялиться на ее рожу.
