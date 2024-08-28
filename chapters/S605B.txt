@@ -17,7 +17,7 @@
 Данте: <Ты случайно не бывал здесь, И Сан?>
 
 # Original: He was the only other Sinner who had spent a while in T Corp., so I decided to ask if he recognized anything. But it was evident that this scenery was unfamiliar to him.
-Рассказчик: Он был одним из единственных Грешников, который провел некоторое время в Корпорации Т, поэтому я решил спросить, узнает ли он что-нибудь. Но было очевидно, что этот пейзаж был ему незнаком.
+Рассказчик: Он был одним из единственным другим Грешником, который провел некоторое время в Корпорации Т, поэтому я решил спросить, узнает ли он что-нибудь. Но было очевидно, что этот пейзаж был ему незнаком.
 
 # Original: Though I have resided here for some time, most of my hours were spent earning a living and conducting my research when I could afford to do so. Thus I have not ventured freely the streets of T Corp.
 И Сан: Хоть я и пребывал здесь некоторое время, большую часть часов я проводил, зарабатывая на жизнь и занимаясь исследованиями, когда мог себе это позволить. Посему я не имел возможности свободно бродить по улицам Корпорации Т.
