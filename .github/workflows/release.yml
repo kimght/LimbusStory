@@ -2,6 +2,13 @@ name: Release Translation
 
 on:
    workflow_dispatch:
+   push:
+      branches:
+         - main
+      paths:
+         - chapters/*.txt
+         - reference/*.json
+         - extra/*.json
 
 jobs:
   validate:

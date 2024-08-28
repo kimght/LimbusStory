@@ -2,16 +2,10 @@ name: Validate Translation
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - chapters
   pull_request:
-    branches:
-      - main
-    paths:
-      - chapters
+    types: [opened, reopened, edited]
+    branches-ignore:
+      - release
 
 jobs:
   validate:
