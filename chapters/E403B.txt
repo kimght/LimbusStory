@@ -314,7 +314,7 @@
 Мика: Знаешь, мой отец, который работал в мастерской, обычно говорил так.
 
 # Original: The whole shebang.
-Мика: Весь транспорт.
+Мика: Полный комплект.
 
 # Original: What, all the way down to the engines, or something like that?
 Хитклиф: Что, вплоть до двигателей, или что-то в этом роде?
