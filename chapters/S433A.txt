@@ -1,5 +1,5 @@
 # Original: Hey, isn't something off about this?
-Грегор: Эй, разве здесь что-то не так?
+Грегор: Эй, а в этом нет ничего необычного?
 
 # Original: Was E.G.O something you could keep on all the time and use whenever like that? 'Cause I didn't know you could do that.
 Грегор: Разве ЭГО было чем-то, что можно было держать включенным все время и использовать когда угодно? Я не знал, что так можно.
@@ -23,13 +23,13 @@
 Фауст: Если они свели Аномалии к яйцевидной форме и нашли способ материализовать их ЭГО так, как это делала Корпорация Лоботомия...
 
 # Original: In other words, repeatedly researched the conditions of corrosion and trained themselves to repress it utilizing the Qliphoth Deterrence emitted by the Golden Bough...
-Фауст: Другими словами, неоднократно исследовали условия коррозии и тренировались подавлять её, используя Клипотское Сдерживание, излучаемое Золотой Ветвью...
+Фауст: Другими словами, неоднократно исследовали условия коррозии и тренировались подавлять её, используя Сдерживание Клипот, излучаемое Золотой Ветвью...
 
 # Original: It could be possible to use E.G.O well without being affected by corrosion even after a short period.
 Фауст: Возможно можно использовать ЭГО, не подвергаясь воздействию коррозии даже после короткого периода.
 
 # Original: What they're using are tools, compressed and repressed into general utility.
-Фауст: То, что они используют — это инструменты, сжатые и подавленные до общего применения.
+Фауст: То, что они используют — это инструменты, сжатые и сдавленные для общего применения.
 
 # Original: Does that mean... Lobotomy Corporation did the same...
 Грегор: Это значит... Корпорация Лоботомия делала то же самое...
