@@ -218,7 +218,7 @@
 Рассказчик: Она совсем не отреагировала.
 
 # Original: She wasn't ignoring me. Rather... she seemed too deeply fixated on what she was doing.
-Рассказчик: Она не игнорировала меня. Скорее... слишком глубоко погрузилась в чем занималась.
+Рассказчик: Она не игнорировала меня. Скорее... слишком глубоко погрузилась в то чем занималась.
 
 # Original: What should I do about her? No, what was I supposed to do then?
 Рассказчик: Что же мне с ней делать? Нет, что я должен был тогда сделать?
