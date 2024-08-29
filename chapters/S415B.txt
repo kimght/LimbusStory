@@ -8,10 +8,10 @@
 Донран: И правда, кто бы это мог быть, Шренн~? Завела новых друзей помимо меня?
 
 # Original: They're Fixers from Rosespanner Workshop, the ones we're working with for the current project. They've visited here several times already, you really should be familiar by now.
-Шренн: Это Корректировщики из мастерской Розспаннер, с которыми мы работаем над текущим проектом. Они уже несколько раз здесь бывали, вы действительно должны были бы их уже знать.
+Шренн: Это Корректировщики из мастерской Ключа и Розы, с которыми мы работаем над текущим проектом. Они уже несколько раз здесь бывали, вы действительно должны были бы их уже знать.
 
 # Original: Pleasure to meet you. I'm Niko, representative of Rosespanner Workshop.
-Нико: Приятно познакомиться. Я Нико, представитель мастерской Розспаннер.
+Нико: Приятно познакомиться. Я Нико, представитель мастерской Ключа и Розы.
 
 # Original: The enemies' faces clouded over at the unexpected arrival of reinforcements.
 Рассказчик: Лица врагов помрачнели при неожиданном прибытии подкрепления.
@@ -53,13 +53,13 @@
 Самджо: Действительно, именно поэтому мы должны уничтожить их и как можно скорее вернуть себе объект, который они заняли.
 
 # Original: Why, then, does K Corp... not provide assistance?
-И Сан: Почему же тогда Крыло... не оказывает помощи?
+И Сан: Почему же тогда Крыло Корпорации... не оказывает помощи?
 
 # Original: Mmm... Clearly, it's because they don't want the general public to know that such a thing happened in the Nest, don't you think?
 Донран: Ммм... Очевидно, это потому, что они не хотят, чтобы общественность узнала, что такое произошло в Гнезде, не так ли?
 
 # Original: While I may concede on that matter as innocent feathers were involved, this concerns researchers and a laboratory directly affiliated with the Wing...
-И Сан: Хотя я мог бы согласиться с этим, поскольку были затронуты невинные перья, это касается исследователей и лаборатории, напрямую связанных с Крылом...
+И Сан: Хотя я мог бы согласиться с этим, поскольку были бы затронуты невинные перья, это касается исследователей и лаборатории, напрямую связанных с Крылом...
 
 # Original: It's evidence that they want it to remain discrete that much, don't you think?
 Донран: Это доказательство того, что они хотят сохранить это в тайне настолько сильно, не думаешь?
@@ -68,7 +68,7 @@
 И Сан: ……
 
 # Original: Anyway, I ought to bring a generous supply of regeneration ampules for you all to use. Now should be a good time to depart, right?
-Донран: В любом случае, я должен принести щедрый запас ампул регенерации для вас всех. Сейчас должно быть хорошее время для отправления, верно?
+Донран: В любом случае, я должен принести щедрый запас ампул регенерации для вас всех. Сейчас должно быть хорошее время для отправки, верно?
 
 # Original: We aren't going on a picnic, Dongrang... You gonna be okay?
 Грегор: Мы не на пикник собираемся, Донран... Ты точно справишься?
@@ -77,10 +77,10 @@
 Донран: Без проблем, видя вас в бою, я ещё больше уверился в своём решении сопровождать вас.
 
 # Original: Just so you know... the technology our manager Dante uses is on a different level compared to K Corp's ampules; rather than regenerate, it restores.
-Фауст: Просто чтобы вы знали... технология, которую использует наш менеджер Данте, находится на совершенно другом уровне по сравнению с ампулами Крыла; скорее, чем регенерировать, она восстанавливает.
+Фауст: Просто чтобы вы знали... технология, которую использует наш менеджер Данте, находится на совершенно другом уровне по сравнению с ампулами Корпорации К; скорее, вместо того что бы регенерировать, она восстанавливает.
 
 # Original: Therefore, observing it won't provide much insight that can be applied to K Corp's Singularity or regeneration ampules.
-Фауст: Поэтому наблюдение за ней не даст много информации, которую можно было бы применить к Сингулярности Крыла или ампулам регенерации.
+Фауст: Поэтому наблюдение за ней не даст много информации, которую можно было бы применить к Сингулярности Корпорации К или ампулам регенерации.
 
 # Original: Restoration, not healing, huh...
 Донран: Восстановление, а не исцеление, да...
@@ -101,7 +101,7 @@
 Донран: Ряд вещей, которые не успел забрать вовремя.
 
 # Original: Like the photo commemorating my third consecutive year of winning the excellence award, the plaque of appreciation from K Corp, the photo taken to celebrate my lab's expansion, and... what else was there, Samjo?
-Донран: Например, фотографию в честь моей третьей подряд победы в конкурсе на звание лучшего, благодарственную табличку от Крыла, фотографию, сделанную в честь расширения моей лаборатории, и... что ещё там было, Самджо?
+Донран: Например, фотографию в честь моей третьей подряд победы в конкурсе за выдающиеся достижения, благодарственную табличку от Крыла К, фотографию, сделанную в честь расширения моей лаборатории, и... что ещё там было, Самджо?
 
 # Original: ...Classified documents concerning the research, sir...
 Самджо: ...Секретные документы, касающиеся исследований, сэр...
@@ -113,7 +113,7 @@
 Донран: О, точно, это тоже.
 
 # Original: You really did just barely manage to escape there, huh...
-Грегор: Ты действительно едва успел сбежать оттуда, да?
+Грегор: Ты действительно едва успел сбежать оттуда, да...
 
 # Original: I guarantee you, that nerd Dongrang has never swung a fist in his life. He's too carefree. At least bring some Fixers like me.
 Шренн: Гарантирую, этот ботаник Донран никогда в жизни не махал кулаками. Он слишком беспечен. Хотя бы приведи с собой каких-нибудь Корректировщиков, как я.
@@ -137,7 +137,7 @@
 Самджо: В таком случае, правильно ли я понимаю, что оплата Корректировщиков будет производиться вашим отделом--
 
 # Original: Ugh... You just can't stop being such an irritating bunch...
-Шренн: Ух... Вы просто не можете перестать быть такими раздражающими...
+Шренн: Ух... Вы не можете просто перестать быть такими раздражающими...
 
 # Original: The Lobotomy Corp. branch we must reclaim isn't too far from here.
 Самджо: Филиал Корпорации Лоботомия, который мы должны вернуть, находится недалеко отсюда.
@@ -152,7 +152,7 @@
 Самджо: Я обеспечу вам такую возможность в следующий раз. А пока давайте двигаться.
 
 # Original: Huh? Who do you think you are to decide that...?!
-Родион: А? Кто ты такой, чтобы это решать...?!
+Родион: А? Ты кто такой, чтобы это решать...?!
 
 # Original: This mission felt particularly tumultuous.
 Рассказчик: Эта миссия казалась особенно беспокойной.
@@ -167,7 +167,7 @@
 Грегор: Хаах... Я больше не хочу это слышать... Меня тошнит.
 
 # Original: There's nothing like headshake poker at J Corp's casinos. Those people who sit at the slot machines all day long, they're all morons.
-Нико: Нет ничего подобного покеру с встряхиванием головы в казино Крыла. Те люди, которые сидят у игровых автоматов целый день, все идиоты.
+Нико: Нет ничего лучше головокружительного покера в казино Крыла J. Те люди, которые сидят у игровых автоматов целый день, все идиоты.
 
 # Original: What, you mean there's something up with the machines?
 Хитклиф: Что, ты хочешь сказать, что с машинами что-то не так?
@@ -182,7 +182,7 @@
 Данте: <В этот раз всё очень оживлённо.>
 
 # Original: D.L.I.
-Рёшу: Н.Н.Э.
+Рёшу: М.Н.Н.
 
 # Original: "She says she doesn't like it," whispered Sinclair.
 Рассказчик: "Она говорит, что ей это не нравится," — прошептал Синклер.

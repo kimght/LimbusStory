@@ -2,7 +2,7 @@
 Фауст: Как вы видели через окно автобуса... мы находимся в центре Гнезда. Месте, которое должно быть дальше всего от неожиданных проблем.
 
 # Original: Hmm… Would that mean this is a precious commotion?
-Хон Лу: Хмм... Может, это значит, что это ценное волнение?
+Хон Лу: Хмм... Может, это значит, что это важная суматоха?
 
 # Original: Everyone except drowsy Hong Lu was tensed up, carefully observing what was going on…
 Рассказчик: Все, кроме сонного Хон Лу, были напряжены, внимательно наблюдая за происходящим...
@@ -68,7 +68,7 @@
 Данте: <Почему Аномалия находится в центре Гнезда?>
 
 # Original: It’s a phenomenon of which Faust has never been notified. Most Lobotomy Corp. facilities were shut down as soon as the Wing was dissolved.
-Фауст: Это явление, о котором Фаусту никогда не сообщали. Большинство объектов Корпорации Лоботомия были закрыты, как только Крыло было распущено.
+Фауст: Это явление, о котором Фауст никогда не сообщали. Большинство объектов Корпорации Лоботомия были закрыты, как только Крыло было распущено.
 
 # Original: I was reminded of the site burial Yuri told us about, but I quickly shook off those gloomy memories.
 Рассказчик: Я вспомнил о захоронении объекта, о котором нам рассказывала Юри, но быстро отогнал эти мрачные воспоминания.
@@ -77,7 +77,7 @@
 Фауст: Даже если бы Аномалия вырвалась на свободу за это время, должен был быть отчёт, информирующий нас о таком факте перед этой миссией.
 
 # Original: It’s hard to imagine that the LCC would have been unable to notice if such an event actually occurred.
-Фауст: Трудно представить, что ЦКЛ не смогла бы заметить, если бы такое событие действительно произошло.
+Фауст: Трудно представить, что LCC не смогла бы заметить, если бы такое событие действительно произошло.
 
 # Original: …Could they be the security staff that gets sent by K Corp?
 Синклер: ...Может, это охрана, которую отправляет Корпорация К?
@@ -125,7 +125,7 @@
 Хитклиф: Ты не видела, что только что произошло? Оно чуть не снесло мне голову! Кто знает, что ещё случится, если это продолжится!
 
 # Original: This’ll be over if we just beat that damn thing down… What else do we got? Parking a seat to keep watching, gobbling some chicken? Huh?!
-Хитклиф: Всё закончится, если мы просто побьём эту чёртову штуку... Что ещё нам делать? Сидеть и смотреть, жуя курицу? А?!
+Хитклиф: Всё закончится, если мы просто изобьём эту чёртову штуку... Что ещё нам делать? Сидеть и смотреть, жуя курицу? А?!
 
 # Original: There’s no need to waste our lives on fights unrelated to our missions.
 Отис: Нет необходимости тратить наши жизни на бои, не связанные с нашими миссиями.
@@ -143,13 +143,13 @@
 Мерсо: ......
 
 # Original: …People are dying over there as we speak, though?
-Синклер: ...Но там прямо сейчас умирают люди?
+Синклер: ...Но ведь там прямо сейчас умирают люди?
 
 # Original: Although it will cost much time and many lives… they will eventually suppress it. Just as we do.
 Отис: Хотя это будет стоить много времени и многих жизней... они в конце концов подавят её. Так же, как и мы.
 
 # Original: And I must say… I didn’t expect a whining amateur who’d cry out for his parents whenever he died to willingly suggest self-sacrifice.
-Отис: И должна сказать... Я не ожидала, что хнычущий любитель, который будет звать родителей всякий раз, когда умирает, добровольно предложит самопожертвование.
+Отис: И должна сказать... Я не ожидала, что хнычущий дилетант, который будет звать родителей всякий раз, когда умирает, добровольно предложит самопожертвование.
 
 # Original: Death has become a triviality to you, has it?
 Отис: Смерть стала для тебя чем-то тривиальным, да?
@@ -179,7 +179,7 @@
 Отис: ......
 
 # Original: I’d have crushed that clock and run out there if you gabbled the same rubbish, clockface.
-Хитклиф: Я бы разбил эти часы и выбежал туда, если бы ты нёс ту же чушь, циферблат.
+Хитклиф: Я бы разбил эти часы и выбежал туда, если бы ты продолжал нести ту же чушь, циферблат.
 
 # Original: If that is your decision, I will abide by it.
 Мерсо: Если таково ваше решение, я подчинюсь ему.
@@ -197,7 +197,7 @@
 Отис: ...Это решение было принято не для кого иного, как для вас, Исполнительный Менеджер.
 
 # Original: The Sinners walk ahead after leaving me comments.
-Рассказчик: Грешники идут вперёд, оставив мне комментарии.
+Рассказчик: Грешники идут вперёд, оставив мне свои комментарии.
 
 # Original: While all the others moved forward, Faust remained and gave me a peculiar stare.
 Рассказчик: В то время как все остальные двинулись вперёд, Фауст осталась и странно посмотрела на меня.
@@ -236,7 +236,7 @@
 И Сан: ...Я не такой человек.
 
 # Original: I have long stopped fluttering my wings.
-И Сан: Я давно перестал трепетать крыльями.
+И Сан: Я давно перестал порхать крыльями.
 
 # Original: Thus, it would be of no use to discuss my talent, Manager.
 И Сан: Поэтому обсуждать мой талант бесполезно, Менеджер.
@@ -245,7 +245,7 @@
 Данте: <......>
 
 # Original: Curiously enough, I find that some Sinners feel more distant as we spend more time together.
-Рассказчик: Любопытно, но я обнаруживаю, что некоторые Грешники кажутся более далёкими, чем больше времени мы проводим вместе.
+Рассказчик: Любопытно, но я обнаружил, что некоторые Грешники кажутся более отстранёнными, чем больше времени мы проводим вместе.
 
 # Original: What’s that flying machine? It’s been irking me. Got the urge to S.I.D. for the three-thousandth time.
 Рёшу: Что за летающая машина? Раздражает. Хочется С.У.Д. в трёхтысячный раз.
@@ -326,7 +326,7 @@
 Загадочный дрон: Приветствуем вас, граждане, ваша безопасность обеспечена. Пожалуйста, держитесь на расстоянии десяти метров.
 
 # Original: Hah, the instructions make no sense. What difference is ten meters going to make in this mess?
-Измаил: Ха, эти инструкции бессмысленны. Какая разница сделают эти десять метров в этом хаосе?
+Измаил: Ха, эти инструкции бессмысленны. Какую разницу сделают эти десять метров в этом хаосе?
 
 # Original: Tsk, not gonna do us any favors, huh…
 Грегор: Тск, не собираются нам помогать, да...
