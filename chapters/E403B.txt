@@ -38,7 +38,7 @@
 Синклер: Смотрите, снаружи!
 
 # Original: They appear to be of the same species as the one we encountered earlier.
-Мерсо: Похоже, они того же вида, что и тот, с которыми мы столкнулись ранее.
+Мерсо: Похоже, они того же вида, что и те, с которыми мы столкнулись ранее.
 
 # Original: T-they do look pretty similar.
 Синклер: Д-да, они выглядят довольно похожими.
