@@ -20,7 +20,7 @@
 Рассказчик: Внезапно вмешалась Измаил.
 
 # Original: Trash crabs. They collect trash or scrap like that on their shells, and use them as their homes and weapons.
-Измаил: Крабы-мусорщики. Они собирают на своих панцирях мусор и обломки, используя их как дома и орудия.
+Измаил: Крабы-мусорщики. Они собирают на своих панцирях мусор и обломки, используя их как дома и оружие.
 
 # Original: They’re a tiresome lot… They ambush people working by the waters, attack those wandering in the area, and their numbers grow by the day…
 Измаил: Надоедливые создания... Они нападают из засады на работающих у воды, атакуют бродящих в округе, и число их растёт день ото дня...
