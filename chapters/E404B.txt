@@ -143,7 +143,7 @@
 Измаил: Ты не думаешь, что нам просто везло, что Данте удавалось возвращать нас целыми?
 
 # Original: What-what's up with this attitude? If an Abnormality cracks my skull, turn the clock and I'll let it crack my leg next time. We can keep crawlin' back until they're smashed to pieces, no?
-Хитклиф: Это ещё что за отношение такое? Если Аномалия проломит мне череп, поверни часы назад, и в следующий раз я дам ей сломать мне ногу. Мы можем возвращаться снова и снова, пока они не разнесутся на куски, а?
+Хитклиф: Это ещё что за отношение такое? Если Аномалия проломит мне череп, поверни часы назад, и в следующий раз я дам ей сломать мне ногу. Мы можем возвращаться снова и снова, пока не разнесём их на куски, а?
 
 # Original: Oh, so you think we've seen everything there is to see at this point? You know that's not true.
 Измаил: О, так ты думаешь, что мы уже всё повидали? Ты же знаешь, что это не так.
