@@ -32,7 +32,7 @@
 Донран: Итак, скажи мне, Донбек...
 
 # Original: How bigger can your despair grow?
-Донран: Насколько сильнее может вырасти твое отчаяние?
+Донран: Насколько большим может стать твое отчаяние?
 
 # Original: Ahhhhh!! Help me!!!
 Рассказчик: А-а-а-а!! Помогите мне!!!
@@ -41,10 +41,10 @@
 Измаил: Что это за звук?
 
 # Original: Is that the footage those drones filmed while we were fighting the Abnormality on the street...
-Грегор: Это та съемка, которую дроны сделали, пока мы сражались с Аномалией на улице...
+Грегор: Это та съемка, которую дроны сделали, пока мы сражались с Аномалией на улицах...
 
 # Original: I read the threat you sent, Dongbaek. Said you'll release an Abnormality on the streets if I don't speak about the Singularity.
-Донран: Я прочитал угрозу, которую ты прислала, Донбек. Ты сказала, что выпустишь Аномалию на улицы, если я не заговорю о Сингулярности.
+Донран: Я прочитал угрозу, которую ты прислала, Донбек. Ты сказала, что выпустишь Аномалию на улицы, если я не расскажу о Сингулярности.
 
 # Original: I know you were always fond of radical events... But I didn't think you'd actually do it.
 Донран: Я знаю, что ты всегда любила радикальные события... Но я не думал, что ты действительно это сделаешь.
@@ -86,10 +86,10 @@
 Донран: В тот раз мы тоже получили рекордное количество слез. Это сыграло значительную роль в получении награды, должен заметить.
 
 # Original: The employees of a certain department in N Corp. weren't the best people to talk with, but I was able to procure fresh audiovisual feed thanks to them.
-Донран: Сотрудники определенного отдела в Корп. N не были лучшими собеседниками, но благодаря им я смог получить свежие аудиовизуальные материалы.
+Донран: Сотрудники определенного отдела в Корпорации N не были лучшими собеседниками, но благодаря им я смог получить свежие аудиовизуальные материалы.
 
 # Original: That means... the reason N Corp. could get away with such cruelties in a residential area in Nest K was...
-Родион: Это значит... причина, по которой Корп. N могла безнаказанно творить такие жестокости в жилом районе Гнезда K, была...
+Родион: Это значит... причина, по которой Корпорация N могла безнаказанно творить такие жестокости в жилом районе Гнезда K, была...
 
 # Original: This is what the deal entailed.
 Мерсо: Это и было предметом сделки.
@@ -125,13 +125,13 @@
 И Сан: Я хотел показать отражение любой возможности в ее неприкрытом виде.
 
 # Original: That is why I am considering the name for it:
-И Сан: Поэтому я рассматриваю для него название:
+И Сан: Вот почему я подумываю о том, назвать это:
 
 # Original: 'Mirror'.
 И Сан: "Зеркало".
 
 # Original: I wish that this will serve as a tool of entertainment... giving us more joy.
-И Сан: Я надеюсь, что это послужит инструментом развлечения... принося нам больше радости.
+И Сан: Я надеюсь, что это послужит инструментом для развлечения... принося нам больше радости.
 
 # Original: Is this why I haven't been able to see you lately? To discover this?
 Донбек: Поэтому я не могла видеть тебя в последнее время? Чтобы открыть это?
@@ -140,7 +140,7 @@
 Донбек: Донран, почему ты так смеешься?
 
 # Original: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
-Донран: Просто забавно, что ты говоришь так свирепо, когда твои глаза полны любопытных искорок.
+Донран: Просто забавно, что ты говоришь так злобно, когда твои глаза полны любопытных искорок.
 
 # Original: Yi Sang, will you tell him to shut it?
 Донбек: И Сан, не мог бы ты сказать ему заткнуться?
@@ -167,7 +167,7 @@
 Рассказчик: Я только желал, чтобы все это...
 
 # Original: Would remain a simple recreation.
-Рассказчик: Осталось простым развлечением.
+Рассказчик: Осталось лишь простым развлечением.
 
 # Original: Be quiet.
 ???: Замолчи.
@@ -185,7 +185,7 @@
 Донран: И я знаю, что ты имеешь в виду. Брат Ён-джи отругал бы меня за это.
 
 # Original: Ah, but did you know, though? We're no longer in the time when we used to cheer over toy-like inventions. The applause won't be as loud with how few of us that remain now.
-Донран: Ах, но знаешь ли ты? Мы больше не в том времени, когда мы радовались игрушечным изобретениям. Аплодисменты не будут такими громкими, учитывая, как мало нас осталось.
+Донран: Ах, но знаешь ли ты? Мы больше не в том времени, когда мы радовались игрушечным изобретениям. Аплодисменты больше не будут такими громкими, учитывая, как мало нас осталось.
 
 # Original: …….
 Донбек: …….
@@ -227,7 +227,7 @@
 Донбек: С того момента, как было создано стеклянное окно...
 
 # Original: All sorts of interest groups came knocking on the door.
-Донбек: Всевозможные заинтересованные группы стучались в дверь.
+Донбек: Всевозможные заинтересованные группы начали стучаться в дверь.
 
 # Original: Right... While we may think... that we left the League of our own volition...
 Донбек: Верно... Хотя мы можем думать... что ушли из Лиги по собственной воле...
@@ -239,7 +239,7 @@
 Донбек: И причина этому пришла изнутри...
 
 # Original: Dongbaek, even if you put my work in the concept incinerator, we won't be able to go back to those innocent times. You know that, right?
-Донран: Донбек, даже если ты поместишь мою работу в концептуальный инсинератор, мы не сможем вернуться в те невинные времена. Ты это знаешь, верно?
+Донран: Донбек, даже если ты поместишь мою работу в сжигатель концептов, мы не сможем вернуться в те невинные времена. Ты это знаешь, верно?
 
 # Original: Hmm... Even though you are aware... you still can't give up your obsession...
 Донран: Хм... Даже осознавая это... ты все равно не можешь отказаться от своей одержимости...
@@ -278,25 +278,25 @@
 Донбек: Чтобы кто-нибудь... когда-нибудь нашел...
 
 # Original: We... didn't discover the technologies because we were better or had exclusive rights to...
-Донбек: Мы... не открыли технологии потому, что были лучше или имели эксклюзивные права...
+Донбек: Мы... не открывали технологии потому, что были лучше или имели уникальные права...
 
 # Original: You may be right, I fooled everyone including myself into working for my own goals... It was... the land we tilled... that was fertile...
-Донбек: Возможно, ты прав, я обманула всех, включая себя, заставив работать на свои цели... Это была... земля, которую мы возделывали... она была плодородной...
+Донбек: Возможно, ты прав, я обманула всех, включая себя, заставив работать ради собственных целей... Это была... земля, которую мы возделывали... она была плодородной...
 
 # Original: That's disheartening to hear. Are you going to discredit all our efforts that went into plowing the soil, missing out on sights of flowers?
 Донран: Грустно это слышать. Ты собираешься обесценить все наши усилия, вложенные в возделывание почвы, упуская из виду цветы?
 
 # Original: Back then, we were naive amateurs, and the past you refuse to forget is just a fleeting moment seen through rose-tinted glasses.
-Донран: Тогда мы были наивными любителями, а прошлое, которое ты отказываешься забыть, - лишь мимолетный момент, увиденный сквозь розовые очки.
+Донран: Тогда мы были наивными любителями, а прошлое, которое ты отказываешься забыть, - лишь мимолетный момент, увиденный через розовые очки.
 
 # Original: Did your colleagues who gave their lives to the cause know this, though?
-Донран: Знали ли об этом твои коллеги, отдавшие жизни за дело?
+Донран: Но знали ли об этом твои коллеги, отдавшие свои жизни этому делу?
 
 # Original: That the cause you exclaimed was only a specious banner to lure people with. That it was as vain as a cloud on the sky.
 Донран: Что дело, о котором ты так громко заявляла, было лишь правдоподобным знаменем для привлечения людей. Что оно было таким же тщетным, как облако на небе.
 
 # Original: No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?
-Донбек: Нет... И все же... Я наконец-то лучше вижу себя. Именно поэтому я должна посадить росток и покрыть его землей своими руками, не так ли?
+Донбек: Нет... И все же... Я наконец-то могу получше себя разглядеть. Именно поэтому я должна посадить росток и покрыть его землей своими руками, не так ли?
 
 # Original: The bud has fallen... and our fruit has long since withered...
 Донбек: Бутон упал... и наш плод давно увял...
@@ -305,19 +305,19 @@
 Донбек: Его нужно снова покрыть землей... чтобы появились другие плоды...
 
 # Original: Hey... Is it really okay to let her be?
-Родион: Эй... Точно нормально оставить ее в таком состоянии?
+Родион: Эй... Точно нормально оставлять ее в таком состоянии?
 
 # Original: You know... Your mind doesn't work right when you're using E.G.O...
-Родион: Знаешь... Разум не работает правильно, когда используешь ЭГО...
+Родион: Знаешь... У тебя иногда башка не варит, когда используешь ЭГО...
 
 # Original: Now hold on... Are you doing this on purpose...? Taunt her as much as you can...
-Хитклиф: Погоди-ка... Ты делаешь это нарочно...? Дразнишь ее как можно сильнее...
+Хитклиф: Погоди-ка... Ты делаешь это нарочно...? Провоцируешь ее как можно сильнее...
 
 # Original: And wait for her to tire herself out...
 Отис: И ждешь, пока она измотается...
 
 # Original: ...Back to the innocent times, now without us.
-Донбек: ...Назад к невинным временам, теперь без нас.
+Донбек: ...Назад к невинным временам, теперь уже без нас.
 
 # Original: Ah, innocence...
 Донран: Ах, невинность...
@@ -332,7 +332,7 @@
 Донран: Никто не может поколебать твой разум так, как я, и тогда, и сейчас. Не так ли?
 
 # Original: No, I feel like my mind is blooming wider than ever.
-Донбек: Нет, я чувствую, что мой разум раскрывается шире, чем когда-либо.
+Донбек: Нет, я чувствую, что мой разум цветёт шире, чем когда-либо.
 
 # Original: I've always wished to be a bud, soon to burst into bloom.
 Донбек: Я всегда хотела быть бутоном, готовым вот-вот расцвести.
