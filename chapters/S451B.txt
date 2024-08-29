@@ -17,7 +17,7 @@
 Данте: <Но он не может быть слишком далеко, я уверен. Я чувствую это...>
 
 # Original: Ah, I don't see Dongrang, either.
-Синклер: Ах, я тоже не вижу Донрана.
+Синклер: Ах, я также не вижу Донрана.
 
 # Original: He's likely to be in the same location as the deceased Dongbaek.
 Фауст: Вероятно, он находится в том же месте, что и покойная Донбек.
