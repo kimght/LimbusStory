@@ -1,5 +1,5 @@
 # Original: We've been at it for about two days, perhaps.
-Рассказчик: Мы занимались этим где-то два дня, пожалуй.
+Рассказчик: Мы занимаемся этим уже где-то два дня, пожалуй.
 
 # Original: We were able to defeat a considerable number of trash crabs and collect enough scrap to fill a whole wagon and then some.
 Рассказчик: Нам удалось победить значительное количество мусорных крабов и собрать достаточно металлолома, чтобы заполнить целую телегу, и даже больше.
@@ -77,16 +77,16 @@
 Мика: Но используя Сингулярность Корпорации U, мы можем сплавить детали так, что они будут работать, как будто изготовлены специально для этого автобуса.
 
 # Original: U Corp...? I thought their deal was some kind of a food packaging tech?
-Родион: Корпорация U...? Разве они занимаются не какой-то технологией упаковки еды?
+Родион: Корпорация U...? Разве они не занимаются какой-то технологией упаковки еды?
 
 # Original: You know, stuff that stops the contents inside from spoiling or changing in any way until you open the packaging? I used to eat a bunch of their canned food...
 Родион: Ну, знаешь, всякое, что не даёт содержимому испортиться или измениться, пока ты не откроешь упаковку? Я раньше ела кучу их консервов...
 
 # Original: Funny, Big Sis said the exact same thing. Some Nests have more than one way of using their Singularity, in case you didn't know.
-Рейн: Забавно, Большая Сестра говорила то же самое. В некоторых Гнёздах Сингулярность можно использовать не одним способом, если ты не в курсе.
+Рейн: Забавно, Большая Сестра говорила то же самое. У некоторых Гнёзд есть несколько способов использовать свою Сингулярность, если ты не в курсе.
 
 # Original: ...If the working principle is the same, one can always utilize the Singularity's fundamentals to patent a Singularity-based technology at A Corp. U Corp is not only known for its stasis preservation packaging but also for its resonance tuning fork.
-Фауст: ...Если рабочий принцип тот же, Сингулярность всегда можно применить фундаментально, чтобы запатентовать Сингулярную технологию в Корпорации А. Корпорация U известна не только своей неизменной упаковкой, но и резонансным камертоном.
+Фауст: ...Если рабочий принцип тот же, всегда можно применить фундаментальный принцип Сингулярности, чтобы запатентовать технологию основанную на ней в Корпорации А. Корпорация U известна не только своими упаковками для консервации, но и резонансным камертоном.
 
 # Original: Resonance tuning fork...
 Измаил: Резонансный камертон...
@@ -95,7 +95,7 @@
 Измаил: Прямо как тот ублюдок...
 
 # Original: Entwined, fused with... things...
-Измаил: Переплетённый, слитый с... вещами...
+Измаил: Переплетённый, сросшийся с... вещами...
 
 # Original: And eventually devour them all... as though they've never even existed...
 Измаил: И в конце концов пожирает их целиком... как будто они никогда и не существовали...
@@ -113,10 +113,10 @@
 Данте: <Дай мне минутку, Измаил... Ты в порядке?>
 
 # Original: No, no. We are not ready. We're inexperienced, we don't know enough about the Great Lake, nor about the whale...
-Измаил: Нет, нет. Мы не готовы. У нас мало опыта, мы недостаточно знаем о Великом Озере и о ките...
+Измаил: Нет, нет. Мы не готовы. У нас мало опыта, мы недостаточно знаем ни о Великом Озере, ни о ките...
 
 # Original: I know, I'll help you out. I'll help you make Vergilius understand. We shouldn't go there, not yet. I'm telling you, that place is...!
-Измаил: Я знаю, я помогу тебе. Я помогу тебе заставить Вергилия понять. Мы не должны туда идти, пока нет. Говорю тебе, это место...!
+Измаил: Я знаю, я помогу тебе. Я помогу тебе заставить Вергилия понять. Мы не должны туда идти, не сейчас. Говорю тебе, это место...!
 
 # Original: Blimey, what's gotten into you, eh? What, gettin' indigestion from the crab chowder or something?
 Хитклиф: Чёрт возьми, да что на тебя нашло, а? Что, несварение от крабового супа, что ли?
@@ -134,7 +134,7 @@
 Измаил: Если бы мы были обычными Корректировщиками, то погибли бы ещё в самой первой миссии, и наши имена стёрли бы из реестра любой Ассоциации.
 
 # Original: You think me daft? I've had enough years toilin' and brushing with death for the Syndicates of the Backstreets to know that I've got but one life!
-Хитклиф: Ты что, считаешь меня идиотом? Я достаточно лет вкалывал и ходил по краю смерти на Синдикаты Подворотен, чтобы знать, что жизнь у меня только одна!
+Хитклиф: Ты что, считаешь меня идиотом? Я достаточно лет вкалывал и ходил по краю смерти ради Синдикатов из Подворотен, чтобы знать, что жизнь у меня только одна!
 
 # Original: But it's different now! Clockface's here to bring us back every time!
 Хитклиф: Но теперь всё по-другому! Циферблат здесь, чтобы возвращать нас каждый раз!
@@ -143,10 +143,10 @@
 Измаил: Ты не думаешь, что нам просто везло, что Данте удавалось возвращать нас целыми?
 
 # Original: What-what's up with this attitude? If an Abnormality cracks my skull, turn the clock and I'll let it crack my leg next time. We can keep crawlin' back until they're smashed to pieces, no?
-Хитклиф: Это ещё что за отношение такое? Если Аномалия проломит мне череп, поверни часы назад, и в следующий раз я дам ей сломать мне ногу. Мы можем возвращаться снова и снова, пока они не разобьются на куски, а?
+Хитклиф: Это ещё что за отношение такое? Если Аномалия проломит мне череп, поверни часы назад, и в следующий раз я дам ей сломать мне ногу. Мы можем возвращаться снова и снова, пока не разнесём их на куски, а?
 
 # Original: Oh, so you think we've seen everything there is to see at this point? You know that's not true.
-Измаил: О, так ты думаешь, что мы уже всё повидали? Знаешь же, что это не так.
+Измаил: О, так ты думаешь, что мы уже всё повидали? Ты же знаешь, что это не так.
 
 # Original: In the worst case scenario, Dante could turn the clock all day and not be able to bring us back!
 Измаил: В худшем случае Данте может целый день проворачивать часы и не суметь вернуть нас!
@@ -158,7 +158,7 @@
 Измаил: Особенно этот чудовищный кит... Ха, неважно.
 
 # Original: Oh, don't do that. Like I won't understand a thing.
-Хитклиф: О, не надо так. Как будто я ничего не пойму.
+Хитклиф: О, не надо так. Как будто я ничего не понимаю.
 
 # Original: It narks me when you treat me like a stupid sod. 
 Хитклиф: Меня бесит, когда ты обращаешься со мной, как с тупым ублюдком.
@@ -179,10 +179,10 @@
 Рассказчик: Но толпа сразу замолчала, когда И Сан внезапно, громко и нехарактерно для себя вмешался в их спор.
 
 # Original: Let us call to mind the various desires of ours that we so enthusiastically proclaimed on our journey here.
-И Сан: Давайте вспомним о различных наших желаниях, о которых мы с таким энтузиазмом заявляли в нашем путешествии сюда.
+И Сан: Давайте вспомним о наших различных желаниях, о которых мы с таким энтузиазмом заявляли в нашем путешествии сюда.
 
 # Original: It is true, there is still significant toil to be had. Yet it can also be said that we have accomplished a certain milestone. Perhaps a momentary respite is warranted.
-И Сан: Да, нам ещё предстоит немало трудов. Однако можно сказать, что мы достигли определённой вехи. Возможно, заслужили мимолётную передышку.
+И Сан: Да, нам ещё предстоит немало потрудиться. Однако можно сказать, что мы достигли определённой вехи. Возможно, заслужили мимолётную передышку.
 
 # Original: Isn't that true, Dante?
 И Сан: Разве не так, Данте?
@@ -212,7 +212,7 @@
 Дон Кихот: Я предлагаю сыграть в пляжный волейбол!
 
 # Original: With Don Quixote's well-timed assist...
-Рассказчик: При своевременной поддержке Дон Кихота...
+Рассказчик: При своевременной поддержке Дон Кихот...
 
 # Original: The almost icy mood seemed to defrost slightly.
 Рассказчик: Почти ледяная атмосфера, казалось, слегка оттаяла.

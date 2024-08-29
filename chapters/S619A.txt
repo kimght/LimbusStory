@@ -110,7 +110,7 @@
 Хитклиф: …….
 
 # Original: Because birds are meant to fly. Not to be killed like that.
-Хитклиф: Потому что птицы созданы для полета. Не для того, чтобы их вот так убивали.
+Хитклиф: Потому что птицы рождены чтобы летать. Не для того, чтобы их вот так убивали.
 
 # Original: Yes. Birds do not belong in their cages; they are beings born to soar the skies.
 Кэтрин: Да. Птицам не место в клетках; они рождены, чтобы парить в небесах.

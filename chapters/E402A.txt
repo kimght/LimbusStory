@@ -44,13 +44,13 @@
 Рейн: Мика, Мика! Это наши ценные клиенты. Следи за манерами...
 
 # Original: Oh… Okay, I guess?
-Мика: Оу... Окей, наверное.
+Мика: Оу... Окей, наверное?
 
 # Original: What’re those R&Ts?
-Рёшу: Кто эти О и Б?
+Рёшу: Кто эти О&Б?
 
 # Original: I think she’s calling them Rags and Tags…
-Синклер: Кажется, она назвала нас оборванцами и бродягами...
+Синклер: Кажется, она обозвала их оборванцами и бродягами...
 
 # Original: Rain, they’re calling us ragtags… Do I really have to watch my manners?
 Мика: Рейн, они называют нас оборванцами... Мне точно надо следить за манерами?
@@ -65,7 +65,7 @@
 Рейн: Вас что, совсем о нас не предупредили?..
 
 # Original: No, not at all. That's why I'm suspicious of you two—coming up with seemingly plausible yet unverifiable identities... Like spies.
-Отис: Нет, совсем не предупредили. Потому я вам и не доверяю - выдумываете на ходу правдоподобную, но непроверяемую личность... Прямо шпионы.
+Отис: Нет, совсем не предупредили. Потому я вам и не доверяю - выдумываете на ходу правдоподобную, но непроверяемую личность... Прямо как шпионы.
 
 # Original: I’m sorry, wouldn’t real spies come up with a more structured approach…?
 Мика: Простите, но настоящие шпионы разве не придумали бы подход посолиднее?..
@@ -80,13 +80,13 @@
 Фауст: Рады встрече, Мика, Рейн. Мы из Департамента LCB, также известного как Limbus Company Bus Department.
 
 # Original: Bus… Right. That’s what that person said, too—you guys are the bus blokes.
-Мика: Басс... Верно. Тот человек тоже так сказал: вы, ребята, автобусная компашка.
+Мика: Автобус... Верно. Тот человек тоже так сказал: вы, ребята, автобусная компашка.
 
 # Original: I was informed that the LCC Before Team was here first. By "that person", do you mean…
 Фауст: Мне сообщили, что здесь уже побывала Команда "До" LCC. Под "тем человеком" вы имеете в виду...
 
 # Original: Sorry, let me check the business card again… LCC…B. Right, all accounted for.
-Рейн: Прошу прощенья, дайте проверю визитку снова... LCC...B. Точно, всё сходится.
+Рейн: Прошу прощенья, дайте проверю визитку снова... Команда..."До". Точно, всё сходится.
 
 # Original: Now that we’re clear, why don’t we continue this conversation back at the shop? Let’s take a look at that bus, too.
 Мика: Теперь, когда всё ясно, давайте продолжим разговор в мастерской? И на автобус ваш глянем.
@@ -119,10 +119,10 @@
 Вергилий: ...Хмф. Идёмте.
 
 # Original: Umm… Did our last staff dinner really hit the budget that hard? I thought we were allowed to eat as much as we wanted.
-Родион: Эмм... Наш последний корпоратив правда так ударил по бюджету? Я думала, нам можно есть от пуза.
+Родион: Эмм... Наш последний корпоратив правда так ударил по бюджету? Я думала, нам позволено есть столько, сколько мы хотим.
 
 # Original: Like Rodya said, looking at the somewhat dilapidated shop made me curious about the company’s finances…
 Рассказчик: Как и сказала Родя, глядя на эту обшарпанную мастерскую, я задумался о финансах компании...
 
 # Original: But nothing good could ever come out of this conversation, so I decided to table the thought.
-Рассказчик: Но ничем хорошим этот разговор не кончится, так что решил пока отложить эту мысль.
+Рассказчик: Но ничем хорошим этот разговор не кончится, так что я решил пока отложить эту мысль.

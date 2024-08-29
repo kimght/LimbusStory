@@ -5,7 +5,7 @@
 Дон Кихот: Среди мусора на берегу воистину явился, скажу не лукавя, некий шар круглой формы!
 
 # Original: 'Twould be no puffery to say that 'tis true injustice to deny ourselves merriment when a ball, able bodies, and beach all await us!
-Дон Кихот: И будет совсем не пустою похвальбою сказать, что лишать себя забавы, когда шар, годные тела и пляж к нашим услугам - сущая несправедливость!
+Дон Кихот: И будет совсем не пустою хвальбою сказать, что лишать себя забавы, когда шар, здоровые люди и пляж всё ждут нас - сущая несправедливость!
 
 # Original: Can we... really call this a beach, though?
 Синклер: Но... разве это можно назвать пляжем?
@@ -20,13 +20,13 @@
 Грегор: Ладно, ладно. Но в следующий раз хоть улыбку придержи, а?
 
 # Original: Yes, I am in agreement with Don Quixote.
-И Сан: Да, я согласен с Дон Кихотом.
+И Сан: Да, я согласен с Дон Кихот.
 
 # Original: ...Yi Sang?
 Грегор: ...И Сан?
 
 # Original: Upon reflection, I have no memory of engaging in such a sport with my fellows.
-И Сан: Задумавшись, я осознал, что не припомню за собой участия в подобных игрищах с товарищами.
+И Сан: Задумавшись, я осознал, что не припомню за собой участия в подобных играх с товарищами.
 
 # Original: I cannot say that I am particularly talented in games of the ball variety... but this appears to be as good a time as any to experience it for once.
 И Сан: Не могу похвастать особыми талантами в играх с мячом... но, видимо, сейчас самый подходящий момент, чтобы впервые испытать это.
@@ -62,16 +62,16 @@
 Грегор: Вот те на...
 
 # Original: This is a downtime activity designated by none other than our Executive Manager. Everyone, quit grimacing and accept it with gratitude!
-Отис: Этот отдых лично назначил наш Исполнительный Менеджер. Всем прекратить ворчать и с благодарностью принять участие!
+Отис: Этот отдых назначил лично наш Исполнительный Менеджер. Всем прекратить ворчать и с благодарностью принять участие!
 
 # Original: Okay, okay... Haah, I just hope I don't pull my back playing this game.
-Грегор: Ладно, ладно... Эх, надеюсь, у меня спина не заболит от этой игры.
+Грегор: Ладно, ладно... Хаах, надеюсь, у меня спина не заболит от этой игры.
 
 # Original: I am aware of the rules and the specifications of this game. Allow me to draw the arena.
-Мерсо: Я знаю правила и параметры этой игры. Позвольте мне начертить площадку.
+Мерсо: Я знаю правила и особенности этой игры. Позвольте мне начертить площадку.
 
 # Original: There were grumbling Sinners, beaming Sinners, reticent Sinners...
-Рассказчик: Грешники ворчали, сияли, безмолвствовали...
+Рассказчик: Грешники ворчали, некоторые сияли, а некоторые безмолвствовали...
 
 # Original: Their reactions were all varied, but everyone eventually moseyed out to an empty lot to play beach volleyball.
 Рассказчик: Реакции были самые разные, но в итоге все собрались на пустыре, чтобы поиграть в пляжный волейбол.
@@ -89,7 +89,7 @@
 Рассказчик: Площадку разметили на хлюпающей грязи.
 
 # Original: The worn ball rocketed into the air with Don Quixote's serve...
-Рассказчик: Потрёпанный мяч взмыл в воздух с подачи Дон Кихота...
+Рассказчик: Потрёпанный мяч взмыл в воздух с подачи Дон Кихот...
 
 # Original: I-is this how the game is played?
 И Сан: Т-так в это играют?
@@ -107,7 +107,7 @@
 Грегор: Уф.
 
 # Original: Meaningless, all of this...
-Измаил: Бессмысленно всё это...
+Измаил: Бессмысленно, всё это...
 
 # Original: Khm... hah!
 Отис: Кхм... ха!
@@ -125,10 +125,10 @@
 Данте: <Рёшу, нельзя бить по мячу мечом...!>
 
 # Original: Aha~! Forsooth!! I have received thy ball!
-Дон Кихот: Аха~! Истинно!! Я принял твой мяч!
+Дон Кихот: Аха~! Истинно!! Я приняла твой мяч!
 
 # Original: Uh, uhh... hup!
-Синклер: Э, эм... хоп!
+Синклер: Э, эмм... хоп!
 
 # Original: Haah, we're wasting time we could be using to study the whales' characteristics...
 Измаил: Хаа, мы тратим время, которое могли бы потратить на изучение характеристик китов...
@@ -137,7 +137,7 @@
 Хитклиф: ...Ух!
 
 # Original: Sigh... And we don't even have a compass to guide us through the Great Lake...
-Измаил: Эх... И даже компаса нет, чтобы ориентироваться на Великом Озере...
+Измаил: Эх... И даже компаса нет, чтобы ориентироваться в Великом Озере...
 
 # Original: Hm.
 Мерсо: Хм.
@@ -176,7 +176,7 @@
 Родион: Но с такими технологиями они могли бы просто заставить мяч исчезнуть без следа, а не оставлять рваные клочья. А это значит...
 
 # Original: They want to enjoy watching clueless souls be ripped to pieces, I bet. Huh, glad the rich folk are having so much 'fun' with our lives.
-Родион: Видимо, им в кайф смотреть, как несчастные души рвутся в клочья. Ха, рад, что богачи так "веселятся" нашими жизнями.
+Родион: Видимо, они наслаждаются смотря, как несчастные души рвутся в клочья. Ха, рад, что богачи так "веселятся" нашими жизнями.
 
 # Original: ...I have no comment to make regarding the device's particular purpose or its sadistic nature.
 Фауст: ...Фауст воздержится от комментариев о конкретном назначении устройства или о его садистской природе.
@@ -185,7 +185,7 @@
 Дон Кихот: Я-я целый час потратила, чтобы раздобыть нам мяч...
 
 # Original: Brace yourselves. The sound of the ball popping attracted the trash crabs.
-Грегор: Приготовьтесь. Звук лопнувшего мяча привлёк крабов-падальщиков.
+Грегор: Приготовьтесь. Звук лопнувшего мяча привлёк крабов-мусорщиков.
 
 # Original: ...We'll have a chat after this.
 Хитклиф: ...Поговорим после этого.
@@ -200,4 +200,4 @@
 Данте: <Всё пошло прахом... Почему так всегда происходит...?>
 
 # Original: Isn't it about time you got used to this, manager bud? Come on, let's first take care of business.
-Грегор: Пора бы тебе уже привыкнуть, менеджер. Ладно, давайте сперва разберёмся с делами.
+Грегор: Пора бы тебе уже привыкнуть, дружище менеджер. Ладно, давайте сперва займёмся делами.

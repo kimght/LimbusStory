@@ -1,5 +1,5 @@
 # Original: This cannot be… How art we to enjoy our vacaciones at a locale such as this?
-Дон Кихот: Не может быть… И как же нам наслаждаться нашими vacaciones в столь безотрадном месте?
+Дон Кихот: Не может быть… И как же нам наслаждаться нашим vacaciones в столь безотрадном месте?
 
 # Original: This may come as a surprise to you, Don Quixote… But Vergilius never mentioned that we’re here on a vacation.
 Грегор: Это может стать для тебя сюрпризом, Дон Кихот… Но Вергилий ни разу не упоминал, что мы здесь на отдыхе.
@@ -17,7 +17,7 @@
 Дон Кихот: Чу! Прямо там виднеется желанный пляж!
 
 # Original: Wherefore art we not journeying in that direction?! Its air appears pristine, its skies clear!
-Дон Кихот: Почему же мы не держим путь в ту сторону?! Воздух там, похоже, чист, небеса безоблачны!
+Дон Кихот: Почему же мы не держим путь в ту сторону?! Воздух там, похоже, чист, а небеса безоблачны!
 
 # Original: Because that's not our destination.
 Фауст: Потому что это не наша цель.
@@ -62,7 +62,7 @@
 Фауст: Хотя в данном случае, похоже, так и есть.
 
 # Original: Is that a private beach over there? The water… its colors are very different from this side's.
-Хон Лу: Это там частный пляж? Вода… цвета её совсем иные, чем на этой стороне.
+Хон Лу: Это там частный пляж? Вода… её цвета совсем иные, чем на этой стороне.
 
 # Original: I see. A boundary, as though hewn by a blade. Those are telltale signs of the place's nature…
 Отис: Понятно. Граница, словно очерченная клинком. Характерные признаки сущности этого места…
@@ -86,7 +86,7 @@
 Данте: <Ясно…>
 
 # Original: Look at all this minging rubbish, the place is in shambles. I’d be gobsmacked if this weren’t the Backstreets.
-Хитклиф: Поглядите на весь этот мерзкий мусор, всё тут в руинах. Я бы сильно удивился, окажись это не Подворотни.
+Хитклиф: Поглядите на весь этот мерзкий мусор, тут всё в руинах. Я бы сильно удивился, окажись это не Подворотни.
 
 # Original: Oho! Behold, hither is a rather useful-
 Дон Кихот: Ого! Узрите, сие весьма полезный-
