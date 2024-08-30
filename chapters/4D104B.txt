@@ -1,5 +1,5 @@
 # Original: It looks like the group was at peace.
-Измаил: Похоже, группа была в мире.
+Измаил: Похоже, в группе царил мир.
 
 # Original: Things were good for a short while. It was as though we were on a trip. We thought everything would be fine after leaving our hometown for this new place, but alas...
 Донран: Некоторое время всё было хорошо. Словно мы были в путешествии. Мы думали, что всё будет в порядке после того, как покинем родной город ради этого нового места, но увы...
@@ -23,7 +23,7 @@
 Отис: Ты, должно быть, забыл девять законов Лиги.
 
 # Original: (L.N.L. Pft. Fascinating.)
-Рёшу: (З.Л.Д. Пфф. Занятно.)
+Рёшу: (Д.З.Л. Пфф. Занятно.)
 
 # Original: (Ryōshū! You aren't supposed to say things that aren't in the script!)
 Синклер: (Рёшу! Ты не должна говорить то, чего нет в сценарии!)
@@ -65,16 +65,16 @@
 Хон Лу: Донбек, я планировал рассказать тебе, когда вопрос будет решён. Я полагал, что ты первая разозлишься по поводу всего, что касается Лиги.
 
 # Original: And Yi Sang, while I sincerely appreciate your offer, I couldn't possibly take it.
-Хон Лу: А И Сан, хоть я и искренне ценю твоё предложение, я никак не могу его принять.
+Хон Лу: А так же И Сан, хоть я и искренне ценю твоё предложение, я никак не могу его принять.
 
 # Original: It bothers me not, for accumulating wealth has no meaning to me. I urge you to spend it for the League's sake.
 И Сан: Меня это не беспокоит, ибо накопление богатства не имеет для меня смысла. Я настаиваю, чтобы вы потратили эти деньги на благо Лиги.
 
 # Original: Whaaat? Wait, Yi Sang! Were you that rich?
-Измаил: Чтооо? Подождите, И Сан! Ты что, настолько богат?
+Измаил: Чтооо? Подожди, И Сан! Ты что, настолько богат?
 
 # Original: Haha, you might want to do a better job at remembering your part, yes?
-Донран: Ха-ха, тебе стоит лучше запоминать свою роль, да?
+Донран: Ха-ха, возможно тебе стоит лучше отыгрывать свою роль, да?
 
 # Original: The enemies will start attacking again, you know.
 Донран: Враги снова начнут атаковать, знаешь ли.
