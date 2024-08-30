@@ -11,13 +11,13 @@
 Донран: Ха, хаха...
 
 # Original: You're right, it doesn't recognize me.
-Донран: Ты прав, оно меня не узнаёт.
+Донран: Ты права, он меня не узнаёт.
 
 # Original: I may be filled with husks right now, but I know...
-Донран: Сейчас я, может, и наполнен шелухой, но я знаю...
+Донран: Сейчас я, может, и наполнен пустотой, но я знаю...
 
 # Original: I'm almost there. Soon... I'll make my own technology to fill myself up.
-Донран: Я почти у цели. Скоро... Я создам свою собственную технологию, чтобы наполнить себя.
+Донран: Я почти у цели. Скоро... Я создам свою собственную технологию, чтобы заполнить себя.
 
 # Original: I'll gather a team again... hire another secretary... There'll be a lot to do.
 Донран: Я снова соберу команду... найму другого секретаря... Будет много работы.
@@ -38,22 +38,22 @@
 Альфонсо: У каждого может быть момент глупости.
 
 # Original: Right, so... You know about a way to generate an endless stream of tears, do you?
-Альфонсо: Так, значит... Ты знаешь способ генерировать бесконечный поток слёз, да?
+Альфонсо: Так, значит... Ты знаешь способ генерировать бесконечный поток слёз, так ведь?
 
 # Original: To reach a certain quota, people are tortured... then cured using the tears... then tortured again...
 Донран: Чтобы достичь определённой квоты, людей пытают... потом лечат с помощью слёз... потом снова пытают...
 
 # Original: It's such a waste to keep spending a portion of tears on that.
-Донран: Такая трата – постоянно расходовать часть слёз на это.
+Донран: Это такая утрата – постоянно расходовать часть слёз на это.
 
 # Original: True, so we're importing footage from a variety of Wings and Backstreets Syndicates as a substitute.
-Альфонсо: Верно, поэтому мы импортируем кадры из разных Крыльев и Синдикатов Подворотен в качестве замены.
+Альфонсо: Верно, поэтому мы импортируем кадры из разных Крыльев и Синдикатов из Подворотен в качестве замены.
 
 # Original: They're asking higher and higher prices for the audiovisual feed, aren't they?
 Донран: Они запрашивают всё более высокие цены за аудиовизуальный материал, не так ли?
 
 # Original: Other factions are starting to notice that we're in evident need of it, albeit faintly. Even if they don't know what exactly it's used for in K Corp.
-Донран: Другие фракции начинают замечать, что мы явно нуждаемся в этом, пусть и смутно. Даже если они точно не знают, для чего это используется в Корп. К.
+Донран: Другие фракции начинают замечать, что мы явно нуждаемся в этом, пусть и смутно. Даже если они точно не знают, для чего это используется в Корпорации К.
 
 # Original: Hee... huhee... huhnh...
 Рассказчик: Хи... хухи... хунх...
@@ -71,22 +71,22 @@
 Донран: Я не должен закрывать глаза.
 
 # Original: Miss Carmen... I believe that's not exactly the case. The path hasn't ended, and I finally see clearly where I should go.
-Донран: Мисс Кармен... Я считаю, что это не совсем так. Путь не закончился, и я наконец ясно вижу, куда мне следует идти.
+Донран: Мисс Кармен... Я считаю, что это не совсем так. Путь не закончился, и я, наконец, ясно вижу, куда мне следует идти.
 
 # Original: Dongrang... after coming such a long way 'round... have you at last returned to this path?
 И Сан: Донран... после столь долгого пути... ты наконец вернулся на эту стезю?
 
 # Original: When I look into the eye... I don't feel the sympathy I used to feel anymore.
-Донран: Когда я смотрю в глаз... Я больше не чувствую того сочувствия, что испытывал раньше.
+Донран: Когда я смотрю ему в глаза... Я больше не испытываю того сочувствия, которое испытывал раньше.
 
 # Original: Instead... Do you see that? A pale imitation of the League's renowned glass window, made by leeching off it... It's now become the flag that raised the esteem of K Corp's Singularity high.
-Донран: Вместо этого... Ты видишь это? Бледная имитация знаменитого стеклянного окна Лиги, созданная путём паразитирования на нём... Теперь она стала флагом, поднявшим престиж Сингулярности К Корп высоко.
+Донран: Вместо этого... Ты видишь это? Бледная имитация знаменитого стеклянного окна Лиги, созданная путём паразитирования на нём... Теперь она стала флагом, высоко поднявшим престиж Сингулярности Корпорации К.
 
 # Original: ...Yes, I can see it well.
 И Сан: ...Да, я хорошо это вижу.
 
 # Original: Brother Young-ji has left, Dongbaek has returned to the bed of flowers...
-Донран: Брат Ён-джи ушёл, Донбек вернулась в цветочную постель...
+Донран: Брат Ён-джи ушёл, Донбек вернулась в постель из цветов...
 
 # Original: All that's left is a parasitic mutation of Young-ji's glass...
 Донран: Всё, что осталось – это паразитическая мутация стекла Ён-джи...
@@ -98,4 +98,4 @@
 Донран: Какой толк от технологии, которая не может изменить мир?
 
 # Original: So I want you to stop caring like I have. Let it cry for our agony and sorrow in our stead.
-Донран: Поэтому я хочу, чтобы ты перестал заботиться, как и я. Пусть оно плачет о нашей агонии и печали вместо нас.
+Донран: Поэтому я хочу, чтобы ты перестал заботиться о чем либо, как и я. Пусть оно плачет о нашей агонии и печали вместо нас.
