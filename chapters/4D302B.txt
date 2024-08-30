@@ -2,13 +2,13 @@
 Хон Лу: Интересно, что этот парень по имени Губо хотел сделать с зеркалом?
 
 # Original: What exactly N Corp. wished to do... I do not know in detail. I did not bother to ask.
-И Сан: Что именно хотела Корп. N... Я не знаю в деталях. Я не стал спрашивать.
+И Сан: Чего именно хотела Корпорация N... Я не знаю в деталях. Я не стал спрашивать.
 
 # Original: However...
 И Сан: Однако...
 
 # Original: How do you like it here, is it comfortable enough? Are you keeping yourself fed?
-Герман: Как тебе здесь, достаточно удобно? Ты питаешься нормально?
+Герман: Как тебе здесь, достаточно удобно? Ты хорошо питаешься?
 
 # Original: ……
 И Сан: ……
@@ -17,13 +17,13 @@
 Губо: Как я и говорил, мэм, он немногословный человек.
 
 # Original: Do you know of a way... to destroy all the worlds and the myriad possibilities they represent in the mirror and the glass window?
-Герман: Знаешь ли ты способ... уничтожить все миры и бесчисленные возможности, которые они представляют в зеркале и стеклянном окне?
+Герман: Знаешь ли ты способ... уничтожить все миры и мириады возможностей, которые они представляют в зеркале и стеклянном окне?
 
 # Original: I...
 И Сан: Я...
 
 # Original: Of course you'd say no. I am telling you what to study.
-Герман: Конечно, ты скажешь нет. Я говорю тебе, что изучать.
+Герман: Конечно, ты скажешь нет. Ведь я говорю тебе, что стоит изучать.
 
 # Original: Even if you say you don't want to, I have plenty of other ways.
 Герман: Даже если ты скажешь, что не хочешь, у меня есть множество других способов.
