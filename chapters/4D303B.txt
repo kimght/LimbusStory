@@ -26,7 +26,7 @@
 Сан И: Курица, может, и не умеет летать, но это не мешает ей махать крыльями.
 
 # Original: It struggles... endlessly.
-Сан И: Она борется... бесконечно.
+Сан И: Она борется... без конца.
 
 # Original: You perplex me. At this point in time... where must I even go? I have neither a hometown nor an awaiter to return to.
 И Сан: Ты ставишь меня в тупик. В данный момент... куда мне идти? У меня нет ни родного дома, ни того, кто бы меня ждал.
@@ -50,7 +50,7 @@
 И Сан: Затем внезапно накатила волна усталости.
 
 # Original: If I took the supplements and fell asleep, everything would have stayed alright.
-И Сан: Если бы я принял добавки и заснул, все осталось бы в порядке.
+И Сан: Если бы я принял добавки и заснул, все было бы в порядке.
 
 # Original: And I wished to believe that there must have been a misunderstanding between Gubo and me.
 И Сан: И я хотел верить, что между мной и Губо должно было быть какое-то недопонимание.
