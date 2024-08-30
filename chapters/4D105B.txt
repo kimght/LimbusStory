@@ -28,13 +28,13 @@
 (硏, шлифовать или изучать; 尋, искать)
 
 # Original: This is a product of grinding something... scraping even the mind to polish it.
-И Сан: Это результат шлифовки чего-то... соскабливания даже разума, чтобы отполировать его.
+И Сан: Это результат шлифовки чего-то... требующего даже очистки разума, чтобы отполировать его.
 
 # Original: I see. I suppose all versions of Yi Sang were dedicated to research.
 Сан И: Понятно. Полагаю, все версии И Сана были преданы исследованиям.
 
 # Original: You have wings on your back, if my eyes aren't being deceitful.
-И Сан: У тебя на спине крылья, если глаза меня не обманывают.
+И Сан: У тебя крылья на спине, если глаза меня не обманывают.
 
 # Original: ...What do you think of them?
 Сан И: ...Что ты о них думаешь?
@@ -46,13 +46,13 @@
 И Сан: Они выглядят такими теплыми... и свободными.
 
 # Original: We looked into and ahead of each other.
-И Сан: Мы смотрели друг в друга и друг сквозь друга.
+И Сан: Мы смотрели друг в друга, и сквозь друг друга.
 
 # Original: I only made minor modifications to Brother Young-ji's work.
 И Сан: Я лишь внес небольшие изменения в работу Брата Ён-чжи.
 
 # Original: I wanted to show a reflection of any possibility in its unvarnished image, without a blur.
-И Сан: Я хотел показать отражение любой возможности в ее неприкрашенном виде, без размытости.
+И Сан: Я хотел показать отражение любой возможности в ее неприукрашенном виде, без размытости.
 
 # Original: The stars I saw while lying on the ground here seemed so far away...
 Хон Лу: Звезды, которые я видел, лежа на земле, казались такими далекими...
@@ -70,7 +70,7 @@
 Донбек: Донран, почему ты так смеешься?
 
 # Original: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
-Донран: Просто забавно, что ты говоришь так свирепо, когда твои глаза полны любопытных искорок.
+Донран: Просто забавно, что ты говоришь так злобно, когда твои глаза полны любопытных искорок.
 
 # Original: Yi Sang, will you tell him to shut it?
 Донбек: И Сан, не мог бы ты сказать ему заткнуться?
@@ -97,7 +97,7 @@
 Хон Лу: Ты знал? Говорят, каждое изобретение несет в себе намеки на надежды и мечты его создателя.
 
 # Original: Discovering them is one of the spectators' joys. It's a tidbit that's good to know.
-Хон Лу: Обнаружить их - одно из удовольствий для зрителей. Это полезно знать.
+Хон Лу: Обнаружить их - одно из многих удовольствий для зрителей. Это любопытный факт, который стоит знать.
 
 # Original: So, Yi Sang, what do you plan to do with this technology?
 Донран: Итак, И Сан, что ты планируешь делать с этой технологией?
@@ -124,7 +124,7 @@
 И Сан: Все, о чем я прошу...
 
 # Original: Is to keep this as a moment of laughter, solely between us.
-И Сан: Это сохранить это как момент смеха, исключительно между нами.
+И Сан: Пусть это останется поводом для веселья, исключительно между нами.
 
 # Original: ……
 Донран: ……
@@ -145,13 +145,13 @@
 И Сан: Э-это... Я думаю, нам лучше забыть об этом...
 
 # Original: Human eyes are such glistening and scalding things. Fearing that they would burn me, I tended to watch them from the side.
-И Сан: Человеческие глаза - такие блестящие и обжигающие вещи. Боясь, что они обожгут меня, я обычно наблюдал за ними сбоку.
+И Сан: Человеческие глаза - такая блестящая и обжигающая вещь. Боясь, что они обожгут меня, я обычно наблюдал за ними со стороны.
 
 # Original: However, not seeing the subject straightly does not mean I think lowly of them.
-И Сан: Однако то, что не смотришь на объект прямо, не означает, что низко о нем думаешь.
+И Сан: Однако то, что я не смотрю на объект напрямую, не означает, что я невысокого о них мнения.
 
 # Original: Even without looking, it is possible to seep in.
-И Сан: Даже не глядя, можно впитывать.
+И Сан: Даже не смотря, его возможно разглядеть.
 
 # Original: By the way, is that... the same as the mirror we use?
 Родион: Кстати, это... то же самое зеркало, которое мы используем?
@@ -163,10 +163,10 @@
 Родион: Ты изобрел что-то невероятное, И Сан...
 
 # Original: What Young-ji and I did... wasn't invention; we discovered, rather.
-И Сан: То, что сделали Ён-чжи и я... не было изобретением; скорее, мы открыли.
+И Сан: То, что сделали Ён-чжи и я... не было изобретением; скорее, открытием.
 
 # Original: T Corp... wouldn't have been pleased with the idea of a technology capable of peeping into other worlds without permission.
-Мерсо: Корпорация T... не была бы довольна идеей технологии, способной заглядывать в другие миры без разрешения.
+Мерсо: Корпорация T... ей бы не понравилась идея о технологии, способной заглядывать в другие миры без разрешения.
 
 # Original: I do believe you know well enough that their problem lies with the lack of permission, not the capability of the technology.
 Мерсо: Я полагаю, вы хорошо понимаете, что их проблема заключается в отсутствии разрешения, а не в возможностях технологии.
@@ -178,4 +178,4 @@
 И Сан: Мы думали, что все будет в порядке, поскольку это использовалось только как развлечение между нами.
 
 # Original: The decision couldn't have been more glib.
-И Сан: Решение не могло быть более легкомысленным.
+И Сан: Решение, что не могло быть более легкомысленным.
