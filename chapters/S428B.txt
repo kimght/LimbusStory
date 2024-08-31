@@ -2,7 +2,7 @@
 И Сан: <color=#d4e1e8>Вспоминая те дни, я чувствовал, будто всё время парил в воздухе.</color>
 
 # Original: <color=#d4e1e8>Yes, I was enduring life with the feeling of flying in the sky.</color>
-И Сан: <color=#d4e1e8>Да, я бродил по жизни с ощущением полёта в небе.</color>
+И Сан: <color=#d4e1e8>Да, я бродил по жизни словно все время летя по небу.</color>
 
 # Original: <color=#d4e1e8>Thus, I had been living without knowing for certain if I truly had wings or if I was a mere half-wit.</color>
 И Сан: <color=#d4e1e8>Так я и жил, не зная наверняка, были ли у меня на самом деле крылья или я был просто глупцом.</color>
