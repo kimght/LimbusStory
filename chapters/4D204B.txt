@@ -5,7 +5,7 @@
 Измаил: Что он здесь делает...
 
 # Original: We've received an official notice that private technological invention groups of five or more people not registered as a business require a permit from T Corp.
-Отис: Мы получили официальное уведомление о том, что частные группы технологических изобретателей из пяти или более человек, не зарегистрированные как предприятие, требуют разрешения от Крыла Корпорации Т.
+Отис: Мы получили официальное уведомление о том, что частные группы технологических изобретателей из пяти или более человек, не зарегистрированные как предприятие, требуют разрешения от Корпорации Т.
 
 # Original: The same goes for technology. Everything that hasn't been authorized by the Wing's tech agency will be confiscated.
 Отис: То же самое касается технологий. Всё, что не было одобрено технологическим агентством Крыла, будет конфисковано.
