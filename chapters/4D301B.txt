@@ -1,8 +1,8 @@
 # Original: An overlong silence shrouded the passage of time.
-И Сан: Затянувшееся молчание окутало ход времени.
+И Сан: Затянувшееся молчание окутало течение времени.
 
 # Original: All my time during it was a mere adjunct.
-И Сан: Все мое время в течение этого было лишь придатком.
+И Сан: Все мое время в течении этого было лишь придатком.
 
 # Original: In the square wholly painted white, only two visitors came to see me.
 И Сан: Будучи в кубе, полностью выкрашенным в белый цвет, ко мне пришли только двое посетителей.
