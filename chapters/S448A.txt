@@ -92,7 +92,7 @@
 ???: Успокойся.
 
 # Original: Just be still, and do nothing more than breathe.
-???: Просто будь спокоен, и не делай ничего, кроме как дыши.
+???: Просто будь спокоен, и не делай ничего, кроме того как дышать.
 
 # Original: For now, that's how you must live.
 ???: Пока что так ты должен жить.
