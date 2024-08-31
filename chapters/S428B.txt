@@ -5,7 +5,7 @@
 И Сан: <color=#d4e1e8>Да, я бродил по жизни словно все время летя по небу.</color>
 
 # Original: <color=#d4e1e8>Thus, I had been living without knowing for certain if I truly had wings or if I was a mere half-wit.</color>
-И Сан: <color=#d4e1e8>Так я и жил, не зная наверняка, были ли у меня на самом деле крылья или я был просто глупцом.</color>
+И Сан: <color=#d4e1e8>Так бы я и жил, не зная наверняка, были ли у меня на самом деле крылья или я был просто глупцом.</color>
 
 # Original: Yi Sang, did you stay up all night working on your research again? I keep telling you, skipping sleep will get you killed.
 Донран: И Сан, ты опять всю ночь работал над исследованиями? Я же тебе говорю, пропускать сон — это верная смерть.
