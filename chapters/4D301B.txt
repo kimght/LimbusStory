@@ -8,7 +8,7 @@
 И Сан: Будучи в кубе, полностью выкрашенным в белый цвет, ко мне пришли только двое посетителей.
 
 # Original: To supplement... One visited in the square within the square, and the other visited in the square within the square within the square.
-И Сан: Уточню... Один из них побывал в "квадрате внутри куба", а другой - в "квадрате внутри куба внутри квадрата".
+И Сан: Уточню... Один из них посетил "квадрат внутри куба", а другой - "квадрат внутри квадрата внутри куба".
 
 # Original: You're free to do your research here.
 Губо: Ты можешь проводить свои исследования здесь.
