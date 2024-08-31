@@ -49,7 +49,7 @@
 И Сан: Мы смотрели друг в друга, и сквозь друг друга.
 
 # Original: I only made minor modifications to Brother Young-ji's work.
-И Сан: Я лишь внес небольшие изменения в работу Брата Ён-чжи.
+И Сан: Я лишь внес небольшие изменения в работу Брата Ён-джи.
 
 # Original: I wanted to show a reflection of any possibility in its unvarnished image, without a blur.
 И Сан: Я хотел показать отражение любой возможности в ее неприукрашенном виде, без размытости.
@@ -106,7 +106,7 @@
 И Сан: Делать... что именно?
 
 # Original: Brother Young-ji's glass window is already making the rounds. Researchers from other Nests have taken an interest, or so I've heard.
-Донран: Стеклянное окно Брата Ён-чжи уже распространяется. Я слышал, что исследователи из других Гнезд заинтересовались.
+Донран: Стеклянное окно Брата Ён-джи уже распространяется. Я слышал, что исследователи из других Гнезд заинтересовались.
 
 # Original: Really... We rarely saw visitors in the past, but now we might have to start punching tickets so all those people will stand in line.
 Донран: Правда... Раньше мы редко видели посетителей, а теперь, возможно, придется начать выдавать билеты, чтобы все эти люди встали в очередь.
@@ -163,7 +163,7 @@
 Родион: Ты изобрел что-то невероятное, И Сан...
 
 # Original: What Young-ji and I did... wasn't invention; we discovered, rather.
-И Сан: То, что сделали Ён-чжи и я... не было изобретением; скорее, открытием.
+И Сан: То, что сделали Ён-джи и я... не было изобретением; скорее, открытием.
 
 # Original: T Corp... wouldn't have been pleased with the idea of a technology capable of peeping into other worlds without permission.
 Мерсо: Корпорация T... ей бы не понравилась идея о технологии, способной заглядывать в другие миры без разрешения.
