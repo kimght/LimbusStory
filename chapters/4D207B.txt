@@ -23,7 +23,7 @@
 И Сан: Что ещё я мог сделать, кроме как кивнуть?
 
 # Original: If he told me to be apprehended by the tech agency employees, I would have nodded all the same.
-И Сан: Если бы он сказал, чтобы меня задержали сотрудники технического агентства, я бы все равно кивнул.
+И Сан: Если бы он сказал, чтобы меня задержали сотрудники технологического агентства, я бы все равно кивнул.
 
 # Original: If he told me to put all of the mirror technology into a concept incinerator, I would have done so.
 И Сан: Если бы он велел мне поместить все зеркальные технологии в сжигатель концептов, я бы сделал это.
