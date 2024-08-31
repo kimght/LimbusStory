@@ -20,7 +20,7 @@
 Измаил: Но почему именно сейчас? Это из-за собраний Лиги... Нет, это связано с окном...?
 
 # Original: Wait, wait. This idea that we have to make technology in secret could be a pitfall, you know? Who knows, T Corp. might just give us the approval.
-Донран: Подождите, подождите. Эта идея о том, что мы должны создавать технологии тайно, может быть ловушкой, понимаете? Кто знает, может Крыло Корпорации Т просто даст нам одобрение.
+Донран: Подождите, подождите. Эта идея о том, что мы должны создавать технологии тайно, может быть ловушкой, понимаете? Кто знает, может Корпорация Т просто даст нам одобрение.
 
 # Original: A foolish question. Did you forget the reason the League of Nine was established? We gathered together for the pure pursuit of knowledge. Not to serve Wings like pathetic mules.
 Отис: Глупый вопрос. Ты забыл причину создания Лиги Девяти? Мы собрались вместе для чистого поиска знаний. Не для того, чтобы служить Крыльям, как жалкие мулы.
@@ -29,7 +29,7 @@
 Отис: Мы покинули наши родные города ради этой цели, и теперь ты предлагаешь, чтобы мы уступили наши знания? После всего, через что мы прошли?
 
 # Original: Let's see the bigger picture. Rather than just T Corp, wouldn't the City as a whole be benefiting from them?
-Донран: Давайте посмотрим на общую картину. Разве не выиграет ли от них Город в целом, а не только Крыло Корпорации Т?
+Донран: Давайте посмотрим на общую картину. Разве не выиграет ли от них Город в целом, а не только Корпорация Т?
 
 # Original: Technology only has value when it's used for others. Until then, they're mere toys.
 Донран: Технология имеет ценность только тогда, когда используется для других. До этого момента они всего лишь игрушки.
