@@ -80,7 +80,7 @@
 Измаил: Черт, я сама сделала эти штуки, и даже я не освобождена от обязанности носить их во время работы.
 
 # Original: Those were the kinds of achievements we accomplished in T Corp's district.
-И Сан: Вот такие достижения мы совершали в районе Крыла Корпорации T.
+И Сан: Вот такие достижения мы совершали в районе Корпорации T.
 
 # Original: Which is why... I became more engrossed in the mirror.
 И Сан: Вот почему... Я еще больше сосредоточился на зеркале.
