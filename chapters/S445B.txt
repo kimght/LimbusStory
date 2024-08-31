@@ -35,10 +35,10 @@
 Рёшу: ОЗАДАЧЕНА.
 
 # Original: ...What's that supposed to be an acronym for?
-Измаил: ...Какая это аббревиатура?
+Измаил: ...Что это аббревиатура должна значить?
 
 # Original: It's not. I'm just baffled.
-Рёшу: Никакая. Я просто озадачена.
+Рёшу: Ничего. Я просто озадачена.
 
 # Original: Orange hair, you say you used to work on a ship for a long while? As a Fixer?
 Рёшу: Рыжая, ты говоришь, что долго работала на корабле? Корректировщиком?
