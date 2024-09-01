@@ -191,7 +191,7 @@
 Хитклиф: Где ещё я буду работать или куда пойду...? Тск, какая морока.
 
 # Original: The MultiCrack Office, which was composed only of Fixers with prosthetics, was a comfortable space for the child.
-Рассказчик: Офис МногоЛомов, состоявший только из Корректировщиков с протезами, был комфортным пространством для дитя.
+Рассказчик: Офис MultiCrack, состоявший только из Корректировщиков с протезами, был комфортным пространством для дитя.
 
 # Original: Spilling hot coffee at someone was no big deal here. He could also hold conversations about replacing his arms and legs without making things awkward.
 Рассказчик: Здесь пролить горячий кофе на кого-то было не большим делом. Он также мог вести разговоры о замене своих рук и ног, не делая ситуацию неловкой.
