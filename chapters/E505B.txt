@@ -1,0 +1,158 @@
+# Original: <Thanks, everyone... How did you find me?>
+Данте: <Спасибо всем... Как вы меня нашли?>
+
+# Original: We entered via the Backdoor.
+И Сан: Мы вошли через Черный Ход.
+
+# Original: Your signals were no longer detected from within the bus' premises.
+Фауст: Ваши сигналы больше не обнаруживались в пределах автобуса.
+
+# Original: Then, every Sinner was immediately summoned from their respective rooms for the search.
+И Сан: Затем каждый Грешник был немедленно вызван из своих комнат для поисков.
+
+# Original: And so soon after our break started... Dante, let's try to not do anything like this again, hmm~?
+Родион: И так скоро после начала нашего перерыва... Данте, давай постараемся больше не делать ничего подобного, хм~?
+
+# Original: Even if you are the Executive Manager... rogue behavior such as this poses too great a risk. Please be wary of that.
+Отис: Даже если вы Исполнительный Менеджер... такое своевольное поведение представляет слишком большой риск. Пожалуйста, будьте осторожны с этим.
+
+# Original: <I'm sorry... S-so how did you guys find us?>
+Данте: <Мне жаль... Т-так как вы нас нашли?>
+
+# Original: ... I have deduced it.
+И Сан: ... Я это вычислил.
+
+# Original: As of late, Heathcliff was in a constant state of uneasiness. Considering the nature of our circumstances, I conjectured that there was aught that he had to do before our arrival at T Corp.
+И Сан: В последнее время Хитклиф пребывал в постоянном состоянии беспокойства. Учитывая характер наших обстоятельств, я предположил, что ему нужно было что-то сделать до нашего прибытия в Корпорацию Т.
+
+# Original: On the day in which the Backdoor volatility siren echoed, Don Quixote made a relatively delayed return to the Backdoor.
+И Сан: В день, когда прозвучала сирена нестабильности Черного Хода, Дон Кихот вернулась к Черному Ходу с относительным опозданием.
+
+# Original: And, come the next day, she requested from me and Miss Faust an encyclopedia of common symbols used in the City.
+И Сан: А на следующий день она попросила у меня и мисс Фауст энциклопедию общих символов, используемых в Городе.
+
+# Original: Yes. So Faust lent her a few volumes.
+Фауст: Да. Поэтому Фауст одолжила ей несколько томов.
+
+# Original: Ever since receiving the volumes, Miss Don Quixote sat next to me and perused the pages with a rather enthusiastic expression on her countenance. Although I could not converse with her on account of my... conditions...
+И Сан: С момента получения томов мисс Дон Кихот сидела рядом со мной и просматривала страницы с довольно воодушевленным выражением лица. Хотя я не мог с ней разговаривать из-за моих... условий...
+
+# Original: ... I do recollect that the following words were repeatedly uttered. Cosplay, costumes, sack...
+И Сан: ... Я помню, что следующие слова повторялись неоднократно. Косплей, костюмы, мешок...
+
+# Original: In summation, I surmised that Miss Don Quixote witnessed a series of symbols that caught her attention when the siren blared...
+И Сан: В итоге я предположил, что мисс Дон Кихот заметила ряд символов, привлекших ее внимание, когда прозвучала сирена...
+
+# Original: ... and Faust was aware of the door on which those symbols were drawn. Based on that information, the Sinners were able to find their way here.
+Фауст: ... и Фауст знала о двери, на которой были нарисованы эти символы. На основе этой информации Грешники смогли найти сюда дорогу.
+
+# Original: We engaged several entities of the corridor on our path to this door.
+Мерсо: По пути к этой двери мы столкнулись с несколькими сущностями коридора.
+
+# Original: Good thing we only ran into weaklings, though~
+Родион: Хорошо, что нам попались только слабаки, правда~?
+
+# Original: An irreversible death of a Sinner could have occurred in the process.
+Фауст: В процессе могла произойти необратимая смерть Грешника.
+
+# Original: <Um...>
+Данте: <Эм...>
+
+# Original: Do you understand? Engaging hostile forces in your absence carries an exceedingly high level of risk.
+Фауст: Вы понимаете? Столкновение с враждебными силами в ваше отсутствие несет чрезвычайно высокий уровень риска.
+
+# Original: We could have been lost forever in some corner of the corridors as bodies, never to be revived nor retrieved.
+Мерсо: Мы могли бы навсегда потеряться в каком-нибудь углу коридоров как тела, никогда не воскреснув и не будучи найденными.
+
+# Original: Please comprehend the weight of your responsibilities and the risks your independent action carries.
+Отис: Пожалуйста, осознайте вес ваших обязанностей и риски, которые несут ваши самостоятельные действия.
+
+# Original: You must survive, Executive Manager. No matter what.
+Отис: Вы должны выжить, Исполнительный Менеджер. Несмотря ни на что.
+
+# Original: ... Do I make myself clear?
+Отис: ... Я ясно выражаюсь?
+
+# Original: I've never seen Outis look at me like that. Her gaze was cold and ruthless.
+Рассказчик: Я никогда не видел, чтобы Отис так на меня смотрела. Ее взгляд был холодным и безжалостным.
+
+# Original: Your survival was a lucky coincidence, Dante. The sequence of those symbols... are not supposed to be interpreted in such a haphazard manner.
+Фауст: Ваше выживание было счастливым совпадением, Данте. Последовательность этих символов... не должна интерпретироваться столь беспорядочным образом.
+
+# Original: <I'm really sorry... I don't know what else to say.>
+Данте: <Мне правда очень жаль... Я не знаю, что еще сказать.>
+
+# Original: ... I believe that is enough. But...
+Фауст: ... Думаю, этого достаточно. Но...
+
+# Original: N.D.Q.
+Рёшу: Н.Д.К.
+
+# Original: Yeah. Don Quixote, Heathcliff... where'd the pair run off to?
+Измаил: Да. Дон Кихот, Хитклиф... куда подевалась эта парочка?
+
+# Original: <Oh, that's...>
+Данте: <О, это...>
+
+# Original: I told them exactly as the events transpired.
+Рассказчик: Я рассказал им в точности, как развивались события.
+
+# Original: Seriously, how'd ya three even manage to survive this far?
+Грегор: Серьезно, как вам троим вообще удалось выжить до сих пор?
+
+# Original: All right, Manager Bud. I'm sure you've heard enough from the others, so I won't say more. But where exactly are we?
+Грегор: Ладно, Менеджер-приятель. Я уверен, ты уже наслушался от других, так что я не буду больше ничего говорить. Но где именно мы находимся?
+
+# Original: Hey, which district is this? This cold... we must be somewhere in one of the northern districts of the City. Or...
+Отис: Эй, какой это район? Этот холод... мы должны быть где-то в одном из северных районов Города. Или...
+
+# Original: We are not in the City.
+Фауст: Мы не в Городе.
+
+# Original: ... What do you mean?
+Грегор: ... Что ты имеешь в виду?
+
+# Original: I mean that we are not in the City. Those intelligent organisms, called gnomes, are part of a species surviving in the Outskirts.
+Фауст: Я имею в виду, что мы не в Городе. Эти разумные организмы, называемые гномами, являются частью вида, выживающего на Окраинах.
+
+# Original: Commonly known as monsters of the Outskirts.
+Фауст: Обычно известные как монстры Окраин.
+
+# Original: Eugh... Monsters again? After all that we faced at the Lake?
+Родион: Фу... Снова монстры? После всего, с чем мы столкнулись у Озера?
+
+# Original: <They weren't exactly like the Whales, though. We could communicate with the gnomes. They were just like people... except smaller.>
+Данте: <Они не совсем похожи на Китов, правда. Мы могли общаться с гномами. Они были как люди... только меньше.>
+
+# Original: So we're in a completely different region of the Outskirts... I would have liked to explore the area if the circumstances permitted. Look, this structure seems to have been custom-built for the gnomes, considering how small everything is here.
+Измаил: Значит, мы в совершенно другом регионе Окраин... Я бы хотела исследовать эту область, если бы обстоятельства позволяли. Смотрите, эта структура, похоже, была специально построена для гномов, учитывая, насколько здесь все маленькое.
+
+# Original: If this is the Outskirts... We can go back, right?
+Хон Лу: Если это Окраины... Мы можем вернуться, верно?
+
+# Original: As long as the door we entered through remains open, yes.
+Фауст: Пока дверь, через которую мы вошли, остается открытой, да.
+
+# Original: It is open. For now.
+Мерсо: Она открыта. Пока что.
+
+# Original: What if it... closes?
+Синклер: А если она... закроется?
+
+# Original: Then, an unexpected journey begins. We will have to trek the distance from the Outskirts back to the City, which will be a significant endeavor in both time and effort.
+Фауст: Тогда начнется неожиданное путешествие. Нам придется пройти расстояние от Окраин обратно до Города, что потребует значительных усилий и времени.
+
+# Original: <Isn't that a bit dangerou—>
+Данте: <Разве это не немного опасн—>
+
+# Original: Where's this sound coming from-ome... Eh?
+Вишневый Гном: Откуда этот звук-ом... А?
+
+# Original: 'Ome!! I struck gold-ome! Get your tool-omes!!!
+Вишневый Гном: 'Ом!! Я нашел золото-ом! Хватайте свои инструменты-омы!!!
+
+# Original: Dante, come hither to the back of the line.
+И Сан: Данте, подойди сюда, в конец строя.
+
+# Original: The door slammed open, and gnomes began flooding into the room. We prepared ourselves for battle.
+Рассказчик: Дверь с грохотом распахнулась, и гномы начали наводнять комнату. Мы приготовились к битве.

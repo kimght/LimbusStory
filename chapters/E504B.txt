@@ -1,0 +1,185 @@
+# Original: Your clothes are all weird-looking... I guess you're not from the village...?
+Крайон: У вас такая странная одежда... Похоже, вы не из деревни...?
+
+# Original: The child was dressed in torn and faded clothing. From the way she looked at us, I could tell that she found us rather fasciating. She soon woke up from her momentary shock.
+Рассказчик: Ребенок был одет в рваную и выцветшую одежду. По тому, как он смотрел на нас, я мог сказать, что мы его очень заинтересовали. Вскоре он очнулся от минутного шока.
+
+# Original: A-anyways, thank you for saving me…
+Крайон: В-в любом случае, спасибо, что спасли меня…
+
+# Original: My name's Crayon. And… huhh?!
+Крайон: Меня зовут Крайон. И... а?!
+
+# Original: C-Clockwork Teeth?!
+Крайон: Ч-Часовые Зубы?!
+
+# Original: The kid pointed at me and backed away in terror.
+Рассказчик: Ребенок указал на меня и в ужасе отступил.
+
+# Original: The hell are you talking about? That's Clockhead.
+Хитклиф: Ты о чем вообще? Это же Часоголовый.
+
+# Original: <My name's Dante...>
+Данте: <Меня зовут Данте...>
+
+# Original: Clock…head? But I-I heard that the Clockwork Teeth look like… Clocks…
+Крайон: Часо...головый? Но я-я слышал, что Часовые Зубы выглядят как... Часы...
+
+# Original: I guess I also heard that they don't show up this high…
+Крайон: Хотя я также слышал, что они не появляются так высоко...
+
+# Original: I've never seen a monster like that before, though…
+Крайон: Но я никогда раньше не видел такого монстра...
+
+# Original: Aha! But they are not a monster! This is none other than our very own Manager Esquire!
+Дон Кихот: Ага! Но они вовсе не монстр! Это не кто иной, как наш собственный Сэр Менеджер!
+
+# Original: <Thanks for the intro, I guess...>
+Данте: <Спасибо за представление, наверное...>
+
+# Original: But I can't hear anything but the tick-tocking of the clock…
+Крайон: Но я слышу только тиканье часов…
+
+# Original: Well, Manager Esquire has their reasons. … Art thou unharmed?
+Дон Кихот: Что ж, у Сэра Менеджера есть на то свои причины. ... Ты не ранен?
+
+# Original: Yeah...
+Крайон: Да...
+
+# Original: Looks like the other people who were dragged here with me weren't so lucky, though...
+Крайон: Похоже, другим людям, которых сюда притащили вместе со мной, не так повезло...
+
+# Original: The child looks at the mutilated corpses with a despondent look on her face. Don Quixote casts a sympathetic gaze.
+Рассказчик: Ребенок смотрит на изуродованные трупы с унылым выражением лица. Дон Кихот бросает сочувственный взгляд.
+
+# Original: So they were all… neighbors from thy village.
+Дон Кихот: Значит, они все были... соседями из твоей деревни.
+
+# Original: Yeah… B-but! Our village will soon send the Hunters to save us!
+Крайон: Да... Н-но! Наша деревня скоро пошлет Охотников, чтобы спасти нас!
+
+# Original: As long as they can get here, they can…
+Крайон: Если только они смогут сюда добраться, они смогут…
+
+# Original: <Hunters?>
+Данте: <Охотники?>
+
+# Original: I wasn't sure what exactly she was talking about, so I was about to ask her what she meant…
+Рассказчик: Я не был уверен, о чем именно он говорит, поэтому я собирался спросить его, что он имеет в виду…
+
+# Original: Tssssssssss!
+Рассказчик: Тссссссссс!
+
+# Original: … but this reception hall—storage room—suddenly began to fill with gas of unknown origin.
+Рассказчик: ... но этот приемный зал - склад - внезапно начал наполняться газом неизвестного происхождения.
+
+# Original: What's this now?!
+Хитклиф: Что это еще такое?!
+
+# Original: Hup… Quick, hold thy breathing!
+Дон Кихот: Ох... Быстро, задержи дыхание!
+
+# Original: An odd plume of gas, its hue red and green… begins to fill the room.
+Рассказчик: Странное облако газа, красно-зеленого оттенка... начинает заполнять комнату.
+
+# Original: T-this gas… it's the same gas from when… I was… kidna…
+Крайон: Э-этот газ... это тот же газ, что и когда... меня... похи...
+
+# Original: The three of them, including Crayon, passed out and slumped to the floor.
+Рассказчик: Все трое, включая Крайона, потеряли сознание и рухнули на пол.
+
+# Original: Yeah, something like this has happened before. When we walked right into a room full of toxic gas… which killed everyone…
+Рассказчик: Да, что-то подобное уже случалось раньше. Когда мы прямиком зашли в комнату, полную ядовитого газа... который всех убил...
+
+# Original: Mmmh… mm…
+Дон Кихот: Мммх... мм...
+
+# Original: Looks like this gas only knocked them out, though. That's a relief, at least.
+Рассказчик: Похоже, этот газ только усыпил их. По крайней мере, это облегчение.
+
+# Original: Guess I should consider myself lucky… that my clock head isn't affected by these things.
+Рассказчик: Полагаю, мне повезло... что моя часовая голова не подвержена воздействию этих вещей.
+
+# Original: Crreeeak…
+Рассказчик: Скрииип...
+
+# Original: <I-I gotta hide.>
+Данте: <М-мне нужно спрятаться.>
+
+# Original: As soon as I hid myself in a corner, a crowd of gnomes rushed through the same door Dodoru came in from.
+Рассказчик: Как только я спрятался в углу, толпа гномов ворвалась через ту же дверь, из которой вышел Додору.
+
+# Original: <Gas masks… So they used sleeping gas on us.>
+Данте: <Противогазы... Значит, они использовали на нас усыпляющий газ.>
+
+# Original: Ome!!! Is that all that's left of manager Dodoru-ome?
+Гном-вишенка: Оме!!! Это все, что осталось от менеджера Додору-оме?
+
+# Original: Ome!! All that talk of snaggin' three top-notch raw materials… and now look at him-ome! A pile of meat-ome!
+Гном-вишенка: Оме!! Все эти разговоры о поимке трех первоклассных сырьевых материалов... и вот теперь посмотрите на него-оме! Куча мяса-оме!
+
+# Original: Omme!! One-ome, two-ome, three-ome... All accounted for, I suppose-ome!
+Гном-вишенка: Омме!! Раз-оме, два-оме, три-оме... Все на месте, я полагаю-оме!
+
+# Original: They're all fast asleep with the sleepy powder, so don't you all worry yourselves about harming the good-omes.
+Гном-вишенка: Они все крепко спят благодаря сонному порошку, так что не беспокойтесь о том, чтобы повредить хорошие-оме.
+
+# Original: Well, well! Let's move the good-omes!
+Гном-вишенка: Ну что ж! Давайте переместим хорошие-оме!
+
+# Original: They picked up Don Quixote, Heathcliff, and Crayon one by one and loaded them onto the sleigh.
+Рассказчик: Они подняли Дон Кихота, Хитклифа и Крайона по одному и погрузили их на сани.
+
+# Original: With that, they left... closing the door behind them.
+Рассказчик: С этим они ушли... закрыв за собой дверь.
+
+# Original: And through it all... I couldn't do anything but watch.
+Рассказчик: И все это время... я не мог ничего сделать, кроме как наблюдать.
+
+# Original: <Right... Looks like this is my time to shine. I'll rescue the three of them.>
+Данте: <Так... Похоже, пришло мое время блеснуть. Я спасу их троих.>
+
+# Original: ... No way. I should've listened when Ishmael offered to teach me self-defense...
+Рассказчик: ... Нет, не выйдет. Надо было слушать, когда Измаил предлагала научить меня самообороне...
+
+# Original: <Haah... What do I do?>
+Данте: <Хаах... Что же мне делать?>
+
+# Original: This harsh truth dawns on me every time we face total annihilation. The truth that, on my own, I am completely useless.
+Рассказчик: Эта жестокая правда открывается мне каждый раз, когда мы сталкиваемся с полным уничтожением. Правда о том, что сам по себе я совершенно бесполезен.
+
+# Original: If they were with us, I could at least bring them back... But none of the Sinners are here with me. What good am I without them?
+Рассказчик: Если бы они были с нами, я мог бы хотя бы вернуть их... Но ни одного из Грешников здесь со мной нет. Какой от меня толк без них?
+
+# Original: <... It's a miracle that I managed to survive this far...>
+Данте: <... Это чудо, что мне удалось выжить до сих пор...>
+
+# Original: Miracle? What miracle? Come on, get a hold of yourself.
+Измаил: Чудо? Какое чудо? Давай, возьми себя в руки.
+
+# Original: <Great. Now I'm hearing things...>
+Данте: <Отлично. Теперь у меня слуховые галлюцинации...>
+
+# Original: You're not hearing things, Manager! We're really here!
+Синклер: Это не галлюцинации, Менеджер! Мы действительно здесь!
+
+# Original: Do you even know what a mess it was up there when we realized that the three of you just vanished into thin air?!
+Родион: Ты хоть знаешь, какой там наверху был бардак, когда мы поняли, что вы трое просто исчезли в никуда?!
+
+# Original: I bolted up and looked toward the voice. There, I saw another door...
+Рассказчик: Я вскочил и посмотрел в сторону голоса. Там я увидел еще одну дверь...
+
+# Original: ... and from it, the rest of the Sinners appeared one by one.
+Рассказчик: ... и из нее один за другим появились остальные Грешники.
+
+# Original: <Guys...>
+Данте: <Ребята...>
+
+# Original: Oh boy, looks like I forgot about that slightly spoiled ingredi...ent...ome...?
+Гном-вишенка: Ой-ой, похоже, я забыл о том слегка испорченном ингреди...енте...оме...?
+
+# Original: I will inquire about this incident later, Dante.
+Фауст: Я расспрошу об этом инциденте позже, Данте.
+
+# Original: For now, command us in this battle.
+Фауст: А сейчас командуй нами в этой битве.
