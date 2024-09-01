@@ -1,17 +1,17 @@
 # Original: Isn't this a concept incinerator?
-Измаил: Разве это не концептуальный сжигатель?
+Измаил: Разве это не сжигатель концептов?
 
 # Original: What is it doing here...
 Измаил: Что он здесь делает...
 
 # Original: We've received an official notice that private technological invention groups of five or more people not registered as a business require a permit from T Corp.
-Отис: Мы получили официальное уведомление о том, что частные группы технологических изобретателей из пяти или более человек, не зарегистрированные как предприятие, требуют разрешения от Крыла Т.
+Отис: Мы получили официальное уведомление о том, что частные группы технологических изобретателей из пяти или более человек, не зарегистрированные как предприятие, требуют разрешения от Корпорации Т.
 
 # Original: The same goes for technology. Everything that hasn't been authorized by the Wing's tech agency will be confiscated.
 Отис: То же самое касается технологий. Всё, что не было одобрено технологическим агентством Крыла, будет конфисковано.
 
 # Original: Whether they're registered or taken by force... they'll be used in ways none of us wanted.
-Отис: Будут ли они зарегистрированы или отобраны силой... их будут использовать способами, которых никто из нас не хотел.
+Отис: Независимо от того, зарегистрированы они или взяты силой... они будут использованы так, как никто из нас этого бы не хотел.
 
 # Original: That is why we will rid the world of them before that happens.
 Отис: Именно поэтому мы избавим мир от них, прежде чем это произойдет.
@@ -20,7 +20,7 @@
 Измаил: Но почему именно сейчас? Это из-за собраний Лиги... Нет, это связано с окном...?
 
 # Original: Wait, wait. This idea that we have to make technology in secret could be a pitfall, you know? Who knows, T Corp. might just give us the approval.
-Донран: Подождите, подождите. Эта идея о том, что мы должны создавать технологии тайно, может быть ловушкой, понимаете? Кто знает, может Крыло Т просто даст нам одобрение.
+Донран: Подождите, подождите. Эта идея о том, что мы должны создавать технологии тайно, может быть ловушкой, понимаете? Кто знает, может Корпорация Т просто даст нам одобрение.
 
 # Original: A foolish question. Did you forget the reason the League of Nine was established? We gathered together for the pure pursuit of knowledge. Not to serve Wings like pathetic mules.
 Отис: Глупый вопрос. Ты забыл причину создания Лиги Девяти? Мы собрались вместе для чистого поиска знаний. Не для того, чтобы служить Крыльям, как жалкие мулы.
@@ -29,7 +29,7 @@
 Отис: Мы покинули наши родные города ради этой цели, и теперь ты предлагаешь, чтобы мы уступили наши знания? После всего, через что мы прошли?
 
 # Original: Let's see the bigger picture. Rather than just T Corp, wouldn't the City as a whole be benefiting from them?
-Донран: Давайте посмотрим на общую картину. Разве не Город в целом выиграет от них, а не только Крыло Т?
+Донран: Давайте посмотрим на общую картину. Разве не выиграет ли от них Город в целом, а не только Корпорация Т?
 
 # Original: Technology only has value when it's used for others. Until then, they're mere toys.
 Донран: Технология имеет ценность только тогда, когда используется для других. До этого момента они всего лишь игрушки.
@@ -41,13 +41,13 @@
 Донран: Должны ли мы действительно упустить этот шанс... ради защиты этой выдуманной организации?
 
 # Original: Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City.
-Донбек: Донран, не делай неуклюжих попыток, если ты не планируешь спасти всех в Городе.
+Донбек: Донран, не делай неуклюжих попыток, если только не планируешь спасти всех в Городе.
 
 # Original: If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it.
 Донбек: Если бы я думала, что эта жалкая технология способна дать каждому человеку необходимую помощь, я бы отдала ради этого всё.
 
 # Original: But... you think that'll change anything? The world will still be a terrible mess.
-Донбек: Но... ты думаешь, это что-то изменит? Мир всё равно останется ужасным беспорядком.
+Донбек: Но... ты думаешь, это что-то изменит? В мире по-прежнему будет ужасный беспорядок.
 
 # Original: ……
 Донран: ……
@@ -56,7 +56,7 @@
 Донран: Ты права, я ошибался. Какой во всем этом смысл.
 
 # Original: Wow... Look at that... It really does a good job at burning things. You think its creator was a researcher who had an ardor for genuine study like us?
-Донран: Ух ты... Посмотрите на это... Он действительно хорошо справляется со сжиганием вещей. Как думаешь, его создатель был исследователем, который горел настоящим стремлением к знаниям, как мы?
+Донран: Ух ты... Посмотрите на это... Оно действительно хорошо справляется со сжиганием вещей. Как думаешь, возможно его создатель был исследователем, который горел искренним стремлением к знаниям, прямо как мы?
 
 # Original: Dongrang... Are you certain you're alright?
 И Сан: Донран... Ты уверен, что с тобой всё в порядке?
@@ -68,7 +68,7 @@
 Донран: Я случайно наткнулся на эту любопытную вещь в Подворотнях.
 
 # Original: It's apparently an item a Wing called K Corp. is producing these days. It's a swarm of nanobots that look like liquid to the naked eye, and when you inject it...
-Донран: Это, по-видимому, предмет, который производит в эти дни Крыло под названием Корп. К. Это рой наноботов, которые выглядят как жидкость для невооруженного глаза, и когда ты их вводишь...
+Донран: Это, по-видимому, предмет, которое в наши дни производит Крыло под названием Корпорация К. Это рой наноботов, которые выглядят как жидкость для невооруженного глаза, но когда ты их вводишь...
 
 # Original: No matter how badly you're crushed, hurt, fractured, ripped, torn, or chopped away...
 Донран: Неважно, насколько сильно тебя раздавят, поранят, сломают, разорвут, растерзают или разрубят...
@@ -77,7 +77,7 @@
 Донран: Всё заживает за секунды. Удивительно, не правда ли? Требуется совсем немного времени, чтобы боль прошла. Хахаха.
 
 # Original: It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?
-Донран: Было совершенно нормально быть раненым. Мне не нужно было напрягать своё тело и сердце, пытаясь лечить вещи. Я был таким глупым, не так ли?
+Донран: Было совершенно нормально испытывать боль. Мне не нужно было напрягать свое тело и сердце, пытаясь что-то вылечить. Я был таким глупым, не так ли?
 
 # Original: ...Dongrang.
 И Сан: ...Донран.

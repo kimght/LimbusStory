@@ -17,16 +17,16 @@
 Альфонсо: У меня есть предложение, как с ними справиться.
 
 # Original: Everything that happened in K Corp. today was single-handedly caused by a mentally unstable, rebellious employee named Dongrang...
-Альфонсо: Всё, что произошло сегодня в Корп. K, было вызвано исключительно психически нестабильным, мятежным сотрудником по имени Донран...
+Альфонсо: Всё, что произошло сегодня в Корпорации K, было вызвано исключительно психически нестабильным, мятежным сотрудником по имени Донран...
 
 # Original: In his scheme to unfairly claim personal gains and power within the firm. Do you agree?
-Альфонсо: В его схеме незаконно получить личную выгоду и власть в фирме. Вы согласны?
+Альфонсо: В его схеме несправедливо претендовать на личную выгоду и власть в фирме. Вы согласны?
 
 # Original: ...Are you sure you're okay with that cover-up story? He may have opposed us... but he was your employee, wasn't he?
-Измаил: ...Вы уверены, что вас устраивает такая версия прикрытия? Он, может, и противостоял нам... но он был вашим сотрудником, не так ли?
+Измаил: ...Вы уверены, что вас устраивает такая версия с прикрытием? Он, может, и противостоял нам... но он же был вашим сотрудником, не так ли?
 
 # Original: Well... I did say my goodbyes with a phone call earlier. Some cheeky man he was.
-Альфонсо: Ну... Я уже попрощалась с ним по телефону ранее. Каким дерзким человеком он был.
+Альфонсо: Ну... Я уже попрощалась с ним по телефону ранее. Каким же наглым человеком он был.
 
 # Original: And you're a manager at Limbus Company... Dante, right? You seemed somewhat unassertive for a manager.
 Альфонсо: А вы менеджер в Компании Лимбус... Данте, верно? Вы кажетесь несколько нерешительным для менеджера.
@@ -44,7 +44,7 @@
 Данте: <Ты наняла убийц из Ассоциации Ши, чтобы заставить Шренн замолчать, не так ли?>
 
 # Original: ...They are telling you that they got the message.
-Фауст: ...Он говорит вам, что понял сообщение.
+Фауст: ...Он говорит вам, что понял ваше сообщение.
 
 # Original: ...Hmph, I thought you were something of a half-wit, but I suppose you weren't put in charge for nothing.
 Альфонсо: ...Хмф, я думала, ты что-то вроде полудурка, но, похоже, тебя не зря поставили во главе.
@@ -59,7 +59,7 @@
 Альфонсо: То плачущее существо...
 
 # Original: Was K Corp's Singularity itself and a confidential detail we could in no way allow to be known.
-Альфонсо: Было самой Сингулярностью Корп. K и конфиденциальной информацией, которую мы никак не можем позволить разгласить.
+Альфонсо: Было самой Сингулярностью Корпорации K и конфиденциальной информацией, которую мы никак не можем позволить разгласить.
 
 # Original: Limbus Company does not give away confidential information gained during investigation. If you'd like, we could arrange a contract to...
 Фауст: Компания Лимбус не разглашает конфиденциальную информацию, полученную в ходе расследования. Если хотите, мы могли бы заключить контракт на...
@@ -68,7 +68,7 @@
 Альфонсо: Ха. Ха. Вы серьёзно предлагаете это сразу после того, как увидели, как подписанный вами контракт превратился в бесполезную стопку бумаги?
 
 # Original: I couldn't let a piece of paper bind me down.
-Альфонсо: Я не могла позволить какой-то бумажке связать меня.
+Альфонсо: Я не могу позволить какой-то бумажке связать меня.
 
 # Original: I'll get your memories erased.
 Альфонсо: Я сотру ваши воспоминания.
@@ -101,25 +101,25 @@
 Рассказчик: Несмотря на угрожающее запугивание Рёшу...
 
 # Original: Following the unfriendly instructions of people who appeared to be K Corp's high-rank staff and Fixers, we were put through a memory wipe procedure, erasing every recollection of the tearful thing from the Sinners' heads.
-Рассказчик: Следуя недружелюбным инструкциям людей, которые, казалось, были высокопоставленным персоналом Корп. K и Корректировщиками, мы прошли процедуру стирания памяти, удалив все воспоминания о плачущем существе из голов Грешников.
+Рассказчик: Следуя недружелюбным инструкциям людей, которые, казалось, были высокопоставленным персоналом Корпорации K и Корректировщиками, мы прошли процедуру стирания памяти, удалив все воспоминания о плачущем существе из голов Грешников.
 
 # Original: As we left, Alfonso told us to look forward to how the tears will be used in the future...
 Рассказчик: Когда мы уходили, Альфонсо сказала нам ждать с нетерпением, как слезы будут использованы в будущем...
 
 # Original: The Sinners had memories of seeing something in the laboratory, but none of them could recall what it was, how the tears were collected, or how HP bullets were made.
-Рассказчик: У Грешников остались воспоминания о том, что они что-то видели в лаборатории, но никто из них не мог вспомнить, что это было, как собирались слезы или как изготавливались пули HP.
+Рассказчик: У Грешников остались воспоминания о том, что они что-то видели в лаборатории, но никто из них не мог вспомнить, что это было, как собирались слезы или как изготавливались HP пули.
 
 # Original: <By the way, Yi Sang...>
 Данте: <Кстати, И Сан...>
 
 # Original: <Where did you want to fly?>
-Данте: <Куда ты хотел полететь?>
+Данте: <Куда бы ты хотел полететь?>
 
 # Original: I would have been content with the feelings it would give.
-И Сан: Я был бы доволен теми чувствами, которые это бы вызвало.
+И Сан: Я был бы доволен теми чувствами, которые это вызвало бы.
 
 # Original: <What about now?>
-Данте: <А сейчас?>
+Данте: <А что сейчас?>
 
 # Original: ...Hm. I will leave no comments on that.
 И Сан: ...Хм. Я воздержусь от комментариев.
@@ -131,7 +131,7 @@
 Рассказчик: Это то, что стирание памяти по какой-то загадочной причине не подействовало на меня.
 
 # Original: Could I recover the Sinners' wiped memories somehow, like how I rewind their injuries using the clock?
-Рассказчик: Мог ли я как-то восстановить стёртые воспоминания Грешников, как я отматываю их раны, используя часы?
+Рассказчик: Могу ли я как-то восстановить стёртые воспоминания Грешников, как я отматываю их раны, используя часы?
 
 # Original: The thought occurred to me, but alas...
 Рассказчик: Эта мысль пришла мне в голову, но увы...
@@ -140,10 +140,10 @@
 Рассказчик: Я не знаю, как бы я это сделал, и не уверен, возможно ли это вообще.
 
 # Original: I was sure about one thing.
-Рассказчик: Я был уверен в одном.
+Рассказчик: Я был уверен лишь в одном.
 
 # Original: The fact that I am retaining the memories they tried to erase must be valuable... So I decided to stay quiet about it.
-Рассказчик: Тот факт, что я сохраняю воспоминания, которые они пытались стереть, должен быть ценным... Поэтому я решил промолчать об этом.
+Рассказчик: Тот факт, что я сохраняю воспоминания, которые они пытались стереть, должны быть ценными... Поэтому я решил промолчать об этом.
 
 # Original: However, manager, I will say this much.
 И Сан: Однако, менеджер, я скажу вот что.
@@ -158,10 +158,10 @@
 И Сан: Поэтому я хотел бы сопротивляться столько, сколько потребуется, если это будет необходимо.
 
 # Original: No longer will I bend as the wind blows... I won't let it sway me or strike me down.
-И Сан: Больше я не буду гнуться по ветру... Я не позволю ему качать меня или сбивать с ног.
+И Сан: Я больше не буду сгибаться под порывами ветра...  Я не позволю ему качать меня или сбивать с ног.
 
 # Original: Rather than be slantwise and seep...
-И Сан: Вместо того чтобы быть наклонным и просачиваться...
+И Сан: Вместо того чтобы коситься и стекать...
 
 # Original: I intend to walk where I plan to go.
 И Сан: Я намерен идти туда, куда планирую.
@@ -176,40 +176,40 @@
 Данте: <Конечно.>
 
 # Original: That's right. Even if their memories are taken, it won't gnaw away at the determination that has firmly taken root in their hearts.
-Рассказчик: Верно. Даже если их воспоминания будут отняты, это не подточит решимость, которая прочно укоренилась в их сердцах.
+Рассказчик: Верно. Даже если у них отберут воспоминания, это не поколеблет решимости, которая прочно укоренилась в их сердцах.
 
 # Original: Then, what is the determination that I have left?
 Рассказчик: Тогда какова решимость, оставшаяся у меня?
 
 # Original: How much must I remember and witness?
-Рассказчик: Сколько я должен помнить и свидетельствовать?
+Рассказчик: Как много я должен помнить и чему быть свидетелем?
 
 # Original: Thinking such thoughts, I looked at Vergilius who was on the other side.
-Рассказчик: Размышляя об этом, я посмотрел на Вергилия, который был по другую сторону.
+Рассказчик: Размышляя об этом, я посмотрел на Вергилия, который стоял по другую сторону.
 
 # Original: ...Because it would be one of the manager's duties to remember and witness all this.
-Вергилий: ...Потому что одной из обязанностей менеджера было бы помнить и свидетельствовать обо всём этом.
+Вергилий: ...Потому что одной из обязанностей менеджера было бы помнить обо всём и быть тому свидетелем.
 
 # Original: <You heard what I said?>
-Данте: <Ты слышал, что я сказал?>
+Данте: <Ты услышал, что я сказал?>
 
 # Original: Dante asks if you heard what they said.
-Фауст: Данте спрашивает, слышали ли вы то, что они сказали.
+Фауст: Данте спрашивает, слышали ли вы то, что он сказал.
 
 # Original: ...I couldn't hear the usual ticks, so I have no way to know if you even said something.
-Вергилий: ...Я не слышал обычного тиканья, поэтому я не могу знать, сказали ли вы что-нибудь вообще.
+Вергилий: ...Я не услышал обычного тиканья, поэтому я не могу знать, сказали ли вы что-нибудь вообще.
 
 # Original: Of course, I can't hear your words, Manager Dante. It was just idle talk. The look on your face seemed to warrant it.
-Вергилий: Конечно, я не могу слышать ваши слова, Менеджер Данте. Это была просто праздная болтовня. Выражение вашего лица, казалось, требовало этого.
+Вергилий: Конечно же, я не могу слышать ваши слова, Менеджер Данте. Это была просто праздная болтовня. Выражение вашего лица, казалось, требовало этого.
 
 # Original: Did I have facial expressions...?
 Рассказчик: У меня были выражения лица...?
 
 # Original: May the meaning of those ceaseless tears be effervescence.
-Альфонсо: Пусть смысл этих нескончаемых слез будет игристостью.
+Альфонсо: Пусть смысл этих нескончаемых слёз будет вскипать.
 
 # Original: Your wish, as well as ours...
-Альфонсо: Ваше желание, как и наше...
+Альфонсо: Ваше желание, так же как и наше...
 
 # Original: Are being realized to the best of our abilities as always.
 Альфонсо: Реализуются в меру наших возможностей, как всегда.
@@ -218,7 +218,7 @@
 И Сан: <color=#d4e1e8>Как у вас дела?</color>
 
 # Original: <color=#d4e1e8>Whenever I look at a mirror, I find myself greeting it.</color>
-И Сан: <color=#d4e1e8>Всякий раз, когда я смотрю в зеркало, я обнаруживаю, что приветствую его.</color>
+И Сан: <color=#d4e1e8>Всякий раз, когда я смотрю в зеркало, я ловлю себя на том, что приветствую его.</color>
 
 # Original: <color=#d4e1e8>It is said that a greeting is only natural when it is mutually exchanged...</color>
 И Сан: <color=#d4e1e8>Говорят, что приветствие естественно только тогда, когда оно взаимно...</color>
@@ -236,7 +236,7 @@
 И Сан: <color=#d4e1e8>Я тоже не изменюсь.</color>
 
 # Original: <color=#d4e1e8>You have no need to be overly concerned for me. I now have new companions by my side.</color>
-И Сан: <color=#d4e1e8>Вам не нужно чрезмерно беспокоиться обо мне. Теперь у меня есть новые спутники рядом.</color>
+И Сан: <color=#d4e1e8>Тебе не нужно чрезмерно беспокоиться обо мне. Теперь рядом со мной новые товарищи.</color>
 
 # Original: <color=#d4e1e8>Though I cannot be sure what they will think of this... I intend to consider them as such.</color>
 И Сан: <color=#d4e1e8>Хотя я не могу быть уверен, что они подумают об этом... Я намерен считать их таковыми.</color>
@@ -248,7 +248,7 @@
 И Сан: <color=#d4e1e8>Позвольте мне сделать последнее замечание.</color>
 
 # Original: <color=#d4e1e8>May you all keep company with peace throughout your lives.</color>
-И Сан: <color=#d4e1e8>Пусть мир сопутствует вам всю вашу жизнь.</color>
+И Сан: <color=#d4e1e8>Пусть мир будет сопутствовать вам всю вашу жизнь.</color>
 
 # Original: <color=#d4e1e8>Yours sincerely, Yi Sang.</color>
 И Сан: <color=#d4e1e8>С искренним уважением, И Сан.</color>
@@ -257,7 +257,7 @@
 Данте: <Они действительно серьёзно относятся к еде.>
 
 # Original: <It amazes me how they can look so happy while eating out.>
-Данте: <Меня удивляет, как они могут выглядеть такими счастливыми, обедая вне дома.>
+Данте: <Меня удивляет, как они могут выглядеть такими счастливыми, обедая вне автобуса.>
 
 # Original: I stepped out of the restaurant to briefly catch some fresh air.
 Рассказчик: Я вышел из ресторана, чтобы ненадолго глотнуть свежего воздуха.
@@ -272,28 +272,28 @@
 Демиан: Я говорил тебе, что приду увидеться с тобой снова.
 
 # Original: Why can't people settle for just looking?
-Демиан: Почему людям недостаточно просто смотреть?
+Демиан: Почему люди не могут довольствоваться простым наблюдением?
 
 # Original: It should be enough to simply admire it, smell the scent, and enjoy the moment; but they nurture greed and obsession as they contain it in their sight, eating themselves away.
-Демиан: Должно быть достаточно просто любоваться, вдыхать аромат и наслаждаться моментом; но они питают жадность и одержимость, удерживая это в поле зрения, поедая сами себя.
+Демиан: Должно быть достаточно просто любоваться, вдыхать аромат и наслаждаться моментом; но они питают жадность и одержимость, удерживая это на виду, поедая самих себя.
 
 # Original: The mirror, too—it was first created for simple enjoyment.
-Демиан: Зеркало тоже — оно было создано изначально для простого удовольствия.
+Демиан: И зеркало тоже — оно было создано для простого наслаждения.
 
 # Original: You could compare it to a bag of chips with hundreds of flavors, for example.
-Демиан: Можно сравнить это с пакетом чипсов с сотнями вкусов, например.
+Демиан: Например, вы могли бы сравнить это с упаковкой чипсов с сотнями вкусов.
 
 # Original: But then someone came up with an idea.
-Демиан: Но потом кому-то пришла в голову идея.
+Демиан: Но потом кому-то в голову пришла идея.
 
 # Original: 'What if there was a way to reach into that possibly infinite bag of chips and take what I don't have...? What if all of us could have all the flavors that way...?'
 Демиан: 'А что, если бы был способ дотянуться до этого возможно бесконечного пакета чипсов и взять то, чего у меня нет...? Что, если бы все мы могли иметь все вкусы таким образом...?'
 
 # Original: It wouldn't be considered theft. According to the rules made by adults, anyway.
-Демиан: Это не считалось бы воровством. По крайней мере, согласно правилам, установленным взрослыми.
+Демиан: Это не считалось бы воровством. По крайней мере, согласно правилам, установленными взрослыми.
 
 # Original: That, in fact, is stealing from me.
-Демиан: На самом деле, это кража у меня.
+Демиан: Это, на самом деле, кража у себя самого.
 
 # Original: <……>
 Данте: <……>
@@ -305,7 +305,7 @@
 Демиан: Но кто-то, кто нашёл мерцание ошеломляюще очаровательным, взял одну из звёзд...
 
 # Original: And hung it on a high enough place for everyone to see, expelling the dark.
-Демиан: И повесил её достаточно высоко, чтобы все могли видеть, изгоняя тьму.
+Демиан: И повесил её достаточно высоко, чтобы все могли её видеть, изгоняя тьму.
 
 # Original: All the people would rejoice.
 Демиан: Все люди бы возрадовались.
@@ -314,13 +314,13 @@
 Демиан: А теперь вопрос.
 
 # Original: What will become of me who has been robbed by me, and the star that's now forced to illuminate the dark forevermore?
-Демиан: Что станет со мной, кого обокрал я сам, и со звездой, которую теперь заставляют вечно освещать тьму?
+Демиан: Что станет со мной, которого я сам же и обокрал, и со звездой, которая теперь вынуждена вечно освещать тьму?
 
 # Original: <I…>
 Данте: <Я…>
 
 # Original: The mirror your friends use isn't any different. That is such a cruel piece of technology.
-Демиан: Зеркало, которое используют твои друзья, ничем не отличается. Это такая жестокая технология.
+Демиан: Зеркало, которое используют твои друзья, ничем не отличается. Это такая же жестокая технология.
 
 # Original: Take your time with the answer. Just draw me a sheep later.
 Демиан: Не торопись с ответом. Просто нарисуй мне овечку, позже.
@@ -332,4 +332,4 @@
 Рассказчик: Как только я попытался что-то сказать, он исчез, оставив лишь намёк на одиночество.
 
 # Original: He was nowhere to be seen, as if he returned to where he belonged. I couldn't even remember what I was trying to answer.
-Рассказчик: Его нигде не было видно, как будто он вернулся туда, где ему место. Я даже не мог вспомнить, что пытался ответить.
+Рассказчик: Его нигде не было видно, как будто он вернулся туда, где ему и место. Я даже не смог вспомнить, что пытался ответить.

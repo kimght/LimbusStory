@@ -19,7 +19,7 @@
 Хон Лу: Фуху, похоже, мы заработали некоторую известность. Нас наконец-то приглашают туда, где живут обычные люди.
 
 # Original: Lemme make one thing clear… If the request and the reward’s a load of tosh like the last time, I’m out.
-Хитклиф: Давайте-ка проясним одну вещь... Если запрос и награда окажутся такой же чушью, как в прошлый раз, я ухожу.
+Хитклиф: Давайте-ка проясним одну вещь... Если запрос и награда окажутся такой же херней, как в прошлый раз, я ухожу.
 
 # Original: Heathcliff ground his teeth, whether by Hong Lu’s words or due to memories of what we got into last time we were here.
 Рассказчик: Хитклиф скрипнул зубами, то ли от слов Хон Лу, то ли из-за воспоминаний о том, во что мы влипли в прошлый раз, когда были здесь.
@@ -34,13 +34,13 @@
 Отис: Этот человек...
 
 # Original: It’s a pleasure to meet you again. I want you to know that this is my heartfelt sentiment and not a formality.
-Самджо: Рад снова встретиться с вами. Хочу, чтобы вы знали, что это мое искреннее чувство, а не формальность.
+Самджо: Рад снова встретиться с вами. Хочу, чтобы вы знали, что это мои искренние чувства, а не формальность.
 
 # Original: A familiar face I never expected to see again greeted us.
 Рассказчик: Нас встретило знакомое лицо, которое я никак не ожидал увидеть снова.
 
 # Original: …I’m out. Already told ya.
-Хитклиф: ...Я ухожу. Я же уже сказал.
+Хитклиф: ...Я ухожу. Я уже все сказал.
 
 # Original: <Give it a moment! Let’s at least hear what he has to say, okay?>
 Данте: <Подожди минутку! Давай хотя бы выслушаем, что он хочет сказать, ладно?>
@@ -118,7 +118,7 @@
 Донран: Ха-ха, забавно ты это сформулировала.
 
 # Original: Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?
-Донран: Ах, и вы, должно быть, менеджер... Данте, верно? Можем ли мы поговорить минутку?
+Донран: Ах, и вы, должно быть, менеджер... Данте, верно? Можем ли мы поговорить на минутку?
 
 # Original: Faust tried to say something to Dongrang, but he and Samjo pulled me far away by the time she stepped forward.
 Рассказчик: Фауст попыталась что-то сказать Донрану, но он и Самджо увели меня далеко в сторону к тому времени, как она сделала шаг вперед.

@@ -2,10 +2,10 @@
 И Сан: <color=#d4e1e8>Вспоминая те дни, я чувствовал, будто всё время парил в воздухе.</color>
 
 # Original: <color=#d4e1e8>Yes, I was enduring life with the feeling of flying in the sky.</color>
-И Сан: <color=#d4e1e8>Да, я терпел жизнь с ощущением полёта в небе.</color>
+И Сан: <color=#d4e1e8>Да, я бродил по жизни словно все время летя по небу.</color>
 
 # Original: <color=#d4e1e8>Thus, I had been living without knowing for certain if I truly had wings or if I was a mere half-wit.</color>
-И Сан: <color=#d4e1e8>Так я и жил, не зная наверняка, были ли у меня на самом деле крылья или я был просто глупцом.</color>
+И Сан: <color=#d4e1e8>Так бы я и жил, не зная наверняка, были ли у меня на самом деле крылья или я был просто глупцом.</color>
 
 # Original: Yi Sang, did you stay up all night working on your research again? I keep telling you, skipping sleep will get you killed.
 Донран: И Сан, ты опять всю ночь работал над исследованиями? Я же тебе говорю, пропускать сон — это верная смерть.
@@ -23,10 +23,10 @@
 И Сан: На этот раз... я создал нечто, что я называю 'зеркалом'.
 
 # Original: <color=#d4e1e8>Thus, it has always remained unclear.</color>
-Рассказчик: <color=#d4e1e8>Так и осталось неясным.</color>
+Рассказчик: <color=#d4e1e8>Так оно всегда и оставалось мутным.</color>
 
 # Original: <color=#d4e1e8>Unsure if I regret that day, or reminisce it fondly.</color>
-Рассказчик: <color=#d4e1e8>Сожалею ли я о том дне или вспоминаю его с теплотой.</color>
+Рассказчик: <color=#d4e1e8>Не уверен, сожалею ли я о том дне или вспоминаю его с теплотой</color>
 
 # Original: <...Sang... Yi Sang! You alright?>
 Данте: <...Сан... И Сан! Ты в порядке?>
@@ -41,7 +41,7 @@
 Рассказчик: Их жизни так легко угасают и так же легко восстанавливаются.
 
 # Original: I see... You have reversed my death as you always do.
-И Сан: Понятно... Вы снова отменили мою смерть, как всегда.
+И Сан: Понятно... Вы снова предотвратили мою смерть, как всегда.
 
 # Original: <……>
 Данте: <……>
@@ -53,7 +53,7 @@
 Рассказчик: А Донбек тем временем исчезла.
 
 # Original: The smiles the people in the photograph made at each other were nowhere to be seen now.
-Рассказчик: Улыбки людей на фотографии, обращённые друг к другу, теперь нигде не было видно.
+Рассказчик: Улыбки людей на фотографии, обращённых друг к другу, теперь нигде не было видно.
 
 # Original: And Dongrang cast his eyes into emptiness, reviewing the situation we got into.
 Рассказчик: А Донран устремил взгляд в пустоту, оценивая ситуацию, в которую мы попали.
@@ -71,13 +71,13 @@
 Хон Лу: А~ Так ты привёл сюда И Сана специально?
 
 # Original: Mm... Are you asking if I invited him as a meat shield knowing that I'd be ambushed? As excellent as my ability to predict courses of events is, I am no prophet.
-Донран: Мм... Ты спрашиваешь, пригласил ли я его в качестве живого щита, зная, что на меня нападут? Как бы ни было превосходно моё умение предсказывать ход событий, я не пророк.
+Донран: Мм... Ты спрашиваешь, пригласил ли я его в качестве живого щита, зная, что на меня нападут? Как бы ни было превосходно моё умение предсказывать ход событий, но я не пророк.
 
 # Original: Either way, things went in our favor. The assault was clearly made with intent to kill.
 Самджо: В любом случае, всё сложилось в нашу пользу. Нападение явно было совершено с намерением убить.
 
 # Original: What did you just...? You can't be serious... A colleague of ours got stabbed to death for your boss, and you're talking like everything went well...
-Грегор: Что ты только что...? Ты не можешь говорить серьёзно... Нашего товарища закололи до смерти ради твоего босса, а ты говоришь, будто всё прошло хорошо...
+Грегор: Что ты только что...? Ты же не серьёзно... Нашего товарища закололи до смерти ради твоего босса, а ты говоришь, будто всё прошло хорошо...
 
 # Original: It's not our responsibility to compensate for any injuries, is it? If this has left psychological scars, you are free to demand compensation, but please know that the procedures will be rather complex...
 Самджо: Разве наша обязанность — компенсировать какие-либо травмы? Если это оставило психологические шрамы, вы вправе потребовать компенсацию, но имейте в виду, что процедуры будут довольно сложными...
@@ -107,22 +107,22 @@
 Данте: <Ты точно в порядке, И Сан?>
 
 # Original: Yi Sang shut down my last attempt to inquire with a simple "Yes", so I couldn't try again until now...
-Рассказчик: И Сан пресёк мою последнюю попытку расспросить простым "Да", так что я не мог попробовать снова до сих пор...
+Рассказчик: И Сан пресёк мою последнюю попытку задать вопрос простым "Да", так что я не смог бы повторить еще раз, до этого момента...
 
 # Original: But that man named Gubo had no problem raising his weapon against Yi Sang while claiming to be his compatriot.
 Рассказчик: Но тот человек по имени Губо без проблем поднял оружие против И Сана, утверждая, что он его товарищ.
 
 # Original: I see, you must have been rather curious.
-И Сан: Понимаю, вы, должно быть, были довольно любопытны.
+И Сан: Понимаю, вам, должно быть, было довольно любопытно.
 
 # Original: This time, he didn't seem to have any intent to dodge my question.
 Рассказчик: На этот раз он, похоже, не собирался уклоняться от моего вопроса.
 
 # Original: I was once part of an organization named the League of Nine. Gubo, Dongrang, and Dongbaek, the one who stabbed my chest. Those faces you have seen were members of it as well, manager.
-И Сан: Когда-то я был частью организации под названием Лига Девяти. Губо, Донран и Донбек, та, что пронзила мою грудь. Те лица, которые вы видели, тоже были её членами, менеджер.
+И Сан: Когда-то я был частью организации под названием Лига Девяти. Губо, Донран и Донбек, та, что пронзила мою грудь. Те лица, которые вы видели, тоже были её членами, Менеджер.
 
 # Original: However, it disbanded and scattered one day. Each of us was flown away into our own path.
-И Сан: Однако однажды она распалась и рассеялась. Каждый из нас полетел своим путём.
+И Сан: Однако однажды все распалось и рассеялось. Каждый из нас полетел своим собственным путём.
 
 # Original: That was all there was to it.
 И Сан: Вот и всё, что было.
@@ -137,7 +137,7 @@
 Синклер: Или, может быть, они никогда и не были друзьями.
 
 # Original: It was no more than a moment. I believe my testimony to be apt for a time as transient as that.
-И Сан: Это было не более чем мгновение. Полагаю, моё свидетельство подходит для столь мимолётного времени.
+И Сан: Это было не более чем мгновение. Полагаю, моё свидетельство подходит для столь мимолётного момента, как этот.
 
 # Original: He started talking a lot. He hasn't turned into a chatterbox just yet, but I had the feeling that he'd soon become more talkative.
 Рассказчик: Он начал много говорить. Он ещё не превратился в болтуна, но у меня было чувство, что скоро он станет более разговорчивым.
@@ -152,7 +152,7 @@
 И Сан: Со мной всегда всё в порядке.
 
 # Original: If that was his true nature, then this might not be a bad thing.
-Рассказчик: Если это была его истинная натура, то, возможно, это не плохо.
+Рассказчик: Если это была его истинная натура, то, возможно, это не так уж плохо.
 
 # Original: Still, my feelings say that I should care for his well-being.
 Рассказчик: Тем не менее, мои чувства говорят, что я должен позаботиться о его благополучии.
@@ -164,7 +164,7 @@
 И Сан: ...Вы уделяете мне сегодня необычно много внимания. Хотя это не доставляет мне удовольствия... я дам вам ответ, поскольку ваше поведение весьма отличается от обычного.
 
 # Original: If I were to choose one, the happiest occasion in recent memory would be... when we held an illuminators' conference.
-И Сан: Если бы мне пришлось выбирать, самым счастливым случаем в недавней памяти был бы... когда мы проводили конференцию просветителей.
+И Сан: Если бы мне пришлось выбирать что-то одно, то самым счастливым событием на моей памяти было бы... когда мы проводили Конференцию просветителей.
 
 # Original: And the most hopeless one would be...
 И Сан: А самым безнадёжным...
@@ -173,13 +173,13 @@
 И Сан: В лесу, где я впервые встретил вас.
 
 # Original: The very moment my life resumed when I was certain that it had ended there.
-И Сан: Тот самый момент, когда моя жизнь возобновилась, когда я был уверен, что она там закончилась.
+И Сан: Тот самый момент, когда моя жизнь возобновилась, когда я был уверен, что она там и закончилась. 
 
 # Original: Another such moment is now. I am once again realizing that this regeneration is ever so flawless, unchanging.
-И Сан: Другой такой момент — сейчас. Я снова осознаю, что эта регенерация всегда такая безупречная, неизменная.
+И Сан: Другой такой момент — сейчас. Я вновь осознаю, что эта регенерация всегда такая безупречная, неизменная.
 
 # Original: I hope that sates your curiosity.
-И Сан: Надеюсь, это удовлетворит ваше любопытство.
+И Сан: Надеюсь, что это удовлетворит ваше любопытство.
 
 # Original: <……>
 Данте: <……>
@@ -194,7 +194,7 @@
 Рассказчик: Я почти мог это видеть.
 
 # Original: Although the wound was perfectly erased, there was still...
-Рассказчик: Хотя рана была идеально стёрта, всё ещё оставалось...
+Рассказчик: Хотя рана была совершенно стерта, она все еще оставалась...
 
 # Original: A hole in his chest, wide open with no signs of mending.
 Рассказчик: Отверстие в его груди, широко открытое, без признаков заживления.

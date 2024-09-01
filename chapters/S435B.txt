@@ -2,7 +2,7 @@
 Донран: Это проблематично. Мне все равно насчет других мест, но если нападут на это место, это вызовет серьезные неприятности...
 
 # Original: Mr. Dongrang, you have an urgent call from Director Alfonso.
-Самджо: Господин Донран, вам срочный звонок от директора Альфонсо.
+Самджо: Господин Донран, у вас срочный звонок от директора Альфонсо.
 
 # Original: Oh boy... She's about to give me a talking-to. Can't you take the call for me, Samjo?
 Донран: Ох... Сейчас она мне задаст. Не мог бы ты ответить вместо меня, Самджо?
@@ -11,10 +11,10 @@
 Самджо: Я уже это делал, но ее терпение на исходе.
 
 # Original: Oh well... I'm not getting away from this. Pardon me for a second.
-Донран: Ну что ж... От этого мне не уйти. Прошу прощения на минутку.
+Донран: Ну что ж... От этого мне не уйти. Прошу прощения, дайте минутку.
 
 # Original: While Dongrang was away, we spotted an employee who hadn't evacuated across the hallway, nervously wandering.
-Рассказчик: Пока Донран отсутствовал, мы заметили сотрудника, который не эвакуировался, нервно бродящего по коридору.
+Рассказчик: Пока Донран отсутствовал, мы заметили сотрудника, который не эвакуировался и нервно бродил по коридору.
 
 # Original: Watch closely, Executive Manager. If you see a lackey snooping around like that in the middle of danger...
 Отис: Смотрите внимательно, Исполнительный Менеджер. Если вы видите лакея, который так крадется посреди опасности...
@@ -41,7 +41,7 @@
 Нервный сотрудник: Спасибо.
 
 # Original: Now, while the terrorists' informant has been removed, the staff is still in a muddle, and her computer is left on.
-Отис: Итак, пока информатор террористов устранен, персонал все еще в замешательстве, а ее компьютер остался включенным.
+Отис: Итак, когда информатор террористов устранен, персонал все еще в замешательстве, а ее компьютер остался включенным.
 
 # Original: We're in a complete tactical advantage. It didn't even cost us any strength.
 Отис: У нас полное тактическое преимущество. И это даже не стоило нам никаких усилий.
@@ -50,7 +50,7 @@
 Рассказчик: Вероятно, благодаря гордости за это достижение, Отис звучала гораздо более возбужденно, чем обычно... Но, похоже, никого это не волновало.
 
 # Original: The computer Shrenne used... Its password was "missyouran", right...
-Измаил: Компьютер, которым пользовалась Шренн... Его пароль был "missyouran", верно...
+Измаил: Компьютер, которым пользовалась Шренн... Её паролем был "скучаюпоран", верно...
 
 # Original: <We were told she was in close relations with Ran, exchanging lots of messages...>
 Данте: <Нам сказали, что она была в близких отношениях с Ран, обменивалась множеством сообщений...>

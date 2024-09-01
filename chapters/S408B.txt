@@ -44,7 +44,7 @@
 Рассказчик: Разговор, который так и не состоялся, закончился так же произвольно, как и начался.
 
 # Original: <This isn’t asking a favor. You’re giving me a notice.>
-Данте: <Это не просьба об одолжении. Это уведомление.>
+Данте: <Это не просьба об одолжении. Вы делаете мне предупреждение.>
 
 # Original: We’re at the laboratory aisle. Ordinary visitors would not be permitted to go any further…
 Самджо: Мы в лабораторном крыле. Обычным посетителям не разрешено идти дальше...
@@ -113,7 +113,7 @@
 Самджо: Понял.
 
 # Original: That’s awesome, Ishy, maybe we should quit our job and join up here?
-Родион: Это потрясающе, Ишка, может, нам стоит уволиться и присоединиться сюда?
+Родион: Это потрясающе, Изя, может, нам стоит уволиться и присоединиться сюда?
 
 # Original: Everyone can hear you, Rodya…
 Измаил: Все тебя слышат, Родя...
@@ -146,10 +146,10 @@
 Самджо: Потребовался бы целый день, чтобы перечислить все преимущества, которые получает отдел, выбранный лучшим.
 
 # Original: Eugh, you’re snobs, the both of you.
-Шренн: Фу, вы оба снобы.
+Шренн: Фу, снобы, вы оба.
 
 # Original: Hm. Is that a rival? I do suppose excellence is followed by envy wherever it is.
-Грегор: Хм. Это соперник? Полагаю, совершенство всегда сопровождается завистью, где бы оно ни было.
+Грегор: Хм. Это ваш соперник? Полагаю, совершенство всегда сопровождается завистью, где бы оно ни было.
 
 # Original: Envy fuels advancement, as they say, so it’s only right for us to show a little generosity for those following behind. Should we give some of the pies we bought from that store to Shrenne’s department, Mr. Samjo?
 Донран: Как говорится, зависть движет прогрессом, поэтому вполне справедливо проявить немного великодушия к тем, кто следует позади. Может, отдадим отделу Шренн немного пирогов, которые мы купили в том магазине, господин Самджо?
@@ -254,7 +254,7 @@
 И Сан: ...Насколько серьезным был ущерб?
 
 # Original: Dongrang turned his gaze from Yi Sang to the sporadically unoccupied seats.
-Рассказчик: Донран перевел взгляд с И Сана на спорадически пустующие места.
+Рассказчик: Донран перевел взгляд с И Сана на временно пустующие рабочие места.
 
 # Original: You see, those empty seats…
 Донран: Видите ли, эти пустые места...
@@ -326,7 +326,7 @@
 Измаил: В Районе Корпорации J мы не смогли получить Золотую Ветвь сразу после победы, потому что у нас не было никого, кто бы наблюдал за сделкой.
 
 # Original: Oh… That Ayuda from the Merry Archils? She started a fight even after Rodya won the game.
-Грегор: О... Эта Аюда из Веселых Архилов? Она начала драку даже после того, как Родя выиграла игру.
+Грегор: О... Эта Аюда из Лорис Арчилис? Она начала драку даже после того, как Родя выиграла игру.
 
 # Original: It’s Aida from Los Mariachis…
 Синклер: Это Аида из Лос Мариачис...
@@ -344,16 +344,16 @@
 Фауст: Этот контракт определенно выгоден для нашей стороны.
 
 # Original: As long as the goal is achieved.
-Фауст и Самджо: Пока цель будет достигнута.
+Фауст и Самджо: До тех пор, пока цель не будет достигнута.
 
 # Original: …We watched with our mouths agape as the two declared the conclusion at once.
-Рассказчик: ...Мы наблюдали с открытыми ртами, как эти двое одновременно объявили заключение.
+Рассказчик: ...Мы наблюдали разинув рты, как эти двое одновременно объявили заключение.
 
 # Original: This is a secret, but, I frankly don’t get more than half of what Samjo says. I just nod like “Oh I see~” and move on.
-Донран: Это секрет, но, честно говоря, я не понимаю больше половины того, что говорит Самджо. Я просто киваю, как "О, понятно~" и двигаюсь дальше.
+Донран: Это секрет, но, честно говоря, я не понимаю больше половины того, что говорит Самджо. Я просто киваю, говорю "О, понятно~" и двигаюсь дальше.
 
 # Original: Isn’t that a coincidence? It’s the same for us, too.
-Грегор: Разве это не совпадение? Для нас это то же самое.
+Грегор: Разве это не совпадение? То же самое происходит и с нами.
 
 # Original: Aren’t you supposed to be the last person to be ignorant of your secretary’s words…?
 Измаил: Разве ты не должен быть последним человеком, который не понимает слова своего секретаря...?
@@ -380,7 +380,7 @@
 Донран: А... Почему бы мне вместо этого не показать вам мою лабораторию? Правда, она не здесь... Вам придется еще раз воспользоваться лифтом.
 
 # Original: Geh? You would show them that much, Mr. Dongrang? That place is off-limits for unauthorized personnel…
-Самджо: Ге? Вы покажете им так много, господин Донран? Это место закрыто для посторонних...
+Самджо: Гэ? Вы покажете им так много, господин Донран? Это место закрыто для посторонних...
 
 # Original: Hah, you just made a really funny noise, Mr. Samjo. Well, it shouldn’t hurt. We’re hanging out a bit to celebrate the provisional contract being signed.
 Донран: Ха, вы только что издали очень забавный звук, господин Самджо. Ну, это не должно навредить. Мы немного повеселимся, чтобы отпраздновать подписание предварительного контракта.

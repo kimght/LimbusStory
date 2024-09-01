@@ -83,7 +83,7 @@
 Мерсо: Когда мы столкнулись с Ран...
 
 # Original: They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion.
-Мерсо: Они заранее держались от неё на расстоянии. Единственное объяснение - они знали, что будет взрыв.
+Мерсо: Они заранее держались от неё на расстоянии. Единственное объяснение - они уже знали, что будет взрыв.
 
 # Original: Oh, bother... Why not consider the possibility that my intuition is just that keen?
 Нико: Ох, боже... Почему бы не рассмотреть возможность того, что моя интуиция просто настолько острая?
@@ -116,4 +116,4 @@
 Хитклиф: Показываете своё истинное лицо теперь, когда вас загнали в угол, а?
 
 # Original: I even taught you my secret to winning at the slot machines, and this is how you return the favor?
-Нико: Я даже научил вас своему секрету выигрыша в игровых автоматах, и вот как вы отплачиваете?
+Нико: Я даже научил вас своему секрету выигрыша в игровых автоматах, и вот как вы возвращаете долги?

@@ -5,13 +5,13 @@
 Данте: <Я чувствую, что Золотая Ветвь резонирует поблизости.>
 
 # Original: ...It appears we're nearing the target location.
-Фауст: ...Похоже, мы приближаемся к целевому местоположению.
+Фауст: ...Похоже, мы приближаемся к местоположению цели.
 
 # Original: That's good. The photos and awards I left should be still there.
 Донран: Это хорошо. Фотографии и награды, которые я оставил, должны быть все еще там.
 
 # Original: Classified research documents as well, Mr. Dongrang.
-Самджо: А также засекреченные исследовательские документы, господин Донран.
+Самджо: А также Засекреченные исследовательские документы, господин Донран.
 
 # Original: ……
 И Сан: ……
@@ -29,10 +29,10 @@
 И Сан: Эта регенерационная ампула...
 
 # Original: Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.
-И Сан: Её номер подчиняется тому же правилу, что и "ампулы распада", которые насильно вводили мисс Измаил во время недавней стычки между бойцами К Корп и вторгшимися машинами.
+И Сан: Её номер подчиняется тому же правилу, что и "ампулы распада", которые насильно вводили мисс Измаил во время недавней стычки между бойцами Корпорации К и вторгшимися машинами.
 
 # Original: That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an "O" are original- Wait, why am I explaining this, again?
-Самджо: Это называется серийным кодом. Это уникальная строка чисел для категоризации ампул. Те, что начинаются с "О", являются оригинальными... Стоп, почему я это объясняю?
+Самджо: Это называется серийным кодом. Это уникальная строка чисел для категоризации ампул. Те, что начинаются с "О", являются оригинальными... Стоп, почему я вообще это объясняю?
 
 # Original: Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule.
 И Сан: Оригинальная... Идентичная "ампуле распада", введенной мисс Измаил... Это предполагает, что её сущность не отличалась от регенерационной ампулы.
@@ -65,22 +65,22 @@
 Донран: Хотя мне все равно грустно. У тебя, наверное, было достаточно времени, чтобы выразить радость от воссоединения со своим старым другом.
 
 # Original: It is my thought that I no longer have companions by my side.
-И Сан: Я думаю, что у меня больше нет товарищей рядом.
+И Сан: Я думаю, что рядом со мной больше нет товарищей.
 
 # Original: You haven't changed.
 Донран: Ты не изменился.
 
 # Original: You've always enjoyed keeping precious things in bottles and watching them.
-Донран: Тебе всегда нравилось держать драгоценные вещи в бутылках и наблюдать за ними.
+Донран: Тебе всегда нравилось держать драгоценные вещи в бутылочках и наблюдать за ними.
 
 # Original: And you were intent on releasing and showing them.
 И Сан: А ты стремился их выпустить и показать.
 
 # Original: Didst thou say "companions"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!
-Дон Кихот: Ты молвил "товарищи"? Должна сказать, И Сан, многие встречи с твоими товарищами ждут тебя в сем путешествии!
+Дон Кихот: Ты промолвил "товарищи"? Должна сказать, И Сан, множество встреч с твоими товарищами ждут тебя в сем путешествии!
 
 # Original: In an expedition past, the, err...one wearing a tinted eyewear did confront thee!
-Дон Кихот: В одной из прошлых экспедиций, эм... тот, что носит тонированные очки, столкнулся с тобой!
+Дон Кихот: В одной из прошлых экспедиций, эмм... тот, что носит тонированные очки, столкнулся с тобой!
 
 # Original: ……
 Донран: ……
@@ -113,25 +113,25 @@
 Рассказчик: В другой руке у неё была потертая черно-белая фотография.
 
 # Original: It's a fine photograph. Only one of this shot remains in this world now.
-Донбек: Это прекрасная фотография. Только один экземпляр этого снимка остался в этом мире.
+Донбек: Это прекрасная фотография. Лишь один экземпляр этого снимка остался в этом мире.
 
 # Original: So many old friends, and not one to greet me with delight.
 Донран: Столько старых друзей, и ни один не приветствует меня с радостью.
 
 # Original: Won't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine.
-Донран: Не вернешь ли мне эту фотографию? Может, так и не выглядит, но это мое любимое сокровище.
+Донран: Не вернешь ли мне эту фотографию? Может, оно так и не выглядит, но это мое любимое сокровище.
 
 # Original: Mr. Dongrang, you shouldn't get close to her! It's dangerous!
 Самджо: Господин Донран, вам не следует к ней приближаться! Это опасно!
 
 # Original: All troops, do not carelessly approach her! The Golden Bough may be destroyed...
-Отис: Всем отрядам, не приближайтесь к ней неосторожно! Золотая Ветвь может быть уничтожена...
+Отис: Всему отряду, не приближайтесь к ней так беспечно! Золотая Ветвь может быть уничтожена...
 
 # Original: I agree with it.
 Мерсо: Я согласен с этим.
 
 # Original: Faust will come up with a way to retrieve it in no time.
-Фауст: Фауст скоро придумает способ её вернуть.
+Фауст: Фауст в мгновение ока придумает способ вернуть его.
 
 # Original: Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating...
 Хитклиф: Тьфу, почему мы постоянно сталкиваемся с проблемами, которые нельзя решить хорошей взбучкой! Это просто бесит...
@@ -155,10 +155,10 @@
 Рассказчик: Она вонзила Золотую Ветвь, которую держала в руке, в грудь И Сана...
 
 # Original: And Yi Sang collapses on the ground.
-Рассказчик: И И Сан падает на землю.
+Рассказчик: После И Сан падает на землю.
 
 # Original: I...didn't think you would end up choosing him before my eyes.
-Донбек: Я... не думала, что ты выберешь его прямо у меня на глазах.
+Донбек: Я... не думала, что в конечном итоге ты выберешь его на моих глазах.
 
 # Original: <Yi Sang!>
 Данте: <И Сан!>
@@ -167,7 +167,7 @@
 Донбек: Можешь забрать это обратно.
 
 # Original: A photograph is nothing more than a taxidermied moment.
-Донбек: Фотография — не более чем законсервированный момент.
+Донбек: Фотография — не более чем запечатлённый момент.
 
 # Original: Even while drenched in blood, the Golden Bough still glows.
 Рассказчик: Даже залитая кровью, Золотая Ветвь продолжает сиять.

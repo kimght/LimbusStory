@@ -1,5 +1,5 @@
 # Original: Where is Young-ji, the League of Nine Littérateurs' leader, and his glass technology?
-Коллекционер 4 класса: Где Ён-чжи, лидер Лиги девяти литераторов, и его стеклянная технология?
+Коллекционер 4 класса: Где Ён-чжи, лидер Лиги девяти Литераторов, и его стеклянная технология?
 
 # Original: ……
 Донбек: ……
@@ -29,7 +29,7 @@
 Отис: Донбек, ты планируешь...
 
 # Original: Let me ask for the last time. None of you here are traitors, right?
-Донбек: Позвольте спросить в последний раз. Никто из вас здесь не предатель, верно?
+Донбек: Позвольте спросить в последний раз. Никто из вас здесь ведь не предатель, верно?
 
 # Original: There's no doubt about it.
 И Сан: В этом нет никаких сомнений.
@@ -59,7 +59,7 @@
 И Сан: ……
 
 # Original: That isn't quite right, Dongrang. You never confessed the truth to Dongbaek.
-И Сан: Это не совсем так, Донран. Ты никогда не признавался Донбек в правде.
+И Сан: Это совсем не так, Донран. Ты никогда не признавался Донбек в правде.
 
 # Original: Dongbaek... has remained oblivious to it. Thusly, she constantly harbored suspicion against us, knowing that it must have been one of us.
 И Сан: Донбек... осталась в неведении об этом. Таким образом, она постоянно подозревала нас, зная, что это должен был быть кто-то из нас.
@@ -74,25 +74,25 @@
 И Сан: Это откровение окрасило умирающие глаза Донбек гневом...
 
 # Original: And caused the frail E.G.O to break and fall, snapping, scattering into petals.
-И Сан: И заставило хрупкое Э.П.О. сломаться и упасть, рассыпаясь на лепестки.
+И Сан: И заставило хрупкое Э.Г.О. сломаться и упасть, рассыпаясь на лепестки.
 
 # Original: ...You know, Yi Sang?
 Донран: ...Знаешь, И Сан?
 
 # Original: Loud ticks of clocks at your front door are a sign that T Corp's tech agency employees have come to your house.
-Донран: Громкое тиканье часов у входной двери — это знак того, что сотрудники технического агентства Т Корп пришли к тебе домой.
+Донран: Громкое тиканье часов у входной двери — это знак того, что сотрудники технического агентства Корпорации Т пришли к тебе домой.
 
 # Original: I'm sure most of them were visited by the agency. It's an unforgettable experience. Yet it's one you couldn't have known since you must've been under T Corp's grace as a skilled architect.
-Донран: Я уверен, что большинство из них посетило агентство. Это незабываемый опыт. Но ты не мог этого знать, так как, должно быть, находился под покровительством Т Корп как талантливый архитектор.
+Донран: Я уверен, что агентство посетило большинство из них. Это незабываемый опыт. Но ты не мог этого знать, так как, должно быть, находился под покровительством Корпорации Т, как талантливый архитектор.
 
 # Original: The first visit tends to be sudden and quiet. Most are flustered by the unexpected arrival... but they still keep their pride and faith as a member of the League.
 Донран: Первый визит обычно бывает внезапным и тихим. Большинство ошеломлены неожиданным появлением... но они всё ещё сохраняют свою гордость и веру как члены Лиги.
 
 # Original: The agency knows that as well. They also know that their visit instilled the fear that they might come again whenever they'd like.
-Донран: Агентство тоже это знает. Они также знают, что их визит посеял страх, что они могут прийти снова в любое время.
+Донран: Агентство тоже это знает. Они также знают, что их визит посеет страх, что они снова могут прийти в любое время.
 
 # Original: The second visit is when things start to change. They now know where my time flows from and where it's headed.
-Донран: Второй визит — это когда всё начинает меняться. Теперь они знают, откуда течёт моё время и куда оно направляется.
+Донран: Второй визит — это момент, когда всё начинает меняться. Теперь они знают, откуда течёт моё время и куда оно направляется.
 
 # Original: They have my past, present, and future. The shapes of all my weaknesses and desires are in their hands.
 Донран: У них есть моё прошлое, настоящее и будущее. Формы всех моих слабостей и желаний находятся в их руках.
@@ -113,7 +113,7 @@
 Сотрудник сбора времени: В частности, регенерация и лечение животных — это ваши интересы, верно?
 
 # Original: Do you know about K Corp, a Wing we've been working with recently? It's an emerging one, whose Nest is filled with an emerald glow.
-Сотрудник сбора времени: Вы знаете о К Корп, Крыле, с которым мы недавно сотрудничаем? Это развивающееся Крыло, чьё Гнездо наполнено изумрудным сиянием.
+Сотрудник сбора времени: Знаете ли вы о Корпорации К, Крыле, с которым мы недавно сотрудничаем? Это развивающееся Крыло, чьё Гнездо наполнено изумрудным сиянием.
 
 # Original: That Wing might be interested in your technology.
 Сотрудник сбора времени: Это Крыло может заинтересоваться вашей технологией.
