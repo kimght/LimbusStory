@@ -2,7 +2,7 @@
 Рассказчик: Как и сказала Измаил, два огромных судна приближались к нам недалеко от того места, где мы находились.
 
 # Original: <We're not exactly on a collision course with them, though...?>
-Данте: <Хотя мы не совсем на курсе столкновения с ними...?>
+Данте: <Похоже мы не совсем на курсе столкновения с ними...?>
 
 # Original: Ishmael didn't entertain me with an answer. Instead, she took the helm and threw it wildly in one direction.
 Рассказчик: Измаил не удостоила меня ответом. Вместо этого она схватила штурвал и резко повернула его в одну сторону.
@@ -29,7 +29,7 @@
 Грегор: Это странно. Она повернула штурвал до упора... Почему мы всё ещё движемся между этими двумя кораблями?
 
 # Original: I-it's like we're stuck on rails...
-Синклер: Т-такое ощущение, что мы застряли на рельсах...
+Синклер: Т-такое ощущение, словно мы застряли на рельсах...
 
 # Original: Though Ishmael turned the Mephistopheles' helm around to the opposite direction of the two ships...
 Рассказчик: Хотя Измаил повернула штурвал Мефистофеля в противоположную от двух кораблей сторону...
@@ -41,7 +41,7 @@
 Рассказчик: И мы ничего не могли с этим поделать.
 
 # Original: Ishy?! Don't tell me you hit the reverse gear?!
-Родион: Иши?! Только не говори, что ты включила задний ход?!
+Родион: Изя?! Только не говори, что ты включила задний ход?!
 
 # Original: I turned the engine off.
 Измаил: Я выключила двигатель.
@@ -53,13 +53,13 @@
 Хон Лу: Ого... эти корабли сливаются друг с другом?
 
 # Original: You bloody loon!! That's what you've got to say?! We're about to get squashed like bugs!
-Хитклиф: Ты чёртов псих!! Это всё, что ты можешь сказать?! Нас сейчас расплющит как букашек!
+Хитклиф: Ты чёртова психичка!! Это всё, что ты можешь сказать?! Нас сейчас расплющит как букашек!
 
 # Original: You, swabbie! What happened to all of that bravado from earl—
 Отис: Эй, ты, юнга! Что случилось со всей той бравадой, которую ты проявля—
 
 # Original: Shut up.
-Измаил: Заткнись.
+Измаил: Заткнитесь.
 
 # Original: ...!
 Отис: ...!
@@ -74,7 +74,7 @@
 Измаил: Сейчас.
 
 # Original: Immediately before the crash, Ishmael deftly revved the engine and adjusted several levers in a series of decisive motions before speeding us between and past the two vessels.
-Рассказчик: Непосредственно перед столкновением Измаил ловко завела двигатель и отрегулировала несколько рычагов серией решительных движений, прежде чем провести нас между двумя судами и мимо них.
+Рассказчик: Непосредственно перед столкновением Измаил ловко завела двигатель и отрегулировала несколько рычагов серией решительных движений, прежде чем промчаться меж двумя судами и мимо них.
 
 # Original: The back of our ship...
 Синклер: Задняя часть нашего корабля...
@@ -86,19 +86,19 @@
 Фауст: Двигатель Мефистофеля может восстановить повреждения такой степени в течение нескольких следующих дней.
 
 # Original: Wait, this is more than just some damage... It's like they deleted a part of our ship.
-Грегор: Подождите, это больше, чем просто повреждение... Как будто они удалили часть нашего корабля.
+Грегор: Подождите, это больше, чем просто повреждение... Похоже как будто они удалили часть нашего корабля.
 
 # Original: Gone, as though it had never even been a part of the ship's blueprint.
-И Сан: Исчезла, словно никогда и не была частью чертежа корабля.
+И Сан: Она исчезла, словно никогда и не была частью чертежа корабля.
 
 # Original: I took another look at where the stern used to be. It was as the Sinners said; the stern wasn't crushed. It was effectively deleted as though it had never been there.
-Рассказчик: Я ещё раз взглянул туда, где раньше была корма. Грешники были правы; корма не была смята. Она была эффективно удалена, словно её никогда и не было.
+Рассказчик: Я ещё раз взглянул туда, где раньше была корма. Грешники были правы; корма не была смята. Она была полностью удалена, словно её никогда и не было.
 
 # Original: It left a bizarre looking cross-section behind.
 Рассказчик: Остался лишь странный поперечный срез.
 
 # Original: It's U Corp.'s Singularity, the resonance tuning fork.
-Измаил: Это Сингулярность Корп. U, резонансный камертон.
+Измаил: Это Сингулярность Корпорации U, резонансный камертон.
 
 # Original: Ships operating in the Great Lake can merge and separate when needed. As though they’ve always been a single vessel or as though they’ve never been parts of the same ship.
 Измаил: Корабли, работающие в Великом Озере, могут сливаться и разделяться при необходимости. Как будто они всегда были единым судном или как будто никогда не были частями одного корабля.
@@ -116,37 +116,37 @@
 Измаил: Я не пыталась этого сделать. Но всё равно спасибо за понимание.
 
 # Original: Oh, and please accept my apology for giving unsolicited advice. A certain somebody won't stop flapping her gums at me, so I had to. It's not like I can plug my ears in the middle of a voyage, right?
-Измаил: О, и примите мои извинения за незапрошенный совет. Одна особа не перестаёт трепать языком, так что мне пришлось. Не могу же я заткнуть уши посреди плавания, верно?
+Измаил: О, и примите мои извинения за непрошенный совет. Одна особа не перестаёт трепать языком, так что мне пришлось делать все самой. Не могу же я заткнуть уши посреди плавания, верно?
 
 # Original: ......
 Отис: ......
 
 # Original: Tsk. I've heard my share of blunt, foul-mouthed talk during the war. She's not the first to do so.
-Отис: Цк. Я наслушалась грубых и резких разговоров во время войны. Она не первая, кто так делает.
+Отис: Тск. Я наслушалась грубых и резких высказываний во время войны. Она не первая, кто так делает.
 
 # Original: Doesn't matter. As long as she can live up to her words... No need to get in the way, I suppose.
-Отис: Неважно. Пока она может соответствовать своим словам... Полагаю, не стоит мешать.
+Отис: Неважно. До тех пор пока она может соответствовать своим словам... Полагаю, не стоит мешать.
 
 # Original: I'm sorry, Executive Manager. I must... take a short break.
 Отис: Прошу прощения, Исполнительный Менеджер. Мне нужно... сделать небольшой перерыв.
 
 # Original: Be not so crestfallen, Commander... I mean... Captain...!
-Дон Кихот: Не падай духом, Командир... то есть... Капитан...!
+Дон Кихот: Не падайте духом, Командир... то есть... Капитан...!
 
 # Original: Silence. Executive Manager is our commanding officer. Always been.
-Отис: Молчать. Исполнительный Менеджер — наш командующий офицер. Всегда был им.
+Отис: Молчать. Исполнительный Менеджер — наш командующий офицер. И всегда был им.
 
 # Original: Downcast and shoulders slumped, Outis made her way into the ship cabins(formerly the bus cabins).
 Рассказчик: Удручённая и с опущенными плечами, Отис направилась в каюты корабля (бывшие автобусные отсеки).
 
 # Original: Our destination is near. Welcome to one of the Five Great Ports of U Corp., the Marlin Port.
-Фауст: Наш пункт назначения близко. Добро пожаловать в один из Пяти Великих Портов Корп. U, Порт Марлин.
+Фауст: Наш пункт назначения близко. Добро пожаловать в один из Пяти Великих Портов Корпорации U, Порт Марлин.
 
 # Original: Faust's voice was dry and emotionless, as though what had just happened didn't affect her one bit.
-Рассказчик: Голос Фауста был сухим и бесэмоциональным, словно то, что только что произошло, никак её не затронуло.
+Рассказчик: Голос Фауст был сухим и бесэмоциональным, словно то, что только что произошло, никак её не затронуло.
 
 # Original: Wow... That's so big.
-Хон Лу: Вау... Это так огромно.
+Хон Лу: Вау... Оно такое огромное.
 
 # Original: That has to be one of the biggest ships I'd ever seen.
 Хон Лу: Должно быть, это один из самых больших кораблей, что я когда-либо видел.
@@ -161,7 +161,7 @@
 И Сан: Туман рассеивается, и то, что было невидимо прежде, являет себя. Едва ли я ожидал, что пелена скрывает строение столь величественное.
 
 # Original: Ship...? I don't know, can we really call that a ship at this point?
-Грегор: Корабль...? Не знаю, можем ли мы вообще назвать это кораблём на данном этапе?
+Грегор: Корабль...? Не знаю, можем ли мы вообще называть это кораблём на данном этапе?
 
 # Original: <Can't help but agree there. Ishmael, does that count as a ship in the Great Lake?>
 Данте: <Не могу не согласиться. Измаил, это считается кораблём в Великом Озере?>
