@@ -337,6 +337,21 @@
 9. [Эпизод 9 (до боя)](./chapters/E407B.txt)
 10. [Эпизод 10 (после боя)](./chapters/E407A.txt)
 
+## Miracle in District 20
+1. [Эпизод 1 (до боя)](./chapters/E501B.txt)
+2. [Эпизод 2 (до боя)](./chapters/E502B.txt)
+3. [Эпизод 3 (до боя)](./chapters/E503B.txt)
+4. [Эпизод 4 (после боя)](./chapters/E503A.txt)
+5. [Эпизод 5 (до боя)](./chapters/E504B.txt)
+6. [Эпизод 6 (до боя)](./chapters/E505B.txt)
+7. [Эпизод 7 (после боя)](./chapters/E505A.txt)
+8. [Эпизод 8 (до боя)](./chapters/E506B.txt)
+9. [Эпизод 9 (после боя)](./chapters/E506A.txt)
+10. [Эпизод 10 (до боя)](./chapters/E507B.txt)
+11. [Эпизод 11 (после боя)](./chapters/E507A.txt)
+12. [Эпизод 12 (после боя)](./chapters/E508A.txt)
+13. [Эпизод 13 (до боя)](./chapters/E509B.txt)
+
 ## TimeKilling Time
 1. [Эпизод 1 (до боя)](./chapters/E601B.txt)
 2. [Эпизод 2 (после боя)](./chapters/E602A.txt)
