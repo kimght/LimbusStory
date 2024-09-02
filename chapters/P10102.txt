@@ -20,7 +20,7 @@
 Рассказчик: А-а…
 
 # Original: For instance, I myself am adopting the Cinq’s techniques.
-И Сан: Я, например, использую техники «Сэнк».
+И Сан: Я, например, использую техники Сэнк.
 
 # Original: Huh? Really? …Ahh, now that you mention it, I actually can kinda see the similarities.
 Рассказчик: О, правда...? А-а, а ведь действительно похоже на стиль ассоциации «Сэнк».

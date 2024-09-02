@@ -41,7 +41,7 @@
 Рассказчик: Дитя своим дрожащим и нервным голосом обучало члена Ассоциации фехтованию. Поистине, странное зрелище.
 
 # Original: Even more confusing was that, somehow, the child was the Director of Cinq Association Section 4.
-Рассказчик: Еще более странным было то, что каким-то образом это дитя являлось Директором Секции 4 Ассоциации Cinq.
+Рассказчик: Еще более странным было то, что каким-то образом это дитя являлось Директором Секции 4 Ассоциации Сэнк.
 
 # Original: Next, with this attack...
 Синклер: Далее, этой атакой...
@@ -71,7 +71,7 @@
 Рассказчик: В отличие от восхищенных возгласов зрителей, дитя выглядело довольно удрученным.
 
 # Original: It was as though the child descends into a world of his own where there is naught else but himself and the blade—a manifestation of an extremely intense level of focus. With his particular techniques, perfected in that focused state, the child rose through the ranks to become the Director of the Cinq Association Section 4. But...
-Рассказчик: Казалось, будто дитя погружается в свой собственный мир, где нет ничего, кроме него самого и клинка — проявление чрезвычайно интенсивной концентрации. Благодаря своим особым техникам, отточенным в этом сосредоточенном состоянии, дитя поднялось по рангам и стало Директором Секции 4 Ассоциации Cinq. Но...
+Рассказчик: Казалось, будто дитя погружается в свой собственный мир, где нет ничего, кроме него самого и клинка — проявление чрезвычайно интенсивной концентрации. Благодаря своим особым техникам, отточенным в этом сосредоточенном состоянии, дитя поднялось по рангам и стало Директором Секции 4 Ассоциации Сэнк. Но...
 
 # Original: ... the child felt as though his achievements weren't his own. That he didn't get this far purely with his skills with the blade. This position was a burden to him, and the child thought himself undeserving of such a responsibility.
 Рассказчик: ... дитя чувствовало, что его достижения не принадлежат ему. Что он достиг этого не только благодаря своему мастерству владения клинком. Эта должность была для него бременем, и дитя считало себя недостойным такой ответственности.
@@ -83,10 +83,10 @@
 Рассказчик: Когда дитя тихо размышляло про себя, отойдя немного от своего спарринг-партнера, откуда ни возьмись прилетела перчатка и ударила дитя.
 
 # Original: ... To throw the gauntlet as a member of the Cinq Association... is to challenge someone to a duel.
-Рассказчик: ... Бросить перчатку как член Ассоциации Cinq... означает вызвать кого-то на дуэль.
+Рассказчик: ... Бросить перчатку как член Ассоциации Сэнк... означает вызвать кого-то на дуэль.
 
 # Original: Of course, these challenges happened among the members of the Cinq Association as well.
-Рассказчик: Конечно, такие вызовы случались и среди членов Ассоциации Cinq.
+Рассказчик: Конечно, такие вызовы случались и среди членов Ассоциации Сэнк.
 
 # Original: Sorry 'bout that, Director.
 Рассказчик: Извините за это, Директор.
@@ -98,13 +98,13 @@
 Синклер: ... Понятно.
 
 # Original: One of the main functions of the Cinq Association is to duel in the client's stead. To be hired as a champion in a duel against an individual of the client's choosing. Of course, their goal is to carry out the terms of the contract as stipulated.
-Рассказчик: Одна из основных функций Ассоциации Cinq — участвовать в дуэлях вместо клиента. Быть нанятым в качестве чемпиона в дуэли против человека, выбранного клиентом. Конечно, их цель — выполнить условия контракта, как оговорено.
+Рассказчик: Одна из основных функций Ассоциации Сэнк — участвовать в дуэлях вместо клиента. Быть нанятым в качестве чемпиона в дуэли против человека, выбранного клиентом. Конечно, их цель — выполнить условия контракта, как оговорено.
 
 # Original: Contracts against other members of the Cinq Association happened more often than one might think.
-Рассказчик: Контракты против других членов Ассоциации Cinq случались чаще, чем можно было бы подумать.
+Рассказчик: Контракты против других членов Ассоциации Сэнк случались чаще, чем можно было бы подумать.
 
 # Original: It was common for members of the Cinq Association to make enemies in the City, after all.
-Рассказчик: В конце концов, членам Ассоциации Cinq было свойственно наживать врагов в Городе.
+Рассказчик: В конце концов, членам Ассоциации Сэнк было свойственно наживать врагов в Городе.
 
 # Original: And these contracts happened quite often against the Director of Section 4, considering that he was known for his rather timid disposition.
 Рассказчик: И эти контракты довольно часто выставлялись против Директора Секции 4, учитывая его известную робкую натуру.
