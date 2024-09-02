@@ -5,7 +5,7 @@
 Рассказчик: Да... Их Директор была... ну, она определенно была личностью.
 
 # Original: Cinq South Section 5 Director... Don Quixote, was it? I have heard many tales about her, yes.
-Отис: Директор Отдела 5 Южного Синк... Дон Кихот, верно? Я слышала о ней много историй.
+Отис: Директор Отдела 5 Южного Сэнк... Дон Кихот, верно? Я слышала о ней много историй.
 
 # Original: As the child slowly strolled through an alleyway, a woman with a small notepad followed closely behind her.
 Рассказчик: Пока дитя медленно прогуливалось по переулку, женщина с небольшим блокнотом следовала прямо за ней.
@@ -17,7 +17,7 @@
 Отис: О, прошу прощения. Возможно, это интервью лучше было бы провести в подобающей приемной...
 
 # Original: No, no... I got pretty much everything I wanted to know about the Cinq Association from you.
-Рассказчик: Нет-нет... Я узнала от вас практически все, что хотела знать об Ассоциации Синк.
+Рассказчик: Нет-нет... Я узнала от вас практически все, что хотела знать об Ассоциации Сэнк.
 
 # Original: The interview smiled, flipping through her notepad.
 Рассказчик: Интервьюер улыбнулась, перелистывая свой блокнот.
