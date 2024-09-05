@@ -5,7 +5,7 @@
 Рассказчик: Какой же насыщенный выдался денёк!
 
 # Original: Though it has only been four days since I was assigned to the Training Team, it feels as though I have done enough work to fill years' worth of toil!
-Рассказчик: Хоть и прошло всего четыре дня с тех пор, как меня определили в Тренировочную Команду, но кажется, будто я уже переделал столько работы, что хватило бы на годы труда!
+Рассказчик: Хоть и прошло всего четыре дня с тех пор, как меня определили в Тренировочную Команду, но кажется, будто я уже переделала столько работы, что хватило бы на годы труда!
 
 # Original: Our merry band gains one or two new employees as a day goes by, yet they seem to disappear the very next day... Verily, I have nary a time to remember their faces.
 Рассказчик: Наша весёлая компания пополняется одним-двумя новыми сотрудниками каждый день, но они, кажется, исчезают уже на следующий... Воистину, у меня едва ли есть время запомнить их лица.
@@ -23,7 +23,7 @@
 Рассказчик: У меня не было иного выбора, кроме как притащить юного Фонарика обратно в камеру содержания, дабы провести свою Работу...
 
 # Original: Many times have I warned my good fellow that no game of hide-and-seek is to be played without a proper announcement of 'ready or not, here I come'! Yet young Lantern refuseth to heed mine words.
-Рассказчик: Много раз я предупреждал моего доброго товарища, что нельзя играть в прятки без надлежащего объявления "готов или нет, я иду искать"! Но юный Фонарик отказывается внимать моим словам.
+Рассказчик: Много раз я предупреждала моего доброго товарища, что нельзя играть в прятки без надлежащего объявления "готов или нет, я иду искать"! Но юный Фонарик отказывается внимать моим словам.
 
 # Original: Unlike other Abnormalities here, young Lantern doth not trigger a particular alarm with its escapades.
 Рассказчик: В отличие от других Аномалий здесь, юный Фонарик не вызывает особой тревоги своими эскападами.
@@ -41,10 +41,10 @@
 Рассказчик: С прискорбием сообщаю тебе, что у меня не было иного выбора, кроме как несколько раз шлёпнуть его по попе... прежде чем загнать обратно в камеру содержания.
 
 # Original: Then... I have conducted the list of Work that were to be completed today.
-Рассказчик: Затем... я выполнил список Работ, которые должны были быть завершены сегодня.
+Рассказчик: Затем... я выполнила список Работ, которые должны были быть завершены сегодня.
 
 # Original: 'Twere the Grooming Procedure, Adjustment of Light Intensity... yet I also wished to conduct an additional Work on the young Lantern! I had to converse with it regarding the mischief from earlier today! Forsooth, I shall not let this naughtiness go without a proper consequence!
-Рассказчик: Это были Процедура Ухода, Регулировка Интенсивности Света... но я также хотел провести дополнительную Работу с юным Фонариком! Мне нужно было побеседовать с ним о сегодняшнем озорстве! Воистину, я не позволю этому баловству остаться без надлежащих последствий!
+Рассказчик: Это были Процедура Ухода, Регулировка Интенсивности Света... но я также хотела провести дополнительную Работу с юным Фонариком! Мне нужно было побеседовать с ним о сегодняшнем озорстве! Воистину, я не позволю этому баловству остаться без надлежащих последствий!
 
 # Original: Ah... however....
 Рассказчик: Ах... однако....
@@ -53,25 +53,25 @@
 Рассказчик: Прошу, подумай! Сможешь ли ты найти в себе жестокость, чтобы наказать такое пушистое, мягкое создание?
 
 # Original: I had not the heart to punish it properly and had to make do with petting it a tad harsher than usual... Mayhaps mine own heart was far too tender for this kind of work.
-Рассказчик: У меня не хватило духу наказать его должным образом, и пришлось ограничиться тем, что я погладил его немного жёстче, чем обычно... Возможно, моё собственное сердце было слишком нежным для такой работы.
+Рассказчик: У меня не хватило духу наказать его должным образом, и пришлось ограничиться тем, что я погладила его немного жёстче, чем обычно... Возможно, моё собственное сердце было слишком нежным для такой работы.
 
 # Original: Well... thus I departed the containment unit and submitted the PE-Boxes...
-Рассказчик: Что ж... так я покинул камеру содержания и сдал ПЭ-Боксы...
+Рассказчик: Что ж... так я покинула камеру содержания и сдала PE-ячейки...
 
 # Original: Which is when I heard the siren ring all across the company hallway! Perhaps it was time for an Ordeal, indeed!
-Рассказчик: И тут я услышал, как по всему коридору компании зазвучала сирена! Возможно, пришло время для Испытания, в самом деле!
+Рассказчик: И тут я услышала, как по всему коридору компании зазвучала сирена! Возможно, пришло время для Испытания, в самом деле!
 
 # Original: Lady Outis... ah, Captain Outis was mid-Work in one of the containment units, so she could not be a part of the Ordeal Suppression team. On account of the first responder team's failure to Suppress the Ordeal, some containment units had fallen.
 Рассказчик: Леди Отис... ах, Капитан Отис была посреди Работы в одной из камер содержания, поэтому она не могла присоединиться к команде Подавления Испытания. Из-за неудачи первой команды реагирования в Подавлении Испытания, некоторые камеры содержания пали.
 
 # Original: Among the friends that made it to the hallway were... Ah, one of my former responsibilities, the Fraggy of the Universe fellow!
-Рассказчик: Среди друзей, вырвавшихся в коридор, были... Ах, одна из моих бывших обязанностей, товарищ Лягушонок Вселенной!
+Рассказчик: Среди друзей, вырвавшихся в коридор, были... Ах, одна из моих бывших обязанностей, товарищ Фрагментик Вселенной!
 
 # Original: It hath deigned to gift me this adorable heart-shaped badge... it saddens me that I had to lightly bonk it and haul it back to its respective chamber.
 Рассказчик: Он соизволил подарить мне этот очаровательный значок в форме сердечка... как печально, что мне пришлось легонько стукнуть его и оттащить обратно в его соответствующую камеру.
 
 # Original: Alas... a job is a job! The company hath trusted my judgment enough to assign me with these responsibilities, and thus I must answer the call!
-Рассказчик: Увы... работа есть работа! Компания доверила моему суждению достаточно, чтобы возложить на меня эти обязанности, и потому я должен ответить на зов!
+Рассказчик: Увы... работа есть работа! Компания доверилась моему суждению достаточно, чтобы возложить на меня эти обязанности, и потому я должен ответить на зов!
 
 # Original: If a work hath been assigned... I shall meet it with gusto!
 Рассказчик: Если работа была поручена... я встречу её с воодушевлением!
