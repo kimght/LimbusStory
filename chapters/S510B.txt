@@ -5,7 +5,7 @@
 Грегор: Хаах… Так ты здесь главная?
 
 # Original: Yeah. I’m Smee, first mate of the Twinhook Pirates.
-Сми: Да. Я Сми, первый помощник Пиратов-Двукрюков.
+Сми: Да. Я Сми, старший помощник Пиратов-Двукрюков.
 
 # Original: Heard ya wanted to see me. What, want an autograph?
 Сми: Слышала, вы хотели меня видеть. Что, автограф хотите?
