@@ -56,10 +56,10 @@
 Хитклиф: Кхм... М-может быть?
 
 # Original: Khm. Sorry to disappoint, but my Syndicate was less about music and dance and more about... blood, loyalty, things like that.
-Хитклиф: Кхм. Извини, что разочарую, но в моем Синдикате было меньше музыки и танцев и больше... крови, верности, вот таких вещей.
+Хитклиф: Кхм. Жаль разочаровывать, но в моем Синдикате было меньше музыки и танцев и больше... крови, верности, вот таких вещей.
 
 # Original: I'm more of a small watering hole or an old pub bloke than a fancy clubber. Gettin' sloshed, drinkin' from old rickety tables... Yeah, that's more like it.
-Хитклиф: Я скорее парень из маленького бара или старого паба, чем модный клаббер. Надраться, пить за старыми шаткими столами... Да, вот это больше по мне.
+Хитклиф: Я скорее завсегдатай маленькой забегаловки или старого паба, чем модного клуба. Надраться, напиться за старыми шаткими столами... Да, вот это больше по мне.
 
 # Original: Me.
 Рёшу: Я.
@@ -68,7 +68,7 @@
 Рёшу: Музыка: крики страха и боли. Роскошь: стены, окрашенные кровью. Танцы: люди с переломанными суставами, вынужденные танцевать...
 
 # Original: Yeah, that's... not a club.
-Грегор: Да, это... не клуб.
+Грегор: Да, это... даже не клуб.
 
 # Original: Well, I can't think of anyone else, then...
 Грегор: Ну, тогда я больше никого не могу представить...
@@ -104,13 +104,13 @@
 Измаил: Ты был бы прав... если бы это был обычный клуб.
 
 # Original: Ishy...?
-Родион: Иши...?
+Родион: Изя...?
 
 # Original: Ishmael walked past us and up to the club entrance.
 Рассказчик: Измаил прошла мимо нас к входу в клуб.
 
 # Original: This is a home to a leader of a Syndicate. The question you should be asking is... what are the *other* ways of entering this establishment?
-Измаил: Это дом лидера Синдиката. Вопрос, который вы должны задать... какие еще есть способы попасть в это заведение?
+Измаил: Это дом лидера Синдиката. Тот вопрос, который вы должны задать... какие еще есть способы попасть в это заведение?
 
 # Original: And I'm sure the answer lies with a Syndicate member.
 Измаил: И я уверена, что ответ кроется в члене Синдиката.
@@ -119,7 +119,7 @@
 Измаил: Достаточно просто, верно?
 
 # Original: What brings you here, if I may ask?
-Вышибала: Что привело вас сюда, если позволите спросить?
+Вышибала: Что привело вас сюда, позвольте спросить?
 
 # Original: I...
 Измаил: Я...
@@ -137,7 +137,7 @@
 Измаил: Квиквега.
 
 # Original: You recognized that name, didn't you?
-Измаил: Вы узнали это имя, не так ли?
+Измаил: Вы ведь узнали это имя, не так ли?
 
 # Original: At the mere mention of that name, the bouncer's expression changed from that of indifference to disbelief.
 Рассказчик: При одном упоминании этого имени выражение лица вышибалы изменилось с безразличного на недоверчивое.
@@ -167,7 +167,7 @@
 Измаил: …….
 
 # Original: It's the Boss askin'.
-Вышибала: Это Босс спрашивает.
+Вышибала: Это спрашивает Босс.
 
 # Original: Right... so your Boss is in the club, huh.
 Измаил: Ясно... значит, ваш Босс в клубе, да?
@@ -176,7 +176,7 @@
 Вышибала: Я спрашиваю еще раз. Где Квик...
 
 # Original: The Twinhooks are on our way. I repeat. We are...
-Рассказчик: Близнецы с крюками на подходе. Повторяю. Мы...
+Рассказчик: Два Крюка на подходе. Повторяю. Мы...
 
 # Original: <I thought we were trying to sneak in?!>
 Данте: <Я думал, мы пытаемся проникнуть незаметно?!>
