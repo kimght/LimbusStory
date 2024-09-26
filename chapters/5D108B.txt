@@ -29,7 +29,7 @@
 Ахав: Я также должна упомянуть, что поджелудочная железа густо населена Русалками. Лучше, если мы, моряки, всю жизнь охотившиеся на Русалок и Китов, пойдём этим путём.
 
 # Original: While there aren't any particularly powerful or troublesome Mermaids there, our numerical advantage will still be useful in that path.
-Ахав: Хотя там нет особенно сильных или проблемных Русалок, наше численное преимущество всё равно будет полезно на этом пути.
+Ахав: Хоть там нет особенно сильных или проблемных Русалок, наше численное преимущество всё равно будет полезно на этом пути.
 
 # Original: At the end of its pancreas, we will hew open its largest vein.
 Ахав: В конце поджелудочной железы мы вскроем самую большую вену.
@@ -56,7 +56,7 @@
 Ахав: Не будь вас здесь, мне пришлось бы отправить туда Старбака, Квиквег и как минимум восемь других хороших людей. Разделённая команда имеет больше шансов на провал. На самом деле, это было довольно серьёзной проблемой для меня.
 
 # Original: But you have arrived, fitting perfectly into this conundrum of a puzzle as though fate itself has ordained it. Destiny is one fickle thing, is it not?
-Ахав: Но вы прибыли, идеально вписавшись в этот головоломный пазл, словно сама судьба предначертала это. Судьба – вещь капризная, не так ли?
+Ахав: Но вы прибыли, идеально вписавшись в эту головоломку из множества пазлов, словно сама судьба предначертала это. Судьба – вещь капризная, не так ли?
 
 # Original: Ms. Ahab... must be referring to the Abnormalities that were swallowed alongside the Lobotomy Corp. Branch.
 Фауст: Госпожа Ахав... должно быть, имеет в виду Аномалии, которые были проглочены вместе с филиалом Корпорации Лоботомия.
@@ -68,19 +68,19 @@
 Ахав: Убейте монстров там, вскройте артерии, и правое предсердие откроется.
 
 # Original: And we will meet again at the heart where the atriums meet.
-Ахав: И мы встретимся снова у сердца, где соединяются предсердия.
+Ахав: И мы снова встретимся у сердца, где соединяются предсердия.
 
 # Original: Then I shall enter and destroy its core... The heart of the heart, if you will.
 Ахав: Тогда я войду и уничтожу его ядро... Сердце сердца, если хотите.
 
 # Original: Verily, you proclaim that there is a heart within a heart?!
-Дон Кихот: Воистину, вы утверждаете, что есть сердце внутри сердца?!
+Дон Кихот: Воистину, вы утверждаете, что там есть сердце внутри сердца?!
 
 # Original: I see that you have little experience contending a foe so great as the Whale.
 Ахав: Я вижу, что у вас мало опыта в борьбе с противником столь великим, как Кит.
 
 # Original: It is obvious that such a colossal creature would have a heart that fuels its heart.
-Ахав: Очевидно, что у такого колоссального существа должно быть сердце, питающее его сердце.
+Ахав: Очевидно, что у такого колоссального существа должно быть ещё одно сердце, питающее его сердце.
 
 # Original: <Is that supposed to be obvious...?>
 Данте: <Это должно быть очевидно...?>
@@ -89,7 +89,7 @@
 Ахав: Солнце вновь засияет над нами только тогда, когда мы уничтожим сердце, бьющееся самой сущностью зла! Сквозь рассечённую плоть Кита прольётся на нас нежный свет!
 
 # Original: And you will impale me with the final harpoon, to end my breath once and for all!
-Ахав: И вы пронзите меня последним гарпуном, чтобы навсегда прервать моё дыхание!
+Ахав: И ты пронзишь меня последним гарпуном, чтобы раз и навсегда прервать моё дыхание!
 
 # Original: ... Heh.
 Измаил: ... Хех.
@@ -98,7 +98,7 @@
 Отис: Хотя я ещё не проанализировала географию этого существа... Общая структура плана кажется мне разумной, Исполнительный Менеджер.
 
 # Original: <Yeah... I agree.>
-Данте: <Да... я согласен.>
+Данте: <Да... Я согласен.>
 
 # Original: Looks like Ahab wasn't kidding about checking every nook and cranny of the belly of the Whale.
 Рассказчик: Похоже, Ахав не шутила, когда говорила, что проверила каждый уголок и закоулок в чреве Кита.
@@ -107,7 +107,7 @@
 Рассказчик: Она сделала всё это с единственным желанием – охотиться, убить этого великого Кита раз и навсегда. И так долго...
 
 # Original: I still don't like this. Are we supposed to just, what, listen to some dodgy Captain orderin' us around? I thought the clockhead here was our boss.
-Хитклиф: Мне это всё ещё не нравится. Мы что, должны просто слушать приказы какого-то сомнительного Капитана? Я думал, наш босс – это часоголовая.
+Хитклиф: Мне это всё ещё не нравится. Мы что, должны просто слушать приказы какого-то сомнительного Капитана? Я думал, что наш босс – это часоголовый.
 
 # Original: Why don't we just finish this with our own hands instead of relying on her? Let's just do this ourselves. Let one or two of us go mad and turn into a Mermaid. At least it would've been our work at the end of the day.
 Хитклиф: Почему бы нам просто не закончить это своими руками вместо того, чтобы полагаться на неё? Давайте сделаем это сами. Пусть один или два из нас сойдут с ума и превратятся в Русалку. По крайней мере, это была бы наша работа в конце концов.
@@ -122,7 +122,7 @@
 Хитклиф: Так почему ты этого не сделала?
 
 # Original: We are at a significant disadvantage when it comes to information on this battlefield. The Executive Manager's life may be at risk at any moment.
-Отис: Мы находимся в значительном невыгодном положении, когда дело касается информации об этом поле боя. Жизнь Исполнительного Менеджера может быть в опасности в любой момент.
+Отис: Мы находимся в значительно невыгодном положении, когда дело касается информации об этом поле боя. Жизнь Исполнительного Менеджера может быть в опасности в любой момент.
 
 # Original: Not even witless rookies risk or gamble with the lives of their superiors. And all that for your pride? What foolishness.
 Отис: Даже безмозглые новички не рискуют жизнями своих начальников и не играют с ними. И всё это ради твоей гордости? Какая глупость.
@@ -131,10 +131,10 @@
 Хитклиф: ... Тц.
 
 # Original: As long as we destroy the heart... I can end her.
-Измаил: Пока мы уничтожим сердце... Я смогу покончить с ней.
+Измаил: До тех пор, пока мы не уничтожим сердце... Я смогу покончить с ней.
 
 # Original: As long as we destroy the heart...
-Измаил: Пока мы уничтожим сердце...
+Измаил: До тех пор, пока мы не уничтожим сердце...
 
 # Original: She grits her teeth as she repeats it to herself like a mantra.
 Рассказчик: Она стискивает зубы, повторяя это себе как мантру.

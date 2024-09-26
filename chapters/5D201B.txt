@@ -5,7 +5,7 @@
 Измаил: Я... я думала, ты... все... погибли.
 
 # Original: Me too. Also thought you dead.
-Квиквег: Я тоже. Тоже думала, ты умерла.
+Квиквег: Я тоже. Тоже думала, что ты умерла.
 
 # Original: Where I was, we bury dead people. No burning.
 Квиквег: Там, откуда я, мы хороним мертвых. Не сжигаем.
@@ -26,13 +26,13 @@
 Квиквег: ... хочу снова увидеть закат.
 
 # Original: That keeps me going. Breathing. Throwing harpoons.
-Квиквег: Это заставляет меня двигаться. Дышать. Бросать гарпуны.
+Квиквег: Это заставляет меня двигаться. Дышать. Метать гарпуны.
 
 # Original: ... I thought you didn't like the outside world?
 Измаил: ... Я думала, тебе не нравится внешний мир?
 
 # Original: Sunset, always warm. Wherever it sets.
-Квиквег: Закат всегда теплый. Где бы он ни садился.
+Квиквег: Закат, всегда теплый. Где бы он ни садился.
 
 # Original: …….
 Измаил: …….
@@ -47,7 +47,7 @@
 Квиквег: Наше будущее. Если не сбежим.
 
 # Original: Cry and cry. Trying to kill all we see.
-Квиквег: Кричать и кричать. Пытаться убить всё, что видим.
+Квиквег: Кричать и плакать. Пытаться убить всё, что видим.
 
 # Original: Then melt. Very slowly. And later...
 Квиквег: Потом таять. Очень медленно. А позже...
@@ -77,7 +77,7 @@
 Измаил: Каждую ночь ужасающий крик эхом разносится из трюмов.
 
 # Original: Pip, it's your turn to go down there.
-Старбак: Пип, твоя очередь спуститься туда.
+Старбак: Пип, твоя очередь спускаться туда.
 
 # Original: The Mermaids cried every single night. So, we had to lock them deep in the holds.
 Измаил: Русалки кричали каждую ночь. Поэтому нам пришлось запереть их глубоко в трюмах.
@@ -101,13 +101,13 @@
 Квиквег: Измаил. Соберись.
 
 # Original: We'll see Pallid Whale. Soon.
-Квиквег: Скоро увидим Бледного Кита.
+Квиквег: Мы увидим Бледного Кита. Скоро.
 
 # Original: Which means all this be over. Soon.
-Квиквег: Значит, всё это скоро закончится.
+Квиквег: Значит, все будет кончено. Скоро.
 
 # Original: Yeah. It'll all be over, soon...
-Измаил: Да. Скоро всё закончится...
+Измаил: Да. Все будет кончено, скоро...
 
 # Original: So when this voyage is over...
 Измаил: Так что когда это плавание закончится...
@@ -146,10 +146,10 @@
 Измаил: …….
 
 # Original: That night, I snuck into Captain Ahab's quarters.
-Измаил: В ту ночь я прокралась в каюту капитана Ахав.
+Измаил: В ту ночь, я прокралась в каюту Капитана Ахав.
 
 # Original: To enter the Captain's quarters, unauthorized, was like breaking a taboo. Every sailor knew that.
-Измаил: Войти в каюту капитана без разрешения было подобно нарушению табу. Каждый моряк это знал.
+Измаил: Войти в каюту Капитана без разрешения было подобно нарушению табу. Каждый моряк это знал.
 
 # Original: If I was caught... I would've had to accept whatever punishment they decided to levy upon me for committing a sin that may as well have been a mutiny.
 Измаил: Если бы меня поймали... Мне пришлось бы принять любое наказание, которое они решили бы наложить на меня за совершение греха, равносильного мятежу.
@@ -161,13 +161,13 @@
 Измаил: ...!
 
 # Original: C-Captain Ahab... I...
-Измаил: К-капитан Ахав... Я...
+Измаил: К-Капитан Ахав... Я...
 
 # Original: …….
 Ахав: …….
 
 # Original: C-Captain?
-Измаил: К-капитан?
+Измаил: К-Капитан?
 
 # Original: The Captain's eyes were locked on the map of the Great Lake stuck to the ceiling of her quarters.
 Измаил: Глаза Капитана были прикованы к карте Великого Озера, прикреплённой к потолку её каюты.
@@ -176,7 +176,7 @@
 Измаил: Она даже не шевельнулась.
 
 # Original: I looked at this sight for a moment... before stumbling out of the Captain's quarters.
-Измаил: Я смотрела на это зрелище мгновение... прежде чем выбежать из каюты Капитана.
+Измаил: Я смотрела на это зрелище лишь мгновение... прежде чем выбежать из каюты Капитана.
 
 # Original: I had to.
 Измаил: Я должна была.
@@ -197,10 +197,10 @@
 Старбак: Капитан не спит. Она бодрствует. Всегда.
 
 # Original: Yeah... on the Pequod, the Captain had a tight leash around us.
-Измаил: Да... на "Пекоде" Капитан держала нас на коротком поводке.
+Измаил: Да... на "Пекоде", Капитан держала нас на коротком поводке.
 
 # Original: We were merely gasping on what little air she permitted us.
-Измаил: Мы просто задыхались от того малого количества воздуха, которое она нам позволяла.
+Измаил: Мы просто хватали ртом то немногое, что она нам позволяла.
 
 # Original: Go and get some rest. Like Captain said, that Whale's gotta be close.
 Старбак: Иди отдохни. Как сказала Капитан, этот Кит должен быть близко.
