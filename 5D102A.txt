@@ -1,0 +1,92 @@
+# Original: Haah... Yeah, let's bounce before more of those Mermaids show up.
+Грегор: Хаах... Да, давайте уносить ноги, пока не появилось больше этих Русалок.
+
+# Original: Bounce where...? We're trapped inside a Whale.
+Синклер: Куда уносить...? Мы заперты внутри Кита.
+
+# Original: Are we... are we gonna end up looking like them, too? You know, we've been... 'devoured'.
+Родион: Мы... мы тоже станем похожими на них? Ну, знаете, нас ведь... "проглотили".
+
+# Original: The Golden Bough inside Dante's head is likely counteracting the Pallidification effects on the Sinners' bodies.
+Фауст: Золотая Ветвь в голове Данте, вероятно, противодействует эффектам Обледнения на телах Грешников.
+
+# Original: But there is no guarantee that this defensive effect would last forever.
+Фауст: Но нет гарантии, что этот защитный эффект будет длиться вечно.
+
+# Original: We must take into account that we are in an unknown environment.
+Фауст: Мы должны учитывать, что находимся в неизвестной среде.
+
+# Original: In other words, spending too long here could turn us into Mermaids, just like them...
+Рассказчик: Другими словами, если мы пробудем здесь слишком долго, то можем превратиться в Русалок, как и они...
+
+# Original: I wasn't sure if I could bring back a Sinner that's turned into a Mermaid.
+Рассказчик: Я не был уверен, смогу ли вернуть Грешника, превратившегося в Русалку.
+
+# Original: <But... Where do we even go?>
+Данте: <Но... Куда нам вообще идти?>
+
+# Original: <I don't have even the slightest idea as to where we might be...>
+Данте: <У меня нет ни малейшего представления, где мы можем находиться...>
+
+# Original: Weird... I didn't know it could rain inside a Whale's belly.
+Хон Лу: Странно... Я и не знал, что внутри желудка Кита может идти дождь.
+
+# Original: I was still unsure where to go, so much so that I was starting to feel completely lost... when Hong Lu suddenly blurted something about rain.
+Рассказчик: Я всё ещё не знал, куда идти, настолько, что начал чувствовать себя совершенно потерянным... когда Хон Лу вдруг выпалил что-то о дожде.
+
+# Original: <... What are you talking about?>
+Данте: <... О чём ты говоришь?>
+
+# Original: Oh, it's just that I felt a few droplets of water on my shoulder.
+Хон Лу: О, просто я почувствовал несколько капель воды на плече.
+
+# Original: ... Wait.
+Хитклиф: ... Погодите.
+
+# Original: So this is the first place we landed on after the Whale swallowed us whole, innit?
+Хитклиф: Так это первое место, куда мы попали после того, как Кит проглотил нас целиком, верно?
+
+# Original: <Right...>
+Данте: <Верно...>
+
+# Original: Sorry, I just sometimes need someone to confirm my common senses.
+Хитклиф: Извините, мне иногда нужно, чтобы кто-то подтвердил мои здравые мысли.
+
+# Original: When you eat something... where does it usually land first?
+Хитклиф: Когда ты что-то ешь... куда оно обычно изначально попадает?
+
+# Original: My stomach, of course. My poor, starving stomach...
+Родион: В мой желудок, конечно же. Мой бедный, голодный желудок...
+
+# Original: ... I see your point, Heathcliff.
+Фауст: ... Я понимаю, к чему ты клонишь, Хитклиф.
+
+# Original: The stomach constantly secretes acid in order to digest the food effectively.
+Фауст: Желудок постоянно выделяет кислоту для эффективного переваривания пищи.
+
+# Original: Yeah, I think I learned about it in school. It's usually some kind of powerful acid...
+Синклер: Да, кажется, меня учили об этом в школе. Обычно это какая-то сильная кислота...
+
+# Original: That... dissolves everything it touches...
+Синклер: Которая... растворяет всё, чего касается...
+
+# Original: Ohh~
+Хон Лу: Охх~
+
+# Original: So that's why my clothes melted where the water touched. Feels a bit prickly, too.
+Хон Лу: Так вот почему моя одежда расплавилась там, где её коснулась вода. И ещё немного покалывает.
+
+# Original: I stared at Hong Lu's shoulder. Something had burrowed a hole there, and the surrounding skin was sizzling and melting away.
+Рассказчик: Я уставился на плечо Хон Лу. Там образовалась дыра, а окружающая кожа шипела и плавилась.
+
+# Original: Are we fated to become porridge... so soon after our arrival...?
+Дон Кихот: Неужели нам суждено превратиться в кашу... так скоро после нашего прибытия...?
+
+# Original: There is one positive discovery, however. This creature appears to share similar biological mechanisms and shapes as an ordinary organic lifeform.
+Фауст: Однако есть одна положительная находка. Это существо, похоже, имеет схожие биологические механизмы и формы с обычной органической формой жизни.
+
+# Original: <Everyone... We gotta run...!>
+Данте: <Все... Нам нужно бежать...!>
+
+# Original: <I don't care how many pieces of you there are left, just make sure that there's something left for me to bring back...>
+Данте: <Мне всё равно, сколько от вас останется кусочков, просто убедитесь, что останется хоть что-то, что я смогу вернуть...>
