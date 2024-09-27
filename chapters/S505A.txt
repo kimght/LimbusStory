@@ -140,7 +140,7 @@
 Рассказчик: Она плавно добавила последнюю часть, но...
 
 # Original: But there was a growing suspicion at the back of my mind that, maybe, not everyone felt a sense of belonging from this group.
-Рассказчик: Но в глубине души у меня росло подозрение, что, возможно, не все чувствовали близость к этой группе.
+Рассказчик: Но в глубине души у меня росло подозрение, что, возможно, не все чувствовали принадлежность к этой группе.
 
 # Original: Maybe I was the only one who sought a sense of belonging from them. That we'd fight as one no matter what ordeal this journey threw in our way.
 Рассказчик: Может быть, я был единственным, кто искал чувство близости к ним. Что мы будем сражаться как одно целое, несмотря на любые испытания, которые это путешествие бросит на нашем пути.
