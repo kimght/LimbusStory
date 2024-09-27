@@ -374,7 +374,7 @@
 Рассказчик: Тот день, должно быть, выжжен в его памяти.
 
 # Original: I recalled Ishmael's vision that I witnessed back at the Boatworks.
-Рассказчик: Я вспомнил видение Измаил, которое я видел в Лодочной Мастерской.
+Рассказчик: Я вспомнил видение Измаил, которое я видел будучи на Верфи.
 
 # Original: ... Was that also a moment that was burned into her memories, I wonder...
 Рассказчик: ... Интересно, был ли это также момент, выжженный в ее памяти...
