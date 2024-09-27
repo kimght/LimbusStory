@@ -131,10 +131,10 @@
 Хитклиф: ... Тц.
 
 # Original: As long as we destroy the heart... I can end her.
-Измаил: До тех пор, пока мы не уничтожим сердце... Я смогу покончить с ней.
+Измаил: Как только мы уничтожим сердце... Я смогу покончить с ней.
 
 # Original: As long as we destroy the heart...
-Измаил: До тех пор, пока мы не уничтожим сердце...
+Измаил: Как только мы уничтожим сердце...
 
 # Original: She grits her teeth as she repeats it to herself like a mantra.
 Рассказчик: Она стискивает зубы, повторяя это себе как мантру.
