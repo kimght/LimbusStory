@@ -173,7 +173,7 @@
 Измаил: Тебе никогда не приходилось марать руки ни каплей крови. Ни разу...
 
 # Original: You just sat back and ordered us to bloody ours in your stead.
-Измаил: Ты просто сидел сложа руки и приказывал нам пачкать наши заместо тебя.
+Измаил: Ты просто сидел сложа руки и приказывал нам проливать кровь заместо тебя.
 
 # Original: And now you're telling us to, what, 'ease up on the murders'? What are you even trying to say? That you don't want us to get traumatized anymore? Some touchy-feely shit like that?
 Измаил: И теперь ты говоришь нам, что нужно "прекратить убийства"? Что ты вообще пытаешься сказать? Что ты не хочешь, чтобы мы еще больше страдали? Какое то сентиментальное дерьмо подобное этому?
