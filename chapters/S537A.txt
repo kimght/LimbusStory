@@ -17,7 +17,7 @@
 Хитклиф: ... Ты лучше будь готова объяснить, о чем ты говоришь.
 
 # Original: Heathcliff, furious... wasn't the only Sinner looking at Ishmael with expectant eyes.
-Рассказчик: Разъяренный Хитклиф... был не единственным Грешником, смотревшим на Измаил с ожиданием в их глазах.
+Рассказчик: Разъяренный Хитклиф... был не единственным Грешником, смотревшим на Измаил с ожиданием в глазах.
 
 # Original: There were Outis and the other Sinners who all looked to her for some answers.
 Рассказчик: Отис и другие Грешники тоже смотрели на нее в ожидании ответов.
