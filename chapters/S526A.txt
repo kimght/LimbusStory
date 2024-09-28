@@ -71,7 +71,7 @@
 Рим: Мне не нужны корабли, если я хочу пересечь океан.
 
 # Original: I am simply here to have a look at all of you.
-Рим: Я здесть просто, чтобы взглянуть на всех вас.
+Рим: Я здесь просто, чтобы взглянуть на всех вас.
 
 # Original: Wow~ We're really starting to put our name out there!
 Хон Лу: Вау~ Мы действительно начинаем распространять о себе молву!
