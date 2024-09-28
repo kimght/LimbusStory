@@ -215,7 +215,7 @@
 Рёшу: ... С.О.К. Приготовьте оружие, если хотите отсрочить неизбежное.
 
 # Original: 'It's not your sailing prowess, your far-seeing eyes of a pathfinder, or the unbreakable bond between you and your mates.'
-Измаил: "Дело не в твоём мастерстве мореплавания, не в твоих зорких глазах первопроходца и не нерушимая связь между тобой и твоими товарищами."
+Измаил: "Дело не в твоём мастерстве мореплавания, не в твоих зорких глазах первопроходца, или даже нерушимой связи между тобой и твоими товарищами."
 
 # Original: 'Many sailors fail to endure this trial and instead choose to become sacrifices to the depths of the Lake.'
 Измаил: "Многие моряки не выдерживают этого испытания и вместо этого выбирают стать жертвами глубин Озера."
