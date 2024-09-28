@@ -266,7 +266,7 @@
 Рассказчик: Фауст подошла к нам.
 
 # Original: Dante, it appears that the shard of the Golden Bough lodged into your clock is counteracting the infection of this... Pallidification effect to a degree.
-Фауст: Данте, похоже, что осколок Золотой Ветви, вставленная в ваших часах, в некоторой степени противодействует заражению этого... эффекта Бледности.
+Фауст: Данте, похоже, что осколок Золотой Ветви, будучи вставленной в ваши часы, в некоторой степени противодействует заражению этого... эффекта Бледности.
 
 # Original: The figure, whose mouth was still wrapped under a pallid membrane, blinks wearily. As though they could understand what we were saying.
 Рассказчик: Фигура, чей рот всё ещё был обёрнут бледной мембраной, устало моргает. Словно она могла понять, о чём мы говорили.
