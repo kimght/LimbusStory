@@ -5,16 +5,16 @@
 Рассказчик: Думаю, в мире не существовало слов, способных в полной мере описать выражение лица Хитклифа.
 
 # Original: It was certain that he had very scant expectations for Don Quixote and her plans. But... there was this sliver of hope in his face that, maybe, just maybe... Don Quixote might rise to the occasion for once.
-Рассказчик: Было очевидно, что он возлагал крайне мало надежд на Дон Кихота и ее планы. Но... на его лице мелькнула искра надежды, что, может быть, только может быть... Дон Кихот впервые окажется на высоте.
+Рассказчик: Было очевидно, что он возлагал крайне мало надежд на Дон Кихот и ее планы. Но... на его лице мелькнула искра надежды, что, может быть, только может быть... Дон Кихот впервые окажется на высоте.
 
 # Original: Mmh hm hm...!
 Дон Кихот: Ммх хм хм...!
 
 # Original: It was unclear whether Heathcliff's internal struggle mattered much to Don Quixote, however. She began excitedly describing her plan.
-Рассказчик: Однако было неясно, имело ли внутреннее смятение Хитклифа какое-либо значение для Дон Кихота. Она с воодушевлением начала описывать свой план.
+Рассказчик: Однако было неясно, имело ли внутреннее смятение Хитклифа какое-либо значение для Дон Кихот. Она с воодушевлением начала описывать свой план.
 
 # Original: Didst thou, Sir Heathcliff, ever hear tale of the ancient and legendary Fixer of Devyat' Association... The Red Sack?
-Дон Кихот: Доводилось ли тебе, сэр Хитклиф, слышать сказание о древнем и легендарном Корректировщике из ассоциации Девять... Красном Мешке?
+Дон Кихот: Доводилось ли вам, сэр Хитклиф, слышать сказание о древнем и легендарном Корректировщике из Ассоциации Девять... Красном Мешке?
 
 # Original: The Red— what? Like Vergilius?
 Хитклиф: Красном— чем? Как Вергилий?
@@ -23,10 +23,10 @@
 Дон Кихот: Говорят, что легендарный Красный Мешок доставлял свои посылки, невзирая на ужасающую местность или трудности пути, во все уголки Города! И был с ним его помощник, Человек-Олень!
 
 # Original: Forsooth! His magnificence hath given away gratuitous gifts for children of the City that he deemed to be 'kind'.
-Дон Кихот: Воистину! Его величество раздавал безвозмездные дары детям Города, коих он считал "добрыми".
+Дон Кихот: Воистину! Его величество раздавало безвозмездные дары детям Города, коих он считал "хорошими".
 
 # Original: 'Tis but common knowledge, Sir Heathcliff. He appeareth on the front cover of the Fixers Monthly every winter!
-Дон Кихот: Сие общеизвестно, сэр Хитклиф. Он появляется на обложке Ежемесячника Корректировщиков каждую зиму!
+Дон Кихот: Сие общеизвестно, сэр Хитклиф. Он появляется на обложке Ежемесячника об Корректировщиках каждую зиму!
 
 # Original: Don Quixote asked, sounding genuinely shocked to learn that Heathcliff did not know of this 'Red Sack'.
 Рассказчик: Спросила Дон Кихот, искренне шокированная тем, что Хитклиф не знал о "Красном Мешке".
@@ -41,19 +41,19 @@
 Данте: <......>
 
 # Original: I knocked on my ticking clock head. I didn't really feel the need to spell it out for her.
-Рассказчик: Я постучал по своей тикающей голове-часам. Я не чувствовал необходимости объяснять ей это.
+Рассказчик: Я постучал по своей тикающей часовой голове. Я не чувствовал необходимости объяснять ей это.
 
 # Original: So none of thee has subscribed to it, then... Mine words fell on deaf ears...
-Дон Кихот: Значит, никто из вас не подписан на него... Мои слова упали на глухие уши...
+Дон Кихот: Значит, никто из вас не подписан на него, тогда... Мои слова не были услышаны...
 
 # Original: A-anyhow! What matters to thee, Sir Heathcliff, is that thou endeavoureth to make thyself more presentable than anyone else for this occasion, is it not?!
-Дон Кихот: В-в любом случае! Что важно для тебя, сэр Хитклиф, так это то, что ты стремишься выглядеть презентабельнее всех по этому случаю, не так ли?!
+Дон Кихот: В-в любом случае! Что для тебя важнее, сэр Хитклиф, так это то, что ты стремишься выглядеть презентабельнее всех по этому случаю, не так ли?!
 
 # Original: Finally getting to the point, eh? Go on.
 Хитклиф: Наконец-то ты переходишь к делу, а? Продолжай.
 
 # Original: Marry, good Sir, a costume most befitting that occasion would be those of the Red Sack and his sidekick, Reindeer-Man!!!
-Дон Кихот: Право, добрый сэр, наряд, наиболее подходящий для сего случая, был бы костюм Красного Мешка и его помощника, Человека-Оленя!!!
+Дон Кихот: Согласитесь, добрый Сэр, наряд, наиболее подходящий для сего случая, был бы костюм Красного Мешка и его помощника, Человека-Оленя!!!
 
 # Original: Haah... This isn't going to end well, is it?
 Хитклиф: Хаах... Это ничем хорошим не кончится, да?
@@ -83,10 +83,10 @@
 Дон Кихот: Смущающими были они? Вспомни! Разве не были они модными и безупречно одетыми? Не закрывай свои очи и сердце. Говори!
 
 # Original: Absolutely embarrassing sods, yeah. That spandex bloke from K Corp.? Looked like he leaped right out of a circus.
-Хитклиф: Абсолютно смущающие придурки, да. Этот парень в спандексе из К Корп.? Выглядел так, будто только что выпрыгнул из цирка.
+Хитклиф: Абсолютно постыдные придурки, да. Этот громила в спандексе из Корпорации К? Выглядел так, будто только что выпрыгнул из цирка.
 
 # Original: NAAAYYY! Lord Siegfried was not embarrassing! I say that his outfit was rather dashing, wouldn't you agree?! Allow me to explain to thee the materials of its fabric, so that thy understanding—
-Дон Кихот: НЕЕЕТ! Лорд Зигфрид не был смущающим! Я утверждаю, что его наряд был довольно элегантным, не согласишься ли?! Позволь мне объяснить тебе материалы его ткани, чтобы твое понимание—
+Дон Кихот: НЕЕЕТТТ! Лорд Зигфрид не был постыдным! Я утверждаю, что его наряд был довольно элегантным, не согласишься ли?! Позволь мне объяснить тебе материалы его ткани, чтобы твое понимание—
 
 # Original: <…….>
 Данте: <…….>
@@ -101,13 +101,13 @@
 Дон Кихот: Н-ну. Лорд Зигфрид... возможно, особый случай. Но разве ты не согласен, что большинство Корректировщиков довольно хорошо одеты и носят честь на своих рукавах?
 
 # Original: Honour upon their what? I don't know about that, but I suppose they were quite posh...
-Хитклиф: Честь на чем? Я не знаю насчет этого, но полагаю, они были довольно шикарными...
+Хитклиф: Честь на своих чего? Я не знаю насчет этого, но полагаю, они были довольно шикарными...
 
 # Original: Exactly! Follow thee I, and thou shall see thyself dressed as impeccably and impressively as the Fixers are!
 Дон Кихот: Именно! Следуй за мной, и ты увидишь себя одетым столь же безупречно и впечатляюще, как Корректировщики!
 
 # Original: I-is that right? Sod it, I know shite-all about clothes or making myself look fancy...
-Хитклиф: Н-неужели? Черт, я ничего не смыслю в одежде или в том, как сделать себя модным...
+Хитклиф: Я- это правда? Черт возьми, я ни черта не смыслю в одежде и в том, как заставить себя выглядеть модно...
 
 # Original: Right, so let's say I go along with your plan. Where are we going to get them clothes? Honestly, everyone was right. Where are we even going to pick up clothes in the middle of a Lake?
 Хитклиф: Ладно, допустим, я соглашусь с твоим планом. Где мы возьмем эту одежду? Честно говоря, все были правы. Где мы вообще найдем одежду посреди Озера?
@@ -119,19 +119,19 @@
 Дон Кихот: Вспомни события вчерашнего дня. Сирены, что эхом разнеслись по этому автобусу. Ты помнишь?
 
 # Original: Now that I think about it, there was a siren yesterday. It went off not long before I announced the close of business for the day.
-Рассказчик: Теперь, когда я думаю об этом, вчера действительно была сирена. Она прозвучала незадолго до того, как я объявил о закрытии на день.
+Рассказчик: Теперь, когда я думаю об этом, вчера действительно была сирена. Она прозвучала незадолго до того, как я объявил о окончании рабочего дня.
 
 # Original: <But Faust said that that Backdoor volatility wasn't anything for us to worry about.>
-Данте: <Но Фауст сказала, что та нестабильность Черного Хода не должна нас беспокоить.>
+Данте: <Но Фауст сказала, что та нестабильность Задней Двери не должна нас беспокоить.>
 
 # Original: Yet I was curious. How, indeed, doth Faust determine which volatility is useful and which is not?! Thus, as all were crowded by the Backdoor, preoccupied with returning to their respective quarters...
-Дон Кихот: Однако мне было любопытно. Как, в самом деле, Фауст определяет, какая нестабильность полезна, а какая нет?! Посему, когда все столпились у Черного Хода, занятые возвращением в свои покои...
+Дон Кихот: Однако мне было любопытно. Как, в самом деле, Фауст определяет, какая нестабильность полезна, а какая нет?! Посему, когда все столпились у Задней Двери, занятые возвращением в свои покои...
 
 # Original: I have, secretly and stealthily, availed myself the chance to take a glance at the screen!
 Дон Кихот: Я тайно и незаметно воспользовалась шансом взглянуть на экран!
 
 # Original: <So you took a peep at the screen.>
-Данте: <Значит, ты подсмотрела на экран.>
+Данте: <Значит, ты подсмотрела в экран.>
 
 # Original: You know how to read those complex symbols?
 Хитклиф: Ты умеешь читать эти сложные символы?
@@ -146,10 +146,10 @@
 Дон Кихот: Воистину, то были символы Красного Мешка и Человека-Оленя! А рядом с ними был символ, указывающий на шикарные наряды!
 
 # Original: ... No. It can't be that simple.
-Хитклиф: ... Нет. Не может быть все так просто.
+Хитклиф: ... Нет. Это не может быть так просто.
 
 # Original: Yeah, no. It can't be that simple.
-Рассказчик: Да, нет. Не может быть все так просто.
+Рассказчик: Да уж, нет. Это не может быть так просто.
 
 # Original: I agreed with Heathcliff. However, Don Quixote remained enthusiastic as ever, as though she was already expecting him to say that.
 Рассказчик: Я согласился с Хитклифом. Однако Дон Кихот оставалась такой же восторженной, как и всегда, словно она уже ожидала, что он так скажет.
@@ -158,7 +158,7 @@
 Дон Кихот: Знаешь ли ты?
 
 # Original: Every so often, certain symbols appear on the numerous doors past the Backdoor.
-Дон Кихот: Время от времени определенные символы появляются на многочисленных дверях за Черным Ходом.
+Дон Кихот: Время от времени определенные символы появляются на многочисленных дверях за Задней Дверью.
 
 # Original: ... Huh?
 Хитклиф: ... А?
@@ -167,16 +167,16 @@
 Дон Кихот: Каждый отдых, каждый мимолетный взгляд... Я старалась внимательно наблюдать за ними!
 
 # Original: And 'twas yesterday! When! In the corridor! I spied myself the exact door with the exact same symbol that I witnessed on the screen!
-Дон Кихот: И было это вчера! Когда! В коридоре! Я сама узрела точную дверь с тем же символом, что я видела на экране!
+Дон Кихот: И было это вчера! Когда! В коридоре! Я сама узрела ту самую дверь с тем же символом, что я видела на экране!
 
 # Original: <... Don Quixote, you didn't...!>
 Данте: <... Дон Кихот, ты не...!>
 
 # Original: 'Tis my nature as an adventurer, Manager Esquire! Mine inability to quell the burning adventurous spirit. I prostrate before thee!
-Дон Кихот: Такова моя природа искательницы приключений, Сэр Менеджер! Моя неспособность унять пылающий авантюрный дух. Я простираюсь ниц пред тобой!
+Дон Кихот: Такова моя природа искательницы приключений, Сэр Менеджер! Моя неспособность унять пылающий дух авантюризма. Я простираюсь ниц пред тобой!
 
 # Original: Know that I have taken the sneakiest of peeks. Marry, twas naught too foolhardy! I have only taken a small peek!
-Дон Кихот: Знай, что я лишь украдкой заглянула. Право, ничего слишком безрассудного! Я лишь одним глазком посмотрела!
+Дон Кихот: Знай, что я лишь украдкой заглянула. Согласитесь, ничего слишком безрассудного! Я лишь одним глазком посмотрела!
 
 # Original: And if I told thee that what I witnessed from within, that all my deductions and predictions have been proven true...
 Дон Кихот: И если я скажу тебе, что все, что я увидела внутри, что все мои выводы и предсказания оказались правдивыми...
@@ -185,7 +185,7 @@
 Дон Кихот: ... сможешь ли ты найти в себе сострадание, дабы пощадить мою душу?
 
 # Original: You absolute muppet, why in the bloody hell do you keep doing what everyone tells you not to?
-Хитклиф: Ты абсолютная дурында, какого черта ты продолжаешь делать то, что все запрещают?
+Хитклиф: Ты абсолютная дурында, почему, черт возьми, ты продолжаешь делать то, что все говорят тебе не делать?
 
 # Original: <Right, Heathcliff. I just don't understand why some people keep doing things that everyone tells them not to.>
 Данте: <Верно, Хитклиф. Я просто не понимаю, почему некоторые люди продолжают делать то, что все им запрещают.>
@@ -227,13 +227,13 @@
 Дон Кихот: Разве это не простая задача? Все, что мы стремимся сделать, это войти туда и раздобыть несколько комплектов одежды для Хитклифа...
 
 # Original: It was obvious that Don Quixote wasn't helping Heathcliff out of pure kindness of her heart.
-Рассказчик: Было очевидно, что Дон Кихот помогала Хитклифу не из чистой доброты своего сердца.
+Рассказчик: Было очевидно, что Дон Кихот помогала Хитклифу не по доброте душевной.
 
 # Original: Maybe she hungered for an adventure. Or maybe she thought she might be able to do that 'cosplay' of the Fixers she so admired.
 Рассказчик: Возможно, она жаждала приключений. Или, может быть, она думала, что сможет сделать этот "косплей" Корректировщиков, которыми так восхищалась.
 
 # Original: But if we can find Heathcliff some nice clothes to put his heart at ease, then...
-Рассказчик: Но если мы сможем найти Хитклифу хорошую одежду, чтобы успокоить его...
+Рассказчик: Но если мы сможем найти Хитклифу хорошую одежду, чтобы успокоить его сердце, тогда...
 
 # Original: .......
 Измаил: .......
@@ -242,7 +242,7 @@
 Рассказчик: ... может быть, я смогу что-то сделать, прежде чем ситуация выйдет из-под контроля. Как это произошло в прошлый раз, когда я просто позволил тревоге Грешника нарастать и усугубляться...
 
 # Original: <... Fine. But we're turning around at the first sign of danger.>
-Данте: <... Хорошо. Но мы развернемся при первых признаках опасности.>
+Данте: <... Хорошо. Но мы развернемся при первых же признаках опасности.>
 
 # Original: Seriously...?
 Хитклиф: Серьезно...?
@@ -254,7 +254,7 @@
 Хитклиф: ... Ну, полагаю, мы будем в порядке, пока Часоголовый с нами.
 
 # Original: Heh heh... Well said. Then, let us reconvene tonight before Manager Esquire's quarters. We shall knock in the following rhythm: Knock, knock-knock, knock. Then, thou shall whisper a secret code, to which then I shall—
-Дон Кихот: Хе-хе... Хорошо сказано. Тогда давайте встретимся сегодня вечером перед покоями Сэра Менеджера. Мы постучим в следующем ритме: Стук, стук-стук, стук. Затем ты прошепчешь секретный код, на который я—
+Дон Кихот: Хе-хе... Хорошо сказано. Тогда давайте встретимся сегодня вечером перед покоями Сэра Менеджера. Мы постучим в следующем ритме: Тук, Тук-тук, Тук. Затем ты прошепчешь секретный код, на который я—
 
 # Original: Just go get some sleep.
 Хитклиф: Просто иди спать.
