@@ -5,7 +5,7 @@
 Дон Кихот: Вина лежит на мне...
 
 # Original: The light of confidence had completely faded from Don Quixote's face. So did her enthusiastic voice.
-Рассказчик: Свет уверенности полностью исчез с лица Дон Кихота. Так же, как и её восторженный голос.
+Рассказчик: Свет уверенности полностью исчез с лица Дон Кихот. Так же, как и её восторженный голос.
 
 # Original: <No... I should've thought this plan through.>
 Данте: <Нет... Я должен был лучше продумать этот план.>
@@ -17,7 +17,7 @@
 Дон Кихот: ...Ах! Увы!
 
 # Original: With that, Don Quixote marched toward the now abandoned sleigh.
-Рассказчик: С этими словами Дон Кихот направилась к теперь уже заброшенным саням.
+Рассказчик: С этими словами Дон Кихот направилась к теперь уже брошенным саням.
 
 # Original: T-this is...
 Дон Кихот: Э-это...
@@ -26,7 +26,7 @@
 Рассказчик: Несколько изувеченных тел вывалились на землю, как только Дон Кихот развязала узел, стягивающий мешок.
 
 # Original: Damnit... I was afraid that this was what we'd find inside the sack.
-Хитклиф: Чёрт... Я боялся, что именно это мы и найдём внутри мешка.
+Хитклиф: Чёрт подери... Я боялся, что именно это мы и найдём внутри мешка.
 
 # Original: There were a total of seven or so people in the sack, but they were all missing a few limbs. They were barely breathing… and some of them had already perished.
 Рассказчик: Всего в мешке было около семи человек, но у всех не хватало нескольких конечностей. Они едва дышали... а некоторые уже погибли.
@@ -35,7 +35,7 @@
 Данте: <Я никогда раньше не видел такого стиля одежды. Похоже, мы оказались довольно далеко от того места, где были.>
 
 # Original: I've seen similarly worn and torn clothing in the Backstreets, but the clothing they wore was of materials and styles that I'd not seen before. The Backdoor must've sent us pretty far.
-Рассказчик: Я видел похожую поношенную и рваную одежду в Подворотнях, но их одежда была из материалов и стилей, которых я раньше не встречал. Должно быть, Черный Ход отправил нас довольно далеко.
+Рассказчик: Я видел похожую поношенную и рваную одежду в Подворотнях, но их одежда была из материалов и стиля, который я раньше не встречал. Должно быть, Задняя Дверь отправила нас довольно далеко.
 
 # Original: Faust did tell me that each district within the City had different cultures and such, so...
 Рассказчик: Фауст говорила мне, что у каждого района в Городе своя культура и всё такое, так что...
@@ -44,7 +44,7 @@
 Хитклиф: Разве это имеет значение? Они все скоро умрут, и ты не сможешь повернуть для них время вспять... Давайте просто вернёмся в Автобус.
 
 # Original: Nay! Here! This person here is intact!
-Дон Кихот: Нет! Сюда! Этот человек здесь цел!
+Дон Кихот: Нет! Сюда! Этот человек все ещё цел!
 
 # Original: Hark! Get a hold of thyself! Art thou the one who requested our help earlier?!
 Дон Кихот: Внемли! Приди в себя! Не ты ли тот, кто ранее взывал о помощи?!
