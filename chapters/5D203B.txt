@@ -2,7 +2,7 @@
 Хитклиф: Эй, твой ободок...!
 
 # Original: It's all mucked up with blood. Now that's a right terrifyin' look, innit...?
-Хитклиф: Она же вся в крови измазана. Теперь у тебя прям жуткий вид, а?
+Хитклиф: Он же весь в крови измазан. Теперь у тебя прям жуткий вид, а?
 
 # Original: Nothing a quick wash in the water can't fix.
 Измаил: Ничего, быстро промою в воде, и всё будет в порядке.
