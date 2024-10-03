@@ -14,7 +14,7 @@
 Квиквег: Аномалии. Как родились?
 
 # Original: They were once human. These have been created by humans as a source of new energy.
-Фауст: Когда-то они были людьми. Их создали люди как источник новой энергии.
+Фауст: Когда-то они были людьми. Их создали другие люди как источник новой энергии.
 
 # Original: They have wishes. Looks like.
 Квиквег: У них есть желания. Похоже.

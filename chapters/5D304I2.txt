@@ -14,7 +14,7 @@
 Ахав: Не будь так жестока к простому ребёнку, Измаил! Обрати свой взор на меня!
 
 # Original: His broken heart led him to me, and I have freed him from his guilt to the best of my abilities!
-Ахав: Его разбитое сердце привело его ко мне, и я освободила его от чувства вины, насколько это было в моих силах!
+Ахав: Его разбитое сердце привело его ко мне, и я освободила его от чувства вины, изо всех своих сил!
 
 # Original: But what did you do? Nothing! The least you could have done was to volunteer to row in Pip's place on that fateful day!
 Ахав: А что сделала ты? Ничего! Ты могла хотя бы вызваться грести вместо Пипа в тот роковой день!

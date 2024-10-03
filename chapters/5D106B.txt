@@ -41,7 +41,7 @@
 Рассказчик: Обещание награды за оказанные услуги... Уверен, это сильный мотиватор.
 
 # Original: Hey, Ishmael. You really caught me off... guard earlier.
-Старбак: Эй, Измаил. Ты меня раньше дей...ствительно застала врасплох.
+Старбак: Эй, Измаил. Ты тогда меня дей...ствительно застала врасплох.
 
 # Original: Seriously, I didn't... think I'd find... you here, of all places.
 Старбак: Серьёзно, я и не ду...мал, что найду... тебя здесь, из всех мест.
@@ -53,10 +53,10 @@
 Старбак: Так, ты успела поздороваться со все...ми? Немного поболтать?
 
 # Original: And oh m...an, you sure did grow your ha...ir out! Whatever happened to 'long hair is annoying'?
-Старбак: И боже мо...й, ты так отрастила воло...сы! Что случилось с "длинные волосы раздражают"?
+Старбак: И боже мо...й, ты так отрастила воло...сы! Что случилось с твоим "длинные волосы раздражают"?
 
 # Original: ... That's a lot of questions at once.
-Измаил: ... Это слишком много вопросов сразу.
+Измаил: ... Ты задаёшь слишком много вопросов сразу.
 
 # Original: I don't think any of them want to chat with me. I can tell from the looks they're giving me...
 Измаил: Не думаю, что кто-то из них хочет со мной разговаривать. Я вижу это по взглядам, которые они на меня бросают...
@@ -107,10 +107,10 @@
 Данте: <Я думал, он был твоим старым товарищем?>
 
 # Original: Starbuck... first mate of the Pequod.
-Измаил: Старбак... первый помощник Пекода.
+Измаил: Старбак... старший помощник Пекода.
 
 # Original: He wanted to be a good person to everyone. And he was the closest of the crew to the Captain's ear.
-Измаил: Он хотел быть хорошим человеком для всех. И был ближе всех из экипажа к уху Капитана.
+Измаил: Он хотел быть хорошим человеком для каждого. И был ближе всех из экипажа к уху Капитана.
 
 # Original: Which meant that they also squabbled pretty often, but... it didn't matter in the end.
 Измаил: Это означало, что они часто ссорились, но... в конце концов это не имело значения.
@@ -125,10 +125,10 @@
 Ахав: С бутылкой рома всё прошло бы гораздо глаже. Но за всё время, что мы провели здесь... я не видела ни одной бутылки, которая бы приплыла сюда.
 
 # Original: Executive Manager, allow me to take charge of this negotiation.
-Отис: Исполнительный менеджер, позвольте мне взять на себя эти переговоры.
+Отис: Исполнительный Менеджер, позвольте мне взять на себя эти переговоры.
 
 # Original: Ishmael... cannot be trusted to make a rational decision. And you, Executive Manager, cannot properly communicate with this woman. She will only hear your ticking sounds.
-Отис: Измаил... нельзя доверять принятие рационального решения. А вы, Исполнительный менеджер, не можете нормально общаться с этой женщиной. Она будет слышать только ваше тиканье.
+Отис: Измаил... нельзя доверить принятие рационального решения. А вы, Исполнительный Менеджер, не можете нормально общаться с этой женщиной. Она будет слышать только ваше тиканье.
 
 # Original: <Sure...>
 Данте: <Хорошо...>
@@ -260,7 +260,7 @@
 Дон Кихот: Мои попытки едва оставили след...
 
 # Original: If she's right, then... It won't matter what the Indigo Elder does, and it won't matter what LCA does...
-Родион: Если она права, тогда... Неважно, что сделает Старик Индиго, и неважно, что сделает ЦКА...
+Родион: Если она права, тогда... Неважно, что сделает Старик Индиго, и неважно, что сделает LCA...
 
 # Original: It won't matter how hard they'll try, they can't get us out of here...
 Родион: Неважно, как сильно они будут стараться, они не смогут вытащить нас отсюда...
@@ -269,13 +269,13 @@
 Ахав: Я... мы знаем лучше, чем кто-либо.
 
 # Original: The crushing pain of surviving at a place such as this with no hope of rescue. No sane mind survives such torment for long.
-Ахав: Сокрушительную боль выживания в таком месте, без надежды на спасение. Ни один здравый рассудок не выдержит такие муки долго.
+Ахав: Сокрушительную боль выживания в таком месте, без надежды на спасение. Ни один здравый рассудок не выдержит такие муки столь долго.
 
 # Original: Behold my pitiful crew! They hold on, tooth and nail, to their sense of self as the pallid membrane tries to devour them whole!
 Ахав: Взгляните на мой жалкий экипаж! Они изо всех сил цепляются за свою личность, пока бледная мембрана пытается поглотить их целиком!
 
 # Original: Nothing here. Nothing. None.
-Квиквег: Ничего здесь. Ничего. Нет.
+Квиквег: Здесь. Ничего. Нет.
 
 # Original: We can do naught here but scavenge the flotsam that washes up to its stomach. Mermaid corpses Queequeg brings back from her hunts are our only source of subsistence.
 Ахав: Мы можем делать здесь лишь то, что собираем обломки, выброшенные в его желудок. Трупы Русалок, которых Квиквег приносит с охоты, - наш единственный источник пропитания.
@@ -299,7 +299,7 @@
 Ахав: А теперь послушайте моё предложение.
 
 # Original: I, Captain Ahab of the Pequod, the leader of the Pequod Town, have a responsibility to bring every single one of my crew home. Thus I make this offer to you.
-Ахав: Я, Капитан Ахав с Пекода, лидер Города Пекод, несу ответственность за то, чтобы вернуть домой каждого члена моего экипажа. Поэтому я делаю вам это предложение.
+Ахав: Я, Капитан Ахав с Пекода, лидер Пекод-Тауна, несу ответственность за то, чтобы вернуть домой каждого члена моего экипажа. Поэтому я делаю вам это предложение.
 
 # Original: I will destroy this bastard's heart. For long have I prepared; now, all that remains to be done is to set the plan in motion.
 Ахав: Я уничтожу сердце этого ублюдка. Я долго готовилась; теперь осталось только привести план в действие.
@@ -308,13 +308,13 @@
 Ахав: Наши цели одинаковы, но мы ищем разные сокровища.
 
 # Original: Assist me in my plan. We will hunt this Whale and escape, and the Golden Bough shall be yours.
-Ахав: Помогите мне в моём плане. Мы будем охотиться на этого Кита и сбежим, а Золотая Ветвь будет вашей.
+Ахав: Помогите мне в моём плане. Мы убьём этого Кита и сбежим, а Золотая Ветвь будет вашей.
 
 # Original: ... We must discuss this amongst ourselves first.
 Отис: ... Нам нужно обсудить это между собой.
 
 # Original: Take as much time as you want.
-Ахав: Берите столько времени, сколько вам нужно.
+Ахав: Тратьте столько времени, сколько захотите.
 
 # Original: Ahab nodded with a generous smile. We huddled in one corner of her office to discuss this.
 Рассказчик: Ахав кивнула с щедрой улыбкой. Мы собрались в углу её кабинета, чтобы это обсудить.
@@ -323,7 +323,7 @@
 Мерсо: Лодка, которая привезла нас сюда, не подлежит восстановлению.
 
 # Original: Thus, it follows that we require a new boat for us to escape the Whale.
-Мерсо: Следовательно, нам требуется новая лодка, чтобы сбежать от Кита.
+Мерсо: Следовательно, нам требуется новая лодка, чтобы сбежать из Кита.
 
 # Original: Moreover, moving across the bodily fluids of this Whale is necessary if we are to conduct an investigation of its interiors. For that, we require a new boat.
 Мерсо: Более того, передвижение по телесным жидкостям этого Кита необходимо, если мы хотим провести исследование его внутренностей. Для этого нам нужна новая лодка.
@@ -356,10 +356,10 @@
 Фауст: Давайте не будем.
 
 # Original: Ha, so that's your offer? I could smell your bullshit coming from a mile away.
-Измаил: Ха, так вот твоё предложение? Я чую твою ложь за милю.
+Измаил: Ха, так вот каково твоё предложение? Я могла бы почуять твой пиздёж за милю отсюда.
 
 # Original: She's not changed one bit. Driving people to their deaths with bullshit that, at a glance, seems plausible.
-Измаил: Она ни капли не изменилась. Ведёт людей на смерть с помощью чуши, которая на первый взгляд кажется правдоподобной.
+Измаил: Она ни капли не изменилась. Ведёт людей на смерть с помощью херни, которая на первый взгляд кажется правдоподобной.
 
 # Original: ... Nothing's changed.
 Измаил: ... Ничего не изменилось.
@@ -380,13 +380,13 @@
 Родион: Да... Этот Капитан, вероятно, знает это место лучше, чем кто-либо...
 
 # Original: So our other options are... either turn into Mermaids and kill each other, or remain trapped in here forever. Are they really the only alternatives we've got?
-Грегор: Значит, наши другие варианты... либо превратиться в Русалок и убить друг друга, либо остаться в ловушке здесь навсегда. Это действительно единственные альтернативы, которые у нас есть?
+Грегор: Значит, наши другие варианты... либо превратиться в Русалок и поубивать друг друга, либо остаться в ловушке здесь навсегда. Это действительно единственные альтернативы, которые у нас есть?
 
 # Original: The Red Gaze shall not abandon us...! Bwaah hah haaah...
 Дон Кихот: Алый Взор не оставит нас...! Бва-ха-ха-ха...
 
 # Original: We're having trouble coming to an agreement. I will mediate. Let's battle to the last person standing, and have them decide.
-Рёшу: Трудно прийти к согласию. Я посредник. Сразимся до последнего. Победитель решит.
+Рёшу: Трудно прийти к согласию. Я буду посредником. Сразимся до последнего. Победитель решит.
 
 # Original: The Sinners were all expressing their opinions... which were all very diametrically opposed to one another with little hope of meeting somewhere in the middle.
 Рассказчик: Грешники высказывали свои мнения... которые были диаметрально противоположны друг другу, с небольшой надеждой найти компромисс.

@@ -80,7 +80,7 @@
 Грегор: ... Филиалом Корпорации Лоботомия в Районе 21.
 
 # Original: ... I'm going out for some air.
-Измаил: ... Я выйду подышать воздухом.
+Измаил: ... Я выйду подышать свежим воздухом.
 
 # Original: Ishmael slowly returned to the spot by the ship's railings where she stood muttering to herself.
 Рассказчик: Измаил медленно вернулась к месту у перил корабля, где она стояла, бормоча себе под нос.

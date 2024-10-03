@@ -2,10 +2,10 @@
 Ахав: Вы видите это? Вот оно... сердце.
 
 # Original: An amalgamation of all that the Pallid Whale has ever devoured.
-Ахав: Амальгама всего, что Бледный Кит когда-либо поглотил.
+Ахав: Слияние всего, того что Бледный Кит когда-либо поглотил.
 
 # Original: This makes the Pallid Whale breathe, this makes its heart pound, and from here its evil spouts! Behold! It spews evil again! Again! Again! And again!
-Ахав: Это заставляет Бледного Кита дышать, это заставляет его сердце биться, и отсюда извергается его зло! Смотрите! Оно снова извергает зло! Снова! Снова! И снова!
+Ахав: Оно заставляет Бледного Кита дышать, оно заставляет его сердце биться, и отсюда извергается его зло! Смотрите! Оно снова извергает зло! Снова! Снова! И снова!
 
 # Original: Stop laughing like you're happy when your path here was paved with the lives of your own crew.
 Измаил: Прекрати смеяться, будто ты счастлива, когда твой путь сюда был вымощен жизнями твоего собственного экипажа.
@@ -20,10 +20,10 @@
 Ахав: И что с того?
 
 # Original: Their fates were sealed the moment the Whale swallowed them. Fated to become Mermaids, fated to wander the Whale's belly until they keeled over and died. I saved them!
-Ахав: Их судьба была предрешена в тот момент, когда Кит их проглотил. Обречены стать Русалками, обречены бродить в брюхе Кита, пока не свалятся замертво. Я спасла их!
+Ахав: Их судьба была предрешена в тот момент, когда Кит проглотил их. Им было суждено стать Русалками, суждено бродить в брюхе Кита, пока не свалятся замертво. Я спасла их!
 
 # Original: I merely reap my recompense for extending their lives, even for a fleeting moment!
-Ахав: Я всего лишь пожинаю свою награду за то, что продлила их жизни, пусть даже на мгновение!
+Ахав: Я всего лишь пожинаю свою плоды за то, что продлила их жизни, пусть даже на мгновение!
 
 # Original: I looked after them, watched over them, and led them to this place... And for that, I have been rightly rewarded.
 Ахав: Я заботилась о них, присматривала за ними и привела их сюда... И за это я была справедливо вознаграждена.
@@ -35,8 +35,7 @@
 Ахав: Я до сих пор помню тот день, когда вы все поднялись на борт моего корабля, без единой искры света в ваших бесцельных глазах. Какое жалкое зрелище это было, не более чем обломки, бесцельно качающиеся на волнах!
 
 # Original: I gave your worthless lives a reason to go on. And on the Pequod, you sailed with conviction!
-Ахав: Я дала вашим никчемным жизням причину продолжаться. И на "Пекоде" вы плыли с убеждением!
-
+Ахав: Я дала вашим никчемным жизням причину продолжаться. И на "Пекоде" вы плыли с уверенностью!
 # Original: No… You devoured the crew whole. You painted over their wills, just like the Whales— no! Just like the Pallid Whale! Molding them and shaping them to fit your wants and needs.
 Измаил: Нет... Ты поглотила экипаж целиком. Ты перекрасила их волю, точно так же, как Киты— нет! Точно так же, как Бледный Кит! Формируя их и придавая им форму, чтобы они соответствовали твоим желаниям и потребностям.
 
@@ -44,34 +43,34 @@
 Измаил: Мы поднялись на твой корабль не только для того, чтобы охотиться на какого-то глупого Кита. И ты это знала.
 
 # Original: I didn't. In truth, I could not care less about your reasons. The moment they set foot upon MY ship, their sights should have rightly been set upon the Pallid Whale!
-Ахав: Я не знала. По правде говоря, мне было совершенно безразличны ваши причины. В тот момент, когда они ступили на МОЙ корабль, их взоры должны были быть правильно направлены на Бледного Кита!
+Ахав: Я не знала. По правде говоря, мне было совершенно безразличны ваши причины. В тот момент, когда они ступили на МОЙ корабль, их взор должен был быть направлен прямо на Бледного Кита!
 
 # Original: In fact... You must know better than anyone that their hearts were flimsy. That they let themselves be swallowed because they were shallow; that they let themselves be molded because they were weak.
-Ахав: На самом деле... Ты должна знать лучше всех, что их сердца были шаткими. Что они позволили себя проглотить, потому что были поверхностны; что они позволили себя формировать, потому что были слабы.
+Ахав: На самом деле... Ты должна лучше всех знать, что их сердца были шаткими. Что они позволили себя проглотить, потому что ничего не стоили; что они позволили себя формировать, потому что были слабы.
 
 # Original: I am the only one who matters. What matters is that I have declared this beast evil—and that is my commandment, my belief, my religion, and my creed.
 Ахав: Я — единственная, кто имеет значение. Важно то, что я объявила это чудовище злом — и это моя заповедь, моя вера, моя религия и мое кредо.
 
 # Original: When I perish, this world shall perish as well. So my very life, my very existence itself, is then the world! And I have deemed it so! No one will be the helmsman of my life but myself!!! No one shall live my life in my stead!!!
-Ахав: Когда я погибну, этот мир тоже погибнет. Так что сама моя жизнь, само мое существование и есть мир! И я так решила! Никто не будет рулевым моей жизни, кроме меня самой!!! Никто не проживет мою жизнь вместо меня!!!
+Ахав: Когда я погибну, этот мир тоже погибнет. Так что сама моя жизнь, само мое существование и есть мир! И я так решила! Никто не будет штурманом моей жизни, кроме меня самой!!! Никто не проживет мою жизнь вместо меня!!!
 
 # Original: What do you, all of you, believe in? Tell me. Is your belief unbreakable? Is it absolute?
-Ахав: Во что вы, все вы, верите? Скажите мне. Непоколебима ли ваша вера? Абсолютна ли она?
+Ахав: Вот во что, все вы, верите? Скажите мне. Непоколебима ли ваша вера? Абсолютна ли она?
 
 # Original: My beliefs are absolute! My definitions of good and evil are clear-cut! Thus my beliefs are unclouded, unassailable. Because I have made it so.
-Ахав: Моя вера абсолютна! Мои определения добра и зла четки! Поэтому моя вера ясна, неоспорима. Потому что я сделала ее такой.
+Ахав: Моя вера абсолютна! Мои определения добра и зла предельно ясны! Поэтому моя вера незамутненна, неоспорима. Потому что я сделала ее такой.
 
 # Original: That is why I will never be broken. That is why I stand tall, unshakable, as a missionary of my own faith.
 Ахав: Вот почему я никогда не сломаюсь. Вот почему я стою прямо, непоколебимо, как миссионер своей собственной веры.
 
 # Original: I have blessed you with my absolute definitions of good and evil! So that you may live your life with unhesitating, unwavering tenacity!!!
-Ахав: Я благословила вас своими абсолютными определениями добра и зла! Чтобы вы могли жить своей жизнью с несомненной, непоколебимой стойкостью!!!
+Ахав: Я благословила вас своими абсолютными определениями добра и зла! Чтобы вы могли прожить свою жизнью с несомненной, непоколебимой стойкостью!!!
 
 # Original: …….
 Старбак: …….
 
 # Original: Starbuck stands next to Ahab. He wears a wide smile, as though a weight has been lifted from his shoulders.
-Рассказчик: Старбак стоит рядом с Ахав. Он широко улыбается, словно с его плеч свалился груз.
+Рассказчик: Старбак стоит рядом с Ахав. Он широко улыбается, словно с его плеч свалился тяжелый груз.
 
 # Original: …….
 Квиквег: …….
