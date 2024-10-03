@@ -308,7 +308,7 @@
 Ахав: Наши цели одинаковы, но мы ищем разные сокровища.
 
 # Original: Assist me in my plan. We will hunt this Whale and escape, and the Golden Bough shall be yours.
-Ахав: Помогите мне в моём плане. Мы убьём этого Кита после охоты и сбежим, а Золотая Ветвь будет вашей.
+Ахав: Помогите мне в моём плане. Мы убьём этого Кита и сбежим, а Золотая Ветвь будет вашей.
 
 # Original: ... We must discuss this amongst ourselves first.
 Отис: ... Нам нужно обсудить это между собой.
