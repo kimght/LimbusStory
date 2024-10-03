@@ -4,14 +4,14 @@
       "id": 0,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ты и правда преданная своей работе девочка, да~?"
     },
     {
       "id": 1,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Я совсем не ожидала, что ты пойдешь за мной аж сюда, когда на улице так холодно."
     },
     {
@@ -40,7 +40,7 @@
       "id": 7,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Хмм... Думаю, несмотря на то, насколько популярна Девять, люди на самом деле не знают, как мы тут ведем дела."
     },
     {
@@ -53,7 +53,7 @@
       "id": 9,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ага~ Более безопасные доставки обычно осуществляются более известными транспортными компаниями или офисами Корректировщиков."
     },
     {
@@ -66,7 +66,7 @@
       "id": 11,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Мм... Потому что хорошо платят?"
     },
     {
@@ -85,14 +85,14 @@
       "id": 15,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "... Ох, ветер стихает."
     },
     {
       "id": 16,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ребята! Давайте сделаем здесь небольшой перерыв и перекусим."
     },
     {
@@ -109,12 +109,12 @@
       "id": 19,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Да, ну. Это просто красивое название для того, что по сути является обычным контейнером. Это удобно, когда несешь много вещей... Хоп!"
     },
     {
       "id": 20,
-      "teller": "Poludnitsa",
+      "teller": "Полудница",
       "title": "Courier Trunk",
       "content": "[Обнаружено несанкционированное вскрытие замка вне координат доставки.]"
     },
@@ -122,7 +122,7 @@
       "id": 21,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Тсс! Тихо."
     },
     {
@@ -147,7 +147,7 @@
       "id": 26,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ага~ Эту девочку зовут Полудница. Держу пари, большинство людей не знают об этих штуках."
     },
     {
@@ -166,7 +166,7 @@
       "id": 29,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "... Не знала, что люди так о нас думают."
     },
     {
@@ -191,14 +191,14 @@
       "id": 34,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Да, мы же Ассоциация, понимаешь? Ты можешь засунуть в эту штуку предмет в пять раз больше её размера."
     },
     {
       "id": 35,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Кроме того, даже при транспортировке предметов весом в сотни килограммов... как только нам удается засунуть их внутрь, мы почти не чувствуем их веса."
     },
     {
@@ -211,7 +211,7 @@
       "id": 37,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Э-это какие-то сложные штуки, да... Я помню, что статья о Южном отделении Дьечи была менее ориентирована на техническую сторону вещей."
     },
     {
@@ -224,12 +224,12 @@
       "id": 39,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "... Х-хочешь энергетический батончик или что-нибудь?"
     },
     {
       "id": 40,
-      "teller": "Poludnitsa",
+      "teller": "Полудница",
       "title": "Courier Trunk",
       "content": "[Предупреждение. Хранение несанкционированных предметов не рекомендуется.]"
     },
@@ -243,14 +243,14 @@
       "id": 42,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Э, не беспокойся об этом. Ассоциация обычно закрывает глаза на такие вещи, особенно если миссия проходит через такие суровые условия, как здесь."
     },
     {
       "id": 43,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "В конце концов, единственное, что имеет значение... это то, чтобы мы доставили груз вовремя."
     },
     {
@@ -267,7 +267,7 @@
       "id": 46,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ты продолжаешь сыпать соль на рану, знаешь ли... Это..."
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "id": 49,
-      "teller": "Poludnitsa",
+      "teller": "Полудница",
       "title": "Courier Trunk",
       "content": "[Обнаружены враждебные силы. Активация маневров Полудницы режима доставки высокой мощности.]"
     },
@@ -290,7 +290,7 @@
       "id": 50,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ух. Легки на помине, да? Похоже, воры повылезали из своих нор, когда метель немного утихла."
     },
     {
@@ -301,12 +301,12 @@
       "id": 52,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Полу, разблокировка разрывной энергии!"
     },
     {
       "id": 53,
-      "teller": "Poludnitsa",
+      "teller": "Полудница",
       "title": "Courier Trunk",
       "content": "[Авторизовано. Убедитесь, что рядом с выхлопом нет предметов, подверженных риску.]"
     },
@@ -314,7 +314,7 @@
       "id": 54,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Только то, что рискованно для меня, если оставить это в живых!"
     },
     {
@@ -335,7 +335,7 @@
       "id": 58,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "... Эй, ты. Ты уверена, что тебе здесь безопасно? Разве тебе не страшно?"
     },
     {
@@ -348,7 +348,7 @@
       "id": 60,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Тяжелая жизнь, да?"
     },
     {
@@ -365,14 +365,14 @@
       "id": 63,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Хмпф, смотри-ка, пытаешься меня задобрить~"
     },
     {
       "id": 64,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ладно, я поделюсь с тобой еще некоторой информацией!"
     },
     {
@@ -383,12 +383,12 @@
       "id": 66,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Каждый раз! Когда мы вот-вот опоздаем с доставкой! Этот говорящий сундук!"
     },
     {
       "id": 67,
-      "teller": "Thief",
+      "teller": "Вор",
       "title": "???",
       "content": "Уххх..."
     },
@@ -396,14 +396,14 @@
       "id": 68,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Усиливает нашу силу! Потому что! Опоздание с доставкой! Опасно!"
     },
     {
       "id": 69,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Так что... я пытаюсь выполнить доставку как можно быстрее!"
     },
     {
@@ -422,14 +422,14 @@
       "id": 72,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "... Эм."
     },
     {
       "id": 73,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Ну, ты же не хочешь разозлить своего босса, верно? То же самое."
     },
     {
@@ -454,7 +454,7 @@
       "id": 78,
       "model": "로쟈",
       "teller": "Родион",
-      "title": "Devyat' Section 3",
+      "title": "Devyat' North Section 3",
       "content": "Что, ты думала, в этом есть что-то особенное? Да ладно, разве мы все не мотивированы нежеланием получить нагоняй от наших боссов?"
     },
     {
