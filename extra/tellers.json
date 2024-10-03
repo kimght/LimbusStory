@@ -2093,5 +2093,38 @@
     "original": "Don Quixote?",
     "translation": "Дон Кихот?",
     "model": "실루엣돈키호테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "호드"
+  },
+  {
+    "original": "Poludnitsa",
+    "translation": "Полудница"
+  },
+  {
+    "original": "Thief",
+    "translation": "Вор"
+  },
+  {
+    "original": "Fixer on the Podium",
+    "translation": "Корректировщик на трибуне"
+  },
+  {
+    "original": "Disgruntled Colleague",
+    "translation": "Недовольный коллега"
+  },
+  {
+    "original": "Whiny Colleague",
+    "translation": "Плаксивый коллега"
+  },
+  {
+    "original": "Terrified Citizen",
+    "translation": "Испуганный гражданский"
+  },
+  {
+    "original": "Monster of the Tunnels",
+    "translation": "Монстр из туннелей"
   }
 ]
