@@ -1,5 +1,5 @@
 # Original: Ahab's commands led us straight to her singular goal, the heart.
-Рассказчик: Приказы Ахава вели нас прямо к её единственной цели – сердцу.
+Рассказчик: Приказы Ахав вели нас прямо к её единственной цели – сердцу.
 
 # Original: <We've all been played by the Captain... From the moment we met her...>
 Данте: <Капитан обвела нас всех вокруг пальца... С самого момента нашей встречи...>
@@ -14,7 +14,7 @@
 Хитклиф: Часоголовый. Ты тоже это понимаешь, не так ли?
 
 # Original: Captain Ahab has the uncanny ability to effortlessly delve deep into one's heart, to fish out their deepest wishes.
-Рассказчик: У Капитана Ахава есть удивительная способность без труда проникать в самые глубины чужого сердца, вылавливая самые сокровенные желания.
+Рассказчик: У Капитана Ахав есть удивительная способность без труда проникать в самые глубины чужого сердца, вылавливая самые сокровенные желания.
 
 # Original: Those hidden, yet desperate wishes.
 Рассказчик: Те скрытые, но отчаянные желания.
