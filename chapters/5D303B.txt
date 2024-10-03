@@ -36,6 +36,7 @@
 
 # Original: I gave your worthless lives a reason to go on. And on the Pequod, you sailed with conviction!
 Ахав: Я дала вашим никчемным жизням причину продолжаться. И на "Пекоде" вы плыли с уверенностью!
+
 # Original: No… You devoured the crew whole. You painted over their wills, just like the Whales— no! Just like the Pallid Whale! Molding them and shaping them to fit your wants and needs.
 Измаил: Нет... Ты поглотила экипаж целиком. Ты перекрасила их волю, точно так же, как Киты— нет! Точно так же, как Бледный Кит! Формируя их и придавая им форму, чтобы они соответствовали твоим желаниям и потребностям.
 
