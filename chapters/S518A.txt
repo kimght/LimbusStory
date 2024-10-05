@@ -8,7 +8,7 @@
 Измаил: Это "Кит Пористой Руки"... Я... очень надеялась, что мы его не встретим...
 
 # Original: <Is that... one of the Whales they were talking about at U Corp.?>
-Данте: <Это... один из тех Китов, о которых говорили в Корп. U?>
+Данте: <Это... один из тех Китов, о которых говорили в Корпорации U?>
 
 # Original: Do Mermaids raid ships, too...? I read about them once as a child, but these don't look anything like how they did in the books...
 Синклер: Русалки тоже нападают на корабли...? Я читал о них в детстве, но они совсем не похожи на тех, что были в книгах...
@@ -20,10 +20,10 @@
 Грегор: Так что... из этих... штук делают духи...?
 
 # Original: Vergie... isn't this a good time for you to lend us a hand for once?
-Родион: Вергилий... может, ты наконец-то нам поможешь?
+Родион: Верги... может, ты наконец-то нам поможешь?
 
 # Original: Really? That's the guy who practically spectated like a bystander when we got slaughtered back at K Corp. He didn't even blink.
-Грегор: Правда? Это тот самый парень, который практически наблюдал со стороны, когда нас убивали в Корп. K. Он даже глазом не моргнул.
+Грегор: Правда? Это тот самый парень, который практически наблюдал со стороны, когда нас убивали в Корпорации K. Он даже глазом не моргнул.
 
 # Original: Ah, he did wave at us, though! But I couldn't wave back because my wrists were getting snapped in half!
 Хон Лу: Ах, но он нам помахал! Правда, я не мог помахать в ответ, потому что мне ломали запястья!
@@ -35,7 +35,7 @@
 Вергилий: Знайте, что я приму меры только при очень определённых обстоятельствах.
 
 # Original: In which all of you are decimated, the enemies have crushed the manager's head and are about to tear the hands off that clock.
-Вергилий: Когда вы все будете уничтожены, враги раздавят голову менеджера и будут готовы оторвать стрелки с тех часов.
+Вергилий: Когда вы все будете уничтожены, враги вдавят голову менеджера и будут готовы оторвать стрелки с тех часов.
 
 # Original: <Are... Are you serious right now...?>
 Данте: <Ты... Ты сейчас серьёзно...?>

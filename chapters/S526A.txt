@@ -2,7 +2,7 @@
 Агент LCCB: … … …. …
 
 # Original: The Mermaids... I think there's less of them now...
-Синклер: Русалок... кажется, их стало меньше...
+Синклер: Русалки... кажется, их стало меньше...
 
 # Original: Someone stood there, waiting for us. He must have arrived here much earlier than we have.
 Рассказчик: Кто-то стоял там, ожидая нас. Должно быть, он прибыл сюда намного раньше нас.
@@ -26,7 +26,7 @@
 Отис: …!
 
 # Original: I didn't expect to find any unharmed survivors...
-Синклер: Я не ожидал найти здесь неповрежденных выживших...
+Синклер: Я не ожидал найти здесь невредимых выживших...
 
 # Original: <No, wait. Is he... a Distortion...?>
 Данте: <Нет, подожди. Он что... Искажение...?>
@@ -35,19 +35,19 @@
 Хитклиф: Эй, часоголовый. Ты дружишь с этим тазоголовым?
 
 # Original: A Distortion? Like... that Bingbong's Bar & Fryers owner from earlier?
-Грегор: Искажение? Как... тот владелец "Бар и Жарильня Бинг-Бонга" раньше?
+Грегор: Искажение? Как... тот владелец "Бара & Фритюра Бинг-Бонга" с которым мы встречались раньше?
 
 # Original: I see that many of you are rather flummoxed by my appearance.
 Рим: Я вижу, что многие из вас весьма озадачены моим внешним видом.
 
 # Original: This is but one of the many ways one may choose to understand the journey that is the world.
-Рим: Это лишь один из многих способов понять путешествие, которым является мир.
+Рим: Это лишь один из многих способов, которые человек может выбрать, чтобы понять путешествие, коим является этот мир.
 
 # Original: So, please do not be so wary.
 Рим: Поэтому, прошу, не будьте так настороженны.
 
 # Original: Oooh... Thy head... splishes and sploshes so.
-Дон Кихот: Ооо... Твоя голова... плещется и колышется так.
+Дон Кихот: Ооо... Ваша голова... плещется и колышется так.
 
 # Original: Under the night sky where the stars have gone out, I await the coming dawn.
 Рим: Под ночным небом, где погасли звезды, я жду наступления рассвета.
@@ -62,16 +62,16 @@
 Отис: Мы здесь не для того, чтобы представляться. Так что давай перейдем к делу.
 
 # Original: Explain yourself. You must have some reason for coming to this mad Mermaid-infested place.
-Отис: Объясни себя. У тебя должна быть причина прийти в это безумное место, кишащее Русалками.
+Отис: Оправдывайся. У тебя должна быть причина прийти в это безумное место, кишащее Русалками.
 
 # Original: And we didn't see any other boat than our own by the docks of this structure. So explain how you—
-Отис: И мы не видели никакой другой лодки, кроме нашей, у причалов этой структуры. Так объясни, как ты—
+Отис: И мы не видели никакой другой лодки, кроме нашей, у причалов этого сооружения. Так объясни, как ты—
 
 # Original: I have no need of ships should I wish to cross the ocean.
 Рим: Мне не нужны корабли, если я хочу пересечь океан.
 
 # Original: I am simply here to have a look at all of you.
-Рим: Я просто здесь, чтобы взглянуть на всех вас.
+Рим: Я здесь просто, чтобы взглянуть на всех вас.
 
 # Original: Wow~ We're really starting to put our name out there!
 Хон Лу: Вау~ Мы действительно начинаем распространять о себе молву!
@@ -89,13 +89,13 @@
 Грегор: А, разве не очевидно, что он здесь, чтобы помешать нам—
 
 # Original: Yes, indeed I am.
-Рим: Да, действительно.
+Рим: Да, действительно так.
 
 # Original: ... Man, I'm really off my game.
-Грегор: ... Блин, я совсем не в форме.
+Грегор: ... Мужик, я сегодня совсем не в форме.
 
 # Original: To seek the bough within this structure is to understand the futility of time.
-Рим: Искать ветвь внутри этой структуры — значит понять тщетность времени.
+Рим: Искать ветвь внутри этого сооружения — значит понять тщетность времени.
 
 # Original: I still can't sense the Golden Bough this deep into the Branch; there was truth to what he said. The Bough was no longer here.
 Рассказчик: Я все еще не могу почувствовать Золотую Ветвь так глубоко в Филиале; в его словах была правда. Ветви здесь больше не было.
@@ -119,7 +119,7 @@
 Рим: Кит, некогда обреченный вечно скитаться по Окраинам... теперь привлечен тем же сияющим, позолоченным зовом.
 
 # Original: You're saying that the Whale came from the Outskirts all the way to the Great Lake of U Corp. for the Golden Bough?
-Отис: Ты говоришь, что Кит пришел с Окраин аж до Великого Озера корпорации U ради Золотой Ветви?
+Отис: Ты говоришь, что Кит пришел с Окраин аж до Великого Озера Корпорации U ради Золотой Ветви?
 
 # Original: Quite. And swallowed this structure whole with that delicate Bough.
 Рим: Именно. И проглотил эту структуру целиком вместе с той хрупкой Ветвью.
@@ -128,13 +128,13 @@
 Рим: Аномалии отсюда также ушли с этим величественным, но хрупким Китом, привлеченные тем же самым зовом.
 
 # Original: What you seek is no longer to be found here.
-Рим: То, что вы ищете, больше нельзя найти здесь.
+Рим: То, что вы ищете, больше нельзя здесь найти.
 
 # Original: Excuse me, why are you sharing this information with us?
 Хон Лу: Простите, но почему вы делитесь этой информацией с нами?
 
 # Original: It matters not who lays claim upon the Golden Bough, or to what end they use it. It is no more than a mere fluttering of wings.
-Рим: Не имеет значения, кто предъявит права на Золотую Ветвь или для каких целей ее используют. Это не более чем взмах крыльев.
+Рим: Не имеет значения, кто предъявит права на Золотую Ветвь или для каких целей ее используют. Ведь это не более чем взмах крыльев.
 
 # Original: We simply seek to steer the echoes of that fluttering toward a better direction.
 Рим: Мы просто стремимся направить эхо этого взмаха в лучшем направлении.
@@ -143,10 +143,10 @@
 Рёшу: Мы? О ком ты говоришь?
 
 # Original: We are those who watch all, those who bide the time. Those who will be sovereigns of a Star.
-Рим: Мы те, кто наблюдает за всем, те, кто выжидает время. Те, кто станут властителями Звезды.
+Рим: Мы те, кто наблюдает за всем, те, кто выжидает подходящего момента. Те, кто станут властителями Звезды.
 
 # Original: Yet, we are those who cannot all embody the same Star.
-Рим: И все же, мы те, кто не может полностью воплотить одну и ту же Звезду.
+Рим: И все же, мы те, кои не смогут полностью воплотить одну и ту же Звезду.
 
 # Original: A red mark briefly flashed on his head.
 Рассказчик: На его голове на мгновение вспыхнула красная метка.
@@ -206,7 +206,7 @@
 Рим: Я уверен, что ты... хорошо осведомлен об этом сам.
 
 # Original: When does something end? When does something begin? The distinction is arbitrary and signifies naught.
-Рим: Когда что-то заканчивается? Когда что-то начинается? Это различие произвольно и ничего не значит.
+Рим: Когда что-то заканчивается? Когда что-то начинается? Это различие условно и ничего не значит.
 
 # Original: The shattering of the League was a beginning for Brother Young-ji as well.
 Рим: Разрушение Лиги было началом и для Брата Ён-джи.
@@ -266,7 +266,7 @@
 Рим: Это все.
 
 # Original: Stop right there... You know too much! Think we're about to let you leave, just like that?
-Отис: Стой на месте... Ты слишком много знаешь! Думаешь, мы позволим тебе уйти просто так?
+Отис: Остановись сейчас же... Ты слишком много знаешь! Думаешь, мы позволим тебе уйти просто так?
 
 # Original: Pity. Try as you might to hold me now, I flow betwixt your fingers.
 Рим: Жаль. Как бы вы ни пытались удержать меня сейчас, я протекаю сквозь ваши пальцы.

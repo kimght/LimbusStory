@@ -262,7 +262,7 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин бара\n\"У Ынбон\"",
+    "translation": "Хозяин Бара & Фритюра Ынбона",
     "model": "뒤틀린주인카운트1"
   },
   {
@@ -434,7 +434,7 @@
   },
   {
     "original": "Security Chief",
-    "translation": "Начальнк Охраны",
+    "translation": "Начальник Охраны",
     "model": "카지노경호원대장"
   },
   {
@@ -444,7 +444,7 @@
   },
   {
     "original": "Öufi Assoc. Director",
-    "translation": "Директор Ассоц. Оуфи",
+    "translation": "Директор Ассоц. Эуфи",
     "model": "외우피협회보스F"
   },
   {
@@ -462,7 +462,7 @@
   },
   {
     "original": "Fellow Inquisitor",
-    "translation": "Другой Инквизитор",
+    "translation": "Коллега-Инквизитор",
     "model": "N사심문관2"
   },
   {
@@ -497,17 +497,17 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин бара\n\"У Ынбон\"",
+    "translation": "Хозяин Бара & Фритюра Ынбона"",
     "model": "뒤틀린주인카운트2"
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин бара\n\"У Ынбон\"",
+    "translation": "Хозяин Бара & Фритюра Ынбона"",
     "model": "뒤틀린주인카운트3"
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин бара\n\"У Ынбон\"",
+    "translation": "Хозяин Бара & Фритюра Ынбона"",
     "model": "뒤틀린주인"
   },
   {
@@ -516,12 +516,12 @@
   },
   {
     "original": "Erlking Heathcliff",
-    "translation": "Эрлкёниг Хитклиф",
+    "translation": "Эрлкинг Хитклиф",
     "model": "마왕히스클리프2"
   },
   {
     "original": "Every Catherine",
-    "translation": "Каждая Катерина",
+    "translation": "Каждая Кэтрин",
     "model": "마왕캐서린"
   },
   {
@@ -656,7 +656,7 @@
   },
   {
     "original": "Terrified Civilian",
-    "translation": "Набуганный Гражданский"
+    "translation": "Напуганный Гражданский"
   },
   {
     "original": "Bowing Civilian",
@@ -766,7 +766,7 @@
   },
   {
     "original": "Scared Junior Butler",
-    "translation": "Набуганный Младший Дворецкий"
+    "translation": "Напуганный Младший Дворецкий"
   },
   {
     "original": "???",
@@ -800,15 +800,15 @@
   },
   {
     "original": "Mariachi Novato",
-    "translation": "Новичок"
+    "translation": "Марьячи Новичок"
   },
   {
     "original": "Mariachi Alegre",
-    "translation": "Марьячи навеселе"
+    "translation": "Марьячи Навеселе"
   },
   {
     "original": "Mariachi Vivaz",
-    "translation": "Жизнерадостный марьячи"
+    "translation": "Жизнерадостный Марьячи"
   },
   {
     "original": "You Want To Get Beat? Hurtily?",
@@ -825,7 +825,7 @@
   },
   {
     "original": "Bamboo-hatted Kim?",
-    "translation": "Ким Саткат",
+    "translation": "Ким в Бамбуковой Шляпе?",
     "model": "김삿갓"
   },
   {
@@ -931,17 +931,17 @@
   },
   {
     "original": "Mariachi Alegre",
-    "translation": "Марьячи навеселе",
+    "translation": "Марьячи Навеселе",
     "model": "흥겨운마리아치조직원"
   },
   {
     "original": "Mariachi Vivaz",
-    "translation": "Жизнерадостный марьячи",
+    "translation": "Жизнерадостный Марьячи",
     "model": "경쾌한마리아치조직원"
   },
   {
     "original": "Overdramatic Civilian",
-    "translation": "",
+    "translation": "Драматичный Гражданский",
     "model": "T사시민"
   },
   {
@@ -1020,7 +1020,7 @@
   },
   {
     "original": "Bodhisattva Chicken’s Manager",
-    "translation": "Хозяин \"Курочки-бодхисаттвы\"",
+    "translation": "Хозяин \"Курочки-Бодхисаттвы\"",
     "model": "보살치킨"
   },
   {
@@ -1029,12 +1029,12 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner?",
-    "translation": "Хозяин бара\n\"У Ынбон\"",
+    "translation": "Хозяин Бара & Фритюра Ынбона?"",
     "model": "뒤틀린주인"
   },
   {
     "original": "???",
-    "translation": "\"У Ынбон\"????",
+    "translation": "???",
     "model": "피쿼드호주민1"
   },
   {
@@ -1059,7 +1059,7 @@
   },
   {
     "original": "Eunbong’s Bar & Fryers Owner",
-    "translation": "Хозяин бара\n\"У Ынбон\"",
+    "translation": "Хозяин Бара & Фритюра Ынбона",
     "model": "은봉치킨"
   },
   {
@@ -1124,7 +1124,7 @@
   },
   {
     "original": "Erlking Heathcliff",
-    "translation": "Эрлкёниг Хитклиф",
+    "translation": "Эрлкинг Хитклиф",
     "model": "마왕히스클리프3"
   },
   {
@@ -1365,7 +1365,7 @@
   },
   {
     "original": "Dongrang, Who Denies All",
-    "translation": "Донранг, Отрицающий Всё",
+    "translation": "Донран, Отрицающий Всё",
     "model": "동랑"
   },
   {
@@ -1409,12 +1409,12 @@
   },
   {
     "original": "Bamboo-hatted Kim",
-    "translation": "Ким Саткат",
+    "translation": "Ким в Бамбуковой Шляпе",
     "model": "김삿갓"
   },
   {
     "original": "Bamboo-hatted Kim?",
-    "translation": "Ким Саткат?",
+    "translation": "Ким в Бамбуковой Шляпе?",
     "model": "최종김삿갓"
   },
   {
@@ -1424,7 +1424,7 @@
   },
   {
     "original": "Man with Red Eyes",
-    "translation": "Красноглазый человек",
+    "translation": "Мужчина с Красными Глазами",
     "model": "눈이붉은자"
   },
   {
@@ -1603,12 +1603,12 @@
   },
   {
     "original": "Corroded Inquisitor",
-    "translation": "Инквизитор в коррозии",
+    "translation": "Искаженный Инквизитор",
     "model": "침식직원1"
   },
   {
     "original": "Mr. Earnshaw",
-    "translation": "Мр. Эршоу",
+    "translation": "Мр. Эрншоу",
     "model": "언쇼"
   },
   {
@@ -1719,7 +1719,7 @@
   },
   {
     "original": "Time Tax Evader",
-    "translation": "Уклонябщийся от Временного Налога"
+    "translation": "Уклоняющийся от Временного Налога"
   },
   {
     "original": "The Pallid Whale",
@@ -1951,7 +1951,7 @@
   },
   {
     "original": "Dongrang, Who Denies All",
-    "translation": "Донранг, Отрицающий Всё",
+    "translation": "Донран, Отрицающий Всё",
     "model": "뒤틀린다친동랑"
   },
   {
@@ -2002,12 +2002,12 @@
   },
   {
     "original": "Blinded Pequod Town Villager",
-    "translation": "Слепой Житель Деревни Пекод",
+    "translation": "Слепой Житель Пекод Тауна",
     "model": "피쿼드호주민1"
   },
   {
     "original": "Gagged Pequod Town Villager",
-    "translation": "Житель Деревни Пекод с Кляпом",
+    "translation": "Молчаливый Житель Пекод Тауна",
     "model": "피쿼드호주민2"
   },
   {
@@ -2093,5 +2093,38 @@
     "original": "Don Quixote?",
     "translation": "Дон Кихот?",
     "model": "실루엣돈키호테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "호드"
+  },
+  {
+    "original": "Poludnitsa",
+    "translation": "Полудница"
+  },
+  {
+    "original": "Thief",
+    "translation": "Вор"
+  },
+  {
+    "original": "Fixer on the Podium",
+    "translation": "Корректировщик на трибуне"
+  },
+  {
+    "original": "Disgruntled Colleague",
+    "translation": "Недовольный коллега"
+  },
+  {
+    "original": "Whiny Colleague",
+    "translation": "Плаксивый коллега"
+  },
+  {
+    "original": "Terrified Citizen",
+    "translation": "Перепуганный гражданский"
+  },
+  {
+    "original": "Monster of the Tunnels",
+    "translation": "Монстр из туннелей"
   }
 ]

@@ -17,10 +17,10 @@
 Рассказчик: Родя редко проявляла такой страх и беспокойство.
 
 # Original: <That weird guy up there? He's been posing like that over there ever since this whole mess started.>
-Данте: <Этот странный парень наверху? Он стоит там в позе с самого начала этой заварушки.>
+Данте: <Этот странный парень наверху? Он там позирует с самого начала этой заварушки.>
 
 # Original: Posing? That's not what I'm talking about, Dante...
-Родион: В позе? Я не об этом говорю, Данте...
+Родион: Позирует? Я не об этом говорю, Данте...
 
 # Original: Don't you recognize his tattoos? He's...
 Родион: Ты не узнаёшь его татуировки? Он...
@@ -50,19 +50,19 @@
 Данте: <Что такое... Средний Палец?>
 
 # Original: <Just a mere mention, or a mere sight of them alone seems to... shock and intimidate a lot of people. Remember how they pretty much traumatized Pilot?...>
-Данте: <Одно лишь упоминание или вид их, кажется... шокирует и пугает многих людей. Помните, как они практически травмировали Пилота?...>
+Данте: <Одно лишь упоминание или их вид, кажется... шокирует и пугает многих людей. Вспоминая, как они изрядно травмировали Пилота?...>
 
 # Original: I heard that, the Fingers, which the Middle is a part of...
 Синклер: Я слышал, что Пальцы, частью которых является Средний Палец...
 
 # Original: ... are... on a completely different level from your average Syndicates. I've never met any of them face-to-face before, but...
-Синклер: ... находятся на совершенно другом уровне по сравнению с обычными Синдикатами. Я никогда не встречался с ними лично, но...
+Синклер: ... находятся на совершенно другом уровне по сравнению с обычными Синдикатами. Я никогда не встречался с ними лицом к лицу, но...
 
 # Original: No. People like us... We're never supposed to meet them like this.
 Родион: Нет. Такие люди, как мы... Мы никогда не должны встречаться с ними вот так.
 
 # Original: We're all going to be F.U.B.A.R.
-Рёшу: Мы все П.З.Д.Ц.
+Рёшу: Нам всем П.И.З.Д.А.
 
 # Original: Time for my one last cig. This is a good day to die, isn't it?
 Рёшу: Время для моей последней сигареты. Хороший день, чтобы умереть, не так ли?
@@ -83,10 +83,10 @@
 Данте: <Он носит солнцезащитные очки? В такую мрачную погоду...?>
 
 # Original: All hands. Prepare for battle.
-Отис: Всем приготовиться к бою.
+Отис: Всему экипажу. Приготовиться к бою.
 
 # Original: Executive Manager, this battle... this foe... will not be like any other we have encountered before. Under such dire circumstances, ensuring the safety of the commanding officer has to be our primary objective.
-Отис: Исполнительный менеджер, этот бой... этот враг... будет не похож ни на что из того, с чем мы сталкивались раньше. В таких тяжёлых обстоятельствах обеспечение безопасности командующего офицера должно быть нашей главной задачей.
+Отис: Исполнительный Менеджер, этот бой... этот враг... будет не похож ни на что из того, с чем мы сталкивались ранее. В таких тяжёлых обстоятельствах обеспечение безопасности командующего офицера должно быть нашей главной задачей.
 
 # Original: Please, find a safe place to hide. Make sure to stay out of his sight...
 Отис: Пожалуйста, найдите безопасное место, чтобы спрятаться. Убедитесь, что вы вне поля его зрения...
@@ -122,13 +122,13 @@
 Рикардо: Ваш налёт на мой личный сейф вынудил меня действовать!
 
 # Original: Hot damn... Unbelievable! What awful mind thinks of doin' something so heinous...?
-Младший Брат: Чёрт возьми... Невероятно! Какой ужасный разум додумался до чего-то столь гнусного...?
+Младший Брат: Чёрт возьми... Не могу поверить! Какой ужасный разум додумался до чего-то столь гнусного...?
 
 # Original: ... What? Ain't this about what happened back at the Twinhooks' club?
-Хитклиф: ... Что? Разве это не из-за того, что произошло в клубе Твинхуков?
+Хитклиф: ... Что? Разве это не из-за того, что произошло в клубе Двукрюков?
 
 # Original: A bulky, ancient book hung from his waist, secured in place by thick chains. He lifted it with his hand.
-Рассказчик: Массивная древняя книга висела на его поясе, закреплённая толстыми цепями. Он поднял её рукой.
+Рассказчик: Массивная древняя книга висела на его поясе, закреплённая толстыми цепями. Он поднял её своей рукой.
 
 # Original: So here on this day, I declare your sins, o guilty ones.
 Рикардо: Итак, сегодня я объявляю ваши грехи, о виновные.
@@ -143,13 +143,13 @@
 И Сан: ... Ваша подчинённая, она... в безопасности и невредима.
 
 # Original: W-wait, no! Stop—
-Грегор: П-подождите, нет! Остановитесь—
+Грегор: П-подождите, нет! Стойте—
 
 # Original: ......
 Рикардо: ......
 
 # Original: Smee? Who's that?
-Рикардо: Сми? Кто это?
+Рикардо: Сми? Это кто вообще?
 
 # Original: Oh, uh... whisper, whisper...
 Младший Брат: О, эм... шёпот, шёпот...
@@ -161,34 +161,34 @@
 И Сан: ... Моё вмешательство, возможно, было излишним.
 
 # Original: Well then... uh, okay. Let's see... With that sin piled on top...
-Рикардо: Ну что ж... ладно. Давайте посмотрим... С этим грехом в придачу...
+Рикардо: Ну что ж... э, ладно. Давайте посмотрим... С этим грехом в придачу...
 
 # Original: The Big Brother began flipping through the pages, taking time to wet his fingers...
 Рассказчик: Старший Брат начал перелистывать страницы, не забывая смачивать пальцы...
 
 # Original: That's 'The Book of Vengeance'. Once your name's written on that book... F.U.B.A.R is also written into your fate. Hilarious. So hilarious that I might go mad... Ha ha.
-Рёшу: Это "Книга Мести". Когда твоё имя записано в эту книгу... П.З.Д.Ц также вписан в твою судьбу. Забавно. Так забавно, что я могу сойти с ума... Ха-ха.
+Рёшу: Это "Книга Мести". Когда твоё имя записано в эту книгу... П.И.З.Д.А также вписана в твою судьбу. Забавно. Так забавно, что я могу сойти с ума... Ха-ха.
 
 # Original: Listen. We live in a binary world. The world that is luscious... and the world that is bristly. Are you aware of their differences?
-Рикардо: Слушайте. Мы живём в бинарном мире. Мир, который пышный... и мир, который колючий. Вы осознаёте их различия?
+Рикардо: Слушайте. Мы живём в двойственном мире. Мире, который так роскошен... и в мире, который так чёрств. Вы осознаёте их различия?
 
 # Original: Silence.
 Рассказчик: Тишина.
 
 # Original: The urge to blurt out "what the hell are you talking about?" was palpable, yet it was suppressed by an unknown, incredibly patient, force.
-Рассказчик: Желание выпалить "о чём, чёрт возьми, ты говоришь?" было ощутимым, но оно подавлялось неизвестной, невероятно терпеливой силой.
+Рассказчик: Желание выпалить "о чём, чёрт возьми, ты вообще говоришь?" было ощутимым, но оно подавлялось неизвестной, невероятно терпеливой силой.
 
 # Original: The luscious...
-Рикардо: Пышный...
+Рикардо: Роскошь...
 
 # Original: Is what flows and wraps gently around your hand when your fingers comb through it...
 Рикардо: Это то, что нежно обволакивает вашу руку, когда ваши пальцы проходят сквозь него...
 
 # Original: And the bristly... is what roughly stabs and pokes out between your fingers.
-Рикардо: А колючий... это то, что грубо колет и торчит между вашими пальцами.
+Рикардо: А чёрствость... это то, что грубо колет и торчит между вашими пальцами.
 
 # Original: Patience, perseverance, and a delicate pair of talented hands are crucial to becoming the most luscious that one can be.
-Рикардо: Терпение, настойчивость и деликатная пара талантливых рук критически важны для достижения максимальной пышности.
+Рикардо: Терпение, настойчивость и деликатная пара талантливых рук критически важны для достижения максимальной роскошности.
 
 # Original: <…….>
 Данте: <…….>
@@ -197,43 +197,43 @@
 Рикардо: Вы понимаете?
 
 # Original: Do you understand now, the incredible amount of effort that goes into maintaining this hair in the right shape and the perfect lusciousness?
-Рикардо: Теперь вы понимаете, какие невероятные усилия требуются для поддержания этих волос в правильной форме и идеальной пышности?
+Рикардо: Теперь вы понимаете, какие невероятные усилия требуются для поддержания этих волос в правильной форме и идеальной роскошности?
 
 # Original: There once was a coupon. A coupon to get the coveted personal hands-on hair care...
-Рикардо: Когда-то был купон. Купон на получение желанного персонального ухода за волосами...
+Рикардо: Когда-то был купон. Купон на получение столь желанного персонального ухода за волосами...
 
 # Original: ... from the director of a top-level luxury hair salon on one of the richest ports of U Corp., the Stingray Portship! Continuously, for FIVE HOURS!
-Рикардо: ... от директора элитного люксового салона на одном из самых богатых портов Корп. U, порта-корабля Скат! Непрерывно в течение ПЯТИ ЧАСОВ!
+Рикардо: ... от директора элитного люксового салона на одном из самых богатых портов Корпорации U, порта-корабля Скат! Непрерывно в течение ПЯТИ ЧАСОВ!
 
 # Original: It is said that, with that coupon, anyone could enter the world of the luscious! And anyone with a coupon had the privilege of an appointment-free visit!
-Рикардо: Говорят, что с этим купоном любой мог войти в мир пышности! И любой, у кого был купон, имел привилегию посещения без предварительной записи!
+Рикардо: Говорят, что с этим купоном любой мог бы войти в мир роскоши! И любой, у кого был купон, имел привилегию посещения без предварительной записи!
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: Oh.
-Хитклиф: О.
+Хитклиф: Ой.
 
 # Original: <So... we're being accused of taking his... coupons for a hair salon?>
-Данте: <Так... нас обвиняют в краже его... купонов на салон красоты?>
+Данте: <Так... нас обвиняют в краже его... купонов в салон красоты?>
 
 # Original: So when you called him a B**ch Brother...
-Синклер: Так когда ты назвала его С**чим Братом...
+Синклер: Так всё-таки ты назвала его С**чим Братом...
 
 # Original: I meant that he can be a real Bitch to get rid of once you piss him off.
-Рёшу: Я имела в виду, что от него чертовски трудно избавиться, когда ты его разозлишь.
+Рёшу: Я имела в виду, что от может быть настоящим Сучёнком от которого не избавиться, когда ты его разозлишь.
 
 # Original: Damnit... We should've steered clear of these bastards...
 Рёшу: Чёрт... Нам следовало держаться подальше от этих ублюдков...
 
 # Original: They were to be my first steps into the world of the luscious.
-Рикардо: Это должны были быть мои первые шаги в мир пышности.
+Рикардо: Это должны были быть мои первые шаги в мир роскоши.
 
 # Original: Yet, the coupon thief...
 Рикардо: Однако вор купонов...
 
 # Original: ... has left me stranded indefinitely in the world of the bristly...
-Рикардо: ... оставил меня на неопределённый срок в мире колючести...
+Рикардо: ... оставил меня на неопределённый срок в мире чёрствости...
 
 # Original: Behold. Behold the testament to your heinous sins.
 Рикардо: Узрите. Узрите свидетельство ваших гнусных грехов.
@@ -260,16 +260,16 @@
 Родион: Кто-нибудь, пожалуйста, заткните Хита, пока он не добавил ещё что-нибудь в эту книгу...
 
 # Original: Hup...
-Хитклиф: Хап...
+Хитклиф: Хах...
 
 # Original: <Heathcliff... Did you even know who, what, or where these coupons were for?>
 Данте: <Хитклиф... Ты вообще знал, для кого, для чего или откуда были эти купоны?>
 
 # Original: Of course not... Bloody hell...
-Хитклиф: Конечно, нет... Чёрт побери...
+Хитклиф: Конечно же, нет... Чёрт побери...
 
 # Original: Sob... We are the villains in this tale, then? Have we become naught but little thieving rascals? Wherefore hast thou committed such villainy, Heathcliff...
-Дон Кихот: Рыдаю... Значит, мы злодеи в этой истории? Неужели мы стали не более чем мелкими воришками? Почто ты совершил такое злодеяние, Хитклиф...
+Дон Кихот: Хнык... Значит, мы злодеи в этой истории? Неужели мы стали не более чем мелкими воришками? Ибо чего же ты совершил такое злодеяние, Хитклиф...
 
 # Original: Thou hast not once given a second look at a hair salon, yet why...
 Дон Кихот: Ты ни разу не взглянул на салон красоты, так почему же...
@@ -278,10 +278,10 @@
 Хитклиф: У-у меня есть свои причины...
 
 # Original: There is one good news, however...
-Мерсо: Есть, однако, одна хорошая новость...
+Мерсо: Однако, есть одна хорошая новость...
 
 # Original: The chance of your absolution, even if you were to return the coupons, is infinitesimal. Infinitely close to nil, in fact.
-Мерсо: Шанс вашего отпущения грехов, даже если вы вернёте купоны, бесконечно мал. Фактически, бесконечно близок к нулю.
+Мерсо: Шанс отпущения ваших грехов, даже если вы вернёте купоны, бесконечно мал. Фактически, бесконечно близок к нулю.
 
 # Original: Thus, keeping the coupons will make no difference to the outcome of this encounter, Heathcliff. They are now yours.
 Мерсо: Таким образом, сохранение купонов не изменит исход этой встречи, Хитклиф. Теперь они твои.
@@ -311,7 +311,7 @@
 Рикардо: Ага! Я нашёл.
 
 # Original: Complete and total extermination of all involved parties; execute the coupon thief and any and all of their affiliates. Effective immediately.
-Рикардо: Полное и тотальное уничтожение всех вовлечённых сторон; казнить вора купонов и всех его сообщников. Немедленно привести в исполнение.
+Рикардо: Полное и тотальное уничтожение всех вовлечённых сторон; казнь вора купонов и всех его сообщников. Немедленно привести в исполнение.
 
 # Original: Hmph. Truly, a B.B.
 Рёшу: Хмф. Воистину, С.Б.
@@ -323,7 +323,7 @@
 Рассказчик: Рёшу бросила на землю свою последнюю сигарету, выкуренную до фильтра...
 
 # Original: Unsatisfying... I'll get a proper luxury cig next time. ... If there is a next time.
-Рёшу: Неудовлетворительно... В следующий раз возьму настоящую роскошную сигарету. ... Если будет следующий раз.
+Рёшу: Неудовлетворительно... В следующий раз возьму настоящую роскошную сигарету. ... Если следующий раз наступит.
 
 # Original: And the Big Brother quite literally soared into the air.
-Рассказчик: И Старший Брат буквально взлетел в воздух.
+Рассказчик: После Старший Брат буквально взлетел в воздух.

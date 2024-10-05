@@ -5,13 +5,13 @@
 Данте: <... Пойдемте.>
 
 # Original: I wanted to correct him that the bouncers weren't letting us in, that they were either face-down in some ditch or fleeing, and we were just letting ourselves in...
-Рассказчик: Мне хотелось поправить его, что вышибалы нас не впускали, а либо лежали лицом вниз где-то в канаве, либо убегали, и мы просто сами себя впускали...
+Рассказчик: Мне хотелось поправить его, что вышибалы нас не впускали, а либо лежали лицом вниз где-то в канаве, либо убегали, и мы просто сами себя впустили...
 
 # Original: But I guess I wasn't in the mood.
 Рассказчик: Но, похоже, у меня не было настроения.
 
 # Original: Heyy... you here with anyone?
-Гость: Эй... ты здесь с кем-нибудь?
+Гость: Ээй... ты здесь с кем-нибудь?
 
 # Original: Yes. I have twelve companions with me.
 Фауст: Да. Со мной двенадцать спутников.
@@ -20,7 +20,7 @@
 Гость: Д-двенадцать...?
 
 # Original: There! Get 'em!
-Пираты Твинхук?: Вот они! Взять их!
+Пираты Двукрюки?: Вот они! Взять их!
 
 # Original: Aaah! S-sorry for disturbing you!
 Гость: Ааа! П-простите, что побеспокоил!

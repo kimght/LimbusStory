@@ -1,5 +1,5 @@
 # Original: So this is the second atrium the Captain mentioned...
-Отис: Значит, это второй атриум, о котором упоминала Капитан...
+Отис: Значит, это второе предсердие, о котором упоминала Капитан...
 
 # Original: <It's the center of the heart once we get past here, huh...>
 Данте: <Значит, за ним находится центр сердца, да...>
@@ -44,13 +44,13 @@
 Квиквег: Их путь. Куда они действительно хотят идти.
 
 # Original: You tell them. With your clock sound.
-Квиквег: Ты говоришь им. Своим звуком часов.
+Квиквег: Ты говоришь им. Звуком своих часов.
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: Dante. Something I wish.
-Квиквег: Данте. Кое-что я желаю.
+Квиквег: Данте. Я кое-чего желаю.
 
 # Original: I want... Ishmael to...
 Квиквег: Я хочу... чтобы Измаил...
