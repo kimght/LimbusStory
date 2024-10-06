@@ -3,14 +3,14 @@
     {
       "id": 0,
       "model": "마왕히스클리프2",
-      "teller": "Эрлкёниг Хитклиф",
+      "teller": "Эрлкинг Хитклиф",
       "title": "A Distant World",
       "content": "Где ты? Приди ко мне, Кэтрин!"
     },
     {
       "id": 1,
       "model": "마왕캐서린",
-      "teller": "Каждая Катерина",
+      "teller": "Каждая Кэтрин",
       "title": "A Certain Every World",
       "content": "Хитклиф!"
     }
