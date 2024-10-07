@@ -2,13 +2,13 @@
 Данте: <Кажется, я слышу какой-то странный шум оттуда.>
 
 # Original: Heh. A rather high-pitched S.O.S. It's always a good indicator of wonderful happenings.
-Рёшу: Хех. Довольно пронзительный сигнал бедствия. Всегда хороший признак чудесных событий.
+Рёшу: Хех. Довольно пронзительные сигналы И.З.К. Это всегда хороший признак чудесных событий.
 
 # Original: Can you not giggle about sounds of screaming, please...?!
-Синклер: Не могли бы вы не хихикать над звуками криков, пожалуйста...?!
+Синклер: Не могли бы вы не хихикать над истошными звуками криков, пожалуйста...?!
 
 # Original: I am familiar with this tone. The decibel range of this screaming is an exact match with Don Quixote's.
-Мерсо: Я знаком с этим тоном. Диапазон децибел этого крика точно совпадает с голосом Дон Кихота.
+Мерсо: Я знаком с этим тоном. Диапазон децибел этого крика точно совпадает с голосом Дон Кихот.
 
 # Original: Wait. We have yet to conduct a threat assessment of the combat area. That area appears to be a closed-off space, which means—
 Отис: Подождите. Мы еще не провели оценку угрозы в боевой зоне. Эта область кажется замкнутым пространством, что означает—
@@ -26,7 +26,7 @@
 Данте: <Как же чертовски раздражает. Хватит ныть, берите свои инструменты и за работу!>
 
 # Original: Heh, that was pretty close.
-Измаил: Хех, довольно близко.
+Измаил: Хех, это было довольно похоже.
 
 # Original: Ishmael soon blasted the door open with a powerful kick.
 Рассказчик: Вскоре Измаил мощным ударом ноги выбил дверь.
@@ -110,7 +110,7 @@
 И Сан: Я разрубил ваши путы. Спускайтесь!
 
 # Original: Look. I'm not the type to wear my heart on my sleeve. But after you lot saved me from getting turned into a pocket watch, I have to say it. Tha—
-Хитклиф: Слушай. Я не из тех, кто носит сердце на рукаве. Но после того, как вы, ребята, спасли меня от превращения в карманные часы, я должен сказать это. Спа—
+Хитклиф: Слушай. Я не из тех, кто скрывает свои чувства. Но после того, как вы, ребята, спасли меня от превращения в карманные часы, я должен сказать это. Спа—
 
 # Original: You absolute idiots! You two had ONE job, to remain by the Executive Manager's side! Yet you let yourselves be captured like this?!
 Отис: Вы, абсолютные идиоты! У вас была ОДНА задача — оставаться рядом с Исполнительным Менеджером! И вы позволили себя так захватить?!
@@ -119,7 +119,7 @@
 Хитклиф: ... Знаете что? Забудьте.
 
 # Original: Right. Get a hold of yourself, you two.
-Измаил: Ладно. Возьмите себя в руки, вы двое.
+Измаил: Ладно. Возьмите себя в руки, вы оба.
 
 # Original: Manager... what now?
 Измаил: Менеджер... что теперь?
