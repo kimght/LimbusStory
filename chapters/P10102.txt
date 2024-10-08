@@ -2,7 +2,7 @@
 И Сан: Твой стиль боя, уверен, вдохновлён «Цвай».
 
 # Original: …Oh, yeah, that’s right! I’ve always struggled to best you in combat, so… I tried turtling up a bit this time.
-Рассказчик: …О, да! Ты всегда берёшь надо мной верх в бою… Поэтому я решил, что буду использовать больше защитных приёмов.
+Рассказчик: …О, да, ты прав! Ты всегда берёшь надо мной верх в бою… Поэтому я решил, что буду использовать больше защитных приёмов.
 
 # Original: While the idea on its own is commendable… would you remind me of the name of the weapon you’re holding?
 И Сан: Сам замысел недурен, но… напомни, каково название оружия, что ты используешь?
