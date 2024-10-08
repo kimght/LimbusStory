@@ -14,34 +14,34 @@
 Данте: <Мм... Мне жаль этих двоих.>
 
 # Original: ... I am ready... Commence, Lady Outis...
-Дон Кихот: ... Я готова... Приступайте, леди Отис...
+Дон Кихот: ... Я готова... Приступайте, Леди Отис...
 
 # Original: You absolute buffoons... How did you ever think that this was going to turn out okay?
 Отис: Вы абсолютные болваны... Как вы вообще могли подумать, что это закончится хорошо?
 
 # Original: Are you even aware of the risks Executive Manager took to get here? How worried they were about you two?!
-Отис: Вы хоть понимаете, какой риск взял на себя Исполнительный Менеджер, чтобы попасть сюда? Как они волновались за вас двоих?!
+Отис: Вы хоть понимаете, какой риск взял на себя Исполнительный Менеджер, чтобы попасть сюда? Как он волновался за вас двоих?!
 
 # Original: Well, actually, Clockhead was in on it from the sta—
-Хитклиф: Ну, вообще-то, Часоголовый был в курсе с самого нача—
+Хитклиф: Ну, на самом деле, Часоголовый был в курсе с самого на—
 
 # Original: Silence!
 Отис: Молчать!
 
 # Original: Do not refer to the Executive Manager with such derogatory language! Insolent fool!
-Отис: Не смей обращаться к Исполнительному Менеджеру с такими оскорбительными словами! Наглый дурак!
+Отис: Не смей обращаться к Исполнительному Менеджеру с такими оскорбительными выражениями! Наглый дурак!
 
 # Original: Heeaugh! 'Twas mine fault! 'Twas mine fault!
 Дон Кихот: Ох! Сие моя вина! Сие моя вина!
 
 # Original: My mother used to scold me like this in my youth.
-Мерсо: Моя мать ругала меня так же в юности.
+Мерсо: Моя мать так же ругала меня в юности.
 
 # Original: Outis did not seem to slow down at all with her stern scoldings...
-Рассказчик: Отис, похоже, совсем не собиралась замедляться в своих суровых упреках...
+Рассказчик: Отис, похоже, совсем не собиралась успокаиваться в своих суровых упреках...
 
 # Original: And the pair fell completely silent, their heads hung low.
-Рассказчик: А эта парочка полностью замолчала, опустив головы.
+Рассказчик: А эта парочка погрузилась в полное затишье, опустив головы.
 
 # Original: ... I decided to wander away from this scene. This guilty conscience was too much for me to bear.
 Рассказчик: ... Я решил отойти от этой сцены. Это чувство вины было слишком тяжелым для меня.
@@ -50,16 +50,16 @@
 Данте: <... Крайон в порядке...?>
 
 # Original: Yes. She merely lost her consciousness from excess psychological shock.
-Фауст: Да. Он просто потерял сознание от чрезмерного психологического шока.
+Фауст: Да. Она просто потеряла сознание от чрезмерного психологического шока.
 
 # Original: How did you find yourself at a place such as this?
-И Сан: Как ты оказался в таком месте?
+И Сан: Как ты оказалась в месте подобном этому?
 
 # Original: You are... a human, right? And we're really in the Outskirts?
 Измаил: Ты... человек, верно? И мы действительно в Окраинах?
 
 # Original: Crayon initially appeared somewhat taken back from the deluge of questions. But she soon began to open up.
-Рассказчик: Крайон поначалу казался немного ошеломленным потоком вопросов. Но вскоре начал открываться.
+Рассказчик: Крайон поначалу казалась немного ошеломленной потоком вопросов. Но вскоре начала открываться.
 
 # Original: So... you're really from the City.
 Крайон: Значит... вы действительно из Города.
@@ -86,16 +86,16 @@
 Крайон: Да... и они напали на нас, когда Охотников не было. Поэтому...
 
 # Original: We normally don't get raided by them around this time of year, so I thought we were safe... But they suddenly attacked us, rushing in on their sleighs...
-Крайон: Обычно они не нападают на нас в это время года, поэтому я думал, что мы в безопасности... Но они внезапно атаковали, ворвавшись на своих санях...
+Крайон: Обычно они не нападают на нас в это время года, поэтому я думала, что мы в безопасности... Но они внезапно атаковали, ворвавшись на своих санях...
 
 # Original: Some of us tried to fight, but we didn't stand a chance. And... everyone that they killed... got shoved into the sacks on that sleigh.
 Крайон: Некоторые из нас пытались сражаться, но у нас не было шансов. И... всех, кого они убили... запихнули в мешки на тех санях.
 
 # Original: I passed out from fright... and they thought I was dead, too. I got shoved into the sacks like the rest of the villagers.
-Крайон: Я потерял сознание от страха... и они подумали, что я тоже мертв. Меня запихнули в мешки, как и остальных жителей деревни.
+Крайон: Я потеряла сознание от страха... и они подумали, что я тоже мертва. Меня запихнули в мешки, как и остальных жителей деревни.
 
 # Original: Oh... We forced you to talk about something that couldn't have been easy to go through. I'm sorry.
-Грегор: О... Мы заставили тебя говорить о том, через что было нелегко пройти. Прости.
+Грегор: Ох... Мы заставили тебя говорить о том, через что было нелегко пройти. Прости.
 
 # Original: N-no, it's okay... Can I... ask things, too?
 Крайон: Н-нет, все в порядке... Можно... я тоже кое о чем спрошу?
@@ -104,7 +104,7 @@
 Грегор: О чем угодно.
 
 # Original: Is it right that crayon boxes in the City have 48 different colors? And they have gold and silver colored crayons, too?
-Крайон: Это правда, что в коробках с карандашами в Городе 48 разных цветов? И у них есть золотые и серебряные карандаши?
+Крайон: Это правда, что в коробках с карандашами в Городе имеется 48 разных цветов? И у них есть золотые и серебряные карандаши?
 
 # Original: Um... Probably...
 Грегор: Эм... Наверное...
@@ -119,22 +119,22 @@
 Родион: Хм... На самом деле, на это довольно сложно ответить.
 
 # Original: Sometimes, I'd climb a high hill to look at the City. I always saw pretty, colorful lights from up there... So colorful that I don't have enough colors in my crayon box to draw them all.
-Крайон: Иногда я забирался на высокий холм, чтобы посмотреть на Город. Я всегда видел оттуда красивые, разноцветные огни... Настолько красочные, что у меня не хватает цветов в коробке карандашей, чтобы нарисовать их все.
+Крайон: Иногда я забиралась на высокий холм, чтобы посмотреть на Город. Я всегда видела оттуда красивые, разноцветные огни... Настолько красочные, что у меня не хватает цветов в коробке карандашей, чтобы нарисовать их все.
 
 # Original: I wish I could live in the City. If I lived there, I'd never have to worry about getting attacked by monsters. I could live happily with all my neighbors...
-Крайон: Я бы хотел жить в Городе. Если бы я жил там, мне бы никогда не пришлось беспокоиться о нападении монстров. Я мог бы счастливо жить со всеми соседями...
+Крайон: Я хотела бы жить в Городе. Если бы я жила там, мне бы никогда не пришлось беспокоиться о нападении монстров. Я могла бы счастливо жить со всеми своими соседями...
 
 # Original: ... You've really never been to the City, huh.
-Родион: ... Ты действительно никогда не был в Городе, да?
+Родион: ... Ты действительно никогда не была в Городе, да?
 
 # Original: S.S.E.
-Рёшу: Т.И.В.
+Рёшу: Т.Т.Ж.
 
 # Original: I'm sorry...?
 Крайон: Простите...?
 
 # Original: Same story everywhere. Doesn't matter where you are. Death always stalks us.
-Рёшу: Та же история везде. Неважно, где ты. Смерть всегда преследует нас.
+Рёшу: Там тоже самое. Неважно, где ты. Смерть всегда преследует нас.
 
 # Original: Woah... that was so cool! Can you say that again?
 Крайон: Вау... это было так круто! Можешь сказать это еще раз?
@@ -158,28 +158,28 @@
 Крайон: Лучшего Охотника Деревни Облаков... Если бы он был в деревне, гномы бы не...
 
 # Original: It appears that, in the Outskirts, there are 'Hunters' who specialize in hunting monsters. Akin to Whalers of the Great Lake, that is.
-И Сан: Похоже, что в Окраинах есть "Охотники", специализирующиеся на охоте на монстров. Подобно Китобоям Великого Озера.
+И Сан: Похоже, что в Окраинах есть "Охотники", специализирующиеся в охоте на монстров. Подобно Китобоям Великого Озера.
 
 # Original: But... Wait.
 Родион: Но... Подождите.
 
 # Original: So if they're kidnapping and killing humans for these gifts...
-Родион: Так если они похищают и убивают людей для этих подарков...
+Родион: Так если они похищают и убивают людей ради этих подарков...
 
 # Original: ... Who are these gifts for?
-Родион: ... Для кого эти подарки?
+Родион: ... Для кого эти подарки вообще?
 
 # Original: HO! HO! HO!
 Сантата: ХО! ХО! ХО!
 
 # Original: Of course, the gifts are for our poor and kind neighbors who do not cry!
-Сантата: Конечно, подарки для наших бедных и добрых соседей, которые не плачут!
+Сантата: Конечно же, подарки для наших бедных и добрых соседей, которые не плачут!
 
 # Original: Executive Manager! Retreat!
 Отис: Исполнительный Менеджер! Отступаем!
 
 # Original: I don't know when it happened... but a large shadow was looming over us.
-Рассказчик: Я не знаю, когда это произошло... но над нами нависла большая тень.
+Рассказчик: Я не знаю, когда это произошло... но над нами нависла огромная тень.
 
 # Original: Augh! What is that thing?!
 Родион: Ох! Что это за штука?!
@@ -188,7 +188,7 @@
 Сантата: Я Сантата, приносящий подарки нашим соседям! ХО! ХО! ХО!
 
 # Original: The guffawing giant, garbed in red, carried a massive gift sack on his shoulder.
-Рассказчик: Гогочущий великан, одетый в красное, нес на плече огромный мешок с подарками.
+Рассказчик: Гогочущий великан, одетый во все красное, нес на плече огромный мешок с подарками.
 
 # Original: It was definitely not a human.
 Рассказчик: Он определенно не был человеком.
@@ -197,25 +197,25 @@
 Хитклиф: Да! Это тот гад! Тот самый босс!
 
 # Original: Lo! The crimson garb! That is the crimson garb that I spoke of!
-Дон Кихот: Узрите! Багряные одежды! Сие те самые багряные одежды, о коих я говорила!
+Дон Кихот: Узрите! Багряные одеяния! Сие те самые багряные одеяния, о коих я говорила!
 
 # Original: The pair immediately jumped up from their knees and began shouting in unison.
 Рассказчик: Эта парочка немедленно вскочила с колен и начала кричать в унисон.
 
 # Original: That's the Red Sack's outfit? Oi, then he's already...
-Хитклиф: Это костюм Красного Мешка? Эй, значит, он уже...
+Хитклиф: Это же костюм Красного Мешка? Эй, значит, он уже...
 
 # Original: N-no! Not the Reindeer-man, too!
-Дон Кихот: Н-нет! Только не Человек-Олень тоже!
+Дон Кихот: Н-нет! Только не Человек-Оленя тоже!
 
 # Original: Shut it! Cut the useless chatter, for once...
 Отис: Заткнитесь! Хоть раз прекратите бесполезную болтовню...
 
 # Original: After silencing the pair with a short, stern command, Outis approached me and spoke in a low voice.
-Рассказчик: Заставив парочку замолчать коротким, строгим приказом, Отис подошла ко мне и заговорила тихим голосом.
+Рассказчик: Заставив парочку замолчать коротким, строгим приказом, Отис подошла ко мне и тихим голосом заговорила.
 
 # Original: Executive Manager. Since he appears to be of an intelligent species, I will attempt to parlay with it. ... But we best prepare for battle in case the talks fall through.
-Отис: Исполнительный Менеджер. Поскольку он, по-видимому, принадлежит к разумному виду, я попытаюсь вести с ним переговоры. ... Но нам лучше подготовиться к бою на случай, если переговоры сорвутся.
+Отис: Исполнительный Менеджер. Поскольку он, по-видимому, принадлежит к разумному виду, я попытаюсь провести с ним переговоры. ... Но нам лучше подготовиться к бою на случай, если переговоры сорвутся.
 
 # Original: <... Yeah, that's a good idea.>
 Данте: <... Да, это хорошая идея.>
@@ -227,7 +227,7 @@
 Сантата: ХО! ХО! ХО! Но нам ведь отказано во входе в Город, не так ли?
 
 # Original: Is that big lump of meat a gnome, too...?
-Родион: Эта большая куча мяса тоже гном...?
+Родион: Эта большая куча мяса, что тоже гном...?
 
 # Original: I happened to overhear the gnomes during our time in captivity... They call their master 'Beard Giant', which I believe is not a gnome.
 Дон Кихот: Я случайно подслушала гномов во время нашего пленения... Они называют своего хозяина "Бородатый Великан", что, полагаю, не является гномом.
@@ -239,7 +239,7 @@
 Родион: Данте, это ведь не Аномалия, верно?
 
 # Original: <No. That's not an Abnormality or a Distortion. I'd say it's closer to the Whales...>
-Данте: <Нет. Это не Аномалия и не Искажение. Я бы сказал, это ближе к Китам...>
+Данте: <Нет. Это не Аномалия и не Искажение. Я бы сказал, что это ближе к Китам...>
 
 # Original: HO! HO! Do you yearn for gifts, too? Yet your kind already owns all there is to own!
 Сантата: ХО! ХО! Вы тоже жаждете подарков? Но у вашего рода уже есть всё, чем можно владеть!
@@ -254,7 +254,7 @@
 Мерсо: Из чистой доброты вашего сердца.
 
 # Original: Here, where all those who have been marginalized and exiled by humans gather and wallow...
-Сантата: Здесь, где собираются и прозябают все те, кто был маргинализирован и изгнан людьми...
+Сантата: Здесь, где собираются и прозябают все те, кто был маргинализированы и изгнаны людьми...
 
 # Original: ... we pour our infinite hatred and care into packaging these gifts. HO! HO! HO!
 Сантата: ... мы вкладываем нашу бесконечную ненависть и заботу в упаковку этих подарков. ХО! ХО! ХО!
@@ -263,4 +263,4 @@
 Отис: Довольно многословный способ сказать "Я отказываюсь вести переговоры".
 
 # Original: HO! HO! HO! Why don't you come here and join us, become joy to those who need it?
-Сантата: ХО! ХО! ХО! Почему бы вам не прийти сюда и не присоединиться к нам, стать радостью для тех, кто в ней нуждается?
+Сантата: ХО! ХО! ХО! Почему бы вам не подойти сюда и не присоединиться к нам, стать радостью для тех, кто в ней нуждается?
