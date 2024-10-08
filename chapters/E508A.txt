@@ -20,7 +20,7 @@
 И Сан: В воздухе витает аромат невыносимо зловонных отходов...
 
 # Original: Some Sinners drop to the floor, while the others gag profusely. Clearly, this was a rather painful experience for all.
-Рассказчик: Некоторые Грешники падают на пол, в то время как остальные сильно кашляют. Очевидно, это было довольно болезненное испытание для всех.
+Рассказчик: Некоторые Грешники падают на пол, в то время как остальные сильно кашляют. Очевидно, это был довольно болезненный опыт для всех.
 
 # Original: This gas does not appear to be toxic. However, its scent seems to inspire... an extreme level of discomfort in people.
 Фауст: Этот газ, по-видимому, не токсичен. Однако его запах, кажется, вызывает... крайний дискомфорт у людей.
@@ -32,7 +32,7 @@
 Измаил: Правильной процедуры?
 
 # Original: Immediately before death, a northern giant's body fills with noxious gas before exploding in a rain of acid.
-Домино: Непосредственно перед смертью тело северного гиганта наполняется ядовитым газом, прежде чем взорваться дождем кислоты.
+Домино: Непосредственно перед смертью тело северного гиганта наполняется ядовитым газом, прежде чем взорваться дождём из кислоты.
 
 # Original: The man who staked Santata's gut explained as he approached us.
 Рассказчик: Человек, который вонзил кол в живот Сантаты, объяснял, подходя к нам.
