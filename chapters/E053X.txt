@@ -11,19 +11,19 @@
 И Сан: Мои глаза наполняются слезами облегчения...
 
 # Original: Haah... If they ever let us go on a vacation, remind me to preclude any seafaring options. I think I've had enough of the Great Lake for one lifetime...
-Грегор: Хаах... Если нам когда-нибудь позволят взять отпуск, напомните мне исключить любые морские варианты. Думаю, с меня хватит Великого Озера на одну жизнь...
+Грегор: Хаах... Если нам когда-нибудь позволят взять отпуск, напомните мне исключить любые морские варианты. Думаю, мне хватит Великого Озера на всю оставшуюся жизнь...
 
 # Original: Some Sinners began to visibly relax with the realization that the long Lake voyage had finally come to an end. Others rushed to the windows as if they were expecting anything to have changed while we were away from the shores.
 Рассказчик: Некоторые Грешники начали заметно расслабляться, осознав, что долгое путешествие по Озеру наконец-то подошло к концу. Другие бросились к окнам, словно ожидая, что что-то изменилось, пока мы были вдали от берегов.
 
 # Original: You guys are being so overdramatic. Back in my sailor days, setting sail in the Great Lake meant that you'd have to spend—
-Измаил: Ребята, вы так драматизируете. В мои моряцкие деньки выход в плавание по Великому Озеру означал, что придётся провести—
+Измаил: Ребята, вы так драматизируете. В мои моряцкие деньки, отправиться в плавание по Великому Озеру означало, что придётся провести—
 
 # Original: —at least three years at the treacherous sea, out of any landsmen's sight. Right. I think I've heard that exact sentence a few dozen times by now. So...
 Хитклиф: —как минимум три года в предательском море, вне поля зрения сухопутных крыс. Верно. Кажется, я слышал эту фразу уже несколько десятков раз. Так что...
 
 # Original: ... Agreed. You have made your point, Ishmael. I found it difficult to tolerate when you began sharing that story for the fourth time.
-Отис: ... Согласна. Ты донёс свою мысль, Измаил. Мне стало трудно терпеть, когда ты начал рассказывать эту историю в четвёртый раз.
+Отис: ... Согласна. Ты донесла свою мысль, Измаил. Мне стало трудно терпеть это, когда ты начала рассказывать эту историю в четвёртый раз.
 
 # Original: Khm... Y-you guys were the ones who complained that no one had any fun stories to tell.
 Измаил: Кхм... В-вы же сами жаловались, что ни у кого нет интересных историй.
@@ -59,7 +59,7 @@
 Рассказчик: ... и понял, что каюты трансформировались обратно в форму автобуса, к которому мы так привыкли.
 
 # Original: Charon hit the transform button. Click clack.
-Харон: Харон нажал кнопку трансформации. Клик-клак.
+Харон: Харон нажала кнопку трансформации. Клик-клак.
 
 # Original: Charon... can you give us a warning for once? At least a turn signal or something? Please!
 Родион: Харон... может, хоть раз предупредишь? Хотя бы включи поворотник или что-нибудь! Пожалуйста!
@@ -68,7 +68,7 @@
 Грегор: Да, Харон. Пожалуйста...
 
 # Original: Busboat don't have turn signals. Too bad, Bug Guy.
-Харон: У лодкобуса нет поворотников. Жаль, Жук-парень.
+Харон: У лодкобуса нет поворотников. Жаль, Дяденька Жук.
 
 # Original: Haaaaah...
 Грегор: Хааааах...
@@ -77,13 +77,13 @@
 Данте: <Я думал, что для обратной трансформации в автобус потребуется какая-то сложная процедура... Похоже, это происходит просто по нажатию кнопки, да?>
 
 # Original: I thought we'd have to stop by a workshop or a boatworks office again...
-Синклер: Я думал, нам придётся заехать в мастерскую или офис лодочных работ...
+Синклер: Я думал, нам опять придётся заехать в мастерскую или офис Верфи...
 
 # Original: One of many functions of Mephistopheles is that it can remember every form or property it once possessed.
 Фауст: Одна из многих функций Мефистофеля заключается в том, что он может запоминать каждую форму или свойство, которыми когда-либо обладал.
 
 # Original: Therefore, it follows that once it takes a certain form, it can revert to it or any of its previous forms at any time.
-Фауст: Следовательно, как только он принимает определённую форму, он может вернуться к ней или любой из своих предыдущих форм в любое время.
+Фауст: Следовательно, как только он принимает определённую форму, он может вернуться к ней или любой другой из своих предыдущих форм в любое время.
 
 # Original: I-I see...
 Синклер: П-понятно...
@@ -92,31 +92,31 @@
 Хон Лу: В любом случае~ Мы наконец-то вернулись на сушу! Разве ты не рад, Хитклиф? Ты так этого ждал!
 
 # Original: Huh? OH! Ohh...
-Хитклиф: А? О! Ооо...
+Хитклиф: А-а? Ох! Ооо...
 
 # Original: Heathcliff's face lit up for a brief second before a vortex of complicated feelings overcame him.
 Рассказчик: Лицо Хитклифа на мгновение просветлело, прежде чем его охватил вихрь сложных чувств.
 
 # Original: Then... Oi, vroom-vroom lass. Are we at... T Corp.?
-Хитклиф: Тогда... Эй, девчонка-врум-врум. Мы в... Корпорации T?
+Хитклиф: Тогда... Эй, "врум-врум" девчуля. Мы уже в... Корпорации T?
 
 # Original: Heathcliff was talking to Charon, but she did not reply. Maybe it was because he didn't call her by her name—or maybe it was that she didn't really know where we were either. She always drives wherever her whims take her, after all.
-Рассказчик: Хитклиф обращался к Харон, но она не ответила. Может быть, потому что он не назвал её по имени — или, может быть, потому что она сама не знала, где мы находимся. В конце концов, она всегда ведёт туда, куда ей вздумается.
+Рассказчик: Хитклиф обращался к Харон, но она не отвечала. Может быть, потому что он не назвал её по имени — или, может быть, потому что она сама не знала, где мы сейчас находимся. В конце концов, она всегда ведёт туда, куда ей вздумается.
 
 # Original: This monochromatic, grey hue is reminiscent of that place, indeed. Yet... there is a disparity.
-И Сан: Этот монохромный, серый оттенок действительно напоминает то место. Однако... есть некое несоответствие.
+И Сан: Этот монохромный, серый оттенок действительно напоминает то место. Однако... имеется некое несоответствие.
 
 # Original: Hm... Yeah? I suppose it was of a different monochromatic hue than whatever this is.
 Хитклиф: Хм... Да? Полагаю, там был другой монохромный оттенок, чем здесь.
 
 # Original: T Corp... District 20... I've never been there myself, but I've tangentially experienced it via Yi Sang's Fathoms of Ego.
-Рассказчик: Корпорация T... Район 20... Я сам там никогда не был, но косвенно испытал его через Глубины Эго И Сана.
+Рассказчик: Корпорация T... 20 Район... Я сам там никогда не был, но косвенно испытал его через Глубины Эго И Сана.
 
 # Original: Yeah... that place was supposed to take our colors away, wasn't it?
 Рассказчик: Да... это место должно было забрать наши цвета, не так ли?
 
 # Original: Have some patience, Heathcliff. We are still in the Backstreets.
-Вергилий: Потерпи, Хитклиф. Мы всё ещё в Подворотнях.
+Вергилий: Имей терпение, Хитклиф. Мы всё ещё находимся в Подворотнях.
 
 # Original: We are getting quite close to the place you know so well... aren't we?
 Вергилий: Мы приближаемся к месту, которое ты так хорошо знаешь... не так ли?
@@ -128,40 +128,40 @@
 Данте: <Вергилий, у тебя не было причин так его провоцировать...>
 
 # Original: Is there a reason we're going through the Backstreets instead of heading straight to the Nest?
-Измаил: Есть причина, почему мы идём через Подворотни, а не направляемся прямо в Гнездо?
+Измаил: Есть ли причина, почему мы идём через Подворотни, а не направляемся прямо в само Гнездо?
 
 # Original: <Huh, you're right. Why are we going through the Backstreets anyway?>
-Данте: <А, ты прав. Почему мы вообще идём через Подворотни?>
+Данте: <Ага, ты права. Почему мы вообще идём через Подворотни?>
 
 # Original: I am curious as well. The Backstreets roads are rife with danger and winding, roundabout paths. This carries an unnecessary risk, does it not?
-Отис: Мне тоже любопытно. Дороги в Подворотнях полны опасностей и извилистых, окольных путей. Разве это не несёт ненужный риск?
+Отис: Мне тоже любопытно. Дороги в Подворотнях полны опасностей и извилистых, окольных путей. Это ведь несёт не нужный нам риск, не так ли?
 
 # Original: I would also like to highlight that the immigration process is significantly more lenient when one is migrating from a Nest to a Nest than it is when migrating from the Backstreets to a Nest territory.
 Мерсо: Я также хотел бы отметить, что иммиграционный процесс значительно менее строгий при переезде из одного Гнезда в другое, чем при переезде из Подворотней на территорию Гнезда.
 
 # Original: Ishmael's question to Vergilius had opened a whole new floodgate of questions from other Sinners.
-Рассказчик: Вопрос Измаила к Вергилию открыл целый поток новых вопросов от других Грешников.
+Рассказчик: Вопрос Измаил к Вергилию открыл целый поток новых вопросов от других Грешников.
 
 # Original: Hm... Looks like you have all grown rather chatty since we first met.
 Вергилий: Хм... Похоже, вы все стали довольно разговорчивыми с момента нашей первой встречи.
 
 # Original: You must know that it won't change how I choose to answer your questions. Ask me all you want, but I will not spare the time to give you a comprehensible explanation for your convenience.
-Вергилий: Вы должны знать, что это не изменит того, как я выбираю отвечать на ваши вопросы. Спрашивайте сколько угодно, но я не стану тратить время на понятные объяснения ради вашего удобства.
+Вергилий: Вы должны знать, что это не изменит того, как я буду отвечать на ваши вопросы. Спрашивайте сколько угодно, но я не стану тратить время на понятные объяснения ради вашего удобства.
 
 # Original: What's wrong with asking for some explanations if we're being led through a questionable path?
 Измаил: Что плохого в том, чтобы попросить объяснений, если нас ведут по сомнительному пути?
 
 # Original: It is your job as our guide to tell us where to go, isn't it?
-Измаил: Разве не твоя работа как нашего проводника говорить нам, куда идти?
+Измаил: Разве это не твоя работа как нашего проводника говорить нам, куда идти?
 
 # Original: ... Hm.
 Вергилий: ... Хм.
 
 # Original: Don't tell me that we haven't been authorized to enter T Corp.'s Nest yet? And here I thought Limbus Company was a proper business.
-Измаил: Не говори мне, что нам ещё не разрешили войти в Гнездо Корпорации T? А я-то думал, что Компания Лимбус — серьёзный бизнес.
+Измаил: Не говорите мне, что нам ещё не разрешили войти в Гнездо Корпорации T? А я-то думала, что Компания Лимбус — серьёзный бизнес.
 
 # Original: Sure, it's relatively new. But I thought we had a rather 'substantial backing'?
-Измаил: Конечно, она относительно новая. Но я думал, у нас есть довольно "существенная поддержка"?
+Измаил: Конечно, она относительно новая. Но я думала, у нас есть довольно "существенная поддержка"?
 
 # Original: We can receive proper authorization to enter most Nests should we request it.
 Фауст: Мы можем получить надлежащее разрешение на вход в большинство Гнёзд, если попросим об этом.
@@ -179,22 +179,22 @@
 Вергилий: Моя работа как вашего проводника — планировать путь к месту назначения по запросу компании.
 
 # Original: Selecting this path was also a part of accommodating that request. So... please, know your place and shut your mouth.
-Вергилий: Выбор этого пути также был частью выполнения этого запроса. Так что... пожалуйста, знайте своё место и закройте рот.
+Вергилий: Выбор этого пути также был частью выполнения этого запроса. Так что... пожалуйста, знайте своё место и закройте свои рты.
 
 # Original: Perhaps the commotion was getting to him. I could tell that Vergilius was rubbing his ear out of frustration.
-Рассказчик: Возможно, суматоха его раздражала. Я заметил, что Вергилий потирает ухо от разочарования.
+Рассказчик: Возможно, вся эта суматоха его раздражала. Я заметил, что Вергилий потирает ухо от разочарования.
 
 # Original: Well, if that's the case...
-Измаил: Ну, если это так...
+Измаил: Ну, если в этом дело...
 
 # Original: While doubt was still apparent on Ishmael's face, she nodded affirmatively. She was acknowledging that there was little we could do about the orders from the company itself.
-Рассказчик: Хотя на лице Измаила всё ещё было видно сомнение, она утвердительно кивнула. Она признавала, что мы мало что можем сделать с приказами самой компании.
+Рассказчик: Хоть на лице Измаил всё ещё было видно сомнение, она утвердительно кивнула. Она признавала, что мы мало что можем сделать с приказами самой компании.
 
 # Original: <...! Alarms...?>
 Данте: <...! Сигналы тревоги...?>
 
 # Original: ... Huh. That alarm again... Is someone listening in on us or something? That was one conveniently timed alarm, don'tcha think?
-Родион: ... Хм. Снова этот сигнал... Кто-то подслушивает нас или что? Слишком уж удачно прозвучал этот сигнал, не находите?
+Родион: ... Хм. Снова этот сигнал... Кто-то подслушивает нас или что? Не слишком ли вовремя прозвучал этот сигнал, не находите?
 
 # Original: That is unlikely.
 Фауст: Это маловероятно.
@@ -203,19 +203,19 @@
 Фауст: Данте.
 
 # Original: Like always, Faust looked into the bus' terminal before giving me a look that I've come to recognize.
-Рассказчик: Как всегда, Фауст посмотрела на терминал автобуса, прежде чем бросить на меня взгляд, который я уже научился узнавать.
+Рассказчик: Как всегда, Фауст посмотрела на терминал автобуса, прежде чем бросить на меня взгляд, который я уже привык распознавать.
 
 # Original: <Yep... another volatility to take care of, huh?>
-Данте: <Да... ещё одна нестабильность, которую нужно устранить, да?>
+Данте: <Угу... ещё одна нестабильность, которую нужно устранить, да?>
 
 # Original: Yes, it is.
 Фауст: Да, это так.
 
 # Original: Another one? Didn't we JUST wrap up a Backdoor volatility?
-Родион: Ещё одна? Разве мы только что не разобрались с нестабильностью Чёрного Хода?
+Родион: Ещё одна? Разве мы ТОЛЬКО что не разобрались с нестабильностью Задней Двери?
 
 # Original: Oh... I think I know what this is.
-Грегор: О... Кажется, я знаю, что это.
+Грегор: О-о... Кажется, я знаю, что это.
 
 # Original: First were the Mirror Dungeons and the Luxcavation Dungeons.
 Грегор: Сначала были Зеркальные Подземелья и Подземелья Светодобычи.
@@ -224,7 +224,7 @@
 Грегор: Так что это должно быть...
 
 # Original: Faust considers Herr Gregor's growing aptitude for deductions to be a positive development.
-Фауст: Фауст считает растущую способность герра Грегора к дедукции положительным развитием.
+Фауст: Фауст считает растущую способность Герр Грегора к дедукции положительным событием.
 
 # Original: Haah... it's the Refraction Railway, isn't it.
 Грегор: Хаах... это Железная Дорога Преломления, не так ли.
@@ -233,16 +233,16 @@
 Рассказчик: Вскоре автобус наполняется измученными вздохами Грешников.
 
 # Original: Sod it... it's that bloody subway tracks again.
-Хитклиф: Чёрт возьми... опять эти чёртовы подземные пути.
+Хитклиф: Чёрт побери... опять эти долбаные подземные пути.
 
 # Original: Aww... Railways really wear me out every time we enter.
-Родион: Ууу... Железные дороги каждый раз так меня выматывают.
+Родион: Ах-х... Железные дороги каждый раз так меня выматывают.
 
 # Original: Well, since the last one was called 'Line 2'... is this going to be 'Line 3'?
-Синклер: Ну, раз последняя называлась "Линия 2"... это будет "Линия 3"?
+Синклер: Ну, раз уж последняя называлась "Линия 2"... в этот раз будет "Линия 3"?
 
 # Original: That is likely, yes. Though we cannot say for certain before observing it for ourselves.
-Фауст: Вероятно, да. Хотя мы не можем сказать наверняка, пока не увидим своими глазами.
+Фауст: Скорее всего, да. Хотя мы не можем сказать наверняка, пока не увидим своими глазами.
 
 # Original: Dante.
 Фауст: Данте.
@@ -251,7 +251,7 @@
 Данте: <Знаю, знаю...>
 
 # Original: Going through the Refraction Railways takes a lot out of me, too.
-Рассказчик: Прохождение через Железную Дорогу Преломления тоже отнимает у меня много сил.
+Рассказчик: Прохождение Железной Дороги Преломления тоже отнимает у меня много сил.
 
 # Original: So far, each Refraction Railway has had new and different patterns, and enemies we faced in there were all much more powerful than any other enemies we'd faced before.
 Рассказчик: До сих пор в каждой Железной Дороге Преломления были новые и разные схемы, а враги, с которыми мы там сталкивались, были гораздо сильнее любых других врагов, с которыми мы сталкивались раньше.
@@ -266,7 +266,7 @@
 Рассказчик: Не говоря уже о обильных наградах.
 
 # Original: I don't remember exactly when it was, but Faust once took the time to explain the Railways' Abnormalities to me.
-Рассказчик: Не помню точно, когда это было, но Фауст однажды объяснила мне Аномалии Железных Дорог.
+Рассказчик: Не помню точно, когда это было, но Фауст однажды объяснила мне про Аномалий с Железных Дорог.
 
 # Original: That the Abnormalities we battle in the Railways are probably not the same ones that exist in the world that we live in.
 Рассказчик: Что Аномалии, с которыми мы сражаемся на Железных Дорогах, вероятно, отличаются от тех, что существуют в мире, в котором мы живём.
@@ -275,16 +275,16 @@
 Рассказчик: Так что... мы не сможем захватить их и привезти обратно, но они идеально подходят для практики на случай, если мы столкнёмся с их реальными версиями.
 
 # Original: Well, whichever is the case... going through the Railway will be a net positive for us.
-Рассказчик: Ну, в любом случае... прохождение Железной Дороги будет для нас положительным опытом.
+Рассказчик: Что ж, как бы то ни было... прохождение Железной Дороги будет для нас полезным опытом.
 
 # Original: So...
 Рассказчик: Так что...
 
 # Original: <Let's get going, then.>
-Данте: <Тогда давайте отправимся.>
+Данте: <Тогда давайте отправляться в путь.>
 
 # Original: I took a quick glance at the Sinners...
 Рассказчик: Я быстро взглянул на Грешников...
 
 # Original: ... then opened the door to the Backdoor.
-Рассказчик: ... затем открыл дверь в Чёрный Ход.
+Рассказчик: ... затем открыл проход в Заднюю Дверь.
