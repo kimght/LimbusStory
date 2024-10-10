@@ -1,0 +1,47 @@
+﻿{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Fantasy Blood-shooting",
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Теперь злые Кровожады, желающие навредить людям, все загнаны под землю."
+    },
+    {
+      "id": 1,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "На поверхности остались только добросердечные, праведные Кровожады."
+    },
+    {
+      "id": 2,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Они дали честное слово людям, что больше не будут жаждать человеческой крови! Что они будут жить мирно и счастливо вместе! Ведь что может быть лучше мира, верно?"
+    },
+    {
+      "id": 3,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Ой...? Но посмотрите! Ой, смотрите!"
+    },
+    {
+      "id": 4,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Плохие, негодные Кровожады снова выползают на поверхность!"
+    },
+    {
+      "id": 5,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Крадутся, выскальзывают, чтобы пить человеческую кровь!"
+    }
+  ]
+}
