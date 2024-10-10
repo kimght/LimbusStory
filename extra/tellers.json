@@ -2126,5 +2126,181 @@
   {
     "original": "Monster of the Tunnels",
     "translation": "Монстр из туннелей"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "휴고"
+  },
+  {
+    "original": "Overdramatic Fixer",
+    "translation": "Излишне Драматичный\nКорректировщик",
+    "model": "휴고"
+  },
+  {
+    "original": "Crowd of Fixers",
+    "translation": "Толпа Корректировщиков",
+    "model": "해결사들"
+  },
+  {
+    "original": "Intimidating Fixer",
+    "translation": "Угрожающий Корректировщик",
+    "model": "혈귀사냥꾼"
+  },
+  {
+    "original": "Muttering Fixer",
+    "translation": "Бормочущий Корректировщик",
+    "model": "엑스트라해결사1"
+  },
+  {
+    "original": "Amazed Fixer",
+    "translation": "Удивленный Корректировщик",
+    "model": "엑스트라해결사2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "한울"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "알레시오"
+  },
+  {
+    "original": "Amazed Fixer",
+    "translation": "Удивленный Корректировщик"
+  },
+  {
+    "original": "Murmuring Fixer",
+    "translation": "Шепчущий Корректировщик"
+  },
+  {
+    "original": "Delighted Fixer",
+    "translation": "Радостный Корректировщик",
+    "model": "불주먹"
+  },
+  {
+    "original": "Survivor?",
+    "translation": "Выживший?",
+    "model": "피주머니"
+  },
+  {
+    "original": "Bloodbag",
+    "translation": "Кровосос",
+    "model": "피주머니"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "이발사부하"
+  },
+  {
+    "original": "Scissors-holding Bloodfiend",
+    "translation": "Кровожад с ножницами",
+    "model": "이발사부하"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "이발사"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "이발사다침"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "산손"
+  },
+  {
+    "original": "Narrator",
+    "translation": "Диктор",
+    "model": "라만차내레이션"
+  },
+  {
+    "original": "Narrator",
+    "translation": "Диктор",
+    "model": "이발사"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "모제스"
+  },
+  {
+    "original": "Bloodfiend Hunter",
+    "translation": "Охотник на Кровожадов",
+    "model": "혈귀사냥꾼"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "로메로"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "까미유카메라"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "까미유"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "체사라"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "폴라"
+  },
+  {
+    "original": "The Knight of the White Moon",
+    "translation": "Рыцарь Белой Луны",
+    "model": "기사산손"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "기사산손"
+  },
+  {
+    "original": "Well-dressed Citizen",
+    "translation": "Прилично одетый гражданин"
+  },
+  {
+    "original": "Well-dressed Bloodbag",
+    "translation": "Прилично одетый кровосос"
+  },
+  {
+    "original": "Fixer from the South",
+    "translation": "Корректировщик с Юга"
+  },
+  {
+    "original": "Fixer from the North",
+    "translation": "Корректировщик с Севера"
+  },
+  {
+    "original": "Citizen at Risk",
+    "translation": "Гражданский в Опасности"
+  },
+  {
+    "original": "Terrified Child",
+    "translation": "Напуганный Ребенок"
+  },
+  {
+    "original": "Challenger",
+    "translation": "Соперник"
+  },
+  {
+    "original": "Muersault",
+    "translation": "Мерсо",
+    "model": "뫼르소"
   }
 ]

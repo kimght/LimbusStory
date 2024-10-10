@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "original": "Grade 8 Fixer",
     "translation": "Корректировщица 8 ранга",
@@ -916,5 +916,1496 @@
     "original": "Zwei Section 4",
     "translation": "4-ая секция «Цвай»",
     "model": "이스마엘"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "동랑"
+  },
+  {
+    "original": "K Corp. Dept. of Food Resource Development",
+    "translation": "ДРПР Корп. К",
+    "model": "동랑"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "데드레빗츠보스"
+  },
+  {
+    "original": "T Corp. Gang",
+    "translation": "Банда Корп. T",
+    "model": "데드레빗츠보스"
+  },
+  {
+    "original": "Limbus Company",
+    "translation": "Компания Лимбус",
+    "model": "수감자들"
+  },
+  {
+    "original": "Edgar Family",
+    "translation": "Семья Эдгар",
+    "model": "린튼버틀러1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "도미노"
+  },
+  {
+    "original": "Seven Section 4",
+    "translation": "Севен Секция 4",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Seven Section 4",
+    "translation": "Севен Секция 4",
+    "model": "파우스트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "마왕히스클리프1"
+  },
+  {
+    "original": "Control Team Captain",
+    "translation": "Капитан Команды Контроля",
+    "model": "파우스트"
+  },
+  {
+    "original": "Level 1 Agent",
+    "translation": "Агент 1-ого уровня",
+    "model": "제이콥"
+  },
+  {
+    "original": "Lobotomy Corporation",
+    "translation": "Корпорация Лоботомия"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Molar Boatworks",
+    "translation": "Верфь Коренного",
+    "model": "미카"
+  },
+  {
+    "original": "Molar Boatworks",
+    "translation": "Верфь Коренного",
+    "model": "레인"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스미"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "스미"
+  },
+  {
+    "original": "N Corp.",
+    "translation": "Корп. N",
+    "model": "구보"
+  },
+  {
+    "original": "Yeonsim",
+    "translation": "Ёнсим",
+    "model": "상이"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "T사기술청1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쌍갈고리파조직원3"
+  },
+  {
+    "original": "U Corp.",
+    "translation": "Корп. U",
+    "model": "클럽손님"
+  },
+  {
+    "original": "K Corp. Laboratory",
+    "translation": "Лаборатория Корп. K",
+    "model": "K사연구원1"
+  },
+  {
+    "original": "Sinners",
+    "translation": "Грешники"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "크레용"
+  },
+  {
+    "original": "Gift Factory",
+    "translation": "Фабрика Подарков",
+    "model": "빨간노움"
+  },
+  {
+    "original": "Gift Factory",
+    "translation": "Фабрика Подарков",
+    "model": "검은노움"
+  },
+  {
+    "original": "Gift Factory",
+    "translation": "Фабрика Подарков",
+    "model": "초록노움"
+  },
+  {
+    "original": "Bloodfiend",
+    "translation": "Кровожад",
+    "model": "북부대검혈귀"
+  },
+  {
+    "original": "Bloodfiend",
+    "translation": "Кровожад",
+    "model": "카세티"
+  },
+  {
+    "original": "Bloodfiend",
+    "translation": "Кровожад",
+    "model": "카세티혈귀"
+  },
+  {
+    "original": "Öufi South Section 3",
+    "translation": "Эуфи Южная Секция 3",
+    "model": "히스클리프"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "겁먹은 계약자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "화난 계약자"
+  },
+  {
+    "original": "League of Nine Littérateurs",
+    "translation": "Лига Девяти Литераторов",
+    "model": "과거동백"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "해방연합대원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "휴고"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "해결사들"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "혈귀사냥꾼"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엑스트라해결사1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엑스트라해결사2"
+  },
+  {
+    "original": "Hana Assoc. North",
+    "translation": "Ассоц. Хана - Север",
+    "model": "한울"
+  },
+  {
+    "original": "P Corp. Staff",
+    "translation": "Сотрудник Корп. P",
+    "model": "알레시오"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "가시춘"
+  },
+  {
+    "original": "K Corp. Laboratory",
+    "translation": "Лаборатория Корп. K",
+    "model": "슈렌느"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "니코"
+  },
+  {
+    "original": "The Dead Rabbits",
+    "translation": "Мертвые Кролики",
+    "model": "데드레빗츠1"
+  },
+  {
+    "original": "The Great Lake of U Corp.",
+    "translation": "Великое Озеро Корп. U",
+    "model": "인어"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "올가헬멧"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "올가잠수복"
+  },
+  {
+    "original": "Molar Boatworks",
+    "translation": "Верфь Коренного",
+    "model": "올가"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쪽빛노인"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "미카"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "무기레인"
+  },
+  {
+    "original": "Cinq Section 5 Director",
+    "translation": "Директор 5-ой Секции Сэнк",
+    "model": "돈키호테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "인터뷰어"
+  },
+  {
+    "original": "Öufi",
+    "translation": "Эуфи",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "로쟈"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "K사3등급전투원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "히스클리프과거"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "북부대검"
+  },
+  {
+    "original": "MultiCrack Office",
+    "translation": "Офис МультиКрэк",
+    "model": "북부대검"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "열차아이"
+  },
+  {
+    "original": "A Distant World",
+    "translation": "Далекий Мир",
+    "model": "마왕히스클리프2"
+  },
+  {
+    "original": "A Certain Every World",
+    "translation": "Некоторый Мир",
+    "model": "마왕캐서린"
+  },
+  {
+    "original": "MultiCrack Office",
+    "translation": "Офис МультиКрэк",
+    "model": "파우스트"
+  },
+  {
+    "original": "MultiCrack Office",
+    "translation": "Офис МультиКрэк"
+  },
+  {
+    "original": "MultiCrack Office",
+    "translation": "Офис МультиКрэк",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Pequod Town",
+    "translation": "Пекод Таун",
+    "model": "퀴케그가면"
+  },
+  {
+    "original": "A Distant World",
+    "translation": "Далекий Мир",
+    "model": "마왕히스클리프3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거구보"
+  },
+  {
+    "original": "Liu Section 4",
+    "translation": "Лю Секция 4",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Beef Noodle Restaurant",
+    "translation": "Раменная"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쌍갈고리파조직원2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "산타타"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "동백"
+  },
+  {
+    "original": "Blade Lineage Salsu",
+    "translation": "Сальсу Родословной Клинка",
+    "model": "돈키호테"
+  },
+  {
+    "original": "The Ring Pointillist Student",
+    "translation": "Пуанталист-Ученик Среднего",
+    "model": "오티스"
+  },
+  {
+    "original": "The Ring Fauvist Student",
+    "translation": "Фовист-Ученик Среднего"
+  },
+  {
+    "original": "The Ring Cubist Student",
+    "translation": "Кубист-Ученик Среднего"
+  },
+  {
+    "original": "District 22 Backstreets",
+    "translation": "Подворотни Района 22"
+  },
+  {
+    "original": "Pequod Town",
+    "translation": "Пекод Таун",
+    "model": "퀴케그"
+  },
+  {
+    "original": "Tingtang Boss",
+    "translation": "Босс Бом-Боб",
+    "model": "홍루"
+  },
+  {
+    "original": "Tingtang Gang",
+    "translation": "Банда Бом-Боб"
+  },
+  {
+    "original": "Mermaid",
+    "translation": "LCCB Русалка",
+    "model": "LCCB직원백화1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "림"
+  },
+  {
+    "original": "The Pequod",
+    "translation": "Пекод"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "퀴케그그림자"
+  },
+  {
+    "original": "Seven Section 6 Director",
+    "translation": "Директор 6-ой Секции Сэвен",
+    "model": "오티스"
+  },
+  {
+    "original": "Firefist Office",
+    "translation": "Офис Огненного Кулака",
+    "model": "불주먹"
+  },
+  {
+    "original": "Firefist Office",
+    "translation": "Офис Огненного Кулака",
+    "model": "피주머니"
+  },
+  {
+    "original": "La Manchaland",
+    "translation": "Ла-Манчалэнд",
+    "model": "피주머니"
+  },
+  {
+    "original": "Bloodfiends?",
+    "translation": "Кровожады?",
+    "model": "이발사부하"
+  },
+  {
+    "original": "La Manchaland",
+    "translation": "Ла-Манчалэнд",
+    "model": "이발사부하"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "데드레빗츠1"
+  },
+  {
+    "original": "Liu Section 4 Director",
+    "translation": "Директор 4-ой секции Лю",
+    "model": "로쟈"
+  },
+  {
+    "original": "Liu Section 4",
+    "translation": "4-ая Секция Лю",
+    "model": "료슈"
+  },
+  {
+    "original": "K Corp. Class 3 Excision Staff",
+    "translation": "Сотрудник Отсечения 3-его Класса Корп. K",
+    "model": "홍루"
+  },
+  {
+    "original": "Nest K",
+    "translation": "Гнездо K",
+    "model": "도망치던시민"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "K사드론들"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "마왕히스클리프4"
+  },
+  {
+    "original": "K Corp. Laboratory",
+    "translation": "Лаборатория Корп. K",
+    "model": "K사안내방송"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "기술해방연합기계2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "마리르"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "란"
+  },
+  {
+    "original": "Terrorist Organization?",
+    "translation": "Террористическая Организация?",
+    "model": "마리르"
+  },
+  {
+    "original": "Terrorist Organization?",
+    "translation": "Террористическая Организация?",
+    "model": "란"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "마리르"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "란"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "이발사"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "이발사다침"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "산손"
+  },
+  {
+    "original": "Effloresced E.G.O::GasHarpoon",
+    "translation": "Расцветшее ЭГО::Газгарпун",
+    "model": "에이해브"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "기술해방연합1"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "각성기술해방연합1"
+  },
+  {
+    "original": "The Middle's Big Brother",
+    "translation": "Старший Брат Среднего",
+    "model": "작은형님발광"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쪽빛노인후드"
+  },
+  {
+    "original": "The Middle's Big Brother",
+    "translation": "Старший Брат Среднего",
+    "model": "작은형님다침"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "호드"
+  },
+  {
+    "original": "Training Team Sephirah",
+    "translation": "Сефира Тренировочной Команды",
+    "model": "호드"
+  },
+  {
+    "original": "K Corp. Laboratory",
+    "translation": "Лаборатория Корп. K",
+    "model": "동랑"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "T사시민"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "T사갱단2"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "돈키호테"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "피곤한 작은 아우"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "느긋한 작은 아우"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "Big Brother"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "작은 아우들"
+  },
+  {
+    "original": "The Ring",
+    "translation": "Безымянный"
+  },
+  {
+    "original": "Distortion",
+    "translation": "Искажение",
+    "model": "뒤틀린히스클리프"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쌍갈고리파조직원4"
+  },
+  {
+    "original": "Dawn Office",
+    "translation": "Офис Рассвета",
+    "model": "싱클레어"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "T사갱단1"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "이상"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент Зачистки Корп. W",
+    "model": "돈키호테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "피쿼드호주민1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스타벅"
+  },
+  {
+    "original": "La Manchaland",
+    "translation": "Ла-Манчалэнд",
+    "model": "라만차내레이션"
+  },
+  {
+    "original": "La Manchaland",
+    "translation": "Ла-Манчалэнд",
+    "model": "이발사"
+  },
+  {
+    "original": "LCB",
+    "translation": "LCB"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "모제스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "카세티"
+  },
+  {
+    "original": "Bloodbag",
+    "translation": "Кровосос"
+  },
+  {
+    "original": "Sinner #6",
+    "translation": "Грешник №6",
+    "model": "홍루SD"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "기술해방연합기계"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아세아"
+  },
+  {
+    "original": "Öufi? The Ring?",
+    "translation": "Эуфи? Безымянный?",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백에고각성중_다침"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백에고각성중_찔림"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "K사안내방송"
+  },
+  {
+    "original": "League of Nine Littérateurs",
+    "translation": "Лига Девяти Литераторов",
+    "model": "과거동랑"
+  },
+  {
+    "original": "League of Nine Littérateurs",
+    "translation": "Лига Девяти Литераторов",
+    "model": "영지"
+  },
+  {
+    "original": "League of Nine Littérateurs",
+    "translation": "Лига Девяти Литераторов",
+    "model": "과거구보"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "상이"
+  },
+  {
+    "original": "N Corp.",
+    "translation": "Корп. N",
+    "model": "N사연구원검은색"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "장미스패너2"
+  },
+  {
+    "original": "Wuthering Heights",
+    "translation": "Грозовой Перевал",
+    "model": "파우스트"
+  },
+  {
+    "original": "Wuthering Heights",
+    "translation": "Грозовой Перевал",
+    "model": "오티스"
+  },
+  {
+    "original": "Wuthering Heights",
+    "translation": "Грозовой Перевал",
+    "model": "싱클레어"
+  },
+  {
+    "original": "N Corp.",
+    "translation": "Корп. N",
+    "model": "아세아"
+  },
+  {
+    "original": "Edgar Family",
+    "translation": "Семья Эдгар",
+    "model": "린튼버틀러2"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "알폰소"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "돈키호테"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "로쟈"
+  },
+  {
+    "original": "District 20 Resident",
+    "translation": "Житель 20-ого Района"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백여우각성_먼지"
+  },
+  {
+    "original": "Nest K",
+    "translation": "Гнездо K"
+  },
+  {
+    "original": "League of Nine Littérateurs",
+    "translation": "Лига Девяти Литераторов",
+    "model": "이상"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백에고각성중_먼지"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백에고각성"
+  },
+  {
+    "original": "Fanghunt Office",
+    "translation": "Офис Охотников на Клыки",
+    "model": "혈귀사냥꾼"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "로메로"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "까미유카메라"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "까미유"
+  },
+  {
+    "original": "T Corp.",
+    "translation": "Корп. T",
+    "model": "T사기술청2"
+  },
+  {
+    "original": "League of Nine Littérateurs",
+    "translation": "Лига Девяти Литераторов",
+    "model": "동백에고각성중_찔림"
+  },
+  {
+    "original": "The Client",
+    "translation": "Клиент",
+    "model": "체사라"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "폴라"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "웨이"
+  },
+  {
+    "original": "Devyat' North Section 3",
+    "translation": "3-я Северная Секция Девять",
+    "model": "로쟈"
+  },
+  {
+    "original": "Courier Trunk",
+    "translation": "Курьерский Сундук"
+  },
+  {
+    "original": "Dieci Section 4 Director",
+    "translation": "Директор 4-ой Секции Дьечи",
+    "model": "뫼르소"
+  },
+  {
+    "original": "LCCB P-Obs. Unit 3",
+    "translation": "LCCB П-Набл. Отряд 3",
+    "model": "파일럿"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "쌍갈고리파조직원1"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний"
+  },
+  {
+    "original": "Safety Team Agent",
+    "translation": "Агент Команды Безопасности",
+    "model": "이상"
+  },
+  {
+    "original": "Safety Team Captain",
+    "translation": "Капитан Команды Безопасности",
+    "model": "료슈"
+  },
+  {
+    "original": "Control Team Sephirah",
+    "translation": "Сефира Команды Контроля",
+    "model": "말쿠트"
+  },
+  {
+    "original": "District 21 Resident",
+    "translation": "Житель 21-ого Района",
+    "model": "이스마엘과거2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스테파네트"
+  },
+  {
+    "original": "Molar Boatworks",
+    "translation": "Верфь Коренного",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Öufi Association",
+    "translation": "Ассоциация Эуфи",
+    "model": "외우피협회보스F"
+  },
+  {
+    "original": "Dieci Section 4",
+    "translation": "Дьечи Секция 4",
+    "model": "로쟈"
+  },
+  {
+    "original": "The LCB",
+    "translation": "LCB"
+  },
+  {
+    "original": "Shi Association",
+    "translation": "Ассоциация Ши",
+    "model": "암살자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "크랲게"
+  },
+  {
+    "original": "W Corp.",
+    "translation": "Корп. W",
+    "model": "W사정리요원2"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "로쟈"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "걱정이 많은 직원"
+  },
+  {
+    "original": "Captain of the Pequod",
+    "translation": "Капитан Пекода",
+    "model": "이스마엘"
+  },
+  {
+    "original": "The Pequod",
+    "translation": "Пекод",
+    "model": "선원들"
+  },
+  {
+    "original": "The Pequod",
+    "translation": "Пекод",
+    "model": "목청이 큰 선원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "기사산손"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "넬리"
+  },
+  {
+    "original": "R Corp. 4th Pack Reindeer",
+    "translation": "Олень 4-ой Стаи Корп. R",
+    "model": "이스마엘"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "뫼르소"
+  },
+  {
+    "original": "S Corp.",
+    "translation": "Корп. S",
+    "model": "좌의정"
+  },
+  {
+    "original": "Protector",
+    "translation": "Защитник",
+    "model": "뫼르소"
+  },
+  {
+    "original": "S Corp.",
+    "translation": "Корп. S",
+    "model": "우의정"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "도도루"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "화난 직원"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "빌붙는 직원"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Мастерская Ключа и Розы",
+    "model": "부탁이 많은 직원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "쌍갈고리파조직원1"
+  },
+  {
+    "original": "Hook Office",
+    "translation": "Офис Крюка",
+    "model": "홍루"
+  },
+  {
+    "original": "Hook Office",
+    "translation": "Офис Крюка",
+    "model": "료슈"
+  },
+  {
+    "original": "Hook Office",
+    "translation": "Офис Крюка",
+    "model": "뫼르소"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "작은형님안경"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "작은아우"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "작은형님책"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "파일럿"
+  },
+  {
+    "original": "Effloresced E.G.O::GasHarpoon",
+    "translation": "Расцветшее ЭГО::Газгарпун",
+    "model": "에이해브다침"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "K사임원진1"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "K사임원진2"
+  },
+  {
+    "original": "Safety Team Sephirah",
+    "translation": "Сефира Команды Безопасности",
+    "model": "네짜흐"
+  },
+  {
+    "original": "Training Team Agent",
+    "translation": "Агент Тренировочной Команды",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Training Team Captain",
+    "translation": "Капитан Тренировочной Команды",
+    "model": "오티스"
+  },
+  {
+    "original": "Zwei West Section 3 Director",
+    "translation": "Директор 3-ей Западной Секции Цвай"
+  },
+  {
+    "original": "Zwei West Section 3",
+    "translation": "3-я Западная Секция Цвай",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Zwei West Section 3",
+    "translation": "3-я Западная Секция Цвай"
+  },
+  {
+    "original": "District 24",
+    "translation": "Район 24"
+  },
+  {
+    "original": "Mermaid",
+    "translation": "Русалка",
+    "model": "LCCB직원백화2"
+  },
+  {
+    "original": "Effloresced E.G.O::Farmwatch",
+    "translation": "Effloresced E.G.O::Farmwatch",
+    "model": "다친에고동랑"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Офис Ключа и Розы",
+    "model": "그레고르"
+  },
+  {
+    "original": "Rosespanner Workshop",
+    "translation": "Офис Ключа И Розы"
+  },
+  {
+    "original": "The Client",
+    "translation": "Клиент"
+  },
+  {
+    "original": "Zwei West Section 3",
+    "translation": "3-я Западная Секция Цвай",
+    "model": "싱클레어"
+  },
+  {
+    "original": "P Corp.",
+    "translation": "Корп. P"
+  },
+  {
+    "original": "Protection Target",
+    "translation": "Цель Защиты"
+  },
+  {
+    "original": "Wuthering Heights",
+    "translation": "Грозовой Перевал",
+    "model": "언쇼"
+  },
+  {
+    "original": "Twinhook Pirates?",
+    "translation": "Пираты Двукрюки?",
+    "model": "쌍갈고리파조직원2"
+  },
+  {
+    "original": "Blade Lineage Salsu",
+    "translation": "Сальсу Родословной Клинка",
+    "model": "싱클레어"
+  },
+  {
+    "original": "District 20 Yurodivy",
+    "translation": "Юродивый 20-ого Района",
+    "model": "료슈"
+  },
+  {
+    "original": "District 20 Yurodivy",
+    "translation": "Юродивый 20-ого Района"
+  },
+  {
+    "original": "District 20 Yurodivy",
+    "translation": "Юродивый 20-ого Района",
+    "model": "홍루"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백"
+  },
+  {
+    "original": "K Corp. Dept. of Food Resource Development",
+    "translation": "ДРПР Корп. K",
+    "model": "옷벗은삼조"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "동백여우각성"
+  },
+  {
+    "original": "U Corp.",
+    "translation": "Корп. U"
+  },
+  {
+    "original": "Technology Liberation Alliance",
+    "translation": "Союз технологического особождения",
+    "model": "되살아난해방연합"
+  },
+  {
+    "original": "The Outskirts",
+    "translation": "Окраины",
+    "model": "창백한 고래"
+  },
+  {
+    "original": "Both",
+    "translation": "Оба",
+    "model": "파우스트와삼조"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "실루엣돈키호테"
+  },
+  {
+    "original": "Dieci Section 4",
+    "translation": "Дьечи Секция 4",
+    "model": "홍루"
+  },
+  {
+    "original": "Dieci Section 4",
+    "translation": "Дьечи Секция 4",
+    "model": "이상"
+  },
+  {
+    "original": "Twinhook Pirates First Mate",
+    "translation": "Старший Помощник Пиратов-Двукрюков",
+    "model": "그레고르"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "긴장한 조직원"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "빠릿한 조직원"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "조직원들"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "쓸만한 조직원"
+  },
+  {
+    "original": "W Corp.",
+    "translation": "Корп. W",
+    "model": "W사정리요원"
+  },
+  {
+    "original": "The Middle's Big Brother",
+    "translation": "Старший Брат Среднего",
+    "model": "작은형님안경"
+  },
+  {
+    "original": "Cinq Section 4 Director",
+    "translation": "Директор 4-ой Секции Сэнк",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Cinq Section 4",
+    "translation": "Сэнк Секция 4"
+  },
+  {
+    "original": "K Corp. Laboratory",
+    "translation": "Лаборатория Корп. K",
+    "model": "K사연구원3"
+  },
+  {
+    "original": "K Corp. Dept. of Food Resource Development",
+    "translation": "ДРПР Корп. K",
+    "model": "K사연구원2"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "검문소경비2"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "K사앰플기계"
+  },
+  {
+    "original": "K Corp.",
+    "translation": "Корп. K",
+    "model": "해킹당한K사앰플기계"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "북부창"
+  },
+  {
+    "original": "A Distant World",
+    "translation": "Далекий Мир",
+    "model": "마왕히스클리프말"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент Зачистки Корп. W",
+    "model": "이상"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент Зачистки Корп. W",
+    "model": "오티스"
+  },
+  {
+    "original": "Kurokumo Clan Captain",
+    "translation": "Капитан Клана Курокумо",
+    "model": "그레고르"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거동랑"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거동백"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거이상"
+  },
+  {
+    "original": "Cinq Section 4",
+    "translation": "Сэнк Секция 4",
+    "model": "오티스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "LCCB직원백화1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "LCCB직원백화2"
+  },
+  {
+    "original": "The Pequod",
+    "translation": "Пекод",
+    "model": "이상"
+  },
+  {
+    "original": "The Pequod",
+    "translation": "Пекод",
+    "model": "당황하는 선원"
+  },
+  {
+    "original": "The Pequod",
+    "translation": "Пекод",
+    "model": "어이없는 선원"
+  },
+  {
+    "original": "Pequod Town",
+    "translation": "Пекод Таун",
+    "model": "피쿼드호주민2"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "뫼르소"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "친근한 작은 아우"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "능글맞은 작은 아우"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "다친스미"
+  },
+  {
+    "original": "K Corp. Dept. of Food Resource Development",
+    "translation": "ДРПР Корп. K",
+    "model": "뒤틀린다친동랑"
+  },
+  {
+    "original": "Effloresced E.G.O::Farmwatch",
+    "translation": "Effloresced E.G.O::Farmwatch",
+    "model": "뒤틀린다친동랑"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "쌍갈고리파조직원2"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "교육 담당자"
+  },
+  {
+    "original": "LCCB Assistant Manager",
+    "translation": "Заместитель Менеджера LCCB",
+    "model": "료슈"
+  },
+  {
+    "original": "LCCB",
+    "translation": "LCCB",
+    "model": "신입사원들"
+  },
+  {
+    "original": "Twinhook Pirates",
+    "translation": "Пираты Двукрюки",
+    "model": "비실한 조직원"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에이해브"
+  },
+  {
+    "original": "Pequod Town",
+    "translation": "Пекод Таун",
+    "model": "스타벅"
+  },
+  {
+    "original": "Pequod Town",
+    "translation": "Пекод Таун",
+    "model": "피쿼드호주민1"
+  },
+  {
+    "original": "Cinq West\nSection 3",
+    "translation": "Западная Секция 3 Сэнк",
+    "model": "뫼르소"
   }
 ]
