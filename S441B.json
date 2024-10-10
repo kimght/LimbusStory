@@ -18,7 +18,7 @@
       "id": 3,
       "model": "K사3등급전투원",
       "teller": "Сотрудник Отсечения 3-его Класса",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "……"
     },
     {
@@ -29,7 +29,7 @@
       "id": 5,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Они здесь не для того, чтобы кого-то спасать. Их роль – устранение нарушителей и обеспечение безопасности секретных технологий."
     },
     {
@@ -40,7 +40,7 @@
       "id": 7,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Спасение оставлено персоналу Первого Класса."
     },
     {
@@ -69,14 +69,14 @@
       "id": 12,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ха-ха, чем больше, тем лучше – и для чисел, и для богатства, не так ли?"
     },
     {
       "id": 13,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ах, разговор немного затянулся... Но не о чем беспокоиться, я получил разрешение."
     },
     {
@@ -93,7 +93,7 @@
       "id": 16,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Обычно, похоже, требуется куча бумажной работы, но поскольку у нас чрезвычайная ситуация, давайте пропустим процедуры, которые можем. Все должно быть нормально, верно, Самджо?"
     },
     {
@@ -119,21 +119,21 @@
       "id": 20,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Похоже, Донбек направилась туда."
     },
     {
       "id": 21,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "В комнату с проекторами."
     },
     {
       "id": 22,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Процедуры безопасности для входа в это место могут быть... крайне запутанными."
     },
     {
@@ -150,14 +150,14 @@
       "id": 25,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Она находится на самом верху здания."
     },
     {
       "id": 26,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Есть два способа сделать что-то недоступным: поместить глубоко под землю или же на самую высокую точку."
     }
   ]

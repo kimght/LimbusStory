@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of P Corp., Outside the Tent",
+      "place": "Подворотни Корп. P, Вне Шатра",
       "content": "У нас есть около тридцати минут до появления Ла-Манчалэнда..."
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "id": 61,
-      "place": "Backstreets of P Corp., an Empty Lot",
+      "place": "Подворотни Корп. P, Пустой Участок",
       "model": "단테",
       "content": "<Дон Кихот, насчет того, что произошло ранее...>"
     },

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Fantasy Blood-shooting",
+      "place": "Фантастический Кровавый Тир",
       "model": "돈키호테",
       "content": "Я..."
     },
@@ -24,7 +24,7 @@
     },
     {
       "id": 4,
-      "place": "Where None Shall Tread",
+      "place": "Куда Никто Не Ступит",
       "model": "그레고르",
       "content": "Чего?! Ч-что за чертовщина?!"
     },
@@ -90,7 +90,7 @@
     {
       "id": 14,
       "model": "기사산손",
-      "teller": "The Knight of the White Moon",
+      "teller": "Рыцарь Белой Луны",
       "title": "???",
       "content": "Та-да."
     },
@@ -296,7 +296,7 @@
     },
     {
       "id": 55,
-      "place": "Where None Shall Tread",
+      "place": "Куда Никто Не Ступит",
       "model": "히스클리프",
       "content": "Ах, чёрт! Я не могу двигаться!"
     },
@@ -335,7 +335,7 @@
     },
     {
       "id": 63,
-      "place": "Shepherds' Village",
+      "place": "Деревня Пастухов",
       "model": "산손",
       "content": "И, в конце концов, искатель приключений прибыл в деревню пастухов."
     },

@@ -5,7 +5,7 @@
       "place": "Гнездо К - Внутри Филиала КЛ",
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ну что ж... Не хочешь ли объясниться, Шренн?"
     },
     {
@@ -16,84 +16,84 @@
       "id": 2,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "С каких пор ты перешла на их сторону?"
     },
     {
       "id": 3,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "...Ты и правда нечто. Даже не выглядишь удивлённым."
     },
     {
       "id": 4,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Ха, сотрудники, которых можно вернуть к жизни без ампул, значит... Этого не было в планах... Это нечестно."
     },
     {
       "id": 5,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Когда я спросил, почему ты вызвалась следовать за мной в лабораторию, ты мне ответила так:"
     },
     {
       "id": 6,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "\"Трое моих коллег погибли.\""
     },
     {
       "id": 7,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Пятеро из нас погибли в той атаке. Три - это число жертв, которые понёс альянс освобождения технологий."
     },
     {
       "id": 8,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "А, и я ещё проверил твою историю в сети."
     },
     {
       "id": 9,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Ты что сделал... Тебе это разрешено?"
     },
     {
       "id": 10,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Так они продолжают говорить тебе, что нужны целые день и ночь для того, чтобы перечислить все преимущества лучшего сотрудника."
     },
     {
       "id": 11,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Опять эта глупая болтовня о \"лучших\"..."
     },
     {
       "id": 12,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я видел, что ты обменивалась тоннами писем с Ран даже после её ухода. О чём это было? Ты не ответила ни на одно из моих писем с предложением выпить кофе."
     },
     {
       "id": 13,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Полагаю... ты очень уважала Ран с тех пор, как пришла к нам. Даже твой пароль был установлен как \"скучаюпоран\", представляешь?"
     },
     {
@@ -128,49 +128,49 @@
       "id": 18,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Да, Шренн. Почему бы тебе самой не рассказать?"
     },
     {
       "id": 19,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Почему ты решила вступить с ними в сговор?"
     },
     {
       "id": 20,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "……"
     },
     {
       "id": 21,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Слёзы не останавливались."
     },
     {
       "id": 22,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты..."
     },
     {
       "id": 23,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Ты ведь понимаешь, что это значит? Я..."
     },
     {
       "id": 24,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "…!"
     },
     {
@@ -237,7 +237,7 @@
       "id": 38,
       "model": "암살자",
       "teller": "Киллер",
-      "title": "Shi Association",
+      "title": "Ассоциация Ши",
       "content": "……"
     },
     {
@@ -265,21 +265,21 @@
       "id": 43,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Старший исследователь Ран была наставницей Шренн, когда та только пришла в компанию. Похоже, их связь продлилась гораздо дольше, чем я думал."
     },
     {
       "id": 44,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Видишь, Данте? Мы были коллегами, работающими на одну фирму, и всё равно есть сговор и братство."
     },
     {
       "id": 45,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Предательство, разделение, попустительство. Это происходит в любой группе людей... Полагаю, это неизбежный цикл."
     },
     {
@@ -291,7 +291,7 @@
       "id": 47,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Скажи... Насколько ты доверяешь своим Грешникам?"
     },
     {
@@ -303,14 +303,14 @@
       "id": 49,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты ведь практически ничего о них не знаешь, верно? Как и я не мог знать всего о Шренн. Я не прав?"
     },
     {
       "id": 50,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты... даже не знаешь, кто из них связан со мной историей."
     }
   ]

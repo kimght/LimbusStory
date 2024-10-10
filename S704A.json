@@ -2,10 +2,10 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of P Corp., Outside the Tent",
+      "place": "Подворотни Корп. P, Вне Шатра",
       "model": "혈귀사냥꾼",
-      "teller": "Bloodfiend Hunter",
-      "title": "Fanghunt Office",
+      "teller": "Охотник на Кровожадов",
+      "title": "Офис Охотников на Клыки",
       "content": "Ваши... превращения... Должен признать, я никогда не видел ничего подобного."
     },
     {
@@ -16,8 +16,8 @@
     {
       "id": 2,
       "model": "혈귀사냥꾼",
-      "teller": "Bloodfiend Hunter",
-      "title": "Fanghunt Office",
+      "teller": "Охотник на Кровожадов",
+      "title": "Офис Охотников на Клыки",
       "content": "... Хорошо. Признаю, у вас есть навыки."
     },
     {

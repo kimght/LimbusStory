@@ -4,14 +4,14 @@
       "id": 0,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Итак, вот к чему всё пришло. Я, наверное, скоро умру."
     },
     {
       "id": 1,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "В таком спокойном месте..."
     },
     {
@@ -21,49 +21,49 @@
       "id": 3,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Что."
     },
     {
       "id": 4,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ха, хаха..."
     },
     {
       "id": 5,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты права, он меня не узнаёт."
     },
     {
       "id": 6,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Сейчас я, может, и наполнен пустотой, но я знаю..."
     },
     {
       "id": 7,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я почти у цели. Скоро... Я создам свою собственную технологию, чтобы заполнить себя."
     },
     {
       "id": 8,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я снова соберу команду... найму другого секретаря... Будет много работы."
     },
     {
       "id": 9,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Так что... думаю, ты мне больше не понадобишься."
     },
     {
@@ -71,70 +71,70 @@
       "place": "Лаборатория Корп. К",
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "...Донран? Интересно, сколько ещё ты заставишь меня ждать."
     },
     {
       "id": 11,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ах, извините за задержку. Я вспомнил кое-что, что оставил в родном городе..."
     },
     {
       "id": 12,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Но я понял, что сейчас пора думать о том, что я приобрету отныне, а не о том, что оставил позади."
     },
     {
       "id": 13,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "У каждого может быть момент глупости."
     },
     {
       "id": 14,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Так, значит... Ты знаешь способ генерировать бесконечный поток слёз, так ведь?"
     },
     {
       "id": 15,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Чтобы достичь определённой квоты, людей пытают... потом лечат с помощью слёз... потом снова пытают..."
     },
     {
       "id": 16,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Это такая утрата – постоянно расходовать часть слёз на это."
     },
     {
       "id": 17,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Верно, поэтому мы импортируем кадры из разных Крыльев и Синдикатов из Подворотен в качестве замены."
     },
     {
       "id": 18,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Они запрашивают всё более высокие цены за аудиовизуальный материал, не так ли?"
     },
     {
       "id": 19,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Другие фракции начинают замечать, что мы явно нуждаемся в этом, пусть и смутно. Даже если они точно не знают, для чего это используется в Корпорации К."
     },
     {
@@ -153,28 +153,28 @@
       "id": 22,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Видите. Ваш подчинённый, привязанный к этому стулу, похоже, тоже потерял рассудок."
     },
     {
       "id": 23,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "……."
     },
     {
       "id": 24,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Я не должен закрывать глаза."
     },
     {
       "id": 25,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Мисс Кармен... Я считаю, что это не совсем так. Путь не закончился, и я, наконец, ясно вижу, куда мне следует идти."
     },
     {
@@ -186,14 +186,14 @@
       "id": 27,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Когда я смотрю ему в глаза... Я больше не испытываю того сочувствия, которое испытывал раньше."
     },
     {
       "id": 28,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Вместо этого... Ты видишь это? Бледная имитация знаменитого стеклянного окна Лиги, созданная путём паразитирования на нём... Теперь она стала флагом, высоко поднявшим престиж Сингулярности Корпорации К."
     },
     {
@@ -205,28 +205,28 @@
       "id": 30,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Брат Ён-джи ушёл, Донбек вернулась в постель из цветов..."
     },
     {
       "id": 31,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Всё, что осталось – это паразитическая мутация стекла Ён-джи..."
     },
     {
       "id": 32,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Моя халтурная копия стекла, которой не удалось стать чем-то значимым."
     },
     {
       "id": 33,
       "model": "뒤틀린다친동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Какой толк от технологии, которая не может изменить мир?"
     },
     {

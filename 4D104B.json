@@ -10,14 +10,14 @@
       "id": 1,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Некоторое время всё было хорошо. Словно мы были в путешествии. Мы думали, что всё будет в порядке после того, как покинем родной город ради этого нового места, но увы..."
     },
     {
       "id": 2,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "В конце концов, человеческие общества не так уж сильно отличались друг от друга."
     },
     {
@@ -29,7 +29,7 @@
       "id": 4,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Вот это интригует. Что же это, Сан-хо?"
     },
     {
@@ -101,7 +101,7 @@
       "id": 18,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Подождите, почему мне об этом раньше не сказали? Конфискация? Ты всё это время знал, Ён-джи? Я хочу услышать это напрямую от тебя."
     },
     {
@@ -138,14 +138,14 @@
       "id": 25,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ха-ха, возможно тебе стоит лучше отыгрывать свою роль, да?"
     },
     {
       "id": 26,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Враги снова начнут атаковать, знаешь ли."
     },
     {

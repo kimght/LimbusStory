@@ -5,14 +5,14 @@
       "place": "Pequod Town",
       "model": "퀴케그가면",
       "teller": "???",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Вы все. Сильные."
     },
     {
       "id": 1,
       "model": "퀴케그가면",
       "teller": "???",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Но не моряки."
     },
     {
@@ -38,7 +38,7 @@
       "id": 6,
       "model": "퀴케그",
       "teller": "???",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Но ты. Ты моряк."
     },
     {
@@ -79,21 +79,21 @@
       "id": 14,
       "model": "퀴케그",
       "teller": "Квикег",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Твой цвет волос. Не могу забыть."
     },
     {
       "id": 15,
       "model": "퀴케그",
       "teller": "Квикег",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Твоё имя. Я знаю."
     },
     {
       "id": 16,
       "model": "퀴케그",
       "teller": "Квикег",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Но не нападай на Капитана."
     },
     {
@@ -105,14 +105,14 @@
       "id": 18,
       "model": "퀴케그",
       "teller": "Квикег",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Ты снова нападёшь на Капитана, я нападу на тебя."
     },
     {
       "id": 19,
       "model": "퀴케그",
       "teller": "Квикег",
-      "title": "Pequod Town",
+      "title": "Пекод Таун",
       "content": "Тогда убить или быть убитым. Одна из нас."
     },
     {

@@ -5,70 +5,70 @@
       "place": "Зал для Просмотра",
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Давай посмотрим на это иначе?"
     },
     {
       "id": 1,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты ведь знала, что в Корпорации N сформирована новая Лига Девяти?"
     },
     {
       "id": 2,
       "model": "동백에고각성중_다침",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "……"
     },
     {
       "id": 3,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Похоже, они набирают старых членов и их технологии, примерно так же, как пыталась сделать ты."
     },
     {
       "id": 4,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Хотя, кажется, они скорее пытаются стереть это прошлое."
     },
     {
       "id": 5,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Это чисто предположение, но нам всем суждено умереть от рук нашего дорогого товарища Губо и быть таксидермированными, один за другим."
     },
     {
       "id": 6,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Всё, что я сделал, это немного приблизил эту предопределённую смерть."
     },
     {
       "id": 7,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "К тому же... Ты зашла слишком далеко, чтобы наша прошлая дружба могла это простить, Донбек."
     },
     {
       "id": 8,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ах~ Я так ждал завтрашнего ужина с коллегами, правда ждал."
     },
     {
       "id": 9,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ну что ж... Пора тебе прекратить цвести, Донбек."
     },
     {
@@ -84,63 +84,63 @@
       "id": 12,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "… … …"
     },
     {
       "id": 13,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "……"
     },
     {
       "id": 14,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я мог бы назвать много причин, но... ладно, скажем, это мой прощальный акт сострадания."
     },
     {
       "id": 15,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "...Я знала, что должна буду увянуть, когда придёт время, но..."
     },
     {
       "id": 16,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Я... всегда..."
     },
     {
       "id": 17,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Хотела быть бутоном... готовым расцвести, храня аромат внутри..."
     },
     {
       "id": 18,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Как ты, И Сан... Как ты мечтал... о том чтобы летать.."
     },
     {
       "id": 19,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Вот так... Я просто... хотела быть похороненной... под пряным ароматом цветов... вместе с вами всеми..."
     },
     {
       "id": 20,
       "model": "K사안내방송",
       "teller": "Диктор",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Добавлен новый канал."
     },
     {
@@ -156,49 +156,49 @@
       "id": 23,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Спасибо тебе, И Сан. За то, что показал мне такой момент."
     },
     {
       "id": 24,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Я бы посвятила всю свою жизнь, чтобы отплатить тебе за эту услугу..."
     },
     {
       "id": 25,
       "model": "과거동랑",
       "teller": "Донран",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Эй, И Сан, что скажешь насчёт того, чтобы создать лабораторию вместе со мной? У меня такое чувство, что каждый день, проведённый с тобой, будет весёлым."
     },
     {
       "id": 26,
       "model": "영지",
       "teller": "Ён-джи",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Удивительно, И Сан. В отличие от меня, ты попытался отразить истинный образ во всей его прямоте."
     },
     {
       "id": 27,
       "model": "영지",
       "teller": "Ён-джи",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Образы не накладываются друг на друга... Они не размыты и не дрожат."
     },
     {
       "id": 28,
       "model": "과거구보",
       "teller": "Губо",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "И Сан, ты слишком беспечен."
     },
     {
       "id": 29,
       "model": "과거구보",
       "teller": "Губо",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Зачем же ты оставляешь это как игрушку, когда оно может быть чем-то гораздо большим?"
     },
     {
@@ -254,7 +254,7 @@
       "id": 37,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "О чём ты думаешь?"
     },
     {

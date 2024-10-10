@@ -5,7 +5,7 @@
       "place": "Коридор в Корп. N",
       "model": "구보",
       "teller": "Губо",
-      "title": "N Corp.",
+      "title": "Корп. N",
       "content": "Ты что, решил уйти, мой глупый товарищ?"
     },
     {
@@ -22,28 +22,28 @@
       "id": 3,
       "model": "구보",
       "teller": "Губо",
-      "title": "N Corp.",
+      "title": "Корп. N",
       "content": "Тебе некуда возвращаться, и ты тащишь это шаткое тело за собой?"
     },
     {
       "id": 4,
       "model": "구보",
       "teller": "Губо",
-      "title": "N Corp.",
+      "title": "Корп. N",
       "content": "Ты действительно веришь, что найдешь место, которое сможешь назвать домом, куда бы ты ни пошел?"
     },
     {
       "id": 5,
       "model": "구보",
       "teller": "Губо",
-      "title": "N Corp.",
+      "title": "Корп. N",
       "content": "Тогда приятного тебе отдыха."
     },
     {
       "id": 6,
       "model": "구보",
       "teller": "Губо",
-      "title": "N Corp.",
+      "title": "Корп. N",
       "content": "Я вернусь, когда наступят сумерки."
     },
     {
@@ -60,21 +60,21 @@
       "id": 9,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Верно. После этого мы все остались в одиночестве."
     },
     {
       "id": 10,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Только тогда..."
     },
     {
       "id": 11,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Наконец-то."
     },
     {
@@ -82,7 +82,7 @@
       "place": "Лаборатория Корп. К",
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Настал мой черед."
     },
     {
@@ -100,14 +100,14 @@
       "place": "Цветущая Лига Девяти Литераторов",
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Но должен сказать, немного обидно слышать, как вы называете их детскими игрушками."
     },
     {
       "id": 16,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Вы не скажете так, когда узнаете, что животные чувствуют боль точно так же, как и мы."
     },
     {
@@ -115,35 +115,35 @@
       "place": "Увядающая Лига Девяти Литераторов",
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Донран, не делай неуклюжих попыток, если не планируешь спасти всех в Городе."
     },
     {
       "id": 18,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Если бы я думала, что этой жалкой технологии достаточно, чтобы помочь каждому человеку, я бы отдала ей все силы."
     },
     {
       "id": 19,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Но... ты думаешь, это что-то изменит? В мире по-прежнему будет ужасный беспорядок."
     },
     {
       "id": 20,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Было совершенно нормально испытывать боль. Мне не нужно было напрягать свое тело и сердце, пытаясь что-то вылечить. Я был таким глупым, не так ли?"
     },
     {
       "id": 21,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Тогда ты должен был подготовиться к этому! Имей смелость прикусить язык и умереть, если не мог вынести жизнь в одиночестве на родине!"
     },
     {
@@ -159,77 +159,77 @@
       "id": 24,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Чему удивляешься? Ты, должно быть, слышал истории о Сингулярности нашего Крыла."
     },
     {
       "id": 25,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Увидеть это вживую оказалось иначе. Я не думал, что зайду так далеко..."
     },
     {
       "id": 26,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Да, у большинства похожая реакция. Итак... можешь напомнить мне, что ты умеешь делать?"
     },
     {
       "id": 27,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "А, начнем с объяснения технологии, которую я изобрел..."
     },
     {
       "id": 28,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Мои ожидания особенно высоки, так как я слышала, что ты был членом Лиги Девяти. Тот... Ён-джи все еще считается пропавшим, верно?"
     },
     {
       "id": 29,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Да, это так."
     },
     {
       "id": 30,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Что ж, жаль, что Лига распалась... Но нам повезло, что удалось завербовать одного из них."
     },
     {
       "id": 31,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Лига Девяти... всегда была обильной тенью, не так ли. И тогда, и сейчас..."
     },
     {
       "id": 32,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Кстати, это напоминает мне о существе, которое так же плакало обращаясь ко мне в прошлом..."
     },
     {
       "id": 33,
       "model": "알폰소",
       "teller": "Альфонсо",
-      "title": "K Corp.",
+      "title": "Корп. K",
       "content": "Донран?"
     },
     {
       "id": 34,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "О... Я имею в виду, причина, по которой я пришел сюда..."
     },
     {
@@ -249,14 +249,14 @@
       "id": 38,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ха-ха. Что ты сейчас делаешь?"
     },
     {
       "id": 39,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Лига Девяти распущена, и пьеса окончена. Ты больше не Юран."
     },
     {
@@ -278,7 +278,7 @@
       "id": 43,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Не могла бы ты следить за словами? Я не спасал теленка в ожидании награды."
     },
     {
@@ -290,21 +290,21 @@
       "id": 45,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Тогда я верил, что можно спасать жизни без какой-либо платы."
     },
     {
       "id": 46,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Полагаю, не только моя работа... сгорела в тот день в сжигателе."
     },
     {
       "id": 47,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Сад моего разума, который я так долго взращивал, сгорел вместе с ней."
     },
     {
@@ -331,14 +331,14 @@
       "id": 52,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "……"
     },
     {
       "id": 53,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Интересно, как думаешь, та корова сейчас мирно пасется где-нибудь?"
     },
     {
@@ -350,42 +350,42 @@
       "id": 55,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Не думаю... что он узнает меня..."
     },
     {
       "id": 56,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я слишком сильно изменился по сравнению с тем, кем был в прошлом."
     },
     {
       "id": 57,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Да, ты права. Все трофеи и награды на моем столе, восхваляющие мое мастерство, – лишь пустые оболочки."
     },
     {
       "id": 58,
       "model": "동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Хоть они и великолепно сияют... внутри они пусты. Это оболочки, которые я никогда бы не получил, не будь я членом Лиги."
     },
     {
       "id": 59,
       "model": "동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Вот почему мне нравились фотографии. Они... содержат мой образ во всей его честности."
     },
     {
       "id": 60,
       "model": "동랑",
       "teller": "Донран, Отрицающий Всё",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Сколько бы времени ни прошло, когда я смотрю на небо... я ничего не вижу. Как будто я под огромной тенью..."
     },
     {

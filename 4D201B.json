@@ -15,14 +15,14 @@
       "id": 2,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Это же не городской рынок. Здесь стало слишком шумно."
     },
     {
       "id": 3,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "...Девять человек — было уже достаточно."
     },
     {
@@ -34,7 +34,7 @@
       "id": 5,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "...Может ты заткнёшься?"
     },
     {
@@ -51,7 +51,7 @@
       "id": 8,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Не будь такой кислой, Донбек. Оживлённость — это же хорошо."
     },
     {

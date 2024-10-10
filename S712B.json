@@ -2,24 +2,24 @@
   "dataList": [
     {
       "id": 0,
-      "place": "La Manchaland, Area 1",
+      "place": "Ла-Манчалэнд, Зона 1",
       "model": "이발사부하",
-      "teller": "Scissors-holding Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад с ножницами",
+      "title": "Ла-Манчалэнд",
       "content": "П-пожалуйста... Не убивайте меня."
     },
     {
       "id": 1,
       "model": "이발사부하",
-      "teller": "Scissors-holding Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад с ножницами",
+      "title": "Ла-Манчалэнд",
       "content": "Я... я не была так сыта уже двести лет... Можете ли вы представить... каково это, когда ненасытный голод пожирает тебя заживо целых два столетия...?"
     },
     {
       "id": 2,
       "model": "이발사부하",
-      "teller": "Scissors-holding Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад с ножницами",
+      "title": "Ла-Манчалэнд",
       "content": "Прошу вас, пожалуйста? Я... я слишком увлеклась. Я буду жить как раньше, в тенях. Словно меня и не существует. Пожалуйста..."
     },
     {
@@ -30,15 +30,15 @@
     {
       "id": 4,
       "model": "이발사부하",
-      "teller": "Scissors-holding Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад с ножницами",
+      "title": "Ла-Манчалэнд",
       "content": "П-подойдите к тому аттракциону. Я расскажу вам о коротком пути, который приведёт вас прямо к кнопке. Просто следуйте за мной."
     },
     {
       "id": 5,
       "model": "이발사부하",
-      "teller": "Scissors-holding Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад с ножницами",
+      "title": "Ла-Манчалэнд",
       "content": "Войдите и сразу поверните направо..."
     },
     {

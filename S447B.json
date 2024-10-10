@@ -10,7 +10,7 @@
       "id": 1,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Из-за суматохи всё на мгновение остановилось, верно?"
     },
     {
@@ -24,7 +24,7 @@
       "id": 3,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Нет, нет, так не пойдет. Потери, вызванные этой короткой паузой, будут огромны, Самджо."
     },
     {
@@ -36,14 +36,14 @@
       "id": 5,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "А, видите ли... Эта штука плачет вместо нас."
     },
     {
       "id": 6,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Поэтому я всегда смотрю на неё с благодарностью и жалостью."
     },
     {
@@ -73,21 +73,21 @@
       "id": 12,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "А-а~ Я всё гадал, как же это произошло, и теперь я знаю ответ."
     },
     {
       "id": 13,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Как наша система безопасности была так легко нарушена, как мы постоянно теряли вас из виду, и как вы продолжали исчезать..."
     },
     {
       "id": 14,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "У вас была \"вуаль\". Ах, это было так просто, почему я не подумал об этом раньше?"
     },
     {
@@ -119,28 +119,28 @@
       "id": 20,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "......"
     },
     {
       "id": 21,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Это дорогой предмет на основе Сингулярности, который могут позволить себе только известные Корректировщики, руководители Крыльев или самые богатые классы... Даже если я спрошу, как ты его получила, ты ведь не ответишь, верно?"
     },
     {
       "id": 22,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Является ли то, что я вижу, правдой, стоящей за регенерационными ампулами?"
     },
     {
       "id": 23,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Да, верно. Источник ампул, которые ты так стремишься уничтожить."
     },
     {
@@ -161,14 +161,14 @@
       "id": 26,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Эти регенерационные ампулы не просто восстанавливают тело."
     },
     {
       "id": 27,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Эти слезы могут убивать так же легко, как и спасать."
     },
     {
@@ -182,7 +182,7 @@
       "id": 29,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Мне больше нечего тебе сказать, если ты не поверишь мне даже после того, как уже несколько раз видел это своими глазами."
     },
     {
@@ -196,7 +196,7 @@
       "id": 31,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Что?"
     },
     {
@@ -229,7 +229,7 @@
       "id": 36,
       "model": "옷벗은삼조",
       "teller": "Самджо",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "В детстве я мечтал стать профессиональным пловцом в Гнезде. Я могу нырнуть с этой высоты без проблем."
     },
     {
@@ -241,42 +241,42 @@
       "id": 38,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ха-ха, ты снова перестарался, Самджо. Тебе не нужно так стараться. Всё в порядке, просто оставайся здесь."
     },
     {
       "id": 39,
       "model": "옷벗은삼조",
       "teller": "Самджо",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Это вовсе не проблема. Вы же ведь сами работали над ампулой."
     },
     {
       "id": 40,
       "model": "옷벗은삼조",
       "teller": "Самджо",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Господин Донран, директор Альфонсо... и бесчисленные другие исследователи годами работали над совершенствованием регенерационных ампул Корпорации K."
     },
     {
       "id": 41,
       "model": "옷벗은삼조",
       "teller": "Самджо",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Я могу быть здесь только потому, что доверяю этой технологии. Я горжусь ею."
     },
     {
       "id": 42,
       "model": "옷벗은삼조",
       "teller": "Самджо",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. K",
       "content": "Я вернусь через минуту."
     },
     {
       "id": 43,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Подожди, Самджо?"
     },
     {
@@ -291,21 +291,21 @@
       "id": 46,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ах..."
     },
     {
       "id": 47,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "О боже, какая неприятность. Самджо никогда не знал о неочищенных слезах."
     },
     {
       "id": 48,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Мы не сможем достать его тело. Тем не менее... Хорошо, что он до конца оставался гордым за нас."
     },
     {
@@ -317,14 +317,14 @@
       "id": 50,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Господин Самджо был примером успеха из скромных начал. Мне нравятся такие люди."
     },
     {
       "id": 51,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ребята, которых нанимают Крылья, несмотря на то, что их квалификация намного ниже требований Крыльев, как правило, лояльны к своим работодателям."
     },
     {
@@ -336,7 +336,7 @@
       "id": 53,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Верно, ты ведь знаешь, что происхождение из Гнезда не дает тебе свободного пропуска в Крылья, так?"
     },
     {
@@ -358,28 +358,28 @@
       "id": 57,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Функция слез – возвращать вещи в их первоначальное состояние."
     },
     {
       "id": 58,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Регенерационные ампулы, доступные сейчас, – это продукт многочисленных процессов очистки."
     },
     {
       "id": 59,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Когда человек, потерявший руку, принимает ампулу, он вспомнит, какой рука была в её изначальном состоянии."
     },
     {
       "id": 60,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Когда кто-то с вмятиной на голове принимает ампулу, его голова восстановится до формы, которую он помнит как изначальную."
     },
     {
@@ -401,21 +401,21 @@
       "id": 64,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Действительно. Это становится более эффективным с этапом очистки и разбавления идеями человеческих концепций."
     },
     {
       "id": 65,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Но когда капля слезы, лишенная какой-либо интерпретации, касается кого-то..."
     },
     {
       "id": 66,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Они будут возвращены назад... к изначальной форме человечества."
     },
     {
@@ -427,112 +427,112 @@
       "id": 68,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Или, может быть, стоит сказать, что она помогает вернуться в то состояние?"
     },
     {
       "id": 69,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Хотя она пытается... кажется, она не способна полностью привести человека в это состояние."
     },
     {
       "id": 70,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "В результате она устраняет боль, но, ну..."
     },
     {
       "id": 71,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Итак, ты удовлетворена, Донбек? Ты была права, и Самджо, вероятно, превратился в изначальную форму человечества или что-то в этом роде в чане со слезами. Поздравляю. Теперь, чего ты действительно хочешь?"
     },
     {
       "id": 72,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "......"
     },
     {
       "id": 73,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Сингулярность. Навсегда уничтожить её и всё, что с ней связано, используя сжигатель концептов."
     },
     {
       "id": 74,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Сжигатель концептов, да? Ты снова его используешь?"
     },
     {
       "id": 75,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Итак, Донбек... Допустим, тебе удастся вернуться в эпоху небытия... Что дальше?"
     },
     {
       "id": 76,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Рубить деревья, строить хижины, делать одежду из кожи... Это тот образ жизни, которого ты хочешь?"
     },
     {
       "id": 77,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Оплакивать потерянные жизни деревьев и животных, которых ты убила?"
     },
     {
       "id": 78,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Послушай, Донбек... С таким отношением... ты будешь не более чем примитивным любителем. Ты действительно уверена, что этого хочешь?"
     },
     {
       "id": 79,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Ты... всегда задаешь глупые вопросы, и тогда, и сейчас."
     },
     {
       "id": 80,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Мы решили использовать отвратительные технологии как инструменты, чтобы избавиться от их отвратительных создателей."
     },
     {
       "id": 81,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Таким образом, никто не сможет остаться в будущем, которое мы представляем."
     },
     {
       "id": 82,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Вот почему мы могли быть свободными. От одержимости выживанием."
     },
     {
       "id": 83,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ха-ха, о чем ты говоришь? Так ты не представляла будущее; ты просто не можешь отпустить прошлое."
     },
     {
@@ -549,7 +549,7 @@
       "id": 86,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "И Сан, похоже ты в порядке."
     },
     {
@@ -561,28 +561,28 @@
       "id": 88,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Ты прав. Я хотела, чтобы он умер."
     },
     {
       "id": 89,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Но я уверена, что он желал того же."
     },
     {
       "id": 90,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Он бы не сопротивлялся, пока оно вгрызалось в его сердце."
     },
     {
       "id": 91,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Это было неприятно. Казалось, будто я исполняю твое желание."
     },
     {
@@ -599,7 +599,7 @@
       "id": 94,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Коле— Хаах, почему бы нам тогда не услышать это от него самого?"
     },
     {
@@ -611,28 +611,28 @@
       "id": 96,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Тогда этот разговор окончен."
     },
     {
       "id": 97,
       "model": "동백",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Честно говоря, я рада этому."
     },
     {
       "id": 98,
       "model": "동백여우각성",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Я воспользуюсь этой возможностью, чтобы убить двух моих старых товарищей собственными руками."
     },
     {
       "id": 99,
       "model": "동백여우각성",
       "teller": "Донбек",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Затем я захвачу и сожгу Сингулярность."
     }
   ]

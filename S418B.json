@@ -5,14 +5,14 @@
       "place": "Гнездо К - Внутри Филиала КЛ",
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "А, похоже, это последний коридор. Как только мы пройдем его, мы достигнем края объекта."
     },
     {
       "id": 1,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "После того, как я заберу оттуда свои ценные вещи, я передам вам право собственности на Золотую Ветвь, как и обещал."
     },
     {
@@ -24,7 +24,7 @@
       "id": 3,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Возвращение лаборатории было частью контракта."
     },
     {
@@ -71,14 +71,14 @@
       "id": 12,
       "model": "란",
       "teller": "???",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Что, считать не умеете? Вас явно больше, чем нас, с огромным перевесом. Не будьте детьми..."
     },
     {
       "id": 13,
       "model": "란",
       "teller": "???",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Наконец-то добрались, червяки?"
     },
     {
@@ -90,49 +90,49 @@
       "id": 15,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Где остальные ваши члены, старший исследователь Ран?"
     },
     {
       "id": 16,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "...Вижу, вам удалось привести больше помощи в этом бардаке."
     },
     {
       "id": 17,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "И забудь это \"старший\", мы даже не так долго знакомы. Разве ты не видишь, что происходит?"
     },
     {
       "id": 18,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Они все эвакуировались. А я здесь... выигрываю для них время."
     },
     {
       "id": 19,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Это интересно... Мы думали, что ворвались неожиданно, но вы знали об этом заранее и сбежали?"
     },
     {
       "id": 20,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Потому что вы червяки. Посмотри на себя, зазнался после получения награды лучшего сотрудника..."
     },
     {
       "id": 21,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Устраиваете здесь рейд, осмеливаетесь пытаться поймать нас."
     },
     {
@@ -149,49 +149,49 @@
       "id": 24,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "...Допустим, я это сделаю. Очевидно, что вы со мной сделаете."
     },
     {
       "id": 25,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Вы нейтрализуете меня и будете держать едва живой..."
     },
     {
       "id": 26,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "\"Лечить\" меня своими хвалеными регенерационными ампулами..."
     },
     {
       "id": 27,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "И так по кругу, пока не получите нужные вам ответы."
     },
     {
       "id": 28,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Звучит как проблема, которую можно предотвратить, если сразу дать нам ответы. Я прошу слишком многого?"
     },
     {
       "id": 29,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Конечно, просишь. В отличие от вас..."
     },
     {
       "id": 30,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Мы не планируем жить как тараканы, питающиеся тем, что дают сверху."
     },
     {
@@ -203,7 +203,7 @@
       "id": 32,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "А, без разницы~ Я наигралась с вами."
     },
     {
@@ -217,14 +217,14 @@
       "id": 34,
       "model": "란",
       "teller": "Ран",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Именно, проявляйте любопытство только к тому, что происходит прямо перед вашими глазами. Вот каким должен быть исследователь."
     },
     {
       "id": 35,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Ран..."
     },
     {
@@ -251,7 +251,7 @@
       "id": 40,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я в порядке... Кто-то из группы Данте оттолкнул меня, как только раздался взрыв. Знаете, тот тихий парень с пугающим взглядом."
     },
     {
@@ -265,7 +265,7 @@
       "id": 42,
       "model": "니코",
       "teller": "Нико",
-      "title": "Rosespanner Workshop",
+      "title": "Мастерская Ключа и Розы",
       "content": "Фух, было близко."
     },
     {
@@ -280,14 +280,14 @@
       "id": 45,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Должно быть, именно вера в то, что они в любой момент вернутся к жизни, побудила их без колебаний броситься в опасность."
     },
     {
       "id": 46,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Не из-за какой-либо дружбы или симпатии... Не так ли?"
     },
     {
@@ -313,14 +313,14 @@
       "id": 51,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Должно быть... так оно и есть, да."
     },
     {
       "id": 52,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Как удобно. Вы можете восстановить свое тело без использования регенерационных ампул."
     },
     {
@@ -344,21 +344,21 @@
       "id": 56,
       "model": "니코",
       "teller": "Нико",
-      "title": "Rosespanner Workshop",
+      "title": "Мастерская Ключа и Розы",
       "content": "Мы в полном порядке."
     },
     {
       "id": 57,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Ваша группа заблокировала взрыв для нас, так что мы оказались в порядке."
     },
     {
       "id": 58,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Вот... почему вы не принимали ампулы. У этих часов были особые силы."
     },
     {
@@ -372,7 +372,7 @@
       "id": 60,
       "model": "슈렌느",
       "teller": "Шренн",
-      "title": "K Corp. Laboratory",
+      "title": "Лаборатория Корп. K",
       "content": "Понятно... Ну, черт... Все ампулы, которые я принесла... теперь бесполезны."
     },
     {

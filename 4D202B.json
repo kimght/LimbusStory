@@ -5,21 +5,21 @@
       "place": "Цветущая Лига Девяти Литераторов",
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "……"
     },
     {
       "id": 1,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Ён-джи снова не появился на этой конференции."
     },
     {
       "id": 2,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я слышал, его официально пригласило Крыло. Кажется, уже во второй раз."
     },
     {
@@ -36,21 +36,21 @@
       "id": 5,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Почему ты так недовольна этим? Ведь это ты отказалась от предложения брата Ён-джи пойти с ним, Донбек."
     },
     {
       "id": 6,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "……"
     },
     {
       "id": 7,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Не нужно так зацикливаться на числе девять. Что, если нас будет восемь или пять?"
     },
     {
@@ -67,28 +67,28 @@
       "id": 10,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "О, давно не виделись, Нуль-ин. Приятно встретить здесь земляка."
     },
     {
       "id": 11,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты прибыла сюда позже нас, но, похоже, адаптировалась гораздо быстрее."
     },
     {
       "id": 12,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Но должен сказать... Немного обидно слышать, как ты называешь их детскими игрушками."
     },
     {
       "id": 13,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты не станешь так говорить, когда узнаешь, что животные чувствуют боль точно так же, как мы."
     },
     {
@@ -100,70 +100,70 @@
       "id": 15,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Нуль-ин, ты думаешь, это какой-то безвкусный аукцион, где технологии продаются за наличные?"
     },
     {
       "id": 16,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Всего несколько месяцев назад ты даже не удосужилась взглянуть на нас, называя конференции просветителей немодными... Теперь же ты пришла, чтобы урвать кусок прибыли, которую учуяла?"
     },
     {
       "id": 17,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Донбек..."
     },
     {
       "id": 18,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Не думай, что я тебя прикрываю. Я просто не хочу видеть ее лицо, вот и все."
     },
     {
       "id": 19,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Кстати... Что заставило тебя так увлечься лечением животных? Они же не могут оплатить счета или чего-то подобного. Как ты собираешься зарабатывать на жизнь?"
     },
     {
       "id": 20,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ты любишь много ворчать. Ну, я думаю, я мог бы открыть куриный ресторан?"
     },
     {
       "id": 21,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Что?"
     },
     {
       "id": 22,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Послушай меня на секунду. Я мог бы вырастить у кур множество крыльев... и отрезать их, не причиняя боли."
     },
     {
       "id": 23,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Им нужна только одна пара чтобы летать. Таким образом, люди получат больше мяса, а курицы ничего не потеряют."
     },
     {
       "id": 24,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Тьфу..."
     },
     {
@@ -175,14 +175,14 @@
       "id": 26,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Давайте посмотрим, как насчет \"Пухлая Курочка\"?"
     },
     {
       "id": 27,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Донран, никогда больше не пытайся давать названия. Понял?"
     },
     {
@@ -219,28 +219,28 @@
       "id": 34,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Знаешь, Донбек?"
     },
     {
       "id": 35,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Твои слова тоже не были особенно обнадеживающими."
     },
     {
       "id": 36,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "На самом деле, именно слова Нуль-ин преподали мне важный урок."
     },
     {
       "id": 37,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Что, как бы я ни старался, если технология не имеет немедленного применения... никто даже не взглянет на нее..."
     }
   ]

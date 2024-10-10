@@ -5,49 +5,49 @@
       "place": "Увядающая Лига Девяти Литераторов",
       "model": "T사기술청2",
       "teller": "Сборщик 4-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "Где Ён-чжи, лидер Лиги девяти Литераторов, и его стеклянная технология?"
     },
     {
       "id": 1,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "……"
     },
     {
       "id": 2,
       "model": "T사기술청2",
       "teller": "Сборщик 4-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "Это цена, которую вы платите за время, потраченное впустую."
     },
     {
       "id": 3,
       "model": "T사기술청2",
       "teller": "Сборщик 4-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "Откройте дверь в подвал."
     },
     {
       "id": 4,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Откуда они знают о подвале..."
     },
     {
       "id": 5,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Кто-то из нас предал лигу."
     },
     {
       "id": 6,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Гап-рён не показывался со вчерашнего дня... Должно быть, это был он."
     },
     {
@@ -59,7 +59,7 @@
       "id": 8,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "...Скажи, как насчет того, чтобы я в последний раз устроила для вас потрясающий фейерверк? Огонь может быть довольно красивым цветком, если смотреть издалека."
     },
     {
@@ -71,7 +71,7 @@
       "id": 10,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Позвольте спросить в последний раз. Никто из вас здесь ведь не предатель, верно?"
     },
     {
@@ -88,21 +88,21 @@
       "id": 13,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "……"
     },
     {
       "id": 14,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Это был я, Донбек. Я продал Лигу."
     },
     {
       "id": 15,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "……"
     },
     {
@@ -138,14 +138,14 @@
       "place": "Зал для Просмотра",
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Это был я, Донбек. Я выдал группу."
     },
     {
       "id": 23,
       "model": "동백에고각성중_찔림",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Я так и знала... Это должен был быть...!!! Ты... ты... ёбаный предатель!!!!"
     },
     {
@@ -163,77 +163,77 @@
       "id": 26,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "...Знаешь, И Сан?"
     },
     {
       "id": 27,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Громкое тиканье часов у входной двери — это знак того, что сотрудники технического агентства Корпорации Т пришли к тебе домой."
     },
     {
       "id": 28,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я уверен, что агентство посетило большинство из них. Это незабываемый опыт. Но ты не мог этого знать, так как, должно быть, находился под покровительством Корпорации Т, как талантливый архитектор."
     },
     {
       "id": 29,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Первый визит обычно бывает внезапным и тихим. Большинство ошеломлены неожиданным появлением... но они всё ещё сохраняют свою гордость и веру как члены Лиги."
     },
     {
       "id": 30,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Агентство тоже это знает. Они также знают, что их визит посеет страх, что они снова могут прийти в любое время."
     },
     {
       "id": 31,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Второй визит — это момент, когда всё начинает меняться. Теперь они знают, откуда течёт моё время и куда оно направляется."
     },
     {
       "id": 32,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "У них есть моё прошлое, настоящее и будущее. Формы всех моих слабостей и желаний находятся в их руках."
     },
     {
       "id": 33,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Каким был бы твой выбор? В тех же обстоятельствах, ты бы выбрал иначе?"
     },
     {
       "id": 34,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "И если да... можешь ли ты с уверенностью сказать, что поступил бы так?"
     },
     {
       "id": 35,
       "model": "T사기술청1",
       "teller": "Сборщик 2-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "Органика."
     },
     {
       "id": 36,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "……"
     },
     {
@@ -241,35 +241,35 @@
       "place": "Дороги Гнезда T",
       "model": "T사기술청1",
       "teller": "Сборщик 2-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "В частности, регенерация и лечение животных — это ваши интересы, верно?"
     },
     {
       "id": 38,
       "model": "T사기술청1",
       "teller": "Сборщик 2-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "Знаете ли вы о Корпорации К, Крыле, с которым мы недавно сотрудничаем? Это развивающееся Крыло, чьё Гнездо наполнено изумрудным сиянием."
     },
     {
       "id": 39,
       "model": "T사기술청1",
       "teller": "Сборщик 2-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "Это Крыло может заинтересоваться вашей технологией."
     },
     {
       "id": 40,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "……"
     },
     {
       "id": 41,
       "model": "T사기술청1",
       "teller": "Сборщик 2-ого Класса",
-      "title": "T Corp.",
+      "title": "Корп. T",
       "content": "...Я уверен, вы понимаете, что это не рядовая возможность."
     },
     {
@@ -282,7 +282,7 @@
       "id": 43,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "……"
     }
   ]

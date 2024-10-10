@@ -11,7 +11,7 @@
       "id": 1,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Правда? Самджо... Ты тоже подавал заявку в Корпорацию B?"
     },
     {
@@ -47,14 +47,14 @@
       "id": 7,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Наши исследователи... похоже, совсем не смогли дать отпор."
     },
     {
       "id": 8,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Сотрудники Корпорации K, похоже, не испытывали проблем с избиением моих коллег, которые даже кулаком не замахнулись."
     },
     {
@@ -66,7 +66,7 @@
       "id": 10,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Что я хочу знать, так это как вы всё ещё живы."
     },
     {
@@ -78,14 +78,14 @@
       "id": 12,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Нет. Эта бомба не предназначалась для уничтожения. Она была средством."
     },
     {
       "id": 13,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "В плане Ран и Шренн появилась неожиданная переменная. Что вы такое?"
     },
     {
@@ -111,7 +111,7 @@
       "id": 18,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "...И? Я не люблю разговорчивых людей. Не собираюсь и объяснять что-либо вам."
     },
     {
@@ -123,21 +123,21 @@
       "id": 20,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "...Никто из нас не пользуется WARP поездами."
     },
     {
       "id": 21,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Мы также не едим мясо, которое предлагает Город."
     },
     {
       "id": 22,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Когда ты знаешь правду, ты бы даже не подумал о чём-то столь поверхностном, как поездки в Подворотни."
     },
     {
@@ -149,7 +149,7 @@
       "id": 24,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Массы невежественны. Они не поверят, даже если показать им это прямо перед их глазами."
     },
     {
@@ -166,7 +166,7 @@
       "id": 27,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Ты не поймёшь—"
     },
     {
@@ -193,21 +193,21 @@
       "id": 32,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "……"
     },
     {
       "id": 33,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Если мы когда-нибудь будем набирать новых членов..."
     },
     {
       "id": 34,
       "model": "마리르",
       "teller": "Марли",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Я попробую исключить образование из требований."
     },
     {

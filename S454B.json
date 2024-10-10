@@ -89,28 +89,28 @@
       "id": 17,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Судя по всему... Нам придется читать этот сценарий вслух, верно?"
     },
     {
       "id": 18,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Может быть, Донбек тоже придет, И Сан."
     },
     {
       "id": 19,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Если Донбек попала в это... пространство до своей смерти... Хаха, я не уверен, как это назвать."
     },
     {
       "id": 20,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "В любом случае, если вход открылся, пока она была жива... Ее сознание могло быть завернуто здесь, как и наше."
     },
     {
@@ -122,7 +122,7 @@
       "id": 22,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Она слишком долго колебалась... Что, ты хотел от меня такого рода эпитафию?"
     },
     {
@@ -134,14 +134,14 @@
       "id": 24,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Нет, на самом деле... Ты и сам знал, И Сан. В том состоянии смерть Донбек была неизбежна... Ее жизнь болезненно рассеялась бы, если бы я ее оставил."
     },
     {
       "id": 25,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Вот почему ты не можешь набрасываться на меня, несмотря на кипящий внутри гнев. Это не сильно бы изменило ситуацию."
     },
     {
@@ -198,14 +198,14 @@
       "id": 36,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Какая интересная реплика."
     },
     {
       "id": 37,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "...Почему ты стоял перед дверью как дурак?"
     },
     {
@@ -217,7 +217,7 @@
       "id": 39,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Что ты уставился на мое лицо, словно смотришь на мертвеца? Что, я выгляжу круто?"
     },
     {
@@ -239,14 +239,14 @@
       "id": 43,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "О чем вы там шепчетесь?"
     },
     {
       "id": 44,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Знаешь, Донбек. Гап-рён вспоминал, как мы все оказались здесь в Корпорации T."
     },
     {
@@ -258,7 +258,7 @@
       "id": 46,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Хорошая игра. Настоящий Гап-рён тоже всегда просил нас не называть его по имени."
     },
     {
@@ -305,7 +305,7 @@
       "id": 55,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Ах... Это я позвал И Сана и Донбек. Мы выросли в одном городе."
     },
     {
@@ -385,21 +385,21 @@
       "id": 71,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Эй, Анён, ты собираешься продолжать болтать?"
     },
     {
       "id": 72,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Сегодня конференция. Смотри, я создала яркое развлечение."
     },
     {
       "id": 73,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Смотри. Оно взрывается лучше, чем раньше, не так ли?"
     },
     {
@@ -411,105 +411,105 @@
       "id": 75,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Здесь не видно звезд в ночном небе из-за ослепляющих огней и дымовых труб, заполняющих воздух. Звезды в моем родном городе были такими красивыми, было бы весело наблюдать за ними вместе."
     },
     {
       "id": 76,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Более того, здесь нет цвета. Там, где мы были, мы могли хотя бы видеть цветение цветов."
     },
     {
       "id": 77,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Поэтому... Я хотела как-нибудь вернуть это."
     },
     {
       "id": 78,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Смотри. Даже если все черно-белое, ты все равно можешь это видеть, верно?"
     },
     {
       "id": 79,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Огонь создает такой теплый цвет."
     },
     {
       "id": 80,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Мне немного стыдно. Мне пока нечем похвастаться."
     },
     {
       "id": 81,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Это действительно то, в чем стоит так весело признаваться?"
     },
     {
       "id": 82,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Хаха, лечение раненых животных на улицах занимало слишком много моего времени."
     },
     {
       "id": 83,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Я не мог оставить их. Они напоминали мне о желтом теленке, которого я оставил в родном городе."
     },
     {
       "id": 84,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Он так тебя любил. Не понимаю, что он в тебе нашел."
     },
     {
       "id": 85,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Его бросила мать. Искать тепло, к которому можно прильнуть, - это инстинкт всех живых существ."
     },
     {
       "id": 86,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Ну, в данный момент, наверное... у него уже есть потомство?"
     },
     {
       "id": 87,
       "model": "동랑",
       "teller": "Донран",
-      "title": "K Corp. Dept. of Food Resource Development",
+      "title": "ДРПР Корп. К",
       "content": "Хм, вряд ли. Тот теленок был мужского пола."
     },
     {
       "id": 88,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "......"
     },
     {
       "id": 89,
       "model": "해방연합대원",
       "teller": "Воскресший? Член Альянса Освобождения",
-      "title": "Technology Liberation Alliance",
+      "title": "Союз технологического особождения",
       "content": "Агх... Урргиахх..."
     },
     {
@@ -521,14 +521,14 @@
       "id": 91,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Ох, опять..."
     },
     {
       "id": 92,
       "model": "과거동백",
       "teller": "Донбек",
-      "title": "League of Nine Littérateurs",
+      "title": "Лига Девяти Литераторов",
       "content": "Гап-рён, похоже, владелец бара пришел забрать долг, который ты ему должен. Почему бы тебе не выйти и не поприветствовать их?"
     },
     {
