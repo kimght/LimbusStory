@@ -86,7 +86,7 @@
 Измаил: Это означает, что, возможно, кто-то там заставил их сменить гардероб.
 
 # Original: As murmur among the Fixers begin to grow, slowly increasing in intensity, Alessio shouts from behind the line for us to stop.
-Рассказчик: Когда шёпот среди Корректировщиков начинает нарастать, постепенно усиливаясь, Алессио кричит из-за ограждения, чтобы мы остановились.
+Рассказчик: Когда шёпот среди Корректировщиков начинал нарастать, постепенно усиливаясь, Алессио прокричал из конца очереди, чтобы мы остановились.
 
 # Original: Hold! Don't approach La Manchaland yet. We must allow it the first ten minutes post-manifestation to expel its wastes. Stand behind the line for safety.
 Алессио: Стойте! Пока не приближайтесь к Ла-Манчалэнду. В первые десять минут после появления, мы должны позволить ему избавиться от отходов. Оставайтесь за ограждением для безопасности.

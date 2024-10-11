@@ -1,5 +1,5 @@
 ﻿# Original: La Manchaland, bloom your smiles of joy~ La Manchaland, a place of freedom to dream side-by-side with Bloodfiends. We wish you a wonderful stay here~
-Рассказчик: Ла-Манчалэнд, расцвети улыбками радости~ Ла-Манчалэнд, место свободы, где можно мечтать бок о бок с Кровожадами. Желаем вам прекрасного пребывания здесь~
+Рассказчик: Ла-Манчалэнд, расцветайте в улыбках радости~ Ла-Манчалэнд, место свободы, где можно мечтать бок о бок с Кровожадами. Желаем вам прекрасного пребывания здесь~
 
 # Original: Admissions end in five minutes! Please form a line and enter in an orderly fashion. Remember: enter through the back left, and exit through the back left~
 Рассказчик: Прием заканчивается через пять минут! Пожалуйста, постройтесь в очередь и входите по порядку. Помните: вход через левую заднюю часть, и выход через левую заднюю часть~
@@ -8,7 +8,7 @@
 Рассказчик: После окончания приема вход может быть затруднен, поэтому, пожалуйста, ждите у ворот с вашими пакетами крови!
 
 # Original: Well, then. I hope I'll be seeing some of you again in a few hours.
-Хан-уль: Что ж, тогда. Надеюсь, я увижу некоторых из вас снова через несколько часов.
+Хан-уль: Что ж, тогда. Надеюсь, через несколько часов я снова увижу некоторых из вас.
 
 # Original: The Fixer's cold voice contrasted with the cheerful voice echoing from the announcement.
 Рассказчик: Холодный голос Корректировщицы контрастировал с жизнерадостным голосом, звучащим из объявления.
