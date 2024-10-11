@@ -11,7 +11,7 @@
 Дон Кихот: Хооах... Хууах...!
 
 # Original: Don Quixote, who stood next to me, was very gradually starting to hyperventilate.
-Рассказчик: Дон Кихот, стоявшая рядом со мной, очень постепенно начинала гипервентилировать.
+Рассказчик: Дон Кихот, стоявшая рядом со мной, постепенно начинала учащенно дышать.
 
 # Original: <You... you okay, Don Quixote?>
 Данте: <Ты... ты в порядке, Дон Кихот?>
@@ -35,7 +35,7 @@
 Рёшу: Хаах....
 
 # Original: Ishmael sighed and stepped forward, sensing that Ryōshū was about to do something we would rather not have her do.
-Рассказчик: Измаил вздохнул и шагнул вперед, чувствуя, что Рёшу собирается сделать что-то, чего мы бы предпочли избежать.
+Рассказчик: Измаил вздохнула и шагнула вперед, чувствуя, что Рёшу собирается сделать что-то, чего мы бы предпочли избежать.
 
 # Original: Sigh, I can tell you what's going on. That Fixer's from the Hana Association.
 Измаил: Вздох, я могу сказать, что происходит. Этот Корректировщик из Ассоциации Хана.
@@ -53,7 +53,7 @@
 Бормочущий Корректировщик: Корректировщик из Ассоциации Хана...?
 
 # Original: That name alone clearly carried a lot of weight among other Fixers. As the Hana Association Fixer, dressed in pure white, walked into the room, they all slowly turned around to gaze upon her.
-Рассказчик: Одно это имя явно имело большой вес среди других Корректировщиков. Когда Корректировщик из Ассоциации Хана, одетый в чисто белое, вошел в комнату, все медленно повернулись, чтобы посмотреть на нее.
+Рассказчик: Одно это имя явно имело большой вес среди других Корректировщиков. Когда Корректировщица из Ассоциации Хана, одетая в чисто белое, вошла в комнату, все медленно повернулись, чтобы посмотреть на нее.
 
 # Original: And...
 Рассказчик: И...
@@ -86,7 +86,7 @@
 Отис: Тц, тц... молодежь нынче...
 
 # Original: Between Camille's nonstop jabbering and Outis' tongue clicking in even, 3-second intervals, I wasn't sure which one of the two was more annoying.
-Рассказчик: Между непрекращающейся болтовней Камилла и равномерным щелканьем языка Отис с интервалом в 3 секунды я не знал, что из двух было более раздражающим.
+Рассказчик: Я не знал, что из непрерывной болтовни Камилла и равномерного щелканья языка Отис каждые 3 секунды было более раздражающим.
 
 # Original: ... Thankfully, we weren't the only ones getting increasingly tired of Camille's antics.
 Рассказчик: ... К счастью, мы были не единственными, кто все больше уставал от выходок Камилла.
@@ -131,7 +131,7 @@
 Рассказчик: Для кого-то, кто очень рад нас видеть... он даже не взглянул в нашу сторону.
 
 # Original: I am a Class 3 Documentation Staff Manager at P Corp. Archival Department. My name is Alessio.
-Алессио: Я Менеджер Документации 3 класса в Архивном Отделе корпорации P. Меня зовут Алессио.
+Алессио: Я Менеджер Документации 3 класса в Архивном Отделе Корпорации P. Меня зовут Алессио.
 
 # Original: And she is...
 Алессио: А она...
@@ -140,10 +140,10 @@
 Хан-уль: Хан-уль.
 
 # Original: So... Head Manager Cesara isn't here to brief us herself.
-Синклер: Значит... Главный Менеджер Цезара не здесь, чтобы провести брифинг самостоятельно.
+Синклер: Значит... Главного Менеджера Цезары здесь нет, чтобы лично провести брифинг.
 
 # Original: Not willing to dirty her boots by coming all the way out here, I see.
-Отис: Не хочет пачкать свои сапоги, приезжая сюда, я вижу.
+Отис: Не хочет пачкать свои сапоги, приезжая сюда, как я вижу.
 
 # Original: Right, then. Let's get on with the briefing, shall we?
 Алессио: Хорошо, тогда. Давайте начнем брифинг, хорошо?
@@ -152,7 +152,7 @@
 Рассказчик: Пока мы все стояли здесь и делились своими предположениями, сотрудник, представившийся как Алессио, начал загружать различные изображения на монитор.
 
 # Original: Yaaaaawn... Mate, do we really gotta go through all this bureaucracy?
-Хитклиф: Яааааавн... Приятель, нам действительно нужно проходить через всю эту бюрократию?
+Хитклиф: Зевок... Приятель, нам действительно нужно проходить через всю эту бюрократию?
 
 # Original: T-the briefing is yet to even commence, however...
 И Сан: О-однако, брифинг еще даже не начался...
@@ -164,7 +164,7 @@
 Измаил: Можем ли мы притвориться, что не знаем его...?
 
 # Original: <Huh, it makes me feel like I'm something of a Fixer myself, sitting here with all these people...>
-Данте: <Хм, это заставляет меня чувствовать себя чем-то вроде Корректировщика, сидя здесь со всеми этими людьми...>
+Данте: <Хм, это заставляет меня самого чувствовать себя чем-то вроде Корректировщика, сидя здесь со всеми этими людьми...>
 
 # Original: Heh. Executive Manager, I have been a leader of numerous operations that would dwarf this little skirmish—
 Отис: Хех. Исполнительный Менеджер, я была лидером многочисленных операций, которые затмили бы эту маленькую стычку—
@@ -203,7 +203,7 @@
 Алессио: Предполагается, что происхождение Ла-Манчалэнда датируется двумястами годами в прошлом, по консервативной оценке.
 
 # Original: This has been determined based on photographic evidence, and the level of decay of the buildings and materials retrieved and analyzed from the phenomenon.
-Алессио: Это было определено на основе фотографических доказательств и уровня разложения зданий и материалов, извлеченных и проанализированных из феномена.
+Алессио: Это было определено на основе фотографических доказательств и уровня разложения зданий и материалов, извлеченных и проанализированных из данного феномена.
 
 # Original: However, La Manchaland was largely unknown and invisible to the public until two months ago. And the raw material that makes up this 'amusement park' is—
 Алессио: Однако Ла-Манчалэнд был в значительной степени неизвестен и невидим для публики до двух месяцев назад. И сырой материал, из которого состоит этот "парк развлечений" - это—
@@ -230,10 +230,10 @@
 Отис: Хех...
 
 # Original: But the truth is, most of you are... fodder. Common as muck, painfully average, garden variety, bargain bin Fixers who are most likely going to meet their dirt-filled miserable ends while stuck on Urban Nightmare duty their whole careers. That's all you'll ever be.
-Хан-уль: Но правда в том, что большинство из вас... пушечное мясо. Обычные, как грязь, мучительно средние, заурядные, дешевые Корректировщики, которые, скорее всего, встретят свой жалкий конец, застряв на заданиях класса Городской Кошмар всю свою карьеру. Это все, чем вы когда-либо будете.
+Хан-уль: Но правда в том, что большинство из вас... пушечное мясо. Обычные, как грязь, мучительно средние, заурядные, дешевые Корректировщики, которые, скорее всего, встретят свой жалкий конец, застряв на заданиях класса Городской Кошмар на всю свою карьеру. Это все, чем вы когда-либо будете.
 
 # Original: ... Most of you will fall by the wayside before this path leads to you anywhere of even passing significance, let alone joining the ranks of Grade 1 Fixers like myself.
-Хан-уль: ... Большинство из вас отсеется, прежде чем этот путь приведет вас куда-нибудь хоть мало-мальски значимое, не говоря уже о вступлении в ряды Корректировщиков 1 класса, как я.
+Хан-уль: ... Большинство из вас отсеется, прежде чем этот путь приведет вас к чему-то хоть мало-мальски значимому, не говоря уже о вступлении в ряды Корректировщиков 1 класса, таких как я.
 
 # Original: Some, maybe one or two of you, may make it to Grade 1, sure. But I can guarantee that you won't even dare dream of getting anywhere near The Red Gaze's greatness.
 Хан-уль: Некоторые, может быть, один или два из вас, могут дойти до 1 класса, конечно. Но я могу гарантировать, что вы даже не осмелитесь мечтать приблизиться к величию Алого Взора.
@@ -269,7 +269,7 @@
 Рассказчик: Корректировщик, который ранее пытался остановить нас от входа на место происшествия, прежде чем убежать, медленно подошел к нам и начал болтать.
 
 # Original: Most of us ignored him, but Hong Lu responds to him in a kindly voice.
-Рассказчик: Большинство из нас игнорировали его, но Хон Лу отвечает ему добрым голосом.
+Рассказчик: Большинство из нас игнорировали его, но Хон Лу ответил ему добрым голосом.
 
 # Original: Oh, is that right?
 Хон Лу: О, правда?
@@ -284,7 +284,7 @@
 Рёшу: Два ада в одном, хм? Какая красивая фраза.
 
 # Original: Well, P Corp. buildings are well-known for their elasticity, so while they all got bent along the newly manifested phenomenon, they didn't like, crumble or anything.
-Хьюго: Ну, здания Корпорации P хорошо известны своей эластичностью, так что хотя они все изогнулись вдоль новопроявленного феномена, они не, типа, рухнули или что-то в этом роде.
+Хьюго: Ну, здания Корпорации P хорошо известны своей эластичностью, так что хотя они все изогнулись вдоль новопроявленного феномена, они, типа, не рухнули или что-то в этом роде.
 
 # Original: Anyways... when La Manchaland suddenly appeared there, pulsing and pushing away all the buildings that used to be there, people got crushed and a bunch of buildings got bent.
 Хьюго: В любом случае... когда Ла-Манчалэнд внезапно появился там, пульсируя и отталкивая все здания, которые там были раньше, люди были раздавлены, и куча зданий изогнулась.
@@ -305,7 +305,7 @@
 Хьюго: Ну, знаешь, как говорят. Корпорация P может сделать безопасный дом где угодно.
 
 # Original: So imagine the shock when all that disaster happened. Their only claim to fame crumbled, the faith in their technology growing shaky... no wonder the real estate market crashed through rock bottom around here.
-Хьюго: Так что представь шок, когда все это бедствие произошло. Их единственное заявление о славе рухнуло, вера в их технологию пошатнулась... неудивительно, что рынок недвижимости здесь рухнул до нуля.
+Хьюго: Так что представь шок, когда все это бедствие произошло. Их единственная претензия на славу рухнула, вера в их технологию пошатнулась... неудивительно, что рынок недвижимости здесь обвалился до нуля.
 
 # Original: I mean, it was so bad that the locals banded together and stormed La Manchaland. Pickets and all.
 Хьюго: Я имею в виду, это было настолько плохо, что местные жители объединились и штурмовали Ла-Манчалэнд. С плакатами и всем таким.
@@ -362,7 +362,7 @@
 Хан-уль: ... это Кровососы и Кровожады, которые их обратили, точащие свои клыки, чтобы утолить свой ненасытный голод вашей кровью.
 
 # Original: Oh, here's a detail I was going to share earlier before I was cut off. The raw material that makes up every structure within La Manchaland... is human blood. Human blood dating back over two-hundred years in the past.
-Алессио: О, вот деталь, которую я собирался поделиться ранее, прежде чем меня прервали. Сырой материал, из которого состоит каждая структура внутри Ла-Манчалэнда... это человеческая кровь. Человеческая кровь, датирующаяся более чем двумястами годами в прошлом.
+Алессио: О, вот деталь, которую я собирался поделиться ранее, прежде чем меня прервали. Сырой материал, из которого состоит каждая структура внутри Ла-Манчалэнда... это человеческая кровь. Человеческая кровь, полученная более двухсот лет назад.
 
 # Original: ... Bloodfiends can make amusement parks out of blood?
 Синклер: ... Кровожады могут делать парки развлечений из крови?
@@ -383,19 +383,19 @@
 Синклер: ... Мм. Мм... Какая сегодня хорошая погода, да?
 
 # Original: It was Sinclair who was stepping on his foot, at the rather forcible behest of Ishmael, but I held my silence. The last thing I wanted was to have the two of them bickering again...
-Рассказчик: Это был Синклер, кто наступал на его ногу, по довольно настойчивой просьбе Измаила, но я промолчал. Последнее, чего я хотел, это чтобы они двое снова начали пререкаться...
+Рассказчик: Это Синклер был тем, кто наступал на его ногу по довольно настойчивой просьбе Измаил, но я промолчал. Последнее, чего я хотел, это чтобы они двое снова начали пререкаться...
 
 # Original: ... Anyway. If you manage to survive for six hours within La Manchaland, the music announcing the closure of the park will start playing. We were able to cross-reference this fact from testimonies of every Fixer and civilian who managed to make it out alive.
 Хан-уль: ... В любом случае. Если вам удастся выжить в течение шести часов внутри Ла-Манчалэнда, начнет играть музыка, объявляющая о закрытии парка. Мы смогли перепроверить этот факт из показаний каждого Корректировщика и гражданского, которому удалось выбраться живым.
 
 # Original: Once the exit song starts playing, you will have thirty minutes to exit La Manchaland. Should you fail to do so... you'll be trapped inside La Manchaland until it manifests here again. Effectively putting you in an endless battle against the Bloodfiends.
-Хан-уль: Как только начнет играть песня выхода, у вас будет тридцать минут, чтобы покинуть Ла-Манчалэнд. Если вам не удастся это сделать... вы будете заперты внутри Ла-Манчалэнда до тех пор, пока он снова не проявится здесь. Фактически, это поместит вас в бесконечную битву против Кровожадов.
+Хан-уль: Как только начнет играть песня выхода, у вас будет тридцать минут, чтобы покинуть Ла-Манчалэнд. Если вам не удастся это сделать... вы будете заперты внутри Ла-Манчалэнда до тех пор, пока он снова не проявится. Фактически, это поместит вас в бесконечную битву против Кровожадов.
 
 # Original: If anyone even survives that long...
 Охотник на Кровожадов: Если кто-нибудь вообще выживет так долго...
 
 # Original: There also were eyewitness reports where some Fixers identified missing people aboard certain amusement park rides, but that's not an important detail for those who are present.
-Алессио: Также были свидетельства очевидцев, где некоторые Корректировщики идентифицировали пропавших людей на определенных аттракционах парка развлечений, но это не важная деталь для присутствующих.
+Алессио: Также были свидетельства очевидцев, где некоторые Корректировщики идентифицировали пропавших людей на определенных аттракционах парка развлечений, но это не столь важная деталь для присутствующих.
 
 # Original: Based on testimonies and reports from the survivors, we have been able to establish a map of La Manchaland, comprised of four separate 'Areas'.
 Хан-уль: На основе показаний и отчетов выживших мы смогли составить карту Ла-Манчалэнда, состоящую из четырех отдельных "Зон".
@@ -404,19 +404,19 @@
 Хан-уль: Никто еще не добрался до финальной Зоны, которая находится здесь.
 
 # Original: However, we were able to identify that a certain device in each Area... Area 1, 2, and 3 respectively, had to be activated first in order to unlock the final Area.
-Хан-уль: Однако мы смогли определить, что определенное устройство в каждой Зоне... Зоне 1, 2 и 3 соответственно, должно быть активировано сначала, чтобы разблокировать финальную Зону.
+Хан-уль: Однако мы смогли определить, что определенное устройство в каждой Зоне... Зоне 1, 2 и 3 соответственно, должно быть активировано, чтобы разблокировать финальную Зону.
 
 # Original: The devices within Area 1 and 2 have been activated in the past, but no one has managed to activate the one in Area 3 just yet.
 Хан-уль: Устройства в Зонах 1 и 2 были активированы в прошлом, но никому еще не удалось активировать то, что в Зоне 3.
 
 # Original: Understood. I suppose we should beeline it to Area 3 to save some time, then?
-Охотник на Кровожадов: Понятно. Полагаю, мы должны направиться прямо в Зону 3, чтобы сэкономить время, тогда?
+Охотник на Кровожадов: Понятно. Полагаю, тогда мы должны направиться прямо в Зону 3, чтобы сэкономить время?
 
 # Original: No. It appears that the devices reset when La Manchaland disappears.
 Хан-уль: Нет. Похоже, что устройства сбрасываются, когда Ла-Манчалэнд исчезает.
 
 # Original: In other words, we will have to divide and conquer. Team up with other Fixers, choose an Area to tackle.
-Алессио: Другими словами, нам придется разделиться и покорить. Объединитесь с другими Корректировщиками, выберите Зону для штурма.
+Алессио: Другими словами, нам придется разделять и властвовать. Объединитесь с другими Корректировщиками, выберите Зону для штурма.
 
 # Original: Hm, I see. Split up, activate our respective devices, and rendezvous at the final Area.
 Ромеро: Хм, я понимаю. Разделиться, активировать наши соответствующие устройства и встретиться в финальной Зоне.
@@ -437,7 +437,7 @@
 Ромеро: Разве это не забавно? Что мы должны активировать какое-то устройство в каждой секции Ла-Манчалэнда, чтобы разблокировать финальную Зону...
 
 # Original: It's kind of like a game, isn't it? Like they're giving those who dare to challenge the might of La Manchaland stages to beat, conditions to fulfill.
-Ромеро: Это похоже на игру, не так ли? Как будто они дают тем, кто осмеливается бросить вызов мощи Ла-Манчалэнда, этапы для прохождения, условия для выполнения.
+Ромеро: Это похоже на игру, не так ли? Как будто они дают тем, кто осмеливается бросить вызов мощи Ла-Манчалэнда, уровни для прохождения, условия для выполнения.
 
 # Original: How should we know what the Bloodfiends are thinking? Those monsters are born twisted.
 Охотник на Кровожадов: Откуда нам знать, о чем думают Кровожады? Эти монстры рождаются извращенными.
@@ -446,7 +446,7 @@
 Паула: Хана, мы хотели бы кое-что подтвердить.
 
 # Original: The Zwei Association is here to rescue our client, not for the eradication reward.
-Паула: Ассоциация Цвай здесь для спасения нашего клиента, а не ради награды за уничтожение.
+Паула: Ассоциация Цвай здесь для спасения нашего клиента, а не ради награды за ликвидацию.
 
 # Original: Mm~ Don't you mean the Zwei and the Cinq? Don't leave me out~
 Камилл: Мм~ Ты имеешь в виду Цвай и Сэнк? Не оставляй меня в стороне~
@@ -464,13 +464,13 @@
 Алессио: Верно. Я уверен, что у всех вас есть свои причины быть здесь, да?
 
 # Original: Therefore, we at P Corp. set up an eradication dividend fund, which means that we will be giving out the reward money based on how much you have contributed to the eradication of La Manchaland.
-Алессио: Поэтому мы в Корпорации P создали фонд дивидендов за уничтожение, что означает, что мы будем выплачивать вознаграждение на основе того, насколько вы способствовали уничтожению Ла-Манчалэнда.
+Алессио: Поэтому мы в Корпорации P создали фонд дивидендов за ликвидацию, что означает, что мы будем выплачивать вознаграждение на основе того, насколько вы способствовали ликвидации Ла-Манчалэнда.
 
 # Original: ... Assuming a successful outcome, that is.
 Ромеро: ... Предполагая успешный исход, конечно.
 
 # Original: If your goal isn't the eradication of La Manchaland, then feel free to roam on your own to fulfill your respective contracts. As long as you acknowledge that you won't be receiving any payout from that fund upon the successful completion of this expedition, you are free to do as you will.
-Алессио: Если ваша цель не уничтожение Ла-Манчалэнда, то вы можете свободно бродить самостоятельно, чтобы выполнить свои соответствующие контракты. Если вы признаете, что не будете получать никаких выплат из этого фонда при успешном завершении этой экспедиции, вы вольны делать то, что хотите.
+Алессио: Если ваша цель не ликвидация Ла-Манчалэнда, то вы можете смело передвигаться самостоятельно, чтобы выполнить свои соответствующие контракты. Если вы признаете, что не будете получать никаких выплат из этого фонда при успешном завершении этой экспедиции, вы вольны делать то, что хотите.
 
 # Original: However, we would also like to request that you submit a copy of that contract so that we are aware of its details.
 Алессио: Однако мы также хотели бы попросить вас предоставить копию этого контракта, чтобы мы были в курсе его деталей.
@@ -500,7 +500,7 @@
 Рассказчик: Корректировщик из Ханы не стала ему противоречить.
 
 # Original: She was the kind of person who wouldn't hesitate to put her foot down... she could've easily forced us into cooperating. But it seemed that she wouldn't keep us from infighting, if it did come to that.
-Рассказчик: Она была из тех, кто не колебался бы поставить ногу... она могла бы легко заставить нас сотрудничать. Но, казалось, она не стала бы мешать нам сражаться между собой, если бы до этого дошло.
+Рассказчик: Она была из тех, кто без колебаний бы настоял на своем... она могла бы легко заставить нас сотрудничать. Но, казалось, она не стала бы мешать нам сражаться между собой, если бы до этого дошло.
 
 # Original: ... Don Quixote was the only one passionately nodding along to her advice.
 Рассказчик: ... Дон Кихот была единственной, кто страстно кивала в ответ на ее совет.
@@ -515,7 +515,7 @@
 Хан-уль: Вы будете распределены по командам и Зонам на основе наших внутренних анализов данных о ваших индивидуальных способностях, потенциале и соответствии.
 
 # Original: So we should probably avoid overcrowding, huh.
-Цзя Сичунь: Так что мы, вероятно, должны избегать перенаселенности, да.
+Цзя Сичунь: Так что нам, наверное, не стоит толпиться, да.
 
 # Original: Such as saddling us a group of dozen or so people, for example...
 Цзя Сичунь: Например, не нагружать нас группой из дюжины или около того человек...
@@ -527,13 +527,13 @@
 Родион: Она совсем не скрывает свое презрение, да?
 
 # Original: W-well, i-it's not like we wanted her to tag along...
-Синклер: Н-ну, э-это не то чтобы мы хотели, чтобы она присоединилась...
+Синклер: Н-ну, н-не то чтобы мы хотели, чтобы она присоединилась...
 
 # Original: …….
 Хон Лу: …….
 
 # Original: If there are no further questions, I will be assigning you all to teams and Area pairs—
-Алессио: Если больше нет вопросов, я распределю вас всех по командам и парам Зон—
+Алессио: Если больше нет вопросов, я распределю вас всех по командам и Зон—
 
 # Original: HOOOOLD!
 Дон Кихот: СТОООЙ!
@@ -542,10 +542,10 @@
 Рассказчик: Каждый отдельный Корректировщик в комнате обернулся, чтобы посмотреть на Дон Кихот после ее громогласного рева. Возможно, это был чистый пыл в ее голосе... или, возможно, они просто были раздражены тем, что она задает "еще один последний вопрос", когда скучный брифинг почти закончился.
 
 # Original: Oh please... don't tell me this is actually happening.
-Измаил: О, пожалуйста... не говори мне, что это действительно происходит.
+Измаил: Ох, пожалуйста... не говорите мне, что это действительно происходит.
 
 # Original: Ooh. Oi, that actually woke me up this time.
-Хитклиф: Оо. Эй, это действительно разбудило меня на этот раз.
+Хитклиф: Оох. Эй, на этот раз это действительно меня разбудило.
 
 # Original: No, no. This might be the best time to go back to sleep, bud.
 Грегор: Нет, нет. Это может быть лучшее время, чтобы снова заснуть, приятель.
@@ -563,7 +563,7 @@
 Алессио: Это... так...? Эм, момент, пожалуйста.
 
 # Original: Alessio began flipping through the briefing, flustered.
-Рассказчик: Алессио начал взволнованно листать брифинг.
+Рассказчик: Алессио начал взволнованно листать текст брифинга.
 
 # Original: When shall the rescue operation for the victims of this terrible amusement park commence?
 Дон Кихот: Когда начнется спасательная операция для жертв этого ужасного парка развлечений?
@@ -581,7 +581,7 @@
 Камилл: Эй, это типа персонаж, которого ты играешь, или что-то в этом роде?
 
 # Original: That's not mainstream at all, I like it. Though I gotta say, playing a character's a bit old-fashioned. At least I know that my viewers won't enjoy something like that.
-Камилл: Это совсем не мейнстрим, мне нравится. Хотя должен сказать, что играть персонажа немного старомодно. По крайней мере, я знаю, что моим зрителям не понравится что-то подобное.
+Камилл: Это совсем не мейнстрим, мне нравится. Хотя должен сказать, что играть персонажа немного старомодно. По крайней мере, я знаю, что моим зрителям не понравилось бы что-то подобное.
 
 # Original: It appears that there has been some misunderstanding. Our contract has nothing to do with rescuing the visitors, let alone all of them. Our contract is a search-and-rescue operation for a specific visitor requested to us by our client.
 Паула: Похоже, произошло некоторое недопонимание. Наш контракт не имеет ничего общего со спасением посетителей, не говоря уже обо всех них. Наш контракт - это операция по поиску и спасению конкретного посетителя, запрошенного нашим клиентом.
@@ -632,7 +632,7 @@
 Камилл: Ну, это сейчас не важно. Если ты так хорошо осведомлена о Корректировщиках, то я уверен, ты знаешь и это.
 
 # Original: That I, as a Fixer of the Cinq Association, am not one to waste breath on mere words. When we want to settle something or make a statement, we duel. An official duel to the death.
-Камилл: Что я, как Корректировщик Ассоциации Сэнк, не из тех, кто тратит дыхание на пустые слова. Когда мы хотим что-то уладить или сделать заявление, мы дуэлируем. Официальная дуэль насмерть.
+Камилл: Что я, как Корректировщик Ассоциации Сэнк, не из тех, кто тратит дыхание на пустые слова. Когда мы хотим что-то уладить или сделать заявление, мы устраиваем дуэль. Официальную дуэль насмерть.
 
 # Original: Then...
 Дон Кихот: Тогда...
@@ -656,7 +656,7 @@
 Данте: <Нет...>
 
 # Original: I, Don Quixote, perforce, shall not so lightly forsake my creed! I hereby challenge thee to a duel!
-Дон Кихот: Я, Дон Кихот, по необходимости, не могу так легко отказаться от своего кредо! Сим я вызываю тебя на дуэль!
+Дон Кихот: Я, Дон Кихот, волей-неволей, не могу так легко отказаться от своего кредо! За сим я вызываю тебя на дуэль!
 
 # Original: Things were quickly starting to spiral out of control.
 Рассказчик: Ситуация быстро начинала выходить из-под контроля.
@@ -683,7 +683,7 @@
 Мерсо: Можно определить из предыдущего опыта, что будет невозможно остановить ситуацию, которая сейчас развивается.
 
 # Original: Pupils, dilated. Brows, furrowed at a steep angle. Clear refusal to heed any external input. Our attempts to coax her will not be met with any meaningful response.
-Мерсо: Зрачки расширены. Брови нахмурены под крутым углом. Явный отказ прислушиваться к любому внешнему входу. Наши попытки убедить ее не будут встречены каким-либо значимым ответом.
+Мерсо: Зрачки расширены. Брови нахмурены под крутым углом. Явный отказ прислушиваться к любой информации извне. Наши попытки убедить ее не будут встречены каким-либо значимым ответом.
 
 # Original: <So she's lost it...>
 Данте: <Так она потеряла рассудок...>
@@ -701,7 +701,7 @@
 Данте: <Н-ну, да. Но... не то чтобы мы не будем использовать их, когда окажемся внутри, верно? Я не вижу, что в этом плохого—>
 
 # Original: Just as I was trying to convince Faust otherwise, Don Quixote stepped in and resolutely shook her head.
-Рассказчик: Как раз когда я пытался убедить Фауста в обратном, Дон Кихот шагнула вперед и решительно покачала головой.
+Рассказчик: Как раз когда я пытался убедить Фауст в обратном, Дон Кихот шагнула вперед и решительно покачала головой.
 
 # Original: Nay, worry not. 'Tis an unnecessary crutch.
 Дон Кихот: Нет, не беспокойся. Это излишняя опора.
@@ -722,4 +722,4 @@
 Камилл: Жаль, что здесь нет моих фанатов, чтобы посмотреть, как я вытру тобой пол... Но я уверен, что кто-нибудь здесь распространит эту историю из уст в уста.
 
 # Original: I won't throw my gauntlet out of pity. En garde, petit nouveau!
-Камилл: Я не буду бросать свою перчатку из жалости. К бою, новичок!
+Камилл: Я не буду бросать свою перчатку из жалости. En garde, petit nouveau!
