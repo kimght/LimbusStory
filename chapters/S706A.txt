@@ -5,7 +5,7 @@
 Данте: <…….>
 
 # Original: That was definitely more than just a 'light wound'. It was outright crippling, if not fatal.
-Рассказчик: Это определённо была не просто "лёгкая рана". Она была калечащей, если не смертельной.
+Рассказчик: Это определённо была не просто "лёгкая рана". Она была критической, если не смертельной.
 
 # Original: Camille wasn't all talk, after all. He moved at an impressive speed and precision, living up to his boasts.
 Рассказчик: Камилл, похоже, не бросал слов на ветер. Он двигался с впечатляющей скоростью и точностью, полностью оправдывая свои хвастливые заявления.
@@ -35,7 +35,7 @@
 Хан-уль: Если вы продолжите создавать проблемы, я сама положу этому конец.
 
 # Original: ... La Manchaland ETA in approximately one hour. After an hour from now, the phenomenon may appear at any moment; please remain in close proximity to your teams in case of an emergency.
-Алессио: ... Ожидаемое время прибытия в Ла-Манчалэнд — примерно через час. Через час с этого момента феномен может появиться в любую минуту; пожалуйста, оставайтесь поблизости от своих команд на случай чрезвычайной ситуации.
+Алессио: ... Ожидаемое время прибытия Ла-Манчалэнда — примерно через час. Через час с этого момента феномен может появиться в любую минуту; пожалуйста, оставайтесь поблизости от своих команд на случай чрезвычайной ситуации.
 
 # Original: The momentary kerfuffle came to a close thanks to the Hana Association's intervention...
 Рассказчик: Мгновенная суматоха прекратилась благодаря вмешательству ассоциации Хана...
