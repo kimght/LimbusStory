@@ -1,11 +1,11 @@
 ﻿# Original: Tell us your name, O brave adventurer.
-Рассказчик: Назови нам свое имя, о храбрый искатель приключений.
+Рассказчик: Назови нам свое имя, о храбрая искательница приключений.
 
 # Original: <color=#84a79d>That is the condition of your adventure.</color>
 Рассказчик: <color=#84a79d>Это условие твоего приключения.</color>
 
 # Original: <color=#84a79d>If you are willing to accept these terms, then speak your name to me.</color>
-Рассказчик: <color=#84a79d>Если ты готов принять эти условия, то назови мне свое имя.</color>
+Рассказчик: <color=#84a79d>Если ты готова принять эти условия, то назови мне свое имя.</color>
 
 # Original: …….
 Дон Кихот: …….
@@ -23,10 +23,10 @@
 Рассказчик: Голос из системы оповещения на мгновение замешкался, и последовала долгая тишина.
 
 # Original: ... Brave Don Quixote, the adventurer, and her friends placed first in the Fantasy Blood-shooting Range competition! Salutations and Congratulations!
-Рассказчик: ... Храбрый искатель приключений Дон Кихот и её друзья заняли первое место в соревновании по стрельбе кровью в Фантазийном тире! Приветствия и поздравления!
+Рассказчик: ... Храбрая искательница приключений Дон Кихот и её друзья заняли первое место в соревновании по стрельбе Фантастическом Кровавом тире! Приветствия и поздравления!
 
 # Original: What shall be your reward?! Drum roll please, everyone~
-Рассказчик: Какой же будет ваша награда?! Барабанную дробь, пожалуйста, все~
+Рассказчик: Какой же будет ваша награда?! Барабанную дробь, пожалуйста~
 
 # Original: Ta-da! Here's a button that opens the path to the finest attraction of all time in La Manchaland~!
 Рассказчик: Та-да! Вот кнопка, которая открывает путь к лучшему аттракциону всех времен в Ла-Манчалэнде~!
@@ -38,7 +38,7 @@
 Данте: <Так это и есть тот "механизм", который ведет нас к следующему пункту назначения, да...>
 
 # Original: This seems a tad too easy, don't it? Just like that? And they even bring the button to you?
-Хитклиф: Что-то слишком легко, не находишь? Вот так просто? И они даже приносят кнопку к тебе?
+Хитклиф: Что-то слишком легко, не находите? Вот так просто? И они даже принесли нам кнопку?
 
 # Original: According to the info I bought, though...
 Хьюго: Согласно информации, которую я купил...
@@ -59,7 +59,7 @@
 Хьюго: Ха-ха... вау. Вы, ребята, действительно новички в этом деле, да?
 
 # Original: Do you really think that the Fixers who managed to survive La Manchaland would just... fork over their precious intel to the Hana Association?
-Хьюго: Вы действительно думаете, что Корректировщики, которым удалось выжить в Ла-Манчалэнде, просто... отдадут свою ценную информацию Ассоциации Хана?
+Хьюго: Вы действительно думаете, что Корректировщики, которым удалось выжить в Ла-Манчалэнде, просто... отдадут ценную информацию Ассоциации Хана?
 
 # Original: No, of course not. They sell important intel like that to just a few people who's got the cash and the interest.
 Хьюго: Нет, конечно нет. Они продают важную информацию только нескольким людям, у которых есть деньги и интерес.
@@ -80,16 +80,16 @@
 Хьюго: Д-да, точно... уф.
 
 # Original: ... Has our mission ever gone this smoothly before?
-Грегор: ... Наша миссия когда-нибудь проходила так гладко раньше?
+Грегор: ... Наши миссии когда-нибудь проходили так гладко?
 
 # Original: <So... we press this button, and our job's done here?>
-Данте: <Значит... мы нажимаем эту кнопку, и наша работа здесь закончена?>
+Данте: <Значит... мы нажимаем эту кнопку, и наше дело здесь закончено?>
 
 # Original: It's definitely suspicious how easy this was, but... what can we do? Not press it?
-Рассказчик: Это определенно подозрительно, как легко все это было, но... что мы можем сделать? Не нажимать?
+Рассказчик: То, как легко все прошло, определенно было подозрительно, но... что ещё мы можем сделать? Не нажимать?
 
 # Original: If we're being optimistic... at least we should be able to get out of Area 1 now and join the others.
-Синклер: Если мы будем оптимистами... по крайней мере, мы должны быть в состоянии выбраться из Зоны 1 сейчас и присоединиться к остальным.
+Синклер: Если мы будем оптимистами... по крайней мере, сейчас мы должны быть в состоянии выбраться из Зоны 1 и присоединиться к остальным.
 
 # Original: Consider that information regarding Bloodfiends and Bloodbags is rare to come by for the public.
 Мерсо: Учтите, что информация о Кровожадах и Кровососах редко доступна для общественности.
@@ -101,7 +101,7 @@
 Грегор: Хм... это тоже верно, я полагаю.
 
 # Original: Hey, what other information are you withholding from us? Spit it out. What more 'trust' do you need?
-Отис: Эй, какую еще информацию ты от нас скрываешь? Выкладывай. Какое еще "доверие" тебе нужно?
+Отис: Эй, какую еще информацию ты от нас скрываешь? Выкладывай. Сколько ещё "доверия" тебе нужно?
 
 # Original: Outis shoved Hugo, practically threatening him with her odd emphasis on the word 'trust'.
 Рассказчик: Отис толкнула Хьюго, практически угрожая ему своим странным акцентом на слове "доверие".
@@ -113,10 +113,10 @@
 Хьюго: Говорят, что здесь есть три Кровожада, которых нам нужно избегать любой ценой.
 
 # Original: Fixers call them the overseer Bloodfiends. If you want a better chance of survival, avoid them. Or so they say.
-Хьюго: Корректировщики называют их надзирателями-Кровожадами. Если хотите иметь больше шансов на выживание, избегайте их. Или так говорят.
+Хьюго: Корректировщики называют их Кровожадами-надзирателями. Если хотите иметь больше шансов на выживание, избегайте их. Или так говорят.
 
 # Original: There's one in each Area, but hey. At least it didn't say anywhere in the terms and conditions of the contract that we had to kill them, too. They don't have anything to do with eradicating La Manchaland, after all. ... Probably...
-Хьюго: В каждой Зоне есть по одному, но эй. По крайней мере, нигде в условиях контракта не говорилось, что мы должны их тоже убить. Они ведь не имеют никакого отношения к уничтожению Ла-Манчалэнда. ... Наверное...
+Хьюго: В каждой Зоне есть по одному, но эй. По крайней мере, нигде в условиях контракта не говорилось, что мы должны убить и их тоже. Они ведь не имеют никакого отношения к уничтожению Ла-Манчалэнда. ... Наверное...
 
 # Original: The point is, we should try to steer clear of those monsters. Let's just hit that button and book it—
 Хьюго: Суть в том, что мы должны постараться держаться подальше от этих монстров. Давайте просто нажмем эту кнопку и уберемся отсюда—
@@ -203,13 +203,13 @@
 Хьюго: Н-ну? Теперь я могу нажать кнопку?
 
 # Original: Ha... ha ha...! Fixers who activate a device gets 1.5 times the rate when calculating the eradication reward!
-Хьюго: Ха... ха-ха...! Корректировщики, активирующие устройство, получают в 1,5 раза больше при расчете награды за уничтожение!
+Хьюго: Ха... ха-ха...! Корректировщики, активирующие устройство, получают в 1,5 раза больше при расчете награды!
 
 # Original: ... Hah.
 Рёшу: ... Хах.
 
 # Original: Try pressing the button now.
-Рёшу: Попробуй нажать кнопку сейчас.
+Рёшу: Попробуй нажать кнопку.
 
 # Original: Ryōshū swung her absurdly sharp scabbard, chopping off his wrists with blinding speed.
 Рассказчик: Рёшу взмахнула своими невероятно острыми ножнами, отрубив ему запястья с ослепительной скоростью.
