@@ -8,7 +8,7 @@
 Рассказчик: Быстрым взмахом своего посоха волшебник стремительно изменяет и искажает всё вокруг нас.
 
 # Original: <color=#3e7fed>[EP 1] - 'IN WHICH ARE RECOUNTED THE MOST WONDROUS ADVENTURES OF DON QUIXOTE'</color>
-Рассказчик: <color=#3e7fed>[ЭПИЗОД 1] - 'В КОТОРОМ РАССКАЗЫВАЮТСЯ САМЫЕ УДИВИТЕЛЬНЫЕ ПРИКЛЮЧЕНИЯ ДОН КИХОТА'</color>
+Рассказчик: <color=#3e7fed>[ЭПИЗОД 1] - 'В КОТОРОМ РАССКАЗЫВАЮТСЯ САМЫЕ УДИВИТЕЛЬНЫЕ ПРИКЛЮЧЕНИЯ ДОН КИХОТ'</color>
 
 # Original: Whuh?! W-what the hell?!
 Грегор: Чего?! Ч-что за чертовщина?!
@@ -44,7 +44,7 @@
 Сансон: Та-да.
 
 # Original: The Knight of the White Moon? Is that who you really are?
-Отис: Рыцарь Белой Луны? Это ты на самом деле?
+Отис: Рыцарь Белой Луны? Так вот кто ты?
 
 # Original: Ha ha, of course not. I must apologize for my delayed introduction.
 Сансон: Ха-ха, конечно нет. Я должен извиниться за задержку с представлением.
@@ -62,7 +62,7 @@
 Сансон: Хм. Похоже, вы весьма раздражены тем, что такая роль досталась кому-то вроде меня.
 
 # Original: Well, then. We have another actor present here to play this character. A little green, a little incomplete, but still with the sign of great potential.
-Сансон: Что ж. У нас есть другой актёр, который может сыграть этого персонажа. Немного неопытный, немного незавершённый, но всё же с признаками большого потенциала.
+Сансон: Что ж. У нас есть другой актёр, который может сыграть этого персонажа. Немного неопытный, немного несовершенный, но всё же с признаками большого потенциала.
 
 # Original: I give this role of the Knight of the White Moon to you.
 Сансон: Я передаю эту роль Рыцаря Белой Луны вам.
@@ -74,7 +74,7 @@
 Синклер: М-мне?
 
 # Original: Sinclair held his forehead for a moment, then looked at his changed appearance in confusion.
-Рассказчик: Синклер на мгновение схватился за лоб, затем в замешательстве посмотрел на свою изменившуюся внешность.
+Рассказчик: Синклер на мгновение схватился за голову, затем в замешательстве посмотрел на свою изменившуюся внешность.
 
 # Original: But that did not last.
 Рассказчик: Но это длилось недолго.
@@ -86,13 +86,13 @@
 Данте: <Даже Синклер стал... тихим. Словно что-то контролирует его разум.>
 
 # Original: It appears that they have become like 'actors' on a stage. As long as that individual is talking, they cannot break character.
-Фауст: Похоже, они стали как 'актёры' на сцене. Пока этот человек говорит, они не могут выйти из образа.
+Фауст: Похоже, они как 'актёры' на сцене. Пока этот человек говорит, они не могут выйти из образа.
 
 # Original: W-woah, is this safe?!
 Родион: У-ух, это безопасно?!
 
 # Original: The pair sought a certain river, the tales of which have been told only through legends.
-Сансон: Эта пара искала определённую реку, о которой рассказывали только легенды.
+Сансон: Эта пара искала кое-какую реку, о которой рассказывали только легенды.
 
 # Original: Only the Knight of the White Moon knew the path to finding it. Don Quixote was merely going as directed by the Knight.
 Сансон: Только Рыцарь Белой Луны знал путь к ней. Дон Кихот просто следовал указаниям Рыцаря.
@@ -116,7 +116,7 @@
 Сансон: Это глубокое, очень глубокое место, куда никто не осмеливается ступить.
 
 # Original: The deepest part of the City, once challenged by countless adventurers, Knights, and Fixers...
-Сансон: Самая глубокая часть Города, некогда испытанная бесчисленными искателями приключений, Рыцарями и Корректировщиками...
+Сансон: Самая глубокая часть Города, которой однажды бросали вызов бесчисленные искатели приключений, Рыцари и Корректировщики...
 
 # Original: A quiet, terribly tranquil place inhabited only by the floating nebulae...
 Сансон: Тихое, ужасающе спокойное место, населённое только парящими туманностями...
@@ -131,7 +131,7 @@
 Синклер: "Как только мы найдём реку..."
 
 # Original: "I will guide you to the place that will be your residence henceforth."
-Синклер: "Я проведу вас к месту, которое станет вашим жилищем отныне."
+Синклер: "Я проведу вас к месту, которое отныне станет вашим жилищем."
 
 # Original: "An abandoned lighthouse where no one visits."
 Синклер: "Заброшенный маяк, куда никто не заходит."
@@ -161,7 +161,7 @@
 Сансон: Давайте сделаем это интереснее. Перейдём дальше?
 
 # Original: <color=#3e7fed>[EP 2] - 'WHICH TREATS DON QUIXOTE'S ENCOUNTER WITH THE BANDITS'</color>
-Рассказчик: <color=#3e7fed>[ЭПИЗОД 2] - 'О ТОМ, КАК ДОН КИХОТ ВСТРЕТИЛСЯ С БАНДИТАМИ'</color>
+Рассказчик: <color=#3e7fed>[ЭПИЗОД 2] - 'О ТОМ, КАК ДОН КИХОТ ВСТРЕТИЛАСЬ С БАНДИТАМИ'</color>
 
 # Original: Ah, shite! I can't move!
 Хитклиф: Ах, чёрт! Я не могу двигаться!
@@ -170,10 +170,10 @@
 Мерсо: Не наблюдается никакого метода, с помощью которого мы могли бы избежать течения этого спектакля.
 
 # Original: <If we don't have a choice in the matter, then... let's at least pay attention to it.>
-Данте: <Если у нас нет выбора, тогда... давайте хотя бы обратим на это внимание.>
+Данте: <Если у нас нет выбора, тогда... давайте воспользуемся этой возможностью и посмотрим.>
 
 # Original: Thinking back, we've never actually given much attention to Don Quixote's stories before. We considered them to be too ridiculous. Too tiring to listen to. I could think of a thousand different excuses...
-Рассказчик: Оглядываясь назад, мы никогда по-настоящему не уделяли много внимания историям Дон Кихота. Мы считали их слишком нелепыми. Слишком утомительными для прослушивания. Я мог бы придумать тысячу разных оправданий...
+Рассказчик: Оглядываясь назад, мы никогда по-настоящему не уделяли много внимания историям Дон Кихот. Мы считали их слишком нелепыми. Слишком утомительными. Я мог бы придумать тысячу разных оправданий...
 
 # Original: ... we came up with to avoid having to listen to her stories.
 Рассказчик: ... которые мы придумывали, чтобы не слушать её истории.
@@ -182,13 +182,13 @@
 Данте: <Давайте, наконец, обратим внимание на историю Дон Кихота, на ту историю, которую мы никогда не знали.>
 
 # Original: In this tale, we look at but one of many, many adventures of Don Quixote.
-Сансон: В этой истории мы рассмотрим лишь одно из многих, многих приключений Дон Кихота.
+Сансон: В этой истории мы рассмотрим лишь одно из многих, многих приключений Дон Кихот.
 
 # Original: Through the journey, the great adventurer Don Quixote visited many villages.
-Сансон: В ходе путешествия великий искатель приключений Дон Кихот посетил множество деревень.
+Сансон: В ходе путешествия великая искательница приключений Дон Кихот посетила множество деревень.
 
 # Original: And, eventually, the adventurer arrived at a village of shepherds.
-Сансон: И, в конце концов, искатель приключений прибыл в деревню пастухов.
+Сансон: И, в конце концов, искательница приключений прибыла в деревню пастухов.
 
 # Original: A village of shepherds, indeed...
 Дон Кихот: Воистину, деревня пастухов...
@@ -197,7 +197,7 @@
 Дон Кихот: По прибытии я ясно увидела, что деревню регулярно терроризировала банда разбойников и грабителей. Воистину, я могла видеть явный страх на лицах жителей деревни. Посему я спросила одного из них, чтобы узнать, что их так мучает.
 
 # Original: "Oh, my...! You must be the brave and famous adventurer Don Quixote! Please, deliver us from pain, milord."
-Родион: "О, боже...! Вы, должно быть, храбрый и знаменитый искатель приключений Дон Кихот! Пожалуйста, избавьте нас от страданий, милорд."
+Родион: "О, боже...! Вы, должно быть, храбрая и знаменитая искательница приключений Дон Кихот! Пожалуйста, избавьте нас от страданий, милорд."
 
 # Original: "Alack for woe! The wicked caitiffs—the bandits—fell upon thy village!"
 Дон Кихот: "Горе мне! Злые негодяи — бандиты — напали на твою деревню!"
@@ -209,10 +209,10 @@
 Дон Кихот: "Я, Дон Кихот, не позволю, чтобы эта явная подлость и издевательство остались без ответа!"
 
 # Original: "Worry thee not, for I promise thee on all that is I, that I shall rout the no-good bandits from thy village!"
-Дон Кихот: "Не тревожься, ибо я обещаю тебе всем, что есть во мне, что я изгоню этих негодяев-бандитов из твоей деревни!"
+Дон Кихот: "Не тревожься, ибо я клянусь тебе всем, что есть во мне, что я изгоню этих негодяев-бандитов из твоей деревни!"
 
 # Original: "But... there's too many for you to defeat all on your own, dear adventurer!"
-Родион: "Но... их слишком много, чтобы вы могли победить их всех в одиночку, дорогой искатель приключений!"
+Родион: "Но... их слишком много, чтобы вы могли победить их всех в одиночку, дорогая искательница приключений!"
 
 # Original: "Do not let such fear plague thy mind, for there are no adventures in which I, Don Quixote, have not prevailed! Wouldst thou not agree?"
 Дон Кихот: "Не позволяй такому страху терзать твой разум, ибо нет таких приключений, в которых я, Дон Кихот, не одержала бы победу! Разве ты не согласен?"
@@ -245,7 +245,7 @@
 Родион: Пффф, Грег? Ты что, превратился в лошадь?
 
 # Original: Now, now. Let's try to focus on this adventure, shall we? Otherwise, Don Quixote, as brave an adventurer this hero may be, cannot fend off this whole horde of bandits all alone.
-Сансон: Ну-ну. Давайте попробуем сосредоточиться на этом приключении, хорошо? В противном случае Дон Кихот, каким бы храбрым искателем приключений ни был этот герой, не сможет в одиночку отбиться от всей этой орды бандитов.
+Сансон: Ну-ну. Давайте попробуем сосредоточиться на этом приключении, хорошо? В противном случае Дон Кихот, какой бы храброй искательницей приключений ни была эта героиня, не сможет в одиночку отбиться от всей этой орды бандитов.
 
 # Original: Indeed... There were too many of them. 'Twas a battle most difficult, just as the villagers had feared.
 Дон Кихот: Действительно... Их было слишком много. Это была труднейшая битва, как и опасались жители деревни.
@@ -254,25 +254,25 @@
 Грегор: "Удастся ли этот план, ваша милость?"
 
 # Original: "What better plan dost thou suggest, dear Rocinante?"
-Дон Кихот: "Какой лучший план ты предлагаешь, дорогой Росинант?"
+Дон Кихот: "Есть ли у тебя лучший план, дорогой Росинант?"
 
 # Original: "Oh, well. I don't have a plan or anything. I don't know as much about the ways of adventuring as you do, Don Quixote."
 Грегор: "О, ну. У меня нет плана или чего-то подобного. Я не знаю столько о путях искателя приключений, сколько вы, Дон Кихот."
 
 # Original: "I shall stand as myself that is manifestly myself, Rocinante. That is to say, that I stand without fear!"
-Дон Кихот: "Я буду стоять как я сама, что есть явно я сама, Росинант. То есть, я буду стоять без страха!"
+Дон Кихот: "Я буду оставаться собой, то есть такой, какова я есть на самом деле, Росинант. Это значит, что я буду стоять без страха!"
 
 # Original: "Still... can't you see that we are terribly outnumbered? Know that to back down is not to flee; that one must know when to stop their stride when danger outpaces hope..."
 Грегор: "И всё же... разве вы не видите, что мы в ужасном меньшинстве? Знайте, что отступить — не значит бежать; что нужно уметь остановиться, когда опасность превосходит надежду..."
 
 # Original: Shame, it seems that Rocinante was not as brave as Don Quixote. And not very compliant for a horse... or a pair of running shoes.
-Сансон: Жаль, кажется, Росинант был не таким храбрым, как Дон Кихот. И не очень послушным для лошади... или пары беговых туфель.
+Сансон: Жаль, кажется, Росинант был не таким храбрым, как Дон Кихот. И не очень послушным для лошади... или пары кроссовок.
 
 # Original: ... Haah.
 Грегор: ... Хаах.
 
 # Original: "Fie on thee, Rocinante. Hold thy tongue! In all the years I have lived and places I have visited, I am yet to know a pair of running shoes as rebellious as thee! Hast thou not espied enough of my courage to fight them? Then I, Don Quixote, shall prove it to thee this instant, Rocinante!"
-Дон Кихот: "Тьфу на тебя, Росинант. Придержи язык! За все годы, что я прожила, и места, что я посетила, я ещё не знала пары беговых туфель столь непокорных, как ты! Разве ты не видел достаточно моей храбрости, чтобы сражаться с ними? Тогда я, Дон Кихот, докажу тебе это прямо сейчас, Росинант!"
+Дон Кихот: "Тьфу на тебя, Росинант. Придержи язык! За все годы, что я прожила, и места, что я посетила, я ещё не знала пары кроссовок столь непокорных, как ты! Разве ты не видел достаточно моей храбрости, чтобы сражаться с ними? Тогда я, Дон Кихот, докажу тебе это прямо сейчас, Росинант!"
 
 # Original: Thus I, Don Quixote leapt into the fray the likes of which hath not been seen before, or thereafter.
 Дон Кихот: Так я, Дон Кихот, бросилась в гущу схватки, подобной которой не видели ни до, ни после.
