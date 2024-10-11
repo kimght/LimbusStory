@@ -65,7 +65,7 @@
 Хитклиф: Чёрт... это уже слишком, не так ли? Два главных Кровожада прямо у входа, серьёзно?
 
 # Original: Mhm, certainly. It appears to me that you are all rather spent from the struggle against the Barber here.
-Сансон: Мхм, несомненно. Мне кажется, вы все довольно измотаны борьбой с Цирюльником здесь.
+Сансон: Мхм, несомненно. Мне кажется, все вы здесь довольно измотаны борьбой с Цирюльником.
 
 # Original: Then allow me to make a proposition.
 Сансон: Тогда позвольте мне сделать предложение.
@@ -86,7 +86,7 @@
 Данте: <Что...?>
 
 # Original: However, if that is not what you seek, well... why else would you be slaughtering scores of Bloodfiends here now?
-Сансон: Однако, если это не то, что вы ищете, ну... зачем ещё вам убивать столько Кровожадов здесь сейчас?
+Сансон: Однако, если это не то, что вы ищете, ну... зачем ещё вам убивать здесь столько Кровожадов?
 
 # Original: The masked Bloodfiend in blue, who suddenly appeared here...
 Рассказчик: Замаскированный Кровожад в синем, который внезапно появился здесь...
