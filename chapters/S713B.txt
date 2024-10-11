@@ -1,14 +1,14 @@
 ﻿# Original: Welcome, one and all, to the main attraction of Area 1, 'Fantasy Blood-shooting Range'!
-Рассказчик: Добро пожаловать, дамы и господа, на главный аттракцион Зоны 1, "Фантастический тир с кровью"!
+Рассказчик: Добро пожаловать, дамы и господа, на главный аттракцион Зоны 1, "Фантастический Кровавый тир"!
 
 # Original: Things might get a little too spooky for little ones, so hold on tight to your mommy and daddy's hands!
-Рассказчик: Малышам может показаться слишком страшно, так что крепко держитесь за руки мамы и папы!
+Рассказчик: Малышам он может показаться слишком страшным, так что крепко держитесь за руки мамы и папы!
 
 # Original: Oh, and don't forget about 'Fashinista Show' attraction! We worked really hard on it. Please pay a visit to pick up a free souvenir gift.
 Рассказчик: И не забудьте посетить аттракцион "Модное шоу"! Мы очень старались над ним. Пожалуйста, загляните туда, чтобы получить бесплатный сувенир.
 
 # Original: Gah... Sancho! Sheesh, you spooked me with your staring again, your grace. Well, I'm thinking of giving out a few souvenirs here. Lady Dulcinea just won't stop teasing me about how my attraction doesn't get a lot of visitors—
-Рассказчик: Ах... Санчо! Фух, ваша милость, вы опять напугали меня своим пристальным взглядом. Ну, я думаю раздать здесь несколько сувениров. Леди Дульсинея просто не перестает дразнить меня тем, что мой аттракцион не привлекает много посетителей—
+Рассказчик: Ах... Санчо! Фух, ваша милость, вы опять напугали меня своим пристальным взглядом. Ну, я думаю раздать здесь несколько сувениров. Леди Дульсинея просто не может перестать дразнить меня тем, что мой аттракцион не привлекает не много посетителей—
 
 # Original: Wh... what the heck?
 Грегор: Ч-что за чертовщина?
