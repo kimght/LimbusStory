@@ -11,7 +11,7 @@
 Ромеро: Ого, они не так уж плохи! Мы всегда рады сотрудничеству с коллегами-Корректировщиками, которые могут постоять за себя.
 
 # Original: Hey, I recognize you. I saw you guys busily chatting away back at the WARP train platform. My name's Romero, by the way.
-Ромеро: Эй, я вас узнаю. Я видел, как вы оживлённо болтали на платформе ВАРП поезда. Кстати, меня зовут Ромеро.
+Ромеро: Эй, я вас узнаю. Я видел, как вы оживлённо болтали на платформе WARP поезда. Кстати, меня зовут Ромеро.
 
 # Original: You just sat there and watched as your men were out here fighting?
 Отис: Ты просто сидел и смотрел, как твои люди здесь дрались?
@@ -35,10 +35,10 @@
 Рассказчик: Его дружелюбная улыбка слегка померкла, когда он указал на пустырь вокруг.
 
 # Original: Look around, over there by the command tent. Just one look at who we're working with, and I'm sure it'll become plenty clear that they don't know what they're walking into. They should've hired only the professionals to take on this contract.
-Ромеро: Оглянитесь, вон там, у командной палатки. Достаточно одного взгляда на тех, с кем мы работаем, чтобы стало предельно ясно, что они не знают, во что ввязываются. Они должны были нанять только профессионалов для выполнения этого контракта.
+Ромеро: Оглянитесь, вон там, у командного шатра. Достаточно одного взгляда на тех, с кем мы работаем, чтобы стало предельно ясно, что они не знают, во что ввязываются. Они должны были нанять только профессионалов для выполнения этого контракта.
 
 # Original: <Around the command tent...?>
-Данте: <У командной палатки...?>
+Данте: <У командного шатра...?>
 
 # Original: We all simultaneously turned to look at the large, noisy tent.
 Рассказчик: Мы все одновременно повернулись, чтобы посмотреть на большую шумную палатку.
