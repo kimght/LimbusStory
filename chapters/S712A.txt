@@ -26,7 +26,7 @@
 Грегор: —тти?
 
 # Original: Decorated with blood.
-Рёшу: Украшено кровью.
+Рёшу: Украшенное кровью.
 
 # Original: Coagulated blood. Identical to his weapon in essence.
 Мерсо: Свернувшаяся кровь. По сути идентично его оружию.
