@@ -2,13 +2,13 @@
 Дон Кихот: Итак, мы одолели медведя и объявили легендарный Шлем Мамбрино нашим!
 
 # Original: <color=#ffef23>Really, a bear?</color>
-Рассказчик: <color=#ffef23>Неужели медведь?</color>
+Рассказчик: <color=#ffef23>Медведь, серьёзно?</color>
 
 # Original: <color=#ffef23>I can obliterate that poor animal in less than three—</color>
 Рассказчик: <color=#ffef23>Я могу уничтожить это бедное животное менее чем за три—</color>
 
 # Original: <color=#cc2424>Oh, please. Where is the fun in that? We shall battle this fell beast like... ...from the books!</color>
-Рассказчик: <color=#cc2424>О, прошу вас. Где же в этом веселье? Мы сразимся с этим ужасным зверем как... ...как в книгах!</color>
+Рассказчик: <color=#cc2424>О, прошу вас. Есть ли в этом веселье? Мы сразимся с этим ужасным зверем как... ...как в книгах!</color>
 
 # Original: H-helm...? Do you think these stories are... actual adventures of Don Quixote?
 Синклер: Ш-шлем...? Вы думаете, эти истории — настоящие приключения Дон Кихот?
