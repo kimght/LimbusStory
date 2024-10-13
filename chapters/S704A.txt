@@ -2,7 +2,7 @@
 Охотник на Кровожадов: Ваши... превращения... Должен признать, я никогда не видел ничего подобного.
 
 # Original: That enough demonstration for you, you twit?
-Хитклиф: Достаточно демонстрации для тебя, болван?
+Хитклиф: Достаточная демонстрация для тебя, болван?
 
 # Original: ... Fine. I'll admit, you've got some skill.
 Охотник на Кровожадов: ... Хорошо. Признаю, у вас есть навыки.
@@ -20,13 +20,13 @@
 Ромеро: Да, но драка уже началась, когда я пришёл. И я сомневаюсь, что смог бы их отговорить. К тому же, у меня было чувство, что вы сможете постоять за себя против моих людей.
 
 # Original: So please allow me to ask for your understanding. They're not bad people; they're just on edge. Anyone would be after what they've gone through in their struggles against the Bloodfiends.
-Ромеро: Поэтому прошу вашего понимания. Они не плохие люди, просто на взводе. Любой был бы таким после того, через что они прошли в борьбе с Кровожадами.
+Ромеро: Поэтому прошу вашего понимания. Они не плохие парни, просто на взводе. Любой был бы таким после того, через что они прошли в борьбе с Кровожадами.
 
 # Original: You have my understanding. Hunting entities such as those who lie beyond the ken must plant seeds of doubt in many a heart of men.
-И Сан: Я вас понимаю. Охота на существ, лежащих за гранью познаваемого, должно быть, сеет семена сомнений в сердцах многих людей.
+И Сан: Я вас понимаю. Охота на существ, лежащих за гранью понимания, должно быть, сеет семена сомнений в сердцах многих людей.
 
 # Original: Right. And I do agree with them, at least partially. The bar set by P Corp. and the Hana Association for Fixers participating in this contract is... shockingly low and indiscriminate.
-Ромеро: Верно. И я согласен с ними, хотя бы частично. Планка, установленная Корпорацией P и Ассоциацией Хана для Корректировщиков, участвующих в этом контракте... шокирующе низкая и неразборчивая.
+Ромеро: Верно. И я согласен с ними, хотя бы частично. Планка, установленная Корпорацией P и Ассоциацией Хана для Корректировщиков, участвующих в этом контракте... шокирующе низкая и неизберательная.
 
 # Original: If it were up to me, I would've set a more strict set of conditions.
 Ромеро: Если бы это зависело от меня, я бы установил более строгий набор условий.
@@ -86,7 +86,7 @@
 Камилл: О, вы хотите знать, где я? Держитесь крепче, ребята. Я в Подворотнях Района 16. Да, там, где Корпорация P!
 
 # Original: Oh yeah. Remember the P Corp. 150 Vintage Semi-permanent Canned Ice Cream unboxing & review livestream? Yep, the very same. Unfortunately, I'm not here to eat ice cream today.
-Камилл: О да. Помните стрим с распаковкой и обзором Полувековой Полузамороженной Консервированной Мороженки Корпорации P? Да-да, тот самый. К сожалению, сегодня я здесь не для того, чтобы есть мороженое.
+Камилл: О да. Помните стрим с распаковкой и обзором 150-и Старинных Полупостоянно Консервированных Мороженок Корпорации P? Да-да, тот самый. К сожалению, сегодня я здесь не для того, чтобы есть мороженое.
 
 # Original: So I've been meaning to ask... who's that fella even talking to? The heck's he doing?
 Грегор: Так вот, я давно хотел спросить... С кем, черт возьми, этот парень вообще разговаривает? Какого хрена он делает?
@@ -107,7 +107,7 @@
 Родион: Ч-что?..
 
 # Original: Sob... what a glorious day it is...
-Дон Кихот: Рыдаю... что за славный день...
+Дон Кихот: Хнык... что за славный день...
 
 # Original: Behold! This man is Sir Camille of Cinq Association West, his name honored as one of the 'Top Ten Up-and-coming New Generation Fixers' featured in the October issue of 'Fixers Monthly', one of the big three Fixer Magazines of the City!
 Дон Кихот: Узрите! Сей муж — сэр Камилл из Западной Ассоциации Сэнк, чьё имя удостоено чести быть в числе "Десяти Лучших Восходящих Корректировщиков Нового Поколения", представленных в октябрьском выпуске "Ежемесячника Корректировщиков", одного из трёх крупнейших журналов о Корректировщиках в Городе!
