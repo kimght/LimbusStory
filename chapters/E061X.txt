@@ -2,13 +2,13 @@
 Синклер: Ах...
 
 # Original: Woah... how are these green lights still... green?
-Измаил: Ого... как эти зеленые огни все еще... зеленые?
+Измаил: Ого... почему эти зеленые огни все еще... зеленые?
 
 # Original: Another unexpected alarm. But we all react with measured astonishment, as we'd all grown rather used to the randomness of it all.
 Рассказчик: Очередная неожиданная тревога. Но мы все реагируем со сдержанным удивлением, так как уже привыкли к этой случайности.
 
 # Original: It is unlikely that it has completely evaded the influence of T Corp.'s Singularity. However, it can be said that this partial retention of color can be attributed to the fact that Walpurgis Night is a transitory moment in which numerous possibilities coincide.
-Фауст: Маловероятно, что она полностью избежала влияния Сингулярности корпорации Т. Однако можно сказать, что это частичное сохранение цвета можно объяснить тем, что Вальпургиева ночь — это переходный момент, в котором сходятся многочисленные возможности.
+Фауст: Маловероятно, что они полностью избежали влияния Сингулярности Корпорации Т. Однако можно сказать, что это частичное сохранение цвета можно объяснить тем, что Вальпургиева ночь — это переходный момент, в котором сходятся многочисленные возможности.
 
 # Original: <Makes sense...>
 Данте: <Имеет смысл...>
@@ -26,10 +26,10 @@
 Рассказчик: Все это просто стало частью рутины.
 
 # Original: Even mysterious things like these 'Walpurgis Nights'.
-Рассказчик: Даже такие загадочные вещи, как эти "Вальпургиевы ночи".
+Рассказчик: Даже такие загадочные вещи, как эти "Вальпургиевы Ночи".
 
 # Original: Oh. An additional volatility, aside from the Walpurgis Night, has been detected.
-Фауст: О. Помимо Вальпургиевой ночи, обнаружена дополнительная нестабильность.
+Фауст: О. Помимо Вальпургиевой Ночи, обнаружена дополнительная нестабильность.
 
 # Original: <An additional volatility?>
 Данте: <Дополнительная нестабильность?>
@@ -44,16 +44,16 @@
 Рассказчик: Хитклиф тихо бормочет, поднимаясь со своего места.
 
 # Original: I thought it was about time a new one popped up. It happens every time we go through the bloody wringer. ... Didn't expect it to appear with the green flashes, though.
-Хитклиф: Я думал, что пора появиться новому. Это происходит каждый раз, когда мы проходим через эту чертову мясорубку. ... Не ожидал, правда, что оно появится вместе с зелеными вспышками.
+Хитклиф: Я думал, что как раз пора появиться новому. Это происходит каждый раз, когда мы проходим через эту чертову мясорубку. ... Не ожидал, правда, что оно появится вместе с зелеными вспышками.
 
 # Original: Heathcliff lightly struck the end of his club against the floor in visible anticipation.
-Рассказчик: Хитклиф слегка ударил концом своей дубинки об пол в явном предвкушении.
+Рассказчик: Хитклиф слегка ударил концом своей биты об пол в явном предвкушении.
 
 # Original: ... The word that was once engraved into his club had changed.
-Рассказчик: ... Слово, когда-то выгравированное на его дубинке, изменилось.
+Рассказчик: ... Слово, когда-то выгравированное на его бите, изменилось.
 
 # Original: A few days ago, I saw him sitting at the back of the bus, busily sanding and carving something into his club.
-Рассказчик: Несколько дней назад я видел, как он сидел в задней части автобуса, усердно шлифуя и вырезая что-то на своей дубинке.
+Рассказчик: Несколько дней назад я видел, как он сидел в задней части автобуса, усердно шлифуя и вырезая что-то на своей бите.
 
 # Original: I didn't have to ask to know what he meant by that new word, so...
 Рассказчик: Мне не нужно было спрашивать, чтобы понять, что он имел в виду под этим новым словом, поэтому...
@@ -62,10 +62,10 @@
 Рассказчик: ... я решил никому об этом не рассказывать.
 
 # Original: Only Heathcliff and I retained that memory, after all.
-Рассказчик: В конце концов, только Хитклиф и я сохранили эту память.
+Рассказчик: В конце концов, только Хитклиф и я сохранили память об этом.
 
 # Original: Thought I was goin' mad from tedium. C'mon, let's go bash some sods.
-Хитклиф: Думал, что схожу с ума от скуки. Давайте, пойдем разобьем пару черепушек.
+Хитклиф: Думал, что сойду с ума от скуки. Давайте, пойдем разобьем пару черепушек.
 
 # Original: How nice.
 Вергилий: Как мило.
@@ -74,16 +74,16 @@
 Вергилий: Мне нравится видеть инициативу от Грешников. Мисс Фауст?
 
 # Original: Indeed. Let us move without delay.
-Фауст: Действительно. Давайте двигаться без промедления.
+Фауст: Действительно. Давайте выдвигаться без промедления.
 
 # Original: Dante, bring us to the corridor past the Backdoor.
-Фауст: Данте, проведи нас в коридор за Черным Ходом.
+Фауст: Данте, проведи нас в коридор за Задней Дверью.
 
 # Original: <... Got it.>
 Данте: <... Понял.>
 
 # Original: Trying my best to shake this odd, uncomfortable feeling that Heathcliff's newfound enthusiasm didn't come off as entirely optimistic, I led the Sinners to the Backdoor.
-Рассказчик: Пытаясь изо всех сил избавиться от этого странного, неприятного чувства, что новообретенный энтузиазм Хитклифа не казался полностью оптимистичным, я повел Грешников к Черному Ходу.
+Рассказчик: Пытаясь изо всех сил избавиться от этого странного, неприятного чувства, что новообретенный энтузиазм Хитклифа не казался черезчур оптимистичным, я повел Грешников к Задней Двери.
 
 # Original: <Two types of doors at once, huh...>
 Данте: <Сразу два типа дверей, да?>
@@ -92,28 +92,28 @@
 Рассказчик: Два новых набора дверей, как и предсказывала Фауст.
 
 # Original: One set of doors was, as I expected, two metal doors resonant with the sound of wuthering gusts. A new Mirror Dungeon.
-Рассказчик: Один набор дверей был, как я и ожидал, двумя металлическими дверями, резонирующими со звуком завывающих порывов ветра. Новое Зеркальное Подземелье.
+Рассказчик: Один набор дверей был, как я и ожидал, двумя металлическими дверями, резонирующими со звуком грозовых порывов ветра. Новое Зеркальное Подземелье.
 
 # Original: And the other set of doors was...
 Рассказчик: А другой набор дверей был...
 
 # Original: Are these... papers?
-Отис: Это... бумага?
+Отис: Это что... бумажки?
 
 # Original: It's... all sparkly.
-Синклер: Он... весь сверкает.
+Синклер: Они... все сверкают.
 
 # Original: It was an unfamiliar door, radiating with an odd gleam of light.
 Рассказчик: Это была незнакомая дверь, излучающая странное сияние.
 
 # Original: Technically, we did see the weird, radio-frequency-like squiggly lines around the door before, but everything else about it was new.
-Рассказчик: Технически, мы уже видели странные, похожие на радиочастоты волнистые линии вокруг двери раньше, но все остальное в ней было новым.
+Рассказчик: Технически, мы уже видели странные, похожие на радиочастоты волнистые линии вокруг дверей раньше, но все остальное в них было новым.
 
 # Original: I guess this one doesn't connect to the Lobotomy Corporation like the last one did...
 Родион: Полагаю, эта не связана с Корпорацией Лоботомия, как предыдущая...
 
 # Original: Weird. I think I'm hearing... Is that jazz?
-Грегор: Странно. Кажется, я слышу... Это джаз?
+Грегор: Странно. Кажется, я слышу... Это что джаз?
 
 # Original: Oi, is this even a door...? It's more like a window than a door, innit?
 Хитклиф: Эй, это вообще дверь...? Больше похоже на окно, чем на дверь, разве нет?
@@ -122,7 +122,7 @@
 Рассказчик: Верно... этот новый вход действительно больше напоминал большое окно, чем дверь. Окно было мутным, и все, что я мог видеть за ним, были какие-то движущиеся формы.
 
 # Original: There appear to be several shambling entities past the entrance...
-И Сан: За входом, кажется, несколько бредущих сущностей...
+И Сан: За входом, кажется, находится несколько бредущих сущностей...
 
 # Original: …….
 Фауст: …….
@@ -137,13 +137,13 @@
 Данте: <... Полагаю, мне придется войти туда, чтобы увидеть, что это такое. Верно, Фауст?>
 
 # Original: You are experiencing regular growth in capabilities. Faust considers this to be a positive development.
-Фауст: Вы демонстрируете регулярный рост способностей. Фауст считает это положительным развитием.
+Фауст: Вы демонстрируете постоянный рост способностей. Фауст считает это положительным развитием.
 
 # Original: <... Yeah.>
 Данте: <... Да.>
 
 # Original: A field of green and a wall of tall, great trees appear before us as we enter the door. But at this point, it'll take a bit more than this to surprise us.
-Рассказчик: Поле зелени и стена высоких, могучих деревьев появляются перед нами, когда мы входим в дверь. Но на этом этапе нужно немного больше, чтобы удивить нас.
+Рассказчик: Поле зелени и стена высоких, могучих деревьев появляются пред нами, когда мы входим в дверь. Но на данный момент, чтобы удивить нас, потребуется нечто большее.
 
 # Original: Ah, so nice to have our colors back for once, huh~?
 Родион: Ах, как приятно снова увидеть наши цвета, а~?
@@ -155,16 +155,16 @@
 Данте: <Так это то, что мы видели за окном ранее...?>
 
 # Original: We are yet to be discovered. I recommend that we prepare for combat, Manager.
-Мерсо: Мы еще не обнаружены. Рекомендую подготовиться к бою, Управляющий.
+Мерсо: Нас еще не обнаружили. Рекомендую подготовиться к бою, Управляющий.
 
 # Original: I didn't even need to tell the Sinners what they were. It was pretty clear from the get-go that we'd be fighting an abnormality; the Sinners all stood ready to charge into battle at my command.
-Рассказчик: Мне даже не нужно было объяснять Грешникам, что это было. С самого начала было ясно, что мы будем сражаться с Аномалией; Грешники все были готовы броситься в бой по моей команде.
+Рассказчик: Мне даже не нужно было объяснять Грешникам, что это было. С самого начала было ясно, что мы будем сражаться с Аномалией; Грешники были готовы броситься в бой по одной моей команде.
 
 # Original: But... it's a bit different this time.
-Рассказчик: Но... на этот раз все немного иначе.
+Рассказчик: Но... на этот раз все было немного иначе.
 
 # Original: <So... Faust. I'm starting to get the hang of this Walpurgis Night thing. And...>
-Данте: <Итак... Фауст. Я начинаю понимать суть этой Вальпургиевой ночи. И...>
+Данте: <Итак... Фауст. Я начинаю понимать суть этой Вальпургиевой Ночи. И...>
 
 # Original: Please, do continue.
 Фауст: Пожалуйста, продолжайте.
@@ -182,16 +182,16 @@
 И Сан: То есть...?
 
 # Original: We enter a site once known as 'The Library'. A building that inexplicably appeared above the former L Corp. headquarters.
-Фауст: Мы входим в место, некогда известное как "Библиотека". Здание, которое необъяснимо появилось над бывшей штаб-квартирой Корпорации Л.
+Фауст: Мы входим в место, некогда известное как "Библиотека". Здание, которое необъяснимо появилось над бывшей штаб-квартирой Корп. L.
 
 # Original: And this exact location is said to be a space that exists within a book in which the Abnormality resides.
 Фауст: И это конкретное место, как говорят, является пространством, существующим внутри книги, в которой обитает Аномалия.
 
 # Original: 'The Library'...? Where have I heard that term before? Some Sinners talked about it, that's for sure...
-Рассказчик: "Библиотека"...? Где я слышал этот термин раньше? Некоторые Грешники точно говорили об этом...
+Рассказчик: "Библиотека"...? Где же, я слышал этот термин раньше? Некоторые Грешники точно говорили об этом...
 
 # Original: Quite... Yet this 'space' is fairly distinct from the containment units we had witnessed afore at one of the branches.
-И Сан: Весьма... Однако это "пространство" заметно отличается от камер содержания, которые мы видели прежде в одном из филиалов.
+И Сан: Возможно... Однако это "пространство" заметно отличается от камер содержания, которые мы видели прежде в одном из филиалов.
 
 # Original: It appears as though an ideal habitat has been established precisely for that Abnormality's residence. A rather striking difference from the very limited space and unaccommodating environment provided by the containment units.
 И Сан: Похоже, что здесь создана идеальная среда обитания именно для проживания этой Аномалии. Довольно разительное отличие от очень ограниченного пространства и неприспособленной среды, предоставляемой камерами содержания.
@@ -218,7 +218,7 @@
 Рассказчик: Именно тогда...
 
 # Original: ... Don Quixote, who was standing rather far from the group, who was made aware of these revelations only after Meursault had relayed them to her...
-Рассказчик: ... Дон Кихот, которая стояла довольно далеко от группы, которая узнала об этих откровениях только после того, как Мерсо передал их ей...
+Рассказчик: ... Дон Кихот, которая стояла довольно далеко от группы, которая узнала об этих откровениях только после того, как Мерсо поведал о них ей...
 
 # Original: Book...? Our journey hath brought us inside a BOOK, thou sayeth?!
 Дон Кихот: Книга...?! Наше путешествие привело нас внутрь КНИГИ, говоришь ты?!

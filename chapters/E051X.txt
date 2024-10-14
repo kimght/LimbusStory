@@ -8,13 +8,13 @@
 И Сан: Аух!
 
 # Original: Ah... I have been wrested from my refuge of sleep once again...
-И Сан: Ах... Меня снова вырвали из убежища сна...
+И Сан: Ах... Меня снова вырвали из моего убежища сна...
 
 # Original: Thanks to the alarm, the Sinners begin waking up one by one from their naps.
-Рассказчик: Благодаря сигналу тревоги Грешники один за другим начинают просыпаться от своего дремы.
+Рассказчик: Благодаря сигналу тревоги Грешники один за другим начинают просыпаться ото сна.
 
 # Original: Walpurgis Night has descended once again.
-Фауст: Вальпургиева ночь снова наступила.
+Фауст: Вальпургиева ночь вновь наступила.
 
 # Original: Even amidst that chaos, Faust remained as calm as ever. She walked up to the helm and shut off the alarm.
 Рассказчик: Даже посреди этого хаоса Фауст оставалась спокойной, как всегда. Она подошла к штурвалу и выключила сигнал тревоги.
@@ -26,7 +26,7 @@
 Фауст: Да, это редкое явление. Но его частоту невозможно надежно предсказать.
 
 # Original: Oww... Guess going back to sleep's out of the question now. So there's a chance that it goes off next week, too?
-Родион: Ой... Похоже, о возвращении ко сну можно забыть. Значит, есть шанс, что это повторится и на следующей неделе?
+Родион: Охх... Похоже, о возвращении ко сну можно забыть. Значит, есть шанс, что это повторится и на следующей неделе?
 
 # Original: The possibility is there, yes. Yet I don't believe that it would happen so soon; it takes some time for Mephistopheles' engine to resonate.
 Фауст: Такая возможность существует, да. Однако я не думаю, что это произойдет так скоро; двигателю Мефистофеля требуется некоторое время для резонанса.
@@ -41,7 +41,7 @@
 Данте: <... Что такое? Что-то не так?>
 
 # Original: ... No, everything is under control. This is within the predictable range of variables for one such volatility.
-Фауст: ... Нет, все под контролем. Это в пределах предсказуемого диапазона переменных для такой волатильности.
+Фауст: ... Нет, все под контролем. Это в пределах предсказуемого диапазона переменных для такой нестабильности.
 
 # Original: I merely paused to contemplate how I should explain this to you and the rest of the Sinners, Dante. Considering that this will be a new environment for all of you, that is.
 Фауст: Я просто задумалась о том, как мне объяснить это тебе и остальным Грешникам, Данте. Учитывая, что это будет новая среда для всех вас.
@@ -53,10 +53,10 @@
 Рассказчик: Я с любопытством посмотрел на нее... но не озвучил свои опасения.
 
 # Original: She was already walking toward the Backdoor. Faust was not going to answer my question anyway.
-Рассказчик: Она уже шла к Черному Ходу. Фауст все равно не собиралась отвечать на мой вопрос.
+Рассказчик: Она уже шла к Задней Двери. Фауст все равно не собиралась отвечать на мой вопрос.
 
 # Original: It is said that a picture is worth a thousand words. In this case... a first-hand experience.
-Фауст: Говорят, что картина стоит тысячи слов. В данном случае... личный опыт.
+Фауст: Говорят, лучше один раз увидеть, чем сто раз услышать. В данном случае... личный опыт.
 
 # Original: <Yep, knew it...>
 Данте: <Да, так и знал...>
@@ -74,13 +74,13 @@
 Фауст: Данте, пожалуйста, веди.
 
 # Original: The bored Sinners seemed to find this new possibility of an adventure somewhat exciting. They slowly got up from their seats with enthusiasm.
-Рассказчик: Скучающие Грешники, казалось, были несколько взволнованы этой новой возможностью приключений. Они медленно поднимались со своих мест с энтузиазмом.
+Рассказчик: Скучающие Грешники, казалось, были несколько взволнованы этой новой возможностью для приключений. Они медленно поднимались со своих мест с энтузиазмом.
 
 # Original: ... We again made our way to the Backdoor.
-Рассказчик: ... Мы снова направились к Черному Ходу.
+Рассказчик: ... Мы снова направились к Задней Двери.
 
 # Original: Dante, the door on which this volatility occurred is in the direction of the dungeons.
-Фауст: Данте, дверь, на которой произошла эта волатильность, находится в направлении подземелий.
+Фауст: Данте, дверь, у которой произошла эта нестабильность, находится в направлении возле подземелий.
 
 # Original: <Oh, so we gotta head toward my room...>
 Данте: <О, так нам нужно идти в сторону моей комнаты...>
@@ -101,7 +101,7 @@
 Измаил: В отличие от того раза, когда нам пришлось, будучи не на дежурстве, броситься на помощь каким-то придуркам, которые решили туда прогуляться, несмотря на неоднократные предупреждения...
 
 # Original: Agh... I won't do it again, all right?
-Хитклиф: Агх... Я больше не буду, ладно?
+Хитклиф: Агх... Я больше так не буду, ладно?
 
 # Original: You've gone against the warning twice already. You are far from the most trustworthy Sinner among us.
 Отис: Вы уже дважды нарушили предупреждение. Вы далеко не самый надежный Грешник среди нас.
@@ -113,7 +113,7 @@
 Хитклиф: Хааах...
 
 # Original: I have done it only once, in case thou weren't aware...
-Дон Кихот: Я сделала это лишь однажды, если ты не знал...
+Дон Кихот: Я сделала это лишь однажды, если вы не знали...
 
 # Original: Shut it, you!
 Хитклиф: Заткнись, ты!
@@ -122,7 +122,7 @@
 Рассказчик: Мне начинает нравиться эта шумиха среди Грешников.
 
 # Original: Hoping that this camaraderie would last for a long, long time, I turned the handle and opened the door.
-Рассказчик: Надеясь, что это товарищество продлится еще долго, я повернул ручку и открыл дверь.
+Рассказчик: Надеясь, что этот дух товарищества продлится на долгое, долгое время, я повернул ручку и открыл дверь.
 
 # Original: Oho...?
 Хон Лу: Охо...?
@@ -161,13 +161,13 @@
 Рассказчик: Чем дольше я смотрю на него, тем более знакомым он становится. Это место определенно очень похоже на те филиалы Корпорации Лоботомии, в которых мы были.
 
 # Original: Oi, smartarse. If we could just pop open a door leading straight into one of 'em branches, why are we doing any of this tour bus business? Ain't we wasting time and effort out here?
-Хитклиф: Эй, умница. Если мы можем просто открыть дверь, ведущую прямо в один из этих филиалов, зачем мы вообще занимаемся всей этой ерундой с экскурсионным автобусом? Разве мы не тратим время и силы впустую?
+Хитклиф: Эй, всезнайка. Если мы можем просто открыть дверь, ведущую прямо в один из этих филиалов, зачем мы вообще занимаемся всей этой ерундой с экскурсионным автобусом? Разве мы не тратим время и силы впустую?
 
 # Original: ... There are numerous inaccuracies in your statement that must be corrected. I will tackle them in reverse order of your presentation.
 Фауст: ... В вашем утверждении есть множество неточностей, которые необходимо исправить. Я рассмотрю их в обратном порядке вашего представления.
 
 # Original: First. Walpurgis Night is an unpredictable event that not even I could predict.
-Фауст: Во-первых. Вальпургиева ночь - это непредсказуемое событие, которое даже я не могла предвидеть.
+Фауст: Во-первых. Вальпургиева ночь - это непредсказуемое событие, которое даже я не cмогла бы предсказать.
 
 # Original: To base our entire operation on such an unstable element would be a plan most foolish.
 Отис: Основывать всю нашу операцию на таком нестабильном элементе было бы крайне глупым планом.
@@ -185,13 +185,13 @@
 Фауст: Хм. Что ж. Я не буду полностью отрицать возможность использования этого метода.
 
 # Original: However, I must clarify that this is not a real Lobotomy Corp. branch of the City. Merely a result of Walpurgis Night's mutation of the corridor.
-Фауст: Однако я должна пояснить, что это не настоящий филиал Корпорации Лоботомии Города. Это всего лишь результат мутации коридора Вальпургиевой ночью.
+Фауст: Однако я должна пояснить, что это не настоящий филиал Корпорации Лоботомии из нашего Города. Это всего лишь результат мутации коридора Вальпургиевой ночью.
 
 # Original: Therefore, I can say with quite the certainty that this does not align with our current mission, which is to retrieve the Golden Boughs from the branches existing in our current reality.
 Фауст: Поэтому я могу с уверенностью сказать, что это не соответствует нашей текущей миссии, которая заключается в получении Золотых Ветвей из филиалов, существующих в нашей текущей реальности.
 
 # Original: Right, right... Will you stop it with your lecture when I apologize for speaking without thinking?
-Хитклиф: Ладно, ладно... Ты прекратишь свою лекцию, если я извинюсь за то, что говорил, не подумав?
+Хитклиф: Ладно, ладно... Ты прекратишь свою лекцию, если я извинюсь за то, что сказал, не подумав?
 
 # Original: As I have said previously, I won't completely deny the possibility of pursuing that method. Besides...
 Фауст: Как я уже сказала ранее, я не буду полностью отрицать возможность использования этого метода. Кроме того...
@@ -218,7 +218,7 @@
 Данте: <Не... один из них? Так это не объект Корпорации Лоботомии?>
 
 # Original: This is not a branch. We are at a Lobotomy Corp. Headquarters of the past—its point in time and the branch of possibility uncertain.
-Фауст: Это не филиал. Мы находимся в штаб-квартире Корпорации Лоботомии прошлого — точка во времени и ветвь возможностей неопределенны.
+Фауст: Это не филиал. Мы находимся в штаб-квартире Корпорации Лоботомии из прошлого — где его точка во времени и ветвь возможностей неопределенны.
 
 # Original: ...!
 Измаил: ...!
@@ -227,7 +227,7 @@
 Измаил: Так это...
 
 # Original: The broken Wing...!
-Синклер: Разрушенное Крыло...!
+Синклер: Падшее Крыло...!
 
 # Original: Indeed. We find ourselves at a 'Control Team' hallway of the former L Corp. Headquarters.
 Фауст: Действительно. Мы оказались в коридоре "Команды Контроля" бывшей штаб-квартиры Корпорации Лоботомии.
@@ -236,7 +236,7 @@
 Рассказчик: Я чувствую растущее беспокойство среди Грешников.
 
 # Original: So this is where it happened. I don't remember it since it happened before my amnesia... but everyone in the City knows about that incident.
-Рассказчик: Значит, это произошло здесь. Я не помню этого, так как это случилось до моей амнезии... но каждый в Городе знает об этом инциденте.
+Рассказчик: Значит, вот где это произошло. Я не помню этого, так как это случилось до моей амнезии... но каждый в Городе знает об этом инциденте.
 
 # Original: The source of the blinding light that enveloped the City for days, which then sunk everyone into utter darkness for the next.
 Рассказчик: Источник ослепляющего света, который окутал Город на несколько дней, а затем погрузил всех в полную темноту на следующие дни.
@@ -254,7 +254,7 @@
 Данте: <... Ты чего-то ждешь, Фауст?>
 
 # Original: I am. There is more to this volatility than the volatility phenomena we have experienced in the past.
-Фауст: Да. В этой волатильности есть нечто большее, чем в явлениях волатильности, которые мы испытывали в прошлом.
+Фауст: Да. В этой нестабильности есть нечто большее, чем в явлениях нестабильностей, которые мы испытывали в прошлом.
 
 # Original: Soon, it will...
 Фауст: Скоро оно...
@@ -269,10 +269,10 @@
 Дон Кихот: К-какое вероломство? Это... это то, что они называют "Погребением объекта"...?!
 
 # Original: A different siren would play if an event of a magnitude requiring that level of response had occurred.
-Фауст: Другая сирена бы звучала, если бы произошло событие такого масштаба, требующее ответа такого уровня.
+Фауст: Если бы произошло событие такого масштаба, требующее такого уровня реагирования, сработала бы другая сирена.
 
 # Original: T-then what the hell is this...? I'm really not liking the look of that red light...!
-Грегор: Т-тогда что это, черт возьми...? Мне очень не нравится вид этого красного света...!
+Грегор: Т-тогда что это, черт возьми...? Мне очень не нравится вид этих красных огней...!
 
 # Original: They're here. Ahead.
 Фауст: Они здесь. Впереди.
@@ -305,13 +305,13 @@
 Хитклиф: Это тоже Аномалия...?
 
 # Original: <No, wait... It feels more like a... peccatulum?>
-Данте: <Нет, подождите... Больше похоже на... пеккатулу?>
+Данте: <Нет, подождите... Это больше похоже на... пеккатулу?>
 
 # Original: I instinctively blurted out the immediate sense they gave off, and looked to Faust. She'll know what to say.
 Рассказчик: Я инстинктивно выпалил свое непосредственное ощущение и посмотрел на Фауст. Она должна знать, что сказать.
 
 # Original: Instead of giving me an answer, however, Faust brandished the Zweihander and stepped forward.
-Рассказчик: Однако вместо того, чтобы дать мне ответ, Фауст выхватила Цвайхендер и шагнула вперед.
+Рассказчик: Однако вместо того, чтобы дать мне ответ, Фауст выхватила Цвайхандер и шагнула вперед.
 
 # Original: ... We must first suppress the entities. Dante, prepare the Identity Cards.
 Фауст: ... Сначала мы должны подавить эти сущности. Данте, приготовь карты Идентичности.

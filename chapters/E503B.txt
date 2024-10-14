@@ -335,7 +335,7 @@
 Рассказчик: Он заикается, прямо как Синклер в плохой день.
 
 # Original: While his disposition was as brusque as always, I could clearly see that he couldn't stop himself from smiling from a mere mention of her name. And that gave me more than enough answers.
-Рассказчик: Хотя его поведение было таким же грубым, как всегда, я ясно видел, что он не мог сдержать улыбку при одном лишь упоминании ее имени. И это дало мне более чем достаточно ответов.
+Рассказчик: Хотя его поведение было таким же грубым, как всегда, ясно виделось, что он не мог сдержать улыбку при одном лишь упоминании ее имени. И это дало мне более чем достаточно ответов.
 
 # Original: Every Sinner had a reason for joining Limbus Company, so...
 Рассказчик: У каждого Грешника была причина присоединиться к Компании Лимбус, так что...

@@ -8,7 +8,7 @@
 Рассказчик: Мы и раньше проходили через подобные длительные периоды бездействия, но к скуке не так-то просто привыкнуть. Полагаю, частью моей работы стало выслушивание жалоб Грешников на медленное продвижение.
 
 # Original: <How much longer until the T Corp. immigration checkpoint?>
-Данте: <Сколько еще до иммиграционного контрольно-пропускного пункта T Corp.?>
+Данте: <Сколько еще до иммиграционного контрольно-пропускного пункта Корпорации Т.?>
 
 # Original: My only option is to give them a reminder of how far we are from our destination.
 Рассказчик: Мой единственный вариант — напомнить им, как далеко мы находимся от пункта назначения.
@@ -44,7 +44,7 @@
 Грегор: ... Эй, офицер Отис. Не все здесь были солдатами.
 
 # Original: A-and! If we're unlucky, we might even run into those terrifying Sw-Sweepers... before the break of dawn...
-Синклер: И-и! Если нам не повезет, мы можем даже столкнуться с этими ужасными Чи-Чистильщиками... до рассвета...
+Синклер: И-и! Если нам не повезет, мы можем даже столкнуться с этими ужасными Чи-Чистильщиками... до начала рассвета...
 
 # Original: Even a partial mention their name drains all color from Sinclair's face... I remember what the Sinners once told me about them.
 Рассказчик: Даже частичное упоминание их имени лишает Синклера всех красок... Я вспомнил, что Грешники однажды рассказывали мне о них.
@@ -59,7 +59,7 @@
 Фауст: Этот автобус является одним из немногих транспортных средств, признанных городом как жилое помещение, что означает, что мы остаемся в безопасности от рук Чистильщиков.
 
 # Original: Attempting to sleep outside the bus in the Backstreets would not permit a restful sleep. Instead, one would be forced to survive the onslaught of Sweepers for an hour in the early hours of dawn.
-Фауст: Попытка спать вне автобуса в Подворотнях не позволила бы обрести спокойный сон. Вместо этого пришлось бы выживать под натиском Чистильщиков в течение часа в ранние часы рассвета.
+Фауст: Попытка спать вне автобуса в Подворотнях не позволила бы обрести спокойный сон. Вместо этого пришлось бы выживать под натиском Чистильщиков в течение часа, в ранние часы рассвета.
 
 # Original: Makes sense. Those Sweepers do steer clear of the residential areas, after all~
 Родион: Логично. Эти Чистильщики ведь действительно обходят стороной жилые районы~
@@ -107,7 +107,7 @@
 Вергилий: Прекрати ныть как капризный ребенок.
 
 # Original: ... There won't be more detours until we reach our current destination.
-Вергилий: ... Больше отклонений не будет, пока мы не достигнем нашего текущего пункта назначения.
+Вергилий: ... Больше никаких отклонений не будет, пока мы не достигнем нашего текущего пункта назначения.
 
 # Original: Vergilius furrowed his brows, walked up to the front of the bus, and leaned against one of the first-row chairs. He began leisurely shuffling through the documents.
 Рассказчик: Вергилий нахмурился, подошел к передней части автобуса и облокотился на одно из кресел первого ряда. Он начал неторопливо перебирать документы.
@@ -146,7 +146,7 @@
 Измаил: ... Да?
 
 # Original: You have called upon my name?
-И Сан: Ты воззвал к моему имени?
+И Сан: Вы воззвали к моему имени?
 
 # Original: I'll leave it to you two model students to explain the contents of these documents.
 Вергилий: Я оставлю вам двоим, образцовым ученикам, объяснение содержания этих документов.
@@ -164,7 +164,7 @@
 Рассказчик: Измаил, похоже, не слишком обрадовалась этому внезапному повороту событий. Тем не менее, она открыла документы и начала читать.
 
 # Original: I can never tell if he actually doesn't care about us or if he just naturally comes off as a cold person... sigh. So what does the thing say, Ishy?
-Родион: Я никогда не могу понять, действительно ли ему на нас наплевать, или он просто от природы производит впечатление холодного человека... вздох. Так что там говорится, Иши?
+Родион: Я никогда не могу понять, действительно ли ему на нас наплевать, или он просто от природы производит впечатление холодного человека... вздох. Так что там говорится, Изя?
 
 # Original: Gimme a sec. So—
 Измаил: Дай мне секунду. Итак—
@@ -185,7 +185,7 @@
 Измаил: Бывшая Корпорация Лоботомия—
 
 # Original: B.A.H.
-Рёшу: Б.Ч.Д.
+Рёшу: П.К.С.
 
 # Original: The bus begins to fill with the familiar hectic buzz once again.
 Рассказчик: Автобус снова начинает наполняться знакомым суматошным гулом.
@@ -227,7 +227,7 @@
 Данте: <... Только без убийств и избиений, пожалуйста.>
 
 # Original: ... B.A.H.
-Рёшу: ... Б.Ч.Д.
+Рёшу: ... П.К.С.
 
 # Original: Ryōshū slowly lowered Don Quixote's lance she'd picked up.
 Рассказчик: Рёшу медленно опустила копье Дон Кихот, которое она подняла.
@@ -239,7 +239,7 @@
 Фауст: Принято.
 
 # Original: Very well.
-И Сан: Весьма хорошо.
+И Сан: Тогда хорошо.
 
 # Original: <Rodya, if anyone tries to speak out of turn, please smack them lightly in the head. If you do good, I'll make sure to order you extra desserts during our team dinner.>
 Данте: <Родя, если кто-то попытается говорить без очереди, пожалуйста, слегка стукни их по голове. Если справишься хорошо, я обязательно закажу тебе дополнительный десерт во время нашего командного ужина.>
@@ -251,7 +251,7 @@
 Отис: Какой... какой впечатляющий рост лидерских способностей, Исполнительный Менеджер...!
 
 # Original: Alrighty then! First bonk goes to~
-Родион: Ладненько! Первый бонк достается~
+Родион: Ладненько! Первый *бонк* достается~
 
 # Original: Wait, wait! This wasn't—
 Отис: Стой, стой! Это не—
@@ -266,13 +266,13 @@
 Данте: <Тогда... я оставляю это тебе.>
 
 # Original: Ahm, hm. So the former L Corp., also known as the Lobotomy Corporation, used to contain and manage the Abnormalities that we've faced in their branches.
-Измаил: Ахм, хм. Итак, бывшая Корпорация Лоботомия, также известная как Lobotomy Corporation, раньше содержала и управляла Аномалиями, с которыми мы сталкивались в их филиалах.
+Измаил: Ахм, хм. Итак, бывшая Корп. L, также известная как Корпорация Лоботомия, раньше содержала и управляла Аномалиями, с которыми мы сталкивались в их филиалах.
 
 # Original: Even taking into account that their strengths were suppressed by the Golden Boughs, there was a pretty significant difference between their Risk Level categorizations and the actual risk involved in facing them.
-Измаил: Даже принимая во внимание, что их силы были подавлены Золотыми Ветвями, была довольно значительная разница между их категоризацией Уровня Риска и фактическим риском, связанным со столкновением с ними.
+Измаил: Даже принимая во внимание, что их силы были подавлены Золотыми Ветвями, была замечена довольно значительная разница между их категоризацией Уровня Риска и фактическим риском, связанным со столкновением с ними.
 
 # Original: Other employees and the higher-ups of Limbus Company also apparently felt that something was familiar yet off. And that's why they investigated this issue through the LCD department.
-Измаил: Другие сотрудники и руководство Компании Лимбус также, по-видимому, чувствовали, что что-то знакомое, но не так. И поэтому они исследовали этот вопрос через отдел LCD.
+Измаил: Другие сотрудники и руководство Компании Лимбус также, по-видимому, чувствовали, что какая-то информация сходится, но что-то не так. И поэтому они исследовали этот вопрос через отдел LCD.
 
 # Original: So far, there have been five categories of Risk Levels—
 Измаил: До сих пор существовало пять категорий Уровней Риска—
@@ -284,7 +284,7 @@
 Рассказчик: Бонк!
 
 # Original: Rodya punched Heathcliff in the crown of his head, and... he promptly slumped to the ground, out cold. Maybe it was the suddenness of the attack that did it...?
-Рассказчик: Родя ударила Хитклифа по макушке, и... он тут же рухнул на пол без сознания. Может быть, это внезапность атаки так подействовала...?
+Рассказчик: Родя ударила Хитклифа по макушке, и... он тут же рухнул на пол без сознания. Может быть, это из-за внезапности, атака так подействовала...?
 
 # Original: <... Y-you didn't kill him, did you?>
 Данте: <... Т-ты же его не убила, правда?>
@@ -326,16 +326,16 @@
 Мерсо: Я должен спросить, что именно подразумевают под этим "изменением". Означает ли это, что Аномалии будут перекатегоризированы в рамках существующей системы категоризации? Или будут созданы дополнительные категории Уровней Риска?
 
 # Original: It... doesn't elaborate that far. But it says here that Lobotomy Corporation used each Abnormality's enkephalin production capability to categorize them into different Risk Levels.
-Измаил: Это... не уточняется так далеко. Но здесь говорится, что Корпорация Лоботомия использовала способность каждой Аномалии к производству энкефалина для категоризации их по разным Уровням Риска.
+Измаил: Это... не уточняется настолько глубоко. Но здесь говорится, что Корпорация Лоботомия использовала способность каждой Аномалии к производству энкефалина для категоризации их по разным Уровням Риска.
 
 # Original: Abnormalities with more complicated, difficult management conditions apparently produced more enkephalin. I guess the more complicated an Abnormality is, the harder they are to fight... that does line up with our own experiences. Sort of.
-Измаил: Аномалии с более сложными, трудными условиями управления, по-видимому, производили больше энкефалина. Полагаю, чем сложнее Аномалия, тем труднее с ней бороться... это в какой-то мере соответствует нашему собственному опыту.
+Измаил: Аномалии с более сложными, трудными условиями содержания, по-видимому, производили больше энкефалина. Полагаю, чем сложнее Аномалия, тем труднее с ней бороться... это в какой-то мере соответствует нашему собственному опыту.
 
 # Original: But it can hardly be said that it was flawless. Looks to me that they're trying to make these Risk Levels better reflect our own field experiences, which doesn't rule out the possibility of them adding more tiers to the preexisting ones.
-Измаил: Но вряд ли можно сказать, что это было безупречно. Мне кажется, они пытаются сделать эти Уровни Риска лучше отражающими наш собственный полевой опыт, что не исключает возможности добавления новых уровней к уже существующим.
+Измаил: Но вряд ли можно сказать, что это было сделано идеально. Мне кажется, они пытаются сделать так, чтобы эти Уровни Риска лучше отражали наш собственный полевой опыт, что не исключает возможности добавления новых уровней к уже существующим.
 
 # Original: Mm, for we conduct not management but combat against these foes, it is sensible that the standards for Risk Levels be adjusted in accordance to—hup?!
-И Сан: Мм, поскольку мы ведем не управление, а бой против сих врагов, разумно, что стандарты Уровней Риска будут скорректированы в соответствии с—хуп?!
+И Сан: Мм, поскольку мы занимаемся не содержанием, а боем против сих врагов, разумно, что стандарты Уровней Риска будут скорректированы в соответствии с—хуп?!
 
 # Original: <R-Rodya, wait! Yi Sang can speak without raising his hand!>
 Данте: <Р-Родя, стой! И Сан может говорить, не поднимая руку!>
@@ -380,7 +380,7 @@
 Измаил: Фух, вот и последняя тема.
 
 # Original: This one's about the Peccatula... They're going to give them a classification code scheme different from the Abnormalities as well, including the new type of Peccatula we recently encountered.
-Измаил: Эта о Пеккатулах... Им тоже дадут схему классификации, отличную от Аномалий, включая новый тип Пеккатул, с которыми мы недавно столкнулись.
+Измаил: Это о Пеккатулах... Им тоже дадут схему классификации, отличную от Аномалий, включая новый тип Пеккатул, с которыми мы недавно столкнулись.
 
 # Original: Let's see... Classification basis... Abnormalities and Distortions both have elements of uniqueness that is missing in each individual Peccatula; considering this, it has been deemed... Okay, I don't really get what this is talking about.
 Измаил: Так, посмотрим... Основа классификации... Аномалии и Искажения обладают элементами уникальности, которых нет у отдельных Пеккатул; учитывая это, было решено... Ладно, я не очень понимаю, о чем здесь говорится.
@@ -434,7 +434,7 @@
 Измаил: О, конечно... Дай мне секунду...
 
 # Original: Sender... LCD On-site Investigative Reasoning Team Leader, Moses.
-Измаил: Отправитель... Руководитель Группы Следственных Рассуждений LCD на месте, Моисей.
+Измаил: Отправитель... Участковый Руководитель Группы Следственных Рассуждений LCD, Мозес.
 
 # Original: Well, we might as well keep that name in mind since we'll probably run into them sooner or later. I'm sorry for ignoring you, Don Quixote.
 Измаил: Что ж, мы могли бы запомнить это имя, так как, вероятно, скоро с ним столкнемся. Прости, что проигнорировала тебя, Дон Кихот.
@@ -470,13 +470,13 @@
 Рассказчик: Это могло бы затянуться намного дольше... Но Грешники были на удивление послушны, так что нам удалось закончить наш день пораньше.
 
 # Original: I followed the Sinners to the Backdoor of the bus, my heart a little lighter than it was at the start of the day.
-Рассказчик: Я последовал за Грешниками к Черному Ходу автобуса, с сердцем немного легче, чем в начале дня.
+Рассказчик: Я последовал за Грешниками к Задней Двери автобуса, с душой чуть легче, чем в начале дня.
 
 # Original: ... Huh.
 Рассказчик: ... Хм.
 
 # Original: I feel like I'm forgetting something.
-Рассказчик: Такое чувство, что я что-то забываю.
+Рассказчик: Такое чувство, будто я что-то забыл.
 
 # Original: …….
 Хитклиф: …….

@@ -14,7 +14,7 @@
 Хитклиф: А, это?
 
 # Original: I thought writing 'em down could come in handy later. In case I have to remember something.
-Хитклиф: Подумал, что записывать их может пригодиться позже. На случай, если надо будет что-то вспомнить.
+Хитклиф: Подумал, что записи в нем могут пригодиться позже. На случай, если надо будет что-то вспомнить.
 
 # Original: Heathcliff's been holding that notebook in his hands ever since this session started...
 Рассказчик: Хитклиф держал этот блокнот в руках с самого начала сессии...
@@ -26,10 +26,10 @@
 Данте: <Ты пишешь о... Кэтрин?>
 
 # Original: Won't deny that that's a part of it.
-Хитклиф: Не буду отрицать, что это часть этого.
+Хитклиф: Не буду отрицать, что там есть часть этого.
 
 # Original: His expression becomes inscrutably complex upon hearing her name; he breathes in a lungful of air and lets out a deep sigh.
-Рассказчик: Его выражение лица становится непостижимо сложным, услышав её имя; он вдыхает полные лёгкие воздуха и глубоко вздыхает.
+Рассказчик: Его выражение лица становится непостижимо сложным, когда услышав её имя; он вдыхает полной грудью и глубоко вздыхает.
 
 # Original: He smiles awkwardly before sliding his notebook across the desk in my direction.
 Рассказчик: Он неловко улыбается, прежде чем подвинуть свой блокнот через стол в мою сторону.
@@ -44,7 +44,7 @@
 Рассказчик: Я также замечаю, что несколько из этих неорганизованных заметок - это записи его воспоминаний с Кэтрин, нацарапанные рядом с заметками о значимых моментах нашего путешествия. Записи воспоминаний, которые он не хочет потерять.
 
 # Original: ... Well, it ain't nothing important.
-Хитклиф: ... Ну, это ничего важного.
+Хитклиф: ... Ну, там особо ничего важного.
 
 # Original: Right, if we're done here, I'm off.
 Хитклиф: Ладно, если мы закончили, я пошёл.
@@ -56,7 +56,7 @@
 Рассказчик: ... Вскоре после этого Родя практически врывается в дверь.
 
 # Original: Hey, saw Heathcliff leaving the room just now and thought it was my turn. That was a pretty quick meeting, huh?
-Родион: Эй, видел Хитклифа, выходящего из комнаты только что, и подумал, что настала моя очередь. Довольно быстрая встреча, да?
+Родион: Эй, увидела Хитклифа, выходящего из комнаты только что, и подумала, что настала моя очередь. У вас была довольно быстрая встреча, да?
 
 # Original: <Yeah, we didn't really talk about much.>
 Данте: <Да, мы особо ни о чём не говорили.>
@@ -80,7 +80,7 @@
 Родион: Д-да? Ооо, ты сегодня такой серьёзный. Что случилось~?
 
 # Original: <Do you remember what you asked me when we were dealing with the Case of Timekilling Time, Rodya?>
-Данте: <Ты помнишь, о чём ты меня спрашивала, когда мы разбирались с Делом об Убийстве Времени, Родя?>
+Данте: <Ты помнишь, о чём ты меня спрашивала, когда мы разбирались с Делом об Времени, Убивающем Время, Родя?>
 
 # Original: ... I dunno, what'd I say?
 Родион: ... Не знаю, что я сказала?
@@ -107,7 +107,7 @@
 Данте: <Я говорю о том времени, когда ты спрашивала меня о Соне. О том, что бы случилось, если бы ты—>
 
 # Original: ... The alarm had to choose this precise moment, when I finally gathered enough courage to bring this up... to go off.
-Рассказчик: ... Сигнализация должна была выбрать именно этот момент, когда я наконец собрал достаточно смелости, чтобы поднять эту тему... чтобы сработать.
+Рассказчик: ... Сигнализация должна была выбрать именно этот момент, когда я наконец набрал достаточно смелости, чтобы поднять эту тему... чтобы сработать.
 
 # Original: <…!>
 Данте: <…!>
@@ -146,13 +146,13 @@
 Рассказчик: Глубокий вздох Вергилия был последним, что мы услышали из системы громкой связи автобуса, прежде чем короткая перепалка Харона и Отис резко прекратилась.
 
 # Original: My, a new Backdoors thingie? That's what the alarm usually means, right?
-Родион: Боже, новая штучка Чёрных Ходов? Обычно сигнализация означает это, верно?
+Родион: Боже, новая штучка Задних Дверей? Обычно сигнализация означает это, верно?
 
 # Original: <Let's see... I'm gonna guess that this one's for a Refraction Railway...?>
-Данте: <Давай посмотрим... Я предполагаю, что эта для Железной Дороги Преломления...?>
+Данте: <Давай подумаем... Я предполагаю, что эта для Железной Дороги Преломления...?>
 
 # Original: Bleh, not a fan of those Railways. They're so exhausting...
-Родион: Бле, не фанат этих Железных Дорог. Они такие утомительные...
+Родион: Бее, не фанатка этих Железных Дорог. Они такие утомительные...
 
 # Original: Rodya grumbles for a moment before rising from her seat.
 Рассказчик: Родя ворчит мгновение, прежде чем подняться со своего места.
@@ -164,7 +164,7 @@
 Родион: Чего ты стоишь, Данте? Давай, разве ты не хочешь посмотреть, что происходит?
 
 # Original: <Um... Yeah, I'm coming.>
-Данте: <Эм... Да, я иду.>
+Данте: <Эм... Да, я уже иду.>
 
 # Original: I leave my empty consultation notes behind and follow Rodya out to the hallway.
 Рассказчик: Я оставляю свои пустые консультационные заметки и следую за Родей в коридор.
@@ -197,7 +197,7 @@
 Данте: <Я слышал радио... На этот раз Железная Дорога Преломления?>
 
 # Original: Yes. The fourth line of the Refraction Railway, to be exact.
-Фауст: Да. Четвёртая линия Железной Дороги Преломления, если быть точным.
+Фауст: Да. Четвёртая линия Железной Дороги Преломления, если быть точной.
 
 # Original: Hey, I think they're getting used to this.
 Родион: Эй, я думаю, они привыкают к этому.
@@ -206,10 +206,10 @@
 Рёшу: ... К.Ч.В.М.У.В.
 
 # Original: "Woe! 'Tis a Hearkening At—"
-Дон Кихот: "Какая чума! 'Тис Услышание В—"
+Дон Кихот: "Какая Чума! 'Вы Можете Уз—"
 
 # Original: "When... The Hell..."
-Грегор: "Когда... Чёрт..."
+Грегор: "Когда... Чёрт Возьми..."
 
 # Original: It appears that she is requesting information pertinent to our schedule regarding our entry to the Railway.
 И Сан: Кажется, она запрашивает информацию, касающуюся нашего расписания относительно нашего входа в Железную Дорогу.
@@ -221,7 +221,7 @@
 Рассказчик: Рёшу, которая слушала с нахмуренными бровями, пока каждый Грешник пытался угадать, казалось, наконец обрела покой.
 
 # Original: Sinclair was right on the money.
-Рассказчик: Синклер попал в точку.
+Рассказчик: Синклер попал в самую точку.
 
 # Original: Hey, at least Gregor and Yi Sang got half of that right, too...
 Рассказчик: Эй, по крайней мере, Грегор и И Сан тоже угадали половину...
@@ -239,13 +239,13 @@
 Рассказчик: Дверь открывается со скрипом, и яркий синий свет заполняет моё поле зрения.
 
 # Original: The blue ambiance almost seems to drop the temperature of the entire room.
-Рассказчик: Синяя атмосфера, кажется, почти снижает температуру всей комнаты.
+Рассказчик: Синяя атмосфера, кажется, почти понижает температуру всей комнаты.
 
 # Original: Another Railway Line, completely different from Line 3 and its orange hue.
 Рассказчик: Ещё одна Линия Железной Дороги, совершенно отличная от Линии 3 и её оранжевого оттенка.
 
 # Original: Manager Esquire, behold! These curtains, these masks... I say, visions of par-tay lay before us, forsooth!
-Дон Кихот: Сэр Менеджер, узрите! Эти занавеси, эти маски... Я говорю, видения вечеринки лежат пред нами, воистину!
+Дон Кихот: Сэр Менеджер, узрите! Эти занавесы, эти маски... Я глаголю, видения вечеринки лежат пред нами, воистину!
 
 # Original: <Masks?>
 Данте: <Маски?>
@@ -263,7 +263,7 @@
 Отис: ... Что?
 
 # Original: There was urgency in her voice. I quickly ran to where Don Quixote was with the other Sinners in tow.
-Рассказчик: В её голосе слышалась срочность. Я быстро побежал туда, где была Дон Кихот, с остальными Грешниками позади.
+Рассказчик: В её голосе слышалась настойчивость. Я быстро побежал туда, где была Дон Кихот, с остальными Грешниками позади.
 
 # Original: And there she was, an exact copy of Outis, standing before us.
 Рассказчик: И вот она, точная копия Отис, стояла перед нами.
@@ -278,13 +278,13 @@
 Синклер: Я-я надеюсь, это не приманка, оставленная какой-нибудь Аномалией или чем-то в этом роде...
 
 # Original: Oi. How about we don't tempt fate, lad?
-Хитклиф: Эй. Может, не будем искушать судьбу, парень?
+Хитклиф: Эй. Может, не будем испытывать судьбу, дружище?
 
 # Original: Hm. But she's quiet, unlike Outis. And shrouded in a weird shadow.
 Хон Лу: Хм. Но она тихая, в отличие от Отис. И окутана странной тенью.
 
 # Original: Woaah~ Look, here's one that looks just like me~!
-Хон Лу: Воооу~ Смотрите, вот одна, которая выглядит точно как я~!
+Хон Лу: Воооу~ Смотрите, вон там одна, которая выглядит точно как я~!
 
 # Original: Hong Lu stood next to a humanoid shape that mimicked every move he made.
 Рассказчик: Хон Лу встал рядом с человекоподобной фигурой, которая повторяла каждое его движение.
@@ -293,10 +293,10 @@
 Рассказчик: Когда он поднимал руки, фигура поднимала руки. Когда он закрывал глаза, фигура закрывала глаза.
 
 # Original: Right, almost like a shadow with the darkness and its mimicry...
-Рассказчик: Точно, почти как тень с темнотой и её подражанием...
+Рассказчик: Точно, почти как тень посреди ночи и её подражанием...
 
 # Original: <Wait, that... that looks like one of Hong Lu's Identities.>
-Данте: <Подождите, это... это выглядит как одно из Воплощений Хон Лу.>
+Данте: <Подождите, эта... эта выглядит как одна из Идентичностей Хон Лу.>
 
 # Original: I notice two, three more humanoid shadows standing nearby.
 Рассказчик: Я замечаю ещё две, три человекоподобные тени, стоящие поблизости.
@@ -314,16 +314,16 @@
 Отис: Я прошу вас немедленно отдать приказ о подготовке к бою.
 
 # Original: <Gimme a sec, I'll ask Faust first if—>
-Данте: <Дай мне секунду, я сначала спрошу Фауст, если—>
+Данте: <Дай-ка секунду, я сначала спрошу Фауст, если—>
 
 # Original: No! You must make a judgment call at this instant! If they are indeed clones, then the Head will—!
-Отис: Нет! Вы должны принять решение прямо сейчас! Если они действительно клоны, то Глава—!
+Отис: Нет! Вы должны принять решение прямо сейчас! Если они действительно клоны, то тогда Глава будет—!
 
 # Original: This isn't the first time she's asked to make a decision like this, but...
 Рассказчик: Это не первый раз, когда она просит принять такое решение, но...
 
 # Original: ... she's never been this serious or adamant about it before.
-Рассказчик: ... она никогда не была такой сер��ёзной или настойчивой в этом раньше.
+Рассказчик: ... она никогда не была такой серьезной или настойчивой в этом раньше.
 
 # Original: Yi Sang noticed the tension and quickly stepped in between the two of us.
 Рассказчик: И Сан заметил напряжение и быстро встал между нами.
@@ -335,7 +335,7 @@
 Фауст: Да. Эта сущность не является клоном.
 
 # Original: Therefore, even if a week were to pass, the Head will not mobilize.
-Фауст: Следовательно, даже если пройдёт неделя, Глава не мобилизуется.
+Фауст: Следовательно, даже если пройдёт неделя, Глава не примет меры.
 
 # Original: Faust nodded sagely as though she had just learned something new, before looking in my direction.
 Рассказчик: Фауст мудро кивнула, словно только что узнала что-то новое, прежде чем посмотреть в мою сторону.
@@ -353,19 +353,19 @@
 Отис: Пеккатула...
 
 # Original: It's blindly mimicking whatever Hong Lu is doing. I'm not sure if it has much, or anything, in the way of consciousness or ego. It doesn't look like a one-to-one copy of him, either.
-Измаил: Она слепо подражает всему, что делает Хон Лу. Я не уверен, есть ли у неё много или что-либо в плане сознания или эго. Она также не выглядит как точная копия его.
+Измаил: Она слепо подражает всему, что делает Хон Лу. Я не уверена, есть ли у неё подобие или что-либо в плане сознания или эго. Она также не выглядит один-в-один, как его точная копия.
 
 # Original: Please becalm yourself, Miss Outis. It appears that aught has unnerved you.
 И Сан: Прошу вас, успокойтесь, мисс Отис. Кажется, нечто вас встревожило.
 
 # Original: Outis bows, embarrassment apparent but her head cleared with relief.
-Рассказчик: Отис кланяется, смущение очевидно, но её голова прояснилась с облегчением.
+Рассказчик: Отис кланяется, очевидно смущаясь, но её голова явно прояснилась с облегчением.
 
 # Original: My deepest apologies, Executive Manager. I should not have acted in such an unsightly manner before you.
 Отис: Мои глубочайшие извинения, Исполнительный Менеджер. Я не должна была действовать таким неподобающим образом перед вами.
 
 # Original: Clearly, I still have a lot to learn about the Sinners. Every instance of these moments seem to unveil something new.
-Рассказчик: Очевидно, мне ещё многому нужно научиться о Грешниках. Каждый случай таких моментов, кажется, раскрывает что-то новое.
+Рассказчик: Очевидно, мне ещё многое нужно узнать о Грешниках. Каждый случай в такие моменты, кажется, раскрывают что-то новое.
 
 # Original: I was trying to get a better read on Outis' expression when Heathcliff suddenly asked a question out loud.
 Рассказчик: Я пытался лучше прочитать выражение лица Отис, когда Хитклиф вдруг громко задал вопрос.
@@ -380,7 +380,7 @@
 Синклер: Н-но вы думаете, мы сможем с ними справиться?
 
 # Original: Oh, yeah. If they're going to swarm us like they did at the manor, or if they manage to somehow copy Vergilius... that's going to be a problem.
-Измаил: О, да. Если они собираются роиться вокруг нас, как они делали в поместье, или если они каким-то образом сумеют скопировать Вергилия... это будет проблемой.
+Измаил: О, да. Если они собираются роиться вокруг нас, как они это делали в поместье, или если они каким-то образом сумеют скопировать Вергилия... то это будет проблемой.
 
 # Original: Recall the Railways of Refraction we have suffered ere this one's arrival. It should not present before us a foe we cannot defeat. Yet the process shall be as grueling as it always has been, I suspect.
 И Сан: Вспомните Железные Дороги Преломления, которые мы пережили до прибытия этой. Она не должна представлять перед нами врага, которого мы не можем победить. Однако процесс будет таким же изнурительным, как и всегда, я подозреваю.
@@ -389,25 +389,25 @@
 Фауст: Фауст осведомлена, что эта сущность является Пеккатулой Зависти... Пеккатула Инвидиа. Учитывая силы Пеккатул, с которыми мы сталкивались до сих пор, маловероятно, что мы встретим врагов, слишком далеко выходящих за пределы наших возможностей победить.
 
 # Original: Mm. The lack of precise tiered labeling system means that it is difficult for one to make a subjective judgment.
-Мерсо: Мм. Отсутствие точной системы ярлыков уровней риска означает, что трудно сделать субъективное суждение.
+Мерсо: Мм. Отсутствие точной многоуровневой системы риска означает, что будет трудно вынести субъективное суждение.
 
 # Original: Speaking of which, what's the ETA on the new Risk Levels and Classifications for the Peccatula and Distortions?
 Измаил: Кстати говоря, какова ожидаемая дата появления новых Уровней Риска и Классификаций для Пеккатул и Искажений?
 
 # Original: The LCD has informed us that they have made significant progress regarding that project. It is likely that further details will be shared once they become more concrete.
-Фауст: LCD информировал нас, что они добились значительного прогресса в отношении этого проекта. Вероятно, дальнейшие детали будут предоставлены, когда они станут более конкретными.
+Фауст: LCD проинформировала нас, что они добились значительного прогресса в отношении этого проекта. Вероятно, дальнейшие детали будут предоставлены, когда они станут более конкретными.
 
 # Original: Ah, that's good to know~
-Хон Лу: Ах, хорошо знать~
+Хон Лу: Ах, это хорошие новости~
 
 # Original: Oops! Looks like the Peccatula are running away all of a sudden.
-Хон Лу: Упс! Похоже, Пеккатулы вдруг убегают.
+Хон Лу: Упс! Похоже, Пеккатулы вдруг начали убегать.
 
 # Original: As we stood there talking to one another, a Peccatulum that resembles Hong Lu suddenly shoved him to the side and began sprinting elsewhere.
-Рассказчик: Пока мы стояли там, разговаривая друг с другом, Пеккатула, похожая на Хон Лу, вдруг толкнула его в сторону и начала спринтом убегать куда-то.
+Рассказчик: Пока мы стояли там, разговаривая друг с другом, Пеккатула, похожая на Хон Лу, вдруг толкнула его в сторону и начала быстро куда-то убегать.
 
 # Original: What the hell, mate?! Don't just sit there and gawk at 'em when they're all leggin' it!
-Хитклиф: Какого чёрта, приятель?! Не просто сиди там и пялься на них, когда они все убегают!
+Хитклиф: Какого чёрта, приятель?! Не сиди просто так и пялься на них, когда они все разбегаются кто куда!
 
 # Original: Heathcliff also sprinted after the figure, but he soon came to a sudden stop before starting to slowly back away.
 Рассказчик: Хитклиф тоже побежал за фигурой, но вскоре он внезапно остановился и начал медленно отступать.
@@ -425,25 +425,25 @@
 Рассказчик: ... Тенями в форме Грешников.
 
 # Original: Huh... That's... that's a lot of 'em.
-Грегор: Хм... Это... это много их.
+Грегор: Хах... Это же... их тут целая куча.
 
 # Original: Ugh... I think I recognized like three shadows that look just like me...
 Синклер: Угх... Кажется, я узнал около трёх теней, которые выглядят точно как я...
 
 # Original: That ridiculous sight was enough to stop us all dead in our tracks, allowing the Peccatulum to board the subway car...
-Рассказчик: Этого нелепого зрелища было достаточно, чтобы остановить нас всех на месте, позволяя Пеккатуле сесть в вагон метро...
+Рассказчик: Этого абсурдного зрелища было достаточно, чтобы остановить нас всех на месте, позволяя Пеккатуле сесть в вагон метро...
 
 # Original: And the door shut behind him.
-Рассказчик: И дверь захлопнулась за ним.
+Рассказчик: После чего дверь захлопнулась за ним.
 
 # Original: I sense... aught in the way of disquietude from this Refraction Railway.
 И Сан: Я чувствую... нечто вроде беспокойства от этой Железной Дороги Преломления.
 
 # Original: Fellas, there's another one coming this way!
-Грегор: Ребята, ещё один идёт сюда!
+Грегор: Ребята, сюда едет ещё один!
 
 # Original: As soon as the subway train carrying the Peccatula leave the station, a new one begins to roll in.
-Рассказчик: Как только поезд метро, перевозящий Пеккатул, покидает станцию, новый начинает подъезжать.
+Рассказчик: Как только поезд метро, перевозящий Пеккатул, покидает станцию, ещё один начинает подъезжать.
 
 # Original: To my relief, this one doesn't look like it's packed to the brim with shadow people.
 Рассказчик: К моему облегчению, этот не выглядит так, будто он набит до отказа теневыми людьми.
@@ -467,7 +467,7 @@
 Рассказчик: Как раз когда Грешники таращились на вычурность этого поезда, что-то вырвалось из двери вагона.
 
 # Original: Aah-woagh! H-huh, did that thing just roll out a carpet for us...?
-Синклер: Аа-воах! Х-хм, это что, только что развернуло для нас ковёр...?
+Синклер: Аа-воах! Х-хм, это что, эта штука только что развернула для нас ковёр...?
 
 # Original: <It's like something's inviting us in there...>
 Данте: <Как будто что-то приглашает нас туда...>
@@ -479,7 +479,7 @@
 Рассказчик: Я согласился с И Саном. Это не то приглашение, которому я рад сразу же последовать, но...
 
 # Original: ... I'm sure we'll face even worse things in our journey. I'll take every chance we get to strengthen the Sinners.
-Рассказчик: ... я уверен, что мы столкнёмся с ещё худшими вещами в нашем путешествии. Я воспользуюсь каждым шансом, который у нас есть, чтобы укрепить Грешников.
+Рассказчик: ... я уверен, что в нашем путешествии, мы столкнёмся с вещами ещё хуже. Я воспользуюсь каждым шансом, который у нас есть, чтобы усилить Грешников.
 
 # Original: <... Let's go.>
 Данте: <... Пойдёмте.>

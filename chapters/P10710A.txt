@@ -44,7 +44,7 @@
 Рассказчик: ... Этот лес находится на высоком, молчаливом холме.
 
 # Original: The damnably grand manor remains in my sight still, past the overgrown forest, even as the storm makes its landing upon the skies beneath which I stand.
-Рассказчик: Проклято величественное поместье все еще остается в поле моего зрения, за разросшимся лесом, даже когда буря обрушивается на небеса, под которыми я стою.
+Рассказчик: Проклятое величественное поместье все еще остается в поле моего зрения, за разросшимся лесом, даже когда буря обрушивается на небеса, под которыми я стою.
 
 # Original: A clear sight of my target is good fuel for my rage. Like a funnel for this boiling hatred within me.
 Рассказчик: Четкий вид моей цели - хорошее топливо для моей ярости. Как воронка для этой кипящей ненависти внутри меня.

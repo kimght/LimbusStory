@@ -11,7 +11,7 @@
 Грегор: ... Награды?
 
 # Original: Gregor repeated, clearly expecting her to elaborate. But Faust ignored his gesture and instead began to observe the walls and items around her.
-Рассказчик: Грегор повторил, явно ожидая, что она пояснит. Но Фауст проигнорировала его жест и вместо этого начала осматривать стены и предметы вокруг.
+Рассказчик: Грегор повторил, явно ожидая, что она объяснит. Но Фауст проигнорировала его жест и вместо этого начала осматривать стены и предметы вокруг.
 
 # Original: ... What were the nature of these... entities?
 И Сан: ... Какова была природа этих... сущностей?
@@ -20,22 +20,22 @@
 Рассказчик: И Сан встал рядом с Фауст и начал размышлять вместе с ней.
 
 # Original: They are entities that used to appear in Lobotomy Corp. Headquarters. Entities... similar to yet different from the Abnormalities. Lobotomy Corp. Headquarters used to call them 'Ordeals'.
-Фауст: Это сущности, которые раньше появлялись в штаб-квартире Корпорации Лоботомии. Сущности... похожие на Аномалии, но отличающиеся от них. В штаб-квартире Корпорации Лоботомии их называли "Испытаниями".
+Фауст: Это сущности, которые раньше появлялись в штаб-квартире Корпорации Лоботомии. Сущности... похожие на Аномалий, но отличающиеся от них. В штаб-квартире Корпорации Лоботомии их называли "Испытаниями".
 
 # Original: 'Ordeals'. I see. Then was this corridor, which is evidently not a containment unit, also utilized to contain certain entities as well?
-И Сан: "Испытания". Понятно. Тогда этот коридор, который, очевидно, не является блоком содержания, тоже использовался для содержания определённых сущностей?
+И Сан: "Испытания". Понятно. Тогда этот коридор, который, очевидно, не является камерой содержания, тоже использовался для содержания определённых сущностей?
 
 # Original: These monsters have a tendency to spontaneously appear during certain periods.
 Фауст: Эти монстры имеют тенденцию спонтанно появляться в определённые периоды.
 
 # Original: <Monsters? Like... monsters of the Outskirts?>
-Данте: <Монстры? Как... монстры Окраин?>
+Данте: <Монстры? Как... монстры из Окраин?>
 
 # Original: I suppose that is one way of looking at it. ... However, that comparison may grow increasingly inaccurate as we delve further into the technicalities. All I can share with you is that you will eventually come to know more of it, Dante.
-Фауст: Полагаю, это один из способов взглянуть на это. ... Однако, это сравнение может становиться всё менее точным, когда мы углубимся в технические детали. Всё, чем я могу с тобой поделиться, это то, что со временем ты узнаешь об этом больше, Данте.
+Фауст: Полагаю, это один из способов взглянуть на это. ... Однако, это сравнение может становиться всё менее точным, чем больше мы углубляемся в технические детали. Всё, чем я могу с тобой поделиться, это то, что со временем ты узнаешь об этом больше, Данте.
 
 # Original: Like the Nocturnal March of a Hundred Demons. Heh, I like it.
-Рёшу: Как Ночной Марш Сотни Демонов. Хех, мне нравится.
+Рёшу: Прямо как Ночное Шествие Сотни Демонов. Хех, мне нравится.
 
 # Original: Oh, Dante. There is something I must inform you.
 Фауст: О, Данте. Есть кое-что, о чём я должна тебя проинформировать.
@@ -50,13 +50,13 @@
 Фауст: Я рекомендую бросать вызов каждому случаю таких столкновений.
 
 # Original: <... So she says, guys.>
-Данте: <... Так она говорит, ребята.>
+Данте: <... Она так сказала, ребята.>
 
 # Original: Haah... I really don't like this lighting...
 Грегор: Хаах... Мне реально не нравится это освещение...
 
 # Original: Aha! I welcome thy preposition! 'Tis two birds with one stone, indeed; we may find entertainment as we train ourselves to be better!
-Дон Кихот: Аха! Я приветствую твоё предложение! Воистину, это убить двух зайцев одним выстрелом; мы можем найти развлечение, тренируясь быть лучше!
+Дон Кихот: Аха! Я одобряю твоё предложение! Воистину, убить двух зайцев одним выстрелом; мы можем найти развлечение, в то же время тренируясь быть лучше!
 
 # Original: Except for Faust and Yi Sang, who were quietly exchanging their observations, each Sinner began rowdily sharing their impressions.
 Рассказчик: За исключением Фауст и И Сана, которые тихо обменивались наблюдениями, каждый Грешник начал шумно делиться своими впечатлениями.
@@ -68,4 +68,4 @@
 Рассказчик: Надеюсь, Фауст или И Сан когда-нибудь найдут время, чтобы объяснить мне свои находки...
 
 # Original: Right, we had to get moving. I approached the Sinners to get us going.
-Рассказчик: Ладно, нам нужно было двигаться. Я подошёл к Грешникам, чтобы мы могли отправиться в путь.
+Рассказчик: Ладно, нам нужно было выдвигаться. Я подошёл к Грешникам, чтобы мы могли отправиться в путь.

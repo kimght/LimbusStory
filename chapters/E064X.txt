@@ -2,22 +2,22 @@
 Данте: <Ладно... Я сделал, как ты просила, Фауст.>
 
 # Original: I looked up toward Faust, away from the PDA in my hands, as it rattled and fixed the Identity Cards into each slot.
-Рассказчик: Я поднял взгляд на Фауст, оторвавшись от КПК в моих руках, который громыхал, фиксируя Идентичности в каждом слоте.
+Рассказчик: Я поднял взгляд на Фауст, оторвавшись от КПК в моих руках, который громыхал, фиксируя Карты Идентичностей в каждом слоте.
 
 # Original: ... Today's the Fourth Walpurgis Night.
 Рассказчик: ... Сегодня - четвертая Вальпургиева ночь.
 
 # Original: The location... it's that same Lobotomy Corp. Headquarters of the past we visited—its point in time and the branch of possibility uncertain.
-Рассказчик: Место действия... то самое здание Корпорации Лоботомия из прошлого, которое мы посещали - момент времени и ветвь возможностей неопределенны. 
+Рассказчик: Место действия... та же самая штаб-квартира Корпорации Лоботомия из прошлого, которую мы посещали - где момент времени и ветвь возможностей неопределенны. 
 
 # Original: Thank you. Please proceed with the slotted Identities to suppress the imminent Ordeal.
-Фауст: Спасибо. Пожалуйста, приступайте с размещенными Идентичностями для подавления надвигающегося Испытания.
+Фауст: Спасибо. Пожалуйста, приступайте со вставленными Идентичностями для подавления надвигающегося Испытания.
 
 # Original: <Phew...>
 Данте: <Фух...>
 
 # Original: I've slotted in the Lobotomy Corp. Identities I pulled up during the previous Walpurgis Nights.
-Рассказчик: Я разместил Идентичности Корпорации Лоботомия, которые мы получили во время предыдущих Вальпургиевых ночей.
+Рассказчик: Я вставил Идентичности Корпорации Лоботомия, которые мы получили во время предыдущих Вальпургиевых ночей.
 
 # Original: ... Faust probably wants to study the correlation between Walpurgis Night itself and the Identities that can be pulled up only during each Walpuris Night.
 Рассказчик: ... Фауст, вероятно, хочет изучить связь между самой Вальпургиевой ночью и Идентичностями, которые можно получить только в каждую Вальпургиеву ночь.
@@ -32,31 +32,31 @@
 Синклер: Да, я согласен. Мы не будем знать, что делать, если вы будете держать всю важную информацию только между вами двумя, верно...?
 
 # Original: Uh... yeah, what he said. I was trying to find a way to avoid sounding irritated.
-Хитклиф: Ага... то, что он сказал. Я пытался найти способ не звучать раздраженно.
+Хитклиф: Эм... то есть да, то что он сказал. Я пытался найти способ не звучать так раздраженно.
 
 # Original: You've a way of mincin' words, don't you? Thanks, lad.
-Хитклиф: У тебя прямо талант выражаться, да? Спасибо, парень.
+Хитклиф: У тебя прям талант подбирать нужные слова, да? Спасибо, парень.
 
 # Original: Huh? Uh... I guess, ha ha.
 Синклер: А? Эм... наверное, ха-ха.
 
 # Original: F.U.
-Рёшу: F.U.
+Рёшу: У.Ф.
 
 # Original: Functionality Upgrade...? Come on, don't talk about me like I'm a machine or something...
-Синклер: Functionality Upgrade (Апгрейд функциональности)...? Да ладно, не говори обо мне, как будто я какая-то машина...
+Синклер: Улучшение Функциональности...? Да ладно, не говори обо мне, как будто я какая-то машина...
 
 # Original: Ahm.
 Фауст: Кхм.
 
 # Original: Faust cleared her throat in an attempt to clear the air and stem the conversation from going on a tangent.
-Рассказчик: Фауст прочистила горло, пытаясь разрядить обстановку и не дать разговору уйти в сторону.
+Рассказчик: Фауст прочистила горло, пытаясь разрядить обстановку и не дать разговору уйти в другое русло.
 
 # Original: We are... at the "Information Team" department of the former L Corp. Headquarters.
-Фауст: Мы находимся... в отделе "Информационной Команды" бывшего Главного Управления L Corp.
+Фауст: Мы находимся... в отделе "Информационной Команды" бывшей штаб-квартиры Корпорации Лоботомия.
 
 # Original: "Information Team"...? Hm, well do I recall that the place we had visited was called the "Control Team" department.
-И Сан: "Информационная Команда"...? Хм, я хорошо помню, что место, которое мы посещали, называлось отделом "Контрольной Команды".
+И Сан: "Информационная Команда"...? Хм, я хорошо помню, что место, которое мы посещали, называлось отделом "Команды Контроля".
 
 # Original: Maybe they add a new department with every Walpurgis Night?
 Измаил: Может, они добавляют новый отдел с каждой Вальпургиевой ночью?
@@ -77,7 +77,7 @@
 Хон Лу: Хмм... это место довольно пустынное, да? Чем больше я осматриваюсь, тем больше вижу просто... фиолетовый цвет.
 
 # Original: Huh... you got that right. Can't chalk that up to just being a corporate office, if you ask me. Doesn't seem like a great workplace environment at all.
-Грегор: Ха... ты прав. Нельзя списать это просто на офис корпорации, как по мне. Совсем не похоже на хорошую рабочую атмосферу.
+Грегор: Ха... ты прав. Нельзя списать это просто на корпоративный офис, как по мне. Совсем не похоже на хорошую рабочую атмосферу.
 
 # Original: A good commander decorates their subordinates' living spaces with their morale in mind, even if it means going against their own tastes. Whoever heads this department must be somewhat quite unfit to lead.
 Отис: Хороший командир оформляет жилые помещения своих подчиненных с учетом их морального духа, даже если это идет вразрез с его собственными вкусами. Кто бы ни возглавлял этот отдел, он явно не очень подходит на роль лидера.
@@ -89,7 +89,7 @@
 Рассказчик: Измаил, копаясь в куче разных предметов, пробормотала издалека, пока Отис размышляла, глядя в потолок. 
 
 # Original: I found some employee doodles and scribbles back here.
-Измаил: Я нашла тут каракули и записи сотрудников.
+Измаил: Я нашла тут кое-какие каракули и записи сотрудников.
 
 # Original: Oh, I suppose the department leads were called 'Sephirah'. They're saying something about how their Sephirah is... whew, now that's some spicy profanity.
 Измаил: О, похоже, руководителей отделов называли 'Сефиры'. Они тут говорят кое-что о своей Сефире... ого, вот это пикантные ругательства.
@@ -122,7 +122,7 @@
 Отис: ... возможно, физическая стычка была бы предпочтительнее, чем позволять такой горькой неприязни тлеть вот так.
 
 # Original: ... It was clear to us that the Sephirot did not share a very healthy work relationship with one another.
-Рассказчик: ... Нам было ясно, что Сефироты не имели очень здоровых рабочих отношений друг с другом.
+Рассказчик: ... Нам было ясно, что Сефиры не имели очень здоровых рабочих отношений друг с другом.
 
 # Original: Not to mention that not many employees really put their faith in their Sephirot.
 Рассказчик: Не говоря уже о том, что не многие сотрудники действительно верили в своих Сефирот.
@@ -131,7 +131,7 @@
 Родион: Эй, эта Сефира, которую они называют 'Малхут'... она, должно быть, была Сефирой Команды Контроля, где мы сражались с Испытанием в прошлый раз...
 
 # Original: I can tell from the way she talks that she treats her employees like parts of a machine. Driving them to their deaths, replacing them when they inevitably crumble... I guess a Wing is a Wing, after all.
-Родион: Я могу сказать по тому, как она говорит, что она относится к своим сотрудникам как к частям машины. Загоняет их на смерть, заменяет, когда они неизбежно ломаются... Полагаю, Крыло есть Крыло, в конце концов.
+Родион: Я могу сказать это по тому, как она говорит, что она относится к своим сотрудникам как к частям машины. Доводя их до смерти, заменяя их, когда они неизбежно ломаются... Полагаю, Крыло есть Крыло, в конце концов.
 
 # Original: Yeah... Look, here's a conversation log with 'Hod', the Sephirah of the Training Team. Looks like she started off pretty rough, but managed to avoid making things hostile in the office...
 Синклер: Да... Смотри, вот запись разговора с 'Ход', Сефирой Тренировочной Команды. Похоже, она начала довольно грубо, но сумела избежать враждебности в офисе...
@@ -143,16 +143,16 @@
 И Сан: Тогда... ее сердце никогда бы не успокоилось, пока она была здесь; жалобы сотрудников в любом случае дошли бы до ее ушей.
 
 # Original: She may have given herself doses of painkillers she hid under the label of altruism, that she truly cared for them despite it all.
-И Сан: Возможно, она давала себе дозы обезболивающего, которые скрывала под маркой альтруизма, веря, что по-настоящему заботится о них несмотря ни на что.
+И Сан: Возможно, она давала себе дозы обезболивающего, которые скрывала под маской альтруизма, веря, что по-настоящему заботится о них несмотря ни на что.
 
 # Original: And this 'Yesod' must have been... I see, the Sephirah of the Information Team department here. Clearly, a stickler for the rules.
 Отис: А этот 'Йесод', должно быть, был... Ясно, Сефирой здешнего отдела Информационной Команды. Явно строго следует правилам.
 
 # Original: "Viper" he was called. Perchance he had an unsavory habit of sinking his teeth into his employees?
-Дон Кихот: "Гадюкой" его прозвали. Уж не имел ли он гадкую привычку впиваться зубами в своих подчиненных?
+Дон Кихот: "Гадюкой" прозвали его. Уж не имел ли он гадкую привычку впиваться зубами в своих подчиненных?
 
 # Original: It's only a figure of speech. Hm... he does seem like the irritating type, but he would have served as a decent strategist.
-Отис: Это просто фигура речи. Хм... он действительно похож на раздражающий тип, но мог бы сойти за приличного стратега.
+Отис: Это просто фигура речи. Хм... он действительно похож на раздражающего типа, но мог бы сойти за приличного стратега.
 
 # Original: Ah, this appears to be a meticulous record of the work schedules. According to that digital calendar, the upcoming schedule is...
 Отис: О, это, похоже, скрупулезная запись рабочих графиков. Согласно этому цифровому календарю, предстоящий график...
@@ -164,7 +164,7 @@
 Отис: Полагаю, нам следовало сначала проверить документы.
 
 # Original: A heavy thump of the lights follows Outis' deep sigh. The lobby lights suddenly changed, and the floor began to tremble.
-Рассказчик: Тяжелый стук света следует за глубоким вздохом Отиса. Освещение вестибюля внезапно изменилось, и пол начал дрожать.
+Рассказчик: Тяжелый стук света следует за глубоким вздохом Отис. Освещение вестибюля внезапно изменилось, и пол начал дрожать.
 
 # Original: <Well... can't say I'm surprised. We knew that an Ordeal was coming, after all.>
 Данте: <Что ж... нельзя сказать, что я удивлен. В конце концов, мы знали, что Испытание приближается.>
@@ -185,7 +185,7 @@
 Фауст: Если они появились и в коридорах Команды Безопасности, тогда...
 
 # Original: There's more— there's more...!
-Родион: Их больше— их больше...!
+Родион: Их становится больше— их больше...!
 
 # Original: <Faust...! Anything you can tell us about them before they start rushing us?!>
 Данте: <Фауст...! Что ты можешь сказать нам о них, прежде чем они набросятся на нас?!>
@@ -194,7 +194,7 @@
 Рассказчик: Я закричал, с ужасом наблюдая, как любопытное фиолетовое существо, похожее на личинку, медленно появлялось в коридоре из ниоткуда.
 
 # Original: Even though she probably didn't have much to tell me about them anyway.
-Рассказчик: Хотя у нее, вероятно, в любом случае не было много, что сказать мне о них.
+Рассказчик: Хотя у нее, вероятно, в любом случае не было много чего, что сказать мне о них.
 
 # Original: They will not... rush us. There were reports that these entities are rather slow.
 Фауст: Они не... набросятся на нас. Были сообщения, что эти существа довольно медлительны.
@@ -218,7 +218,7 @@
 Хитклиф: ... Если мы не сделаем этого...?
 
 # Original: ... then we may come face-to-face with the kind of pandemonium we would rather not have the displeasure of experiencing.
-Фауст: ... тогда мы можем столкнуться с тем видом пандемониума, с которым мы предпочли бы не иметь неудовольствия сталкиваться.
+Фауст: ... тогда мы можем столкнуться лицом к лицу с тем видом преисподней, с которым мы предпочли бы не иметь неудовольствия сталкиваться.
 
 # Original: Every Qliphoth Counter in each department will immediately drop to zero...
 Фауст: Каждый Счетчик Клипот в каждом отделе немедленно упадет до нуля...
@@ -227,7 +227,7 @@
 И Сан: ... и тогда содержащиеся внутри Аномалии вырвутся на свободу.
 
 # Original: Oh bollocks, come on! We JUST got off that bloody WARP train! I'd think we've had enough of the Wing shenanigans to deal with by now?!
-Хитклиф: О черт, да ладно! Мы ТОЛЬКО что сошли с этого чертового WARP поезда! Я думал, с нас уже хватит всяких делишек этих Крыльев, с которыми надо разбираться?!
+Хитклиф: Ох чёрт, да ладно! Мы ТОЛЬКО что сошли с этого чертового WARP поезда! Я думал, с нас уже хватит всяких делишек этих Крыльев, с которыми надо разбираться?!
 
 # Original: Yeah, yeah. Zip it and grab your weapon. I'm going in!
 Измаил: Да, да. Заткнись и хватай оружие. Я захожу!
