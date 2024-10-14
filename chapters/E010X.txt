@@ -38,7 +38,7 @@
 Данте: <Не то чтобы… Просто, думаю, мне давно была нужна эта функция.>
 
 # Original: Whenever Faust requests a break for routine maintenance, my ‘LCB-PDA’ also receives updates.
-Рассказчик: Каждый раз, когда у Фауст появлялся шанс заняться автобусом, я обновлял свой "ЛКБ-КПК".
+Рассказчик: Каждый раз, когда у Фауст появлялся шанс заняться автобусом, я обновлял свой "LCB-КПК".
 
 # Original: The updates occasionally come with additional functions, and this time…
 Рассказчик: Иногда обновления добавляют новые функции, и в этот раз…
