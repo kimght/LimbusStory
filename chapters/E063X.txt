@@ -335,7 +335,7 @@
 Фауст: Да. Эта сущность не является клоном.
 
 # Original: Therefore, even if a week were to pass, the Head will not mobilize.
-Фауст: Следовательно, даже если пройдёт неделя, Глава не выдвинется.
+Фауст: Следовательно, даже если пройдёт неделя, Глава не примет меры.
 
 # Original: Faust nodded sagely as though she had just learned something new, before looking in my direction.
 Рассказчик: Фауст мудро кивнула, словно только что узнала что-то новое, прежде чем посмотреть в мою сторону.
