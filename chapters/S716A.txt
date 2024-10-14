@@ -29,7 +29,7 @@
 Цирюльник: Ч-что... нет, не смотрите! Не смотрите на меня так!
 
 # Original: If you're going to kill me, at least kill me with my mask on, please? I know you will. I know you will! What's a little favor between you and me?
-Цирюльник: Если вы собираетесь убить меня, хотя бы убейте меня с маской на лице, пожалуйста? Я знаю, что вы это сделаете. Я знаю, что сделаете! Что такого в маленькой услуге между нами?
+Цирюльник: Если вы собираетесь убить меня, хотя бы убейте меня с маской на лице, пожалуйста? Я знаю, что вы так и сделаете. Знаю, что сделаете! Что такого в маленькой услуге между нами?
 
 # Original: The Bloodfiend's unmasked eyes glowered intensely at Don Quixote as she pleaded.
 Рассказчик: Глаза Кровожада без маски яростно уставились на Дон Кихот, когда она умоляла.
@@ -59,7 +59,7 @@
 Синклер: Может, он из другой Области? Но почему бы он...
 
 # Original: Tsk, we should've gotten more intel out of the traitor before he betrayed us...
-Отис: Тск, нам следовало бы выудить больше информации из предателя, прежде чем он нас предал...
+Отис: Тск, нам следовало бы выудить больше информации из предателя, прежде чем он нас кинул...
 
 # Original: Shite... a little much, innit? Two bigwig Bloodfiends right by the entrance, seriously?
 Хитклиф: Чёрт... это уже слишком, не так ли? Два главных Кровожада прямо у входа, серьёзно?
@@ -77,7 +77,7 @@
 Сансон: Так что я с радостью открою вам путь...
 
 # Original: ... should you promise to tell me all about your wonderful adventures. So that you may find the prize you seek.
-Сансон: ... если вы пообещаете рассказать мне обо всех ваших чудесных приключениях. Чтобы вы могли найти приз, который ищете.
+Сансон: ... если вы пообещаете рассказать мне обо всех ваших чудесных приключениях. Чтобы вы смогли найти приз, который ищете.
 
 # Original: So that you may not lose your way this time.
 Сансон: Чтобы на этот раз вы не сбились с пути.
@@ -86,7 +86,7 @@
 Данте: <Что...?>
 
 # Original: However, if that is not what you seek, well... why else would you be slaughtering scores of Bloodfiends here now?
-Сансон: Однако, если это не то, что вы ищете, ну... зачем ещё вам убивать здесь столько Кровожадов?
+Сансон: Однако, если это не то, что вы хотите, ну... зачем ещё вам убивать здесь столько Кровожадов?
 
 # Original: The masked Bloodfiend in blue, who suddenly appeared here...
 Рассказчик: Замаскированный Кровожад в синем, который внезапно появился здесь...
@@ -116,7 +116,7 @@
 Дон Кихот: Что—
 
 # Original: The masked Bloodfiend raises his staff, and Don Quixote's mouth shuts. As though a supernatural power was forcing its will on her movements.
-Рассказчик: Замаскированный Кровожад поднимает свой посох, и рот Дон Кихот закрывается. Как будто сверхъестественная сила навязывала свою волю её движениям.
+Рассказчик: Замаскированный Кровожад поднял свой посох, и рот Дон Кихот закрылся. Как будто сверхъестественная сила навязывала свою волю её движениям.
 
 # Original: In that bizarre silence, her eyes shimmer quietly.
-Рассказчик: В этой странной тишине её глаза тихо мерцают.
+Рассказчик: В этой странной тишине её глаза тихо мерцали.

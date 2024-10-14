@@ -1,5 +1,5 @@
 ﻿# Original: W-what just happened? I... I just started saying the lines like I've known them by heart...
-Родион: Ч-что сейчас произошло? Я... я просто начал говорить реплики, словно знал их наизусть...
+Родион: Ч-что сейчас произошло? Я... я просто начала говорить реплики, словно знала их наизусть...
 
 # Original: Y-yeah... it's like... we were almost hypnotized by something. And it felt so real, as though we were really there.
 Грегор: Д-да... это как... будто нас что-то загипнотизировало. И всё казалось таким реальным, словно мы действительно там были.
@@ -8,7 +8,7 @@
 Грегор: Знаю, это звучит абсурдно, но я отчетливо помню, как превратился в лошадь. Потом, почему-то, в пару кроссовок. Но в голове я всё ещё оставался собой. Странно...
 
 # Original: Ah, how wonderful was that story, hm? I like this one much more than the juvenile, naive story of peace and happiness between humans and Bloodfiends that this place has to tell.
-Сансон: Ах, какая чудесная была история, а? Мне она нравится гораздо больше, чем эта ребяческая, наивная сказка о мире и счастье между людьми и Кровожадами, которую рассказывает это место.
+Сансон: Ах, какая чудесная была история, да? Мне она нравится гораздо больше, чем эта ребяческая, наивная сказка о мире и счастье между людьми и Кровожадами, которую рассказывает это место.
 
 # Original: So, where did you place that precious helm? If I had such a priceless artifact myself, I would be wearing it on my head every single day.
 Сансон: Итак, куда же вы поместили этот драгоценный шлем? Будь у меня такой бесценный артефакт, я бы носил его на голове каждый божий день.
@@ -44,10 +44,10 @@
 Сансон: Как захватывающе. Интересно, какие новые истории встретят вас в следующей Зоне?
 
 # Original: Well, then... I hope you enjoy La Manchaland's next Area, O righteous adventurer of justice... Don Quixote.
-Сансон: Что ж, тогда... надеюсь, вы насладитесь следующей Зоной Ла-Манчалэнда, о праведный искатель справедливости... Дон Кихот.
+Сансон: Что ж, тогда... надеюсь, вы насладитесь следующей Зоной Ла-Манчалэнда, о праведная искательница справедливости... Дон Кихот.
 
 # Original: <What... was that...? That wasn't a Golden Bough resonance, was it? It felt... slightly different.>
-Данте: <Что... это было...? Это ведь не резонанс Золотой Ветви, верно? Ощущалось... немного иначе.>
+Данте: <Что... это было...? Это ведь не резонанс Золотой Ветви, да? Ощущалось... немного иначе.>
 
 # Original: I have no idea what he did to us, but we all helplessly froze in place. As though we were all collectively hypnotized...
 Измаил: Понятия не имею, что он с нами сделал, но мы все беспомощно застыли на месте. Словно нас всех коллективно загипнотизировали...

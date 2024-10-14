@@ -5,7 +5,7 @@
 Сансон: Пожалуйста, подождите минутку. Разве можно рассказывать хорошую историю без подобающего фона и музыки для создания настроения, хм?
 
 # Original: With a quick flick of his staff, the magician rapidly shifts and warps everything around us.
-Рассказчик: Быстрым взмахом своего посоха волшебник стремительно изменяет и искажает всё вокруг нас.
+Рассказчик: Быстрым взмахом своего посоха волшебник стремительно изменил и исказил всё вокруг нас.
 
 # Original: <color=#3e7fed>[EP 1] - 'IN WHICH ARE RECOUNTED THE MOST WONDROUS ADVENTURES OF DON QUIXOTE'</color>
 Рассказчик: <color=#3e7fed>[ЭПИЗОД 1] - 'В КОТОРОМ РАССКАЗЫВАЮТСЯ САМЫЕ УДИВИТЕЛЬНЫЕ ПРИКЛЮЧЕНИЯ ДОН КИХОТ'</color>
@@ -65,7 +65,7 @@
 Сансон: Что ж. У нас есть другой актёр, который может сыграть этого персонажа. Немного неопытный, немного несовершенный, но всё же с признаками большого потенциала.
 
 # Original: I give this role of the Knight of the White Moon to you.
-Сансон: Я передаю эту роль Рыцаря Белой Луны вам.
+Сансон: Я передаю роль Рыцаря Белой Луны вам.
 
 # Original: …?
 Синклер: …?
@@ -89,16 +89,16 @@
 Фауст: Похоже, они как 'актёры' на сцене. Пока этот человек говорит, они не могут выйти из образа.
 
 # Original: W-woah, is this safe?!
-Родион: У-ух, это безопасно?!
+Родион: У-ух, а это безопасно?!
 
 # Original: The pair sought a certain river, the tales of which have been told only through legends.
 Сансон: Эта пара искала кое-какую реку, о которой рассказывали только легенды.
 
 # Original: Only the Knight of the White Moon knew the path to finding it. Don Quixote was merely going as directed by the Knight.
-Сансон: Только Рыцарь Белой Луны знал путь к ней. Дон Кихот просто следовал указаниям Рыцаря.
+Сансон: Только Рыцарь Белой Луны знал путь к ней. Дон Кихот просто следовала указаниям Рыцаря.
 
 # Original: Oh, excuse me. 'The Trio'; can't forget our dear Rocinante.
-Сансон: О, прошу прощения. 'Трио'; нельзя забывать о нашем дорогом Росинанте.
+Сансон: О, прошу прощения. Это было 'Трио'; нельзя забывать о нашем дорогом Росинанте.
 
 # Original: Each had a very distinct sound of footsteps as well.
 Сансон: У каждого были свои очень характерные звуки шагов.
@@ -107,7 +107,7 @@
 Сансон: У Рыцаря — опытная, но расслабленная походка.
 
 # Original: Rocinante, a stoic yet powerful stride.
-Сансон: У Росинанта — стойкая, но мощная поступь.
+Сансон: У Росинанта — стоическая, но мощная поступь.
 
 # Original: And you... stumbling hither and thither.
 Сансон: А у вас... спотыкающаяся то тут, то там.
@@ -131,13 +131,13 @@
 Синклер: "Как только мы найдём реку..."
 
 # Original: "I will guide you to the place that will be your residence henceforth."
-Синклер: "Я проведу вас к месту, которое отныне станет вашим жилищем."
+Синклер: "Я проведу тебя к месту, которое отныне станет твоим жилищем."
 
 # Original: "An abandoned lighthouse where no one visits."
 Синклер: "Заброшенный маяк, куда никто не заходит."
 
 # Original: "Please, make that place your home."
-Синклер: "Пожалуйста, сделайте это место своим домом."
+Синклер: "Пожалуйста, сделай это место своим домом."
 
 # Original: Ahh, the Knight has given our hero a place to live.
 Сансон: Ах, Рыцарь дал нашему герою место для жизни.
@@ -158,7 +158,7 @@
 Сансон: Ну что ж. Не самое захватывающее начало для приключения, не так ли?
 
 # Original: Let's keep things interesting. Shall we move on?
-Сансон: Давайте сделаем это интереснее. Перейдём дальше?
+Сансон: Давайте сделаем поинтереснее. Перейдём дальше?
 
 # Original: <color=#3e7fed>[EP 2] - 'WHICH TREATS DON QUIXOTE'S ENCOUNTER WITH THE BANDITS'</color>
 Рассказчик: <color=#3e7fed>[ЭПИЗОД 2] - 'О ТОМ, КАК ДОН КИХОТ ВСТРЕТИЛАСЬ С БАНДИТАМИ'</color>
@@ -215,7 +215,7 @@
 Родион: "Но... их слишком много, чтобы вы могли победить их всех в одиночку, дорогая искательница приключений!"
 
 # Original: "Do not let such fear plague thy mind, for there are no adventures in which I, Don Quixote, have not prevailed! Wouldst thou not agree?"
-Дон Кихот: "Не позволяй такому страху терзать твой разум, ибо нет таких приключений, в которых я, Дон Кихот, не одержала бы победу! Разве ты не согласен?"
+Дон Кихот: "Не позволяй сему страху терзать твой разум, ибо нет таких приключений, в которых я, Дон Кихот, не одержала бы победу! Разве ты не согласен?"
 
 # Original: Ah... hold on, hold on a minute. Something feels off, doesn't it?
 Сансон: А... подождите, подождите минутку. Что-то тут не так, не правда ли?
