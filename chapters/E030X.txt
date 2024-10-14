@@ -2,7 +2,7 @@
 Рассказчик: Инцидент произошёл ровно через неделю после моего бесполезного вопроса, на который я так и не получил ответа.
 
 # Original: <I hereby confirm today’s close of business for the Sinners.>
-Данте: <Я одобряю завершение работы грешников.>
+Данте: <Настоящим подтверждаю сегодняшнее окончание рабочего дня для Грешников.>
 
 # Original: Thank you kindly. Starting now, you all will be given a maximum of 12 hours to partake in sleep and rest; the duration is subject to change. Have a good night.
 Фауст: Благодарю. Теперь вы можете потратить до двенадцати часов на отдых и сон; учитывайте, что время может измениться. Доброй ночи.
