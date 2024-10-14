@@ -416,7 +416,7 @@
 Хан-уль: Нет. Похоже, что устройства сбрасываются, когда Ла-Манчалэнд исчезает.
 
 # Original: In other words, we will have to divide and conquer. Team up with other Fixers, choose an Area to tackle.
-Алессио: Другими словами, нам придётся разделять и властвовать. Объединитесь с другими Корректировщиками, выберите Зону для штурма.
+Алессио: Другими словами, нам придётся разделить обязанности. Объединитесь с другими Корректировщиками, выберите Зону для штурма.
 
 # Original: Hm, I see. Split up, activate our respective devices, and rendezvous at the final Area.
 Ромеро: Хм, я понимаю. Разделиться, активировать наши соответствующие устройства и встретиться в финальной Зоне.
@@ -512,13 +512,13 @@
 Рассказчик: Сичунь, младшая сестра Хон Лу, которая тихо слушала брифинг, подняла руку с вопросом.
 
 # Original: You will be assigned to teams and Areas based on our internal data analyses of your individual capabilities, potential, and alignment.
-Хан-уль: Вы будете распределены по командам и Зонам на основе наших внутренних анализов данных о ваших индивидуальных способностях, потенциале и соответствии.
+Хан-уль: Вы будете распределены по командам и Зонам на основе нашего внутреннего анализа ваших индивидуальных способностей, потенциала и соответствия.
 
 # Original: So we should probably avoid overcrowding, huh.
-Цзя Сичунь: Так что нам, наверное, не стоит толпиться, да.
+Цзя Сичунь: Так что нам, наверное, не стоит идти толпой, да.
 
 # Original: Such as saddling us a group of dozen or so people, for example...
-Цзя Сичунь: Например, не нагружать нас группой из дюжины или около того человек...
+Цзя Сичунь: Как если бы нас нагрузили группой из дюжины или около того человек...
 
 # Original: ... We intend to avoid bottlenecking too many people in the same Area.
 Хан-уль: ... Мы намерены избежать скопления слишком большого количества людей в одной Зоне.
@@ -548,7 +548,7 @@
 Хитклиф: Оох. Эй, на этот раз это действительно меня разбудило.
 
 # Original: No, no. This might be the best time to go back to sleep, bud.
-Грегор: Нет, нет. Это может быть лучшее время, чтобы снова заснуть, приятель.
+Грегор: Нет, нет. Скорее всего, сейчас самое лучшее время, чтобы снова заснуть, приятель.
 
 # Original: Would've resulted in a summary execution back in the day...
 Отис: В свое время это привело бы к немедленной казни...
@@ -557,7 +557,7 @@
 Алессио: Хорошо... И вопрос...?
 
 # Original: Hark, it appeareth that the information of the greatest import is missing from thy briefing.
-Дон Кихот: Внемлите, кажется, что информация наивысшей важности отсутствует в твоем брифинге.
+Дон Кихот: Внемлите, видится мне, что информация наивысшей важности отсутствует в твоем брифинге.
 
 # Original: It... is...? Um, a moment, please.
 Алессио: Это... так...? Эм, момент, пожалуйста.
@@ -581,7 +581,7 @@
 Камилл: Эй, ты типа играешь персонажа или что-то в этом роде?
 
 # Original: That's not mainstream at all, I like it. Though I gotta say, playing a character's a bit old-fashioned. At least I know that my viewers won't enjoy something like that.
-Камилл: Это совсем не мейнстримно, мне нравится. Хотя должен сказать, что это немного старомодно. По крайней мере, я знаю, что моим зрителям не понравилось бы что-то подобное.
+Камилл: Это совсем не мейнстримно, мне нравится. Хотя должен сказать, немного старомодно. По крайней мере, я знаю, что моим зрителям не понравилось бы что-то подобное.
 
 # Original: It appears that there has been some misunderstanding. Our contract has nothing to do with rescuing the visitors, let alone all of them. Our contract is a search-and-rescue operation for a specific visitor requested to us by our client.
 Паула: Похоже, произошло некоторое недопонимание. Наш контракт не имеет ничего общего со спасением посетителей, не говоря уже обо всех них. Наш контракт - это операция по поиску и спасению конкретного посетителя, запрошенного нашим клиентом.
@@ -692,7 +692,7 @@
 Фауст: Я не упомянула об этом ранее на пустыре, Данте, из-за отсутствия любопытных глаз...
 
 # Original: ... I recommend against turning your clock when the eyes of every Fixer participating in this case are watching us intently. Especially for a duel in which there is very little benefit to be gained.
-Фауст: ... Я рекомендую не поворачивать свои часы, когда глаза каждого Корректировщика, участвующего в этом деле, внимательно наблюдают за нами. Особенно для дуэли, в которой очень мало пользы.
+Фауст: ... Я рекомендую не поворачивать свои часы, когда глаза каждого Корректировщика, участвующего в этом деле, внимательно наблюдают за нами. Особенно ради дуэли, в которой очень мало пользы.
 
 # Original: This includes summoning Identities from different worlds or the use of E.G.O.
 Фауст: Это включает в себя вызов Идентичностей из разных миров или использование ЭГО.

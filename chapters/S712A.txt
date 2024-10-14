@@ -32,7 +32,7 @@
 Мерсо: Свернувшаяся кровь. По сути идентично его оружию.
 
 # Original: Is this how all Bloodfiends... fight?
-Синклер: Это так... все Кровожады сражаются?
+Синклер: Все Кровожады так... сражаются?
 
 # Original: If we're using Moses' family analogy, maybe they're something like his close relatives.
 Измаил: Если использовать семейную аналогию Мозес, возможно, они что-то вроде его близких родственников.

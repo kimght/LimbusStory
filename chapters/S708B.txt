@@ -176,7 +176,7 @@
 Рассказчик: Вергилий не из тех, кто говорит впустую, так что...
 
 # Original: ... I suppose there isn't anything else I can gather from him at the moment.
-Рассказчик: ... полагаю, на данный момент я больше ничего не могу от него узнать.
+Рассказчик: ... полагаю, на данный момент я больше ничего не смогу от него узнать.
 
 # Original: Some time later, back among the Sinners at the empty lot.
 Рассказчик: Некоторое время спустя, снова среди Грешников на пустыре.
@@ -209,13 +209,13 @@
 Дон Кихот: ... я уничтожу Ла-Манчалэнд, даже если это будет стоить нам нашей миссии!
 
 # Original: And mark mine words, for I shall rescue its victims as well. Every last one of them.
-Дон Кихот: И запомни мои слова, ибо я спасу и его жертв. До единой.
+Дон Кихот: И помяни мое слово, ибо я спасу и его жертв. До единой.
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: I stare in silence as Don Quixote boasts.
-Рассказчик: Я молча смотрю, как хвастается Дон Кихот.
+Рассказчик: Я молча смотрел, как хвастается Дон Кихот.
 
 # Original: ... I think I saw stars twinkling in her eyes, like Hong Lu said.
 Рассказчик: ... Кажется, я видел звезды, мерцающие в ее глазах, как говорил Хон Лу.
@@ -263,7 +263,7 @@
 Фауст: ... Я остановлюсь на этом.
 
 # Original: I'm certainly not one to talk, but I'm once again reminded that Faust isn't very good at talking to people either.
-Рассказчик: Мне, конечно, не пристало говорить, но я снова вспоминаю, что Фауст тоже не очень хорошо умеет общаться с людьми.
+Рассказчик: Мне, конечно, не пристало говорить, но это снова напомнило мне, что Фауст тоже не очень хорошо умеет общаться с людьми.
 
 # Original: Heard passengers are going to an amusement park.
 Харон: Харон слышала, что пассажиры идут в парк развлечений.
@@ -317,7 +317,7 @@
 Харон: Когда, где?
 
 # Original: They are asking you, should a day come in which you are allowed to travel with us to locations other than the bus itself, what you would like to do at an amusement park.
-Фауст: Они спрашивают, если наступит день, когда тебе разрешат путешествовать с нами в места, отличные от самого автобуса, что бы ты хотела сделать в парке развлечений.
+Фауст: Они спрашивают, если наступит день, когда тебе разрешат путешествовать с нами в места, отличные от автобуса, что бы ты хотела сделать в парке развлечений.
 
 # Original: There was a long pause. Charon's eyes glimmered momentarily as they began to wander elsewhere.
 Рассказчик: Последовала длинная пауза. Глаза Харон на мгновение заблестели, начав блуждать где-то вдалеке.

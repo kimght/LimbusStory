@@ -41,7 +41,7 @@
 Рассказчик: Если ты когда-нибудь нарушишь хоть один из этих принципов...
 
 # Original: I’ll smack you guys upside the head myself.
-Рассказчик: Я сам надаю тебе подзатыльников.
+Рассказчик: Я сама надаю тебе подзатыльников.
 
 # Original: Steel yourself and always, always keep moving forward.
 Рассказчик: Соберись с духом и всегда, всегда двигайся вперёд.
