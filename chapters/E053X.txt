@@ -224,7 +224,7 @@
 Грегор: Так что это должно быть...
 
 # Original: Faust considers Herr Gregor's growing aptitude for deductions to be a positive development.
-Фауст: Фауст считает растущую способность Герр Грегора к дедукции положительным событием.
+Фауст: Фауст считает растущую способность Герра Грегора к дедукции положительным событием.
 
 # Original: Haah... it's the Refraction Railway, isn't it.
 Грегор: Хаах... это Железная Дорога Преломления, не так ли.
