@@ -17,7 +17,7 @@
 Данте: <Ты... ты в порядке, Дон Кихот?>
 
 # Original: The gradual acceleration of her breathing patterns was first observed ten minutes ago. I did not report it, as it posed no real risk to her health and well-being.
-Мерсо: Постепенное ускорение ее дыхательного паттерна было впервые замечено десять минут назад. Я не сообщил об этом, так как это не представляло реальной угрозы ее здоровью и благополучию.
+Мерсо: Постепенное ускорение её дыхательного паттерна было впервые замечено десять минут назад. Я не сообщил об этом, так как это не представляло реальной угрозы её здоровью и благополучию.
 
 # Original: I know a good way of dealing with a case of hyperventilation.
 Рёшу: Я знаю хороший способ справиться со случаем гипервентиляции.
@@ -53,7 +53,7 @@
 Бормочущий Корректировщик: Корректировщица из Ассоциации Хана...?
 
 # Original: That name alone clearly carried a lot of weight among other Fixers. As the Hana Association Fixer, dressed in pure white, walked into the room, they all slowly turned around to gaze upon her.
-Рассказчик: Одно это имя явно имело большой вес среди других Корректировщиков. Когда Корректировщица из Ассоциации Хана, одетая в чисто белое, вошла в комнату, все медленно повернулись, чтобы посмотреть на нее.
+Рассказчик: Одно это имя явно имело большой вес среди других Корректировщиков. Когда Корректировщица из Ассоциации Хана, одетая в чисто белое, вошла в комнату, все медленно повернулись, чтобы посмотреть на неё.
 
 # Original: And...
 Рассказчик: И...
@@ -116,7 +116,7 @@
 Рассказчик: Корректировщик из Ассоциации Хана спрашивает в нашем направлении, глядя на Дон Кихот.
 
 # Original: ... Don't mind her. It's easier that way.
-Вергилий: ... Не обращай на нее внимания. Так проще.
+Вергилий: ... Не обращай на неё внимания. Так проще.
 
 # Original: Soon, a P Corp. employee walked out in front of the Fixers.
 Рассказчик: Вскоре сотрудник корпорации P вышел вперед перед Корректировщиками.
@@ -173,7 +173,7 @@
 Данте: <Многочисленных...?>
 
 # Original: I wanted to hear more about her story, but the mission briefing was actually getting started; I decided to table my curiosity until later.
-Рассказчик: Я хотел услышать больше о ее истории, но брифинг действительно начинался; я решил отложить свое любопытство на потом.
+Рассказчик: Я хотел услышать больше о её истории, но брифинг действительно начинался; я решил отложить свое любопытство на потом.
 
 # Original: La Manchaland, which will manifest here within the next three hours, is an officially-recognized Urban Nightmare class phenomenon. Dozens of Fixers have attempted and failed to take it down.
 Алессио: Ла-Манчалэнд, который проявится здесь в течение следующих трех часов, является официально признанным феноменом класса Городской Кошмар. Десятки Корректировщиков пытались и не смогли его уничтожить.
@@ -194,7 +194,7 @@
 Рассказчик: Легкий гул шепота и праздной болтовни заполняет тишину, на лицах Корректировщиков ясно видно выражение скуки, словно они уже все это слышали.
 
 # Original: Now, if I may direct your attention to this screen.
-Алессио: Теперь, если я могу обратить ваше внимание на этот экран.
+Алессио: Теперь, позвольте обратить ваше внимание на этот экран.
 
 # Original: Several low-resolution images began to load on the display.
 Рассказчик: На дисплее начали загружаться несколько изображений низкого разрешения.
@@ -206,7 +206,7 @@
 Алессио: Это было определено на основе фотографических доказательств и уровня разложения зданий и материалов, извлеченных и проанализированных из данного феномена.
 
 # Original: However, La Manchaland was largely unknown and invisible to the public until two months ago. And the raw material that makes up this 'amusement park' is—
-Алессио: Однако Ла-Манчалэнд был в значительной степени неизвестен и невидим для публики до двух месяцев назад. И сырой материал, из которого состоит этот "парк развлечений" - это—
+Алессио: Однако, ещё два месяца назад Ла-Манчалэнд был в значительной степени неизвестен и невидим для общественности. И материал, из которого состоит этот "парк развлечений" - это—
 
 # Original: Tsk, we know all this already. Just get on with it.
 Бормочущий Корректировщик: Тц, мы уже все это знаем. Давай ближе к делу.
@@ -257,13 +257,13 @@
 Алессио: Спасибо за ваше сотрудничество. Теперь, давайте посмотрим...
 
 # Original: The reason for La Manchaland's sudden appearance here is yet to be explained.
-Алессио: Причина внезапного появления Ла-Манчалэнда здесь еще не объяснена.
+Алессио: Причину внезапного появления здесь Ла-Манчалэнда еще предстоит объяснить.
 
 # Original: Though its influence is still confined to the Backstreets, the uniqueness of La Manchaland poses a tangible threat to P Corp. merely by its existence.
-Алессио: Хотя его влияние все еще ограничено Подворотнями, уникальность Ла-Манчалэнда представляет ощутимую угрозу для Корпорации P самим своим существованием.
+Алессио: Хотя его влияние все еще ограничено Подворотнями, особенность Ла-Манчалэнда представляет ощутимую угрозу для Корпорации P самим своим существованием.
 
 # Original: Yeah, totally, dude. The local housing market hit rock bottom and continued to crash, didn't it~?
-Хьюго: Да, точно, чувак. Местный рынок недвижимости упал до нуля и продолжал падать, не так ли~?
+Хьюго: Да, точно, чувак. Местный рынок недвижимости упал до нуля и продолжил падать, не так ли~?
 
 # Original: The Fixer from earlier, the one who tried to stop us from entering the scene before scuttling away, slowly sidled up to us and began chatting us up.
 Рассказчик: Корректировщик, который ранее пытался остановить нас от входа на место происшествия, прежде чем убежать, медленно подошел к нам и начал болтать.
@@ -287,7 +287,7 @@
 Хьюго: Ну, здания Корпорации P хорошо известны своей эластичностью, так что хотя они все изогнулись вдоль новопроявленного феномена, они, типа, не рухнули или что-то в этом роде.
 
 # Original: Anyways... when La Manchaland suddenly appeared there, pulsing and pushing away all the buildings that used to be there, people got crushed and a bunch of buildings got bent.
-Хьюго: В любом случае... когда Ла-Манчалэнд внезапно появился там, пульсируя и отталкивая все здания, которые там были раньше, люди были раздавлены, и куча зданий изогнулась.
+Хьюго: В любом случае... когда Ла-Манчалэнд внезапно появился, пульсируя и отталкивая все постройки, которые там были раньше, люди были раздавлены, и куча зданий изогнулась.
 
 # Original: There were really a lot of survivors for something so devastating. All thanks to P Corp.'s Singularity, which kept the people inside the buildings safe.
 Хьюго: На самом деле было очень много выживших для чего-то настолько разрушительного. Все благодаря Сингулярности Корпорации P, которая сохранила людей внутри зданий в безопасности.
@@ -305,7 +305,7 @@
 Хьюго: Ну, знаешь, как говорят. Корпорация P может сделать безопасный дом где угодно.
 
 # Original: So imagine the shock when all that disaster happened. Their only claim to fame crumbled, the faith in their technology growing shaky... no wonder the real estate market crashed through rock bottom around here.
-Хьюго: Так что представь шок, когда все это бедствие произошло. Их единственная претензия на славу рухнула, вера в их технологию пошатнулась... неудивительно, что рынок недвижимости здесь обвалился до нуля.
+Хьюго: Так что представь шок, когда все это бедствие произошло. Их единственная претензия на славу рухнула, вера в их технологию пошатнулась... неудивительно, что здешний рынок недвижимости обвалился до нуля.
 
 # Original: I mean, it was so bad that the locals banded together and stormed La Manchaland. Pickets and all.
 Хьюго: Я имею в виду, это было настолько плохо, что местные жители объединились и штурмовали Ла-Манчалэнд. С плакатами и всем таким.
@@ -317,7 +317,7 @@
 Хан-уль: Как вы все можете видеть, Ла-Манчалэнд представляет собой экстравагантно украшенный парк развлечений.
 
 # Original: One of the most commonly heard testimonies from the reports state that there is an eight-kilometer range radius from the epicenter in which people have been hearing a disembodied music of sorts. Several curious civilians, drawn by the music, approached it. Most of them are yet to return.
-Хан-уль: Одно из наиболее часто слышимых свидетельств из отчетов гласит, что существует восьмикилометровый радиус от эпицентра, в котором люди слышали своего рода бестелесную музыку. Несколько любопытных гражданских, привлеченных музыкой, приблизились к ней. Большинство из них еще не вернулись.
+Хан-уль: Одно из наиболее часто слышимых свидетельств из отчетов гласит, что существует восьмикилометровый радиус от эпицентра, в котором люди слышали своего рода бестелесную музыку. Несколько любопытных гражданских, привлеченных музыкой, приблизились к нему. Большинство из них еще не вернулись.
 
 # Original: Is it possible that the 'music' holds hypnogenic qualities?
 Паула: Возможно ли, что "музыка" обладает гипногенными качествами?
@@ -359,7 +359,7 @@
 Хан-уль: Да, единственное, что вы найдете там...
 
 # Original: ... are Bloodbags and the Bloodfiends that turned them, sharpening their fangs to fill their ravenous hunger with your blood.
-Хан-уль: ... это Кровососы и обративших их Кровожадов, точащих свои клыки, чтобы утолить свой ненасытный голод вашей кровью.
+Хан-уль: ... это Кровососов и обративших их Кровожадов, точащих свои клыки, чтобы утолить свой ненасытный голод вашей кровью.
 
 # Original: Oh, here's a detail I was going to share earlier before I was cut off. The raw material that makes up every structure within La Manchaland... is human blood. Human blood dating back over two-hundred years in the past.
 Алессио: О, вот деталь, которой я собирался поделиться, прежде чем меня прервали. Материал, из которого состоит каждое строение внутри Ла-Манчалэнда... это человеческая кровь. Человеческая кровь, полученная более двухсот лет назад.
@@ -368,10 +368,10 @@
 Синклер: ... Кровожады могут делать парки развлечений из крови?
 
 # Original: Oh, now I'm looking forward to this. If it's only Bloodfiends we'll find in there, I'm sure they'll waste no time making mincemeat out of the greenhorns.
-Ромеро: О, теперь я с нетерпением жду этого. Если там мы найдем только Кровожадов, я уверен, что они не потратят много времени на то, чтобы превратить новичков в фарш.
+Ромеро: О, теперь я с нетерпением жду этого. Если там одни Кровожады, я уверен, что они не потратят много времени на то, чтобы превратить новичков в фарш.
 
 # Original: Is that how all Fixers talk? The way that guy's talking about Bloodfiends reminds me a lot of how Ishy used to talk about the Great Lake...
-Родион: Это так все Корректировщики говорят? То, как этот парень говорит о Кровожадах, очень напоминает мне то, как Измаил раньше говорил о Великом Озере...
+Родион: Это так говорят все Корректировщики? То, как этот парень говорит о Кровожадах, очень напоминает мне то, как Измаил раньше говорила о Великом Озере...
 
 # Original: ... Hey, you can't blame us for being on edge all the time when the smallest mistake could cost us our lives. Not to mention how irritating it is when others, who don't even understand the dangers, are dozing off like there's no tomorrow...
 Измаил: ... Эй, ты не можешь винить нас за то, что мы все время на взводе, когда малейшая ошибка может стоить нам жизни. Не говоря уже о том, как это раздражает, когда другие, которые даже не понимают опасности, дремлют, как будто завтра не наступит...
@@ -383,13 +383,13 @@
 Синклер: ... Мм. Мм... Какая сегодня хорошая погода, да?
 
 # Original: It was Sinclair who was stepping on his foot, at the rather forcible behest of Ishmael, but I held my silence. The last thing I wanted was to have the two of them bickering again...
-Рассказчик: Это Синклер был тем, кто наступал на его ногу по довольно настойчивой просьбе Измаил, но я промолчал. Последнее, чего я хотел, это чтобы они двое снова начали пререкаться...
+Рассказчик: Тем, кто наступал на его ногу по довольно настойчивой просьбе Измаил, был Синклер, но я промолчал. Последнее, чего я хотел, это чтобы они двое снова начали пререкаться...
 
 # Original: ... Anyway. If you manage to survive for six hours within La Manchaland, the music announcing the closure of the park will start playing. We were able to cross-reference this fact from testimonies of every Fixer and civilian who managed to make it out alive.
 Хан-уль: ... В любом случае. Если вам удастся выжить в течение шести часов внутри Ла-Манчалэнда, начнет играть музыка, объявляющая о закрытии парка. Мы смогли перепроверить этот факт из показаний каждого Корректировщика и гражданского, которому удалось выбраться живым.
 
 # Original: Once the exit song starts playing, you will have thirty minutes to exit La Manchaland. Should you fail to do so... you'll be trapped inside La Manchaland until it manifests here again. Effectively putting you in an endless battle against the Bloodfiends.
-Хан-уль: Как только начнет играть песня выхода, у вас будет тридцать минут, чтобы покинуть Ла-Манчалэнд. Если вам не удастся это сделать... вы будете заперты внутри Ла-Манчалэнда до тех пор, пока он снова не проявится. Фактически, это поместит вас в бесконечную битву против Кровожадов.
+Хан-уль: Как только начнет играть прощальная песня, у вас будет тридцать минут, чтобы покинуть Ла-Манчалэнд. Если вам не удастся это сделать... вы будете заперты внутри Ла-Манчалэнда до тех пор, пока он снова не проявится. Фактически, это поместит вас в бесконечную битву против Кровожадов.
 
 # Original: If anyone even survives that long...
 Охотник на Кровожадов: Если кто-нибудь вообще выживет так долго...
@@ -407,7 +407,7 @@
 Хан-уль: Однако мы смогли определить, что определенное устройство в каждой Зоне... Зоне 1, 2 и 3 соответственно, должно быть активировано, чтобы разблокировать финальную Зону.
 
 # Original: The devices within Area 1 and 2 have been activated in the past, but no one has managed to activate the one in Area 3 just yet.
-Хан-уль: Устройства в Зонах 1 и 2 были активированы в прошлом, но никому еще не удалось активировать то, что в Зоне 3.
+Хан-уль: Устройства в Зонах 1 и 2 были активированы в прошлом, но никому еще не удавалось активировать то, что в Зоне 3.
 
 # Original: Understood. I suppose we should beeline it to Area 3 to save some time, then?
 Охотник на Кровожадов: Понятно. Полагаю, тогда мы должны направиться прямо в Зону 3, чтобы сэкономить время?
@@ -497,13 +497,13 @@
 Хан-уль: …….
 
 # Original: The Hana Fixer did not contradict him.
-Рассказчик: Корректировщик из Ханы не стала ему противоречить.
+Рассказчик: Корректировщица из Ханы не стала ему противоречить.
 
 # Original: She was the kind of person who wouldn't hesitate to put her foot down... she could've easily forced us into cooperating. But it seemed that she wouldn't keep us from infighting, if it did come to that.
 Рассказчик: Она была из тех, кто без колебаний бы настоял на своем... она могла бы легко заставить нас сотрудничать. Но, казалось, она не стала бы мешать нам сражаться между собой, если бы до этого дошло.
 
 # Original: ... Don Quixote was the only one passionately nodding along to her advice.
-Рассказчик: ... Дон Кихот была единственной, кто страстно кивала в ответ на ее совет.
+Рассказчик: ... Дон Кихот была единственной, кто страстно кивала в ответ на её совет.
 
 # Original: So, who's going with who? And to which Area?
 Цзя Сичунь: Итак, кто с кем пойдет? И в какую Зону?
@@ -539,7 +539,7 @@
 Дон Кихот: СТОООЙ!
 
 # Original: Every single Fixer in the room whipped around to look at Don Quixote at her bellowing roar. Perhaps it was the sheer fervor in her voice... or perhaps, they were simply annoyed by her asking that 'one last question' when the boring briefing was almost over.
-Рассказчик: Каждый отдельный Корректировщик в комнате обернулся, чтобы посмотреть на Дон Кихот после ее громогласного рева. Возможно, это был чистый пыл в ее голосе... или, возможно, они просто были раздражены тем, что она задает "еще один последний вопрос", когда скучный брифинг почти закончился.
+Рассказчик: Каждый отдельный Корректировщик в комнате обернулся, чтобы посмотреть на Дон Кихот после её громогласного рева. Возможно, причиной тому был чистый пыл в её голосе... или, возможно, они просто были раздражены тем, что она задает "еще один последний вопрос", когда скучный брифинг почти закончился.
 
 # Original: Oh please... don't tell me this is actually happening.
 Измаил: Ох, пожалуйста... не говорите мне, что это действительно происходит.
@@ -683,7 +683,7 @@
 Мерсо: Можно определить из предыдущего опыта, что будет невозможно остановить ситуацию, которая сейчас развивается.
 
 # Original: Pupils, dilated. Brows, furrowed at a steep angle. Clear refusal to heed any external input. Our attempts to coax her will not be met with any meaningful response.
-Мерсо: Зрачки расширены. Брови нахмурены под крутым углом. Явный отказ прислушиваться к любой информации извне. Наши попытки убедить ее не будут встречены каким-либо значимым ответом.
+Мерсо: Зрачки расширены. Брови нахмурены под крутым углом. Явный отказ прислушиваться к любой информации извне. Наши попытки убедить её не будут встречены каким-либо значимым ответом.
 
 # Original: <So she's lost it...>
 Данте: <Так она потеряла рассудок...>
