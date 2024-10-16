@@ -5,13 +5,13 @@
 Родион: "О Дон Кихот, ваша милость! Благодарю вас за защиту нашей деревни. Как мы можем отплатить за эту великую услугу?"
 
 # Original: The villagers spoke of the reward for this brave adventurer.
-Сансон: Жители деревни заговорили о награде для этого храброго искателя приключений.
+Сансон: Жители деревни заговорили о награде для этой храброй искательницы приключений.
 
 # Original: Of course they did. Expecting a reward for a job done well was a most natural thing, indeed. After all, who would do such difficult work for no pay?
 Сансон: Разумеется, они это сделали. Ожидать награду за хорошо выполненную работу было самым естественным делом. В конце концов, кто бы стал выполнять такую сложную работу бесплатно?
 
 # Original: "No need, my good lady! There is no need at all. I have merely done my duty as a righteous Fixer."
-Дон Кихот: "Нет нужды, добрая госпожа! Совершенно нет нужды. Я лишь исполнила свой долг как праведный Корректировщик."
+Дон Кихот: "Нет нужды, добрая госпожа! Совершенно нет нужды. Я лишь исполнила свой долг как праведная Корректировщица."
 
 # Original: "Oh my! For truth?! You helped us... for free? Without expecting any compensation?"
 Родион: "О боже! Воистину?! Вы помогли нам... бесплатно? Не ожидая никакой компенсации?"
