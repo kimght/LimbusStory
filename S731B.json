@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Carnival Parade",
+      "place": "Карнавальный Парад",
       "content": "Длинное шествие, конец которого терялся за горизонтом..."
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "id": null,
-      "teller": "Captive Victim",
-      "title": "La Manchaland",
+      "teller": "Плененная жертва",
+      "title": "Ла-Манчалэнд",
       "content": "П-помогите мне, пожалуйста..."
     },
     {
@@ -63,13 +63,13 @@
     {
       "id": 11,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "Ага! У нас новый гость! Да, сегодня к нам приходит так много, много гостей~"
     },
     {
       "id": 12,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "Что впереди, спрашиваете? Ну, там Дульсинея прекрасная, Хозяйка Парада!"
     },
     {
@@ -86,15 +86,15 @@
     {
       "id": 15,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
+      "teller": "Кровожад с зонтиком",
+      "title": "Ла-Манчалэнд",
       "content": "Тут только два варианта. Либо они превратились в Кровососов и танцуют здесь с нами~"
     },
     {
       "id": 16,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
+      "teller": "Кровожад с зонтиком",
+      "title": "Ла-Манчалэнд",
       "content": "~ либо убили Кровососов и пробились вперёд!"
     },
     {
@@ -105,15 +105,15 @@
     {
       "id": 18,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
+      "teller": "Кровожад с зонтиком",
+      "title": "Ла-Манчалэнд",
       "content": "Нет, останьтесь с нами."
     },
     {
       "id": 19,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
+      "teller": "Кровожад с зонтиком",
+      "title": "Ла-Манчалэнд",
       "content": "Давайте, останьтесь с нами и танцуйте!"
     }
   ]

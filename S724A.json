@@ -2,24 +2,24 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Confessional",
+      "place": "Исповедальня",
       "model": "신부부하",
-      "teller": "Praying Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Молящийся Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Ах..."
     },
     {
       "id": 1,
       "model": "신부부하",
-      "teller": "Praying Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Молящийся Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Я согрешил. Я снова согрешил сегодня, я признаюсь..."
     },
     {
       "id": 2,
       "model": "신부부하",
-      "teller": "Praying Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Молящийся Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Отведите... отведите меня к Священнику... Они сказали, что всё будет хорошо, если я посещу Священника, когда почувствую жажду... Они сказали..."
     },
     {
@@ -30,22 +30,22 @@
     {
       "id": 4,
       "model": "신부부하",
-      "teller": "Praying Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Молящийся Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Вам придётся подождать своей очереди... другие... тоже искали Священника... Должно быть, они тоже грешники..."
     },
     {
       "id": 5,
       "model": "신부부하",
-      "teller": "Praying Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Молящийся Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Так что... может быть... очередь..."
     },
     {
       "id": 6,
       "model": "신부부하",
-      "teller": "Praying Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Молящийся Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "О, Священник... с радостью... ...сёт грехи вместо нас..."
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "id": 16,
-      "place": "Confessional",
+      "place": "Исповедальня",
       "content": "Когда мы вошли, мы увидели... умирающего Кровожада, находящегося на пороге смерти."
     },
     {

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Confessional",
+      "place": "Исповедальня",
       "model": "가시춘",
       "title": "???",
       "content": "Не трогай это. Эта вещь моя."
@@ -483,7 +483,7 @@
     },
     {
       "id": 95,
-      "place": "A Certain Castle",
+      "place": "Некий Замок",
       "model": "기사돈키",
       "content": "... поистине впечатляющей мощи."
     },

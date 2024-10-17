@@ -2,31 +2,31 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Carnival Parade",
+      "place": "Карнавальный Парад",
       "content": "... Кульминация Парада должна быть близко. Песня снова меняется."
     },
     {
       "id": 1,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬И мы построили♬ ♬Наше собственное♬ (Счастливое королевство!)"
     },
     {
       "id": 2,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬Попрощайся♬ ♬с болью♬ (Покойся с миром, о Отец!)"
     },
     {
       "id": 3,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬Все веселитесь теперь♬ ♬В этом королевстве радости♬"
     },
     {
       "id": 4,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬В Ла-Манчалэнде♬ (Приходите все!)"
     },
     {

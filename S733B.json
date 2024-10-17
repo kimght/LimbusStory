@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Carnival Parade",
+      "place": "Карнавальный Парад",
       "content": "Наконец-то мы нашли момент передышки от Кровожадов..."
     },
     {
@@ -109,43 +109,43 @@
     {
       "id": 22,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬Я схожу с ума♬ ♬От этой жгучей жажды♬"
     },
     {
       "id": 23,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬На улицах♬"
     },
     {
       "id": 24,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "Прогуливаются ТАК МНОГО ВКУСНЫХ КУСОЧКОВ ДЛЯ НАС!!"
     },
     {
       "id": 25,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬Пока она рвёт♬ (Мои ногти отпадают…!)"
     },
     {
       "id": 26,
       "model": "돌시부하2",
-      "teller": "Bloodfiend holding a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬Пока она трескается♬ (Мои руки... моё лицо...!!!)"
     },
     {
       "id": 27,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "♬Продолжай улыбаться♬ ♬Этими губами♬"
     },
     {
       "id": 28,
       "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
+      "teller": "Кровожад с зонтиком",
       "content": "Я не могу... Я больше не могу двигать губами... Застывшими в улыбке..."
     },
     {
