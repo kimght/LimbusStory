@@ -1,0 +1,98 @@
+﻿# Original: And the victor...
+Сансон: И победителем стал...
+
+# Original: …….
+Синклер: …….
+
+# Original: ... Who won?
+Синклер: ... Кто победил?
+
+# Original: 'Twas...
+Дон Кихот: Это был...
+
+# Original: ... neither.
+Дон Кихот: ... никто.
+
+# Original: The duel ended in a draw, a highly irregular occurrence.
+Дон Кихот: Поединок закончился вничью, что является крайне необычным исходом.
+
+# Original: Then, did you resume your duel then and there?
+Сансон: Тогда вы сразу же возобновили дуэль?
+
+# Original: Nay. As great as I may have been as an adventurer, in my heart was no such vicious ruthlessness, for I knew the significance of clemency.
+Дон Кихот: Нет. Сколь бы великой искательницей приключений я ни была, в сердце моем не было столь жестокой безжалостности, ибо я знала цену милосердию.
+
+# Original: I asked thusly to the Knight.
+Дон Кихот: Я обратился к Рыцарю с такими словами:
+
+# Original: "For three suns and three moons have we dueled, and fatigue hath set in for many. Why not lay rest to thy blade for a moment and recover?"
+Дон Кихот: "Три дня и три ночи мы бились, и усталость одолела многих. Не положить ли нам мечи на время и не восстановить ли силы?"
+
+# Original: "Should we continue to duel in this state, the countless spectators shan't get their much-needed rests, no? 'Tis too cruel to force them to forgo sleep only to see the outcome of this duel."
+Дон Кихот: "Продолжи мы дуэль в таком состоянии, бесчисленные зрители не смогут получить столь необходимый им отдых, не так ли? Слишком жестоко заставлять их отказываться от сна лишь ради того, чтобы узреть исход сей дуэли."
+
+# Original: "Wouldst thou not agree, Rocinante?"
+Дон Кихот: "Не согласишься ли ты, Росинант?"
+
+# Original: ... Um...
+Грегор: ... Эм...
+
+# Original: Rocinante replied.
+Сансон: Росинант ответил.
+
+# Original: "Y... yes, your worship?"
+Грегор: "Д... да, ваша милость?"
+
+# Original: Or...
+Сансон: Или...
+
+# Original: "No response. It's just a pair of shoes..."
+Грегор: "Никакого ответа. Это же просто пара сапог..."
+
+# Original: Or maybe... this is what Rocinante said.
+Сансон: А может быть... Росинант сказал вот что.
+
+# Original: "I..."
+Грегор: "Я..."
+
+# Original: "... was wondering when this dumb, pointless battle would come to an end."
+Грегор: "... уже давно думал, когда же закончится эта глупая, бессмысленная битва."
+
+# Original: "I have prepared some refreshments, so why don't the two of you enjoy them together or something?"
+Грегор: "Я приготовил немного закусок, так почему бы вам двоим не насладиться ими вместе или что-то в этом роде?"
+
+# Original: Thus the long duel came to an end.
+Сансон: Так завершилась долгая дуэль.
+
+# Original: So, is it really true that no one claimed victory in this battle? Did it truly end in a draw?
+Сансон: Итак, действительно ли никто не одержал победу в этой битве? Неужели она и вправду закончилась вничью?
+
+# Original: The duel...
+Дон Кихот: Дуэль...
+
+# Original: ... was indeed a draw. Highly irregular in tales of mine adventures. A brief truce, if thou wilt.
+Дон Кихот: ... действительно завершилась вничью. Весьма необычно для моих приключений. Кратким перемирием, если угодно.
+
+# Original: Yet! I must claim that, when it comes to technicalities, the true victor was myself! Upon our final clash, my bla— my lance was pressing forcefully upon the Knight's blade.
+Дон Кихот: Однако! Я должен заявить, что, если говорить о технических аспектах, истинным победителем была я! В нашем финальном столкновении мой ме— моё копьё сильно теснило клинок Рыцаря.
+
+# Original: Still, with a heart of boundless generosity, I offered the Knight a chance to parlay with me a truce.
+Дон Кихот: И всё же, с сердцем, полным безграничной щедрости, я предложила Рыцарю шанс обсудить со мной перемирие.
+
+# Original: So you did.
+Сансон: Так вы и поступили.
+
+# Original: Now that you've compromised on this truce with no promised end date... what happened thereafter?
+Сансон: Теперь, когда вы договорились об этом перемирии без установленного срока окончания... что произошло потом?
+
+# Original: We... became friends.
+Дон Кихот: Мы... подружились.
+
+# Original: Hm. A friendship forged in a clash of blades. It is a clichéd trope, for how rare it is in reality.
+Сансон: Хм. Дружба, закалённая в столкновении клинков. Это избитый сюжетный ход, ведь в реальности такое случается крайне редко.
+
+# Original: Then did your wish come true, just as the Knight had so boldly proclaimed?
+Сансон: Значит, ваше желание сбылось, как и провозгласил столь смело Рыцарь?
+
+# Original: P... perchance...?
+Дон Кихот: В... возможно...?
