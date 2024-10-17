@@ -2302,5 +2302,68 @@
     "original": "Muersault",
     "translation": "Мерсо",
     "model": "뫼르소"
+  },
+  {
+    "original": "Surprised Bloodfiend",
+    "translation": "Удивленный Кровожад",
+    "model": "신부부하"
+  },
+  {
+    "original": "Bloodfiend holding a Parasol",
+    "translation": "Кровожад с зонтиком",
+    "model": "돌시부하2"
+  },
+  {
+    "original": "Bloodfiend with a Parasol",
+    "translation": "Кровожад с зонтиком",
+    "model": "돌시부하1"
+  },
+  {
+    "original": "Narrator",
+    "translation": "Диктор"
+  },
+  {
+    "original": "Angry Bloodfiend",
+    "translation": "Злой Кровожад",
+    "model": "신부부하"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "백발가면혈귀실루엣"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "달기사실루엣"
+  },
+  {
+    "original": "Sancho",
+    "translation": "Санчо",
+    "model": "실루엣돈키호테"
+  },
+  {
+    "original": "Don Quixote?",
+    "translation": "Дон Кихот?",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Praying Bloodfiend",
+    "translation": "Молящийся Кровожад",
+    "model": "신부부하"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "돌시부하1"
+  },
+  {
+    "original": "Captive Victim",
+    "translation": "Плененная жертва"
+  },
+  {
+    "original": "Narrator",
+    "translation": "Диктор",
+    "model": "산손"
   }
 ]
