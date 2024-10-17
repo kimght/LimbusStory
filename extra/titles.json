@@ -2441,5 +2441,20 @@
     "original": "La Manchaland",
     "translation": "Ла-Манчалэнд",
     "model": "산손"
+  },
+  {
+    "original": "The Barber of La Manchaland",
+    "translation": "Цирюльник Ла-Манчалэнда",
+    "model": "오티스"
+  },
+  {
+    "original": "The Princess of La Manchaland",
+    "translation": "Принцесса Ла-Манчалэнда",
+    "model": "로쟈"
+  },
+  {
+    "original": "Fanghunt Office",
+    "translation": "Офис Охотников на Клыки",
+    "model": "홍루"
   }
 ]
