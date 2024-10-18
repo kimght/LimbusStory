@@ -104,10 +104,10 @@
 Дульсинея: Неправильный вопрос. Потому что я тоже была очарована иллюзией.
 
 # Original: All seem to mistake that I am the mistress of this parade, that I lead the path, only because I stand at the forefront of it.
-Дульсинея: Все ошибочно полагают, что я хозяйка этого парада, что я веду путь, только потому, что я стою во главе его.
+Дульсинея: Все ошибочно полагают, что я хозяйка этого парада, что я веду путь, только потому, что я стою во главе него.
 
 # Original: Because I am Dulcinea, the most beautiful... the most noble... I was given the role of the Carnival's Lady.
-Дульсинея: Потому что я Дульсинея, самая красивая... самая благородная... мне была дана роль Хозяйки Карнавала.
+Дульсинея: Потому что я Дульсинея, самая красивая... самая благородная... мне была дана роль Леди Карнавала.
 
 # Original: I do not lead it; I am but another attraction of the Parade.
 Дульсинея: Я не веду его; я лишь ещё одна достопримечательность Парада.
@@ -131,7 +131,7 @@
 Дульсинея: Потому что было сказано, что в парках развлечений нет места для того, что не счастливо...
 
 # Original: Fated to repeat our beginnings and ends ad infinitum, the times when we were still happy... When we were still... us.
-Дульсинея: Обреченные повторять наше начало и конец до бесконечности, времена, когда мы все еще были счастливы... Когда мы все еще были... собой.
+Дульсинея: Обреченные повторять наши начала и концы до бесконечности, времена, когда мы все еще были счастливы... Когда мы все еще были... собой.
 
 # Original: Because only then shall our memories become tainted by happiness.
 Дульсинея: Потому что только тогда наши воспоминания станут окрашенными счастьем.
@@ -185,13 +185,13 @@
 Дон Кихот: Ради чего-то столь ребяческого, столь незначительного и тривиального?
 
 # Original: How darest thou seek to deprive humans of their right to live, for such trifling gluttony!
-Дон Кихот: Как смеете вы стремиться лишить людей их права на жизнь ради такого ничтожного обжорства!
+Дон Кихот: Как смеете вы стремиться лишить людей их права на жизнь ради такого ничтожного чревоугодия!
 
 # Original: Dulcinea remained silent.
 Рассказчик: Дульсинея молчала.
 
 # Original: She looks away into the distance, staring into the times of the far past, then closes her eyes.
-Рассказчик: Она смотрит вдаль, вглядываясь во времена далекого прошлого, затем закрывает глаза.
+Рассказчик: Она посмотрела вдаль, вглядываясь во времена далекого прошлого, затем закрыла глаза.
 
 # Original: Now that I muse upon it, perhaps this feeling of mine toward you is envy.
 Дульсинея: Теперь, когда я размышляю об этом, возможно, это чувство мое к тебе — зависть.

@@ -5,7 +5,7 @@
 Рассказчик: Поздравляю, о храбрые искатели приключений. Вы раскрыли все тайны королевства.
 
 # Original: It is time I let you leave. Should you face such terrors in the world beyond, remember your bravery here and triumph over them as you have today.
-Рассказчик: Пришло время отпустить вас. Если вы столкнетесь ещё столкнетесь с подобными ужасами, вспомните о своей храбрости здесь и одержите победу над ними, как вы сделали сегодня.
+Рассказчик: Пришло время отпустить вас. Если вы впредь столкнетесь с подобными ужасами, вспомните о своей храбрости здесь и одержите победу над ними, как вы сделали сегодня.
 
 # Original: And now, please give a warm welcome to the Bloodfiends of the attraction 'Haunted: Bloody Mary'. They'll be here for the "Spooky Scary Photoshoot with Bloodfiends".
 Рассказчик: А теперь, пожалуйста, тепло поприветствуйте Кровожадов из аттракциона "Призрак: Кровавая Мэри". Они будут здесь для "Жутко страшной фотосессии с Кровожадами".
@@ -17,7 +17,7 @@
 Рёшу: Он бы Л.У.П.
 
 # Original: ... "He would've graced us himself", she says.
-Синклер: ... Она сказала:"Он бы лично удостоил нас своим присутствием".
+Синклер: ... Она сказала: "Он бы лично удостоил нас своим присутствием".
 
 # Original: What misfortune! Every clue that may have shed light on the secrets of this tragic kingdom's history has all been pulverized by the guests who passed through before you.
 Сансон: Какое несчастье! Каждая улика, которая могла бы пролить свет на тайны истории этого трагического королевства, была полностью уничтожена гостями, прошедшими здесь до вас.
@@ -41,7 +41,7 @@
 Сансон: Что ж, возможно, вместо фотосессии мы могли бы вкратце рассказать о тайнах этого королевства.
 
 # Original: The voice beyond the speaker began with a hint of excitement, as though he'd been expecting this situation all along. Or maybe he's expecting something to come of this.
-Рассказчик: Голос за динамиком начал с намёком на возбуждение, словно он ожидал этой ситуации всё это время. Или, может быть, он ожидает, что из этого что-то выйдет.
+Рассказчик: Голос за динамиком начал с намёком на возбуждение, словно он ждал этого всё это время. Или, может быть, он ожидает, что это к чему-то приведёт.
 
 # Original: ... Long, Long ago, a lonesome king resided within the towering walls of this great castle.
 Сансон: ... Давным-давно одинокий король жил за высокими стенами этого великого замка.

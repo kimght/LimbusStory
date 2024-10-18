@@ -1,8 +1,8 @@
 ﻿# Original: ... Who is he? He almost took out my entire faction with a single flick. We... we didn't even stand a chance.
-Цзя Сичунь: ... Кто он такой? Он почти уничтожил всю мою фракцию одним взмахом. Мы... у нас даже не было шанса.
+Цзя Сичунь: ... Кто он такой? Он почти уничтожил всю мою фракцию одним взмахом. У нас... у нас даже не было шанса.
 
 # Original: That's what I'd like to know, lass.
-Хитклиф: Вот что я хотел бы знать, девчонка.
+Хитклиф: Вот и я бы хотел это знать, девчонка.
 
 # Original: By the way, you there.
 Цзя Сичунь: Кстати, ты там.

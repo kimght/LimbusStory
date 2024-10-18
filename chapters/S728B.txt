@@ -29,22 +29,21 @@
 Сансон: Да, именно это и говорили те насмешники.
 
 # Original: You wished to maintain this true friendship for as long as possible, however.
-Сансон: Однако вы хотели сохранить эту истинную дружбу как можно дольше.
+Сансон: Однако ты хотела сохранить эту истинную дружбу как можно дольше.
 
 # Original: So you swung your righteous lance of justice! Against those who dared to attempt to wedge a divide between you two.
-Сансон: Поэтому вы размахивали своим праведным копьем справедливости! Против тех, кто осмеливался пытаться вбить клин между вами двоими.
+Сансон: Итак, ты взмахнула своим праведным копьем правосудия! Против тех, кто осмелился попытаться вбить клин между вами двоими.
 
 # Original: …….
 Дон Кихот: …….
 
 # Original: You swung your lance.
-Сансон: Вы взмахнули своим копьем.
+Сансон: Ты взмахнула своим копьем.
 
 # Original: Hngh... Agh...
 Дон Кихот: Хнгх... Агх...
 
 # Original: …! 
-# 
 Цзя Сичунь: …! 
 
 # Original: <No, don't let him!>
@@ -75,7 +74,7 @@
 Сансон: Вы тоже это слышите? Даже сегодня Парад продолжается.
 
 # Original: You do not want to miss out on La Manchaland's Carnival and its Parade. 
-Сансон: Вы не хотите пропустить Карнавал и Парад Ла-Манчалэнда.
+Сансон: Вы не захотите пропустить Карнавал и Парад Ла-Манчалэнда.
 
 # Original: It appears that our story must wait until next time.
 Сансон: Похоже, нашей истории придется подождать до следующего раза.

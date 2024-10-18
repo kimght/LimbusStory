@@ -2,7 +2,7 @@
 Дон Кихот: Отвечай мне сейчас же! Что, по-твоему, у меня есть?
 
 # Original: What weight did my name carry?! Speak!!
-Дон Кихот: Какой вес несло моё имя?! Говори!!
+Дон Кихот: Какой вес несёт моё имя?! Говори!!
 
 # Original: Where— How— Where didst thou...
 Дон Кихот: Где— Как— Откуда ты...
@@ -14,7 +14,7 @@
 Дульсинея: Существовать в неведении истины о том, что мы лишь ходим по кругу, а не движемся к тому, что впереди...
 
 # Original: Something that we all desire but own not, yet you have...
-Дульсинея: То, чего мы все желаем, но не имеем, однако у тебя есть...
+Дульсинея: То, чего мы все желаем, но не имеем, однако у тебя оно есть...
 
 # Original: Oblivion.
 Сансон: Забвение.
@@ -104,7 +104,7 @@
 Дон Кихот: Все эти реки... всё это время были под Городом?
 
 # Original: It is said that when an efflorescent tree comes to blossom, steeped and nurtured in the waters of many rivers since its saplinghood, it becomes imbued with a special power.
-Синклер: Говорят, что когда дерево расцветает, напитавшись водами многих рек с того момента, когда оно было ещё саженцем, оно обретает особую силу.
+Синклер: Говорят, что когда дерево расцветает, напитавшись водами многих рек с того самого момента, когда оно ещё было саженцем, оно обретает особую силу.
 
 # Original: I can't even begin to imagine what powers a tree born from that particular river may hold.
 Синклер: Я даже не могу представить, какими силами может обладать дерево, рождённое из этой особенной реки.
@@ -134,7 +134,7 @@
 Синклер: И для пьющего остаётся лишь одно будущее: видение собственного безумия.
 
 # Original: I call this the 'Mirae-mirae River'... or the River of Future-future. It must've had a name once, but this is the name I gave it.
-Синклер: Я называю её "Река Мирэ-мирэ"... или Река Будущего-будущего. Когда-то у неё, должно быть, было название, но это то имя, которое я ей дал.
+Синклер: Я называю её "Река Мирэ-мирэ"... или Река Будущего-будущего. Когда-то у неё, должно быть, было другое название, но это то имя, которое я ей дал.
 
 # Original: Quite the irony, then.
 Дон Кихот: Какая ирония.
@@ -143,7 +143,7 @@
 Синклер: Хотя она не покажет тебе точный момент, который ты хочешь увидеть, ты можешь заглянуть в реку, чтобы мельком увидеть определённый этап в будущем. Это может быть довольно дезориентирующе, но... хочешь попробовать в любом случае?
 
 # Original: I ill wish to be so close to the waters, but... I shall.
-Дон Кихот: Я не желаю быть так близко к водам, но... я сделаю это.
+Дон Кихот: Я не желаю быть так близко к воде, но... я сделаю это.
 
 # Original: What do you see?
 Синклер: Что ты видишь?
@@ -152,10 +152,10 @@
 Дон Кихот: Цепи... большие ворота... и... часы... Пылающие часы...? И... обещание...
 
 # Original: It is as you have said. Visions I have seen, yet I fail to see the sense in each of them.
-Дон Кихот: Всё так, как ты сказал. Видения я узрела, но не могу понять смысла каждого из них.
+Дон Кихот: Всё так, как ты сказал. Я увидела видения, но не могу понять смысла ни одного из них.
 
 # Original: Right. You won't ever get a clear picture unless you drink the waters yourself.
-Синклер: Верно. Ты никогда не получишь ясной картины, если не выпьешь воды сама.
+Синклер: Верно. Ты никогда не получишь ясной картины, если не выпьешь воды.
 
 # Original: Still, if you've seen that clock... and the visions of promise...? Hm. Perhaps this has something to do with that promise you made with him.
 Синклер: И всё же, если ты видела эти часы... и видения обещания...? Хм. Возможно, это как-то связано с тем обещанием, которое ты дала ему.
@@ -272,10 +272,10 @@
 Дон Кихот: ... Спасибо.
 
 # Original: Thus, you lean over the river to drink its water.
-Сансон: Итак, ты наклоняешься над рекой, чтобы выпить её воду.
+Сансон: Итак, ты наклонилась над рекой, чтобы испить её воды.
 
 # Original: However valiant a knight Don Quixote was, she cannot help but shudder from an overwhelming sense of terror and omen.
-Сансон: Каким бы доблестным рыцарем ни была Дон Кихот, она не может не содрогнуться от всепоглощающего чувства ужаса и предзнаменования.
+Сансон: Каким бы доблестным рыцарем ни была Дон Кихот, она не могла не содрогнуться от всепоглощающего чувства ужаса и предзнаменования.
 
 # Original: I... no. I cannot have let such fear touch me. I, who have written such tales of brave adventures...
 Дон Кихот: Я... нет. Я не могла позволить такому страху коснуться меня. Я, написавшая столько историй о храбрых приключениях...
@@ -287,7 +287,7 @@
 Дон Кихот: Хгх, ннгх...!
 
 # Original: Sansón ignores Don Quixote's struggles and rapidly continues the tale, like he was incanting a spell.
-Рассказчик: Сансон игнорирует борьбу Дон Кихот и быстро продолжает повествование, словно читая заклинание.
+Рассказчик: Сансон проигнорировал борьбу Дон Кихот и быстро продолжил повествование, словно читал заклинание.
 
 # Original: Our common, primeval fear of the flowing water. Your body shudders, horripilation of the skin spreading through every inch of your being as your psyche, your consciousness itself, furiously refuses to approach its undulating surface. Our blood, thicker than water, cycles through your system with inhuman rapidity as your heart begins to race like that of a rabid animal.
 Сансон: Наш общий, первобытный страх перед текущей водой. Твоё тело дрожит, мурашки по коже распространяются по каждому дюйму твоего существа, когда твоя психика, само твоё сознание яростно отказывается приблизиться к её колеблющейся поверхности. Наша кровь, что гуще воды, циркулирует по твоим венам с нечеловеческой быстротой, когда твоё сердце начинает биться, как у бешеного животного.
@@ -296,16 +296,16 @@
 Сансон: И всё же ты должна победить этот страх. Ты должна была.
 
 # Original: Moments before you take a sip of that river's water, a thought flickers through your mind. That to continue this adventure was meaningless.
-Сансон: За мгновение до того, как ты сделаешь глоток воды из этой реки, в твоём сознании мелькает мысль. Что продолжать это приключение бессмысленно.
+Сансон: За мгновение до того, как ты сделала глоток воды из этой реки, в твоём сознании промелькнула мысль. Что продолжать это приключение было бессмысленно.
 
 # Original: That is how you dismount Rocinante.
-Сансон: Вот как ты спешиваешься с Росинанта.
+Сансон: Так что ты спешилась с Росинанта.
 
 # Original: Rocinante, only borrowed from its original master.
 Сансон: Росинанта, лишь позаимствованного у его настоящего хозяина.
 
 # Original: Don Quixote looks down toward Rocinante.
-Рассказчик: Дон Кихот смотрит вниз на Росинанта.
+Рассказчик: Дон Кихот посмотрела вниз на Росинанта.
 
 # Original: I... at least Faust and I know what Sansón's incantation is attempting to accomplish.
 Рассказчик: Я... по крайней мере, Фауст и я знаем, чего пытается достичь заклинание Сансона.
@@ -347,7 +347,7 @@
 Цзя Сичунь: ... если это ужасное предсказание окажется верным, ты узнаешь, даже если не захочешь.
 
 # Original: ... I'll compliment your nerves, at least.
-Цзя Сичунь: ... Я, по крайней мере, отдам должное твоим нервам.
+Цзя Сичунь: ... Я, по крайней мере, отдаю должное твоим нервам.
 
 # Original: Don Quixote's spine slowly bends forward.
 Рассказчик: Спина Дон Кихот медленно согнулась вперёд.
@@ -356,7 +356,7 @@
 Рассказчик: Это нельзя остановить. Она и не пыталась остановить это. Дон Кихот двигалась так, словно ей было суждено, словно это была просто её роль в пьесе.
 
 # Original: For a moment, she appears tranquil, even brave. Like a knight briefly dismounting from a beloved steed.
-Рассказчик: На мгновение она выглядела спокойной, даже храброй. Словно рыцарь, на короткое время спешившийся с любимого скакуна.
+Рассказчик: На мгновение она выглядела спокойной, даже храброй. Словно рыцарь, на короткое время спешивающийся с любимого скакуна.
 
 # Original: Yet once she dismounts, once the repressed memories return...
 Рассказчик: Но как только она спешится, как только подавленные воспоминания вернутся...
@@ -419,7 +419,7 @@
 Дон Кихот: Я не хочу уходить, не хочу! Почему ты отказываешься слушаться меня...?
 
 # Original: Please, please! I don't want an adventure, stop! Please!
-Дон Кихот: Пожалуйста, пожалуйста! Я не хочу приключений, остановись! Прошу!
+Дон Кихот: Пожалуйста, пожалуйста! Я не хочу никаких приключений, остановись! Прошу!
 
 # Original: Please, Rocinante...
 Дон Кихот: Пожалуйста, Росинант...
@@ -440,7 +440,7 @@
 ???: Никаких войн. Никаких конфликтов...
 
 # Original: Red fluid wells in Don Quixote's eyes like it did back on the train. The very same sanguine color I feared so much, the eyes I never wished to see again.
-Рассказчик: Красная жидкость наполнил глаза Дон Кихот, как это было в поезде. Тот самый кроваво-красный цвет, которого я так боялся, глаза, которые я никогда не хотел снова увидеть.
+Рассказчик: Красная жидкость наполнила глаза Дон Кихот, как это было в поезде. Тот самый кроваво-красный цвет, которого я так боялся, глаза, которые я никогда не хотел снова увидеть.
 
 # Original: …….
 Дон Кихот?: …….
@@ -488,7 +488,7 @@
 ???: Насколько я слышал, жители Города по необходимости создают эти товарищества, называемые "Ассоциациями".
 
 # Original: Did you get this idea from that Knight of the Moon or whatever?
-Дон Кихот: Ты получил эту идею от того Рыцаря Луны или как там его?
+Дон Кихот: Ты получил эту идею от того Рыцаря Луны или как там её?
 
 # Original: I am telling you now, this new goal of yours is going to crash and burn in less than three days. Quit stirring trouble and stay put.
 Дон Кихот: Говорю тебе сейчас, эта твоя новая цель провалится менее чем за три дня. Перестань создавать проблемы и сиди смирно.
@@ -524,7 +524,7 @@
 ???: Какая разница, кто выиграет или проиграет?
 
 # Original: What matters is that I must hear what comes next in her tale. How dare that human cut her story short at its climax!
-???: Важно то, что я должен услышать, что будет дальше в её истории. Как смеет этот человек обрывать её историю на самом интересном месте!
+???: Важно то, что я должен услышать, что будет дальше в её истории. Как смеет этот человек обрывать свою историю на самом интересном месте!
 
 # Original: I... have nothing. I don't know why you keep letting that human in here if you are not even going to fight.
 Дон Кихот: Мне... ничего сказать. Я не понимаю, почему ты продолжаешь впускать этого человека сюда, если вы даже не собираетесь сражаться.
@@ -539,7 +539,7 @@
 Дон Кихот: Я-я определённо этого не делала.
 
 # Original: You most certainly did. Ah, speaking of which... do you suppose the Hana Association will eventually come out on top?
-???: Ты определённо это делала. Ах, кстати... как ты думаешь, Ассоциация Хана в конце концов выйдет вперёд?
+???: Ты определённо это делала. Ах, кстати... как ты думаешь, Ассоциация Хана в конце концов возьмёт верх?
 
 # Original: No. I believe that the Fixer who hails from this 'Zwei' will overtake the—
 Дон Кихот: Нет. Я считаю, что Корректировщик из этого "Цвай" превзойдёт—
@@ -617,4 +617,4 @@
 ???: Теперь расскажи мне всё об этом.
 
 # Original: <color=#cc2424>That dream of mine... you have dreamed in my stead...</color>
-???: <color=#cc2424>О той моей мечте... которую ты мечтала вместо меня...</color>
+???: <color=#cc2424>О той моей мечте... которой ты грезила вместо меня...</color>
