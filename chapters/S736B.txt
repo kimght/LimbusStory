@@ -614,7 +614,7 @@
 Рассказчик: ... Или, возможно... он обращается к Дон Кихот.
 
 # Original: Now, tell me all about it.
-???: Теперь расскажи мне всё об этом.
+???: Теперь расскажи мне всё.
 
 # Original: <color=#cc2424>That dream of mine... you have dreamed in my stead...</color>
 ???: <color=#cc2424>О той моей мечте... которой ты грезила вместо меня...</color>
