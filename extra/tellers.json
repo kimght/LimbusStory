@@ -2374,5 +2374,84 @@
   {
     "original": "Bloodfiend",
     "translation": "Кровожад"
+  },
+  {
+    "original": "Corroded Bloodfiend",
+    "translation": "Кровожад в Коррозии",
+    "model": "장미침식혈귀"
+  },
+  {
+    "original": "Fixer in the Poster",
+    "translation": "Корректировщик на плакате"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "베르길리우스3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "베르길리우스2"
+  },
+  {
+    "original": "Don Quixote",
+    "translation": "Дон Кихот",
+    "model": "옛돈키"
+  },
+  {
+    "original": "Starved Bloodfiend",
+    "translation": "Истощенный Кровожад"
+  },
+  {
+    "original": "Craving Bloodfiend",
+    "translation": "Жаждущий Кровожад"
+  },
+  {
+    "original": "Townsfolk",
+    "translation": "Житель",
+    "model": "마을주민1"
+  },
+  {
+    "original": "Camille?",
+    "translation": "Камилл?",
+    "model": "장미침식까미유"
+  },
+  {
+    "original": "Sancho",
+    "translation": "Санчо",
+    "model": "돈키호테피묻음"
+  },
+  {
+    "original": "Quixote",
+    "translation": "Кихот",
+    "model": "돈키호테피묻음"
+  },
+  {
+    "original": "Don Quixote",
+    "translation": "Дон Кихот",
+    "model": "돈키호테피묻음"
+  },
+  {
+    "original": "Sancho",
+    "translation": "Санчо"
+  },
+  {
+    "original": "Rocinante",
+    "translation": "Росинант",
+    "model": "로시난테"
+  },
+  {
+    "original": "Defiant Bloodfiend",
+    "translation": "Непокорный Кровожад"
+  },
+  {
+    "original": "Genuflecting Bloodfiend",
+    "translation": "Преклонившийся Кровожад"
+  },
+  {
+    "original": "Horrified Bloodfiend",
+    "translation": "Испуганный Кровожад",
+    "model": "혈귀 3"
   }
 ]
