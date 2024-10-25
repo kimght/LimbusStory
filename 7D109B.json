@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Outskirts, Past",
+      "place": "Окраины, прошлое",
       "model": "바리",
       "content": "Тихо, да?"
     },
@@ -39,7 +39,7 @@
     {
       "id": 7,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "……."
     },
     {
@@ -60,7 +60,7 @@
     {
       "id": 11,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Я знаю."
     },
     {
@@ -76,7 +76,7 @@
     {
       "id": 14,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "... Хорошо."
     },
     {
@@ -92,19 +92,19 @@
     {
       "id": 17,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Я не знаю."
     },
     {
       "id": 18,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Я потеряла всё. И теперь готовлюсь потерять даже остатки того, что было. Думаешь, этот вопрос что-то для меня значит?"
     },
     {
       "id": 19,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Ты задаёшь вопрос, который лучше задать после того, как я усну."
     },
     {
@@ -115,19 +115,19 @@
     {
       "id": 21,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Когда я выпью воду из реки..."
     },
     {
       "id": 22,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Оставь меня."
     },
     {
       "id": 23,
       "model": "옛산초",
-      "title": "La Manchaland",
+      "title": "Ла-Манчалэнд",
       "content": "Спасибо тебе, Бари. За всё."
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "id": 25,
-      "place": "Fathoms of Ego - Maze",
+      "place": "Глубины Эго - Лабиринт",
       "model": "산초",
       "content": "Потому что мы... навечно связаны с нашей истинной природой."
     },
@@ -163,7 +163,7 @@
     },
     {
       "id": 30,
-      "place": "Fathoms of Ego - La Mancha Eye",
+      "place": "Глубины Эго - Глаз Ла-Манчи",
       "model": "가면키호테",
       "content": "Этот... Ла-Манчалэнд."
     },
@@ -245,36 +245,36 @@
     {
       "id": 48,
       "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Испуганный Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Ах... аххх..."
     },
     {
       "id": 49,
       "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Испуганный Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Про... простите нас..."
     },
     {
       "id": 50,
       "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Испуганный Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Нет, пожалуйста, спасите нас..."
     },
     {
       "id": 51,
       "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Испуганный Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Если не спасёте..."
     },
     {
       "id": 52,
       "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Испуганный Кровожад",
+      "title": "Ла-Манчалэнд",
       "content": "Мы заставим вас страдать... вместе с нами...!"
     }
   ]

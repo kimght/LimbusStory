@@ -2,17 +2,17 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Fathoms of Ego - Maze",
+      "place": "Глубины Эго - Лабиринт",
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "Я и не знал... Я даже представить не мог, что что-то может быть настолько вкусным...!"
     },
     {
       "id": 1,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "Как мы вообще так долго жили, не отведав такой восхитительной пищи? Как мы могли забыть это ощущение?"
     },
     {
@@ -28,43 +28,43 @@
     {
       "id": 4,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "В-вы... вся кровь, что вы пролили... Мы шли по вашему кровавому следу..."
     },
     {
       "id": 5,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "О... Я так скучаю по тому дню..."
     },
     {
       "id": 6,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "По тому дню, когда случился наш первый несчастный случай в Ла-Манчалэнде..."
     },
     {
       "id": 7,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "По крови, стекающей с одного из наших гостей..."
     },
     {
       "id": 8,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "Мы ползали на четвереньках по полу, лишь бы попробовать её на вкус..."
     },
     {
       "id": 9,
       "model": "장미침식혈귀",
-      "teller": "Corroded Bloodfiend",
-      "title": "La Manchaland",
+      "teller": "Кровожад в Коррозии",
+      "title": "Ла-Манчалэнд",
       "content": "О, какой восторг я тогда испытал..."
     },
     {
