@@ -59,7 +59,7 @@
 Санчо: Ты всё ещё ищешь их...?
 
 # Original: I thought you had given up on the idea. The Knight of the White Moon identified the last one, which you had gone through considerable lengths to obtain, mind, was but a forgery.
-Санчо: Я думала, ты оставил эту затею. Рыцарь Белой Луны установил, что последняя, на добычу которой ты, между прочим, потратил немало сил, оказалась подделкой.
+Санчо: Я думала, ты оставил эту затею. Рыцарь Белой Луны установила, что последняя, на добычу которой ты, между прочим, потратил немало сил, оказалась подделкой.
 
 # Original: Yet the merchant claimed that this one was of genuine quality.
 Дон Кихот: Но торговец уверял, что эта — подлинная.

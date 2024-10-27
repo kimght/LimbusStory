@@ -14,7 +14,7 @@
 Хон Лу: Ага. Тот же самый.
 
 # Original: Are you insane? Does any of this not register to you? The things she's been saying? This "Don Quixote" is no—
-Отис: Ты в своём уме? Неужели до тебя не доходит? Всё то, что она говорит? Этот "Дон Кихот" вовсе не—
+Отис: Ты в своём уме? Неужели до тебя не доходит? Всё то, что она говорит? Эта "Дон Кихот" вовсе не—
 
 # Original: Mm... but she's still the same person, from where I'm standing.
 Хон Лу: Мм... но для меня она всё тот же человек.
@@ -125,7 +125,7 @@
 Цзя Сичунь: ...Да. Есть множество способов удалить воспоминания, и это только если считать общедоступные.
 
 # Original: The most common method is moving someone's memory into a different object, or a person. Some parts of the City even sell them as local products.
-Цзя Сичунь: Самый распространённый метод — это перенос памяти на другой объект или человека. В некоторых частях Города их даже продают как местные товары.
+Цзя Сичунь: Самый распространённый метод — это перенос воспоминаний на другого человека, или на другой объект. В некоторых частях Города их даже продают как местные товары.
 
 # Original: Another is to completely destroy the memories. It's cheap, but because it comes with the risk of affecting other memories, only desperate Backstreets dwellers use this method.
 Цзя Сичунь: Другой способ — полностью уничтожить воспоминания. Это дёшево, но поскольку есть риск затронуть другие воспоминания, этим методом пользуются только отчаявшиеся жители Подворотен.
@@ -143,7 +143,7 @@
 Хон Лу: Так вот что ты искала... Сичунь.
 
 # Original: Not exactly. It's a different stream, somewhere near the River of Oblivion.
-Цзя Сичунь: Не совсем. Это другой поток, где-то рядом с Рекой Забвения.
+Цзя Сичунь: Не совсем. Я искала другой поток, который должен быть где-то рядом с Рекой Забвения.
 
 # Original: I suspect that the River I'm searching for has something to do with the immortality of the mind that our elders have been seeking so desperately.
 Цзя Сичунь: Я подозреваю, что Река, которую я ищу, как-то связана с бессмертием разума, которого наши старейшины так отчаянно добиваются.
@@ -200,7 +200,7 @@
 Хон Лу: Путь разветвляется, и мы должны пойти разными тропами. Пора прощаться.
 
 # Original: ... If your friend had really lost her memories from drinking the waters of the River of Oblivion...
-Цзя Сичунь: ...Если твой друг действительно потеряла память, выпив воды из Реки Забвения...
+Цзя Сичунь: ...Если твоя подруга действительно потеряла память, выпив воды из Реки Забвения...
 
 # Original: ... then she has to be extremely disoriented. Coming to terms with the realization that those hazy, nightmarish visions were in fact her own memories, that they weren't just dreams, has to be...
 Цзя Сичунь: ...то она должна быть крайне дезориентирована. Осознание того, что эти туманные, кошмарные видения на самом деле были её собственными воспоминаниями, что они были не просто снами, должно быть...

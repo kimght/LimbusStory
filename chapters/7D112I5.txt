@@ -2,10 +2,10 @@
 Дон Кихот: Не напоминает ли тебе это колесо о той давней войне, Санчо?
 
 # Original: ... The Bloodfiends of the Family with many arms, like windmills?
-Санчо: ... О Кровожадах из Семейства многоруких, похожих на ветряные мельницы?
+Санчо: ... О Кровожадах из Семьи многоруких, похожих на ветряные мельницы?
 
 # Original: Indeed I am. I remember how hotly my heart beat as I stood against the giantfolk in the field of battle.
-Дон Кихот: Воистину о них. Помню, как пылко билось моё сердце, когда я встал против исполинского племени на поле брани.
+Дон Кихот: Воистину о них. Помню, как пылко билось моё сердце, когда я встал против племени гигантов на поле брани.
 
 # Original: ... I remember running after you after one of them flung your body far away as a result of you underestimating their might.
 Санчо: ... Помню, как подбирала тебя после того, как одно из этих созданий отправило тебя в полёт за то, что ты недооценил их мощь.

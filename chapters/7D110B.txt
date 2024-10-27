@@ -155,7 +155,7 @@
 Санчо: И ты доволен этим жалким состоянием?
 
 # Original: Can't you see that... I am no longer the only one with claim to my body? It must be used... for the good of my Children who await salvation, protection amidst this terrifying world of misfortune...
-Дон Кихот: Разве ты не видишь, что... моё тело больше не принадлежит мне одному? Оно должно служить... во благо моих Детей, ждущих спасения, защиты в этом ужасном мире несчастий...
+Дон Кихот: Разве ты не видишь, что... моё тело больше не принадлежит мне одному? Оно должно служить... во благо моих Детей, ждущих спасения, защиты в этом ужасном мире, полном несчастий...
 
 # Original: Father. The guests who accompanied Sancho here... are here to lay destruction upon La Manchaland.
 Цирюльник: Отец. Гости, что пришли с Санчо... они здесь, чтобы разрушить Ла-Манчалэнд.
@@ -164,7 +164,7 @@
 Цирюльник: Мы убьём их... и напоим тебя их кровью.
 
 # Original: You remember well, don't you? Blood untainted by pathetic begging and struggling... The blood of those who so bravely seek to kill us... boils much, much hotter.
-Цирюльник: Ты ведь помнишь? Кровь, не испорченная жалким молением и сопротивлением... Кровь тех, кто так отважно стремится убить нас... кипит куда, куда горячее.
+Цирюльник: Ты ведь помнишь? Кровь, не испорченная жалкими мольбами и сопротивлением... Кровь тех, кто так отважно стремится убить нас... кипит куда, куда горячее.
 
 # Original: Indeed... my Children.
 Дон Кихот: Воистину... мои Дети.

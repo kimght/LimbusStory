@@ -164,7 +164,7 @@
 Дон Кихот: Я не похож на других Кровожадов; мне не интересно убивать людей ради забавы.
 
 # Original: However, I am also not so generous a Bloodfiend to let a human who dared to walk into her own doom simply saunter away without consequences.
-Дон Кихот: Однако я и не настолько щедрый Кровожад, чтобы позволить человеку, осмелившемуся войти в собственную погибель, просто уйти без последствий.
+Дон Кихот: Однако я и не настолько щедрый Кровожад, чтобы позволить человеку, осмелившемуся войти на собственную погибель, просто уйти без последствий.
 
 # Original: Humans and Bloodfiends are at war out there. Did you know that?
 Бари: Люди и Кровожады там снаружи воюют. Вы знали об этом?

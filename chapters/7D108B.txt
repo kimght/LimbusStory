@@ -122,7 +122,7 @@
 Санчо: То, что вы сделали... это непочтительность к предку.
 
 # Original: We smelled the carnage upon our return to La Manchaland once our adventure was over.
-Санчо: Мы почуяли резню, когда вернулись в Ла-Манчалэнд после окончания нашего приключения.
+Санчо: Мы почуяли запах резни, когда вернулись в Ла-Манчалэнд после окончания нашего приключения.
 
 # Original: Yes... Burning with wrath, he descended upon La Manchaland amidst its festival to deliver swift retribution for our transgressions.
 Цирюльник: Да... Пылая гневом, он спустился в Ла-Манчалэнд посреди праздника, чтобы воздать скорое возмездие за наши прегрешения.
@@ -134,7 +134,7 @@
 Цирюльник: Отец не смог найти в себе сил простить нас. Но мы были готовы к этому! Именно поэтому мы и рассказали ему о местонахождении Реликвии!
 
 # Original: Behold, Sancho.
-Дон Кихот: Воззри, Санчо.
+Дон Кихот: Узри, Санчо.
 
 # Original: The legendary Relic, Helmet of Mambrino we had so fervently sought is before us. We have the Barber, the Priest, and Dulcinea to thank for telling us of its whereabouts.
 Дон Кихот: Легендарная Реликвия, Шлем Мамбрино, которую мы так страстно искали, пред нами. Мы должны благодарить Цирюльника, Священника и Дульсинею за то, что указали нам путь к ней.
@@ -212,7 +212,7 @@
 Санчо: Не уводи меня отсюда...
 
 # Original: Ha ha... so <i>that's</i> what happened! That is why our Father was so weakened, why we could not see even a trace of you anywhere within La Manchaland when the dust settled.
-Цирюльник: Ха-ха... так <i>вот</i> что произошло!Вот почему наш Отец был так ослаблен, почему мы не могли найти даже следа тебя в Ла-Манчалэнде, когда пыль осела.
+Цирюльник: Ха-ха... так <i>вот</i> что произошло! Вот почему наш Отец был так ослаблен, почему мы не могли найти даже следа тебя в Ла-Манчалэнде, когда пыль осела.
 
 # Original: Always stuck to him like glue, glaring at us with that haughty, condescending look whenever we approached...
 Цирюльник: Вечно липла к нему как приклеенная, смотрела на нас этим надменным, снисходительным взглядом, когда мы приближались...
@@ -323,10 +323,10 @@
 Дульсинея: Явно, судя по выражению твоего лица...
 
 # Original: Your adventure wasn't very fulfilling, was it?
-Дульсинея: Твоё приключение не было особо полноценным, да?
+Дульсинея: Твоё приключение не было особо приятным, да?
 
 # Original: I almost prefer that naive look from earlier.
-Дульсинея: Мне почти больше нравился тот наивный взгляд, что был у тебя раньше.
+Дульсинея: Я почти предпочитаю тот наивный взгляд, что был у тебя раньше.
 
 # Original: I still hated your eyes, twinkling or not, but...
 Дульсинея: Я всё равно ненавидела твои глаза, сверкающие или нет, но...
