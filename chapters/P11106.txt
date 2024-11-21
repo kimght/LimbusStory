@@ -1,17 +1,17 @@
 # Original: ... I see. So you have already conducted an interview with the members of Section 5.
-Отис: ... Понятно. Значит, вы уже провели интервью с членами Отдела 5.
+Отис: ... Понятно. Значит, вы уже провели интервью с членами Секции 5.
 
 # Original: Yeah... Their Director was... well, she certainly was a character.
 Рассказчик: Да... Их Директор была... ну, она определенно была личностью.
 
 # Original: Cinq South Section 5 Director... Don Quixote, was it? I have heard many tales about her, yes.
-Отис: Директор Отдела 5 Южного Сэнк... Дон Кихот, верно? Я слышала о ней много историй.
+Отис: Директор Секции 5 Южного Сэнк... Дон Кихот, верно? Я слышала о ней много историй.
 
 # Original: As the child slowly strolled through an alleyway, a woman with a small notepad followed closely behind her.
 Рассказчик: Пока дитя медленно прогуливалось по переулку, женщина с небольшим блокнотом следовала прямо за ней.
 
 # Original: She also brought me on a 30-minute-long stroll through the alleyways, actually. Like we're doing now.
-Рассказчик: Она также провела меня на 30-минутную прогулку по переулкам, на самом деле. Как мы делаем сейчас.
+Рассказчик: На самом деле, она также повела меня на 30-минутную прогулку по переулкам. Прямо как мы сейчас.
 
 # Original: Oh, my apologies. Perhaps this interview would have been better conducted at a proper reception room...
 Отис: О, прошу прощения. Возможно, это интервью лучше было бы провести в подобающей приемной...
@@ -41,7 +41,7 @@
 Рассказчик: Конечно, дитя этого не видело.
 
 # Original: Well... If I were to speak my mind, I don't believe that either directors of Sections 4 and 5 are individuals fit for their respective positions.
-Отис: Что ж... Если говорить откровенно, я не считаю, что директора Отделов 4 и 5 подходят для своих должностей.
+Отис: Что ж... Если говорить откровенно, я не считаю, что директора Секций 4 и 5 подходят для своих должностей.
 
 # Original: Gasp...
 Рассказчик: Ох...
@@ -62,7 +62,7 @@
 Отис: Ну, как бы то ни было... У меня нет претензий к их боевым навыкам.
 
 # Original: When the Director of our Section 4 wields his blade, for example... It inspires a certain chilling awe in people.
-Отис: Когда Директор нашего Отдела 4 берется за меч, например... Это вызывает у людей определенный леденящий трепет.
+Отис: Например, когда Директор нашей Секции 4 берется за меч... Это вызывает у людей определенный леденящий трепет.
 
 # Original: Ohh... Yeah, I've heard the stories. He moves as though in a trance, guided by the blade itself right into the opponent's weakness...
 Рассказчик: Ооо... Да, я слышала эти истории. Он движется словно в трансе, ведомый самим клинком прямо к слабому месту противника...
@@ -116,7 +116,7 @@
 Рассказчик: Когда противник наконец получил шанс перейти в наступление, дитя уже было вне его досягаемости.
 
 # Original: And when the opponent's defense cracked, even for a split second, the child quickly bridged the gap to exploit the opening. Then, she rapidly retreated to the exact position as before.
-Рассказчик: А когда в защите противника появлялась трещина, пусть даже на долю секунды, дитя быстро сокращало дистанцию, чтобы воспользоваться этим. Затем она стремительно отступала на прежнюю позицию.
+Рассказчик: А когда в защите противника появлялась слабина, пусть даже на долю секунды, дитя быстро сокращало дистанцию, чтобы воспользоваться этим. Затем она стремительно отступала на прежнюю позицию.
 
 # Original: The child's distancing was precise, exact. It was almost as though she was measuring her every step with a ruler.
 Рассказчик: Дистанция, которую соблюдало дитя, была точной, выверенной. Казалось, будто она измеряла каждый свой шаг линейкой.
