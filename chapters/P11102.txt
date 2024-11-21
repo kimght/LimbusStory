@@ -8,7 +8,7 @@
 Рассказчик: Тихий монолог — или разговор — дитя обращен к её клинку.
 
 # Original: How ironic that you met your demise at your pupil’s sword, laid down by the skill you taught her.
-Отис: Как иронично, что ты встретил свою гибель от меча своей ученицы, поверженный тем мастерством, которому сам же её научил.
+Отис: Как иронично, что ты встретил свою гибель от меча своей ученицы, поверженный мастерством, которому сам же её научил.
 
 # Original: Although there was a master who had bestowed the art of swordsmanship, that individual may or may not be part of the Blade Lineage.
 Рассказчик: Хотя и был наставник, передавший искусство владения мечом, этот человек мог быть или не быть частью Родословной Клинка.
@@ -29,13 +29,13 @@
 Отис: Может быть, мне стоило пойти по этому пути?
 
 # Original: She decided that she wouldn’t hold much regret for the day she slew her own master. After all, cutting out the obstacle that blocked her from her flow was the right thing to do.
-Рассказчик: Она решила, что не будет особо сожалеть о дне, когда убила своего собственного наставника. В конце концов, устранение препятствия, мешавшего её потоку, было правильным поступком.
+Рассказчик: Она решила, что не будет особо сожалеть о дне, когда убила своего наставника. В конце концов, устранение препятствия, мешавшего её потоку, было правильным поступком.
 
 # Original: That was the greater stream she floated down.
 Рассказчик: Это было то большее течение, по которому она плыла.
 
 # Original: Thus, she made up her mind to hold no regrets for going along with the flow this time, too.
-Рассказчик: Таким образом, она решила не испытывать сожалений и на этот раз, следуя потоку.
+Рассказчик: Таким образом, она решила не испытывать сожалений следуя потоку и на этот раз.
 
 # Original: …If there is an obstacle, I will strike it down.
 Отис: ...Если есть препятствие, я его сокрушу.
