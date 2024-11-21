@@ -5,13 +5,13 @@
 Рассказчик: Из механизма донеслись звуки, которые можно было бы назвать весьма нехарактерными. Вскоре из него вылетели искры и с громким скрежетом от него было что-то оторвано.
 
 # Original: So this was the last one, huh...
-Отис: Фух… это, значит, последний.
+Отис: Фух… значит это был последний.
 
 # Original: The child tossed the (now defunct) prosthetic to the side of the alleyway and collapsed on wherever she could find a seat.
-Рассказчик: Дитя отбросило роботическую деталь (уже не функционирующую) в сторону и свалилось там, где смогло найти место.
+Рассказчик: Дитя отбросило уже не функционирующую роботическую деталь в сторону и свалилось там, где смогло найти место.
 
 # Original: Whew, I'm tired... I probably should not have tried to complete all of these contracts at once.
-Отис: Устала… Не надо было, наверное, брать на себя столько работы за раз.
+Отис: Устала… Наверное, мне не следовало пытаться завершить все эти контракты за раз.
 
 # Original: ... Though if I'm going to take care of this job she gave me... I suppose it would be best that I don't leave any unfinished contracts behind.
 Отис: Но… если я собираюсь заняться той работёнкой, которую она мне подкинула, нужно закончить со всеми невыполненными контрактами.
@@ -35,7 +35,7 @@
 Отис: Ха-а-а… Не такая занятость была у меня в голове, когда создавала этот офис.
 
 # Original: While Offices and Associations are both Fixer organizations, the minutiae of their workings were somewhat different.
-Рассказчик: Хоть и офисы, и ассоциации являются организациями корректировщиков, суть у них немного отличается.
+Рассказчик: Хоть и офисы, и ассоциации являются организациями корректировщиков, детали их работы несколько отличаются.
 
 # Original: It's not entirely correct to say that Associations are naturally superior to Offices, though they employ many more Fixers and operate on a larger scale. This is why many offices maintain an Associate relationship with the Associations.
 Рассказчик: Не совсем правильным будет говорить, что ассоциации всегда важнее офисов, но они определённо набирают больше корректировщиков и охватывают бо́льшую площадь… Именно поэтому многие офисы сотрудничают с ассоциациями.
