@@ -2,10 +2,10 @@
 Отис: Я приготовила чай, как вы просили. В поместье прохладно; пожалуйста, выпейте чай, пока он не остыл.
 
 # Original: The child placed the cup on the table with such graceful dexterity that it barely made any noise. There wasn't even the infinitesimally small clatter of the teacup against the saucer.
-Рассказчик: Дитя поставило чашку на стол с такой изящной ловкостью, что это едва ли произвело какой-либо звук. Даже не было слышно малейшего стука чашки о блюдце.
+Рассказчик: Дитя поставило чашку на стол с такой изящной ловкостью, что это едва ли произвело какой-либо звук. Не было даже малейшего стука чашки о блюдце.
 
 # Original: Her politely folded hands and slightly bent back did not even flinch from its fixed position.
-Рассказчик: Её вежливо сложенные руки и слегка согнутая спина даже не дрогнули от своего фиксированного положения.
+Рассказчик: Её вежливо сложенные руки и слегка согнутая спина даже не поколебались из своего фиксированного положения.
 
 # Original: None of this may mean much to someone who's so used to receiving such top-notch service, but anyone who's not would realize something after a quick glance at the child's service.
 Рассказчик: Всё это может мало что значить для того, кто привык получать такое первоклассное обслуживание, но любой, кто не привык к этому, сразу бы понял после быстрого взгляда на обслуживание дитя.
