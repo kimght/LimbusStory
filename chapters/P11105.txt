@@ -2,7 +2,7 @@
 Отис: Я порву тебя на куски!
 
 # Original: The thing emitted a series of sounds one wouldn't expect to hear from a machine. Soon, sparks flew and something ripped apart from it with a loud tearing noise.
-Рассказчик: Из механизма донеслись звуки, которые можно было бы назвать весьма нехарактерными. Вскоре из него вылетели искры и с громким скрежетом от него было что-то оторвано.
+Рассказчик: Из механизма донеслись звуки, которые можно было бы назвать весьма нехарактерными. Вскоре полетели искры и что то оторвалось от него с громким скрежетом.
 
 # Original: So this was the last one, huh...
 Отис: Фух… значит это был последний.
@@ -29,7 +29,7 @@
 Рассказчик: Помимо этого было несколько записей, именуемых как "частные контракты".
 
 # Original: The child's relatively small Fixer Office was flooded with a decent amount of daily contracts. To the point where it rivaled the workload of some Associations' lower ranking Sections.
-Рассказчик: Относительно небольшой Офис Корректировщиков дитя был ежедневно наводнён приличным количеством контрактов. До такой степени, что мог бы посоперничать с рабочей нагрузкой секций низкого ранга некоторых Ассоциаций.
+Рассказчик: Относительно небольшой Офис Корректировщиков дитя, был ежедневно наводнён приличным количеством контрактов. До такой степени, что мог бы посоперничать с рабочей нагрузкой секций низкого ранга некоторых Ассоциаций.
 
 # Original: Huhh... What am I even doing? This busyness isn't at all what I wanted when I started my own Fixer Office...
 Отис: Ха-а-а… Что я вообще делаю? Не такая занятости я желала, когда создавала свой Офис.
@@ -47,22 +47,22 @@
 Рассказчик: Поэтому новые офисы часто берут "общие контракты".
 
 # Original: Associations often take and post Open Contracts so Fixer Offices can pick them up. But since they are also taken on a first—come, first—serve basis, many offices often go days without grabbing a single one of them.
-Рассказчик: Ассоциации нередко оглашают общие контракты, чтобы ими могли заняться офисы корректировщиков, но так как они выдаются на условии "кто успел, тот и взял", многие офисы целыми днями не могут выхватить для себя ни одного контракта.
+Рассказчик: Ассоциации нередко вывешивают общие контракты, чтобы ими могли заняться Офисы Корректировщиков, но так как они выдаются на условии "кто успел, тот и взял", многие офисы целыми днями не могут урвать для себя ни одного.
 
 # Original: Associate Offices or Offices with an Association insider may be subcontracted by them, but neither has been true for this child.
-Рассказчик: Сотрудничающие с ассоциациями офисы и те, у кого в ассоциации есть инсайдер, могут получить контракты лично от ассоциации, но ни тем, ни другим дитя никогда не пользовалось.
+Рассказчик: Сотрудничающие с Ассоциациями Офисы и те, у кого в ассоциации есть инсайдер, могут получить контракты от них непосредственно, но ни то, ни другое не было правдой в случае этого дитя.
 
 # Original: When the child opened her own Office, she dreamed of slow, easy days of low—effort contracts and nights full of delicious liquor.
-Рассказчик: Когда дитя только открыло свой офис, оно мечтало о спокойной, размеренной жизни с легко выполнимыми контрактами и ночами, наполненными вкусной выпивкой.
+Рассказчик: Когда дитя только открыло свой Офис, оно мечтало о спокойных, размеренных днях с легковыполнимыми контрактами и ночах, наполненных вкусной выпивкой.
 
 # Original: Did she manage to pick up an Open Contract? Time to get to work. Did she not? Time to get plastered.
-Рассказчик: Успела ухватить общий контракт — пора за работу. Не успела — пора в бар.
+Рассказчик: Успела ухватить общий контракт — пора за работу. Не успела — время напиваться.
 
 # Original: ... That was the plan, anyway. After a while of doing exactly that, her Office's reputation inadvertently grew, and Private Contracts enough to form a queue began drizzling in. It had grown to be a rather reputable Office.
-Рассказчик: Таков был план. Придерживаясь его, через некоторое время репутация офиса неотвратимо возросла и стали поступать частные контракты, причём столько, что можно было целую очередь выставить. Офис дитя стал весьма солидным.
+Рассказчик: Таков был план. Придерживаясь его, через некоторое время репутация Офиса неотвратимо возросла и стали поступать частные контракты, причём столько, что можно было выстроить целую очередь. Офис дитя стал весьма солидным.
 
 # Original: But this contract was...
-Рассказчик: Но в этот раз дитя поступил запрос…
+Рассказчик: Но это контракт был…
 
 # Original: Something on a completely different level of significance.
 Рассказчик: Совершенно иного уровня.
@@ -74,19 +74,19 @@
 Отис: Контракт от Крыла… Даже мне как-то не по себе от этого.
 
 # Original: This contract had somehow found its way into her Office all the way from R Corp., one of the City's Wings.
-Рассказчик: Контракт этот поступил в её офис из корпорации R — одного из Крыльев Города.
+Рассказчик: Это контракт поступил в её Офис из корпорации R — одного из Крыльев Города.
 
 # Original: Of course, it was only sheer luck that the child's friend was the first to bring up this contract... to which the child eagerly and immediately jumped at...
-Рассказчик: Конечно же, дитя лишь просто повезло, что подруга заговорила об этом контракте, а оно охотно вцепилась в него зубами…
+Рассказчик: Конечно же, дитя просто повезло, что подруга заговорила об этом контракте, а оно охотно ухватилось за него…
 
 # Original: But luck favors those who are prepared to seize it, after all. It may simply be a testament to how much her Office had grown.
-Рассказчик: Но удача в конце концов улыбается тем, кто готов ей воспользоваться. Это было лишь ещё одно доказательство немыслимого роста офиса дитя.
+Рассказчик: Но удача в конце концов улыбается тем, кто готов ей воспользоваться. Возможно, это было лишь ещё одно доказательство немыслимого роста Офиса дитя.
 
 # Original: Hmph. To worry before I even meet the challenge... This isn't like me at all.
-Отис: Хмпф, не в моём стиле волноваться до того, как встретила проблему.
+Отис: Хмпф, не в моём стиле волноваться ещё до того, как встретила проблему.
 
 # Original: In fact, I should get myself a drink before the train ride. Just one shot as a pick—me—up...!
-Отис: На самом деле, надо бы выпить чего-нибудь перед поездкой на поезде. Одну стопочку, чтоб взбодриться…!
+Отис: На самом деле, надо бы выпить чего-нибудь перед поездкой на поезде. Только одну стопочку, чтоб взбодриться…!
 
 # Original: Hey! Yi Sang! I'm heading out!
 Отис: Эй! И Сан! Я пошла!
