@@ -8,7 +8,7 @@
 Рассказчик: Её вежливо сложенные руки и слегка согнутая спина даже не поколебались из своего фиксированного положения.
 
 # Original: None of this may mean much to someone who's so used to receiving such top-notch service, but anyone who's not would realize something after a quick glance at the child's service.
-Рассказчик: Всё это может мало что значить для того, кто привык получать такое первоклассное обслуживание, но любой, кто не привык к этому, сразу бы понял после быстрого взгляда на обслуживание дитя.
+Рассказчик: Всё это может мало что значить для того, кто привык получать такое первоклассное обслуживание, но любой, кто не привык к этому, понял бы кое-что, после быстрого взгляда на сервис, который оказывает дитя.
 
 # Original: That this child was a highly trained Butler.
 Рассказчик: Что это дитя было высококвалифицированным Дворецким.
@@ -20,10 +20,10 @@
 Отис: Теперь я должна покинуть вас и заняться подготовкой к приёму гостей, которые должны прибыть сегодня. Прошу прощения за моё отсутствие.
 
 # Original: The child bowed courteously at the quiet man, who was fully absorbed in reading the paper in his hands. She walked backward toward the door and exited to the corridor.
-Рассказчик: Дитя вежливо поклонилось молчаливому мужчине, полностью погруженному в чтение бумаг в его руках. Она пошла спиной к двери и вышла в коридор.
+Рассказчик: Дитя вежливо поклонилось молчаливому мужчине, полностью погруженному в чтение бумаг в его руках и вышло в коридор спиной к двери.
 
 # Original: Her movement was smooth and continuous, not allowing even the smallest squeak as she closed the door on her way out.
-Рассказчик: Её движение было плавным и непрерывным, не позволяя даже малейшему скрипу раздаться, когда она закрывала за собой дверь.
+Рассказчик: Её движение было плавным и непрерывным, не позволяя прозвучать даже малейшему скрипу, когда она закрывала за собой дверь.
 
 # Original: Chief Butler Lady Outis.
 Фауст: Главный Дворецкий Леди Отис.
@@ -35,7 +35,7 @@
 Отис: Мм, Фауст.
 
 # Original: I trust that the preparation for the guests' reception is going smoothly?
-Отис: Я полагаю, что подготовка к приёму гостей идёт гладко?
+Отис: Я полагаю, что подготовка к приёму гостей проходит беспрепятственно?
 
 # Original: She nodded as though she was already expecting to see the other child waiting for her on the other side of the door, and began walking down the corridor.
 Рассказчик: Она кивнула, словно уже ожидала увидеть другое дитя, ждущее её по другую сторону двери, и начала идти по коридору.
@@ -47,7 +47,7 @@
 Фауст: Всё, что приказала Главный Дворецкий Леди Отис, было выполнено.
 
 # Original: Every item entrusted to the Devyat' has also been delivered without delay. They are all ready to be used for tonight's banquet.
-Фауст: Каждый предмет, доверенный Девяти, также был доставлен без задержки. Всё готово к использованию на сегодняшнем банкете.
+Фауст: Каждый предмет, доверенный Девять, также был доставлен без задержки. Всё готово к использованию на сегодняшнем банкете.
 
 # Original: As competent as always.
 Отис: Компетентна, как всегда.
@@ -56,7 +56,7 @@
 Отис: Но я не стану тебя хвалить, Фауст. Ты должна понимать почему, да?
 
 # Original: From a certain perspective, the child's words and expression appeared rather harsh. But the other child's nondescript expression did not change.
-Рассказчик: С определённой точки зрения, слова и выражение лица дитя казались довольно суровыми. Но невыразительное лицо другого дитя не изменилось.
+Рассказчик: С определённой точки зрения, слова и выражение лица дитя казались довольно суровыми. Но невзрачное лицо другого дитя не изменилось.
 
 # Original: Perhaps all this was merely routine to her.
 Рассказчик: Возможно, всё это было для неё просто рутиной.
@@ -71,7 +71,7 @@
 Рассказчик: Дитя продолжила, поправляя свой монокль.
 
 # Original: ... as one of the Butlers in service of our Mistress, it would be shameful to serve anything but the utmost excellence.
-Отис: ... как одному из Дворецких на службе у нашей Госпожи, было бы позором служить чем-либо, кроме высочайшего совершенства.
+Отис: ... как одному из Дворецких на службе у нашей Госпожи, было бы позором служить как-либо, кроме как с высочайшим совершенством.
 
 # Original: ... That is fully understood.
 Фауст: ... Это полностью понятно.
@@ -107,7 +107,7 @@
 Фауст: ... Главный Дворецкий Рёшу сообщает нам, что охота на волка близка.
 
 # Original: So, the stray hound returns as a wolf... returning to sully Wuthering Heights and her honorable Mistress' name once again. Good, this saves me the trouble of venturing out of this place in search of this beast.
-Отис: Значит, заблудшая собака возвращается волком... возвращается, чтобы снова запятнать Грозовой Перевал и честное имя её Госпожи. Хорошо, это избавит меня от необходимости выходить из этого места в поисках этого зверя.
+Отис: Значит, блудливый пёс возвращается волком... возвращается, чтобы снова запятнать Грозовой Перевал и честное имя её Госпожи. Хорошо, это избавит меня от необходимости покидать это место в поисках зверя.
 
 # Original: …….
 Фауст: …….
@@ -128,7 +128,7 @@
 Отис: Хмф, всё просто.
 
 # Original: The other child was speaking rather anxiously, but the child dismissed her concerns with a light scoff.
-Рассказчик: Другое дитя говорило довольно тревожно, но дитя отмахнулась от её опасений лёгким фырканьем.
+Рассказчик: Другое дитя говорило довольно тревожно, но дитя отмахнулась от её опасений с лёгкой усмешкой.
 
 # Original: I have no love for someone who abandoned this land in favor of her Master, but a Chief Butler is a Chief Butler still.
 Отис: У меня нет любви к тому, кто оставил эту землю в пользу своего Хозяина, но Главный Дворецкий остаётся Главным Дворецким.
@@ -149,7 +149,7 @@
 Отис: Интересно. Для чего всё это?
 
 # Original: ... Uninvited guests have arrived prior to the banquet. The Butlers stand ready to meet the interlopers.
-Фауст: ... Незваные гости прибыли до начала банкета. Дворецкие готовы встретить непрошеных гостей.
+Фауст: ... Незваные гости прибыли до начала банкета. Дворецкие готовы встретить нарушителей.
 
 # Original: Very well... then let us use this opportunity as a warm-up before the hunt.
 Отис: Очень хорошо... тогда давайте используем эту возможность как разминку перед охотой.
@@ -158,13 +158,13 @@
 Рассказчик: Дитя встало во весь рост перед рядами Дворецких.
 
 # Original: There was a group of outsiders standing outside the manor, their garbs indicating rather clearly that they did not belong here. Not that it was any of the child's concern.
-Рассказчик: Перед поместьем стояла группа посторонних, их одежда ясно указывала на то, что они здесь не к месту. Не то чтобы это как-то касалось дитя.
+Рассказчик: Перед поместьем стояла группа посторонних, их одежда очевидно указывала на то, что им здесь не место. Не то чтобы это как-то беспокоило дитя.
 
 # Original: Ah, I apologize for the delayed reception, dear strangers.
 Отис: Ах, прошу прощения за задержку с приёмом, дорогие незнакомцы.
 
 # Original: Though it may be rather discourteous of me to advise you this, I must inform you that this manor is currently not receiving any uninvited guests.
-Отис: Хотя это может показаться довольно невежливым с моей стороны советовать вам это, я должна сообщить, что это поместье в настоящее время не принимает незваных гостей.
+Отис: Хотя это может показаться довольно невежливым с моей стороны, я должна сообщить, что это поместье в настоящее время не принимает незваных гостей.
 
 # Original: The Butlers began preparing for combat the moment the child finished her sentence.
 Рассказчик: Дворецкие начали готовиться к бою, как только дитя закончила свою фразу.
