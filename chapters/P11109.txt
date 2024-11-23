@@ -2,7 +2,7 @@
 Отис: Неверно. Использование техники пуантализма значительно усилит эту область. Следуя методологии фовистов, как вы предложили, мы получим слишком мало деталей в левой части кадра. Что, ваша безвкусная звериная маска затуманивает зрение? Неужели так сложно понять, что ваша техника сделает итоговую работу несбалансированной?
 
 # Original: Is that all you can glean from the striking use of primary colors? I should've known better than to expect even an ounce of nuance from a dotting machine of the Pointillists.
-Рассказчик: И это все, что вы можете извлечь из яркого использования основных цветов? Мне следовало бы знать, что не стоит ожидать даже унции нюанса от точечной машины пуанталистов.
+Рассказчик: И это все, что вы можете извлечь из ударного использования основных цветов? Мне следовало бы знать, что не стоит ожидать даже унции нюанса от точечной машины пуанталистов.
 
 # Original: A dotting machine? Hah. We depict the flow of light without letting garish colors and overcomplicated lines crowd the image. It is not mechanical; it is merely rational.
 Отис: Точечная машина? Ха. Мы изображаем поток света, не позволяя кричащим цветам и перегруженным линиям загромождать изображение. Это не механически; это просто рационально.
@@ -20,7 +20,7 @@
 Рассказчик: ... быть частью Безымянного Пальца значит быть гордым. Эти разговоры редко когда заканчивались дружелюбно.
 
 # Original: Fine. Let's talk about 'depth', then. Wouldn't you say that the works of us Cubists, which seek to incorporate and hold the three-dimensionality within a single gaze, far surpass anything that your faction could come up with in that regard?
-Рассказчик: Хорошо. Давайте поговорим о "глубине". Не считаете ли вы, что работы нас, кубистов, стремящиеся включить и удержать трехмерность в одном взгляде, далеко превосходят все, что ваша фракция могла бы придумать в этом отношении?
+Рассказчик: Хорошо. Давайте тогда поговорим о "глубине". Разве вы не сказали бы, что работы нас, кубистов, стремящиеся включить и удержать трехмерность в одном взгляде, далеко превосходят всё, чего ваша фракция могла бы достичь в этом аспекте?
 
 # Original: Fine. I'll admit that there is a certain 'depth' to Cubist art.
 Отис: Ладно. Я признаю, что в кубистском искусстве есть определенная "глубина".
@@ -44,7 +44,7 @@
 Отис: ... Я полагаю, что вы неверно представляете серьезность моих утверждений.
 
 # Original: In truth, my belief is that the work of each Maestro is incomparable to one another in their ineffable profoundness, regardless of which faction they represent. I wouldn't even dare to discuss the notion of objective superiority of one art over the other.
-Отис: На самом деле, я верю, что работа каждого Маэстро несравнима друг с другом в своей невыразимой глубине, независимо от того, какую фракцию они представляют. Я бы даже не осмелилась обсуждать понятие объективного превосходства одного искусства над другим.
+Отис: На самом деле, я верю в то, что работа каждого Маэстро несравнима друг с другом в своей невыразимой глубине, независимо от того, какую фракцию они представляют. Я бы даже не осмелилась обсуждать понятие объективного превосходства одного искусства над другим.
 
 # Original: The child added the last bit in an effort to douse the flames she started.
 Рассказчик: Дитя добавила последнюю часть в попытке погасить пламя, которое она разожгла.
@@ -59,25 +59,25 @@
 Рассказчик: …….
 
 # Original: Besides... our deadline is coming up, and these unproductive arguments are costing us precious time. We don't want to miss the deadline, do we?
-Отис: Кроме того... наш срок приближается, и эти непродуктивные споры отнимают у нас драгоценное время. Мы ведь не хотим пропустить дедлайн, верно?
+Отис: Кроме того... крайний срок приближается, и эти непродуктивные споры отнимают у нас драгоценное время. Мы ведь не хотим его пропустить, не так ли?
 
 # Original: Right. I don't even want to think about what'd happen...
 Рассказчик: Верно. Я даже не хочу думать о том, что могло бы случиться...
 
 # Original: Good, we're in agreement. Then we should at least get through the rough sketch first. All of you! Quit gawking and return to your positions! Let's get it done.
-Отис: Хорошо, мы пришли к согласию. Тогда мы должны хотя бы закончить черновой эскиз. Все вы! Хватит глазеть и возвращайтесь на свои места! Давайте сделаем это.
+Отис: Хорошо, мы пришли к согласию. Тогда мы должны закончить хотя бы с черновым эскизом. Все вы! Хватит глазеть и возвращайтесь на свои места! Давайте сделаем это.
 
 # Original: If there was one thing everyone in the room agreed on... it was that they did NOT want to miss the deadline. They all quickly returned to their seats, lightly trembling from the sheer thought of the consequences.
-Рассказчик: Если и было что-то, с чем все в комнате соглашались... то это то, что они НЕ хотели пропустить дедлайн. Все быстро вернулись на свои места, слегка дрожа от одной мысли о последствиях.
+Рассказчик: Если и было что-то, с чем все в комнате были согласны... это то, что они НЕ хотели пропустить дедлайн. Все быстро вернулись на свои места, слегка дрожа от одной мысли о последствиях.
 
 # Original: It was a pretty weak defense, but it was precisely what she needed to say to divert people away from this argument.
-Рассказчик: Это была довольно слабая защита, но именно это ей нужно было сказать, чтобы отвлечь людей от этого спора.
+Рассказчик: Это была довольно слабая защита, но это именно то, что ей нужно было сказать, чтобы отвлечь людей от этого спора.
 
 # Original: After all, it was true that they didn't have much time to complete the task. Failing to meet the deadline would be... extremely unpleasant, to say the least.
-Рассказчик: В конце концов, было правдой, что у них не было много времени для выполнения задания. Не уложиться в срок было бы... крайне неприятно, мягко говоря.
+Рассказчик: В конце концов, то, что у них не было много времени для выполнения задания было правдой. Не уложиться в срок было бы... крайне неприятно, мягко говоря.
 
 # Original: Besides, she had other responsibilities to attend to, aside from this particular task.
-Рассказчик: Кроме того, у нее были и другие обязанности, помимо этой конкретной задачи.
+Рассказчик: Кроме того, помимо этой конкретной задачи - у нее были и другие обязанности.
 
 # Original: ... Next.
 Отис: ... Следующий.
@@ -95,10 +95,10 @@
 Рассказчик: Н-нет! Пожалуйста, посмотрите внимательнее. Там есть...
 
 # Original: The child reached out and wiped the blood off the artwork with her hand.
-Рассказчик: Дитя протянула руку и стерла кровь с произведения искусства своей рукой.
+Рассказчик: Дитя протянуло руку и стерло кровь с произведения искусства своей рукой.
 
 # Original: Once the wet blood was wiped clean, she could see the painting the civilian drew using his own blood.
-Рассказчик: Когда мокрая кровь была стерта, она увидела картину, которую гражданский нарисовал своей собственной кровью.
+Рассказчик: Когда мокрая кровь была стерта, она увидела картину, которую гражданский нарисовал своей кровью.
 
 # Original: Did you really think that this uninspired garbage would earn you the protection of the Ring?
 Отис: Вы действительно думали, что эта бездарная мазня заслужит вам защиту Безымянного Пальца?
@@ -110,7 +110,7 @@
 Рассказчик: Дитя бессердечно плюет на гражданского, который едва мог стоять из-за тяжелой анемии.
 
 # Original: I won't hear any more excuses. I'm failing you.
-Отис: Я не буду слушать больше оправданий. Я ставлю вам неуд.
+Отис: Я больше не буду слушать никаких оправданий. Я ставлю вам "неудовлетворительно".
 
 # Original: ... For the third time.
 Отис: ... В третий раз.
@@ -125,16 +125,16 @@
 Рассказчик: А третья неудача...
 
 # Original: Any last words?
-Отис: Есть последние слова?
+Отис: Ваши последние слова?
 
 # Original: I-I'll paint over it! Please, I can improve it! Just give me a chance—
 Рассказчик: Я-я перерисую! Пожалуйста, я могу улучшить это! Просто дайте мне шанс—
 
 # Original: Oh, you're going to 'paint over' this art you presented before me as complete? I don't need to waste any more time on someone who doesn't even have an ounce of pride for their own work.
-Отис: О, вы собираетесь "перерисовать" это искусство, которое вы представили мне как законченное? Мне не нужно тратить больше времени на кого-то, у кого нет даже унции гордости за свою работу.
+Отис: О, вы собираетесь "перерисовать" это художество, которое вы представили мне как завершённое? Я не собираюсь тратить время на кого-то, у кого нет даже унции гордости за свою работу.
 
 # Original: The child picked up the large weapon she had left leaning on the wall, and slowly brought it toward the civilian who was sobbing and screaming with terror.
-Рассказчик: Дитя подняла большое оружие, которое она оставила прислоненным к стене, и медленно направила его к гражданскому, который рыдал и кричал от ужаса.
+Рассказчик: Дитя подняло большое оружие, которое оно оставило прислоненным к стене, и медленно направила его к гражданскому, который рыдал и кричал от ужаса.
 
 # Original: It needn't be said that the civilian was never seen nor heard from again.
 Рассказчик: Нет нужды говорить, что гражданского больше никогда не видели и не слышали.
@@ -143,13 +143,13 @@
 Отис: Следующий.
 
 # Original: ... Hm. Not bad. I see some potential there. I'll give you a C+.
-Отис: ... Хм. Неплохо. Я вижу здесь некоторый потенциал. Я поставлю вам C+.
+Отис: ... Хм. Неплохо. Я вижу здесь некоторый потенциал. Я поставлю вам "удовлетворительно" с плюсом.
 
 # Original: Thank you, ma'am. Thank you...!
 Рассказчик: Спасибо, мэм. Спасибо...!
 
 # Original: What's this now? You made a sculpture with your son's amputated arms? How bland.
-Отис: Что это теперь? Вы сделали скульптуру из ампутированных рук вашего сына? Как банально.
+Отис: Что тут у нас? Вы сделали скульптуру из ампутированных рук вашего сына? Как банально.
 
 # Original: She rarely ever takes more than 10 seconds to review and grade each submission.
 Рассказчик: Она редко тратит более 10 секунд на просмотр и оценку каждой работы.
@@ -158,13 +158,13 @@
 Рассказчик: Конечно, многие протестуют против ее быстрых оценок, но...
 
 # Original: ... all she can think about is her own unfinished task waiting for her back at the atelier. She had to get this business over with as soon as possible.
-Рассказчик: ... все, о чем она может думать, это ее собственное незаконченное задание, ожидающее ее в ателье. Ей нужно было покончить с этим делом как можно скорее.
+Рассказчик: ... все, о чем она может думать, это ее незаконченное задание, ожидающее в ателье. Ей нужно было покончить с этим делом как можно скорее.
 
 # Original: Perhaps the civilian standing in line felt the child's cold gaze.
-Рассказчик: Возможно, гражданский, стоящий в очереди, почувствовал холодный взгляд дитя.
+Рассказчик: Возможно, стоящий в очереди гражданский почувствовал холодный взгляд дитя.
 
 # Original: The civilian holds his amputated son in his arms and awaits the child's assessment. His eyes are shut tight in terrified anticipation.
-Рассказчик: Гражданский держит на руках своего ампутированного сына и ждет оценки дитя. Его глаза крепко зажмурены в ужасном предвкушении.
+Рассказчик: Гражданский держит на руках своего ампутированного сына и ждет оценки дитя. Его глаза крепко зажмурены в ужасном предчувствии.
 
 # Original: And the child's judgment... was as merciless as the civilian had expected.
 Рассказчик: И суждение дитя... было таким же безжалостным, как и ожидал гражданский.
