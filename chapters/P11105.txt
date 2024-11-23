@@ -1,5 +1,5 @@
 ﻿# Original: I'll rip you to pieces!
-Отис: Я тебя на куски порву!
+Отис: Я порву тебя на куски!
 
 # Original: The thing emitted a series of sounds one wouldn't expect to hear from a machine. Soon, sparks flew and something ripped apart from it with a loud tearing noise.
 Рассказчик: Из механизма донеслись звуки, которые можно было бы назвать весьма нехарактерными. Вскоре из него вылетели искры и с громким скрежетом от него было что-то оторвано.
@@ -20,7 +20,7 @@
 Рассказчик: Дитя вздохнуло и черкануло что-то в маленьком блокноте.
 
 # Original: ... And made her way back to the Office.
-Рассказчик: После чего поспешно его убрало и вернулось в офис.
+Рассказчик: После чего поспешно его убрало и вернулось в Офис.
 
 # Original: The note said [Open Contract 4/4].
 Рассказчик: В блокноте была запись [Общие контракты 4/4].
@@ -29,19 +29,19 @@
 Рассказчик: Помимо этого было несколько записей, именуемых как "частные контракты".
 
 # Original: The child's relatively small Fixer Office was flooded with a decent amount of daily contracts. To the point where it rivaled the workload of some Associations' lower ranking Sections.
-Рассказчик: Для относительно малого по количеству корректировщиков офиса в него каждый день приходил целый поток контрактов. В некотором роде его можно было бы сравнить с некоторыми секциями ассоциаций низкого ранга.
+Рассказчик: Относительно небольшой Офис Корректировщиков дитя был ежедневно наводнён приличным количеством контрактов. До такой степени, что мог бы посоперничать с рабочей нагрузкой секций низкого ранга некоторых Ассоциаций.
 
 # Original: Huhh... What am I even doing? This busyness isn't at all what I wanted when I started my own Fixer Office...
-Отис: Ха-а-а… Не такая занятость была у меня в голове, когда создавала этот офис.
+Отис: Ха-а-а… Что я вообще делаю? Не такая занятости я желала, когда создавала свой Офис.
 
 # Original: While Offices and Associations are both Fixer organizations, the minutiae of their workings were somewhat different.
-Рассказчик: Хоть и офисы, и ассоциации являются организациями корректировщиков, детали их работы несколько отличаются.
+Рассказчик: Хоть и Офисы, и Ассоциации являются организациями корректировщиков, детали их работы несколько отличаются.
 
 # Original: It's not entirely correct to say that Associations are naturally superior to Offices, though they employ many more Fixers and operate on a larger scale. This is why many offices maintain an Associate relationship with the Associations.
-Рассказчик: Не совсем правильным будет говорить, что ассоциации всегда важнее офисов, но они определённо набирают больше корректировщиков и охватывают бо́льшую площадь… Именно поэтому многие офисы сотрудничают с ассоциациями.
+Рассказчик: Не совсем правильным будет говорить, что Ассоциации всегда превосходят Офисы, но они определённо набирают больше Корректировщиков и действуют в более крупных масштабах… Именно поэтому многие Офисы сотрудничают с Ассоциациями.
 
 # Original: Many assume that Offices' primary source of income is from private contracts. But even that isn't easy to snag when the Office hasn't made a name for itself yet.
-Рассказчик: Многие думают, что офисы в основном зарабатывают за счёт частных контрактов, однако если сам офис себе имя ещё не сделал, это оказывается довольно проблематичным.
+Рассказчик: Многие думают, что Офисы в основном зарабатывают за счёт частных контрактов, однако если сам Офис ещё не сделал себе имя, это оказывается довольно проблематичным.
 
 # Original: So fledgling Offices often take what are known as "Open Contracts".
 Рассказчик: Поэтому новые офисы часто берут "общие контракты".
