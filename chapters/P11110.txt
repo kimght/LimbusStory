@@ -50,10 +50,10 @@
 Отис: Это потому, что они снизили цены на билеты и расширили эконом-класс.
 
 # Original: More passengers equals more bad apples among the bunch. It's hardly a surprise that we're getting stranger variety of passengers.
-Отис: Больше пассажиров означает больше паршивых овец в стаде. Неудивительно, что мы сталкиваемся со все более странными разновидностями пассажиров.
+Отис: Больше пассажиров означает больше паршивых овец в стаде. Неудивительно, что мы сталкиваемся со все более странными их разновидностями.
 
 # Original: Yet that may hardly be an explication for the increasingly recurrent delays.
-И Сан: Однако это едва ли может служить объяснением все более частых задержек.
+И Сан: Однако это едва ли может служить объяснением всё более частых задержек.
 
 # Original: Hmph. Must be the aftermath of 'the incident' on the train they told us to not talk about. That's why those idiots riding first class—
 Рёшу: Хмф. Должно быть, это последствия "инцидента" в поезде, о котором нам приказали не говорить. Вот почему эти идиоты, едущие первым классом—
@@ -62,7 +62,7 @@
 Отис: Достаточно.
 
 # Original: We have all been given a non-disclosure order. Let's not go poking the hornet's nest for no reason.
-Отис: Нам всем дан приказ о неразглашении. Давайте не будем без причины ворошить осиное гнездо.
+Отис: Нам всем дан приказ о неразглашении. Давайте не будем ворошить осиное гнездо.
 
 # Original: Haah...
 Рёшу: Хаах...
@@ -74,7 +74,7 @@
 Отис: …….
 
 # Original: The child had an inkling as to what might have happened.
-Рассказчик: У дитя была догадка о том, что могло произойти.
+Рассказчик: Дитя имело слабое представление о том, что могло произойти.
 
 # Original: First class ticket sales have been steadily declining ever since 'the incident' from a few years ago.
 Рассказчик: Продажи билетов первого класса неуклонно снижаются с момента "инцидента", произошедшего несколько лет назад.
@@ -146,7 +146,7 @@
 Рассказчик: И поскольку она знала характер дитя с впалыми глазами, она позволила ему заняться сражением с пассажирами.
 
 # Original: There might be an ambush, so keep your charge barriers up. Rip space every time you've got enough charge to tear open barricaded doors.
-Отис: Там может быть засада, так что держи барьеры заряда активными. Разрывай пространство каждый раз, когда у тебя достаточно заряда чтобы пробить забаррикадированные двери.
+Отис: Там может быть засада, так что держи барьеры заряда активными. Разрывай пространство каждый раз, когда у тебя достаточно заряда чтобы сорвать забаррикадированные двери.
 
 # Original: Thanks to the child's methodical and systematic employment of her subordinates and their W Corp. issued weapons, her team usually blitzes through the train cars at a much faster pace than the estimates written on the employee manual.
 Рассказчик: Благодаря методичному и систематическому использованию дитя своих подчиненных и их оружия, выданного Корпорацией W, ее команда как обычно проносится через вагоны поезда гораздо быстрее, чем предполагает время, указанное в руководстве сотрудника.
@@ -266,7 +266,7 @@
 Рассказчик: Дитя низко натянуло кепку на лицо, положило буклет на сиденье и отвернулось.
 
 # Original: No matter how much labor upon labor I endure, I can't seem to go back. Not in ten years, let alone ten seconds...
-Отис: Сколько бы работы я ни выносила, я, кажется, не могу вернуться. Даже за десять лет, не говоря уже о десяти секундах...
+Отис: Сколько бы тяжёлого труда я ни выносила, я, кажется, не могу вернуться. Даже за десять лет, не говоря уже о десяти секундах...
 
 # Original: The return journey is always so far and so... unforgiving.
 Отис: Обратный путь всегда такой далекий и такой... беспощадный.
