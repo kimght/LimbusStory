@@ -11,7 +11,7 @@
 Рассказчик: Как Корректировщик, она участвовала в миссиях и сражалась в битвах…
 
 # Original: She would hurt others, and she would be wounded by others.
-Рассказчик: Она причиняла боль другим и сама получала ранения от других.
+Рассказчик: Она причиняла боль другим и получачала от них ранения.
 
 # Original: This child wasn’t unskilled by any means. If she were, she wouldn’t have gotten this far, right?
 Рассказчик: Это дитя ни в коем случае не было неумелым. Если бы это было так, она бы не зашла так далеко, верно?
@@ -38,7 +38,7 @@
 Отис: Это я. Ты поблизости?
 
 # Original: In a series of gestures as natural as flowing water, the child picked up the phone and made a call.
-Рассказчик: Серией жестов, таких же естественных, как текущая вода, дитя взяло телефон и сделало звонок.
+Рассказчик: Серией жестов, столь же естественных, как текущая вода, дитя взяло телефон и сделало звонок.
 
 # Original: Fieldwork, huh… Yeah, I figured. It was the higher-ups, wasn’t it?
 Отис: Полевая работа, да? Да, я так и думала. Это было руководство, не так ли?
