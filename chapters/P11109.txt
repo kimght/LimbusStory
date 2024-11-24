@@ -32,13 +32,13 @@
 Рассказчик: Насмешки дитя разворошили метафорическое осиное гнездо; ателье быстро превратилось в хаотичный беспорядок.
 
 # Original: A chaotic mess of indignant and intense arguments about the artistic and technical superiority of each of their factions.
-Рассказчик: Хаотичный беспорядок возмущенных и интенсивных споров об художественном и техническом превосходстве каждой из их фракций.
+Рассказчик: Хаотичный беспорядок возмущенных и интенсивных споров о художественном и техническом превосходстве каждой из их фракций.
 
 # Original: In the midst of that chaos, the Fauvist from earlier suddenly asked the child a rather pointed question.
 Рассказчик: Посреди этого хаоса фовист, о котором говорилось ранее, внезапно задал дитя довольно острый вопрос.
 
 # Original: ... So you claim that... 'Pointillism' art stands above that of every other faction? Is that it?
-Рассказчик: ... Так вы утверждаете, что... искусство "пуантализма" стоит выше искусства всех других фракций? Это так?
+Рассказчик: ... Так вы утверждаете, что... искусство "пуантализма" стоит выше всех других фракций? Это так?
 
 # Original: ... I believe that you are misrepresenting the severity of my assertions.
 Отис: ... Я полагаю, что вы неверно представляете серьезность моих утверждений.
@@ -131,7 +131,7 @@
 Рассказчик: Я-я перерисую! Пожалуйста, я могу улучшить это! Просто дайте мне шанс—
 
 # Original: Oh, you're going to 'paint over' this art you presented before me as complete? I don't need to waste any more time on someone who doesn't even have an ounce of pride for their own work.
-Отис: О, вы собираетесь "перерисовать" это художество, которое вы представили мне как завершённое? Я не собираюсь тратить время на кого-то, у кого нет даже унции гордости за свою работу.
+Отис: О, вы собираетесь "перерисовать" это художество, которое вы представили мне как завершённое? Я не собираюсь тратить время на того, у кого нет даже унции гордости за свою работу.
 
 # Original: The child picked up the large weapon she had left leaning on the wall, and slowly brought it toward the civilian who was sobbing and screaming with terror.
 Рассказчик: Дитя подняло большое оружие, которое оно оставило прислоненным к стене, и медленно направила его к гражданскому, который рыдал и кричал от ужаса.
