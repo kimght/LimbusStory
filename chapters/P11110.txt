@@ -14,13 +14,13 @@
 Отис: Нет. Новобранцы не готовы иметь дело с таким поездом. Мы ведь здесь не для того, чтобы разбираться с обычными "самоубийцами", верно?
 
 # Original: I.A. The B.S. duty'll only get in our way.
-Рёшу: С.Г. Н.Д. только будут путаться под ногами.
+Рёшу: С.Г. Н.Д. будет только мешать нам.
 
 # Original: If the passengers have retained enough sense to barricade themselves behind the train doors, then it is likely that they also retained a degree of intelligence. Keep your guards up.
 Отис: Если пассажиры сохранили достаточно рассудка, чтобы забаррикадироваться за дверями поезда, то вероятно, они также сохранили некоторую степень интеллекта. Будьте начеку.
 
 # Original: Today was supposed to be a day for new recruits to get one of their first tastes of fieldwork.
-Рассказчик: Сегодня должен был быть день, когда новобранцы получат один из первых опытов полевой работы.
+Рассказчик: Сегодня должен был быть день, когда новобранцы получат первый опыт полевой работы.
 
 # Original: The child had been preparing herself to employ her stern, commanding voice against the new recruits who will doubtless show frustrating degrees of clumsiness commonly seen with trainees on their first jobs, but...
 Рассказчик: Дитя готовилось использовать свой строгий, командный голос против новобранцев, которые, несомненно, проявят раздражающую степень неуклюжести, обычно наблюдаемую у стажеров на первых заданиях, но...
@@ -62,19 +62,19 @@
 Отис: Достаточно.
 
 # Original: We have all been given a non-disclosure order. Let's not go poking the hornet's nest for no reason.
-Отис: Нам всем дан приказ о неразглашении. Давайте не будем зря лезть в осиное гнездо.
+Отис: Нам всем дан приказ о неразглашении. Давайте не будем без причины ворошить осиное гнездо.
 
 # Original: Haah...
 Рёшу: Хаах...
 
 # Original: ... Hm. I'll accept it, as long as this gives me more opportunity to study art.
-Рёшу: ... Хм. Я приму это, если это даст мне больше возможностей для изучения искусства.
+Рёшу: ... Хм. Я приму это, пока это даёт мне больше возможностей для изучения искусства.
 
 # Original: …….
 Отис: …….
 
 # Original: The child had an inkling as to what might have happened.
-Рассказчик: У дитя было предчувствие о том, что могло произойти.
+Рассказчик: У дитя была догадка о том, что могло произойти.
 
 # Original: First class ticket sales have been steadily declining ever since 'the incident' from a few years ago.
 Рассказчик: Продажи билетов первого класса неуклонно снижаются с момента "инцидента", произошедшего несколько лет назад.
@@ -104,7 +104,7 @@
 Рассказчик: Эти мысли никому не помогут. Ни ей самой, ни ее подчиненным.
 
 # Original: Ripping space while the train is in operation may interfere with the dimensional coordinates... Once the train has come to a stop, employee hibernation pods must not... hm, wrong page.
-Отис: Разрыв пространства во время движения поезда может помешать пространственным координатам... После остановки поезда капсулы гибернации сотрудников не должны... хм, не та страница.
+Отис: Разрыв пространства во время движения поезда может вмешиваться в пространственные координаты... После остановки поезда капсулы гибернации сотрудников не должны... хм, не та страница.
 
 # Original: A multitude there are still, of clauses I understand ill.
 И Сан: Множество все еще остается пунктов, которые я понимаю плохо.
@@ -113,22 +113,22 @@
 Рассказчик: Уставшее дитя комментирует, глядя на руководство.
 
 # Original: W.C. Still trying to read between the lines?
-Рёшу: В.К. Все еще пытаешься читать между строк?
+Рёшу: К.Р. Все еще пытаешься читать между строк?
 
 # Original: Like I said, enough with the chatt— Ah, here it is. Standard cleanup time for 'factionalized' type is... an hour. We'll be cutting it close to the next arrival.
-Отис: Как я уже сказала, хватит болта— А, вот оно. Стандартное время уборки для типа "фракционированных" составляет... час. Мы будем впритык к следующему прибытию.
+Отис: Как я уже сказала, хватит болта— А, вот оно. Стандартное время зачистки для типа "фракционированных" составляет... час. Мы будем впритык к следующему прибытию.
 
 # Original: Crew, to positions. Let's wrap this up ASAP.
-Отис: Команда, по местам. Давайте закончим это как можно быстрее.
+Отис: Команда, по местам. Давайте закончим с этим как можно быстрее.
 
 # Original: The child's command is clear, concise, and effective.
 Рассказчик: Приказ дитя четкий, краткий и эффективный.
 
 # Original: When a door lodged in place by a mess of tangled veins and flesh blocked their path, she swiftly commanded them to open a dimensional rift. Every time a particularly nasty passenger appeared, she gave each of her subordinates maneuvers that best fit their weapon specializations.
-Рассказчик: Когда дверь, застрявшая из-за путаницы вен и плоти, преградила им путь, она быстро приказала открыть пространственный разрыв. Каждый раз, когда появлялся особенно неприятный пассажир, она давала каждому из своих подчиненных маневры, наиболее подходящие их специализации оружия.
+Рассказчик: Когда дверь, застрявшая из-за путаницы вен и плоти, преградила им путь, она быстро приказала открыть пространственный разрыв. Каждый раз, когда появлялся особенно неприятный пассажир, она отдавала каждому из своих подчиненных приказы на маневры, наиболее подходящие специализации их оружия.
 
 # Original: I'll give you extra time to observe this gallery once we're done patching our passengers together, so let's get to it.
-Отис: Я дам тебе дополнительное время для осмотра этой галереи, как только мы закончим собирать наших пассажиров, так что давай приступим.
+Отис: Я дам тебе дополнительное время для осмотра этой галереи, как только мы закончим собирать воедино наших пассажиров, так что давай приступим.
 
 # Original: Heh... Good.
 Рёшу: Хех... Хорошо.
@@ -137,28 +137,28 @@
 Рассказчик: Поскольку она знала, что курящее дитя не любило "портить" пассажиров, ей поручили сбор вен и плоти...
 
 # Original: Yi Sang, you're charged with clearing a path forward. Focus on neutralizing the passengers.
-Отис: И Сан, тебе поручено расчищать путь вперед. Сосредоточься на нейтрализации пассажиров.
+Отис: И Сан, ты расчищаешь путь вперед. Сосредоточься на нейтрализации пассажиров.
 
 # Original: That appears... patently preferable to the work assigned to my colleague.
-И Сан: Это кажется... явно предпочтительнее работы, назначенной моему коллеге.
+И Сан: Это кажется... явно предпочтительнее работы, назначенной моей коллеге.
 
 # Original: And because she knew the disposition of the sunken-eyed child, she let him take care of battling the passengers.
 Рассказчик: И поскольку она знала характер дитя с впалыми глазами, она позволила ему заняться сражением с пассажирами.
 
 # Original: There might be an ambush, so keep your charge barriers up. Rip space every time you've got enough charge to tear open barricaded doors.
-Отис: Может быть засада, так что держите барьеры заряда активными. Разрывайте пространство каждый раз, когда у вас достаточно заряда, чтобы разорвать забаррикадированные двери.
+Отис: Там может быть засада, так что держи барьеры заряда активными. Разрывай пространство каждый раз, когда у тебя достаточно заряда чтобы пробить забаррикадированные двери.
 
 # Original: Thanks to the child's methodical and systematic employment of her subordinates and their W Corp. issued weapons, her team usually blitzes through the train cars at a much faster pace than the estimates written on the employee manual.
-Рассказчик: Благодаря методичному и систематическому использованию дитя своих подчиненных и их оружия, выданного Корпорации W, ее команда обычно проносится через вагоны поезда гораздо быстрее, чем предполагают оценки, написанные в руководстве сотрудника.
+Рассказчик: Благодаря методичному и систематическому использованию дитя своих подчиненных и их оружия, выданного Корпорацией W, ее команда как обычно проносится через вагоны поезда гораздо быстрее, чем предполагает время, указанное в руководстве сотрудника.
 
 # Original: We're ahead of schedule again.
 Отис: Мы снова опережаем график.
 
 # Original: After thirty minutes of non-stop cleanup work, the child finally signaled them to stop.
-Рассказчик: После тридцати минут непрерывной уборки дитя наконец дало им сигнал остановиться.
+Рассказчик: После тридцати минут непрерывной зачистки дитя наконец дало им сигнал остановиться.
 
 # Original: A decision made in consideration of their weapons' charge levels and their wielders' growing fatigue.
-Рассказчик: Решение было принято с учетом уровня заряда их оружия и растущей усталости владельцев.
+Рассказчик: Решение было принято с учетом уровня заряда их оружия и растущей усталости его владельцев.
 
 # Original: Let's take five.
 Отис: Давайте сделаем перерыв на пять минут.
@@ -167,10 +167,10 @@
 И Сан: Ах... долгожданный...
 
 # Original: The sleep-deprived child promptly closes his eyes in welcome relief. The other child takes this chance to pull out a new cigarette.
-Рассказчик: Дитя, страдающее от недосыпа, тут же закрывает глаза с облегчением. Другое дитя пользуется этим шансом, чтобы достать новую сигарету.
+Рассказчик: Дитя, страдающее от недосыпа, тут же с облегчением закрывает глаза. Другое дитя пользуется этим шансом, чтобы достать новую сигарету.
 
 # Original: Puff. The passengers of this car are all diced in interesting shapes.
-Рёшу: Пфф. Пассажиры этого вагона все нарезаны интересными формами.
+Рёшу: Пфф. Пассажиры этого вагона нарезаны интересными формами.
 
 # Original: It's evidence that the passengers used certain cars as prisons or torture dungeons. These signs are often discovered among passengers who have created factions.
 Отис: Это доказательство того, что пассажиры использовали определенные вагоны как тюрьмы или камеры пыток. Такие признаки часто обнаруживаются среди пассажиров, создавших фракции.
@@ -182,13 +182,13 @@
 Отис: Не обращай на меня внимания. Я отдыхаю по-своему. Это просто... моя привычка.
 
 # Original: No, the child wasn't resting. She was piecing together the shredded parts of the passengers.
-Рассказчик: Нет, дитя не отдыхало. Оно собирало разорванные части пассажиров.
+Рассказчик: Нет, дитя не отдыхало. Оно собирало воедино разорванные части пассажиров.
 
 # Original: She used her weapons' charges efficiently, so they won't be losing their charges anytime soon. Besides, it would take more work than that for her to need a real break.
 Рассказчик: Оно эффективно использовало заряды своего оружия, так что они не потеряют заряд в ближайшее время. Кроме того, понадобилось бы гораздо больше работы, чтобы ему потребовался настоящий перерыв.
 
 # Original: A part of this behavior was that she wanted the other children to rest, yes, but another part of it was that she wanted to get as much work done as possible.
-Рассказчик: Отчасти это поведение было связано с тем, что оно хотело, чтобы другие дети отдохнули, да, но другая часть заключалась в том, что оно хотело сделать как можно больше работы.
+Рассказчик: Да, отчасти это поведение было связано с тем, что оно хотело, чтобы другие дети отдохнули, но другая часть заключалась в том, что оно хотело сделать как можно больше работы.
 
 # Original: That's when the child felt a nigh-imperceptible tremor under her feet.
 Рассказчик: Именно тогда дитя почувствовало почти незаметную дрожь под ногами.
@@ -203,7 +203,7 @@
 Отис: Я тоже это слышу. Наша позиция раскрыта.
 
 # Original: A passenger decorated with blood-painted bones shambled into their view, flinging chunks of flesh all over them, as if to confirm their suspicions.
-Рассказчик: Пассажир, украшенный костями, покрытыми кровью, вошел в их поле зрения, разбрасывая куски плоти повсюду, словно подтверждая их подозрения.
+Рассказчик: Cловно подтверждая их подозрения, пассажир, украшенный костями, покрытыми кровью, вошёл в их поле зрения, разбрасывая повсюду куски плоти.
 
 # Original: Tsk. Conceited for an unfinished piece...
 Рёшу: Тск. Самонадеянно для незаконченного произведения...
@@ -221,16 +221,16 @@
 Отис: Не дай себя убить, размахивая этим недозаряженным оружием.
 
 # Original: The artistic merit of my D.D.E.D.R. shines only when my blood drenches its—
-Рёшу: Художественные достоинства моего Д.Д.Е.Д.Р. сияют только когда моя кровь орошает его—
+Рёшу: Художественные достоинства моего Д.Д.Е.Д.Р. блистают только когда моя кровь орошает его—
 
 # Original: Denied. Take a seat if you're even remotely serious about using that weapon. Leave this one to me.
-Отис: Отказано. Садись, если ты хоть немного серьезно относишься к использованию этого оружия. Оставь этого мне.
+Отис: Отказано. Сядь, если ты хоть немного серьезно относишься к использованию этого оружия. Оставь этого мне.
 
 # Original: Violet glow dances around the child's gauntlets before a powerful materialization of force gathers around her gauntlets, almost appearing to refract the very space it inhabits...
 Рассказчик: Фиолетовое свечение танцует вокруг перчаток дитя, прежде чем мощная материализация силы собирается вокруг его перчаток, почти преломляя само пространство, которое она занимает...
 
 # Original: ... and in a flash, the fist blasts the passenger from one end to the other end of the train car, exploding its body into a thousand chunks of meat and gore.
-Рассказчик: ... и в мгновение ока кулак взрывает пассажира с одного конца вагона на другой, разрывая его тело на тысячу кусков мяса и внутренностей.
+Рассказчик: ... и в мгновение ока кулак выносит пассажира с одного конца вагона на другой, разрывая его тело на тысячу кусков мяса и внутренностей.
 
 # Original: ... I don't enjoy jigsaw puzzles.
 Рёшу: ... Я не люблю пазлы.
@@ -251,22 +251,22 @@
 Рёшу: Хех, похоже, у меня будет достаточно времени, чтобы полюбоваться галереей, пока новички будут убирать незаконченные произведения искусства с моих глаз.
 
 # Original: The child opens her mouth, about to give them a stern talking-to about basing their optimism on practically nothing... before a fallen advertisement pamphlet catches her eye.
-Рассказчик: Дитя открывает рот, собираясь дать им строгий выговор за то, что они основывают свой оптимизм практически ни на чем... прежде чем его взгляд привлекает упавший рекламный буклет.
+Рассказчик: Дитя открывает рот, собираясь сделать им строгий выговор за то, что они основывают свой оптимизм практически ни на чем... прежде чем его взгляд привлекает упавший рекламный буклет.
 
 # Original: …….
 Отис: …….
 
 # Original: Ten seconds to anywhere, is it.
-Отис: Десять секунд до любого места, да?
+Отис: Десять секунд до любого места, не так ли?
 
 # Original: The WARP train advertisement pamphlet endured the years, refusing to weather away despite the immeasurable passage of time.
-Рассказчик: Рекламный буклет ВАРП поезда пережил годы, отказываясь выветриваться, несмотря на неизмеримый ход времени.
+Рассказчик: Рекламный буклет ВАРП поезда пережил годы, отказываясь истлевать, несмотря на неизмеримый ход времени.
 
 # Original: The child pulled her cap low over her face and placed the pamphlet on a seat. She looked away.
-Рассказчик: Дитя низко натянуло кепку на лицо и положило буклет на сиденье. Оно отвернулось.
+Рассказчик: Дитя низко натянуло кепку на лицо, положило буклет на сиденье и отвернулось.
 
 # Original: No matter how much labor upon labor I endure, I can't seem to go back. Not in ten years, let alone ten seconds...
-Отис: Сколько бы труда за трудом я ни выносила, я, кажется, не могу вернуться назад. Ни за десять лет, не говоря уже о десяти секундах...
+Отис: Сколько бы работы я ни выносила, я, кажется, не могу вернуться. Даже за десять лет, не говоря уже о десяти секундах...
 
 # Original: The return journey is always so far and so... unforgiving.
 Отис: Обратный путь всегда такой далекий и такой... беспощадный.
