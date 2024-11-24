@@ -32,13 +32,13 @@
 Родион: Ты разве не знала? Солнечный свет — не единственный враг гладкости кожи. Твоё жесткое освещение тоже не помогает.
 
 # Original: The other child was garbed in a garish purple dress and carried a large parasol with her. She replies, but doesn't look terribly interested.
-Рассказчик: Другое дитя было одето в кричаще-фиолетовое платье и несло с собой большой зонтик. Оно ответело, но не выглядело особо заинтересованно.
+Рассказчик: Другое дитя было одето в кричаще-фиолетовое платье и несло с собой большой зонтик. Оно ответило, но не выглядело особо заинтересованно.
 
 # Original: She did not raise her head even once from her nails to look at the child, clearly uninterested in anything else that wasn't her.
 Рассказчик: Оно ни разу не подняло голову от своих ногтей, чтобы взглянуть на дитя, явно не интересуясь ничем, кроме себя.
 
 # Original: ... Hmph. I won't deny that.
-Отис: ... Хмф. Не буду отрицать этого.
+Отис: ... Хмф. Не буду этого отрицать.
 
 # Original: So, what brings you to the tailor's room? Isn't the Parade beginning soon?
 Отис: Итак, что привело тебя в комнату портного? Разве скоро не начнется Парад?
@@ -68,7 +68,7 @@
 Рассказчик: Так что, к сожалению, у неё не было выбора. Ей пришлось посетить комнату портного.
 
 # Original: That is simply impossible! I measure and review every single thread that passes through my hands; not to mention that your costume was the one I put my utmost—
-Отис: Это просто невозможно! Я измеряю и проверяю каждую нить, которая проходит через мои руки; не говоря уже о том, что твой костюм был тем, в который я вложила все свои—
+Отис: Это просто невозможно! Я измеряю и проверяю каждую нить, которая проходит через мои руки; не говоря уже о том, что в твой костюм я вложила все свои—
 
 # Original: It's gotten loose down here.
 Родион: Он стал мне велик.
@@ -95,7 +95,7 @@
 Отис: Но я беспокоюсь, что твое прекрасное лицо может осунуться.
 
 # Original: Then I'll leave that up for you to deal with. It's your job to make me look cute, after all.
-Родион: Тогда я оставлю это на твое усмотрение. В конце концов, твоя работа — делать меня милой.
+Родион: Тогда я оставлю это на твое усмотрение. В конце концов, делать меня милой — твоя работа.
 
 # Original: How about a beautiful mask for me?
 Родион: Как насчет красивой маски?
@@ -128,7 +128,7 @@
 Родион: Я вижу, что твои портновские ножницы тоже выросли благодаря крови.
 
 # Original: Heh, that's why these scissors work so well now.
-Отис: Хех, вот почему эти ножницы теперь работают так хорошо.
+Отис: Хех, вот почему эти ножницы теперь так хорошо работают.
 
 # Original: For a moment, the pair seemed to be reminiscing a certain shared memory together...
 Рассказчик: На мгновение пара, казалось, предавалась воспоминаниям о каком-то общем переживании...
