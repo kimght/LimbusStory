@@ -98,7 +98,7 @@
 Рассказчик: Оно отдало бы что угодно, если бы могло вернуться. Даже самые жестокие условия были бы милостью и благословением.
 
 # Original: The bullet will pierce everyone, everything that stands in her way. In the end, it will return with her to her home.
-Рассказчик: Пуля пронзит всех и всё, что встанет на её пути. В конце концов, она вернётся с ним домой.
+Рассказчик: Пуля пронзит всех и всё, что встанет на её пути. В конце концов, она вернётся с ней домой.
 
 # Original: It will fly past all those that the child loved, even those that she loved when she could not...
 Рассказчик: Она пролетит мимо всех, кого любило дитя, даже тех, кого оно любило, когда не могло...
