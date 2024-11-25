@@ -11,7 +11,7 @@
 Рассказчик: Пока дитя медленно прогуливалось по переулку, женщина с небольшим блокнотом следовала прямо за ней.
 
 # Original: She also brought me on a 30-minute-long stroll through the alleyways, actually. Like we're doing now.
-Рассказчик: На самом деле, она также повела меня на 30-минутную прогулку по переулкам. Прямо как мы сейчас.
+Рассказчик: На самом деле, она также повела меня на 30-минутную прогулку по переулкам.
 
 # Original: Oh, my apologies. Perhaps this interview would have been better conducted at a proper reception room...
 Отис: О, прошу прощения. Возможно, это интервью лучше было бы провести в подобающей приемной...
