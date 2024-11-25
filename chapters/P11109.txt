@@ -95,7 +95,7 @@
 Рассказчик: Н-нет! Пожалуйста, посмотрите внимательнее. Там есть...
 
 # Original: The child reached out and wiped the blood off the artwork with her hand.
-Рассказчик: Дитя протянуло руку и стерло кровь с произведения искусства своей рукой.
+Рассказчик: Дитя протянуло руку и стерло кровь с произведения искусства.
 
 # Original: Once the wet blood was wiped clean, she could see the painting the civilian drew using his own blood.
 Рассказчик: Когда мокрая кровь была стерта, она увидела картину, которую гражданский нарисовал своей кровью.
