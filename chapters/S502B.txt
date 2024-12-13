@@ -1,5 +1,5 @@
 # Original: Now, men! Clear orders and solidarity are of paramount importance in times like these!
-Отис: Итак, матросы! Четкие приказы и солидарность имеют первостепенное значение в такие времена!
+Отис: Итак, матросы! В такие времена четкие приказы и солидарность имеют первостепенное значение!
 
 # Original: Right leg on 'HEAVE', left leg on 'HO'! Let's go!
 Отис: Правая нога на "РАЗ", левая на "ДВА"! Начали!
@@ -14,7 +14,7 @@
 Отис: РАЗ!
 
 # Original: ... HEAVE HO HOW is it fair that you get to stand there barkin' orders at us while we're pedaling our bums off?
-Хитклиф: ... РАЗ-ДВА-ТРИ, с какой это стати ты стоишь там и отдаешь нам приказы, пока мы тут педали крутим до посинения?
+Хитклиф: ... РАЗ-ДВА-ТРИ разве это честно, что ты стоишь там и отдаешь нам приказы, пока мы тут педали крутим до посинения?
 
 # Original: A most dimwitted question. A Captain must preserve her strength, or risk putting her subordinates in danger.
 Отис: Крайне глупый вопрос. Капитан должен сохранять силы, иначе рискует подвергнуть опасности своих подчиненных.
@@ -38,13 +38,13 @@
 Рёшу: Вот бы эти чертовы чайки уже отвалили.
 
 # Original: How 'bout we kidnap them seagulls and train them to pedal the generator?
-Хитклиф: А давайте похитим этих чаек и натренируем их крутить генератор?
+Хитклиф: А давайте похитим этих чаек и натренируем их крутить педали генератора?
 
 # Original: Oi, Faust! Smartarse! I thought you were a genius; make it so! That should be easy-peasy for your brilliant intellect, no?
 Хитклиф: Эй, Фауст! Умница! Я думал, ты гений; сделай так! Для твоего блестящего интеллекта это должно быть раз плюнуть, нет?
 
 # Original: I can make it happen, indeed. Yet I do not, as it is inefficient. Rudimentary toilet training will be the first step in making them viable as a consistent source of labor.
-Фауст: Фауст действительно может это сделать. Однако Фауст этого не делает, так как это неэффективно. Элементарное приучение к туалету будет первым шагом к тому, чтобы сделать их жизнеспособным источником постоянной рабочей силы.
+Фауст: Я могу это сделать, несомненно. Однако не делаю, так как это неэффективно. Элементарное приучение к туалету будет первым шагом к тому, чтобы сделать их жизнеспособным источником постоянной рабочей силы.
 
 # Original: Charon's bored. Charon wants to vroom-vroom.
 Харон: Харон скучно. Харон хочет врум-врум.
@@ -59,13 +59,13 @@
 Грегор: Хаах... Погодите...! Давайте немного подумаем об этом.
 
 # Original: Let's think about the actual reason we're sweating, pedaling the crap out of the generator, huh?
-Грегор: Давайте подумаем о настоящей причине, по которой мы потеем, крутя педали этого чертова генератора, а?
+Грегор: Давайте подумаем о настоящей причине, по которой мы потеем, крутя педали этого чертового генератора, а?
 
 # Original: ... To nitpick and seek someone to take the fall for every little thing is... a stinking thought. All that happens on the road to success is merely a part of the process.
 Отис: ... Придираться и искать козла отпущения за каждую мелочь... это подлая мысль. Все, что происходит на пути к успеху, является лишь частью процесса.
 
 # Original: Look, I'm not saying that we should play the blame game. I'm just wondering why we're pedaling so darn hard to begin with. It's not like there's something coming after us.
-Грегор: Слушай, я не говорю, что мы должны искать виноватых. Мне просто интересно, почему мы с самого начала так упорно крутим педали. Не похоже, что за нами кто-то гонится.
+Грегор: Слушай, я не говорю, что мы должны искать виноватых. Мне просто интересно, почему мы так усердно крутим педали, прежде всего. Не похоже, что за нами кто-то гонится.
 
 # Original: We're headed toward one of the largest ports of U Corp., and we know exactly where that is and how to get there.
 Грегор: Мы направляемся к одному из крупнейших портов Корпорации U, и мы точно знаем, где он находится и как туда добраться.
@@ -104,7 +104,7 @@
 Фауст: ...?
 
 # Original: Your foreknowledge of the laws of the Great Lake is an unexpected development, Rodion. Quite difficult to believe that, even with the consolidated experience, your intuition would—
-Фауст: Твое предварительное знание законов Великого Озера - неожиданное развитие событий, Родион. Довольно трудно поверить, что даже с накопленным опытом твоя интуиция могла бы—
+Фауст: Твое предвидение законов Великого Озера - неожиданное развитие событий, Родион. Довольно трудно поверить, что даже с накопленным опытом твоя интуиция могла бы—
 
 # Original: Sorry, sorry~ I just wanted to look like I was in on it for once. Girl gets tired of asking every time, ya know.
 Родион: Прости, прости~ Я просто хотела хоть раз выглядеть так, будто я в теме. Девушке надоедает постоянно спрашивать, знаешь ли.
@@ -122,13 +122,13 @@
 Хитклиф: Что, Озерная полиция придет и отшлепает непослушных мальчиков палкой за нарушение правил?
 
 # Original: There better be a law that lets me SYNC, whiny brat. My ears are starting to bleed.
-Рёшу: Лучше бы был закон, который позволял мне СИНХ, надоедливый мальчишка. Мои уши уже болят от твоего нытья.
+Рёшу: Лучше бы был закон, который позволял мне SYNC, плаксивый мальчишка. Мои уши уже болят от твоего нытья.
 
 # Original: 'Haah... Guys, knock it off.'
 Рассказчик: "Хаа... Ребята, прекратите."
 
 # Original: I could almost hear a well-timed sigh followed by honest but brutal, piercing words. It was like someone recorded her sigh and played it in my head.
-Рассказчик: Я почти слышал своевременный вздох, за которым последовали честные, но жестокие, пронзительные слова. Как будто кто-то записал её вздох и воспроизвел его в моей голове.
+Рассказчик: Я мог почти что услышать своевременный вздох, за которым последовали честные, но жестокие, резкие слова. Как будто кто-то записал её вздох и воспроизвел его в моей голове.
 
 # Original: But Ishmael was nowhere to be seen on the deck.
 Рассказчик: Но Измаил нигде не было видно на палубе.
@@ -152,10 +152,10 @@
 Мерсо: По прямой мы находимся примерно в 15 км от границы этой зоны.
 
 # Original: Each person must pedal to generate enough energy to travel at least 10km per hour if we are to escape in time.
-Мерсо: Каждый человек должен крутить педали, чтобы генерировать достаточно энергии для движения со скоростью не менее 10 км в час, если мы хотим успеть вовремя.
+Мерсо: Каждый человек должен крутить педали, чтобы генерировать достаточно энергии для движения со скоростью не менее 10 км в час, если мы хотим сбежать вовремя.
 
 # Original: Wonderful. I love to see some proper teamwork for once.
-Вергилий: Прекрасно. Мне нравится хоть раз увидеть настоящую командную работу.
+Вергилий: Прекрасно. Мне нравится видеть настоящую командную работу хотя бы раз.
 
 # Original: Hyaah! Rocinante! Our destination is nigh! Gallop on!
 Дон Кихот: Ииха! Росинант! Наша цель близка! Галопом вперед!
@@ -176,7 +176,7 @@
 Мерсо: Диафрагмальное дыхание способствует поддержанию постоянной скорости при упражнении такой интенсивности.
 
 # Original: Especially more so when each Sinner is responsible for about 10km per hour of energy output. Any higher and it would have required hyperpnea to maintain that speed.
-Фауст: Особенно когда каждый Грешник отвечает примерно за 10 км в час энергетической выработки. Любая более высокая скорость потребовала бы гиперпноэ для её поддержания.
+Фауст: Особенно когда каждый Грешник отвечает примерно за 10 км в час выходной мощности. Любая более высокая скорость потребовала бы гиперпноэ для её поддержания.
 
 # Original: Do you ever get tired, girl?!
 Родион: Ты хоть когда-нибудь устаешь, девчуль?!
@@ -215,13 +215,13 @@
 Синклер: 30... 30 секунд...!
 
 # Original: Khaaaa! Quite the thrill this is!!! Now this! Is true adventure!!!
-Дон Кихот: Кхаааа! Какой же это трепет!!! Вот это! Настоящее приключение!!!
+Дон Кихот: Кхаааа! Как же это волнительно!!! Вот это! Настоящее приключение!!!
 
 # Original: 'Tis like charging an overwhelmingly colossal enemy, is it no— Ach?! Cough! Ack!
 Дон Кихот: Сие подобно атаке на неимоверно огромного врага, не та— Ах?! Кхе! Ак!
 
 # Original: Save your words. Your breathing. Remain. In the flow. Breathe in. Out. Breathe in. Out. Breathe in. Out. Breathe in. Out. Breathe in. Out.
-Мерсо: Берегите. Слова. Дыхание. Оставайтесь. В потоке. Вдох. Выдох. Вдох. Выдох. Вдох. Выдох. Вдох. Выдох. Вдох. Выдох.
+Мерсо: Поберегите слова. Дыхание. Оставайтесь. В потоке. Вдох. Выдох. Вдох. Выдох. Вдох. Выдох. Вдох. Выдох. Вдох. Выдох.
 
 # Original: Huff... Huff... How... much... time...
 Грегор: Фухх... Фухх... Сколько... еще... времени...
@@ -233,10 +233,10 @@
 Фауст: 4 секунды.
 
 # Original: 4? Why are you not... doing this by multiples of 5...?!
-Синклер: 4? Почему ты не... считаешь... кратно пяти...?!
+Синклер: 4? Почему ты... считаешь... не кратно пяти...?!
 
 # Original: Look alive, deckhands! Put your back into it! Toil, men! Toil!
-Отис: Не спать, матросы! Выкладывайтесь по полной! Трудитесь, ребята! Трудитесь!
+Отис: Живее, матросы! Выкладывайтесь по полной! Трудитесь, ребята! Трудитесь!
 
 # Original: Somehow, we managed to escape the zone before Faust counted down to zero.
 Рассказчик: Каким-то образом нам удалось покинуть зону до того, как Фауст досчитала до нуля.
@@ -272,10 +272,10 @@
 Дон Кихот: ФВАААХ?!
 
 # Original: I couldn't even find the right word to describe the magnitude of that thing. Its appearance sent waves across the waters all the way to the zone we were in...
-Рассказчик: Я даже не мог подобрать подходящее слово, чтобы описать масштаб этого существа. Его появление вызвало волны по всей воде вплоть до зоны, в которой мы находились...
+Рассказчик: Я даже не мог найти подходящее слово, чтобы описать масштаб этого существа. Его появление вызвало волны по всей воде вплоть до зоны, в которой мы находились...
 
 # Original: Mephistopheles shook violently as though it was about to capsize. It need not be said that the Sinners on the deck were given an untimely shower.
-Рассказчик: Мефистофель сильно затрясло, как будто он вот-вот перевернется. Нет нужды говорить, что Грешники на палубе получили несвоевременный душ.
+Рассказчик: Мефистофель сильно затрясло, будто он вот-вот перевернется. Нет нужды говорить, что Грешники на палубе получили преждевременный душ.
 
 # Original: Woah... That was too close! We were almost pancaked...
 Родион: Воу... Это было слишком близко! Нас чуть не расплющило...
@@ -299,7 +299,7 @@
 Фауст: Теперь у нас есть время для моих объяснений.
 
 # Original: Though the laws of the Great Lake are numerous, I will relay only the pertinent information for now.
-Фауст: Хотя законов Великого Озера множество, сейчас я сообщу только актуальную информацию.
+Фауст: Хотя законов Великого Озера множество, пока что я сообщу только уместную информацию.
 
 # Original: Lingering longer than a predetermined amount of time in a single Lake will cause one to be struck by the 'Waves' of each Lake.
 Фауст: Пребывание дольше предопределенного времени в одном Озере вызовет удар "Волн" каждого Озера.
@@ -308,13 +308,13 @@
 Грегор: "Волны"...? Это не похоже ни на какие волны, что я видел раньше.
 
 # Original: There are also laws governing the time and direction in which ships are permitted to cross the borders between the Lakes.
-Фауст: Также существуют законы, регулирующие время и направление, в которых кораблям разрешено пересекать границы между Озерами.
+Фауст: Также существуют законы, регулирующие время и направление, в котором кораблям разрешено пересекать границы между Озерами.
 
 # Original: Wait up. So... if we ever just come to a stop for a bit, that... octopus tentacle-like thing'll whack us?
 Грегор: Подождите. Значит... если мы когда-нибудь просто остановимся ненадолго, эта... штука с щупальцами как у осьминога нас ударит?
 
 # Original: Precisely. Thus, it naturally follows that everything on the Great Lake is in a constant state of motion to position itself according to the laws.
-Фауст: Именно. Таким образом, естественно, что все на Великом Озере находится в постоянном движении, чтобы располагаться в соответствии с законами.
+Фауст: Именно. Таким образом, разумеется следует, что все на Великом Озере находится в постоянном движении, чтобы располагаться в соответствии с законами.
 
 # Original: And the route toward our destination will also change accordingly.
 Фауст: И маршрут к нашему пункту назначения также будет меняться соответственно.
@@ -326,7 +326,7 @@
 Рассказчик: Вот тогда...
 
 # Original: ... I heard a door open. Whoever opened it did so with obvious irritation.
-Рассказчик: ... я услышал, как открылась дверь. Кто бы её ни открыл, было это с явным раздражением.
+Рассказчик: ... я услышал, как открылась дверь. Кто бы её ни открыл, это было сделано с явным раздражением.
 
 # Original: ... The Waves finally hit, huh?
 Измаил: ... Волны наконец-то ударили, да?
@@ -338,7 +338,7 @@
 Рассказчик: После такого долгого периода изоляции Измаил наконец вышла из своей комнаты.
 
 # Original: You can't just scribble the laws of the Great Lake down on a notepad and call it a day. Each Lake has wildly different sets of laws, even though the overarching laws governing the Great Lake are pretty straightforward.
-Измаил: Нельзя просто так взять и нацарапать законы Великого Озера на блокноте и считать дело сделанным. У каждого Озера свой дико отличающийся набор законов, хотя общие законы, управляющие Великим Озером, довольно просты.
+Измаил: Нельзя просто так взять и нацарапать законы Великого Озера на блокноте и считать дело сделанным. У каждого Озера свой совершенно отличающийся набор законов, хотя общие законы, руководящие Великим Озером, довольно просты.
 
 # Original: More importantly, you should know that unauthorized recording of their laws is one of U Corp's better-known taboos.
 Измаил: Что более важно, вы должны знать, что несанкционированная запись их законов — одно из самых известных табу Корпорации U.
@@ -347,7 +347,7 @@
 Рёшу: Тогда мое тело запомнит их.
 
 # Original: ... Tattooing them on your body, if that is what you are referring to, is also prohibited.
-Фауст: ... Нанесение их татуировкой на тело, если ты это имеешь в виду, также запрещено.
+Фауст: ... Нанесение их татуировкой на тело также запрещено, если ты это имеешь в виду.
 
 # Original: Taboo Hunters of U Corp. have been sent in pursuit of individuals who have attempted precisely that. It is best that we do not produce any written records of their laws.
 Фауст: Охотники за Табу из Корпорации U были отправлены в погоню за лицами, которые пытались сделать именно это. Лучше нам не создавать никаких письменных записей их законов.
@@ -374,16 +374,16 @@
 Измаил: Боюсь, если я это сделаю, то потом выйду на палубу, усеянную вашей расплавленной, неузнаваемой плотью.
 
 # Original: And I'm not rearing to see a sight like that again.
-Измаил: А я не горю желанием снова увидеть такое зрелище.
+Измаил: И я не горю желанием снова увидеть такое зрелище.
 
 # Original: Besides...
 Измаил: Кроме того...
 
 # Original: Watching you landsmen waste time tinkering with a ship you don't even understand, wasting precious time... has been unbearable.
-Измаил: Смотреть, как вы, сухопутные крысы, тратите время, возясь с кораблем, который вы даже не понимаете, растрачивая драгоценное время... было невыносимо.
+Измаил: Смотреть на то, как вы, сухопутные крысы, тратите время, возясь с кораблем, который вы даже не понимаете, растрачивая драгоценное время... было невыносимо.
 
 # Original: Even though it's been a long time since the incident at the Boatworks, her biting yet anxious lectures have not dulled at all.
-Рассказчик: Хотя прошло много времени с того инцидента на Верфи, её язвительные, но тревожные лекции ничуть не утратили своей остроты.
+Рассказчик: Хотя прошло много времени с того инцидента на Лодочных мастерских, её язвительные, но тревожные лекции ничуть не утратили своей остроты.
 
 # Original: I was afraid that she might stir up trouble among the Sinners again...
 Рассказчик: Я боялся, что она может снова вызвать проблемы среди Грешников...
@@ -401,7 +401,7 @@
 Рассказчик: Измаил подошла к штурвалу.
 
 # Original: What are you doing? We are smooth sailing at the moment. A northbound breeze is pushing us along.
-Отис: Что ты делаешь? Мы сейчас спокойно плывём. Северный ветер нас подгоняет.
+Отис: Что ты делаешь? Сейчас мы спокойно плывём. Нас подгоняет северный ветер.
 
 # Original: I guess it could look that way for some people. Simple, one-dimensional, predictable ground pounders like you.
 Измаил: Полагаю, для некоторых людей это может выглядеть именно так. Простых, одномерных, предсказуемых сухопутных крыс вроде тебя.
@@ -416,7 +416,7 @@
 Отис: ... Тебе повезло, салага.
 
 # Original: <Okay, Ishmael. Tell us... How are we not smooth-sailing? We've got the wind at our backs.>
-Данте: <Хорошо, Измаил. Скажи нам... Почему у нас не спокойное плавание? Ведь ветер дует нам в спину.>
+Данте: <Хорошо, Измаил. Скажи нам... Почему мы неспокойно плывём? Ведь ветер дует нам в спину.>
 
 # Original: That's no wind.
 Измаил: Это не ветер.
