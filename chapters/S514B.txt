@@ -1,8 +1,8 @@
 # Original: 'Tis injustice that thou hast left me out of thine iced-crrream jaunt...
-Дон Кихот: Сие несправедливость, что вы оставили меня без вашего замороженного лакомства...
+Дон Кихот: Сие несправедливость, что вы не взяли меня на прогулку за моррроженым...
 
 # Original: It tasted like fish! Not worth the walk~ Maybe they put ground Mermaid in there.
-Родион: Оно на вкус была как рыба! Не стоила и прогулки~ Может, они туда перемолотую Русалку добавили.
+Родион: Оно на вкус была как рыба! Того и не стоило~ Может, они туда перемолотую Русалку добавили.
 
 # Original: Ground Mermaid... in ice cream...?
 Дон Кихот: Перемолотую Русалку... в мороженое...?
@@ -32,7 +32,7 @@
 Пилот: Спасибо, что перевели... Мне... мне стало немного легче...
 
 # Original: She reminded me a lot of our LCC Before Team Director just now.
-Пилот: Она только что очень напомнила мне нашего Руководителя Команды "До" LCC.
+Пилот: Она мне сейчас очень напомнила мне нашего Руководителя отдела LCC Команды "До".
 
 # Original: Must be a helluva boss, huh...
 Грегор: Видать, адская начальница, а?
@@ -47,16 +47,16 @@
 Пилот: На самом деле, нам потребовалось немало времени, чтобы определить местоположение филиала Корпорации Лоботомия, где хранится Золотая Ветвь...
 
 # Original: Me and my teammates, we ran a pretty tight ship...
-Пилот: Я и мои товарищи по команде, мы работали очень слаженно...
+Пилот: Я и мои товарищи по команде работали очень слаженно...
 
 # Original: But the Twinhook Pirates of U Corp. Backstreets caught wind of us sniffin' around!
-Пилот: Но пираты Двукрюки из Подворотен Корпорации U пронюхали, что мы тут вынюхиваем!
+Пилот: Но пираты Двух Крюков из Подворотен Корпорации U узнали о том, что мы тут разнюхиваем!
 
 # Original: Listen 'ere lad! This be the cheapest bottle of oil in all the Great Lake, I tell ye!
 Похититель: Слушай сюда, парень! Это самая дешёвая бутылка масла во всём Великом Озере, говорю тебе!
 
 # Original: What? How? That's ridiculous! Y'all are tellin' me that this Whale oil of dubious origin is worth HOW much?!
-Пилот: Что? Как? Это смешно! Вы мне тут говорите, что это китовое масло сомнительного происхождения стоит СКОЛЬКО?!
+Пилот: Что? Как? Это смешно! Вы мне говорите, что это китовое масло сомнительного происхождения стоит СКОЛЬКО?!
 
 # Original: Wait...! Yeah, no wonder! You pretty much antagonized them to their faces!
 Родион: Погоди-ка...! Да, это неудивительно! Ты же практически прямо в лицо их оскорбил!
@@ -65,7 +65,7 @@
 Пилот: Ладно, в свою защиту скажу, что эти ребята собирались нас обчистить до нитки!
 
 # Original: I mean... Couldn't you have just paid a bit of money for some intel, though...?
-Грегор: Ну... Разве нельзя было просто заплатить немного денег за информацию?
+Грегор: Разве нельзя было просто заплатить немного денег за информацию?
 
 # Original: W-well, anyway...
 Пилот: Н-ну, в общем...
@@ -86,7 +86,7 @@
 Пилот: Боже, какое это было невероятно яркое сияние, даже из глубины корабля филиала Корпорации Лоботомия.
 
 # Original: Observation: check! Confirmation: check! All we had left to do on the docket was the report.
-Пилот: Наблюдение: есть! Подтверждение: есть! Всё, что нам оставалось сделать по плану, это отчёт.
+Пилот: Наблюдение: есть! Подтверждение: есть! Всё, что нам по плану оставалось сделать - это отчёт.
 
 # Original: Oh! Our job, by the way, was advance reconnaissance to confirm the presence of a Golden Bough.
 Пилот: Ах да! Наша работа, кстати, заключалась в предварительной разведке для подтверждения наличия Золотой Ветви.
@@ -110,7 +110,7 @@
 Сми: Итак... Мне, в общем-то, всё равно, что вы делаете на этом жутком корабле, но...
 
 # Original: This gentleman here was rather curious about what business you guys were up to. So I tagged along. No objections, hmm?
-Сми: Этот джентльмен здесь был весьма любопытен насчёт того, чем вы тут занимаетесь. Так что я присоединилась. Возражений нет, хмм?
+Сми: Этот джентльмен был весьма любопытен насчёт того, чем вы тут занимаетесь. Так что я присоединилась. Возражений нет, хмм?
 
 # Original: Pilot's face turned pale with fear for the first time since he started recounting this story.
 Рассказчик: Лицо Пилота впервые побледнело от страха с тех пор, как он начал рассказывать эту историю.
@@ -140,7 +140,7 @@
 Родион: ... Кого она увидела? Чтобы так сразу сдаться...
 
 # Original: ... "An officer from the Middle shouldn't be here..." Again, verbatim.
-Пилот: ... "Офицер из Среднего Пальца не должен быть здесь..." Опять же, дословно.
+Пилот: ... "Офицера из Среднего Пальца не должно было здесь быть..." Опять же, дословно.
 
 # Original: ... Hm.
 Фауст: ... Хм.
@@ -158,19 +158,19 @@
 Пилот: И всё же я думал, что, может быть, у нас есть шанс...
 
 # Original: We're Unit 3, after all... We weren't no slouches, and we had some impressive names with us...
-Пилот: Мы же всё-таки третий отряд... Мы не лыком шиты, и у нас были впечатляющие имена...
+Пилот: Мы же всё-таки третий отряд... Мы были не лыком шиты, и с нами были выдающиеся сотрудники ...
 
 # Original: You didn't.
 Рёшу: Не были.
 
 # Original: ... And I do not recall much more after that...
-Пилот: ... И я не помню многого после этого...
+Пилот: ... И я не помню больше ничего после этого...
 
 # Original: When I came to, I was on the floor, face down...
 Пилот: Когда я пришёл в себя, я лежал на полу, лицом вниз...
 
 # Original: At first, I thought I'd gone deaf and couldn't hear a thing. Y'know, when a bomb goes off right next to you, your ear starts ringin' and all. Thought I'd burst my eardrums.
-Пилот: Сначала я подумал, что оглох и ничего не слышу. Знаете, когда рядом с вами взрывается бомба, в ушах начинает звенеть и всё такое. Думал, что порвал барабанные перепонки.
+Пилот: Сначала я подумал, что оглох и ничего не слышу. Знаете, когда рядом с вами взрывается бомба, в ушах начинает звенеть и всё такое. Думал, что барабанные перепонки лопнули.
 
 # Original: ... But that wasn't it, no. It was my team... shoutin' and screamin', shoutin' and screamin'... And all of it combined into some kind of a incomprehensible cacophony. I just couldn't register that at first.
 Пилот: ... Но нет, дело было не в этом. Это была моя команда... они кричали и вопили, кричали и вопили... И всё это слилось в какую-то непонятную какофонию. Я просто не мог сразу это осознать.
@@ -179,7 +179,7 @@
 Синклер: Ах...
 
 # Original: Once I recognized that, I also noticed... a deep rumbling, echoing underneath all that.
-Пилот: Когда я это понял, я также заметил... глубокий гул, эхом разносящийся под всем этим.
+Пилот: Когда я это понял, я также заметил... глубокий гул, эхом разносящийся подо всем этим.
 
 # Original: A bizarre, terrible rumbling... that sounded like it was echoing from a place far away from the Branch.
 Пилот: Странный, ужасный гул... который, казалось, эхом доносился из места, далёкого от филиала.
@@ -203,13 +203,13 @@
 Пилот: Да, мэм. Громко и чётко. Они называли его "Старший Брат".
 
 # Original: Keh... Kehehe... Hah! I wonder how those fools are doing nowadays.
-Рёшу: Кех... Кехехе... Ха! Интересно, как там эти дураки поживают сейчас.
+Рёшу: Кех... Кехехе... Ха! Интересно, как там эти дураки сейчас поживают.
 
 # Original: Take only the high-value hostages. We're leaving. Now.
 Рассказчик: Берите только ценных заложников. Мы уходим. Сейчас же.
 
 # Original: That right there is one of the Five Calamities. We have to book it before that thing gets here. We're all dead meat if we don't.
-Рассказчик: Это одно из Пяти Бедствий. Нам нужно убираться отсюда, пока эта штука не добралась сюда. Мы все трупы, если не уйдём.
+Рассказчик: Это одно из Пяти Бедствий. Нам нужно убираться отсюда, пока эта штука не добралась сюда. Если не успеем - мы все будем мертвы.
 
 # Original: One last thing I remember... is our Team Leader.
 Пилот: Последнее, что я помню... это наш Командир.
@@ -218,7 +218,7 @@
 Пилот: Прямо перед тем, как я потерял сознание... Командир, она...
 
 # Original: Stuck her employee card badge to my chest when the pirates weren't looking...
-Пилот: Прикрепила свою карточку сотрудника к моей груди, когда пираты не смотрели...
+Пилот: Прикрепила свою карточку сотрудника к моей груди, когда пираты не видели...
 
 # Original: Back then, I didn't understand what she was doin'. But now that I had some time to think about it...
 Пилот: Тогда я не понимал, что она делает. Но теперь, когда у меня было время подумать об этом...
@@ -230,7 +230,7 @@
 Грегор: Подытожим... Каждый агент LCCB был либо ранен, либо без сознания...
 
 # Original: The Middle got involved out of nowhere... And there was this 'Calamity' that even the Middle bloke was scared of...
-Хитклиф: Средний Палец вмешался из ниоткуда... И было это "Бедствие", которого даже парень из Среднего Пальца испугался...
+Хитклиф: Средний Палец вмешался из ниоткуда... И там было это "Бедствие", которого даже парень из Среднего Пальца испугался...
 
 # Original: Can you give us the coordinates to the Lobotomy Corp. Branch, Mr. Pilot?
 Фауст: Можете ли вы дать нам координаты филиала Корпорации Лоботомия, мистер Пилот?
@@ -239,10 +239,10 @@
 Пилот: К-конечно.
 
 # Original: Pilot produced a piece of paper that had been folded over many times and handed it over to Faust.
-Рассказчик: Пилот достал много раз сложенный лист бумаги и передал его Фаусту.
+Рассказчик: Пилот достал много раз сложенный лист бумаги и передал его Фауст.
 
 # Original: It's all right there, ma'am. Down to every last bit of detail you'll need. I hid it from them to the best of my abilities. I'm glad that I was able to complete my mission, at least.
-Пилот: Всё там, мэм. До последней детали, которая вам понадобится. Я скрывал это от них как мог. Я рад, что смог хотя бы выполнить свою миссию.
+Пилот: Всё там, мэм. До последней детали, которая вам понадобится. Прятал это от них как мог. Я рад, что смог хотя бы выполнить свою миссию.
 
 # Original: ......
 Фауст: ......
@@ -251,7 +251,7 @@
 Измаил: Подожди.
 
 # Original: That 'Calamity'. Was there anything else about it that stood out?
-Измаил: Это "Бедствие". Было ли что-нибудь ещё в нём особенное?
+Измаил: Это "Бедствие". Было ли в нём что-нибудь ещё особенное ?
 
 # Original: There's got to be more.
 Измаил: Должно быть что-то ещё.
@@ -263,10 +263,10 @@
 Пилот: Оно было... белым. Цвета бледной кости, какого я никогда раньше не видел. Оно было, эм... возвышающимся и бледным. И этот... гул... Я уверен, что слышал его раньше...
 
 # Original: Ah! Right, It reminded me of U Corp's Singularity! That rumbling... sounded a lot like them tuning forks when they combined stuff together.
-Пилот: Ах! Точно, он напомнил мне о Сингулярности Корпорации U! Этот гул... звучал очень похоже на те камертоны, когда они что-то комбинировали.
+Пилот: Ах! Точно, он напомнил мне о Сингулярности Корпорации U! Этот гул... звучал очень похоже на те камертоны, когда они объединяли что-то вместе.
 
 # Original: ... Yeah... Almost there...
-Измаил: ... Да... Почти...
+Измаил: ... Да... Почти на месте...
 
 # Original: Let me tag along with y'all!
 Пилот: Позвольте мне пойти с вами!
@@ -278,7 +278,7 @@
 Фауст: Действительно, это должна была быть совместная операция с LCCB, где они должны были сопровождать нас в филиал Корпорации Лоботомия.
 
 # Original: What is your decision, Dante?
-Фауст: Каково ваше решение, Данте?
+Фауст: Каково твоё решение, Данте?
 
 # Original: <......>
 Данте: <......>
@@ -287,7 +287,7 @@
 Данте: <Скажи ему, что хотя я ценю его предложение, я отказываюсь.>
 
 # Original: <People that get involved with us... often don't make it out in one piece.>
-Данте: <Люди, которые связываются с нами... часто не выходят целыми.>
+Данте: <Люди, которые связываются с нами... нечасто выбираются целыми и невредимыми.>
 
 # Original: ... I.A.
 Рёшу: ... Я.С.
@@ -299,7 +299,7 @@
 Пилот: Э... Спасибо...?
 
 # Original: Mr. Pilot, remain on standby until the After Team arrives. Then, return to base and report your findings.
-Фауст: Мистер Пилот, оставайтесь в режиме ожидания, пока не прибудет Команда "После". Затем вернитесь на базу и доложите о своих находках.
+Фауст: Мистер Пилот, ожидайте пока не прибудет Команда "После". Затем вернитесь на базу и доложите о своих находках.
 
 # Original: Ah... so they declined, huh?
 Пилот: Ах... значит, он отказался, да?
@@ -308,7 +308,7 @@
 Пилот: Истории оказались правдивы, я не слышу ничего, кроме тиканья его часов...
 
 # Original: Executive Manager, in their endless generosity, has also deigned to thank you for your offer. Remember that as you return.
-Отис: Исполнительный Менеджер в своей бесконечной щедрости также соизволил поблагодарить вас за ваше предложение. Помните об этом, когда будете возвращаться.
+Отис: Исполнительный Менеджер в своей бесконечной щедрости также соизволил поблагодарить вас за ваше предложение. Помните об этом, когда вернётесь.
 
 # Original: Alright...
 Пилот: Хорошо...
@@ -329,7 +329,7 @@
 Грегор: Э... Эмм... Ну, эта встреча была довольно короткой.
 
 # Original: But say hello to Saude for us, will ya?
-Грегор: Но передай привет Сауде от нас, ладно?
+Грегор: Но передай от нас привет Сауд, ладно?
 
 # Original: And... please tell her that I'm thankful for what she did for us.
 Синклер: И... пожалуйста, скажи ей, что я благодарен за то, что она сделала для нас.
@@ -338,7 +338,7 @@
 Синклер: Тогда... я не смог заставить себя сказать ей даже это.
 
 # Original: I'll be... sure to tell her that.
-Пилот: Я... обязательно передам ей это.
+Пилот: Я... обязательно ей это передам.
 
 # Original: You have endured well despite the tribulations, Pilot.
 И Сан: Ты хорошо выдержал испытания, Пилот.
@@ -368,7 +368,7 @@
 Пилот: Может быть... может быть, в филиале Корпорации Лоботомия есть выжившие...
 
 # Original: Pilot's eyes, which had been welling up for a while, eventually broke like a dam. Tears flowed down his cheeks to the ground.
-Рассказчик: Глаза Пилота, которые уже некоторое время наполнялись слезами, наконец прорвало как плотину. Слёзы потекли по его щекам на пол.
+Рассказчик: Глаза Пилота, которые уже некоторое время наполнялись слезами, в конце концов прорвало как плотину. Слёзы потекли по его щекам на пол.
 
 # Original: ... We shall bring them home. You have my word.
 И Сан: ... Мы вернём их домой. Даю тебе слово.
@@ -377,7 +377,7 @@
 Синклер: И я тоже.
 
 # Original: ... We won't fail again.
-Синклер: ... Мы больше не провалимся.
+Синклер: ... Мы больше не подведем.
 
 # Original: …….
 Измаил: …….
@@ -389,16 +389,16 @@
 Данте: <Что именно такое переменные координаты?>
 
 # Original: Ships beyond a certain magnitude, like our Lobotomy Corp. Branch or the Marlin Port, receive partial laws of the Great Lake in an encrypted form from U Corp.
-Фауст: Корабли, превышающие определённую величину, такие как наш филиал Корпорации Лоботомия или порт Марлин, получают частичные законы Великого Озера в зашифрованной форме от Корпорации U.
+Фауст: Корабли, превышающие определённую величину, такие как наш филиал Корпорации Лоботомия или порт Марлин, получают от Корпорации U часть законов Великого Озера в зашифрованной форме.
 
 # Original: U Corp. holds a strict monopoly on the intel regarding the laws of the Great Lake within the Nest. Of course, the vessels that receive that intel pay various prices for that privilege.
-Фауст: Корпорация U строго монополизирует информацию о законах Великого Озера в пределах Гнезда. Конечно, суда, получающие эту информацию, платят за эту привилегию различные цены.
+Фауст: Корпорация U имеет строгую монополию на информацию о законах Великого Озера в пределах Гнезда. Конечно, суда, получающие эту информацию, платят за эту привилегию различную цену.
 
 # Original: They use that partial information to calculate at which location their vessels must be during which specific period to ensure a safe voyage, and finalize it into a standardized form known as 'variable coordinates'.
-Фауст: Они используют эту частичную информацию для расчёта того, в каком месте их суда должны находиться в какой конкретный период, чтобы обеспечить безопасное плавание, и оформляют её в стандартизированную форму, известную как "переменные координаты".
+Фауст: Они используют эту частичную информацию для расчёта того, в каком месте их суда должны находиться в конкретный период, чтобы обеспечить безопасное плавание, и оформляют её в стандартизированную форму, известную как "переменные координаты".
 
 # Original: Portships often send out their coordinates to other vessels, as they want to host as many guests as possible. But vessels that prioritize privacy and secrecy, like the former L Corp. Branch in question, will never do so.
-Фауст: Корабли-порты часто отправляют свои координаты другим судам, так как хотят принять как можно больше гостей. Но суда, которые отдают приоритет конфиденциальности и секретности, такие как рассматриваемый филиал бывшей Корпорации L, никогда этого не делают.
+Фауст: Корабли-порты часто отправляют свои координаты другим судам, так как хотят принять как можно больше гостей. Но суда, которые отдают приоритет конфиденциальности и секретности, такие как рассматриваемый нами филиал бывшей Корпорации L, никогда этого не делают.
 
 # Original: So... the Lobotomy Corp. Branch we're looking for... is kinda like a treasure ship, huh? Then there's gotta be a black market out there for people willing to pay big money for its coordinates...
 Родион: Значит... филиал Корпорации Лоботомия, который мы ищем... это что-то вроде корабля с сокровищами, да? Тогда должен быть чёрный рынок для тех, кто готов заплатить большие деньги за его координаты...
@@ -407,10 +407,10 @@
 Фауст: Впечатляющий вывод.
 
 # Original: Also, unlike normal coordinates, variable coordinates are composed of lengthy and encrypted codes.
-Фауст: Кроме того, в отличие от обычных координат, переменные координаты состоят из длинных и зашифрованных кодов.
+Фауст: Кроме того, в отличии от обычных координат, переменные координаты состоят из длинных и зашифрованных кодов.
 
 # Original: Therefore, vessels sailing across the Great Lake start by entering the variable coordinates of their destination. Based on that information, said vessels will follow a certain route charted via the automated navigation system that periodically confirms the current location of their destination.
-Фауст: Поэтому суда, плавающие по Великому Озеру, начинают с ввода переменных координат своего пункта назначения. На основе этой информации указанные суда будут следовать определённому маршруту, проложенному через автоматизированную навигационную систему, которая периодически подтверждает текущее местоположение их пункта назначения.
+Фауст: Поэтому суда, плавающие по Великому Озеру, начинают с ввода переменных координат своего пункта назначения. На основе этой информации указанные суда будут следовать определённому маршруту, проложенному автоматизированной навигационной системой, которая периодически подтверждает текущее местоположение их пункта назначения.
 
 # Original: Wow~ That's a lot of big words! So basically, if we enter the information we got from Mr. Pilot here, we can somehow find our way to the Lobotomy Corp. Branch?
 Хон Лу: Ух ты~ Сколько сложных слов! Так что, если мы введём информацию, которую получили от мистера Пилота, мы как-то сможем найти дорогу к филиалу Корпорации Лоботомия?
@@ -431,7 +431,7 @@
 Измаил: …….
 
 # Original: Though I didn't catch a clear view...
-Рассказчик: Может быть я не смог чётко разглядеть...
+Рассказчик: Хотя я не смог чётко разглядеть...
 
 # Original: I think Ishmael nodded, too.
 Рассказчик: Кажется, Измаил тоже кивнула.
