@@ -5,19 +5,19 @@
 Измаил: Когда я смотрю в его воды... Я вижу своё мерцающее отражение.
 
 # Original: Maybe I'm just as refracted and twisted like my reflection in the water. It doesn't matter which Lake we're on... I always look so warped, so unstable...
-Измаил: Возможно, я такая же преломлённая и искажённая, как моё отражение в воде. Неважно, на каком Озере мы находимся... Я всегда выгляжу такой искривлённой, такой нестабильной...
+Измаил: Возможно, я такая же преломлённая и искажённая, как и моё отражение в воде. Неважно, на каком Озере мы находимся... Я всегда выгляжу такой искривлённой, такой нестабильной...
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: I happened upon Ishmael's musings around the time we were on our way to the elusive Lobotomy Corp. Branch of the Great Lake. It had been a while since our last disastrous incident.
-Рассказчик: Я случайно услышал размышления Измаил примерно в то время, когда мы направлялись к неуловимому филиалу Корпорации Лоботомия Великого Озера. Прошло некоторое время с нашего последнего катастрофического инцидента.
+Рассказчик: Я случайно услышал размышления Измаил примерно в то время, когда мы направлялись к неуловимому филиалу Корпорации Лоботомия на Великом Озере. Прошло некоторое время с нашего последнего катастрофического инцидента.
 
 # Original: Maybe my distorted reflections were just... me.
 Измаил: Может быть, мои искажённые отражения были просто... мной.
 
 # Original: Even from a distance, it was evident that Ishmael was gazing down at her own reflection in the water.
-Рассказчик: Даже издалека было очевидно, что Измаил смотрела вниз на своё собственное отражение в воде.
+Рассказчик: Даже издалека было очевидно, что Измаил смотрела вниз на своё отражение в воде.
 
 # Original: I rested my wandering feet and decided to watch her for a moment.
 Рассказчик: Я остановил свои блуждающие ноги и решил понаблюдать за ней некоторое время.
@@ -29,7 +29,7 @@
 Измаил: Мои руки... облезали... кровоточили...
 
 # Original: Saltwater seeped into my gaping wounds. It hurt so much. So, so much that I thought I might faint if I didn't let go...
-Измаил: Солёная вода просачивалась в мои зияющие раны. Это было так больно. Так, так больно, что я думала, что могу потерять сознание, если не отпущу...
+Измаил: Солёная вода просачивалась в мои зияющие раны. Это было очень больно. Так больно, что я думала, что могу потерять сознание, если не отпущу...
 
 # Original: But I couldn't.
 Измаил: Но я не могла.
@@ -65,7 +65,7 @@
 Отис: ... Одиночным кораблём.
 
 # Original: And it looks like we have 3 hours to kill before we're allowed to move on to the next Lake. Unless...
-Отис: И, похоже, нам нужно как-то убить 3 часа, прежде чем нам разрешат перейти к следующему Озеру. Если только...
+Отис: И, похоже, нам нужно как-то убить 3 часа, прежде чем нам позволено перейти к следующее Озеро. Если только...
 
 # Original: ... the Executive Manager would authorize us to weather the Waves once more...
 Отис: ... Исполнительный Менеджер не разрешит нам снова пройти через Волны...
@@ -74,13 +74,13 @@
 Данте: <Нет, Отис.>
 
 # Original: <The losses were worse than I anticipated... And remember what Ishmael said. We were extremely lucky the Waves that came for us was a relatively manageable one.>
-Данте: <Потери были хуже, чем я предполагал... И помни, что сказала Измаил. Нам очень повезло, что Волны, которые пришли за нами, были относительно управляемыми.>
+Данте: <Потери были хуже, чем я предполагал... И помни, что сказала Измаил. Нам очень повезло, что Волны, которые пришли за нами, были относительно податливыми.>
 
 # Original: Yes, Executive Manager.
 Отис: Да, Исполнительный Менеджер.
 
 # Original: Thanks to Outis, who quickly abandoned the idea, the Sinners and I could observe this new vessel with somewhat lighter hearts.
-Рассказчик: Благодаря Отис, которая быстро отказалась от этой идеи, Грешники и я могли наблюдать за этим новым судном с некоторым облегчением на душе.
+Рассказчик: Благодаря Отис, которая быстро отказалась от этой идеи, Грешники и я могли наблюдать за этим новым судном с некоторой беззаботностью на душе.
 
 # Original: Ah, what a relief. That doesn't look like a pirate ship. That's...
 Синклер: Ах, какое облегчение. Это не похоже на пиратский корабль. Это...
@@ -134,7 +134,7 @@
 Рассказчик: Слабо доносящаяся музыка была единственным ответом с корабля.
 
 # Original: Maybe they can't hear us over the music. Boy, music these days... they're just too loud for me...
-Грегор: Может быть, они не слышат нас из-за музыки. Боже, музыка в эти дни... она слишком громкая для меня...
+Грегор: Может быть, они не слышат нас из-за музыки. Боже, музыка в эти дни... слишком громкая для меня...
 
 # Original: It'll be faster if we just head over there and ask them in person.
 Грегор: Будет быстрее, если мы просто подойдём туда и спросим их лично.
@@ -146,31 +146,31 @@
 Данте: <Думаю, мы можем быстро заглянуть и задать им несколько вопросов.>
 
 # Original: We had three hours to kill anyway. Might as well make ourselves useful and collect some intel.
-Рассказчик: У нас всё равно было три часа, чтобы поубивать время. Можно провести его с пользой и собрать немного информации.
+Рассказчик: В любом случае, нам нужно было убить три часа. Можно провести их с пользой и собрать немного информации.
 
 # Original: Ishmael shot a glance at Vergilius before staring at the floor wordlessly.
 Рассказчик: Измаил бросила взгляд на Вергилия, прежде чем молча уставиться в пол.
 
 # Original: ... I'd say it's a reckless idea to just row up to a random vessel we don't know anything about, like its owner or its history, but if the Executive Manager insists...
-Измаил: ... Я бы сказала, что это безрассудная идея - просто подплыть к случайному судну, о котором мы ничего не знаем, ни о его владельце, ни о его истории, но если Исполнительный Менеджер настаивает...
+Измаил: ... Я бы сказала, что это безрассудная идея - просто подплыть к случайному судну, о котором мы ничего не знаем - ни о его владельце, ни о его истории, но если Исполнительный Менеджер настаивает...
 
 # Original: Sure. Let's 'stop by'.
 Измаил: Конечно. Давайте 'заглянем'.
 
 # Original: Now that was a very Outis thing to say, innit?
-Хитклиф: Ну, это было очень в духе Отис, не так ли?
+Хитклиф: Сказать такое было бы очень в духе Отис, не так ли?
 
 # Original: ... It's just the attitude I decided to adopt.
 Измаил: ... Это просто позиция, которую я решила принять.
 
 # Original: Now, this boat will come in useful.
-Фауст: Теперь эта лодка нам пригодится.
+Фауст: Теперь эта шлюпка нам пригодится.
 
 # Original: Will this boat... not capsize?
 И Сан: Эта лодка... не перевернётся?
 
 # Original: Should I pack some life vests or a buoy?
-Синклер: Может, мне упаковать несколько спасательных жилетов или кругов?
+Синклер: Может, мне взять несколько спасательных жилетов или буёв?
 
 # Original: By the time all 13 of us squeezed our way in, the skiff was absolutely packed and precariously swaying. Some Sinners' faces darkened with concern.
 Рассказчик: К тому времени, как все 13 из нас втиснулись, шлюпка была абсолютно переполнена и опасно раскачивалась. Лица некоторых Грешников потемнели от беспокойства.
