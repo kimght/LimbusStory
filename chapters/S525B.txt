@@ -29,7 +29,7 @@
 Синклер: Ух... Нет... Это те люди, которых искал Пилот?..
 
 # Original: Hark! Heed mine words!
-Дон Кихот: Внемлите! Услышьте мои слова!
+Дон Кихот: Внемли! Услышь мои слова!
 
 # Original: Why the heck would ya talk to it?!
 Родион: Какого чёрта ты с ним разговариваешь?!
@@ -50,13 +50,13 @@
 И Сан: …….
 
 # Original: Hark, mine friends! This man is alive! We must free him from this bond posthaste!
-Дон Кихот: Внемлите, други мои! Сей муж все еще жив! Мы должны немедля освободить его от сих оков!
+Дон Кихот: Внемлите, друзья мои! Сей муж все еще жив! Мы должны немедля освободить его от сих оков!
 
 # Original: Mm... Even if we wanted to, looks like it's a bit late for him.
 Хон Лу: Мм... Даже если бы мы хотели, похоже, для него уже слишком поздно.
 
 # Original: Total disassembly is the only way I see it ever getting out of there. Heh.
-Рёшу: Полная разборка - единственный способ, как я вижу, вытащить его оттуда. Хех.
+Рёшу: Единственный способ вытащить его оттуда, который я вижу - полная разборка. Хех.
 
 # Original: Wha...
 Дон Кихот: Что...
@@ -65,7 +65,7 @@
 Грегор: Ну, к этому времени мы должны были уже привыкнуть к таким неудачам...
 
 # Original: The body is firmly lodged in the walls. No ordinary human strength could separate his body from it.
-Мерсо: Тело прочно застряло в стенах. Никакая обычная человеческая сила не сможет отделить его тело от неё.
+Мерсо: Тело прочно застряло в стенах. Никакая обычная человеческая сила не сможет отделить его туловище от неё.
 
 # Original: With superhuman strength, you risk tearing the body to several parts.
 Мерсо: С нечеловеческой силой вы рискуете разорвать тело на несколько частей.
@@ -77,7 +77,7 @@
 Рёшу: Впечатляет... Нет никаких признаков того, что кто-то силой вдавил его в стены.
 
 # Original: This is quite a natural exhibition. As though this was how it was conceived from the very beginning.
-Рёшу: Это довольно естественная экспозиция. Как будто так было задумано с самого начала.
+Рёшу: Это очень естественная экспозиция. Как будто так было задумано с самого начала.
 
 # Original: We thought... I thought it would be different this time. We made a promise, gave our word...
 Синклер: Мы думали... Я думал, что на этот раз всё будет по-другому. Мы дали обещание, дали слово...
@@ -98,7 +98,7 @@
 Измаил: И я уже неоднократно говорила, что не хочу тратить время.
 
 # Original: We don't have to worry about the laws of the Lake here, so why don't we make this a more leisurely—
-Хон Лу: Нам не нужно беспокоиться о законах Озера здесь, так почему бы не делать все более неторопливо—
+Хон Лу: Здесь нам не нужно беспокоиться о законах Озера, так почему бы не делать все более неторопливо—
 
 # Original: Sure, look around all you want. But you won't find any survivors here.
 Измаил: Конечно, осматривайтесь сколько хотите. Но вы не найдёте здесь выживших.
@@ -113,19 +113,19 @@
 Дон Кихот: И всё же...
 
 # Original: I recognize these. They're ruin left behind by... the thing. The thing that leaves nothing unchanged in its wake.
-Измаил: Я узнаю это. Это руины, оставленные... той штукой. Той штукой, которая не оставляет ничего неизменным на своём пути.
+Измаил: Я узнаю их. Они - руины, оставленные... той штукой. Той штукой, которая не оставляет неизменным ничто на своём пути.
 
 # Original: It could swallow the world in the blink of an eye. But it also spews it back out just as quickly.
-Измаил: Она могла бы проглотить мир в мгновение ока. Но она также выплёвывает его так же быстро.
+Измаил: Она могла бы проглотить мир в мгновение ока. Но она так же быстро исторгла бы его обратно.
 
 # Original: And what it spews out... never comes back right...
 Измаил: И то, что она извергает... никогда не возвращается в норму...
 
 # Original: Isn't it funny? If it's going to spew it out anyway, what's the point of devouring it in the first place?
-Измаил: Разве это не забавно? Если она всё равно собирается выплюнуть, какой смысл поглощать это в первую очередь?
+Измаил: Разве это не забавно? Если она всё равно собирается выплюнуть, какой изначально смысл поглощать?
 
 # Original: I don't understand... Why does it try to devour everything it comes across?
-Измаил: Я не понимаю... Почему она пытается поглотить всё, что встречает на своём пути?
+Измаил: Я не понимаю... Почему она пытается пожрать всё, что встречает на своём пути?
 
 # Original: <Are you... talking about that same Whale you mentioned before...?>
 Данте: <Ты... говоришь о том же Ките, о котором упоминала раньше...?>
