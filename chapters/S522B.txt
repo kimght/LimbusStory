@@ -17,7 +17,7 @@
 Данте: <Ты здесь?>
 
 # Original: I wasn't sure where these water droplets were falling from, but they were really getting on my nerves.
-Рассказчик: Я не знал, откуда падали эти капли воды, но они действительно действовали мне на нервы.
+Рассказчик: Я не знал, откуда падали эти капли воды, но они ощутимо действовали мне на нервы.
 
 # Original: I don't see anything here. Not that I could in this dark, even if there were...
 Рассказчик: Я ничего здесь не вижу. Не то чтобы я мог что-то увидеть в такой темноте, даже если бы здесь что-то было...
@@ -32,13 +32,13 @@
 Данте: <Синклер?>
 
 # Original: ... and Sinclair. It seemed to me that he'd been standing here for a good while. Exactly how long... I wasn't sure.
-Рассказчик: ... и Синклер. Мне показалось, что он стоял здесь уже довольно долго. Насколько долго... я не был уверен.
+Рассказчик: ... и Синклера. Мне показалось, что он стоял здесь уже довольно долго. Насколько долго... я не был уверен.
 
 # Original: ... Uh.
 Синклер: ... Эм.
 
 # Original: Sinclair stood there, still like death. He looked up.
-Рассказчик: Синклер стоял там, неподвижный как смерть. Он смотрел навверх.
+Рассказчик: Синклер стоял там, неподвижный как смерть. Он смотрел наверх.
 
 # Original: <... What are you looking at?>
 Данте: <... На что ты смотришь?>
@@ -56,7 +56,7 @@
 Рассказчик: Возможно, свет проникает снаружи...?
 
 # Original: No, that doesn't make sense either. We're deep in the ship's storage, a big metal box with no opening for even a single strand of natural light.
-Рассказчик: Нет, это тоже не имеет смысла. Мы глубоко в хранилище корабля, большом металлическом ящике без единого отверстия даже для одной нитки естественного света.
+Рассказчик: Нет, это тоже не имеет смысла. Мы глубоко в хранилище корабля, большом металлическом ящике без единого отверстия даже для одной ниточки естественного света.
 
 # Original: Besides, it's nighttime. This is getting more and more bizarre by the second. Where is this light coming from...?
 Рассказчик: Кроме того, сейчас ночь. Это становится всё более и более странным с каждой секундой. Откуда исходит этот свет...?
@@ -101,7 +101,7 @@
 Измаил: Это не может быть... человеком.
 
 # Original: Then that was...
-Родион: Тогда это было...
+Родион: Тогда это была...
 
 # Original: What, you think we have enough time for a lecture? Prepare for battle.
 Измаил: Что, думаешь, у нас есть время на лекцию? Готовьтесь к бою.
