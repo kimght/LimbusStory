@@ -1,5 +1,5 @@
 # Original: Right... I get it. I get it now. All of these 'rocks' were actually Whales. And I get that Mermaids pop out of those pores.
-Хитклиф: Так... ясно. Теперь я понял. Все эти "камни" на самом деле были Китами. И как я понимаю, эти Русалки вылезают из этих дыр.
+Хитклиф: Так... ясно. Теперь я понял. Все эти "камни" на самом деле были Китами. И как я понимаю, Русалки вылезают из этих пор.
 
 # Original: But I think it's a loony thing that... Why are we even drawing their ire, huh? We could've just gone around them!
 Хитклиф: Но мне кажется, что это безумие... Зачем нам вообще навлекать на себя их гнев, а? Мы могли бы просто обойти их!
@@ -11,22 +11,22 @@
 Измаил: Конечно же, нет.
 
 # Original: This is just the only method I know.
-Измаил: Это просто единственный метод, который я знаю.
+Измаил: Просто это единственный метод, который я знаю.
 
 # Original: ... You better be ready to explain what you're talking about.
-Хитклиф: ... Ты лучше будь готова объяснить, о чем ты говоришь.
+Хитклиф: ... Тебе лучше быть готовой объяснить, о чем ты говоришь.
 
 # Original: Heathcliff, furious... wasn't the only Sinner looking at Ishmael with expectant eyes.
-Рассказчик: Разъяренный Хитклиф... был не единственным Грешником, смотревшим на Измаил с ожиданием в глазах.
+Рассказчик: Разъяренный Хитклиф... был не единственным, кто смотрел на Измаил с ожиданием в глазах.
 
 # Original: There were Outis and the other Sinners who all looked to her for some answers.
-Рассказчик: Отис и другие Грешники тоже смотрели на нее в ожидании ответов.
+Рассказчик: Отис и другие Грешники тоже ждали ответов.
 
 # Original: <Ishmael.>
 Данте: <Измаил.>
 
 # Original: And I was too, of course.
-Рассказчик: И я, конечно, тоже.
+Рассказчик: И я, конечно же, не исключение.
 
 # Original: Haah... I also didn't think I'd actually be doing this...
 Измаил: Хаах... Я тоже не думала, что на самом деле буду это делать...
@@ -38,7 +38,7 @@
 Синклер: Легенда...?
 
 # Original: Each Lake of the Great Lake has its own culture, with many wandering and choosing to call those places their homes. So, naturally, there are as many tales as there are Lakes.
-Измаил: У каждого Озера в Великом Озере своя собственная культура, и многие странники выбирают эти места своим домом. Так что, естественно, что легенд столько же, сколько и Озер.
+Измаил: У каждого Озера в Великом Озере своя культура, и многие странники выбирают эти места своим домом. Так что, естественно, что легенд столько же, сколько и Озер.
 
 # Original: But there's that one tale of a certain Lake that is passed down orally from sailor to sailor. Just like the legends of old.
 Измаил: Но есть одна история об определенном Озере, которая передается из уст в уста от моряка к моряку. Прямо как древние легенды.
@@ -59,31 +59,31 @@
 Дон Кихот: ... Что же это значит?
 
 # Original: It's simple. Hit the Porous Whales to wake them, draw out and hunt their Mermaids, and the path to the Pallid Whale should clear of the mist.
-Измаил: Все просто. Ударь по Пористым Китам, чтобы разбудить их, выманить и охотиться на их Русалок, и путь к Бледному Киту должен очиститься от тумана.
+Измаил: Все просто. Ударь по Пористым Китам, чтобы разбудить их, вымани и охоться на их Русалок, и путь к Бледному Киту должен очиститься от тумана.
 
 # Original: Do you really believe that? You expect us to just... believe that hogwash?
-Хитклиф: Ты правда в это веришь? Ты ожидаешь, что мы просто... поверим в эту чушь?
+Хитклиф: Ты правда в это веришь? Ты думаешь, что мы просто... поверим в эту чушь?
 
 # Original: Blimey, didn't think I'd ever get to say these words before my deathbed, but...
 Хитклиф: Черт возьми, не думал, что когда-нибудь скажу эти слова до смертного одра, но...
 
 # Original: Are you stupid?
-Хитклиф: Ты что, дура?
+Хитклиф: Ты дура?
 
 # Original: ... Pfft.
 Родион: ... Пффт.
 
 # Original: Haah... Listen. What does waking these Whales up have anything to do with getting rid of that thick fog? It's got to make even a little bit of sense, no?
-Хитклиф: Хаах... Слушай. Какое отношение пробуждение этих Китов имеет к избавлению от этого густого тумана? Должно же быть хоть какое-то объяснение, нет?
+Хитклиф: Хаах... Слушай. Какое отношение пробуждение этих Китов имеет к избавлению от этого густого тумана? У этого должно быть хоть немного смысла, нет?
 
 # Original: Heathcliff discusses the correlation between actions and consequences. This truly is a rare experience indeed.
-Фауст: Хитклиф рассуждает о корреляции между причинами и следствиями. Это действительно редкий опыт.
+Фауст: Хитклиф рассуждает о корреляции между причинами и следствиями. Это действительно редкий случай.
 
 # Original: Shut up, smartarse... I'm serious.
 Хитклиф: Заткнись, всезнайка... Я серьезно.
 
 # Original: ... And you think the law that sends Waves after us if we don't cross the borders at the exact right moment makes sense?
-Измаил: ... А ты думаешь, что закон, по которому за нами погонятся Волны, если мы не пересечем границ в определенно нужный момент, имеет смысл?
+Измаил: ... А ты думаешь, что закон, по которому за нами погонятся Волны, если мы не пересечем границ точно в нужный момент, имеет смысл?
 
 # Original: Huh?
 Хитклиф: А?
@@ -92,13 +92,13 @@
 Измаил: Ты думаешь, что закон, заставляющий нас ходить кругами, прежде чем достичь пункта назначения, закон, который не позволяет нам вернуться тем же путем, каким мы пришли, имеет хоть какой-то смысл?
 
 # Original: I've been telling you this whole time. Common sense has no place in the Great Lake.
-Измаил: Я все время вам говорю. Здравый смысл неприменим к Великому Озеру.
+Измаил: Я все время вам говорила. Здравый смысл неприменим к Великому Озеру.
 
 # Original: That's just the way this place works, okay? Just... You just have to accept that.
-Измаил: Просто так это место работает, понятно? Просто... Тебе просто нужно это принять.
+Измаил: Просто это место так работает, понятно? Просто... Тебе просто нужно это принять.
 
 # Original: ... Fine. I'll give you that. But they're like the laws of the City. As outlandish as they are, they're still strict laws that can be calculated into those variable coordinates or whatnot. What you're blathering here is some vague old song. Am I supposed to believe something so absurd?
-Хитклиф: ... Ладно. Допустим. Но они похожи на законы Города. Какими бы странными они ни были, это все еще строгие законы, которые можно рассчитать с помощью этих переменных координат или как их там. То, что ты тут бормочешь - это какая-то старая расплывчатая песня. Я должен поверить в нечто столь абсурдное?
+Хитклиф: ... Ладно. Допустим. Но они похожи на законы Города. Какими бы странными они ни были, это все еще строгие законы, которые можно пересчитать в эти переменные координаты или как их там. То, что ты тут бормочешь - это какая-то старая расплывчатая песня. Я должен поверить в нечто столь абсурдное?
 
 # Original: Yes. Because I've seen it myself.
 Измаил: Да. Потому что я сама это видела.
