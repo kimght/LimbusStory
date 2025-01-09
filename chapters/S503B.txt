@@ -137,7 +137,7 @@
 Отис: Молчать. Исполнительный Менеджер — наш командующий офицер. И всегда был им.
 
 # Original: Downcast and shoulders slumped, Outis made her way into the ship cabins(formerly the bus cabins).
-Рассказчик: Удручённая и с опущенными плечами, Отис направилась в каюты корабля (бывшие автобусные отсеки).
+Рассказчик: Удручённая и с опущенными плечами, Отис направилась в каюту корабля (бывший салон автобуса).
 
 # Original: Our destination is near. Welcome to one of the Five Great Ports of U Corp., the Marlin Port.
 Фауст: Наш пункт назначения близко. Добро пожаловать в один из Пяти Великих Портов Корпорации U, Порт Марлин.
