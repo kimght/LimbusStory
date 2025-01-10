@@ -14,7 +14,7 @@
 Отис: Нет. Новобранцы не готовы иметь дело с таким поездом. Мы ведь здесь не для того, чтобы разбираться с обычными "самоубийцами", верно?
 
 # Original: I.A. The B.S. duty'll only get in our way.
-Рёшу: С.Г. Н.Д. будет только мешать нам.
+Рёшу: Я.С. Р.Н. будет только мешать нам.
 
 # Original: If the passengers have retained enough sense to barricade themselves behind the train doors, then it is likely that they also retained a degree of intelligence. Keep your guards up.
 Отис: Если пассажиры сохранили достаточно рассудка, чтобы забаррикадироваться за дверями поезда, то вероятно, они также сохранили некоторую степень интеллекта. Будьте начеку.
@@ -74,7 +74,7 @@
 Отис: …….
 
 # Original: The child had an inkling as to what might have happened.
-Рассказчик: Дитя имело слабое представление о том, что могло произойти.
+Рассказчик: Дитя имело смутное представление о том, что могло произойти.
 
 # Original: First class ticket sales have been steadily declining ever since 'the incident' from a few years ago.
 Рассказчик: Продажи билетов первого класса неуклонно снижаются с момента "инцидента", произошедшего несколько лет назад.
@@ -221,7 +221,7 @@
 Отис: Не дай себя убить, размахивая этим недозаряженным оружием.
 
 # Original: The artistic merit of my D.D.E.D.R. shines only when my blood drenches its—
-Рёшу: Художественные достоинства моего Д.Д.Е.Д.Р. блистают только когда моя кровь орошает его—
+Рёшу: Художественные достоинства моего П.Д.К.П.П. блистают только когда моя кровь орошает его—
 
 # Original: Denied. Take a seat if you're even remotely serious about using that weapon. Leave this one to me.
 Отис: Отказано. Сядь, если ты хоть немного серьезно относишься к использованию этого оружия. Оставь этого мне.
