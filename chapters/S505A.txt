@@ -77,13 +77,13 @@
 Фауст: Я слушаю.
 
 # Original: <Should we do something? Is she going to be okay? I mean, Ishmael...>
-Данте: <Нам стоит что-нибудь предпринять? С ней всё будет в порядке? Я имею в виду, Измаил...>
+Данте: <Нам стоит что-нибудь предпринять? Я имею в виду, Измаил... С ней всё будет в порядке?>
 
 # Original: I can give you answers regarding her insubordination and her emotional state.
 Фауст: Я могу дать вам ответы относительно её неподчинения и эмоционального состояния.
 
 # Original: But this is not a matter in which Faust's answers can be of much assistance.
-Фауст: Но это не тот вопрос, в котором ответы Фауст могут быть особенно полезны.
+Фауст: Но это не тот вопрос, в котором ответы Фауст могут быть особо полезны.
 
 # Original: Executive Manager, such insubordination and nigh rogue behavior would have resulted in an on-the-spot execution in any other organization.
 Отис: Исполнительный Менеджер, такое неподчинение и почти мятежное поведение в любой другой организации привело бы к немедленной казни на месте.
@@ -131,7 +131,7 @@
 Отис: Исполнительный Менеджер. Я странствовала много лет по далёким землям, прежде чем отправиться сюда. И я делала это с непоколебимой решимостью — ради единственного пункта в моём контракте с компанией.
 
 # Original: I came ready to face all the hardships that the journey entails. Adversity, conflict, and loss of comrades are simply facts of this quest that I must weather. Truth be told, I expect all of them to happen at some point in our journey.
-Отис: Я пришла готовой столкнуться со всеми трудностями, которые влечёт за собой это путешествие. Невзгоды, конфликты и потеря товарищей — это просто факты этих поисков, которые я должна пережить. По правде говоря, я ожидаю, что всё это произойдёт на каком-то этапе нашего путешествия.
+Отис: Я пришла готовой столкнуться со всеми трудностями, которые влечёт за собой это путешествие. Невзгоды, конфликты и потеря товарищей — это просто обстоятельства этих поисков, которые я должна пережить. По правде говоря, я ожидаю, что всё это произойдёт на каком-то этапе нашего путешествия.
 
 # Original: Oh, I will always remain by your side, of course.
 Отис: О, я, всегда останусь на вашей стороне, разумеется.
