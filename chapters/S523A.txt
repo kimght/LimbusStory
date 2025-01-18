@@ -35,7 +35,7 @@
 Рассказчик: Если бы только... Если бы я только знал... Тогда, возможно, я мог бы лучше её понять.
 
 # Original: I keep going back to my quarrel with Ishmael back at the Boatworks. I can't stop thinking about it.
-Рассказчик: Я всё время возвращаюсь мыслями к нашей ссоре с Измаил на Лодочных мастерских. Не могу перестать думать об этом.
+Рассказчик: Я всё время возвращаюсь мыслями к нашей ссоре с Измаил на Верфи. Не могу перестать думать об этом.
 
 # Original: We have dispatched the Mermaids that descended onto the deck, but lingering any longer may draw the rest of them to us.
 Отис: Мы справились с русалками, спустившимися на палубу, но если мы задержимся дольше, это может привлечь к нам остальных.
