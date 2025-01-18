@@ -29,7 +29,7 @@
 Данте: <У меня нет ни малейшего представления, где мы можем находиться...>
 
 # Original: Weird... I didn't know it could rain inside a Whale's belly.
-Хон Лу: Странно... Я и не знал, что внутри желудка Кита может идти дождь.
+Хон Лу: Странно... Я и не знал, что в брюхе Кита может идти дождь.
 
 # Original: I was still unsure where to go, so much so that I was starting to feel completely lost... when Hong Lu suddenly blurted something about rain.
 Рассказчик: Я всё ещё не знал, куда идти, настолько, что начал чувствовать себя совершенно потерянным... когда Хон Лу вдруг выпалил что-то о дожде.
