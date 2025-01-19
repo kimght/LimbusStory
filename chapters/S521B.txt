@@ -137,7 +137,7 @@
 Дон Кихот: ... Искусство танца... воистину должно быть искусством великой глубины...
 
 # Original: Well, that was some damp squib. I thought it was actually going somewhere.
-Хитклиф: Ну, это было разочарование. А я-то думал, что история к чему-то ведёт.
+Хитклиф: Ну, это было полное разочарование. А я-то думал, что история к чему-то ведёт.
 
 # Original: I had thought with quite the confidence that this would be a tale of the living dead.
 И Сан: Я был весьма уверен, что это будет рассказ о живых мертвецах.
