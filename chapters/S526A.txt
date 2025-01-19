@@ -92,7 +92,7 @@
 Рим: Да, это действительно так.
 
 # Original: ... Man, I'm really off my game.
-Грегор: ... Чёрт, я сегодня совсем не в форме.
+Грегор: ... Мужик, я сегодня совсем не в форме.
 
 # Original: To seek the bough within this structure is to understand the futility of time.
 Рим: Искать ветвь внутри этого сооружения — значит понять тщетность времени.
@@ -122,7 +122,7 @@
 Отис: Ты говоришь, что Кит пришел с Окраин аж до Великого Озера Корпорации U ради Золотой Ветви?
 
 # Original: Quite. And swallowed this structure whole with that delicate Bough.
-Рим: Именно. И проглотил эту строение целиком вместе с той хрупкой Ветвью.
+Рим: Именно. И проглотил это строение целиком вместе с той хрупкой Ветвью.
 
 # Original: The Abnormalities here have also left with that magnificent yet fragile Whale, drawn by that selfsame calling.
 Рим: Аномалии отсюда также ушли с этим величественным, но хрупким Китом, привлеченные тем же самым зовом.
