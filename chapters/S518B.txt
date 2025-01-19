@@ -131,7 +131,7 @@
 Измаил: .......
 
 # Original: And that was when you didn't have someone to bring you back. I say that this is well within our capabilities.
-Отис: И это было тогда, когда у тебя не было кого то, кто мог бы вернуть тебя. Я считаю, что это вполне в наших силах.
+Отис: И это было тогда, когда у тебя не было никого, кто мог бы вернуть тебя. Я считаю, что это вполне в наших силах.
 
 # Original: Besides, there is the added benefit of accelerating our mission, and the higher possibility of rescue that the Executive Manager and a few underlings wanted.
 Отис: Кроме того, есть дополнительное преимущество в ускорении нашей миссии и более высокая вероятность спасения, чего хотели бы Исполнительный Менеджер и некоторые подчиненные.
