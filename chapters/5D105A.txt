@@ -29,7 +29,7 @@
 Измаил: Квикег!!!
 
 # Original: In a sudden, explosive burst of energy, Ishmael bolted forth like a cannonball toward Queequeg before holding her in a tight embrace.
-Рассказчик: Внезапно, Измаил рванулась вперёд, словно взрывной всплеск энергии, словно пушечное ядро, прямо к Квикег, прежде чем крепко обнять её.
+Рассказчик: Охваченная внезапным, взрывным порывом энергии, Измаил, словно пушечное ядро, бросилась к Квикег и заключила ее в крепкие объятия.
 
 # Original: Whew... wasn't she saying something about bashing her face in just moments ago?
 Родион: Фух... разве она не говорила что-то о том, чтобы разбить ей лицо всего мгновение назад?
