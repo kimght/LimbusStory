@@ -212,7 +212,7 @@
 Рассказчик: Перед нами поднимается колоссальная волна, достигая своего гребня.
 
 # Original: ... S.I.C. Ready your weapons if you want to delay the inevitable.
-Рёшу: ... S.I.C. Приготовьте оружие, если хотите отсрочить неизбежное.
+Рёшу: ... С.О.К. Приготовьте оружие, если хотите отсрочить неизбежное.
 
 # Original: 'It's not your sailing prowess, your far-seeing eyes of a pathfinder, or the unbreakable bond between you and your mates.'
 Измаил: "Дело не в твоём мастерстве мореплавания, не в твоих зорких глазах первопроходца, или даже нерушимой связи между тобой и твоими товарищами."
