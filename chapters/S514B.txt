@@ -50,7 +50,7 @@
 Пилот: Я и мои товарищи по команде работали очень слаженно...
 
 # Original: But the Twinhook Pirates of U Corp. Backstreets caught wind of us sniffin' around!
-Пилот: Но пираты Двух Крюков из Подворотен Корпорации U узнали о том, что мы тут разнюхиваем!
+Пилот: Но Пираты-Двукрюки из Подворотен Корпорации U узнали о том, что мы тут разнюхиваем!
 
 # Original: Listen 'ere lad! This be the cheapest bottle of oil in all the Great Lake, I tell ye!
 Похититель: Слушай сюда, парень! Это самая дешёвая бутылка масла во всём Великом Озере, говорю тебе!
