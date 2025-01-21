@@ -1,5 +1,5 @@
 # Original: <color=#ff9500>It is said that Queequeg's ropes, twisted by her powerful grip and her esoteric techniques…</color=#ff9500>
-Измаил: <color=#ff9500>Говорят, что веревки Квикег, свитые ее мощной хваткой и эзотерическими техниками...</color=#ff9500>
+Измаил: <color=#ff9500>Говорят, что веревки Квикег, свитые ее мощной хваткой и тайными техниками...</color=#ff9500>
 
 # Original: <color=#ff9500>... are tougher than any other rope in the world.</color=#ff9500>
 Измаил: <color=#ff9500>... крепче любых других веревок в мире.</color=#ff9500>
