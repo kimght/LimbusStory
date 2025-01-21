@@ -38,7 +38,7 @@
 Синклер: ... Эм.
 
 # Original: Sinclair stood there, still like death. He looked up.
-Рассказчик: Синклер стоял там, неподвижный как смерть. Он смотрел наверх.
+Рассказчик: Синклер стоял там, неподвижный как статуя. Он смотрел наверх.
 
 # Original: <... What are you looking at?>
 Данте: <... На что ты смотришь?>
@@ -56,7 +56,7 @@
 Рассказчик: Возможно, свет проникает снаружи...?
 
 # Original: No, that doesn't make sense either. We're deep in the ship's storage, a big metal box with no opening for even a single strand of natural light.
-Рассказчик: Нет, это тоже не имеет смысла. Мы глубоко в хранилище корабля, большом металлическом ящике без единого отверстия даже для одной ниточки естественного света.
+Рассказчик: Нет, это тоже не имеет смысла. Мы глубоко в трюме корабля, большом металлическом ящике без единого отверстия, куда не проникает ни лучика естественного света
 
 # Original: Besides, it's nighttime. This is getting more and more bizarre by the second. Where is this light coming from...?
 Рассказчик: Кроме того, сейчас ночь. Это становится всё более и более странным с каждой секундой. Откуда исходит этот свет...?
