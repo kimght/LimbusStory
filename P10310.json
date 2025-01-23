@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "……."
     },
     {
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Ах... ааах..."
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": 7,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "<i>Гах, аааааргх!!!</i>"
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": 11,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Пробудись ото сна, о Отец."
     },
     {
@@ -113,13 +113,13 @@
     {
       "id": 24,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Ты построил эту непреодолимую стену отчуждения между собой и всеми нами. Ответственность лежит на тебе, и только на тебе."
     },
     {
       "id": 25,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "<i>Ты</i> бросил нас."
     },
     {
@@ -197,7 +197,7 @@
     {
       "id": 44,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Неужели рассказы человека настолько тебя увлекают?"
     },
     {
@@ -275,25 +275,25 @@
     {
       "id": 63,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Как прошли консультации?"
     },
     {
       "id": 64,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "……."
     },
     {
       "id": 65,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Ну, всё как обычно. Все спокойны, умиротворены, как всегда, и всё такое."
     },
     {
       "id": 66,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Ты лжёшь. Ты считаешь меня настолько глупой, что я не пойму, что на самом деле происходит?"
     },
     {
@@ -319,31 +319,31 @@
     {
       "id": 72,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Отмени часть консультаций."
     },
     {
       "id": 73,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Но—"
     },
     {
       "id": 74,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Направляй их ко мне. Я выслушаю их беды."
     },
     {
       "id": 75,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "...Правда?"
     },
     {
       "id": 76,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "В таком темпе эта ответственность сломает тебя раньше всех остальных, если ты продолжишь нести её в одиночку."
     },
     {
@@ -353,7 +353,7 @@
     {
       "id": 78,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "...Пожалуйста, не стесняйся обращаться ко мне за помощью, если возникнут какие-либо вопросы или трудности."
     },
     {
@@ -363,13 +363,13 @@
     {
       "id": 80,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "……."
     },
     {
       "id": 81,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "……."
     },
     {
@@ -383,37 +383,37 @@
     {
       "id": 84,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Это... напомнило мне."
     },
     {
       "id": 85,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Я слышал через сарафанное радио, что Отец готовится отправиться в приключение."
     },
     {
       "id": 86,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Да. И снова в одиночку. Похоже, это опять дело рук человека."
     },
     {
       "id": 87,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Я слышал, что это приключение будет поиском легендарного шлема. От одной только идеи... я едва могу дождаться."
     },
     {
       "id": 88,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "……."
     },
     {
       "id": 89,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Ты... Что тебе известно об этом приключении?"
     },
     {
@@ -431,19 +431,19 @@
     {
       "id": 93,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...План, говоришь?"
     },
     {
       "id": 94,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Не знаю, мудро ли с моей стороны делиться этим с тобой, но... да. Леди Родион стоит за этим планом."
     },
     {
       "id": 95,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Ну... Полагаю, теперь нет вреда в том, чтобы поделиться этим с тобой."
     },
     {
@@ -457,7 +457,7 @@
     {
       "id": 98,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "...Всё это ради счастья Семьи."
     },
     {
@@ -471,7 +471,7 @@
     {
       "id": 101,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "……."
     },
     {
@@ -517,19 +517,19 @@
     {
       "id": 112,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Она замышляет грех сыновнего непочтения. Немыслимое преступление."
     },
     {
       "id": 113,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Но... я должна выслушать её сначала."
     },
     {
       "id": 114,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "Леди Родион сейчас заканчивает последний Парад дня."
     },
     {
@@ -583,7 +583,7 @@
     {
       "id": 126,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Нелепо ребяческая мечта Отца... становится реальностью. Они начинают признавать её."
     },
     {
@@ -595,7 +595,7 @@
     {
       "id": 128,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "……."
     },
     {
@@ -607,7 +607,7 @@
     {
       "id": 130,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Делай, что должна."
     },
     {
@@ -635,7 +635,7 @@
     {
       "id": 136,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Я сказала действуй. Вперёд."
     },
     {
@@ -651,19 +651,19 @@
     {
       "id": 139,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Это Отец бросил нас."
     },
     {
       "id": 140,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "И этот план..."
     },
     {
       "id": 141,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...исходит не от кого иного, как от тебя, кому пришлось заботиться обо всей Семье, пока наш отсутствующий Отец гнался за своими пустыми мечтами."
     },
     {
@@ -675,7 +675,7 @@
     {
       "id": 143,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Сосредоточься на плане, а заботу о Семье пока оставь мне."
     },
     {
@@ -705,7 +705,7 @@
     {
       "id": 148,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...Да."
     },
     {
@@ -747,7 +747,7 @@
     {
       "id": 155,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Это—"
     },
     {
@@ -759,7 +759,7 @@
     {
       "id": 157,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Я примерю твоё платье... в следующий раз. А сейчас я хотела бы, чтобы ты подробнее рассказала о своём \"плане\"."
     },
     {
@@ -789,7 +789,7 @@
     {
       "id": 162,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Восприниматься как равный смотрящим... Значит ли это, что табу, наше отвращение к причинению вреда высшему Сородичу может быть... нейтрализовано?"
     },
     {
@@ -819,7 +819,7 @@
     {
       "id": 168,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Но..."
     },
     {
@@ -839,31 +839,31 @@
     {
       "id": 172,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...Вот почему мы обратились против тебя."
     },
     {
       "id": 173,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Потому что в тёмных, невидимых углах Ла-Манчалэнда мы были там. Молча страдая, пока наш инстинкт душил нас."
     },
     {
       "id": 174,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Как ты отрёкся от нашего счастья, мы отрекаемся от твоих идеалов!"
     },
     {
       "id": 175,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Мы будем искать крови! Убивать каждого человека, которого увидим!"
     },
     {
       "id": 176,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...А Рыцарь, который извратил твой разум, будет найден и разорван на части."
     },
     {
@@ -885,7 +885,7 @@
     {
       "id": 181,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "……"
     },
     {
@@ -915,7 +915,7 @@
     {
       "id": 188,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Он не пытается сражаться с нами. Это..."
     },
     {
@@ -935,7 +935,7 @@
     {
       "id": 192,
       "model": "그레고르",
-      "title": "The Priest of La Manchaland",
+      "title": "Священник Ла-Манчалэнда",
       "content": "...Это возмездие, которого мы заслуживаем."
     },
     {
@@ -959,25 +959,25 @@
     {
       "id": 197,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Прекрати это."
     },
     {
       "id": 198,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Если ты когда-либо любил нас так же сильно, как мы когда-то любили тебя..."
     },
     {
       "id": 199,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...ты этого не сделаешь. Я умоляю тебя."
     },
     {
       "id": 200,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Ибо это твоя последняя ответственность перед нами как нашего Отца."
     },
     {
@@ -1011,43 +1011,43 @@
     {
       "id": 208,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Если кто-то придёт, спрашивая о местонахождении нашего Отца, дайте им такой ответ."
     },
     {
       "id": 209,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Что наш Отец, который скакал к пустой мечте, протаскивая свою Семью через жестокие страдания, в конце концов встретил свой конец в грязи."
     },
     {
       "id": 210,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "А если кто-то спросит вас \"как вы будете жить дальше\"..."
     },
     {
       "id": 211,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Смело утверждайте, что будете жить так, как должен жить Кровожад."
     },
     {
       "id": 212,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Тогда..."
     },
     {
       "id": 213,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Пока я несу ответственность и вину..."
     },
     {
       "id": 214,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...идите искать счастье, которое вы потеряли."
     },
     {
@@ -1061,7 +1061,7 @@
     {
       "id": 217,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "...Так заканчивается сновидение."
     },
     {
@@ -1071,7 +1071,7 @@
     {
       "id": 219,
       "model": "옛산초",
-      "title": "The Manager of La Manchaland",
+      "title": "Менеджер Ла-Манчалэнда",
       "content": "Для всех. Для тебя. И меня..."
     },
     {
