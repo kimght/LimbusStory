@@ -2453,5 +2453,49 @@
     "original": "Horrified Bloodfiend",
     "translation": "Испуганный Кровожад",
     "model": "혈귀 3"
+  },
+  {
+    "original": "Stephan",
+    "translation": "Стефан"
+  },
+  {
+    "original": "Novice Researcher",
+    "translation": "Новый Исследователь"
+  },
+  {
+    "original": "Bloodfiend Hunter",
+    "translation": "Охотник на Кровожадов"
+  },
+  {
+    "original": "Panicked Henchman",
+    "translation": "Паникующий Приспешник"
+  },
+  {
+    "original": "Calm Henchman",
+    "translation": "Спокойный Приспешник"
+  },
+  {
+    "original": "Don Quixote?",
+    "translation": "Дон Кихот?",
+    "model": "산초"
+  },
+  {
+    "original": "Leader",
+    "translation": "Лидер"
+  },
+  {
+    "original": "Johann",
+    "translation": "Йохан",
+    "model": "호엔과거동료"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "호엔하임"
+  },
+  {
+    "original": "Faust & Vergilius",
+    "translation": "Фауст и Вергилий",
+    "model": "베르길파우"
   }
 ]
