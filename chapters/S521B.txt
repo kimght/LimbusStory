@@ -17,10 +17,10 @@
 Грегор: У нас же нет, эм... приглашения или чего-то подобного.
 
 # Original: Puff out your chest, Greg~ The more the merrier, right? They'll understand~
-Родион: Расправь плечи, Грег~ Чем больше народу, тем веселее, верно? Они нас поймут~
+Родион: Расправь плечи, Грег~ Чем больше народу, тем веселее, верно? Они поймут~
 
 # Original: I couldn't care less about a party. We're here to gather intel. Waste any more time, and I'm leaving you behind.
-Измаил: Мне плевать на вечеринку. Мы здесь, чтобы собрать информацию. Потратите ещё время — я вас здесь оставлю.
+Измаил: Мне плевать на вечеринку. Мы здесь, чтобы собрать информацию. Потратите ещё больше времени — и я вас здесь оставлю.
 
 # Original: Wow... This... this place really is fancy...!
 Синклер: Вау... Это... это место действительно шикарное...!
@@ -35,28 +35,28 @@
 Дон Кихот: Ах! Я наблюдаю свет, льющийся из недр корабля! Я помчусь быстрее ветра и установлю его источник!!!
 
 # Original: Don Quixote, running on sheer excitement for a party, scuttled to the cabins.
-Рассказчик: Дон Кихот, движимая чистым возбуждением от предвкушения вечеринки, поспешила к каютам.
+Рассказчик: Дон Кихот, движимая явным возбуждением от предвкушения вечеринки, поспешила к каютам.
 
 # Original: Well, that's one loudmouth gone... Then...!
-Хитклиф: Ну, одним горлопаном меньше... Тогда...!
+Хитклиф: Ну, одним крикуном меньше... Тогда...!
 
 # Original: Heathcliff slammed his fist into the loudspeaker that's been blaring music this entire time.
 Рассказчик: Хитклиф со всей силы ударил по громкоговорителю, который всё это время орал музыку.
 
 # Original: Blimey... Now that's a relief. Thought my eardrums were about to burst.
-Хитклиф: Вот это да... Вот теперь полегчало. Думал, у меня барабанные перепонки лопнут.
+Хитклиф: Вот это да... Какое облегчение. Думал, у меня барабанные перепонки лопнут.
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: I decided to remain silent. The music *was* pretty loud.
-Рассказчик: Я решил промолчать. Музыка *и правда* была довольно громкой.
+Рассказчик: Я решил промолчать. Музыка и правда *была* довольно громкой.
 
 # Original: Well, it's awful quiet up here now that the music's gone.
-Грегор: Что ж, теперь здесь ужасно тихо, когда музыка стихла.
+Грегор: Что ж, когда музыка стихла - теперь здесь ужасно тихо.
 
 # Original: Oh, this reminds me of a similar story my nanny used to tell me. It's an old story, but...
-Хон Лу: О, это напомнило мне похожую историю, которую мне рассказывала няня. Она старая, но...
+Хон Лу: О, это напомнило мне похожую историю, которую рассказывала моя няня. Она старая, но...
 
 # Original: Don Quixote returns with a dumbfounded expression on her face.
 Рассказчик: Дон Кихот возвращается с ошеломлённым выражением лица.
@@ -74,7 +74,7 @@
 Дон Кихот: Однако... свет был оставлен включённым... И ни души внутри не видать...
 
 # Original: Ridiculous. It is clear that, mere moments ago, a large group of people were having a party on the deck. How could there be no one aboard?
-Отис: Нелепо. Очевидно, что ещё мгновение назад на палубе веселилась большая группа людей. Как это может никого не быть на борту?
+Отис: Нелепица. Очевидно, что ещё мгновение назад на палубе веселилась большая группа людей. Как это может никого не быть на борту?
 
 # Original: F-for truth! Mayhaps... they are busying themselves with a game of hide-and-seek...?
 Дон Кихот: В-воистину! Быть может... они заняты игрой в прятки...?
@@ -116,7 +116,7 @@
 Синклер: …….
 
 # Original: ... And there they were! Bodies as stiff as corpses in rigor mortis, arms stretched forward, hopping, up and down...!
-Хон Лу: ... И вот они! Тела, жёсткие, как трупы в трупном окоченении, руки вытянуты вперёд, прыгают вверх и вниз...!
+Хон Лу: ... И вот они! Тела, жёсткие, как мертвецы в трупном окоченении, руки вытянуты вперёд, прыгают вверх и вниз...!
 
 # Original: OH! That's... I-I...!!! I think I'll go check out the storage space!!
 Синклер: АХ! Это... Я-я...!!! Пойду-ка я проверю складское помещение!!
@@ -137,7 +137,7 @@
 Дон Кихот: ... Искусство танца... воистину должно быть искусством великой глубины...
 
 # Original: Well, that was some damp squib. I thought it was actually going somewhere.
-Хитклиф: Ну, это был полный провал. А я-то думал, что история к чему-то ведёт.
+Хитклиф: Ну, это было полное разочарование. А я-то думал, что история к чему-то ведёт.
 
 # Original: I had thought with quite the confidence that this would be a tale of the living dead.
 И Сан: Я был весьма уверен, что это будет рассказ о живых мертвецах.

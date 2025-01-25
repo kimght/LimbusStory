@@ -29,7 +29,7 @@
 Пилот: ... Эм, почему вы все так на меня смотрите...?
 
 # Original: Long story short, there was a whole mess with this other guy who claimed to be a fan. So... yeah. You gotta understand.
-Грегор: Если вкратце, у нас тут была целая история с другим парнем, который утверждал, что он тоже фанат. Так что... да. Ты должен понять.
+Грегор: Если вкратце, у нас тут была целая история с другим парнем, который тоже утверждал, что он фанат. Так что... да. Ты должен понять.
 
 # Original: Khm, ahm...
 И Сан: Кхм, ахм...
@@ -47,43 +47,43 @@
 Рёшу: ... Время для П.У.Л.
 
 # Original: W-wait! I'm just delivering the message exactly as she said it, intonations and all!
-Пилот: П-подождите! Я просто передаю сообщение в точности, как она сказала, со всеми интонациями!
+Пилот: П-подождите! Я просто передаю сообщение в точности, как она сказала, со всеми интонациями и прочим!
 
 # Original: Watch out~ Don't cha think it might've been better to start with "and I quote"~? And tell us who this 'she' is, too.
 Родион: Осторожнее~ Не думаешь, что было бы лучше начать с "цитирую"~? И сказать нам, кто эта "она", тоже.
 
 # Original: Abbreviations and omissions are two completely different things. I'll let this slide, fledgling. Just this once.
-Рёшу: Аббревиатуры и упущения — это две совершенно разные вещи. Я закрою на это глаза, салага. Только на этот раз.
+Рёшу: Аббревиатуры и упущения — это две совершенно разные вещи. Я закрою на это глаза, юнец. Только на этот раз.
 
 # Original: Who 'she' is? Well, of course! It's none other than...
 Пилот: Кто "она"? Ну, конечно! Это не кто иная, как...
 
 # Original: Manager Miss Saude herself!
-Пилот: Сама мисс Менеджер Сауде!
+Пилот: Сама мисс Менеджер Сод!
 
 # Original: <...!>
 Данте: <...!>
 
 # Original: Saude... is alive?
-Измаил: Сауде... жива?
+Измаил: Сод... жива?
 
 # Original: M-manager...? Did she get promoted?
 Грегор: М-менеджер...? Её повысили?
 
 # Original: She's still in recovery, but After Team arrived just in the nick of time and treated her wounds, saving her life.
-Пилот: Она всё ещё восстанавливается, но Команда "После" прибыла как раз вовремя и обработала её раны, спасая ей жизнь.
+Пилот: Она всё ещё восстанавливается, но Команда "После" прибыла как раз вовремя и залечила её раны, спася ей жизнь.
 
 # Original: ... I'm glad it wasn't a posthumous promotion.
 Отис: ... Я рада, что это не посмертное повышение.
 
 # Original: Manager Saude wanted to meet all of y'all too, but couldn't make it on account of her bein' on a different mission.
-Пилот: Менеджер Сауде тоже хотела встретиться со всеми вами, но не смогла из-за того, что она на другом задании.
+Пилот: Менеджер Сод тоже хотела встретиться со всеми вами, но не смогла из-за того, что она на другом задании.
 
 # Original: <I'm glad she's okay...>
 Данте: <Я рад, что с ней всё в порядке...>
 
 # Original: Is Saude... okay?
-Измаил: Сауде... в порядке?
+Измаил: Сод... в порядке?
 
 # Original: 'Course! It wasn't the smoothest recovery, but she's now healthy enough to eat some grub and hold a lengthy conversation.
 Пилот: Конечно! Восстановление было не самым гладким, но сейчас она достаточно здорова, чтобы есть и вести длительные разговоры.
@@ -104,10 +104,10 @@
 Рассказчик: Пилот достал кусок старой сложенной бумаги и начал читать с неё.
 
 # Original: 'This is a reminder to all LCCB employees. We, the Before Team, are assigned the paramount task of clearing the path before anyone else does. Every bloodied step, every flesh given becomes another stepping stone for your fellow Limbus Company employees to follow into the future.'
-Пилот: "Это напоминание всем сотрудникам LCCB. Нам, Команде "До", поручена первостепенная задача расчистки пути прежде, чем это сделает кто-либо другой. Каждый окровавленный шаг, каждая отданная плоть становится ещё одной ступенькой для наших коллег из Компании Лимбус, чтобы следовать в будущее."
+Пилот: "Это напоминание всем сотрудникам LCCB. Нам, Команде "До", поручена первостепенная задача расчистки пути прежде, чем это сделает кто-либо другой. Каждый окровавленный шаг, каждая травма и ранение становятся ещё одной ступенькой для наших коллег из Компании Лимбус, чтобы следовать в будущее."
 
 # Original: That’s the very first line from the new hire training guide we were issued.
-Пилот: Это самая первая строчка из руководства по обучению новых сотрудников, которое нам выдали.
+Пилот: Это самая первая строчка из обучающего руководства для новых сотрудников, выданного нам.
 
 # Original: And I'm proud of it! I'm proud of the sacrifices we make. Most of my coworkers at LCCB just want to make a quick buck before quitting and say I'm the odd one, though.
 Пилот: И я горжусь этим! Я горжусь жертвами, которые мы приносим. Хотя большинство моих коллег в LCCB просто хотят быстренько заработать перед увольнением и говорят, что я странный.
@@ -119,7 +119,7 @@
 Измаил: Серьёзно?
 
 # Original: Now now, Ishy~ Whaaat? You want Sardine Whale flavored ice cream? No way, me too! Why don't we head out and get some together~?
-Родион: Ну-ну, Изя~ Чтоо? Ты хочешь мороженое со вкусом сардинового Кита? Да ладно, я тоже! Почему бы нам не пойти и не взять немного вместе~?
+Родион: Ну-ну, Изя~ Чтоо? Ты хочешь мороженое со вкусом сардинового Кита? Да ладно, я тоже! Почему бы нам не пойти и не взять его вместе~?
 
 # Original: Hey, let me go. Let me g— Gah, how are you so strong—
 Измаил: Эй, отпусти меня. Отпус— Гах, почему ты такая сильная—
@@ -137,7 +137,7 @@
 Рассказчик: Я решил незаметно последовать за ними на расстоянии.
 
 # Original: Ishy, ya gotta stop bringing down the mood like that~ We saved his life, didn't we?
-Родион: Изя, ты должна перестать портить настроение таким образом~ Мы же спасли ему жизнь, разве нет?
+Родион: Изя, ты должна перестать вот так портить настроение~ Мы же спасли ему жизнь, разве нет?
 
 # Original: I understand that things are a bit rough right now, but let's be a bit more patient, 'kay~?
 Родион: Я понимаю, что сейчас всё немного сложно, но давай будем немного терпеливее, ладно~?
@@ -164,7 +164,7 @@
 Родион: Давай выслушаем нашего чрезмерно усердного друга, как насчёт этого?
 
 # Original: ... Don't talk down to me like you're coddling some baby.
-Измаил: ... Не говори со мной свысока, как будто нянчишься с ребёнком.
+Измаил: ... Не разговаривай со мной свысока, будто нянчишься с ребёнком.
 
 # Original: We're not that close, Rodion.
 Измаил: Мы не настолько близки, Родион.
@@ -176,7 +176,7 @@
 Родион: ... Ладно, ладно~
 
 # Original: Rodya seemed to have noticed that I was following them all along. She signaled me with a quick wink...
-Рассказчик: Родя, похоже, всё время замечала, что я следую за ними. Она подала мне сигнал быстрым подмигиванием...
+Рассказчик: Родя, похоже, заметила, что я  всё это время следую за ними. Она подала мне сигнал, быстро подмигнув...
 
 # Original: ... And I was able to return to where the other Sinners were before they did.
-Рассказчик: ... И я смог вернуться туда, где были остальные Грешники, до того, как они вернулись.
+Рассказчик: ... И я успел вернуться туда, где были остальные Грешники, до того, как вернулась эта парочка.

@@ -1,14 +1,14 @@
 # Original: All of you. Strong.
-Квиквег: Вы все. Сильные.
+Квикег: Вы все. Сильные.
 
 # Original: But no sailors.
-Квиквег: Но не моряки.
+Квикег: Но не моряки.
 
 # Original: Why, talk, so, slow? Irritating.
 Рёшу: Почему, говоришь, так, медленно? Раздражает.
 
 # Original: If you're not abbreviating with acronyms... then all you're doing is wasting time.
-Рёшу: Если не сокращаешь акронимами... то все, что ты делаешь просто тратишь время.
+Рёшу: Если не сокращаешь акронимами... то все, что ты делаешь - просто тратишь время.
 
 # Original: Ishmael's mace nicked the harpooneer's mask. She came dangerously close to smashing their skull.
 Рассказчик: Булава Измаил задела маску гарпунёра. Она была опасно близка к тому, чтобы проломить ей череп.
@@ -17,7 +17,7 @@
 Измаил: Надо было уйти с дороги, когда я дала тебе шанс... Теперь мне придётся разбить тебе лицо.
 
 # Original: But you. You are sailor.
-Квиквег: Но ты. Ты моряк.
+Квикег: Но ты. Ты моряк.
 
 # Original: ... Right.
 Измаил: ... Верно.
@@ -26,10 +26,10 @@
 Измаил: ... Мы обе.
 
 # Original: Queequeg!!!
-Измаил: Квиквег!!!
+Измаил: Квикег!!!
 
 # Original: In a sudden, explosive burst of energy, Ishmael bolted forth like a cannonball toward Queequeg before holding her in a tight embrace.
-Рассказчик: Внезапно, взрывной всплеск энергии, Измаил рванулась вперёд, словно пушечное ядро, прямо к Квиквег, прежде чем крепко обнять её.
+Рассказчик: Охваченная внезапным, взрывным порывом энергии, Измаил, словно пушечное ядро, бросилась к Квикег и заключила ее в крепкие объятия.
 
 # Original: Whew... wasn't she saying something about bashing her face in just moments ago?
 Родион: Фух... разве она не говорила что-то о том, чтобы разбить ей лицо всего мгновение назад?
@@ -41,28 +41,28 @@
 И Сан: Ты боишься, что они могут упорхнуть, если не держать их так крепко.
 
 # Original: Your hair color. Can't forget.
-Квиквег: Твой цвет волос. Не могу забыть.
+Квикег: Твой цвет волос. Не могу забыть.
 
 # Original: Your name. I know.
-Квиквег: Твоё имя. Я знаю.
+Квикег: Твоё имя. Я знаю.
 
 # Original: But no attacking Captain.
-Квиквег: Но не нападай на Капитана.
+Квикег: Но не нападай на Капитана.
 
 # Original: Why...? I'm just...
 Измаил: Почему...? Я просто...
 
 # Original: You attack Captain again, I attack you.
-Квиквег: Ты снова нападёшь на Капитана, я нападу на тебя.
+Квикег: Ты снова нападёшь на Капитана, я нападу на тебя.
 
 # Original: Then kill or be killed. One of us.
-Квиквег: Тогда убить или быть убитым. Одна из нас.
+Квикег: Тогда убить или быть убитым. Одна из нас.
 
 # Original: …….
 Измаил: …….
 
 # Original: Well now, whatever shall you do? Starbuck here has, out of the kindness of his heart, rescued you from jaws of death. Invited you to my village!
-Ахав: Ну что ж, что же вы будете делать? Старбак был там, по доброте душевной, спас вас из пасти смерти. Пригласил вас в мою деревню!
+Ахав: Ну что ж, что же вы будете делать? Старбак был там, спас вас из пасти смерти по доброте душевной. Пригласил вас в мою деревню!
 
 # Original: Yet you've elected to attack me, as if to spit on that very kindness.
 Ахав: И всё же вы решили напасть на меня, словно плюнув на эту самую доброту.
@@ -86,7 +86,7 @@
 Рассказчик: Одно слово от Ахав, и они все набросятся на нас...
 
 # Original: If we were to retreat... behind us is the river of stomach acid. Ahead of us is an unknown territory.
-Рассказчик: Если мы отступим... позади нас река желудочной кислоты. Впереди — неизвестная территория.
+Рассказчик: Если мы будем отступать... позади нас река желудочной кислоты. Впереди — неизвестная территория.
 
 # Original: Haha!! Lads, lasses! Cast fear from your hearts.
 Ахав: Ха-ха!! Парнишки, девчушки! Изгоните страх из своих сердец.
@@ -110,16 +110,16 @@
 Рассказчик: Ахав непринуждённо развернулась и зашагала в одно из зданий. Она держалась с абсолютной уверенностью.
 
 # Original: It was almost like she knew that we would follow. That we had no choice but to follow.
-Рассказчик: Было почти так, словно она знала, что мы последуем за ней. Что у нас нет выбора, кроме как последовать.
+Рассказчик: Как будто она знала, что мы последуем за ней. Что у нас нет выбора, кроме как последовать.
 
 # Original: ... Oi, them blokes that were glarin' at us... They're gone, like nothing happened.
 Хитклиф: ... Эй, те ребята, что пялились на нас... Они исчезли, как будто ничего и не было.
 
 # Original: Captain forgave. Then everyone also forgives. I forgive, too.
-Квиквег: Капитан простила. Тогда все тоже прощают. Я тоже прощаю.
+Квикег: Капитан простила. Тогда все тоже прощают. Я тоже прощаю.
 
 # Original: Huh... To turn her back on someone who was charging at her with murderous intent just moments ago... It's...
-Хитклиф: Хм... Повернуться спиной к кому-то, кто только что бросался на неё с убийственными намерениями... Это...
+Хитклиф: Хм... Повернуться спиной к кому-то, кто только что бросался на неё с намерением убить... Это...
 
 # Original: Yes. She is confident.
 Отис: Да. Она более чем уверена.
@@ -137,10 +137,10 @@
 Измаил: Поговорить с ней? Мирно...? Бессмыслица...
 
 # Original: <It's not like we have a way out of here...>
-Данте: <Не то чтобы у нас был выход отсюда...>
+Данте: <Не то чтобы у нас была возможность выбраться отсюда...>
 
 # Original: Ishmael's gaze followed Queequeg, who walked wordlessly behind the Captain.
-Рассказчик: Взгляд Измаил следовал за Квиквег, которая молча шла за Капитаном.
+Рассказчик: Взгляд Измаил следовал за Квикег, которая молча шла за Капитаном.
 
 # Original: Haah.
 Измаил: Хаах.
@@ -155,7 +155,7 @@
 Измаил: В конце концов, бежать некуда.
 
 # Original: For her, or for us.
-Измаил: Ни для неё, ни для нас.
+Измаил: Ни ей, ни нам.
 
 # Original: …….
-Квиквег: …….
+Квикег: …….

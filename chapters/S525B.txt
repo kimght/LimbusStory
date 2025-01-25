@@ -29,7 +29,7 @@
 Синклер: Ух... Нет... Это те люди, которых искал Пилот?..
 
 # Original: Hark! Heed mine words!
-Дон Кихот: Внемлите! Услышьте мои слова!
+Дон Кихот: Внемли! Услышь мои слова!
 
 # Original: Why the heck would ya talk to it?!
 Родион: Какого чёрта ты с ним разговариваешь?!
@@ -50,13 +50,13 @@
 И Сан: …….
 
 # Original: Hark, mine friends! This man is alive! We must free him from this bond posthaste!
-Дон Кихот: Внемлите, други мои! Сей муж все еще жив! Мы должны немедля освободить его от сих оков!
+Дон Кихот: Внемлите, друзья мои! Сей муж все еще жив! Мы должны немедля освободить его от сих оков!
 
 # Original: Mm... Even if we wanted to, looks like it's a bit late for him.
 Хон Лу: Мм... Даже если бы мы хотели, похоже, для него уже слишком поздно.
 
 # Original: Total disassembly is the only way I see it ever getting out of there. Heh.
-Рёшу: Полная разборка - единственный способ, как я вижу, вытащить его оттуда. Хех.
+Рёшу: Единственный способ вытащить его оттуда, который я вижу - полная разборка. Хех.
 
 # Original: Wha...
 Дон Кихот: Что...
@@ -65,7 +65,7 @@
 Грегор: Ну, к этому времени мы должны были уже привыкнуть к таким неудачам...
 
 # Original: The body is firmly lodged in the walls. No ordinary human strength could separate his body from it.
-Мерсо: Тело прочно застряло в стенах. Никакая обычная человеческая сила не сможет отделить его тело от неё.
+Мерсо: Тело прочно застряло в стенах. Никакая обычная человеческая сила не сможет отделить его туловище от неё.
 
 # Original: With superhuman strength, you risk tearing the body to several parts.
 Мерсо: С нечеловеческой силой вы рискуете разорвать тело на несколько частей.
@@ -77,7 +77,7 @@
 Рёшу: Впечатляет... Нет никаких признаков того, что кто-то силой вдавил его в стены.
 
 # Original: This is quite a natural exhibition. As though this was how it was conceived from the very beginning.
-Рёшу: Это довольно естественная экспозиция. Как будто так было задумано с самого начала.
+Рёшу: Это очень естественная экспозиция. Как будто так было задумано с самого начала.
 
 # Original: We thought... I thought it would be different this time. We made a promise, gave our word...
 Синклер: Мы думали... Я думал, что на этот раз всё будет по-другому. Мы дали обещание, дали слово...
@@ -98,7 +98,7 @@
 Измаил: И я уже неоднократно говорила, что не хочу тратить время.
 
 # Original: We don't have to worry about the laws of the Lake here, so why don't we make this a more leisurely—
-Хон Лу: Нам не нужно беспокоиться о законах Озера здесь, так почему бы не делать все более неторопливо—
+Хон Лу: Здесь нам не нужно беспокоиться о законах Озера, так почему бы не делать все более неторопливо—
 
 # Original: Sure, look around all you want. But you won't find any survivors here.
 Измаил: Конечно, осматривайтесь сколько хотите. Но вы не найдёте здесь выживших.
@@ -113,19 +113,19 @@
 Дон Кихот: И всё же...
 
 # Original: I recognize these. They're ruin left behind by... the thing. The thing that leaves nothing unchanged in its wake.
-Измаил: Я узнаю это. Это руины, оставленные... той штукой. Той штукой, которая не оставляет ничего неизменным на своём пути.
+Измаил: Я узнаю их. Они - руины, оставленные... той штукой. Той штукой, которая не оставляет неизменным ничто на своём пути.
 
 # Original: It could swallow the world in the blink of an eye. But it also spews it back out just as quickly.
-Измаил: Она могла бы проглотить мир в мгновение ока. Но она также выплёвывает его так же быстро.
+Измаил: Она могла бы проглотить мир в мгновение ока. Но она так же быстро исторгла бы его обратно.
 
 # Original: And what it spews out... never comes back right...
 Измаил: И то, что она извергает... никогда не возвращается в норму...
 
 # Original: Isn't it funny? If it's going to spew it out anyway, what's the point of devouring it in the first place?
-Измаил: Разве это не забавно? Если она всё равно собирается выплюнуть, какой смысл поглощать это в первую очередь?
+Измаил: Разве это не забавно? Если она всё равно собирается выплюнуть, какой изначально смысл поглощать?
 
 # Original: I don't understand... Why does it try to devour everything it comes across?
-Измаил: Я не понимаю... Почему она пытается поглотить всё, что встречает на своём пути?
+Измаил: Я не понимаю... Почему она пытается пожрать всё, что встречает на своём пути?
 
 # Original: <Are you... talking about that same Whale you mentioned before...?>
 Данте: <Ты... говоришь о том же Ките, о котором упоминала раньше...?>
@@ -161,7 +161,7 @@
 Отис: Обнаружен подозрительный субъект.
 
 # Original: Maybe it's an Abnormality? We're in a Lobotomy Corp. Branch, after all...
-Синклер: Может быть, это Аномалия? Мы всё-таки в филиале Корпорации Лоботомия...
+Синклер: Может быть, это Аномалия? Всё-таки мы в филиале Корпорации Лоботомия...
 
 # Original: Y-yeah. Let's just say that that's what it is and chop it down.
 Родион: Д-да. Давайте просто скажем, что это оно и есть, и разрубим его.
@@ -170,7 +170,7 @@
 Измаил: ... Подождите, подождите минутку! Это может быть выживший!
 
 # Original: Well, didn't you say there won't be any survivors left here? Which is it?
-Отис: Что ж, разве не ты говорила, что здесь не осталось выживших? Так что же это?
+Отис: Что ж, разве не ты говорила, что здесь не будет выживших? Так что же это?
 
 # Original: I did. And that's why it's... so... incredible...
 Измаил: Говорила. И именно поэтому это... так... невероятно...
@@ -194,7 +194,7 @@
 Агент LCCB: Он... Иах.
 
 # Original: The closer Ishmael gets, the more of the figure's body is taken over by the pallid, off-white membrane. The voice grows increasingly incoherent.
-Рассказчик: Чем ближе подходит Измаил, тем большую часть тела фигуры захватывает бледная, беловатая мембрана. Голос становится всё более невнятным.
+Рассказчик: Чем ближе подходит Измаил, тем большую часть тела фигуры захватывает бледная, грязно-белая мембрана. Голос становится всё более невнятным.
 
 # Original: …. … …… … ……. …
 Агент LCCB?: …. … …… … ……. …
@@ -227,7 +227,7 @@
 Рассказчик: Я мог бы попросить одного из Грешников остановить её, но... Прежде чем я осознал, что делаю... я уже бежал к Измаил.
 
 # Original: I think it was guilt that pushed me to act. Guilt that I may have played a part in driving Ishmael to this point.
-Рассказчик: Думаю, меня подтолкнуло к действию чувство вины. Вина за то, что я, возможно, сыграл роль в том, что довёл Измаил до этого состояния.
+Рассказчик: Думаю, меня подтолкнуло к действию чувство вины. Вины за то, что я, возможно, сыграл свою роль в том, что Измаил дошла до такого состояния.
 
 # Original: Dante! You mustn't—
 И Сан: Данте! Ты не должен—
@@ -236,13 +236,13 @@
 Измаил: О.
 
 # Original: But guilt can sometimes help.
-Рассказчик: Но чувство вины иногда может помочь.
+Рассказчик: Но иногда чувство вины может помочь.
 
 # Original: The figure's face shifted again when I approached Ishmael.
 Рассказчик: Лицо фигуры вновь изменилось, когда я приблизился к Измаил.
 
 # Original: The white membrane covering their face begins to withdraw, as though an unseen force is peeling it off the skin.
-Рассказчик: Белая мембрана, покрывающая их лицо, начинает отступать, словно невидимая сила сдирает её с кожи.
+Рассказчик: Белая мембрана, покрывающая их лицо, начала отступать, словно невидимая сила сдирает её с кожи.
 
 # Original: The mouth didn't come back... but the eyes that looked at us were unmistakably human-shaped.
 Рассказчик: Рот не вернулся... но глаза, которые смотрели на нас, были несомненно человеческой формы.
@@ -266,10 +266,10 @@
 Рассказчик: Фауст подошла к нам.
 
 # Original: Dante, it appears that the shard of the Golden Bough lodged into your clock is counteracting the infection of this... Pallidification effect to a degree.
-Фауст: Данте, похоже, что осколок Золотой Ветви, будучи вставленной в ваши часы, в некоторой степени противодействует заражению этого... эффекта Бледности.
+Фауст: Данте, похоже, что осколок Золотой Ветви, помещённый в твои часы, в некоторой степени противодействует заражению этого... эффекта Бледности.
 
 # Original: The figure, whose mouth was still wrapped under a pallid membrane, blinks wearily. As though they could understand what we were saying.
-Рассказчик: Фигура, чей рот всё ещё был обёрнут бледной мембраной, устало моргает. Словно она могла понять, о чём мы говорили.
+Рассказчик: Фигура, чей рот всё ещё был обёрнут бледной мембраной, устало моргает. Как будто она могла понимать, что мы говорили.
 
 # Original: ... Counter... acting?
 Измаил: ... Противо... действует?
@@ -287,16 +287,16 @@
 Измаил: Просто! ... Просто скажи мне, возможно ли это.
 
 # Original: Though it was curt... I've never heard such intense desperation in her voice before.
-Рассказчик: Хоть это было резко... Я никогда раньше не слышал в её голосе такого интенсивного отчаяния.
+Рассказчик: Хотя это и прозвучало резко... Я никогда раньше не слышал в её голосе такого интенсивного отчаяния.
 
 # Original: ... Yes. Although it may be limited to... Mermaids of the Whale that presumably devoured this structure.
-Фауст: ... Да. Хотя этот эффект может быть ограничен... только Русалками Кита, который предположительно поглотил эту структуру.
+Фауст: ... Да. Хотя этот эффект может быть ограничен... только Русалками Кита, который предположительно поглотил это строение.
 
 # Original: Ha... Ha ha...
 Измаил: Ха... Ха-ха...
 
 # Original: Manager... Dante... Just what are you...?
-Измаил: Менеджер... Данте... Кто же ты такой...?
+Измаил: Менеджер... Данте... Что же ты такое...?
 
 # Original: Realizing that there was something that I could've done... The memories of that day... the nightmare that I tried so hard to lock away...
 Измаил: Осознание того, что было что-то, что я могла сделать... Воспоминания о том дне... кошмар, который я так старалась запереть...
@@ -338,7 +338,7 @@
 Измаил: Корректировщиком. Моряком.
 
 # Original: I was something in that awkward middle ground... which we called Whalers.
-Измаил: Я была чем-то средним... кого мы называли Китобоями.
+Измаил: Я была кем-то в странном промежуточном положении.... кого мы называли Китобоями.
 
 # Original: Do you understand? No... Do you see them?
 Измаил: Ты понимаешь? Нет... Ты видишь их?
@@ -347,7 +347,7 @@
 Измаил: Ты видишь выражения лиц тех, кто осмелился поставить на кон всё... и тех, кому нечего было ставить?
 
 # Original: Whaling ships carry people like them across the waves.
-Измаил: Китобойные судна перевозят таких людей через волны.
+Измаил: Китобойные судна перевозят таких людей по волнам.
 
 # Original: <So... You've seen it yourself? The Whale that devoured this place?>
 Данте: <Значит... Ты сама видела его? Кита, который поглотил это место?>
@@ -356,7 +356,7 @@
 Измаил: Киты, которых мы встречали до сих пор... превращают тех, кого они пожирают, во что-то совершенно другое. Во что-то совершенно неузнаваемое от того, кем они были раньше, перестраивая и заменяя всё их тело.
 
 # Original: But that Whale... is different.
-Измаил: Но тот Кит... другой.
+Измаил: Но этот Кит... другой.
 
 # Original: Those devoured by the Pallid Whale aren't transformed. They're still themselves... just wrapped in a pale membrane.
 Измаил: Те, кого поглотил Бледный Кит, не трансформируются. Они всё ещё остаются собой... просто обёрнутые в бледную мембрану.
@@ -368,28 +368,28 @@
 Измаил: Иногда мы плавали на нашем корабле к Окраинам.
 
 # Original: There, we'd see those ships. Those... false ships.
-Измаил: Там мы видели те корабли. Те... ложные корабли.
+Измаил: Там мы видели те корабли. Те... неправильные корабли.
 
 # Original: The ships that have turned completely pallid.
-Измаил: Корабли, которые полностью побледнели.
+Измаил: Которые полностью побледнели.
 
 # Original: It's an old wisdom among Whalers that those ships must be avoided at all costs, even if it meant going all the way around the Lake they're in.
-Измаил: Среди Китобоев есть старая мудрость, что этих кораблей нужно избегать любой ценой, даже если для этого придётся обойти всё Озеро, в котором они находятся.
+Измаил: Среди Китобоев есть старая мудрость, что этих кораблей нужно избегать любой ценой, даже если для этого придётся пойти в обход всего Озера, в котором они находятся.
 
 # Original: Because the sailors consumed by that Whale retain everything, their habits, their skills...
 Измаил: Потому что моряки, поглощённые этим Китом, сохраняют всё, свои привычки, свои навыки...
 
 # Original: Except they wander the Lake only to attack everything they come across.
-Измаил: Только они бродят по Озеру лишь для того, чтобы нападать на всё, что встречается на их пути.
+Измаил: За исключением того, что они бродят по Озеру только для того, чтобы нападать на всё, что встречается на их пути.
 
 # Original: The Captain of 'the Pequod', our ship...
 Измаил: Капитан "Пекода", нашего корабля...
 
 # Original: She had a mission. To hunt that Pallid Whale with her own two hands.
-Измаил: У неё была миссия. Охотиться на того Бледного Кита своими собственными руками.
+Измаил: У неё была миссия. Охотиться на Бледного Кита.
 
 # Original: The entire time we sailed on the Pequod... she sermonized our ears off about what a worthy, honorable mission it was to hunt that Whale.
-Измаил: Всё время, пока мы плыли на "Пекоде"... она проповедовала нам до одурения о том, какая это достойная, почётная миссия - охотиться на того Кита.
+Измаил: Всё время, пока мы плыли на "Пекоде"... она проповедовала нам до одурения о том, какая это достойная, почётная миссия - охотиться на этого Кита.
 
 # Original: It was annoying, and we knew that she wasn't exactly all there, but...
 Измаил: Это было раздражающе, и мы знали, что она не совсем в своём уме, но...
@@ -398,24 +398,24 @@
 Измаил: ... Нет. Может быть, она просто знала, как утопить всех нас в глубинах своего безумия.
 
 # Original: Her mission soon became our very own. To hunt that Pallid Whale became our salvation. Our destiny.
-Измаил: Её миссия вскоре стала нашей собственной. Охота на того Бледного Кита стала нашим спасением. Нашей судьбой.
+Измаил: Её миссия вскоре стала нашей собственной. Охота на Бледного Кита стала нашим спасением. Нашей судьбой.
 
 # Original: That Captain drove everyone on that ship mad.
-Измаил: Тот Капитан свела с ума всех на том корабле.
+Измаил: Капитан свела с ума всех на том корабле.
 
 # Original: When the time finally came to face that Whale, the Whale from which all hatred, all evils of the world spout...
 Измаил: Когда наконец пришло время встретиться с тем Китом, Китом, из которого исходит вся ненависть, всё зло мира...
 
 # Original: We were promptly crushed. Devoured. Reduced to a scattered pile of driftwood.
-Измаил: Нас быстро раздавили. Поглотили. Превратили в разбросанную кучу плавучего мусора.
+Измаил: Нас быстро сокрушили. Поглотили. Превратили в разбросанную кучу плавучего мусора.
 
 # Original: When I came to, floating in the vast coldness of the sea, holding onto my dear life to a piece of driftwood... there was nothing left.
 # Nothing.
-Измаил: Когда я пришла в себя, плавая в бескрайнем холодном море, цепляясь за свою драгоценную жизнь, за кусок плавучего мусора... там ничего не осталось.
+Измаил: Когда я пришла в себя, плавая в бескрайнем холодном море, цепляясь за свою драгоценную жизнь, ухватившись за кусок плавающей древесины... там ничего не осталось.
 Ничего.
 
 # Original: And when I realized what I was holding onto wasn't a piece of driftwood, but the...
-Измаил: И когда я поняла, что то, за что я держалась, было не куском плавучего мусора, а...
+Измаил: И когда я поняла, что то, за что я держалась, было не куском дрейфующей древесины, а...
 
 # Original: That's why I can never forgive her...
 Измаил: Вот почему я никогда не смогу простить её...
@@ -433,7 +433,7 @@
 Рассказчик: Он был направлен на Капитана, которая привела их всех к проклятию - всепоглощающий поток ненависти и одержимости яростно горел в её направлении.
 
 # Original: I'm going to kill her... with my own two hands...
-Измаил: Я убью её... своими собственными руками...
+Измаил: Я убью её... своими руками...
 
 # Original: There was no room for reason or rationality to convince her otherwise.
 Рассказчик: Не было места для разума или рациональности, чтобы убедить её в обратном.
@@ -451,16 +451,16 @@
 Данте: <Измаил... Мы даже не знаем, жив ли ещё тот Капитан.>
 
 # Original: I was... desperately hanging onto my best mate's coffin. The coffin of someone with whom I'd shared everything. That's when I, through the tempest, saw the Captain.
-Измаил: Я... отчаянно держалась за гроб моего лучшего друга. Гроб того, с кем я делила всё. Вот тогда я, сквозь бурю, увидела Капитана.
+Измаил: Я... отчаянно держалась за гроб моего лучшего друга. Того, с кем я делила всё. Вот тогда я, сквозь бурю, увидела Капитана.
 
 # Original: I saw that fucker standing alone, facing down that Whale as it devoured her ship. Laughing mad.
-Измаил: Я видела, как эта сука стояла в одиночестве, лицом к тому Киту, когда он пожирал её корабль. Смеясь как безумная.
+Измаил: Я видела, как эта сука стояла в одиночестве, лицом к тому Киту, пока он пожирал её корабль. Смеясь как безумная.
 
 # Original: Her fiercely loyal crew were floating on the surface of the Outskirts sea, powerless to do anything but wait until they too were devoured. But none of that mattered to her.
 Измаил: Ее отчаянно преданная команда плавала на поверхности моря у Окраин, бессильная что-либо сделать, кроме как ждать, пока их тоже не поглотят. Но ничто из этого не имело для неё значения.
 
 # Original: That bastard is alive.
-Измаил: Эта тварь жива.
+Измаил: Эта сволочь жива.
 
 # Original: She has to be alive still. She has to be.
 Измаил: Она должна быть всё ещё жива. Она должна быть.
@@ -484,16 +484,16 @@
 Рассказчик: Я начал думать, что ничего из того, что я скажу, не улучшит ситуацию, если не приведёт к полному краху.
 
 # Original: ... That was when an imperceptibly light breeze broke through the silence.
-Рассказчик: ... Именно тогда неуловимо лёгкий ветерок прорвался сквозь тишину.
+Рассказчик: ... В этот момент неуловимо лёгкий ветерок прорвался сквозь тишину.
 
 # Original: A solitary butterfly.
 Рассказчик: Одинокая бабочка.
 
 # Original: It moved with grace tinged with fragility, as though it did not fear the weight of this heavy silence.
-Рассказчик: Она двигалась с изяществом, окрашенным хрупкостью, словно не боялась тяжести этой глубокой тишины.
+Рассказчик: Она двигалась с изяществом, окрашенным хрупкостью, словно не боялась груза этой тяжелой тишины.
 
 # Original: It took a moment to gently flutter onto a puddle.
-Рассказчик: Она на мгновение мягко опустилась на лужицу.
+Рассказчик: В мгновение она мягко опустилась на лужицу.
 
 # Original: …….
 Измаил: …….
@@ -511,7 +511,7 @@
 Синклер: Похоже... бабочка просит нас следовать за ней.
 
 # Original: Is it an Abnormality? Finally. I was wondering when they'd show their ugly mugs.
-Хитклиф: Это Аномалия? Наконец-то. Я уже задавался вопросом, когда они покажут свои уродливые морды.
+Хитклиф: Это Аномалия? Наконец-то. Я всё думал, когда они уже покажут свои уродливые морды.
 
 # Original: …….
 И Сан: …….
@@ -535,7 +535,7 @@
 И Сан: Я прислушивался к ним, но ни одно слово ещё не достигло меня.
 
 # Original: They are speaking in a certain pattern, though I am unable to decipher it.
-Фауст: Они говорят в определённой последовательности, хотя я не могу его расшифровать.
+Фауст: Они говорят в определённой последовательности, хотя я не могу её расшифровать.
 
 # Original: It is a code, of sorts. A mix of sound frequencies and encryption patterns.
 Фауст: Это своего рода код. Смесь звуковых частот и шаблонов шифрования.

@@ -29,19 +29,19 @@
 Хон Лу: Мм~ Может быть, они пытались помешать чему-то забраться на корабль?
 
 # Original: Can't imagine that any fish would swim blindly into the keel of a boat. They're not birds crashing into windows.
-Грегор: Не могу представить, чтобы какая-нибудь рыба вслепую врезалась в киль лодки. Они же не птицы, разбивающиеся о окна.
+Грегор: Не могу представить, чтобы какая-нибудь рыба вслепую врезалась в киль лодки. Они же не птицы, бьющиеся в окна.
 
 # Original: Maybe it was nothing~ Y'know how superstitious pirates can be. What if it's like a good luck charm?
 Родион: Может быть, это просто ничего не значит~ Знаете же, какими суеверными могут быть пираты. Что если это что-то вроде талисмана на удачу?
 
 # Original: Mmh... Maybe we should've let Assistant Manager Pilot tag along.
-Грегор: Ммх... Может, нам стоило взять с собой Заместителя Менеджера Пилота.
+Грегор: Ммх... Может, нам стоило взять с собой Помощника Менеджера Пилота.
 
 # Original: Know anything about this, Frau Faust?
 Грегор: Знаешь что-нибудь об этом, фрау Фауст?
 
 # Original: No pertinent information has been updated.
-Фауст: Никакой актуальной информации не обновлено.
+Фауст: Никакой актуальной информации не поступало.
 
 # Original: The most we could do is to ensure that we do not violate any laws of the Great Lake.
 Фауст: Максимум, что мы можем сделать, это убедиться, что мы не нарушаем никаких законов Великого Озера.
@@ -68,19 +68,19 @@
 Отис: Эй. Не прошло и часа с тех пор, как ты сказала нам, что мы должны пересечь эту зону по прямой линии.
 
 # Original: We are falling short of our target speed. At our current rate, we will be struck by the next zone's Waves as soon as we exit here.
-Фауст: Мы не достигаем целевой скорости. При нашем текущем темпе нас накроют Волны следующей зоны, как только мы выйдем отсюда.
+Фауст: Мы не достигли плановой скорости. При текущем темпе нас накроют Волны следующей зоны, как только мы выйдем отсюда.
 
 # Original: Is that the damned law of this zone?
 Отис: Это чертов закон этой зоны?
 
 # Original: Indeed.
-Фауст: Действительно.
+Фауст: Разумеется.
 
 # Original: Though our encounter with the pirates was rapidly resolved, we still fell behind schedule. The variable coordinates now points to a different route.
 Фауст: Хотя наша встреча с пиратами была быстро разрешена, мы все же отстали от графика. Переменные координаты теперь указывают на другой маршрут.
 
 # Original: ... How much time are we going to have to waste here?
-Отис: ... Сколько времени мы здесь потеряем?
+Отис: ... Сколько времени мы потеряем?
 
 # Original: According to the variable coordinates... the necessary roundabout path will cost us three more days.
 Фауст: Согласно переменным координатам... необходимый обходной путь займет у нас еще три дня.
@@ -104,7 +104,7 @@
 Отис: ... Мы продолжаем двигаться вперед.
 
 # Original: With that, Outis slowly raised the acceleration lever.
-Рассказчик: С этими словами Отис медленно подняла рычаг ускорения.
+Рассказчик: С этими словами Отис медленно повысила мощность на рычаге ускорения.
 
 # Original: …!
 Фауст: …!
@@ -122,7 +122,7 @@
 Отис: Я знаю, что такое Волны, юнга. Я не настолько невежественна в отношении Великого Озера, как ты можешь думать. У тебя ведь тоже есть богатый опыт преодоления и покорения Волн, не так ли?
 
 # Original: Yeah! But that's because they were unavoidable! Because we lacked enough information to take the roundabout path! I've never sailed knowingly into the Waves before.
-Измаил: Да! Но это было потому, что их нельзя было избежать! Потому что у нас не было достаточно информации, чтобы пойти в обход! Я никогда не плавала сознательно навстречу Волнам.
+Измаил: Да! Но это было потому, что их нельзя было избежать! Потому что у нас не было достаточно информации, чтобы пойти в обход! Я никогда не плавала навстречу Волнам сознательно.
 
 # Original: But you still prevailed, didn't you?
 Отис: Но ты все равно справлялась, не так ли?

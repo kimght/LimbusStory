@@ -1,15 +1,15 @@
 # Original: <color=#ff9500>It is said that Queequeg's ropes, twisted by her powerful grip and her esoteric techniques…</color=#ff9500>
-Измаил: <color=#ff9500>Говорят, что веревки Квиквег, свитые ее мощной хваткой и эзотерическими техниками...</color=#ff9500>
+Измаил: <color=#ff9500>Говорят, что веревки Квикег, свитые ее мощной хваткой и тайными техниками...</color=#ff9500>
 
 # Original: <color=#ff9500>... are tougher than any other rope in the world.</color=#ff9500>
 Измаил: <color=#ff9500>... крепче любых других веревок в мире.</color=#ff9500>
 
 # Original: <color=#ff9500>Queequeg told me to not leave her alone in the cold, dark Lake.</color=#ff9500>
-Измаил: <color=#ff9500>Квиквег просила меня не оставлять ее одну в холодном, темном Озере.</color=#ff9500>
+Измаил: <color=#ff9500>Квикег просила меня не оставлять ее одну в холодном, темном Озере.</color=#ff9500>
 
 # Original: <color=#ff9500>That she didn't want the Whales and Mermaids to tear her apart</color=#ff9500>
 # <color=#ff9500>and devour her when her corpse sinks deep into its waters.</color=#ff9500>
-Измаил: <color=#ff9500>Что она не хочет, чтобы Киты и Русалки разорвали ее на части</color=#ff9500>
+Измаил: <color=#ff9500>Говорила, что она не хочет, чтобы Киты и Русалки разорвали ее на части</color=#ff9500>
 <color=#ff9500>и пожрали, когда ее труп погрузится глубоко в его воды.</color=#ff9500>
 
 # Original: <color=#ff9500>I agreed.</color=#ff9500>
@@ -21,11 +21,11 @@
 <color=#ff9500>Я не хотела, чтобы эти монстры бессердечно раздирали их, чтобы насыщаться ее израненной плотью.</color=#ff9500>
 
 # Original: <color=#ff9500>So, Queequeg built herself a coffin.</color=#ff9500>
-Измаил: <color=#ff9500>Поэтому Квиквег построила себе гроб.</color=#ff9500>
+Измаил: <color=#ff9500>Поэтому Квикег создала себе гроб.</color=#ff9500>
 
 # Original: <color=#ff9500>Built hardily and fastened with ropes twisted and knotted with all her strength.</color=#ff9500>
 # <color=#ff9500>So that her coffin would not sink no matter how precariously the ship swayed.</color=#ff9500>
-Измаил: <color=#ff9500>Построила крепко и скрепила веревками, свитыми и завязанными со всей ее силой.</color=#ff9500>
+Измаил: <color=#ff9500>Создала его крепким и скрепила веревками, свитыми и завязанными со всей ее силой.</color=#ff9500>
 <color=#ff9500>Чтобы ее гроб не утонул, как бы опасно ни качался корабль.</color=#ff9500>
 
 # Original: Huff... Huff...
@@ -35,7 +35,7 @@
 Измаил: Мои руки, сжимающие ту самую веревку, привязанную к гробу... начинали облезать и кровоточить.
 
 # Original: And my dearest friend's hollow coffin was the only thing keeping me afloat on that whirling Lake.
-Измаил: И пустой гроб моего дорогого друга был единственным, что удерживало меня на плаву в том кружащемся Озере.
+Измаил: И только пустой гроб моего дорогого друга удерживал меня на плаву в том кружащемся Озере.
 
 # Original: Any... Is there anyone out there?
 Рассказчик: Кто-нибудь... Есть ли кто-нибудь там?
@@ -89,10 +89,10 @@
 Измаил: Хаа... Хааа... Гах...
 
 # Original: Always told you. I did.
-Квиквег: Всегда говорила тебе. Я говорила.
+Квикег: Я всегда говорила тебе.
 
 # Original: Rope. Grab tight. Or sink.
-Квиквег: Веревка. Держись крепко. Или утонешь.
+Квикег: Веревка. Держись крепко. Или утонешь.
 
 # Original: You...
 Измаил: Ты...
@@ -101,7 +101,7 @@
 Измаил: Как долго ты... здесь?
 
 # Original: Always. Always been here.
-Квиквег: Всегда. Всегда была здесь.
+Квикег: Всегда. Всегда была здесь.
 
 # Original: …….
 Измаил: …….

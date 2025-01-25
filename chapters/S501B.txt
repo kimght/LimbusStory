@@ -2,13 +2,13 @@
 Рассказчик: Прошло не так много времени с тех пор, как этот автобус... то есть, лодкобус преследовали сирены и мигающие зеленые огни.
 
 # Original: The Sinners were sitting uncomfortably, trying to get some shut-eye in the ship cabins(formerly known as the bus cabins). The thought of returning to their rooms didn't even seem to occur to them.
-Рассказчик: Грешникам было не очень комфортно, пытаясь хоть немного вздремнуть в каютах корабля (ранее известных как кабины автобуса). Мысль о возвращении в свои комнаты, похоже, даже не приходила им в голову.
+Рассказчик: Грешники сидели в неудобных позах, пытаясь хоть немного вздремнуть в каюте корабля (ранее известной как салон автобуса). Мысль о возвращении в свои комнаты, похоже, даже не приходила им в голову.
 
 # Original: ......
 Фауст: ......
 
 # Original: After gazing out the window for a while, Faust came to her feet and approached the helm(formerly known as the wheel).
-Рассказчик: Посмотрев некоторое время в окно, Фауст поднялась и подошла к штурвалу (ранее известному как руль).
+Рассказчик: Посмотрев в окно некоторое время, Фауст поднялась и подошла к штурвалу (ранее известному как руль).
 
 # Original: Ms. Faust.
 Вергилий: Госпожа Фауст.
@@ -29,7 +29,7 @@
 Синклер: Какой сигнал? Я ничего не слышу и не вижу... Даже тревоги нет.
 
 # Original: A smoke signal outside our visual range has been picked up by Mephistopheles.
-Фауст: Дымовой сигнал за пределами нашего визуального диапазона был обнаружен Мефистофелем.
+Фауст: Дымовой сигнал вне зоны нашей видимости был обнаружен Мефистофелем.
 
 # Original: A smoke signal... the beacons are lit, then. I guess that's what we've been sitting on our butts for.
 Грегор: Дымовой сигнал... значит, маяки зажжены. Похоже, вот чего мы ждали, сидя на своих задницах.
@@ -47,22 +47,22 @@
 Дон Кихот: Как, как! Ты хочешь сказать, что то, что мы испытывали до сих пор... не было Великим Озером?
 
 # Original: By strict definition... Yes, it was. We have been inside the Great Lake's borders for a while. Yet I make the distinction based on the information available to you, as our path has so far lacked any real threats.
-Фауст: По строгому определению... Да, было. Мы уже некоторое время находимся в пределах границ Великого Озера. Тем не менее, я провожу различие, основываясь на имеющейся у вас информации, поскольку на нашем пути до сих пор не было никаких реальных угроз.
+Фауст: По строгому определению... Да, было. Мы уже некоторое время находимся в пределах границ Великого Озера. Тем не менее, я провожу различие, основываясь на доступной тебе информации, поскольку на нашем пути до сих пор не было никаких реальных угроз.
 
 # Original: No real... threats, thou sayeth. After all that...
 Дон Кихот: Никаких реальных... угроз, говоришь. После всего этого...
 
 # Original: Lo! Yi Sang there has hitherto been burying his face in that very bucket, I shall have thee know...!
-Дон Кихот: Взгляни! И Сан там до сих пор зарывает лицо в это самое ведро, да будет тебе известно...!
+Дон Кихот: Взгляни! И Сан до сих пор зарывается лицом в это ведро, да будет тебе известно...!
 
 # Original: I... mind me not, plea— hurk...
 И Сан: Я... не обращай на меня внимания, пожалу— хрк...
 
 # Original: I had thought the bucket's purpose was to remove water from the ship in case of a flooding... yet all it hath heretofore removed were contents of Yi Sang's stomach...
-Дон Кихот: Я думала, что предназначение ведра - удалять воду с корабля в случае затопления... однако до сих пор оно удаляло лишь содержимое желудка И Сана...
+Дон Кихот: Я думала, что предназначение ведра - убирать воду с корабля в случае затопления... однако до сих пор оно убирало лишь содержимое желудка И Сана...
 
 # Original: And! That uh, Wal-puree-gisoonaught? That incident is still quite fresh in my mind!
-Дон Кихот: И! Эта, э-э, Вал-пурь-гиииновская? Это событие все еще свежо в моей памяти!
+Дон Кихот: И! Эта, э-э, Вал-пурее-гииваноль? Это событие все еще свежо в моей памяти!
 
 # Original: Walpurgis Night.
 Фауст: Вальпургиева Ночь.
@@ -101,13 +101,13 @@
 Фауст: Отис, этим кораблем в настоящее время управляет система автоматической навигации. Как следует из ее названия, она автоматически будет избегать любых угроз, которые может представлять Великое Озеро. Если угроза окажется неизбежной, система подаст сигнал тревоги.
 
 # Original: Bah... Do you really expect me to trust that incomprehensible contraption?
-Отис: Ха... Ты действительно ожидаешь, что я доверюсь этому непостижимому устройству?
+Отис: Ха... Ты и в самом деле надеешься, что я доверюсь этой непонятной штуковине?
 
 # Original: Besides, this 'automated navigation system' is nothing but some slapdash, last-minute installation by the Boatworks Fixers!
-Отис: Кроме того, эта "система автоматической навигации" - не что иное, как небрежная, наспех сделанная установка Корректировщиков с Верфи!
+Отис: Кроме того, эта "система автоматической навигации" была небрежно и наспех установлена Корректировщиками с Верфи!
 
 # Original: ... Indeed, Faust was not the one who installed this system. So, no. Its reliability is not absolute.
-Фауст: ... Действительно, Фауст не устанавливала эту систему. Так что нет. Ее надежность не абсолютна.
+Фауст: ... Действительно, не Фауст устанавливала эту систему. Так что нет. Ее надежность не абсолютна.
 
 # Original: Well said. It is well-known wisdom that the path of a sailor is fraught with dangers unknown, which is to say that a human must handle it!
 Отис: Хорошо сказано. Общеизвестная мудрость гласит, что путь моряка полон неизвестных опасностей, а это значит, что человек должен справляться с ними сам!
@@ -116,7 +116,7 @@
 Дон Кихот: Тогда ты будешь той, кто поведет это судно к победе?!
 
 # Original: I must rise to the occasion, as Executive Manager unfortunately lacks any memories pertinent to sailing. Luckily, I am quite experienced with a leadership position.
-Отис: Я должна быть у самой верхушки, поскольку у Исполнительного Менеджера, к сожалению, нет воспоминаний, связанных с мореплаванием. К счастью, у меня есть большой опыт на руководящей должности.
+Отис: Для такого случая я должна обладать достаточной властью, поскольку у Исполнительного Менеджера, к сожалению, нет воспоминаний, связанных с мореплаванием. К счастью, у меня есть большой опыт на руководящей должности.
 
 # Original: Ooho... Commander!
 Дон Кихот: Ооо... Командир!
@@ -146,7 +146,7 @@
 Дон Кихот: Охо, великолепно! Какое значительное количество новых знаний я приобрела! Это подобно приключению, не так ли?!
 
 # Original: 'Twas one of mine humble eight-hundred-and-sixty-three old dreams to sail the Great Lake as an adventurer, like a challenger of storms, a queller of rogue waves!
-Дон Кихот: Одной из моих скромных "восьмисот-шестидесяти-трех" давних мечт было плавать по Великому Озеру как искательница приключений, подобно укротительнице бурь, усмирительнице неистовых волн!
+Дон Кихот: Одной из моих скромных восьмисот-шестидесяти-трех давних мечт было плавать по Великому Озеру как искательница приключений, подобно укротительнице бурь, усмирительнице неистовых волн!
 
 # Original: Such an exact number of aspirations you have.
 И Сан: Какое точное количество стремлений ты имеешь.
@@ -182,25 +182,25 @@
 Синклер: Эм, Отис...?
 
 # Original: Hmph. I've been seeing more and more of these as of late. These so-called 'bleeding-edge' technologies are hollow inventions that have nothing to show for it aside from their pretty exteriors.
-Отис: Хмпф. В последнее время я все чаще вижу подобное. Эти так называемые "передовые" технологии - всего лишь пустые изобретения, которым нечего показать, кроме их красивой внешности.
+Отис: Хмпф. В последнее время я все чаще вижу подобное. Эти так называемые "передовые" технологии - всего лишь пустые изобретения, которым нечего показать, кроме их красивого внешнего вида.
 
 # Original: A blind pursuit of convenience breeds increased risk. There's nothing but ruin at the end of the road paved with overreliance on these bleeding-edge technologies!
-Отис: Слепое стремление к удобству порождает повышенный риск. В конце пути, вымощенной чрезмерной зависимостью от этих передовых технологий, нет ничего, кроме руин!
+Отис: Слепое стремление к удобству порождает повышенный риск. В конце пути, вымощенного чрезмерной зависимостью от этих передовых технологий, нет ничего, кроме руин!
 
 # Original: Fervor fueled in the furnace of bolts and engine oil, the ship's blood and sweat...
-Отис: Пыл, разожженный в горниле болтов и машинного масла, кровью и потом корабля...
+Отис: Пыл, разожженный в горниле болтов и машинного масла, кровь и пот корабля...
 
 # Original: A combined force of the commanding officer's decisive leadership and their subordinates' firm loyalty.
 Отис: Объединенная сила решительного руководства командира и непоколебимой верности его подчиненных.
 
 # Original: <Blood? What?>
-Данте: <Кровью? О чем она?>
+Данте: <Кровь? О чем она?>
 
 # Original: That is how proper workshops of tradition and history are supposed to be run! Now THAT is how true comrades are born!
-Отис: Вот как должны работать настоящие мастерские с традициями и историей! Вот КАК рождаются истинные соратники!
+Отис: Вот так должны работать настоящие мастерские с традициями и историей! ВОТ ТАК рождаются истинные соратники!
 
 # Original: I don't know what she's talking about... but that was kind of cool...! I can feel something rising from deep within my chest...!
-Синклер: Я не понимаю, о чем она говорит... но это было как-то круто...! Я чувствую, как что-то поднимается из глубины моей груди...!
+Синклер: Я не понимаю, о чем она говорит... но это было довольно круто...! Я чувствую, как что-то поднимается из глубины моей груди...!
 
 # Original: Commander! Ah, I mean, Captain! This 'bleeding edge' technology is bleating like a mule! Whatever shall we do?
 Дон Кихот: Командир! Ах, я имею в виду, Капитан! Эта "передовая" технология блеет как мул! Что же нам делать?!
@@ -209,16 +209,16 @@
 Отис: ......
 
 # Original: I, Outis... Shall prove it to the world.
-Отис: Я, Отис... Докажу это миру.
+Отис: Я, Отис... Докажу миру.
 
 # Original: That I don't need this high-tech junk to sail!
 Отис: Что мне не нужна эта высокотехнологичная ерунда для мореплавания!
 
 # Original: Now, seawoman Don Quixote, set the power lever to the maximum output!
-Отис: Теперь, матрос Дон Кихот, переключите рычаг на максимальную мощность!
+Отис: Теперь, матрос Дон Кихот, переключите рычаг мощности на максимум!
 
 # Original: Power lever to the maximum output! Aye aye, Captain!
-Дон Кихот: Переключить рычаг на максимальную мощность! Есть, Капитан!
+Дон Кихот: Рычаг мощности на максимум! Есть, Капитан!
 
 # Original: Seaman Sinclair! Set the helm to the neutral position and hit the switch!
 Отис: Матрос Синклер! Установите штурвал в нейтральное положение и нажмите на переключатель!

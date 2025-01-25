@@ -71,7 +71,7 @@
 Измаил: Конечно, нет. Я даже не знаю, что происходит с моей миссией. Мы бредём вслепую через туманное море...
 
 # Original: Yet here we are, shoving our noses in everything, everywhere. It's driving me up the wall.
-Измаил: И вот мы здесь, суём нос во всё подряд, везде. Это меня с ума сводит.
+Измаил: И вот мы здесь, суём нос во всё подряд, везде. Это сводит меня с ума.
 
 # Original: Hah, relax. You must know that no path is ever direct in the Great Lake. I did not expect this much lack of patience from someone who spent most of her life here.
 Вергилий: Хах, расслабься. Ты должна знать, что ни один путь в Великом Озере никогда не бывает прямым. Я не ожидал такого нетерпения от кого-то, кто провёл большую часть своей жизни здесь.
@@ -92,10 +92,10 @@
 Вергилий: Почему ты не заглядываешь чуть дальше, Измаил? К этому моменту ты должна была понять, что ждёт тебя в конце этого путешествия.
 
 # Original: That 'contract clause' you're so impatient about... is bound to make an appearance as long as you follow the manager's peculiar misadventures.
-Вергилий: Тот 'пункт контракта', о котором ты так нетерпеливо думаешь... обязательно появится, пока ты следуешь за странными злоключениями менеджера.
+Вергилий: Тот 'пункт контракта', относительно которого ты так нетерпелива... обязательно появится, пока ты следуешь за странными злоключениями менеджера.
 
 # Original: Your combative attitude against the manager will only delay that inevitability.
-Вергилий: Твоё воинственное отношение к менеджеру только отсрочит неизбежное.
+Вергилий: Твоё воинственное отношение к нему только отсрочит неизбежное.
 
 # Original: It happened four times. That's not a very big sample.
 Измаил: Это случилось четыре раза. Не такая уж большая выборка.

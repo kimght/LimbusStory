@@ -1,8 +1,8 @@
 # Original: W-wait! You better stay away! Lay a finger on me, and you'll regret it!
-Сми: П-подождите! Лучше держитесь подальше! Тронете меня пальцем, и пожалеете об этом!
+Сми: П-подождите! Лучше держитесь подальше! Тронете меня хоть пальцем, и пожалеете об этом!
 
 # Original: You have no idea who's looking out for me.
-Сми: Вы понятия не имеете, кто меня прикрывает.
+Сми: Вы понятия не имеете, кто за мной присматривает.
 
 # Original: What?
 Грегор: Что?
@@ -41,13 +41,13 @@
 Сми: Подождите! Хорошо, хорошо! Я скажу вам, где ваш друг!
 
 # Original: The shipping container you're looking for... We keep our living hostages in shipping containers marked with a green triangle. And since he's a recent catch, you can go find him on the East side, probably...
-Сми: Контейнер, который вы ищете... Мы держим живых заложников в контейнерах, помеченных зелёным треугольником. И поскольку он недавний улов, вы можете найти его на восточной стороне, наверное...
+Сми: Контейнер, который вы ищете... Мы держим живых заложников в контейнерах, помеченных зелёным треугольником. И поскольку он из недавнего улова, вы можете найти его на восточной стороне, наверное...
 
 # Original: Green triangle, huh? What if there's more than one of those? What if it's in a different shade of green? What if you’re just lying to get out of a pinch?
 Измаил: Зелёный треугольник, да? А что, если там будет несколько таких? Что, если это будет другой оттенок зелёного? Что, если ты просто врёшь, чтобы выкрутиться?
 
 # Original: You should be able to tell! You should be able to tell right away! I'm serious... Please!
-Сми: Вы сразу поймете! Вы сможете различить сразу на месте! Я серьёзно... Пожалуйста!
+Сми: Вы поймете! Вы сразу поймёте! Я серьёзно... Пожалуйста!
 
 # Original: ... There you have it. I'd say that's more than enough confirmation. Happy now, Sinclair?
 Измаил: ... Вот и всё. Я бы сказала, что этого подтверждения более чем достаточно. Теперь доволен, Синклер?
@@ -71,7 +71,7 @@
 Измаил: ... Я не чувствую необходимости убеждать тебя, менеджер. Будь добр, уйди с дороги.
 
 # Original: I don't want to waste any more time on this.
-Измаил: Я не хочу тратить на это больше времени.
+Измаил: Я больше не хочу тратить на это время.
 
 # Original: Y-you know what else is a waste of time? Killing me. How 'bout we just go on our merry ways, huh?
 Сми: З-знаете, что ещё пустая трата времени? Убивать меня. Может, просто разойдёмся по-хорошему, а?
@@ -107,7 +107,7 @@
 Сми: Р... Разумный выбор.
 
 # Original: If you killed me... a Big Brother or even a Big Sister would've gone after you.
-Сми: Если бы вы убили меня... Старший Брат или даже Старшая Сестра пошли бы за вами.
+Сми: Если бы вы убили меня... Старший Брат или даже Старшая Сестра пришли бы за вами.
 
 # Original: I recalled the time when... the exact opposite happened.
 Рассказчик: Я вспомнил момент, когда... произошло прямо противоположное.
@@ -116,22 +116,22 @@
 Рассказчик: Когда Измаил прыгнула передо мной, принимая на себя пули неисправной машины вместо меня...
 
 # Original: And called my name as her body liquefied.
-Рассказчик: И звала меня по имени, когда её тело таяло.
+Рассказчик: И звала меня по имени, когда её тело разжижалось.
 
 # Original: As though she had faith that my name alone could make everything right again.
 Рассказчик: Как будто она верила, что одного моего имени достаточно, чтобы всё исправить.
 
 # Original: Did you just... Did you just take a harpoon for that bitch?
-Измаил: Ты что... Ты что, принял гарпун за эту суку?
+Измаил: Ты что... Ты что, принял гарпун вместо этой суки?
 
 # Original: If I aimed a bit to the side, I would've hit you in the face! Your stupid clock face!! Do you understand?!
 Измаил: Если бы я прицелилась немного в сторону, я бы попала тебе в лицо! В твоё глупое лицо с часами!! Ты понимаешь?!
 
 # Original: <Yeah, I do... Boy, you really did whet the heck outta that harpoon... This really hurts.>
-Данте: <Да, понимаю... Девчуль, ты действительно переточила этот гарпун... Это очень больно.>
+Данте: <Да, понимаю... Да уж, ты действительно переточила этот гарпун... Это очень больно.>
 
 # Original: Wha... Can you please stop it! With your stupid goddamn quips!
-Измаил: Что... Ты можешь перестать! Со своими глупыми чёртовыми остротами!
+Измаил: Что... Ты можешь перестать! Со своими чёртовыми глупыми остротами!
 
 # Original: Executive Manager.
 Отис: Исполнительный Менеджер.
@@ -140,7 +140,7 @@
 Отис: Её слов и действий более чем достаточно, чтобы считаться полноценным мятежом. Она покушалась на жизнь своего непосредственного начальника!
 
 # Original: I can no longer sit idly by and watch. Though you may not have the punitive authority...
-Отис: Я больше не могу сидеть сложа руки и смотреть. Хоть у вас может не быть карательных полномочий...
+Отис: Я больше не могу сидеть сложа руки и смотреть. Хоть у вас может и не быть карательных полномочий...
 
 # Original: We must make a detailed report of these incidents and relay it to the higher-ups of the company to discuss our future actions.
 Отис: Мы должны составить подробный отчёт об этих инцидентах и передать его руководству компании для обсуждения наших дальнейших действий.
@@ -170,13 +170,13 @@
 Измаил: Что, ты ни с того ни с сего щелкнул выключателем и решил стать гуманистом?
 
 # Original: You never had to dirty your hands with a drop of blood. Not even once...
-Измаил: Тебе никогда не приходилось марать руки ни каплей крови. Ни разу...
+Измаил: Тебе никогда не приходилось марать руки хоть каплей крови. Ни разу...
 
 # Original: You just sat back and ordered us to bloody ours in your stead.
-Измаил: Ты просто сидел сложа руки и приказывал нам проливать кровь заместо тебя.
+Измаил: Ты просто сидел сложа руки и приказывал нам проливать кровь вместо тебя.
 
 # Original: And now you're telling us to, what, 'ease up on the murders'? What are you even trying to say? That you don't want us to get traumatized anymore? Some touchy-feely shit like that?
-Измаил: И теперь ты говоришь нам, что нужно "прекратить убийства"? Что ты вообще пытаешься сказать? Что ты не хочешь, чтобы мы еще больше страдали? Какое-то сентиментальное дерьмо?
+Измаил: И теперь ты говоришь нам, что нужно "прекратить убийства"? Что ты вообще пытаешься сказать? Что ты не хочешь, чтобы мы еще больше страдали? Или ещё какое-то сентиментальное дерьмо вроде этого?
 
 # Original: <No, it's just my intuition.>
 Данте: <Нет, это просто моя интуиция.>
@@ -191,10 +191,10 @@
 Измаил: Ты ничего не помнишь до получения часов, Данте. Как я могу доверять твоей интуиции?
 
 # Original: <That woman... I think she's in a pretty important position of power, at least in this District. Killing her before thinking things through could complicate things.>
-Данте: <Эта женщина... Я думаю, она занимает довольно важное положение, по крайней мере в этом Районе. Убить её, не подумав, может усложнить ситуацию.>
+Данте: <Эта женщина... Я думаю, она занимает довольно важное положение, по крайней мере в этом Районе. Если мы необдуманно убьём её - это может лишь усложнить ситуацию.>
 
 # Original: Did it not occur to you that NOT killing her could also complicate things?
-Измаил: Тебе не приходило в голову, что НЕ убить её тоже может усложнить ситуацию?
+Измаил: Тебе не приходило в голову, что НЕ убив её - мы тоже можем усложнить ситуацию?
 
 # Original: <... I just think killing everyone in our way left and right like this...>
 Данте: <... Я просто думаю, что убивать всех подряд на нашем пути...>
@@ -251,7 +251,7 @@
 Хитклиф: Что? Я не об этом... Ха, чокнутый псих. Похоже ты тоже не в своём уме. Или, может, тебе просто потребовалось больше времени, чтобы свихнуться, а?
 
 # Original: And here I thought we at least had one sane person on the bus. But you're no different.
-Хитклиф: А я-то думал, что у нас хоть один нормальный человек в автобусе. Но похоже ты ничем не отличаешься.
+Хитклиф: А я-то думал, что у нас хоть один здравомыслящий человек в автобусе. Но похоже ты ничем не отличаешься.
 
 # Original: Heathcliff shook his head and walked away.
 Рассказчик: Хитклиф покачал головой и ушёл.
