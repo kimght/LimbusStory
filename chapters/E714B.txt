@@ -248,7 +248,7 @@
 Рассказчик: В тот момент, когда Мерсо произнёс эти слова...
 
 # Original: The all-too-familiar portal began to appear around Hohenheim's Distortion, as though they were a key to a door.
-Рассказчик: Вокруг Искажения Хоэнхайма начал появляться столь знакомый портал, словно эти слова были ключом к двери.
+Рассказчик: Вокруг Искажения Хохенхайма начал появляться столь знакомый портал, словно эти слова были ключом к двери.
 
 # Original: Scattering shards of familiar yet alien sights appeared intermittently beyond the shimmering veil.
 Рассказчик: За мерцающей завесой прерывисто появлялись разлетающиеся осколки знакомых, но чуждых видений.
