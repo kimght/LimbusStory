@@ -35,7 +35,7 @@
 Рассказчик: После всех этих загадочных и странных личностных тестов нам наконец-то позволили сделать небольшой перерыв.
 
 # Original: Next—basic fitness test for all Sinners. We can finally get started on the real meat of this check-up.
-Хоенхайм: Далее — базовый тест физической подготовки для всех Грешников. Наконец-то мы можем приступить к настоящей части обследования.
+Хохенхайм: Далее — базовый тест физической подготовки для всех Грешников. Наконец-то мы можем приступить к настоящей части обследования.
 
 # Original: Wait, then what were all those tests you guys were running on us?
 Синклер: Погодите, а что тогда были за тесты, которые вы нам устраивали?
@@ -104,37 +104,37 @@
 Алиса: Л-ладно. Итак, базовые групповые тесты завершены.
 
 # Original: …….
-Хоенхайм: .......
+Хохенхайм: .......
 
 # Original: I seem to have forgotten something quite important I had to establish prior to beginning the tests in earnest.
-Хоенхайм: Кажется, я забыл кое-что весьма важное, что следовало установить до начала основных тестов.
+Хохенхайм: Кажется, я забыл кое-что весьма важное, что следовало установить до начала основных тестов.
 
 # Original: I need an assistant.
-Хоенхайм: Мне нужен ассистент.
+Хохенхайм: Мне нужен ассистент.
 
 # Original: <An assistant?>
 Данте: <Ассистент?>
 
 # Original: I need an assistant to help me smooth out the testing procedures.
-Хоенхайм: Мне нужен ассистент, чтобы помочь упорядочить процедуры тестирования.
+Хохенхайм: Мне нужен ассистент, чтобы помочь упорядочить процедуры тестирования.
 
 # Original: Uh… ya got two of ‘em already. Right behind you, if ya need directions.
 Родион: Эм... у вас же уже есть двое. Прямо за вами, если что.
 
 # Original: Oh, we’re not Mr. Hohenheim’s assistants. We’re specifically assistant <i>researchers</i>.
-Мартон: О, мы не ассистенты господина Хоенхайма. Мы конкретно ассистенты-исследователи.
+Мартон: О, мы не ассистенты господина Хохенхайма. Мы конкретно ассистенты-исследователи.
 
 # Original: Yes, of course. There is much that distinguishes these two occupations.
-Хоенхайм: Да, разумеется. Между этими двумя профессиями существует множество различий.
+Хохенхайм: Да, разумеется. Между этими двумя профессиями существует множество различий.
 
 # Original: I would like for one of you to be my assistant for the duration of this check-up…
-Хоенхайм: Я бы хотел, чтобы кто-то из вас был моим ассистентом на время этого обследования...
+Хохенхайм: Я бы хотел, чтобы кто-то из вас был моим ассистентом на время этого обследования...
 
 # Original: Rodya suddenly raised her hand.
 Рассказчик: Родя внезапно подняла руку.
 
 # Original: I wasn’t planning on asking for volunteers, but… now that you’ve raised your hand, I’ll give you the floor.
-Хоенхайм: Я не планировал просить добровольцев, но... раз уж вы подняли руку, я дам вам слово.
+Хохенхайм: Я не планировал просить добровольцев, но... раз уж вы подняли руку, я дам вам слово.
 
 # Original: Don’t ask me to do it. It's just not my vibes, ya know? I’ll take a researcher job, though. I'm a big fan of her style.
 Родион: Не просите меня об этом. Это просто не моё, понимаете? Хотя работа исследователя — это да. Мне очень нравится её стиль.
@@ -146,16 +146,16 @@
 Алиса: Что... что ты делаешь...?
 
 # Original: … I didn’t really have you in mind anyway, but duly noted nonetheless.
-Хоенхайм: ...Я, в общем-то, и не думал о тебе, но всё равно принял к сведению.
+Хохенхайм: ...Я, в общем-то, и не думал о тебе, но всё равно принял к сведению.
 
 # Original: I would also like to refuse your nomination.
 Фауст: Я также хотела бы отказаться от вашей номинации.
 
 # Original: The position of an assistant to Hohenheim implies that the said assistant is, when it comes to skill, inferior to the person they are assisting.
-Фауст: Позиция ассистента Хоенхайма подразумевает, что данный ассистент в плане навыков уступает тому, кому помогает.
+Фауст: Позиция ассистента Хохенхайма подразумевает, что данный ассистент в плане навыков уступает тому, кому помогает.
 
 # Original: Again, I didn’t have you in mind either, but your passionate expression of intent is nonetheless appreciated.
-Хоенхайм: Опять же, я и о вас не думал, но ваше страстное выражение намерения тем не менее ценю.
+Хохенхайм: Опять же, я и о вас не думал, но ваше страстное выражение намерения тем не менее ценю.
 
 # Original: Tsk, I wonder who came up with this brilliant idea of putting two smartarses together to waste time pointing out each other's minor mistakes?
 Хитклиф: Тц, интересно, кому пришла в голову эта гениальная идея — поставить двух умников вместе, чтобы они тратили время на выискивание мелких ошибок друг друга?
@@ -176,10 +176,10 @@
 Синклер: Я... почему-то почувствовал, что должен подать заявку на эту должность...
 
 # Original: Well, the decision has already been made. Do note that the selection criteria is fully based on my very subjective opinion.
-Хоенхайм: Что ж, решение уже принято. Имейте в виду, что критерии отбора полностью основаны на моём весьма субъективном мнении.
+Хохенхайм: Что ж, решение уже принято. Имейте в виду, что критерии отбора полностью основаны на моём весьма субъективном мнении.
 
 # Original: You there, orange-haired Sinner…
-Хоенхайм: Эй, ты, рыжеволосый Грешник...
+Хохенхайм: Эй, ты, рыжеволосый Грешник...
 
 # Original: Ishmael almost threw me to the ground as she confidently strode up to the front of the line.
 Рассказчик: Измаил чуть не сбила меня с ног, когда уверенно выступила вперёд строя.
@@ -188,7 +188,7 @@
 Данте: <Уф...>
 
 # Original: Greetings, Mr. Hohenheim. As you must be aware if you’ve taken a look at my documents, I’ve rarely let anyone down during my various tenures at Offices and Associations. You'll have nothing to worry as long as I'm by your side.
-Измаил: Приветствую, господин Хоенхайм. Как вы, должно быть, знаете, если просмотрели мои документы, я редко подводила кого-либо во время работы в различных Офисах и Ассоциациях. Вам не о чем беспокоиться, пока я рядом.
+Измаил: Приветствую, господин Хохенхайм. Как вы, должно быть, знаете, если просмотрели мои документы, я редко подводила кого-либо во время работы в различных Офисах и Ассоциациях. Вам не о чем беспокоиться, пока я рядом.
 
 # Original: Also, can I add this experience to my resume if I ever get a chance to submit a transfer request to work at the headquarters?
 Измаил: Кстати, могу ли я добавить этот опыт в своё резюме, если у меня появится шанс подать заявку на перевод в штаб-квартиру?
@@ -197,7 +197,7 @@
 Грегор: Не знал, что ты всё ещё не оставила эту надежду.
 
 # Original: I… called on you to ask you to move, because you were standing in front of the Sinner I chose.
-Хоенхайм: Я... позвал вас, чтобы попросить отойти, потому что вы стоите перед Грешником, которого я выбрал.
+Хохенхайм: Я... позвал вас, чтобы попросить отойти, потому что вы стоите перед Грешником, которого я выбрал.
 
 # Original: …….
 Измаил: .......
@@ -218,25 +218,25 @@
 Измаил: Погодите, но... ч... но... почему? Я же здесь, зачем выбирать кого-то вроде...
 
 # Original: It is a common misconception among many researchers…
-Хоенхайм: Это распространённое заблуждение среди многих исследователей...
+Хохенхайм: Это распространённое заблуждение среди многих исследователей...
 
 # Original: … to assume that the higher their level of education and the more elaborate their resume, the better candidate one makes for a research project participant.
-Хоенхайм: ...полагать, что чем выше уровень образования и чем внушительнее резюме, тем лучшим кандидатом человек является для участия в исследовательском проекте.
+Хохенхайм: ...полагать, что чем выше уровень образования и чем внушительнее резюме, тем лучшим кандидатом человек является для участия в исследовательском проекте.
 
 # Original: B-but... but that's just common sense, isn't it? At least when it comes to research...?
 Измаил: Н-но... но это же просто здравый смысл, разве нет? По крайней мере, когда речь идёт об исследованиях...?
 
 # Original: However, were you aware that most great discoveries are made from a potent mix of spontaneity and intuition?
-Хоенхайм: Однако знаете ли вы, что большинство великих открытий делается благодаря мощному сочетанию спонтанности и интуиции?
+Хохенхайм: Однако знаете ли вы, что большинство великих открытий делается благодаря мощному сочетанию спонтанности и интуиции?
 
 # Original: A perfect descriptor for our friend here, I would say.
-Хоенхайм: Я бы сказал, это идеальное описание нашего друга.
+Хохенхайм: Я бы сказал, это идеальное описание нашего друга.
 
 # Original: Uh… uhh…
 Хитклиф: Эм... ээ...
 
 # Original: What say you, Heathcliff? I believe that this aggressive and passionate approach of yours gives you more than sufficient qualification to command and lead them in my stead.
-Хоенхайм: Что скажешь, Хитклиф? Я полагаю, что твой агрессивный и страстный подход даёт тебе более чем достаточную квалификацию, чтобы командовать и вести их вместо меня.
+Хохенхайм: Что скажешь, Хитклиф? Я полагаю, что твой агрессивный и страстный подход даёт тебе более чем достаточную квалификацию, чтобы командовать и вести их вместо меня.
 
 # Original: Uhm… Is… is that right?
 Хитклиф: Эм... Это... правда что ли?
@@ -260,19 +260,19 @@
 Рассказчик: Ответил И Сан с особенно подавленным видом.
 
 # Original: I am glad to have you on board as my new assistant.
-Хоенхайм: Я рад приветствовать тебя в качестве моего нового ассистента.
+Хохенхайм: Я рад приветствовать тебя в качестве моего нового ассистента.
 
 # Original: Righty-ho. So… uh, ahem. What have I got to do now?
 Хитклиф: Лады-ладушки. Так что... кхм. Чё мне теперь делать-то?
 
 # Original: Nothing too complicated. You only need to liberally express your free spirit, just as you are now.
-Хоенхайм: Ничего слишком сложного. Тебе нужно лишь свободно выражать свой вольный дух, как ты это делаешь сейчас.
+Хохенхайм: Ничего слишком сложного. Тебе нужно лишь свободно выражать свой вольный дух, как ты это делаешь сейчас.
 
 # Original: Aha, now I see what he's doing.
 Мартон: Ага, теперь я понимаю, что он задумал.
 
 # Original: Hohenheim sure knows which one of the group to coax to make things go over smoothly.
-Мартон: Хоенхайм точно знает, кого из группы подтолкнуть, чтобы всё прошло гладко.
+Мартон: Хохенхайм точно знает, кого из группы подтолкнуть, чтобы всё прошло гладко.
 
 # Original: Marton whispered quietly at me in a voice that only I could hear.
 Рассказчик: Прошептал Мартон мне тихим голосом, который мог услышать только я.
