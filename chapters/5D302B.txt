@@ -1,14 +1,14 @@
 # Original: Your head... What an odd power it has. Just like the peculiarities of each Whale.
-Ахав: Твоя голова... Какая странная сила в ней заключена. Прямо как особенность каждого Кита.
+Ахав: Твоя голова... Какая странная сила в ней заключена. Прямо как особенности каждого из Китов.
 
 # Original: ... Pequod crew sank. Right before heart.
-Квиквег: ... Команда "Пекода" утонула. Прямо перед сердцем.
+Квикег: ... Команда "Пекода" утонула. Прямо перед сердцем.
 
 # Original: Because of you.
-Квиквег: Из-за тебя.
+Квикег: Из-за тебя.
 
 # Original: It was a mistake to expect even a hint of surprise or shame from the Captain...
-Рассказчик: Было ошибкой ожидать хоть намёк на удивление или стыд от Капитана...
+Рассказчик: Было ошибкой ожидать от Капитана хотя бы намёка на удивление или стыд...
 
 # Original: ... when it was revealed that she'd sent her crew to their deaths.
 Рассказчик: ... когда выяснилось, что она отправила свою команду на верную смерть.
@@ -20,13 +20,13 @@
 Ахав: Да, можно сказать и так. Вы действительно можете утверждать, что я пожертвовала своей командой.
 
 # Original: By now they must be wandering the Whale's guts, transformed into Mermaids. Lucky ones probably turned to sludge in acid.
-Ахав: К этому моменту они, должно быть, блуждают по кишкам Кита, превратившись в Русалок. Везунчики, вероятно, растворились в кислоте.
+Ахав: К этому моменту они, должно быть, блуждают по кишкам Кита, превратившись в Русалок. Те кому повезло, вероятно, растворились в кислоте.
 
 # Original: But why...
 Грегор: Но зачем...
 
 # Original: I know this heart better than anything else in the world. I know it better than my own body. The pancreas we have journeyed through is an endlessly winding maze! And if our limbs were to be melted off, we'd have no means of recovering them as you do.
-Ахав: Я знаю это сердце лучше, чем чьё-либо другое в мире. Я знаю его лучше, чем своё собственное тело. Поджелудочная железа, через которую мы путешествовали, - это бесконечный извилистый лабиринт! И если бы наши конечности растворились, у нас не было бы возможности восстановить их, как это делаете вы.
+Ахав: Я знаю это сердце лучше, чем что-либо другое в мире. Я знаю его лучше, чем своё тело. Поджелудочная железа, через которую мы путешествовали, - это бесконечный извилистый лабиринт! И если бы наши конечности растворились, у нас не было бы возможности восстановить их, как это делаете вы.
 
 # Original: I had to calculate the ideal path to the heart, losses be damned. I see no injustice committed in my pursuit of practicality.
 Ахав: Мне пришлось рассчитать идеальный путь к сердцу, несмотря на потери. Я не вижу никакой несправедливости в моём стремлении к практичности.
