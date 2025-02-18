@@ -2,10 +2,10 @@
 Измаил: Бледный Кит и... Ахав...
 
 # Original: They force their way into the cracks in our hearts.
-Измаил: Они пробиваются в трещины наших сердец.
+Измаил: Они прокладывают себе путь в трещины наших сердец.
 
 # Original: Everyone has those cracks in their hearts. They're what makes us hesitate, what makes us waver.
-Измаил: У каждого есть эти трещины в сердцах. Именно они заставляют нас колебаться, сомневаться.
+Измаил: У каждого есть эти трещины. Именно они заставляют нас колебаться, сомневаться.
 
 # Original: Confusion. Loneliness. The anxiety of the unknown. The fear of knowing that the people... the things you cherish... will one day leave your side.
 Измаил: Смятение. Одиночество. Страх перед неизвестным. Страх осознания того, что люди... вещи, которые ты ценишь... однажды покинут тебя.
@@ -23,7 +23,7 @@
 Измаил: Эта одержимость обвила меня так плотно и таким количеством непроницаемых слоёв, что я...
 
 # Original: ... I could no longer even recognize the times I've spent with everyone... and the choices I've made...
-Измаил: ... я больше не могла даже вспомнить те времена, проведённое со всеми... и выборы, которые я сделала...
+Измаил: ... я больше не могла даже вспомнить то время, проведённое со всеми... и выборы, которые я сделала...
 
 # Original: And all of a sudden...
 Измаил: И вдруг...
@@ -59,52 +59,52 @@
 Измаил: …….
 
 # Original: The pallid membrane devours Queequeg before Ishmael's eyes.
-Рассказчик: Бледная мембрана поглощает Квиквег на глазах у Измаил.
+Рассказчик: Бледная мембрана поглощает Квикег на глазах у Измаил.
 
 # Original: I’m so sorry, Queequeg… I… couldn’t save you…
-Измаил: Мне так жаль, Квиквег… Я… не смогла тебя спасти…
+Измаил: Мне так жаль, Квикег… Я… не смогла тебя спасти…
 
 # Original: No. I was. Too late.
-Квиквег: Нет. Уже. Слишком поздно.
+Квикег: Нет. Уже. Слишком поздно.
 
 # Original: Too late to think. About what is right and what is wrong. To think for myself. Too late.
-Квиквег: Слишком поздно думать. О том, что правильно, а что нет. Думать самостоятельно. Слишком поздно.
+Квикег: Слишком поздно думать. О том, что правильно, а что нет. Думать самостоятельно. Слишком поздно.
 
 # Original: I, I should have been more... I should have...
 Измаил: Я, я должна была быть более... Я должна была...
 
 # Original: Hey.
-Квиквег: Эй.
+Квикег: Эй.
 
 # Original: Your name. Tell me. Once more.
-Квиквег: Твоё имя. Скажи мне. Ещё раз.
+Квикег: Твоё имя. Скажи мне. Ещё раз.
 
 # Original: The Great Lake might be one of the worst places in the City... but it sure has a pretty sunset.
 Измаил: Великое Озеро, возможно, одно из худших мест в Городе... но здесь точно красивый закат.
 
 # Original: …….
-Квиквег: …….
+Квикег: …….
 
 # Original: Your name. What?
-Квиквег: Твоё имя. Какое?
+Квикег: Твоё имя. Какое?
 
 # Original: My name? W-why?
 Измаил: Моё имя? З-зачем?
 
 # Original: Because, your hair color. I like it.
-Квиквег: Потому что, цвет твоих волос. Мне нравится.
+Квикег: Потому что, цвет твоих волос. Мне нравится.
 
 # Original: Whales. When they die, they turn to the sun.
-Квиквег: Киты. Когда они умирают, они обращаются к солнцу.
+Квикег: Киты. Когда они умирают, они обращаются к солнцу.
 
 # Original: And your hair color. Sunset-color.
-Квиквег: И цвет твоих волос. Цвет-заката.
+Квикег: И цвет твоих волос. Цвет-заката.
 
 # Original: So when I throw the harpoon, Whales turn to you.
-Квиквег: Так что когда я бросаю гарпун, Киты обращаются к тебе.
+Квикег: Так что когда я бросаю гарпун, Киты обращаются к тебе.
 
 # Original: We can be good friends.
-Квиквег: Мы можем быть хорошими друзьями.
+Квикег: Мы можем быть хорошими друзьями.
 
 # Original: Well... call me Ishmael, if you please.
 Измаил: Ну... зови меня Измаил, если хочешь.
@@ -113,10 +113,10 @@
 Измаил: ... Зови меня... Измаил...
 
 # Original: …….
-Квиквег: …….
+Квикег: …….
 
 # Original: Queequeg disintegrated until she was no more.
-Рассказчик: Квиквег растворилась, пока её не стало.
+Рассказчик: Квикег растворилась, пока её не стало.
 
 # Original: …….
 Измаил: …….
