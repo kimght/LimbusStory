@@ -1,5 +1,5 @@
 ﻿# Original: Heathcliff seemed eager to, as Hoheinheim had suggested, express his ‘free spirit’ to the best of his capabilities.
-Рассказчик: Хитклиф, похоже, горел желанием, как и предложил Хоенхайм, проявить свой "свободный дух" во всей красе.
+Рассказчик: Хитклиф, похоже, горел желанием, как и предложил Хохенхайм, проявить свой "свободный дух" во всей красе.
 
 # Original: Right, you there! Get in line! Single file, lads! Let’s make this easy for all of us!
 Хитклиф: Так, эй ты! Становись в строй! По одному, ребятки! Давайте сделаем это попроще для всех!
@@ -14,10 +14,10 @@
 Измаил: И давно ты носишь очки?
 
 # Original: Glasses are basic apparatuses of all researchers.
-Хоенхайм: Очки — базовый атрибут любого исследователя.
+Хохенхайм: Очки — базовый атрибут любого исследователя.
 
 # Original: Look, slightly pushing up on the glasses helps to put on the air of a studious, learned individual. Like so.
-Хоенхайм: Смотрите, лёгкое поправление очков помогает создать образ прилежного, образованного человека. Вот так.
+Хохенхайм: Смотрите, лёгкое поправление очков помогает создать образ прилежного, образованного человека. Вот так.
 
 # Original: Just like how slightly pushing up the frames of my glasses while wondering what to have for lunch makes it seem as though I am contemplating on the more profound aspects of life.
 Мартон: Как когда я слегка поправляю оправу своих очков, размышляя о том, что съесть на обед, создаётся впечатление, будто я погружён в глубокие философские раздумья.
@@ -35,7 +35,7 @@
 Данте: <Хм, а он довольно эффективен...>
 
 # Original: Hm… it seems that we are now ready to conduct the tests. Finally.
-Хоенхайм: Хм... похоже, мы наконец готовы приступить к тестам.
+Хохенхайм: Хм... похоже, мы наконец готовы приступить к тестам.
 
 # Original: The primary purpose of this test…
 Алиса: Основная цель этого теста...
@@ -116,25 +116,25 @@
 Грегор: Как клей, да? Мне нравится.
 
 # Original: Ah, a certain misunderstanding seems to be brewing in tandem with this uplifting exchange of heart-to-hearts; allow me to step in and nip it in the bud.
-Хоенхайм: Ах, похоже, параллельно с этим душевным обменом любезностями назревает определённое недопонимание; позвольте мне вмешаться и пресечь его в зародыше.
+Хохенхайм: Ах, похоже, параллельно с этим душевным обменом любезностями назревает определённое недопонимание; позвольте мне вмешаться и пресечь его в зародыше.
 
 # Original: Let me give it to you straight…
-Хоенхайм: Позвольте сказать прямо...
+Хохенхайм: Позвольте сказать прямо...
 
 # Original: All of your abilities were diminished the moment you were hired by this company. Equally defanged and depowered, if you will.
-Хоенхайм: Все ваши способности были ослаблены в момент приёма на работу в эту компанию. Можно сказать, вас всех одинаково обезоружили и лишили сил.
+Хохенхайм: Все ваши способности были ослаблены в момент приёма на работу в эту компанию. Можно сказать, вас всех одинаково обезоружили и лишили сил.
 
 # Original: Equally... defanged?
 Хитклиф: Одинаково... обезоружили?
 
 # Original: In other words, all of your abilities have been brought down to the… ah, yes. To the same general level as our eleventh Sinner here.
-Хоенхайм: Другими словами, все ваши способности были сведены к... ах, да. К тому же общему уровню, что и у нашего одиннадцатого Грешника.
+Хохенхайм: Другими словами, все ваши способности были сведены к... ах, да. К тому же общему уровню, что и у нашего одиннадцатого Грешника.
 
 # Original: ... Why am I your point of reference?
 Синклер: ...Почему я стал точкой отсчёта?
 
 # Original: Ah, if this is what you meant earlier by "growing closer, like glue", then I suppose it was quite the apt choice of words.
-Хоенхайм: А, если это то, что ты имел в виду ранее под "сблизились, как клей", то, полагаю, это было весьма метким выражением.
+Хохенхайм: А, если это то, что ты имел в виду ранее под "сблизились, как клей", то, полагаю, это было весьма метким выражением.
 
 # Original: Oi, take that back.
 Хитклиф: Эй, забери свои слова обратно.
@@ -158,22 +158,22 @@
 Измаил: Мы все потеряли силы из-за Золотой Ветви? Погодите, это как-то связано с теми цепями, которые появились, когда мы впервые заключили контракт с Данте...?
 
 # Original: Indeed. One of the powers of a Golden Bough is ‘connection’.
-Хоенхайм: Именно. Одна из сил Золотой Ветви — это "связь".
+Хохенхайм: Именно. Одна из сил Золотой Ветви — это "связь".
 
 # Original: You are now all fairly, evenly, and equally…
-Хоенхайм: Теперь вы все справедливо, равномерно и одинаково...
+Хохенхайм: Теперь вы все справедливо, равномерно и одинаково...
 
 # Original: mediocre.
-Хоенхайм: посредственны.
+Хохенхайм: посредственны.
 
 # Original: …….
 Синклер: .......
 
 # Original: Hohenheim’s comment and the subsequent stare seemed a bit targeted…
-Рассказчик: Комментарий Хоенхайма и последующий взгляд казались несколько прицельными...
+Рассказчик: Комментарий Хохенхайма и последующий взгляд казались несколько прицельными...
 
 # Original: Think of it as something akin to Qliphoth Deterrence employed by the Lobotomy Corporation.
-Хоенхайм: Думайте об этом как о чём-то похожем на Сдерживание Клипот, используемого Корпорацией Лоботомия.
+Хохенхайм: Думайте об этом как о чём-то похожем на Сдерживание Клипот, используемого Корпорацией Лоботомия.
 
 # Original: So, the truth is finally revealed. This was why I, Outis, grew so pathetically weak the moment I joined this company.
 Отис: Итак, правда наконец раскрыта. Вот почему я, Отис, стала такой жалко слабой в момент присоединения к этой компании.
@@ -242,19 +242,19 @@
 Данте: <Ты и так никогда этого не делаешь.>
 
 # Original: Well, if your strengths have indeed progressed since the onboarding, then the average must have risen as well. One of the purposes of these tests is to measure that very difference.
-Хоенхайм: Что ж, если ваши силы действительно прогрессировали с момента приёма на работу, то и средний уровень должен был повыситься. Одна из целей этих тестов — измерить именно эту разницу.
+Хохенхайм: Что ж, если ваши силы действительно прогрессировали с момента приёма на работу, то и средний уровень должен был повыситься. Одна из целей этих тестов — измерить именно эту разницу.
 
 # Original: So what exactly goes into these tests? I know there's a District that uses a machine that can analyze most aspects of the subject with a quick scan, so is it going to be something like that?
 Измаил: Так что конкретно входит в эти тесты? Я знаю, что в одном Районе есть машина, которая может проанализировать большинство аспектов субъекта быстрым сканированием, так что это будет что-то подобное?
 
 # Original: There are dozens, if not hundreds of ways to determine one’s abilities without the assistance of machinery. Ah, in fact, I know of a perfectly appropriate methodology for this group.
-Хоенхайм: Существуют десятки, если не сотни способов определить чьи-либо способности без помощи механизмов. Ах, фактически, я знаю идеально подходящую методологию для этой группы.
+Хохенхайм: Существуют десятки, если не сотни способов определить чьи-либо способности без помощи механизмов. Ах, фактически, я знаю идеально подходящую методологию для этой группы.
 
 # Original: <A perfectly appropriate methodology…?>
 Данте: <Идеально подходящая методология...?>
 
 # Original: We spent some time out of our busy schedules to tailor each test for each Sinner of the LCB.
-Хоенхайм: Мы потратили часть нашего плотного графика на то, чтобы подготовить индивидуальный тест для каждого Грешника LCB.
+Хохенхайм: Мы потратили часть нашего плотного графика на то, чтобы подготовить индивидуальный тест для каждого Грешника LCB.
 
 # Original: That was pretty tough, I’ll have you guys know.
 Алиса: Это было довольно сложно, должна вам сказать.
@@ -263,10 +263,10 @@
 Грегор: Индивидуальные тесты для каждого Грешника, да... Мне это не очень нравится, если хотите знать моё мнение.
 
 # Original: We…
-Хоенхайм: Мы...
+Хохенхайм: Мы...
 
 # Original: … will utilize the Peccatula… and the Distortion phenomenon.
-Хоенхайм: ...будем использовать Пеккатул... и феномен Искажения.
+Хохенхайм: ...будем использовать Пеккатул... и феномен Искажения.
 
 # Original: Huh. That doesn’t sound much like some super innovative method you were building up to. What a letdown…
 Родион: Хм. Не очень-то похоже на какой-то супер инновационный метод, к которому вы вели. Какое разочарование...
@@ -275,7 +275,7 @@
 Измаил: Правда? Честно говоря, после всех этих разговоров я думала, они придумают что-то более впечатляющее...
 
 # Original: … Assistant?
-Хоенхайм: ...Ассистент?
+Хохенхайм: ...Ассистент?
 
 # Original: Alright, that’s enough chatter! Now get in there!
 Хитклиф: Так, хватит болтовни! А теперь марш туда!

@@ -5,13 +5,13 @@
 Грегор: Слушай, приятель, можно и потише. Мы тебя прекрасно слышим и без этих криков на всю округу...
 
 # Original: Now, let us discuss Peccatulum Pigritiae—Sloth.
-Хоенхайм: Итак, обсудим Peccatulum Pigritiae — Уныние.
+Хохенхайм: Итак, обсудим Peccatulum Pigritiae — Уныние.
 
 # Original: Stones are sturdy, but that's all there is to them. They are directionless and unmoving—completely surrendered to inertia.
-Хоенхайм: Камни крепки, но это их единственное свойство. Они лишены направления и движения — полностью подчинены инерции.
+Хохенхайм: Камни крепки, но это их единственное свойство. Они лишены направления и движения — полностью подчинены инерции.
 
 # Original: They are trapped in their current lot in existence until someone else comes along to roll them away. Truly, there is no better symbol for sloth than them.
-Хоенхайм: Они заперты в своём текущем положении, пока кто-то другой не придёт и не сдвинет их с места. Воистину, нет лучшего символа уныния, чем они.
+Хохенхайм: Они заперты в своём текущем положении, пока кто-то другой не придёт и не сдвинет их с места. Воистину, нет лучшего символа уныния, чем они.
 
 # Original: …….
 Фауст: …….

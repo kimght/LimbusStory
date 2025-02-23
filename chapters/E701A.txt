@@ -11,10 +11,10 @@
 Родион: Фух, ребят, есть чего перекусить? Я тут с голоду помираю после этой заварушки.
 
 # Original: You will maintain an empty stomach for the duration of the tests.
-Хоэнхайм: Вы будете поддерживать пустой желудок на протяжении всех испытаний.
+Хохенхайм: Вы будете поддерживать пустой желудок на протяжении всех испытаний.
 
 # Original: Next on the docket is...
-Хоэнхайм: Следующим пунктом у нас...
+Хохенхайм: Следующим пунктом у нас...
 
 # Original: I would’ve asked Meursault for a massage if I knew this was coming. Whose idea was this anyway?
 Грегор: Знал бы, что так будет — попросил бы Мерсо сделать массаж. Чья это вообще была идея?
