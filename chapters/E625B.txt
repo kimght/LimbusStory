@@ -20,7 +20,7 @@
 Кассетти: Я сообщу вам сие лишь единожды, так что слушайте внимательно.
 
 # Original: You may call me Cassetti, Sixth Kindred, a Kindred of the sixth generation, the rightful prince in refuge from his Family!
-Кассетти: Вы можете звать меня Кассетти, Шестой Сородич, Сородич шестого поколения, законный принц сбежавший от своей Семьи!
+Кассетти: Вы можете звать меня Кассетти, Шестой Сородич, Сородич шестого поколения, законный принц, сбежавший от своей Семьи!
 
 # Original: Art thou the villain... who hath brought such destruction and massacre upon this vessel?
 Дон Кихот: Ты и есть тот самый злодей... который принёс разрушение и бойню на сей корабль?
