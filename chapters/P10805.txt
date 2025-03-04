@@ -5,22 +5,22 @@
 Рассказчик: Всё тело дитя было покрыто зелёной липкой субстанцией.
 
 # Original: No, rather than sticking to her... It should be right to call it 'draped' over her.
-Рассказчик: Но нет, субстанция попала на дитя не случайно… Правильнее будет сказать, что оно "носит" её.
+Рассказчик: Но она не прилипла к нему… Правильнее будет сказать, что она "навешена" на него.
 
 # Original: That is a kind of 'equipment', 'suit', 'outfit', and 'tool' the child put on of her own volition.
 Рассказчик: Это своего рода "снаряжение", "костюм", "одежда" и "инструмент", которое дитя стало носить по своей воле.
 
 # Original: That's right. In the now fallen L Corp... or Lobotomy Corporation, in other words, they used to extract a type of 'tool' from Abnormalities.
-Рассказчик: Всё так. В бывшей корпорации L… тогда ещё именовавшейся корпорацией «Лоботомия», из аномалий извлекали определённые "инструменты".
+Рассказчик: Всё так. В бывшей корпорации L… тогда ещё именовавшейся Корпорацией «Лоботомия», из аномалий извлекали определённые "инструменты".
 
 # Original: By drawing up the innermost core of the Abnormality... they made it possible for anyone to use their powers as tools whenever.
-Рассказчик: Извлекая из аномалий их внутреннюю сущность… они сделали возможным в любое время использовать их силы в виде инструментов.
+Рассказчик: Собрав воедино внутреннюю сущность Аномалии… они дали возможность любому человеку в любой момент использовать их силы в виде инструментов.
 
 # Original: In Lobotomy Corporation, they made two types of such tools, and called them E.G.O Weapons and E.G.O Suits, respectively.
-Рассказчик: Корпорация «Лоботомия» разделяла их на ЭГО орудия и ЭГО броню.
+Рассказчик: Корпорация Лоботомия создала два типа таких инструментов и назвала их Э.Г.О Оружие и Э.Г.О Броня.
 
 # Original: Employees managing Abnormalities wore them as needed, used them to handle a variety of dangerous situations, and...
-Рассказчик: Сотрудники, вступавшие в контакт с аномалиями, по необходимости носили их, использовали их для выживания в разных опасных ситуациях и…
+Рассказчик: Сотрудники, вступавшие в контакт с Аномалиями, по мере необходимости носили и использовали их, чтобы справляться с разными опасными ситуациями, и…
 
 # Original: Haha, that went on for a bit too long.
 Рассказчик: Ха-ха, кажется, слишком большое вышло отступление.
@@ -29,31 +29,31 @@
 Измаил: Ну почему только мне приходится ходить в этом? Может я возьму… тот наряд с оберегами?
 
 # Original: Shoulda picked faster, gal~ There were only three sets left, so what can we do about it?
-Родион: Кто успел, тот и съел~ Что ж поделать-то, если оставалось всего три комплекта?
+Родион: Надо было выбирать быстрее, девочка~ Что поделать, если оставалось всего три комплекта?
 
 # Original: Reading the documents left here... It says only a limited number of sets could be produced for each...
-Синклер: Судя по оставшейся документации… У каждого комплекта было своё производственное ограничение…
+Синклер: Судя по оставшейся документации… Лишь ограниченное число комплектов может быть изготовлено для каждой…
 
 # Original: See now~ I guess you could say you were destined to put that on, right, sweetheart? Fuhu.
-Родион: Ну видишь~ Тебе, похоже, было судьбой уготовлено его носить? Фу-ху.
+Родион: Вот видишь~ Тебе, можно сказать, было уготовлено судьбой его носить, верно, дорогуша? Фу-ху.
 
 # Original: Damn it...
 Измаил: Чёрт…
 
 # Original: As there were many kinds of Abnormalities, E.G.O could be extracted in various forms.
-Рассказчик: Поскольку аномалии бывают разные, извлекаемые из них ЭГО тоже разнятся.
+Рассказчик: Поскольку аномалии бывают разные, извлекаемые из них Э.Г.О тоже разнятся.
 
 # Original: It looks like this branch only managed a few Abnormalities before the burial. Perhaps it was a relatively new one that wasn't authorized for very long.
-Рассказчик: Этот филиал скорее всего занимался всего парой-тройкой аномалий прежде, чем был захоронен. Вероятно, он был относительно новым и просуществовал недолго.
+Рассказчик: Похоже, этот филиал занимался всего парой-тройкой Аномалий прежде, чем был захоронен. Вероятно, он был относительно новым и просуществовал недолго.
 
 # Original: They might not have extracted much E.G.O because they didn't manage the Abnormalities for long enough.
-Рассказчик: Они толком не успели поработать с аномалиями, поэтому и ЭГО было разработано не так много.
+Рассказчик: Они толком не успели поработать с Аномалиями, поэтому и Э.Г.О было разработано не так много.
 
 # Original: So... Do we really have to use these to fight on?
-Измаил: Ну и… Мы правда будем в этом сражаться?
+Измаил: Итак… Неужели нам действительно нужно использовать это, чтобы продолжать сражаться?
 
 # Original: The child asked, brushing off the slime on her head.
-Рассказчик: Сказало дитя, вычищая слизь из волос.
+Рассказчик: Спросило дитя, вычищая слизь из волос.
 
 # Original: That security staff from K Corp... were they called the excision staff? I admit they're a pain to deal with, but I'm not sure if we need all this...
 Измаил: Эти ребята… Агенты удаления корпорации K, кажется? Они, конечно, тяжкие противники, но неужели нам всё это нужно…
