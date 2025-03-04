@@ -1,20 +1,20 @@
 ﻿# Original: Enemy inbound! 100 meters!
-Рассказчик: Враг в поле зрения! 100 метров!
+Рассказчик: Враг приближается! 100 метров!
 
 # Original: Crap… We’re out of ammo, too…
-Рассказчик: Чёрт… У нас и патроны почти закончились…
+Рассказчик: Чёрт… У нас тоже закончились патроны…
 
 # Original: It was a clear emergency. The darkly clad children were terrified by an unknown threat with which they didn’t know how to deal.
-Рассказчик: Определённо, это было ЧП. Дети, облачённые в чёрное, с ужасом не понимали, как им справиться с врагом.
+Рассказчик: Определённо, это было ЧП. Дети в темных одеждах были напуганы неизвестной угрозой, с которой они не знали, как справиться.
 
 # Original: Dammit… Should’ve known bringing less to save the company budget was a bad call!
-Рассказчик: Проклятье… Не нужно было экономить на пулях для сохранения бюджета компании!
+Рассказчик: Проклятье… Так и знал, что решение взять с собой меньше патронов ради экономии бюджета компании было плохой идеей!
 
 # Original: Not like we could earn a better review from HR or anything, so why’d… Ope.
-Рассказчик: Все равно бы от главы персонала подачек не получили бы с этого, так что… Ой.
+Рассказчик: Не то чтобы мы могли получить от отдела кадров отзыв получше, так почему бы и нет… Ой.
 
 # Original: The child’s mouth went shut, for it suddenly dawned on them that their gun had stopped firing its projectiles.
-Рассказчик: Дитя проглотило язык, поскольку осознало, что от нажатия спусковых крючков их пистолеты уже не стреляли.
+Рассказчик: Дитя проглотило язык, поскольку внезапно осознало, что их пистолеты уже не стреляли.
 
 # Original: …25 meters.
 Рассказчик: …25 метров.
@@ -26,19 +26,19 @@
 Рассказчик: Тогда-то перед ними и появилась их спасительница с волосами цвета заката.
 
 # Original: Relax you two. I’ll take charge from here.
-Измаил: Не волнуйтесь. Дальше беру ситуацию под своей контроль.
+Измаил: Не волнуйтесь. Дальше беру ситуацию под свой контроль.
 
 # Original: …Ms. Ishmael!
 Рассказчик: …Мисс Измаил!
 
 # Original: With her shield raised, the child stared down her oncoming foe with unwavering resolve.
-Рассказчик: Дитя, выставив вперёд громадный щит, устремило непоколебимый взгляд в сторону противника.
+Рассказчик: Дитя, подняв щит, устремило непоколебимый взгляд на приближающегося противника.
 
 # Original: This is Ishmael. I’ve joined up with the team at Operation Site BA21. Will help them wipe out the damn rats. Over.
-Измаил: Говорит Измаил. Я встретилась с группой в месте операции BA21. Окажу поддержку в уничтожении Крыс. Конец связи.
+Измаил: Говорит Измаил. Я встретилась с группой в месте проведения Операции BA21. Окажу им поддержку в уничтожении крыс. Конец связи.
 
 # Original: Her firearm emitted flashes of light, a semaphore of salvation.
-Рассказчик: Вспышки, знаменующие собой спасение, мерцали из пистолета дитя.
+Рассказчик: Вспышки, знаменующие собой спасение, сверкали из пистолета дитя.
 
 # Original: Ah, and also… Please refrain from making idiotic suggestions such as conserving the LCC’s ammo in the future. We have well-heeled sponsors backing us.
 Измаил: А, и ещё… В будущем воздержитесь от такой тупой идеи, как сбережение патронов LCC. Нас поддерживают очень состоятельные спонсоры.
