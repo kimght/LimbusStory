@@ -50,13 +50,13 @@
 Рассказчик: Они толком не успели поработать с Аномалиями, поэтому и Э.Г.О было разработано не так много.
 
 # Original: So... Do we really have to use these to fight on?
-Измаил: Итак… Неужели нам действительно нужно использовать это, чтобы продолжать сражаться?
+Измаил: Так… Неужели нам действительно нужно использовать это, чтобы продолжать сражаться?
 
 # Original: The child asked, brushing off the slime on her head.
 Рассказчик: Спросило дитя, вычищая слизь из волос.
 
 # Original: That security staff from K Corp... were they called the excision staff? I admit they're a pain to deal with, but I'm not sure if we need all this...
-Измаил: Эти ребята… Агенты удаления корпорации K, кажется? Они, конечно, тяжкие противники, но неужели нам всё это нужно…
+Измаил: Эти ребята… сотрудники иссечения Корпорации K, кажется? Признаю, с ними трудно иметь дело, но я не уверена, нужно ли нам все это…
 
 # Original: Don't wanna? If that's the case... go ahead and fight without it, then~
 Родион: Не хочешь? Ну раз так… пожалуйста, сражайся без снаряжения~
@@ -65,7 +65,7 @@
 Измаил: Хнг…
 
 # Original: The child still couldn't erase the unpleasantness from her face.
-Рассказчик: Дитя всё никак не могло избавиться от отвращения в своём в взгляде.
+Рассказчик: Дитя всё ещё не могло избавиться от выражения отвращения на своём лице.
 
 # Original: But, experiencing its power might have changed her mind a bit.
 Рассказчик: Однако, опробовав новую силу, оно слегка передумало.
@@ -74,7 +74,7 @@
 Измаил: Ого… Оружие выглядит таким тяжёлым, но им так просто размахивать?
 
 # Original: Hey... Admiring that kinda stuff right in the middle of beating someone down is... a bit off-putting, isn't it?
-Родион: Эй… Как-то немного… стрёмно, что ты восхваляешь оружие, пока выбиваешь им из кого-то дурь…
+Родион: Эй… Как-то немного… странно - восхищаться подобными вещами, пока избиваешь кого-то, не так ли?
 
 # Original: I mean, look at this!
 Измаил: Но ты посмотри!
@@ -92,10 +92,10 @@
 Рассказчик: Дитя прикрыло рот, чтобы пресечь эту необычную манеру речи.
 
 # Original: Her colleagues laugh at the scene, and the child looks quite humiliated...
-Рассказчик: Коллеги дитя не смогли сдержать смех, а само оно выглядело весьма смущённо…
+Рассказчик: Её коллеги не смогли сдержать смех, а само дитя выглядело весьма смущённо…
 
 # Original: But they have yet to know this isn't a mere laughing matter...
-Рассказчик: Но им было невдомёк, что это не повод для смеха…
+Рассказчик: Но они ещё не знали, что это не повод для смеха…
 
 # Original: It gives the feeling that they might realize that in the near future.
 Рассказчик: Скорее всего, в скором времени они это поймут.
