@@ -5,25 +5,25 @@
 Рассказчик: Дитя в одиночестве наслаждалась обедом за столиком.
 
 # Original: Though she doesn't necessarily have an aversion to hanging out with others, she doesn't particularly like to, either.
-Рассказчик: Хотя она не то чтобы избегает общения с другими, но и особо не стремится к нему.
+Рассказчик: Хотя, она не то чтобы избегает общения с другими, но и не особо любит это.
 
 # Original: While people from the Liu Association normally dine in large, boisterous crowds, something about the child felt different from her peers.
 Рассказчик: В то время как люди из Ассоциации Лю обычно обедают шумными толпами, что-то в этом дитя казалось отличным от её сверстников.
 
 # Original: The child could have been a part of such crowds if she tried, but she seems more comfortable eating alone.
-Рассказчик: Дитя могла бы стать частью таких толп, если бы постаралась, но, кажется, ей комфортнее есть одной.
+Рассказчик: Дитя могло бы стать частью таких толп, если бы попробовало, но ей, кажется, комфортнее есть одной.
 
 # Original: ...Ow, hot. Yes, this is Ishmael speaking.
 Измаил: ...Ой, горячо. Да, это Измаил.
 
 # Original: Right now...? I'm in the middle of a meal, could it wait a...
-Измаил: Прямо сейчас...? Я посреди еды, нельзя ли подождать...
+Измаил: Прямо сейчас...? Я обедаю, это может немного подождать...
 
 # Original: Got it...
 Измаил: Поняла...
 
 # Original: Right, perhaps it could be because of work keeping her busy.
-Рассказчик: Верно, возможно, это из-за того, что работа держит её в напряжении.
+Рассказчик: Да, возможно, это из-за того, что работа держит её в напряжении.
 
 # Original: Poor girl, leaving without finishing your meal again?
 Рассказчик: Бедняжка, снова уходишь, не доев?
@@ -41,10 +41,10 @@
 Измаил: Да, я уже на улице. Куда идти?
 
 # Original: Haah... And one more thing: I did ask for this since I had trouble getting along with others, but I'd like it if I could have my meals in peace at the very least.
-Измаил: Хаах... И ещё кое-что: я сама просила об этом, потому что мне трудно ладить с другими, но хотелось бы хотя бы есть спокойно.
+Измаил: Хаах... И ещё кое-что: я просила об этом, потому что мне трудно ладить с другими, но мне бы хотелось, чтобы я могла хотя бы поесть спокойно.
 
 # Original: ...No, I mean! The noodles are all mushy by the time I'm finished! Are you telling me I should live exclusively off dumplings?
-Измаил: ...Нет, я имею в виду! К тому времени, как я заканчиваю, лапша уже совсем разваривается! Вы что, говорите мне питаться исключительно пельменями?
+Измаил: ...Нет, я имею в виду! К тому времени, как я заканчиваю, лапша уже совсем разваривается! Вы хотите сказать, что я должна питаться исключительно пельменями?
 
 # Original: What?! Just use U Corp's stasis preservation packaging? Do you have any idea how expensive that is?
 Измаил: Что?! Просто использовать упаковку с сохранением стазиса от Корпорации U? Вы хоть представляете, сколько это стоит?
@@ -53,7 +53,7 @@
 Измаил: Забудьте! Я вешаю трубку.
 
 # Original: Irritated, the child ended the call.
-Рассказчик: Раздражённое дитя завершило звонок.
+Рассказчик: Раздражённое, дитя завершило звонок.
 
 # Original: Haah... You've got to be kidding, I ordered a double portion because I'd be free today.
 Измаил: Хаах... Вы должно быть шутите, я заказала двойную порцию, потому что думала, что сегодня буду свободна.
@@ -62,13 +62,13 @@
 Измаил: ...И они продолжают говорить, что я единственная, кому они могут доверить эти задания, так что что ещё я могу на это сказать?
 
 # Original: From the sound of it, the child is particularly skilled among her peers in Section 4 of the Liu's southern branch. Her specialty of quickly closing the distance for a close-quarter thrashing made her excellent at dealing with groups of foes alone.
-Рассказчик: Судя по всему, дитя особенно искусна среди своих сверстников в Секции 4 южного отделения Лю. Её специализация в быстром сокращении дистанции для ближнего боя делает её превосходной в борьбе с группами противников в одиночку.
+Рассказчик: Судя по всему, дитя особенно искусно среди своих сверстников в Секции 4 южного отделения Лю. Её специализация в быстром сокращении дистанции для ближнего боя сделала её превосходной в борьбе с группами противников в одиночку.
 
 # Original: Well... It could mean her talent doesn't quite mesh well with Liu Association's main expertise of coordinated offense, in other words.
-Рассказчик: Ну... Это может означать, что её талант не совсем сочетается с основной экспертизой Ассоциации Лю в координированном нападении, другими словами.
+Рассказчик: Ну... Другими словами, это может означать, что её талант не совсем сочетается с основной специализацией Ассоциации Лю-скоординированном нападении.
 
 # Original: If she was such a sociable type, she wouldn't have had to desert her meal to catch up on a mission they were supposed to embark off on simultaneously in the first place, would she?
-Рассказчик: Если бы она была таким общительным типом, ей бы не пришлось бросать свою еду, чтобы нагнать миссию, на которую они должны были отправиться одновременно, не так ли?
+Рассказчик: Если бы она была такой общительной, ей бы не пришлось бросать свою трапезу, чтобы нагнать миссию, на которую они изначально должны были отправиться одновременно, не так ли?
 
 # Original: Ugh, krh!
 Рассказчик: Ух, кхр!
@@ -77,19 +77,19 @@
 Измаил: Следующий.
 
 # Original: The child takes down one enemy after another just like that, a hint of anger visible on her face.
-Рассказчик: Дитя расправляется с одним врагом за другим вот так, с намёком на гнев на лице.
+Рассказчик: Дитя просто так расправляется с одним врагом за другим, с намёком на гнев на лице.
 
 # Original: Tch, I can't stab through her clothes!
-Рассказчик: Тьфу, я не могу проткнуть её одежду!
+Рассказчик: Тц, я не могу проткнуть её одежду!
 
 # Original: Gaah!
 Рассказчик: Гаах!
 
 # Original: Hah, it'll take far more than that to penetrate an Association's attire.
-Измаил: Ха, потребуется гораздо больше, чтобы пробить одеяние Ассоциации.
+Измаил: Ха, потребуется нечто гораздо больше, чтобы пробить одеяние Ассоциации.
 
 # Original: Her speed was overwhelming, slightly flustering the surrounding colleagues as she razed foes with the vigor of chopping down bamboo.
-Рассказчик: Её скорость была ошеломляющей, слегка смущая окружающих коллег, пока она сметала врагов с энергией рубки бамбука.
+Рассказчик: Её скорость была ошеломляющей, она слегка смущала окружающих коллег, сметая врагов с силой, достаточной для рубки бамбука.
 
 # Original: You, you piece of...
 Рассказчик: Ты, ты кусок...
@@ -98,7 +98,7 @@
 Рассказчик: И когда оставшиеся враги споткнулись перед дитя...
 
 # Original: Wagging her hand, the child taunted:
-Рассказчик: Помахивая рукой, дитя подразнила:
+Рассказчик: Помахивая рукой, она подразнила:
 
 # Original: Come at me all at once. I'm pissed off 'cause my noodles are soggy.
 Измаил: Нападайте все сразу. Я злюсь, потому что моя лапша размокла.
