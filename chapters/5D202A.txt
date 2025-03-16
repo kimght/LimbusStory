@@ -241,7 +241,7 @@
 Измаил: Может быть, мы держим в руках большие учебники.
 
 # Original: Or... maybe we're carrying suspiciously well-maintained weapons.
-Измаил: Или... может быть, мы имеем при себе подозрительно хорошо ухоженное оружие.
+Измаил: Или... может быть, мы носим с собой подозрительно хорошо ухоженное оружие.
 
 # Original: Or maybe we're just heading somewhere with our hands full of tasty treats for the day.
 Измаил: А может, мы просто идём куда-то с полными руками вкусностей.
