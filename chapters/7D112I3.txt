@@ -1,5 +1,5 @@
 ﻿# Original: The powerful deluge of blood rips through the Sinners like blades through paper.
-Рассказчик: Мощный поток крови рассекает Грешников, словно клинки бумагу.
+Рассказчик: Мощный поток крови рассекает Грешников словно бумагу.
 
 # Original: …….
 Санчо: …….
@@ -14,7 +14,7 @@
 Дон Кихот: И всё же... этой силы более чем достаточно, чтобы уничтожить твои жалкие часы.
 
 # Original: He launches a lance of blood at me with his inhuman strength.
-Рассказчик: Она запускает в меня кровавое копьё со сверхчеловеческой силой.
+Рассказчик: Он запускает в меня кровавое копьё со сверхчеловеческой силой.
 
 # Original: I instinctively knew that the spear was to be my demise.
 Рассказчик: Я инстинктивно понял, что это копьё станет моей погибелью.
