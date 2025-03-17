@@ -1,38 +1,38 @@
 # Original: Ishmael stares wordlessly at Queequeg.
-Рассказчик: Измаил молча смотрит на Квиквег.
+Рассказчик: Измаил молча смотрит на Квикег.
 
 # Original: I... I thought you... everyone... died.
 Измаил: Я... я думала, ты... все... погибли.
 
 # Original: Me too. Also thought you dead.
-Квиквег: Я тоже. Тоже думала, что ты умерла.
+Квикег: Я тоже. Тоже думала, что ты умерла.
 
 # Original: Where I was, we bury dead people. No burning.
-Квиквег: Там, откуда я, мы хороним мертвых. Не сжигаем.
+Квикег: Там, откуда я, мы хороним мертвых. Не сжигаем.
 
 # Original: In earth. In hearts. Deep. Never to dig up again.
-Квиквег: В земле. В сердцах. Глубоко. Чтобы никогда не выкопать.
+Квикег: В земле. В сердцах. Глубоко. Чтобы никогда не выкопать.
 
 # Original: Because, we have to forget.
-Квиквег: Потому что нам нужно забыть.
+Квикег: Потому что нам нужно забыть.
 
 # Original: Did you bury me... too?
 Измаил: Ты... похоронила и меня тоже?
 
 # Original: I...
-Квиквег: Я...
+Квикег: Я...
 
 # Original: ... want to see sunset again.
-Квиквег: ... хочу снова увидеть закат.
+Квикег: ... хочу снова увидеть закат.
 
 # Original: That keeps me going. Breathing. Throwing harpoons.
-Квиквег: Это заставляет меня двигаться. Дышать. Метать гарпуны.
+Квикег: Это заставляет меня двигаться. Дышать. Метать гарпуны.
 
 # Original: ... I thought you didn't like the outside world?
 Измаил: ... Я думала, тебе не нравится внешний мир?
 
 # Original: Sunset, always warm. Wherever it sets.
-Квиквег: Закат, всегда теплый. Где бы он ни садился.
+Квикег: Закат, всегда теплый. Где бы он ни садился.
 
 # Original: …….
 Измаил: …….
@@ -44,22 +44,22 @@
 Измаил: Это крик Русалок...
 
 # Original: Our future. If we fail to escape.
-Квиквег: Наше будущее. Если не сбежим.
+Квикег: Наше будущее. Если не сбежим.
 
 # Original: Cry and cry. Trying to kill all we see.
-Квиквег: Кричать и плакать. Пытаться убить всё, что видим.
+Квикег: Кричать и плакать. Пытаться убить всё, что видим.
 
 # Original: Then melt. Very slowly. And later...
-Квиквег: Потом таять. Очень медленно. А позже...
+Квикег: Потом таять. Очень медленно. А позже...
 
 # Original: Float away. Like we were never here.
-Квиквег: Уплыть. Словно нас никогда здесь не было.
+Квикег: Уплыть. Словно нас никогда здесь не было.
 
 # Original: Don't want to be Mermaid.
-Квиквег: Не хочу быть Русалкой.
+Квикег: Не хочу быть Русалкой.
 
 # Original: The Pallid Whale. Have to kill it. Only then, we get out.
-Квиквег: Бледный Кит. Надо убить его. Только тогда выберемся.
+Квикег: Бледный Кит. Надо убить его. Только тогда выберемся.
 
 # Original: <…!>
 Данте: <…!>
@@ -89,22 +89,22 @@
 Старбак: Это просто результат твоего жребия, Пип. Мне жаль, но... тебе придётся принять это.
 
 # Original: Isn't it weird, Queequeg...?
-Измаил: Разве это не странно, Квиквег...?
+Измаил: Разве это не странно, Квикег...?
 
 # Original: Why are we... doing any of this?
 Измаил: Зачем мы... вообще всё это делаем?
 
 # Original: …….
-Квиквег: …….
+Квикег: …….
 
 # Original: Ishmael. Steel yourself.
-Квиквег: Измаил. Соберись.
+Квикег: Измаил. Соберись.
 
 # Original: We'll see Pallid Whale. Soon.
-Квиквег: Мы увидим Бледного Кита. Скоро.
+Квикег: Мы увидим Бледного Кита. Скоро.
 
 # Original: Which means all this be over. Soon.
-Квиквег: Значит, все будет кончено. Скоро.
+Квикег: А это значит, что все будет кончено. Скоро.
 
 # Original: Yeah. It'll all be over, soon...
 Измаил: Да. Все будет кончено, скоро...
@@ -188,7 +188,7 @@
 Измаил: М-мистер Старбак...
 
 # Original: Captain never gets a proper shut-eye. Even when she sleeps, she sleeps with her eyes wide open.
-Старбак: Капитан никогда не спит нормально. Даже когда она спит, она спит с широко открытыми глазами.
+Старбак: Капитан никогда не смыкает глаз. Даже когда она спит, она спит с широко открытыми глазами.
 
 # Original: She's always looking for that Pallid Whale somewhere in the Great Lake. Even as she dreams...
 Старбак: Она всегда ищет этого Бледного Кита где-то в Великом Озере. Даже во сне...
@@ -203,13 +203,13 @@
 Измаил: Мы просто хватали ртом то немногое, что она нам позволяла.
 
 # Original: Go and get some rest. Like Captain said, that Whale's gotta be close.
-Старбак: Иди отдохни. Как сказала Капитан, этот Кит должен быть близко.
+Старбак: Иди отдохни. Как и сказала Капитан, этот Кит должен быть близко.
 
 # Original: I don't always understand the Captain, and sometimes I wish she'd entertain some different ideas...
 Старбак: Я не всегда понимаю Капитана, и иногда мне хотелось бы, чтобы она рассмотрела какие-нибудь другие идеи...
 
 # Original: ... But we won't have to suffer much more of that.
-Старбак: ... Но нам не придётся долго страдать от этого.
+Старбак: ... Но нам не придётся больше страдать от этого.
 
 # Original: We'll all be free soon.
 Старбак: Скоро мы все будем свободны.

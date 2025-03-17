@@ -1,11 +1,11 @@
 # Original: Finally, once this is over... We can get out of here.
-Синклер: Наконец-то, когда всё это закончится... Мы сможем выбраться отсюда.
+Синклер: Наконец-то, как только всё это закончится... Мы сможем выбраться отсюда.
 
 # Original: <I guess Ahab's not here yet...>
 Данте: <Похоже, Ахав ещё не пришла...>
 
 # Original: Tsk... is that an Abnormality?
-Измаил: Тск... это что, Аномалия?
+Измаил: Тск... это Аномалия?
 
 # Original: Something twitched before us. An entity skewered by numerous fluorescent bars.
 Рассказчик: Что-то дёрнулось перед нами. Существо, пронзённое множеством флуоресцентных стержней.

@@ -8,22 +8,22 @@
 Рассказчик: Десятки людей выстроились рядами и колоннами на пустом участке. Жаркое солнце палит им в спины.
 
 # Original: The child quietly whispers, repeating the information listed in the briefing by the Association. Her eyes are full of fervor.
-Рассказчик: Дитя тихо шепчет, повторяя информацию, перечисленную в брифинге Ассоциации. Её глаза полны рвения.
+Рассказчик: Дитя тихо шепчет, повторяя информацию, указанную в брифинге Ассоциации. Её глаза полны рвения.
 
 # Original: After spending several years living under the punitive and ambiguous laws of the Great Lake, this behavior naturally became something of a habit to her.
-Рассказчик: После нескольких лет жизни под безжалостными и неоднозначными законами Великого Озера, это поведение естественным образом стало для неё чем-то вроде привычки.
+Рассказчик: Прожив несколько лет в условиях безжалостных и неоднозначных законов Великого Озера, это поведение естественным образом стало для неё чем-то вроде привычки.
 
 # Original: She repeated and memorized whatever information was given to her like it was her duty to do so.
 Рассказчик: Она повторяла и запоминала любую предоставленную информацию, словно это был её долг.
 
 # Original: X Corp. has requested the help of the adjacent M Corp.'s Order of the Lunar Visage, but they will not be a part of this contract; they are currently absent on an expedition.
-Корректировщик на трибуне: Корпорация X запросила помощь у Ордена Лунного Лика соседней Корпорации M, но они не будут частью этого контракта; в настоящее время они отсутствуют на экспедиции.
+Корректировщик на трибуне: Корпорация X запросила помощь у Ордена Лунного Лика соседней Корпорации M, но они не будут частью этого контракта; в настоящее время они находятся в экспедиции.
 
 # Original: Even so, the alloy excavation site we are responsible for is comparable to the size of this village in District 24. Therefore, it can be said that the difficulty of this mission isn't too—
 Корректировщик на трибуне: Тем не менее, участок добычи сплава, за который мы отвечаем, сопоставим по размеру с этой деревней в Районе 24. Поэтому можно сказать, что сложность этой миссии не слишком—
 
 # Original: No assistance from a Wing... If it's in an alloy excavation site, then it's gotta be pretty risky... and the size of the area we're responsible for is... huh?
-Измаил: Без помощи Крыла... Если это на участке добычи сплава, то должно быть довольно рискованно... а размер территории, за которую мы отвечаем... а?
+Измаил: Без помощи Крыла... Если это на участке добычи сплава, то должно быть довольно рискованно... и размер территории, за которую мы отвечаем... а?
 
 # Original: She is always like this whenever they are about to depart on a new contract.
 Рассказчик: Она всегда такая, когда они собираются отправиться на новый контракт.
@@ -35,34 +35,34 @@
 Рассказчик: Затем...
 
 # Original: You are recognized, Knight Ishmael of Section 3.
-Корректировщик на трибуне: Вас признали, Рыцарь Измаил из Секции 3.
+Корректировщик на трибуне: Даю вам слово, Рыцарь Измаил из Секции 3.
 
 # Original: ... she'd ask a question whenever she grew curious about something, just like she's doing now.
 Рассказчик: ... она задавала вопрос всякий раз, когда ей становилось любопытно, как она делает сейчас.
 
 # Original: Isn't the protection of that excavation site currently managed by District 24 Advanced Excavation Fellowship and X Corp. Alloy Guardians? I know it's near the border, but it's still within a Nest, isn't it?
-Измаил: Разве защита этого участка раскопок в настоящее время не управляется Передовым Сообществом Раскопок Района 24 и Стражами Сплава Корпорации X? Я знаю, что это рядом с границей, но все же это в пределах Гнезда, верно?
+Измаил: Разве защитой этого участка раскопок не занимается в настоящее время Сообщество Передовых Раскопок Района 24 и Стражи Сплава Корпорации X? Я знаю, что это рядом с границей, но все же это в пределах Гнезда, верно?
 
 # Original: X Corp. sent us a notice of cooperation request. They will be absent from the site for about three days, apparently.
 Корректировщик на трибуне: Корпорация X отправила нам уведомление о запросе сотрудничества. Они будут отсутствовать на объекте около трех дней, по-видимому.
 
 # Original: That is why the Zwei were contracted to protect that designated area, normally under their jurisdiction, within District 24. Does that answer your question, or do you have any further questions?
-Корректировщик на трибуне: Вот почему Цвай были наняты для защиты этой обозначенной области, обычно находящейся под их юрисдикцией, в пределах Района 24. Это отвечает на ваш вопрос, или у вас есть дополнительные вопросы?
+Корректировщик на трибуне: Поэтому, Цвай были наняты для защиты обозначенной области в пределах Района 24, обычно находящейся под их юрисдикцией. Это отвечает на ваш вопрос, или у вас есть дополнительные вопросы?
 
 # Original: No, that does answer my question.
-Измаил: Нет, это отвечает на мой вопрос.
+Измаил: Нет, мне все ясно.
 
 # Original: The child shook her head before standing with her hands behind her back. She tried to focus on the briefing again.
 Рассказчик: Дитя покачала головой, прежде чем встать, держа руки за спиной. Она попыталась снова сосредоточиться на брифинге.
 
 # Original: ... If it weren't for the annoying chatter coming from behind her row, that is.
-Рассказчик: ... Если бы не раздражающая болтовня, доносящаяся из-за её ряда.
+Рассказчик: ... Если бы не раздражающая болтовня, доносящаяся из ряда позади неё.
 
 # Original: More territory protection contracts? It's starting to get old.
 Недовольный коллега: Еще контракты на защиту территории? Это начинает надоедать.
 
 # Original: Should've applied for the Order of the Land's End. At least the expeditions into the Ruins would've kept things interesting.
-Плаксивый коллега: Надо было подать заявку в Орден Края Земли. По крайней мере, экспедиции в Руины держали бы всё в интересе.
+Плаксивый коллега: Надо было подать заявку в Орден Края Земли. По крайней мере, экспедиции в Руины не давали бы заскучать.
 
 # Original: M Corp.'s right next door anyway. This whole endeavor is pointless...
 Недовольный коллега: Корпорация M все равно рядом. Вся эта затея бессмысленна...
@@ -131,13 +131,13 @@
 Рассказчик: Было ясно, что здесь произошло.
 
 # Original: Nngh... I knew that things were too good to be true when I excavated a superalloy microwave from this tunnel...
-Испуганный гражданский: Ннгх... Я знал, что все было слишком хорошо, чтобы быть правдой, когда я выкопал суперсплавную микроволновку из этого туннеля...
+Испуганный гражданский: Ннгх... Я знал, что все было слишком хорошо, чтобы быть правдой, когда я выкопал микроволновку из суперсплава в этом туннеле...
 
 # Original: The various types of the excavation site's monsters and their environs had been explained in detail during the briefing, but these two Fixers, who neglected to pay attention, did not know what to do in case of an emergency and met their demise.
-Рассказчик: Различные типы монстров на участке раскопок и их среда обитания были подробно объяснены во время брифинга, но эти два Корректировщика, которые не обратили внимания, не знали, что делать в случае чрезвычайной ситуации и встретили свою смерть.
+Рассказчик: Различные типы монстров на участке раскопок и их среда обитания были подробно объяснены во время брифинга, но эти два Корректировщика, которые не обращали внимания, не знали, что делать в случае чрезвычайной ситуации и встретили свою смерть.
 
 # Original: This was the consequence of even the briefest moment of laxity in the City.
-Рассказчик: Это было последствием даже самого короткого момента беспечности в Городе.
+Рассказчик: Это было следствием даже самого короткого момента беспечности в Городе.
 
 # Original: One of the monsters picked up a spiked bat it found in the excavation site and charged the miner...
 Рассказчик: Один из монстров подобрал шипастую биту, найденную на участке раскопок, и бросился на шахтера...
@@ -155,10 +155,10 @@
 Рассказчик: Но большой меч, появившийся вне поля его зрения, остановил шипастую биту прямо в её ударной дуге.
 
 # Original: Instead of the crushing sensation of the spiked bat to his face, however, the civilian heard the sound of metal striking against metal. He carefully opened his eyes.
-Рассказчик: Вместо сокрушительного ощущения шипастой биты по лицу, однако, гражданский услышал звук металла, ударяющегося о металл. Он осторожно открыл глаза.
+Рассказчик: Однако, вместо сокрушительного ощущения шипастой биты по лицу, гражданский услышал звук металла, ударяющегося о металл. Он осторожно открыл глаза.
 
 # Original: Y...you're... a Fixer...? But I was told that this excavation zone was assigned only two of you guys...?
-Испуганный гражданский: Т...ты... Корректировщик...? Но мне сказали, что на эту зону раскопок были назначены только двое из вас...?
+Испуганный гражданский: Т...ты... Корректировщик...? Но мне сказали, что на эту зону раскопок были назначены только двое...?
 
 # Original: I was doing some extra patrols in this area. Had a bad feeling that something might've gone wrong.
 Измаил: Я проводила дополнительное патрулирование в этом районе. У меня было плохое предчувствие, что что-то могло пойти не так.
@@ -170,7 +170,7 @@
 Испуганный гражданский: Гах, что может сделать один Корректировщик, чего не смогли сделать двое...?!
 
 # Original: Yeah, I can see that. Wish I could tell them 'I told you so' right about now.
-Измаил: Да, я вижу. Жаль, что я не могу сказать им "я же говорила" прямо сейчас.
+Измаил: Да, я вижу. Жаль, что я не могу сейчас сказать им "я же говорила".
 
 # Original: Despite the civilian's worry, the child had no problem repelling the monsters' attacks from all directions.
 Рассказчик: Несмотря на беспокойство гражданского, дитя без проблем отражала атаки монстров со всех сторон.
@@ -182,13 +182,13 @@
 Монстр из туннелей: Киих...!?
 
 # Original: ... But they all soon found themselves rolling on the ground, gripping their arms, and howling in pain.
-Рассказчик: ... Но вскоре все они оказались катающимися по земле, держась за руки и воя от боли.
+Рассказчик: ... Но вскоре все они катались по земле, держась за свои руки и воя от боли.
 
 # Original: The recoil from striking her greatsword was actually hurting them.
 Рассказчик: Отдача от удара по её большому мечу на самом деле причиняла им боль.
 
 # Original: Now sit tight behind me until the reinforcements get here.
-Измаил: Теперь сиди тихо за мной, пока не прибудет подкрепление.
+Измаил: Теперь сиди тихо позади меня, пока не прибудет подкрепление.
 
 # Original: H-how long can you hold out for?
 Испуганный гражданский: С-сколько ты сможешь продержаться?
@@ -200,16 +200,16 @@
 Измаил: Три дня должны быть пустяком.
 
 # Original: The serenity of her dry statement heavily contrasted with the peril that surrounded her.
-Рассказчик: Безмятежность её сухого заявления сильно контрастировала с опасностью, которая её окружала.
+Рассказчик: Безмятежность её сухого утверждения сильно контрастировала с опасностью, которая её окружала.
 
 # Original: The child stood her ground the entire time she waited for the reinforcements to come.
-Рассказчик: Дитя стояла на своем все время, пока ждала прибытия подкрепления.
+Рассказчик: Дитя удерживало свою позицию все то время, пока ожидало прибытия подкрепления.
 
 # Original: When the Zwei Fixers arrived few hours later, they found...
-Рассказчик: Когда Корректировщики Цвай прибыли через несколько часов, они обнаружили...
+Рассказчик: Когда через несколько часов прибыли Корректировщики Цвай, они обнаружили...
 
 # Original: ... the civilian, completely untouched and surrounded by bodies of unconscious monsters holding their broken weapons.
-Рассказчик: ... гражданского, совершенно нетронутого и окруженного телами бессознательных монстров, держащих свое сломанное оружие.
+Рассказчик: ... совершенно нетронутого гражданского, который был окружен телами бессознательных монстров, держащих свое сломанное оружие.
 
 # Original: ... Hey, you're here.
 Измаил: ... Эй, вы здесь.

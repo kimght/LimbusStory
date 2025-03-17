@@ -8,25 +8,25 @@
 Измаил: Ничего, быстро промою в воде, и всё будет в порядке.
 
 # Original: Your headband. Familiar.
-Квиквег: Твой ободок. Знакомый.
+Квикег: Твой ободок. Знакомый.
 
 # Original: Familiar knot. Desperate's Knot.
-Квиквег: Знакомый узел. Узел Отчаяния.
+Квикег: Знакомый узел. Узел Отчаявшегося.
 
 # Original: Queequeg... I survived by hanging onto the ropes you tied to your coffin.
-Измаил: Квиквег... Я выжила, держась за верёвки, которыми ты привязала свой гроб.
+Измаил: Квикег... Я выжила, держась за верёвки, которыми ты привязала свой гроб.
 
 # Original: The ropes that you could have held... Instead, I held onto it with my dear life...
 Измаил: Верёвки, за которые ты могла бы держаться... Вместо этого я держалась за них изо всех сил...
 
 # Original: That rope...
-Квиквег: Та верёвка...
+Квикег: Та верёвка...
 
 # Original: ... also for you.
-Квиквег: ... тоже для тебя.
+Квикег: ... и для тебя тоже.
 
 # Original: You want me to... bucket out oil from in there?
-Измаил: Ты хочешь, чтобы я... вычерпывала оттуда масло?
+Измаил: Ты хочешь, чтобы я... вычерпывала оттуда жир?
 
 # Original: Yep. It's not as hard as it looks, though.
 Старбак: Ага. Но это не так сложно, как кажется.
@@ -41,19 +41,19 @@
 Измаил: Но я не такая уж и маленькая...
 
 # Original: It's a job for greenhorns anyway! Less talk, more oil-bucketing. Get on with it, will ya?
-Стаб: Это работа для новичков в любом случае! Меньше болтовни, больше черпания масла. Давай, приступай уже!
+Стаб: В любом случае, это работа для новичков! Меньше болтовни, больше черпания жира. Приступай уже, ладно?
 
 # Original: A Whaler's toil does not end with killing the Whale.
-Измаил: Труд китобоя не заканчивается убийством Кита.
+Измаил: Труд Китобоя не заканчивается убийством Кита.
 
 # Original: Whalers also had to bucket and carry the inordinate amount of oil from the dead Whale.
-Измаил: Китобоям также приходилось вычерпывать и переносить огромное количество масла из мёртвого Кита.
+Измаил: Китобоям также приходилось вычерпывать и переносить огромное количество жира из мёртвого Кита.
 
 # Original: I mean... How the hell do I know what's in there...?
 Измаил: То есть... Откуда мне знать, что там внутри...?
 
 # Original: Well, whaddaya think? Whale oil! It feeds us, it keeps us warm...
-Стабб: Ну, а ты как думаешь? Китовое масло! Оно нас кормит, оно нас греет...
+Стабб: Ну, а ты как думаешь? Китовый жир! Он нас кормит, он нас греет...
 
 # Original: Aboard the Pequod was a man named Stubb, the second mate. He was a man of irritable disposition.
 Измаил: На борту "Пекода" был человек по имени Стабб, младший помощник. Он был человеком раздражительного нрава.
@@ -68,37 +68,37 @@
 Измаил: ... Эти слова чуть не сорвались с моих губ, когда...
 
 # Original: …….
-Квиквег: …….
+Квикег: …….
 
 # Original: What... are you doing?
 Измаил: Что... ты делаешь?
 
 # Original: Your rope. Tie it to my waist.
-Квиквег: Твоя верёвка. Привяжи к моей талии.
+Квикег: Твоя верёвка. Привяжи к моей талии.
 
 # Original: B-but why?
 Измаил: Н-но зачем?
 
 # Original: Tethered like so. Now if you fall, I fall.
-Квиквег: Привязаны так. Теперь, если ты упадёшь, я упаду.
+Квикег: Привязаны так. Теперь, если ты упадёшь, я упаду.
 
 # Original: You. Me. Together.
-Квиквег: Ты. Я. Вместе.
+Квикег: Ты. Я. Вместе.
 
 # Original: Her sentences were stuttering and incomplete. But there was something there that oddly soothed me.
-Измаил: Её предложения были прерывистыми и неполными. Но в них было что-то, что странным образом успокаивало меня.
+Измаил: Её фразы были прерывистыми и неполными. Но в них было что-то, что странным образом успокаивало меня.
 
 # Original: Together...
 Измаил: Вместе...
 
 # Original: Someone to catch me if I fell.
-Измаил: Кто-то, кто поймает меня, если я упаду.
+Измаил: Кто-то поймает меня, если я упаду.
 
 # Original: Someone to watch over me if I fell.
-Измаил: Кто-то, кто присмотрит за мной, если я упаду.
+Измаил: Кто-то присмотрит за мной, если я упаду.
 
 # Original: So I tied one end of the rope to Queequeg's waist, and the other on mine.
-Измаил: Так я привязала один конец верёвки к талии Квиквег, а другой – к своей.
+Измаил: Так я привязала один конец верёвки к талии Квикег, а другой – к своей.
 
 # Original: Ah... Huh...?
 Измаил: Ах... Хм...?
@@ -107,7 +107,7 @@
 Измаил: Забавно, что я это упомянула.
 
 # Original: The rope was too short, too flimsy. It immediately snapped...
-Измаил: Верёвка оказалась слишком короткой, слишком хлипкой. Она немедленно порвалась...
+Измаил: Верёвка оказалась слишком короткой и слишком хлипкой. Она моментально порвалась...
 
 # Original: And I was sent hurtling down into the lard-filled belly of the Whale.
 Измаил: И я полетела вниз в наполненное жиром брюхо Кита.
@@ -116,28 +116,28 @@
 Измаил: Кха! Гхаа...
 
 # Original: What was harder to bear than the entrails, the viscera, the oil, and various other things I didn't want to think about... was the pitch-black darkness.
-Измаил: Что было труднее вынести, чем внутренности, потроха, масло и разные другие вещи, о которых я не хотела думать... так это кромешная тьма.
+Измаил: Но вот что было труднее вынести, чем внутренности, потроха, жир и разные другие вещи, о которых я не хотела даже думать... так это кромешную тьму.
 
 # Original: Mmph! Mmrph!
 Измаил: Ммф! Ммрф!
 
 # Original: Whale oil makes a sound as it quivers and reverberates.
-Измаил: Китовое масло издаёт звук, когда дрожит и вибрирует.
+Измаил: Китовое сало издаёт звук, когда дрожит и вибрирует.
 
 # Original: The reverberating oil tries to become one with everything it touches.
-Измаил: Вибрирующее масло пытается слиться воедино со всем, к чему прикасается.
+Измаил: Вибрирующий жир пытается слиться воедино со всем, с чем соприкасается.
 
 # Original: Some City folk talk about this phenomenon using big words like ultravibro-fusion, oscillation frequency... How such elements are used to produce the resonance tuning forks, their wavelengths and fuel...
 Измаил: Некоторые жители Города говорят об этом явлении, используя умные слова вроде ультравибро-слияния, частоты осцилляции... О том, как эти элементы используются для производства резонансных камертонов, их длинах волн и топливе...
 
 # Original: But the point is, a Whale's oil covers and devours anyone it comes in contact with.
-Измаил: Но суть в том, что Китовое масло покрывает и поглощает всех, с кем соприкасается.
+Измаил: Но суть в том, что Китовый жир покрывает и поглощает всех, с кем соприкасается.
 
 # Original: And when you're devoured by a living Whale's oil, you become a mermaid.
-Измаил: И когда тебя поглощает масло живого Кита, ты становишься русалкой.
+Измаил: И когда тебя поглощает жир живого Кита, ты становишься русалкой.
 
 # Original: And when you're devoured by a dead Whale's oil, your sense of self slowly scatters, until there is nothing of you left.
-Измаил: А когда тебя поглощает масло мёртвого Кита, твоё чувство себя медленно рассеивается, пока от тебя ничего не остаётся.
+Измаил: А когда тебя поглощает жир мёртвого Кита, твоё самовосприятие медленно рассеивается, пока от тебя ничего не остаётся.
 
 # Original: ... Ha, ha... Haah...
 Измаил: ... Ха, ха... Хаах...
@@ -146,25 +146,25 @@
 Измаил: Вот тогда я...
 
 # Original: ... realized how tiny and fragile I was. How insignificant of a thing I was.
-Измаил: ... осознала, какой крошечной и хрупкой я была. Каким незначительным существом я была.
+Измаил: ... осознала, какой крошечной и хрупкой я была. Насколько же незначительной я была.
 
 # Original: Maybe the Whales were just lonely.
 Измаил: Может быть, Китам просто было одиноко.
 
 # Original: And that's why they carried within them the oil that had the power to turn others just like them.
-Измаил: И поэтому они носили в себе масло, которое обладало силой превращать других в таких же, как они.
+Измаил: И поэтому они несли в себе жир, который обладал силой превращать других в таких же, как они.
 
 # Original: Maybe, people are the same...
 Измаил: Может быть, люди такие же...
 
 # Original: Out of loneliness, we want to make something, someone ours. To paint them just like us, to fill them with things that make us.
-Измаил: Из-за одиночества мы хотим сделать что-то, кого-то своим. Раскрасить их так же, как мы, наполнить их тем, из чего состоим мы.
+Измаил: Из-за одиночества мы хотим сделать что-то, кого-то своим. Раскрасить их так же, как себя, наполнить их тем, что делает нас собой.
 
 # Original: I don't even know what makes me. How could I possibly paint others like me... if even I don't know what I am?
-Измаил: Я даже не знаю, из чего состою я. Как я могу раскрасить других, подобно себе... если даже я не знаю, кто я?
+Измаил: Я даже не знаю, что делает меня собой. Как я могу раскрасить других, подобно себе... если даже я не знаю, что я есть?
 
 # Original: Maybe I'm shallower than a Whale.
-Измаил: Может быть, я даже мельче, чем Кит.
+Измаил: Может быть, я даже более пуста, чем Кит.
 
 # Original: I, who boarded the Pequod just because I wanted to live a life unlike those of others. Just because living a humdrum life was too boring for me...
 Измаил: Я, которая поднялась на борт "Пекода" только потому, что хотела жить жизнью, непохожей на жизнь других. Просто потому, что жить обыденной жизнью было слишком скучно для меня...
@@ -182,7 +182,7 @@
 Измаил: Я увидела свет.
 
 # Original: A ray of light scattered through an opening. I saw a rope drop from there. A rope lowered from the heavens into this dark, lonely abyss.
-Измаил: Луч света, рассеянный через отверстие. Я увидела верёвку, спускающуюся оттуда. Верёвку, опущенную с небес в эту тёмную, одинокую бездну.
+Измаил: Рассеяный луч света, который пробивался через отверстие. Я увидела верёвку, спускающуюся оттуда. Верёвку, опущенную с небес в эту тёмную, одинокую бездну.
 
 # Original: This rope. I wanted to hold onto this rope and live.
 Измаил: Эта верёвка. Я хотела ухватиться за эту верёвку и жить.
@@ -191,16 +191,16 @@
 Измаил: Потому что она была там, прямо передо мной.
 
 # Original: Ishmael!
-Квиквег: Измаил!
+Квикег: Измаил!
 
 # Original: Rope, hold tight!
-Квиквег: Верёвка, держись крепко!
+Квикег: Верёвка, держись крепко!
 
 # Original: Ah...
 Измаил: Ах...
 
 # Original: Man... Dying in that oil... Now that would've left nothin' for nobody to remember.
-Старбак: Чёрт... Умереть в этом масле... Это бы не оставило ничего, что бы кто-нибудь смог вспомнить.
+Старбак: Чёрт... Умереть в этом жире... Не осталось бы ничего, что бы кто-нибудь смог вспомнить.
 
 # Original: Yeah. Guess I almost died one of the most meaningless deaths in the City...
 Измаил: Да. Похоже, я чуть не умерла одной из самых бессмысленных смертей в Городе...
@@ -209,43 +209,43 @@
 Измаил: Возможно, в тот день я родилась заново.
 
 # Original: The rope I held onto that day... was a rope that could never be severed.
-Измаил: Верёвка, за которую я держалась в тот день... была верёвкой, которая никогда не могла быть разорвана.
+Измаил: Верёвка, за которую я держалась в тот день... была верёвкой, которую невозможно разорвать.
 
 # Original: That rope. It snapped.
-Квиквег: Та верёвка. Она порвалась.
+Квикег: Та верёвка. Она порвалась.
 
 # Original: No, no. It can... We can make it whole again. We'll tie another knot. As long as we can make it to the heart...
-Измаил: Нет, нет. Мы можем... Мы можем сделать её целой снова. Мы завяжем ещё один узел. Пока мы можем добраться до сердца...
+Измаил: Нет, нет. Мы можем... Мы можем сделать её целой снова. Мы завяжем ещё один узел. До тех пор, пока мы можем добраться до сердца...
 
 # Original: ... you'll be free.
 Измаил: ... ты будешь свободна.
 
 # Original: Once we, trapped here...
-Квиквег: Когда мы, заперты здесь...
+Квикег: Когда мы оказались заперты здесь...
 
 # Original: We had to think one thing. One thing only. To not become Mermaids.
-Квиквег: Мы должны были думать об одном. Только об одном. Не стать Русалками.
+Квикег: Мы должны были думать об одном. Только об одном. Не стать Русалками.
 
 # Original: Doubting. Hesitating. And pale begin to grow on skin.
-Квиквег: Сомнение. Колебания. И бледность начинает расти на коже.
+Квикег: Сомнение. Колебания. И бледность начинает расти на коже.
 
 # Original: You know. Like Whale oil.
-Квиквег: Ты знаешь. Как Китовое масло.
+Квикег: Ты знаешь. Как Китовый жир.
 
 # Original: I thought one thing. To meet you again, to go on a new adventure with you, I have to escape. Have to kill the Whale.
-Квиквег: Я думала об одном. Чтобы встретиться с тобой снова, отправиться в новое приключение с тобой, я должна сбежать. Должна убить Кита.
+Квикег: Я думала об одном. Чтобы встретиться с тобой снова, отправиться в новое приключение с тобой, я должна сбежать. Должна убить Кита.
 
 # Original: But to do that, I had to cut... the rope.
-Квиквег: Но для этого мне пришлось разрезать... верёвку.
+Квикег: Но для этого мне пришлось разрезать... верёвку.
 
 # Original: To not become a Mermaid, I think that one thought. I think that one thought again and again. And suddenly...
-Квиквег: Чтобы не стать Русалкой, я думаю лишь об этом одном. Я думаю об этом снова и снова. И вдруг...
+Квикег: Чтобы не стать Русалкой, я думаю лишь об этом одном. Я думаю об этом снова и снова. И вдруг...
 
 # Original: I, buried you.
-Квиквег: Я похоронила тебя.
+Квикег: Я похоронила тебя.
 
 # Original: The Whale-heart. To kill it...
-Квиквег: Сердце Кита. Чтобы убить его...
+Квикег: Сердце Кита. Чтобы убить его...
 
 # Original: I put my heart to sleep.
-Квиквег: Я усыпила своё сердце.
+Квикег: Я усыпила своё сердце.

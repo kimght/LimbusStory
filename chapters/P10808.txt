@@ -11,22 +11,22 @@
 Измаил: Капитан желает услышать ваши голоса! Отвечайте, псы! ВСЕ НА ПАЛУБУ!
 
 # Original: AYE!!!
-Гарпунёр: АЙЕ!!!
+Гарпунёр: ЕСТЬ!!!
 
 # Original: First of the crew to roar was the one covered head to toe in tattoos.
 Рассказчик: Первым из команды прорычал тот, кто был с головы до ног покрыт татуировками.
 
 # Original: What about the rest of you?! Cat got your tongues? ALL HANDS!!!
-Измаил: А что насчёт остальных?! Кошка язык проглотила? ВСЕ НА ПАЛУБУ!!!
+Измаил: А что насчёт остальных?! Языки проглотили? ВСЕ НА ПАЛУБУ!!!
 
 # Original: AYE!!!
-Моряки: АЙЕ!!!
+Моряки: ЕСТЬ!!!
 
 # Original: The crew, their hearts united as one, screams their reply from the top of their lungs to the child's thunders like the roaring waves.
-Рассказчик: Команда, их сердца бьются как одно, кричит свой ответ во всю мощь лёгких на громовые возгласы дитя, словно рёв волн.
+Рассказчик: Команда кричит свой ответ на громовые возгласы дитя во всю мощь лёгких, словно рёв волн, их сердца бьются как одно.
 
 # Original: All of you here must already know where this ship has set course to.
-Измаил: Все вы здесь уже должны знать, куда этот корабль держит курс.
+Измаил: Все вы здесь уже должны знать, куда держит курс этот корабль.
 
 # Original: Indeed! We have set course to brave the Waves head on!
 Измаил: Именно! Мы взяли курс на то, чтобы бросить вызов самим Волнам!
@@ -53,10 +53,10 @@
 Моряки: ВСЕИССУШАЮЩЕГО АЛОГО КИТА!!!
 
 # Original: It's a rather long name, but they have no trouble chanting it in unison.
-Рассказчик: Название довольно длинное, но они без труда скандируют его в унисон.
+Рассказчик: Это довольно длинное имя, но они без труда скандируют его в унисон.
 
 # Original: But that wasn't the answer this child was looking for. The child slowly but emphatically shakes her head before shouting.
-Рассказчик: Но это был не тот ответ, которого искало дитя. Дитя медленно, но выразительно качает головой, прежде чем прокричать.
+Рассказчик: Но это был не тот ответ, которого искало дитя. Она медленно, но выразительно качает головой, прежде чем прокричать.
 
 # Original: WRONG!
 Измаил: НЕВЕРНО!
@@ -65,10 +65,10 @@
 Измаил: Этот Кит - воплощение наших целей, нашей стойкости! Он - наше предназначение!
 
 # Original: AYE!!!
-Моряки: АЙЕ!!!
+Моряки: ДА!!!
 
 # Original: Its terrible limbs will constrict around us, strangle us!
-Измаил: Его ужасные конечности обовьются вокруг нас, задушат нас!
+Измаил: Его ужасные конечности обовьются вокруг нас и задушат!
 
 # Original: Its nightmarish suction cups will attempt to latch onto our ship! Onto the flesh of our dearest crew!
 Измаил: Его кошмарные присоски попытаются прицепиться к нашему кораблю! К плоти наших дорогих товарищей!
@@ -77,7 +77,7 @@
 Моряки: …….
 
 # Original: There is no reply. But this silence is not one of fear.
-Рассказчик: Нет ответа. Но эта тишина не от страха.
+Рассказчик: Ответа нет. Но эта тишина не от страха.
 
 # Original: Instead, they...
 Рассказчик: Вместо этого они...
@@ -98,10 +98,10 @@
 Измаил: Не беспокойтесь ни о чём, кроме следования компасу вашего Капитана! Компасу Капитана Измаил!
 
 # Original: At the end of that path lies all of our victories! The purpose of this voyage!
-Измаил: В конце этого пути лежат все наши победы! Цель этого путешествия!
+Измаил: В конце этого пути лежат все наши победы! Цель этого плавания!
 
 # Original: AYE, CAPTAIN!!!
-Моряки: АЙЕ, КАПИТАН!!!
+Моряки: ДА, КАПИТАН!!!
 
 # Original: Captain, I see a storm ahead! Thunder and lightning strike at the wild sea!
 Стаб: Капитан, я вижу шторм впереди! Гром и молнии бьют по бушующему морю!
@@ -143,7 +143,7 @@
 Измаил: Жди удобного момента на корме корабля, затем бей наверняка! Пронзи зверя со всей силы!
 
 # Original: AYE!!!
-Гарпунёр: АЙЕ!!!
+Гарпунёр: ЕСТЬ!!!
 
 # Original: As the crew exchanges rousing speeches with one another, something crimson begins emerging from the depths of the Lake. It begins to approach the water's surface.
 Рассказчик: Пока команда обменивается воодушевляющими речами, что-то алое начинает подниматься из глубин Озера. Оно приближается к поверхности воды.
@@ -185,7 +185,7 @@
 Измаил: И всё свершится! Моё предназначение ждёт! Ваше предназначение ждёт!
 
 # Original: AYE!!!
-Моряки: АЙЕ!!!
+Моряки: ДА!!!
 
 # Original: There is burning fervor in the eyes of the crew. But their gaze is fixed onward, clear and focused.
 Рассказчик: В глазах команды горит пылкий жар. Но их взгляды устремлены вперёд, ясные и сосредоточенные.

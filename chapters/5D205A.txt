@@ -2,10 +2,10 @@
 Пип: Его укусили, когда он пытался спасти Пипа. Кит укусил его, когда он пытался спасти Пипа, он...
 
 # Original: Shit, why'd that oil barrel have to fall on our oarsman...?
-Старбак: Чёрт, и почему этот бочонок с маслом должен был упасть на нашего гребца...?
+Старбак: Чёрт, и почему этот бочонок с жиром должен был упасть на нашего гребца...?
 
 # Original: None of it made sense from the start, making that kid row as a replacement...!
-Старбак: С самого начала не было никакого смысла заставлять этого ребёнка грести вместо него...!
+Старбак: Изначально не было никакого смысла заставлять этого ребёнка грести вместо него...!
 
 # Original: Captain, please tell Pip. Is Stubb going to die?
 Пип: Капитан, пожалуйста, скажите Пипу. Стабб умрёт?
@@ -14,19 +14,19 @@
 Ахав: …….
 
 # Original: What did I say?
-Ахав: Что я сказала?
+Ахав: Что я вам говорила?
 
 # Original: As long as you are my crew! None of you! Shall die without my explicit permission.
 Ахав: Пока вы мой экипаж! Никто из вас! Не умрёт без моего чёткого разрешения.
 
 # Original: And I don't remember giving any of you permission to die just yet.
-Ахав: И я не помню, чтобы давала кому-либо из вас разрешение умереть прямо сейчас.
+Ахав: И я пока что не помню, чтобы давала кому-либо из вас разрешение умереть.
 
 # Original: B-but... I... What will happen to...
 Стабб: Н-но... Я... Что будет с...
 
 # Original: The Pequod is on the brink of reaching the Pallid Whale of hatred! All we need is a good compass that'll lead us to it.
-Ахав: Пекод на грани достижения Бледного Кита ненависти! Всё, что нам нужно, это хороший компас, который приведёт нас к нему.
+Ахав: Пекод на грани того, чтобы достигнуть Бледного Кита ненависти! Всё, что нам нужно, это хороший компас, который приведёт нас к нему.
 
 # Original: This Mermaid before us will serve that role better than anything.
 Ахав: Эта Русалка перед нами послужит этой цели лучше всего.
@@ -41,7 +41,7 @@
 Ахав: Всё, что поглотил этот Кит, в конечном итоге превратится в Бледную Русалку. Ты должен это знать.
 
 # Original: Incarcerate this Mermaid in the large cistern down by the holds. Its instinct will drive it toward the Whale of hatred.
-Ахав: Заключите эту Русалку в большую цистерну внизу в трюме. Её инстинкт поведёт её к Киту ненависти.
+Ахав: Заключите эту Русалку в большую цистерну в трюме. Её инстинкт поведёт её к Киту ненависти.
 
 # Original: …….
 Измаил: …….
@@ -74,7 +74,7 @@
 Измаил: Что за чертовщину она...
 
 # Original: All of you! Listen well! The voice of the great sailor Stubb echoes from across that Lake! The great sailor Stubb who so willingly threw his life in danger for the hunt of the Whale!
-Ахав: Все вы! Слушайте внимательно! Голос великого моряка Стабба эхом разносится по тому Озеру! Великого моряка Стабба, который так охотно подверг свою жизнь опасности ради охоты на Кита!
+Ахав: Все вы! Слушайте внимательно! Голос великого моряка Стабба эхом разносится по этому Озеру! Великого моряка Стабба, который так охотно подверг свою жизнь опасности ради охоты на Кита!
 
 # Original: ... I... the great...
 Стабб: ... Я... великий...
@@ -92,22 +92,22 @@
 Измаил: Что за безумие...
 
 # Original: ... We. Sail forth.
-Квиквег: ... Мы. Плывём вперёд.
+Квикег: ... Мы. Плывём вперёд.
 
 # Original: ... Queequeg?
-Измаил: ... Квиквег?
+Измаил: ... Квикег?
 
 # Original: This voyage will soon meet its victorious end. Then I shall sail to the nearest port!
 Ахав: Это путешествие скоро подойдёт к своему победному концу. Тогда я поплыву к ближайшему порту!
 
 # Original: And there he shall await us, the great Stubb! With a profound smile he shall greet us.
-Ахав: И там он будет ждать нас, великий Стабб! С глубокой улыбкой он встретит нас.
+Ахав: И там он будет ждать нас, великий Стабб! С широкой улыбкой он встретит нас.
 
 # Original: He will be rightly rewarded. And of course, we will all share tales of this long voyage over many sleepless nights!
-Ахав: Он будет достойно вознаграждён. И, конечно же, мы все будем делиться историями об этом долгом путешествии на протяжении многих бессонных ночей!
+Ахав: Он будет достойно вознаграждён. И, конечно же, мы все будем делиться историями об этом долгом плавании на протяжении многих бессонных ночей!
 
 # Original: With... a profound... smile... I...
-Стабб: С... глубокой... улыбкой... Я...
+Стабб: С... широкой... улыбкой... Я...
 
 # Original: And there you shall all be as well! We will buy rounds upon rounds of drinks for everyone in the tavern in Stubb's name!
 Ахав: И вы все тоже там будете! Мы купим круг за кругом выпивки для всех в таверне во имя Стабба!
@@ -119,7 +119,7 @@
 Старбак: ... Как только это плаванье закончится.
 
 # Original: Once this voyage... Over.
-Квиквег: Как только это плаванье... Закончится.
+Квикег: Как только это плаванье... Закончится.
 
 # Original: Once... this voyage... is over...
 Стабб: Как только... это плаванье... закончится...
@@ -137,16 +137,16 @@
 Ахав: Все на борт, люди! Все на борт для охоты на зло...!
 
 # Original: All aboard on this voyage to hunt the fount of all evils of the world, of the City, the hateful evil that pushes you all to the brink of death!
-Ахав: Все на борт в это плаванье для охоты на источник всех зол мира, Города, ненавистное зло, которое толкает вас всех на грань смерти!
+Ахав: Все на борт в это плаванье для охоты на источник всех зол мира и Города, ненавистное зло, которое толкает вас всех на грань смерти!
 
 # Original: All of your struggles, all of your injustices, all of your pains and losses... that very evil sprang forth from that very Whale...
-Ахав: Все ваши страдания, вся ваша несправедливость, вся ваша боль и потери... это самое зло возникло из того самого Кита...
+Ахав: Все ваши страдания, вся несправедливость, вся ваша боль и потери... всё это зло проистекает из этого Кита...
 
 # Original: So we'll kill it! We'll kill it and watch as the new dawn breaks upon a world that has been mended!
 Ахав: Так что мы убьём его! Мы убьём его и будем наблюдать, как новый рассвет наступит в мире, который был исправлен!
 
 # Original: ... Aye!
-Квиквег: ... Есть!
+Квикег: ... Есть!
 
 # Original: SHOUT! BELLOW!
 Ахав: КРИЧИТЕ! РЕВИТЕ!
@@ -170,4 +170,4 @@
 Данте: <Значит, всё это время мы не только...>
 
 # Original: <... been trapped inside the Whale, but also in her palms, all along...>
-Данте: <... были в ловушке внутри Кита, но и в её ладонях, всё это время...>
+Данте: <... были в ловушке внутри Кита, но и в её руках, всё это время...>

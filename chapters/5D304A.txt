@@ -8,7 +8,7 @@
 Ахав: Гарпунёры, затяните верёвки на ваших гарпунах! Рулевой, бери курс прямо на Кита!
 
 # Original: Full sail! Full sail, my first mate! Row! To the Pallid Whale from which the all evils of the world spout, we sail!
-Ахав: На всех парусах! На всех парусах, мой старший помощник! Гребите! К Бледному Киту, из которого изливаются все беды мира, мы плывем!
+Ахав: На всех парусах! На всех парусах, мой старший помощник! Гребите! К Бледному Киту, из которого проистекают все беды мира, мы плывем!
 
 # Original: Navigators, chart course…! We set sail! We set… sail…
 Ахав: Штурманы, проложите курс...! Мы отплываем! Мы отплы... ваем...
@@ -38,28 +38,28 @@
 Рассказчик: Словно команда "Пекода" поднимает тост за победу.
 
 # Original: Drink to the Pallid Whale's death.
-Рассказчик: Пьют за смерть Бледного Кита.
+Рассказчик: Пьёт за смерть Бледного Кита.
 
 # Original: Drink to the downfall of Captain Ahab.
-Рассказчик: Пьют за падение Капитана Ахав.
+Рассказчик: Пьёт за падение Капитана Ахав.
 
 # Original: Thus the voyage came to an end.
 Рассказчик: Так закончилось это плаванье.
 
 # Original: Oi... The Whale's not letting us out, it's caving in on itself...!
-Хитклиф: Эй... Кит не выпускает нас, он обрушивается сам на себя...!
+Хитклиф: Эй... Кит не выпускает нас, он обрушивается внутрь себя...!
 
 # Original: So what she said about destroying the heart and escaping...
-Синклер: Значит, то, что она сказала о разрушении сердца и побеге...
+Синклер: Значит, то, что она сказала о уничтожении сердца и побеге...
 
 # Original: Of course... Full of lies to the end.
-Грегор: Конечно же... Сплошная ложь до самого конца.
+Грегор: Конечно же... Полна лжи до самого конца.
 
 # Original: Well, it technically wasn't a lie. We will eventually end up outside the Whale.
-Отис: Ну, технически это не было ложью. В конце концов, мы окажемся снаружи Кита.
+Отис: Ну, технически это не было ложью. Мы окажемся снаружи Кита, в конце концов.
 
 # Original: She didn't say anything about being outside the Whale in one piece, I guess. Ugh, I shoulda seen this coming~
-Родион: Она ничего не говорила о том, чтобы оказаться снаружи Кита в целости и сохранности, я полагаю. Ух, я должна была это предвидеть~
+Родион: Я полагаю, она ничего не говорила о том, чтобы оказаться снаружи Кита в целости и сохранности. Ух, я должна была это предвидеть~
 
 # Original: THUMP!
 Рассказчик: БУМ!
@@ -92,7 +92,7 @@
 Ахав: Ты... Ты должна была убить меня...
 
 # Original: I should have been the one to kill the Whale...!
-Ахав: Я должна была быть той, кто убьет Кита...!
+Ахав: Это я должна была убить Кита...!
 
 # Original: What... about her?
 Хитклиф: А что... это с ней?
@@ -125,19 +125,19 @@
 Родион: ... Так как же ты это сделал? Мм? Мммм?
 
 # Original: The Indigo Elder did not seem to mind Rodya's persistent, somewhat rude questioning; he replied patiently.
-Рассказчик: Казалось, Старик Индиго не возражал против настойчивых, несколько грубых вопросов Роди; он терпеливо отвечал.
+Рассказчик: Казалось, Старик Индиго не возражал против настойчивых и несколько грубых вопросов Роди; он терпеливо отвечал.
 
 # Original: I do not know if it is because the Pallid Whale swallowed the Golden Bough... or because it swallowed you and your friends. But its behaviors changed in ways that I had never seen before. I presume that something had gone wrong with its brain.
-Старик Индиго: Я не знаю, связано ли это с тем, что Бледный Кит проглотил Золотую Ветвь... или с тем, что он проглотил вас и ваших друзей. Но его поведение изменилось так, как я никогда раньше не видел. Я предполагаю, что что-то пошло не так с его мозгом.
+Старик Индиго: Я не знаю, связано ли это с тем, что Бледный Кит проглотил Золотую Ветвь... или с тем, что он проглотил вас и ваших друзей. Но его поведение изменилось так, как я никогда раньше не видел. Я предполагаю, что что-то произошло с его мозгом.
 
 # Original: So I punctured a hole in it with my anchor. That is all.
-Старик Индиго: Поэтому я пробил в нем дыру своим якорем. Вот и всего.
+Старик Индиго: Поэтому я пробил в нем дыру своим якорем. Вот и всё.
 
 # Original: Now... two of the five Calamities of the Lake have met their end by your hands.
-Вергилий: Теперь... два из пяти Бедствий Озера встретили свой конец от ваших рук.
+Вергилий: Теперь... два из пяти Бедствий Озера встретили свой конец от твоих рук.
 
 # Original: Will you remain here, Indigo Elder?
-Вергилий: Вы останетесь здесь, Старик Индиго?
+Вергилий: Останешься ли ты здесь, Старик Индиго?
 
 # Original: Why would I leave? The sea still harbors three Calamities.
 Старик Индиго: Зачем мне уходить? В море все еще таится три Бедствия.
@@ -149,7 +149,7 @@
 Синклер: О... Эта бабочка...
 
 # Original: A solitary butterfly takes a moment to rest, before fluttering over the Lake's surface.
-Рассказчик: Одинокая бабочка на мгновение отдыхает, прежде чем порхнуть над поверхностью Озера.
+Рассказчик: Одинокая бабочка берёт краткую передышку, прежде чем порхнуть над поверхностью Озера.
 
 # Original: That butterfly looks similar to the one we saw in the Lobotomy Corp. Branch.
 Синклер: Эта бабочка похожа на ту, которую мы видели в филиале Корпорации Лоботомии.
@@ -164,7 +164,7 @@
 Данте: <Как ты думаешь, в чем был его интерес? Рим...>
 
 # Original: <He did help us at the end of the day, but...>
-Данте: <Он действительно помог нам в конце концов, но...>
+Данте: <Он помог нам в конце концов, но...>
 
 # Original: He has certain expectations of us. I expect that he will return.
 Фауст: У него есть определенные ожидания от нас. Я полагаю, что он вернется.
@@ -185,10 +185,10 @@
 Данте: <Измаил.>
 
 # Original: Oh, I was reading the winds.
-Измаил: О, я определяла курс ветра.
+Измаил: О, я определяла направление ветра.
 
 # Original: We're cutting it close. I expect to see the Waves rushing in our direction at any minute.
-Отис: Мы на грани. Я ожидаю увидеть Волны, несущиеся в нашу сторону в любую минуту.
+Отис: Мы опаздываем. Я ожидаю увидеть несущиеся в нашу сторону Волны в любую минуту.
 
 # Original: ... Heh.
 Измаил: ... Хех.
@@ -203,7 +203,7 @@
 Данте: <Я... не умею управлять кораблем.>
 
 # Original: Haah... Don't you understand? After all that? It doesn't matter how good of a sailor you are.
-Измаил: Хаах... Ты не понимаешь? После всего этого? Неважно, насколько ты хороший моряк.
+Измаил: Хаах... Ты не понял? После всего этого? Неважно, насколько ты хороший моряк.
 
 # Original: What's important... is that someone is there to help steer you right.
 Измаил: Важно... чтобы кто-то был рядом, чтобы помочь тебе держать правильный курс.
@@ -215,7 +215,7 @@
 Измаил: Так что... ты мой Капитан. Пока что.
 
 # Original: My skiff will go on an adventure of its own one day. But for now, I've tied that skiff to a bigger ship called Limbus Company and you.
-Измаил: Моя шлюпка когда-нибудь отправится в собственное приключение. Но пока что, я привязала эту шлюпку к большому кораблю названным Компания Лимбус и к тебе.
+Измаил: Однажды, моя лодка отправится в собственное приключение. Но пока что, я привязала эту лодку к большему кораблю под названием Компания Лимбус и к тебе.
 
 # Original: Because I really want to find out what's waiting for me at the end of this voyage.
 Измаил: Потому что я действительно хочу узнать, что ждет меня в конце этого плаванья.
@@ -230,16 +230,16 @@
 Измаил: Я буду доверять твоим решениям и приказам, Капитан. Но я не собираюсь просто принимать их на веру. Я буду постоянно их оспаривать и пытаться понять.
 
 # Original: So that when I see that my compass no longer aligns with yours, I can take my skiff and sail away.
-Измаил: Чтобы, когда я увижу, что мой компас больше не совпадает с твоим, я смогла взять свою шлюпку и уплыть.
+Измаил: Чтобы, когда я увижу, что мой компас больше не совпадает с твоим, я смогла взять свою лодку и уплыть.
 
 # Original: So that I won't let anything consume me again. So that I won't lose myself again.
-Измаил: Чтобы ничто больше не поглотило меня. Чтобы я больше не потеряла себя.
+Измаил: Чтобы больше ничто не поглотило меня. Чтобы я больше не потеряла себя.
 
 # Original: I can see the Waves rushing toward us from a distance.
 Рассказчик: Я вижу, как вдалеке к нам несутся Волны.
 
 # Original: The Waves are as colossal as always. There is a little fear in my heart.
-Рассказчик: Волны, как всегда, огромны. В моем сердце есть немного страха.
+Рассказчик: Они, как и всегда, огромны. Моё сердце немного волнуется.
 
 # Original: Yet...
 Рассказчик: И все же...
@@ -251,19 +251,19 @@
 Измаил: Хех.
 
 # Original: Waves incoming in 15 seconds. Get to the helm, Swab— No.
-Отис: Волны приближаются через 15 секунд. К штурвалу, матро— Нет.
+Отис: Волны придут через 15 секунд. К штурвалу, матро— Нет.
 
 # Original: First mate Ishmael.
 Отис: Старший помощник Измаил.
 
 # Original: You're not even the Captain, Outis. Come on.
-Измаил: Ты же даже не Капитан, Отис. Да, ладно.
+Измаил: Ты же даже не Капитан, Отис. Да ладно.
 
 # Original: Sorry for intruding.
 Харон: Извините, что вмешиваюсь.
 
 # Original: But Charon's got the helm. Hold on, everyone.
-Харон: Но у Харон штурвал. Держитесь крепче, все.
+Харон: Но штурвал у Харон. Все, держитесь крепче.
 
 # Original: Khm...
 Отис: Кхм...
@@ -272,10 +272,10 @@
 Измаил: Хааах...
 
 # Original: Now that's a proper Ishmael sigh. I haven't heard her do that in a long while.
-Рассказчик: Вот это настоящий вздох Измаил. Я не слышал, чтобы она так вздыхала уже давно.
+Рассказчик: Вот это настоящий вздох Измаил. Я не слышал, чтобы она так делала уже давно.
 
 # Original: With it, she tightly gripped a handle of the bus, her gaze fixed on the approaching Waves.
-Рассказчик: С этим она крепко схватилась за ручку автобуса, ее взгляд был устремлен на приближающиеся Волны.
+Рассказчик: С этим вздохом, она крепко схватилась за поручень автобуса, ее взгляд был устремлен на приближающиеся Волны.
 
 # Original: Determined to never allow herself to be swept up by the tempest that the waves bring.
 Рассказчик: Полная решимости никогда не позволить себе быть унесенной бурей, которую несут волны.
@@ -287,7 +287,7 @@
 Измаил: Ветер такой... приятный.
 
 # Original: It's a perfect breeze to push us toward a new voyage.
-Измаил: Это идеальный бриз, чтобы подтолкнуть нас к новому плаванью.
+Измаил: Это идеальный бриз, который подтолкнет нас к новому плаванью.
 
 # Original: Mhm. Voyage to ice cream. Splish splash.
 Харон: Мхм. Плаванью за мороженым. Плюх-плюх.
@@ -323,13 +323,13 @@
 Герман: Да, вот теперь в твоих глазах появилась искра. Я думаю, мы начинаем понимать друг друга.
 
 # Original: I'll help you kill that Whale. And I'll make sure that you're the one who gets to do it this time.
-Герман: Я помогу тебе убить этого Кита. И я убежусь, что на этот раз это сделаешь именно ты.
+Герман: Я помогу тебе убить этого Кита. И я позабочусь о том, что на этот раз это сделаешь именно ты.
 
 # Original: So that you may hunt every Pallid Whale in every world.
 Герман: Чтобы ты могла охотиться на каждого Бледного Кита в каждом мире.
 
 # Original: All I require from you is your staunch determination and conviction.
-Герман: Все, что мне нужно от тебя, — это твоя непоколебимая решимость и уверенность.
+Герман: Все, что мне нужно от тебя — это твоя непоколебимая решимость и уверенность.
 
 # Original: So, is that more than enough reason for you to come aboard my ship?
 Герман: Итак, это достаточная причина для тебя, чтобы подняться на борт моего корабля?
