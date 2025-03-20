@@ -2497,5 +2497,129 @@
     "original": "Faust & Vergilius",
     "translation": "Фауст и Вергилий",
     "model": "베르길파우"
+  },
+  {
+    "original": "Sweeper",
+    "translation": "Чистильщик",
+    "model": "청소부A"
+  },
+  {
+    "original": "Sweeper",
+    "translation": "Чистильщик",
+    "model": "청소부C"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "흑수묘"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "자공"
+  },
+  {
+    "original": "Zigong",
+    "translation": "Цзыгун",
+    "model": "자공"
+  },
+  {
+    "original": "Singing Voice",
+    "translation": "Поющий Голос"
+  },
+  {
+    "original": "Another Hare",
+    "translation": "Другой Заяц"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "작은형님그림자"
+  },
+  {
+    "original": "Ricardo",
+    "translation": "Рикардо",
+    "model": "작은형님"
+  },
+  {
+    "original": "Nekomata Mafia Henchman",
+    "translation": "Прихвостень Мафии Некомата"
+  },
+  {
+    "original": "Tepuu Family Henchman",
+    "translation": "Прихвостень Семьи Тепуу"
+  },
+  {
+    "original": "The Knots Henchman",
+    "translation": "Прихвостень Узлов"
+  },
+  {
+    "original": "Assassin",
+    "translation": "Убийца"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "삼삼"
+  },
+  {
+    "original": "Shan San",
+    "translation": "Шан Сан",
+    "model": "삼삼"
+  },
+  {
+    "original": "Shan San",
+    "translation": "Шан Сан",
+    "model": "삼삼다침"
+  },
+  {
+    "original": "Werner",
+    "translation": "Вернер",
+    "model": "베르너다침"
+  },
+  {
+    "original": "Big Sis",
+    "translation": "Старшая Сестра"
+  },
+  {
+    "original": "Participating Fixer",
+    "translation": "Участвующий Корректировщик"
+  },
+  {
+    "original": "P Corp. Staff",
+    "translation": "Сотрудник Корп. P"
+  },
+  {
+    "original": "Firefist Office Fixer",
+    "translation": "Корректировщик Офиса Огненного Кулака"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "자로"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "사이화"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "가치우"
+  },
+  {
+    "original": "Jia Qiu",
+    "translation": "Цзя Цю",
+    "model": "가치우"
+  },
+  {
+    "original": "Zilu",
+    "translation": "Зилу",
+    "model": "자로"
+  },
+  {
+    "original": "Underling",
+    "translation": "Подчиненный"
   }
 ]
