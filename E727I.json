@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Kezhan Lobby?",
+      "place": "Вестибюль Кэчжаня?",
       "model": "파우스트다침",
       "content": "Вторая волна завершена. Третья волна... приближается."
     },
@@ -13,8 +13,8 @@
     {
       "id": 2,
       "model": "베르너다침",
-      "teller": "Werner",
-      "title": "Little Brother",
+      "teller": "Вернер",
+      "title": "Младший Брат",
       "content": "Братан... мы облажались. Не стоило вообще втягивать тебя во всё это..."
     },
     {
@@ -30,8 +30,8 @@
     {
       "id": 5,
       "model": "베르너다침",
-      "teller": "Werner",
-      "title": "Little Brother",
+      "teller": "Вернер",
+      "title": "Младший Брат",
       "content": "Нгх..."
     },
     {
@@ -134,8 +134,8 @@
     {
       "id": 27,
       "model": "베르너다침",
-      "teller": "Werner",
-      "title": "Little Brother",
+      "teller": "Вернер",
+      "title": "Младший Брат",
       "content": "БРАТАААААН!!!!!"
     },
     {
