@@ -197,7 +197,7 @@
 Данте: <…….>
 
 # Original: <... Something feels familiar about this.>
-Данте: <...В это есть что-то знакомое.>
+Данте: <...В этом есть что-то знакомое.>
 
 # Original: Nah, she's been getting less and less verbose with bootlicking these days... not like this guy, for sure.
 Родион: Не, она в последнее время всё меньше и меньше подлизывается... не то что этот тип, это точно.
