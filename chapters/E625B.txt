@@ -209,7 +209,7 @@
 Саша: Когда я приняла кровь моего господина в свои вены... я как будто родилась заново.
 
 # Original: I see. A Kindred to a Bloodfiend is like a sub-entity. Similar to sub-entities created by Distortions or Abnormalities.
-Фауст: Понятно. Сородич для Кровожада подобен производной сущности. Они похожм на производные сущности, создаваемые Искажениями или Аномалиями.
+Фауст: Понятно. Сородич для Кровожада подобен производной сущности. Они похожи на производные сущности, создаваемые Искажениями или Аномалиями.
 
 # Original: It must have been desperation that drove you to accept that proposition without hesitation, despite the lack of relevant information.
 Фауст: Должно быть, отчаяние заставило тебя принять такое предложение без колебаний, несмотря на отсутствие соответствующей информации.
