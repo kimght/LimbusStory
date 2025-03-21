@@ -332,7 +332,7 @@
 Данте: <Хаах...>
 
 # Original: I do find it regrettable that you were made to turn the clock despite my knowledge of the high likelihood of my death upon that occurrence.
-Фауст: Я, конечно, нахожу достойным сожаления тут факт, что вам пришлось повернуть часы, даже несмотря на моё знание о высокой вероятности моей смерти.
+Фауст: Я, конечно, нахожу достойным сожаления тот факт, что вам пришлось повернуть часы, даже несмотря на моё знание о высокой вероятности моей смерти.
 
 # Original: <No, I'm not... blaming you for that.>
 Данте: <Нет, я не... виню тебя за это.>
