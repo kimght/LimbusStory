@@ -92,7 +92,7 @@
 Фауст: Верно. Корпорация H... или Биоинженерная группа Хунъюань в основном производит Болюсы, содержащие эссенции для лечения.
 
 # Original: The Boluses may be taken orally, ground with water into a paste and applied directly to the affected area, or dissolved in water, soaked into bandages, and wrapped around the necessary area for treatment.
-Фауст: Болюсы можно принимать внутрь, растирать с водой в пасту и наносить непосредственно на поражённый участок, или растворять в воде, пропитывать бинты и обматывать нужную для лечения область.
+Фауст: Болюсы можно принимать внутрь, растирать с водой в пасту и наносить непосредственно на поражённый участок, или растворять в воде, пропитывать бинты и оборачивать вокруг нужного для лечения участка.
 
 # Original: Ahh... I guess rumors transform as they travel.
 Измаил: Ааа... Видимо, слухи изменились по мере распространения.
@@ -104,7 +104,7 @@
 Фауст: Технологии Корпорации K сосредоточены на обращении вспять или восстановлении состояния человека. "Возвращение к исходному состоянию" - ключевое понятие в их лечении.
 
 # Original: It is no rare sight to find unique techniques and technology developed independently by the inhabitants of the Backstreets of District 8 using the manufactured Boluses. The treatments are not individually customized for each patient; instead, their focus is on selecting the appropriate technique from a myriad of choices to address the deficiencies in their statuses.
-Фауст: Нередко можно встретить уникальные методы и технологии, самостоятельно разработанные жителями Подворотен Района 8 с использованием произведённых Болюсов. Лечение не подбирается индивидуально для каждого пациента; вместо этого они фокусируются на выборе подходящего метода из множества вариантов для устранения недостатков в их состоянии.
+Фауст: Жители Подворотен Района 8 независимо друг от друга создали множество уникальных рецептов и технологий на основе производимых Болюсов. Их методы лечения не адаптированны под конкретного пациента; вместо этого они выбирают наиболее подходящую из доступных им техник, способных улучшить его состояние.
 
 # Original: Perhaps one could choose the words... 'Transformation' or 'Evolution' as a more illustrative descriptor for their method of treatment.
 Фауст: Возможно, слова... "Трансформация" или "Эволюция" будут более наглядным описанием их метода лечения.
