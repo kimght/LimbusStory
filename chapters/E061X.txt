@@ -155,7 +155,7 @@
 Данте: <Так это то, что мы видели за окном ранее...?>
 
 # Original: We are yet to be discovered. I recommend that we prepare for combat, Manager.
-Мерсо: Нас еще не обнаружили. Рекомендую подготовиться к бою, Управляющий.
+Мерсо: Нас еще не обнаружили. Рекомендую подготовиться к бою, Менеджер.
 
 # Original: I didn't even need to tell the Sinners what they were. It was pretty clear from the get-go that we'd be fighting an abnormality; the Sinners all stood ready to charge into battle at my command.
 Рассказчик: Мне даже не нужно было объяснять Грешникам, что это было. С самого начала было ясно, что мы будем сражаться с Аномалией; Грешники были готовы броситься в бой по одной моей команде.
@@ -233,7 +233,7 @@
 Мерсо: ... В будущем я буду добавлять предисловие, чтобы предотвратить такие вспышки.
 
 # Original: We've been detected, Executive Manager.
-Отис: Нас обнаружили, Исполнительный Управляющий.
+Отис: Нас обнаружили, Исполнительный Менеджер.
 
 # Original: <Yeah... Let's get this over with first.>
 Данте: <Да... Давайте сначала разберемся с этим.>
