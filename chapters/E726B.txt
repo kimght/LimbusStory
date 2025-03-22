@@ -38,22 +38,22 @@
 Отис: Согласна. Достаточно взглянуть на физиономию этого предателя, чтобы понять его лживую натуру.
 
 # Original: This is a waste of time. Hey, Zilu! Cut 'em all down!
-Ши Ихуа: Это пустая трата времени. Эй, Зилу! Покончи с ними со всеми!
+Ши Ихуа: Это пустая трата времени. Эй, Цзылу! Покончи с ними со всеми!
 
 # Original: ... The mission was to assassinate them.
-Зилу: ... Миссия заключалась в их устранении.
+Цзылу: ... Миссия заключалась в их устранении.
 
 # Original: To meet them in an open battle, to take the lives of Hierarch candidates... was not what was agreed upon.
-Зилу: Вступать в открытый бой, лишать жизни кандидатов в Иерархи... это не было частью соглашения.
+Цзылу: Вступать в открытый бой, лишать жизни кандидатов в Иерархи... это не было частью соглашения.
 
 # Original: What the fu— Blah, blah, blah, just shut up and do as you're told!
 Ши Ихуа: Какого ч— Бла-бла-бла, просто заткнись и делай, что велено!
 
 # Original: I may fight to protect your life, yet I cannot do more.
-Зилу: Я могу сражаться, чтобы защитить вашу жизнь, но не более того.
+Цзылу: Я могу сражаться, чтобы защитить вашу жизнь, но не более того.
 
 # Original: A Heishou heeds no voices but that of the one who holds their leash.
-Зилу: Хэйшоу подчиняется лишь голосу того, кто держит их цепь.
+Цзылу: Хэйшоу подчиняется лишь голосу того, кто держит их цепь.
 
 # Original: <Looks like that Shi Yihua doesn't even control these guys.>
 Данте: <Похоже, этот Ши Ихуа даже не контролирует этих ребят.>
@@ -68,7 +68,7 @@
 Ши Ихуа: Чёрт, эта Стая Хэйшоу бесполезна... Даже простое задание выполнить не могут...
 
 # Original: …….
-Зилу: …….
+Цзылу: …….
 
 # Original: Master Yihua, the Heishou Pack was here merely as a backup plan. Our true strategy involves...
 Цинтао: Господин Ихуа, Стая Хэйшоу была здесь лишь как запасной план. Наша истинная стратегия включает...
@@ -125,7 +125,7 @@
 Цинтао: Господин Ихуа...?
 
 # Original: ... We best leave before any more unnecessary words are said.
-Зилу: ... Лучше нам уйти, пока не было сказано ещё больше лишних слов.
+Цзылу: ... Лучше нам уйти, пока не было сказано ещё больше лишних слов.
 
 # Original: Faust is right—these guys are acting way too suspicious to not have some scheme brewing back there.
 Рассказчик: Фауст права — эти ребята ведут себя слишком подозрительно, чтобы не замышлять что-то.
@@ -155,7 +155,7 @@
 Данте: <И я не думаю, что так называемое "подразделение Мао" готово сражаться...>
 
 # Original: <Which means that we only have three enemies—Shi Yihua, our 'guide', and Zilu... the assassin.>
-Данте: <Значит, у нас всего три противника — Ши Ихуа, наш "проводник" и Зилу... убийца.>
+Данте: <Значит, у нас всего три противника — Ши Ихуа, наш "проводник" и Цзылу... убийца.>
 
 # Original: <We have the numerical advantage, don't we?>
 Данте: <У нас численное преимущество, верно?>

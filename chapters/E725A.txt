@@ -161,13 +161,13 @@
 Рассказчик: А, так им любопытно.
 
 # Original: Stay your sword, Zilu.
-Рассказчик: Опусти свой меч, Зилу.
+Рассказчик: Опусти свой меч, Цзылу.
 
 # Original: Another unfamiliar voice, from the shadows.
 Рассказчик: Ещё один незнакомый голос из теней.
 
 # Original: ... Haah.
-Зилу: ...Хаах.
+Цзылу: ...Хаах.
 
 # Original: Young master...? Are you certain this is wise...?
 Цинтао: Молодой господин...? Вы уверены, что это мудро...?
