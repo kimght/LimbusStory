@@ -2,7 +2,7 @@
 Цзя Сичунь: "Выдающегося"...?
 
 # Original: But of course. I claimed control of a branch of the Heishou Packs.
-Ши Ихуа: Разумеется. Я взял под контроль одно из подразделений Стаи Хэйшоу.
+Ши Ихуа: Разумеется. Я взял под контроль одну из ветвей Стаи Хэйшоу.
 
 # Original: While you were wasting your time out there searching for the river of immortality or whatever.
 Ши Ихуа: Пока ты там прохлаждалась в поисках реки бессмертия или чего-то такого.
@@ -20,7 +20,7 @@
 Ши Ихуа: О чём ты вообще...?
 
 # Original: I'm asking whose teat you've been suckling on to gain the control of the Mao branch. Because we both know for sure that there's no way in hell you have the means to control them, right?
-Цзя Сичунь: Я спрашиваю, чью сиську ты сосал, чтобы получить контроль над подразделением Мао. Потому что мы оба прекрасно знаем, что у тебя самого таких возможностей нет, верно?
+Цзя Сичунь: Я спрашиваю, чью сиську ты сосал, чтобы получить контроль над ветвью Мао. Потому что мы оба прекрасно знаем, что у тебя самого таких возможностей нет, верно?
 
 # Original: You little twerp...!
 Ши Ихуа: Ах ты, мелкая дрянь...!
@@ -152,7 +152,7 @@
 Данте: <У нас двенадцать Грешников, Цзя Сичунь и Вэй на нашей стороне.>
 
 # Original: <And I don't think the so-called 'Mao branch' are willing to fight...>
-Данте: <И я не думаю, что так называемое "подразделение Мао" готово сражаться...>
+Данте: <И я не думаю, что так называемая "ветвь Мао" готова сражаться...>
 
 # Original: <Which means that we only have three enemies—Shi Yihua, our 'guide', and Zilu... the assassin.>
 Данте: <Значит, у нас всего три противника — Ши Ихуа, наш "проводник" и Цзылу... убийца.>
