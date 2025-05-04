@@ -23,7 +23,7 @@
 Грегор: Для популярной песни текст довольно э... зловещий.
 
 # Original: It is a song that spread through word of mouth. It sings of how the decimated Kong family—
-Цинтао: Это песня, что распространилась из уст в уста. Она повествует о том, как истреблённая семья Конг—
+Цинтао: Это песня, что распространилась из уст в уста. Она повествует о том, как истреблённая семья Кун—
 
 # Original: Ahm. This is not the place to discuss such matters. I will share the tale in a more appropriate setting later, should we come across it.
 Цинтао: Кхм. Здесь не место обсуждать такие вещи. Я расскажу эту историю позже, в более подходящей обстановке, если представится случай.
