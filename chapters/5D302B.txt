@@ -47,7 +47,7 @@
 Измаил: ... Поплыть... к сердцу?
 
 # Original: Quite! Yet we need one last piece of the puzzle before we set sail.
-Ахав: Именно! Однако нам нужен последний кусочек паззла, прежде чем мы отправимся в путь.
+Ахав: Именно! Однако нам нужен последний кусочек пазла, прежде чем мы отправимся в путь.
 
 # Original: Ahab turns to face me again, glaring at me with her burning eyes.
 Рассказчик: Ахав снова поворачивается ко мне, пронзая меня своими горящими глазами.

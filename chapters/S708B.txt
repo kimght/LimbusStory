@@ -131,7 +131,7 @@
 Данте: <Нет, я имею в виду... что она такое?>
 
 # Original: Uhh... they're asking what... Don Quixote is?
-Хон Лу: Э-э... они спрашивают, что... такое Дон Кихот?
+Хон Лу: Э-э... он спрашивает, что... такое Дон Кихот?
 
 # Original: Dante, it is not a wise use of your time to ask a question to which you can find your own answers.
 Вергилий: Данте, неразумно тратить время на вопрос, на который ты сам можешь найти ответы.
@@ -317,7 +317,7 @@
 Харон: Когда, где?
 
 # Original: They are asking you, should a day come in which you are allowed to travel with us to locations other than the bus itself, what you would like to do at an amusement park.
-Фауст: Они спрашивают, если наступит день, когда тебе разрешат путешествовать с нами в места, отличные от автобуса, что бы ты хотела сделать в парке развлечений.
+Фауст: Он спрашивает, если наступит день, когда тебе разрешат путешествовать с нами в места, отличные от автобуса, что бы ты хотела сделать в парке развлечений.
 
 # Original: There was a long pause. Charon's eyes glimmered momentarily as they began to wander elsewhere.
 Рассказчик: Последовала длинная пауза. Глаза Харон на мгновение заблестели, начав блуждать где-то вдалеке.

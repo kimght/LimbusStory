@@ -92,7 +92,7 @@
 Саша: Не имея ничего, что нужно было бы защищать, они бросаются в бой, как мотыльки на пламя...
 
 # Original: And... heh heh... forget to look after what's really important. Like this little thing.
-Саша: И... хе-хе... забывают позаботиться о тем, что действительно важно. Как эта маленькая вещица.
+Саша: И... хе-хе... забывают позаботиться о том, что действительно важно. Как эта маленькая вещица.
 
 # Original: With one of her remaining arms, Sasha picked up...
 Рассказчик: Одной из оставшихся рук Саша подняла...
@@ -236,7 +236,7 @@
 Кассетти: Т-только вы двое, да?
 
 # Original: Yes. The freight car is immediately adjacent to this one; that is where we will further discuss what we each have to offer to one another.
-Фауст: Да. Сразу за этим вагоном находится грузовой отсек. Именно там мы обсужим то, что каждый из нас может предложить друг другу.
+Фауст: Да. Сразу за этим вагоном находится грузовой отсек. Именно там мы обсудим то, что каждый из нас может предложить друг другу.
 
 # Original: That... that clock must be thy monarch then, hm? And thou art one of the retainers.
 Кассетти: Эти... эти часы, должно быть, твой монарх, хм? А ты - одна из его приближённых?

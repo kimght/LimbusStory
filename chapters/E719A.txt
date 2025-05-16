@@ -32,7 +32,7 @@
 Отис: Не в этом дело... подумай получше.
 
 # Original: <Seems like they’re assuming that Hong Lu’s brought something here in order to participate in that 'Family Hierarch Evaluation'...>
-Данте: <Похоже, они предполагают, что Хон Лу принёс что-то сюда для участия в этой "Оценке Иерарха Семьи"...>
+Данте: <Похоже, они предполагают, что Хон Лу принёс что-то сюда для участия в этом "Отборе на пост Главы Семьи"...>
 
 # Original: <... Then there’s no reason to assume that we’ve seen the last of them. They’re going to try again to take out the competition.>
 Данте: <...А значит, нет причин думать, что на этом всё закончится. Они попытаются снова устранить конкурента.>

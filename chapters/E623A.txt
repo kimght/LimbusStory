@@ -89,7 +89,7 @@
 Рассказчик: ... и стена за тем, что поначалу казалось раскладным стулом для сотрудников, распахнулась.
 
 # Original: Ooh, what in the name of Wings is this?! Perchance, thou hast hidden here a weapon most powerful, a weapon most afeared by the Bloodfiends...?!
-Дон Кихот: Ох, это ещё что, во имя Крыльев?! Неужели, здесь ты сокрыл ты сокрыл могучее оружие, коего страшатся Кровожады...?!
+Дон Кихот: Ох, это ещё что, во имя Крыльев?! Неужели, здесь ты сокрыл могучее оружие, коего страшатся Кровожады...?!
 
 # Original: That holds some resemblance to a capsule we saw on the First Class car, but why would that thing be here...?
 Отис: Скорее похоже на капсулу, которую мы видели в вагоне первого класса, но почему эта штука здесь...?

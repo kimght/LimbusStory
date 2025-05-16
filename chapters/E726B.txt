@@ -44,7 +44,7 @@
 Цзылу: ... Миссия заключалась в их устранении.
 
 # Original: To meet them in an open battle, to take the lives of Hierarch candidates... was not what was agreed upon.
-Цзылу: Вступать в открытый бой, лишать жизни кандидатов в Иерархи... это не было частью соглашения.
+Цзылу: Вступать в открытый бой, лишать жизни кандидатов на пост Главы Семьи... это не было частью соглашения.
 
 # Original: What the fu— Blah, blah, blah, just shut up and do as you're told!
 Ши Ихуа: Какого ч— Бла-бла-бла, просто заткнись и делай, что велено!

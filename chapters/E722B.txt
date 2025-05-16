@@ -80,7 +80,7 @@
 Грегор: Хм...? В каком смысле поздно?
 
 # Original: Every Hiererarch candidate must've brought... incredibly precious treasures with them.
-Хон Лу: Каждый кандидат в Иерархи наверняка принёс с собой... невероятно ценные сокровища.
+Хон Лу: Каждый кандидат на пост Главы Семьи наверняка принёс с собой... невероятно ценные сокровища.
 
 # Original: It would be nice if they believed that their own treasure is the most precious of them all, but...
 Хон Лу: Было бы хорошо, если бы они верили, что их собственное сокровище самое ценное из всех, но...

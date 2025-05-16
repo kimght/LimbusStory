@@ -221,7 +221,7 @@
 Цзя Сичунь: Если так, лучше выкладывай сейчас. У меня нет времени на небрежные прогулки с моим будущим врагом.
 
 # Original: Xichun, as I have always said, the seat of the Family Hierarch is of no—
-Хон Лу: Сичунь, как я всегда говорил, место Иерарха Семьи не имеет—
+Хон Лу: Сичунь, как я всегда говорил, место Главы Семьи не имеет—
 
 # Original: ... Fine. Even if you're lying, I do know that you haven't prepared anything for your assignment anyway.
 Цзя Сичунь: ... Ладно. Даже если ты врёшь, я знаю, что ты всё равно ничего не подготовил для своего задания.
@@ -251,7 +251,7 @@
 Цзя Сичунь: Отлично. Тогда позволь сделать предложение.
 
 # Original: Become my faction for the duration of the Family Hierarch evaluations. Help me out.
-Цзя Сичунь: Станьте моей фракцией на время оценки кандидатов в Иерархи Семьи. Помогите мне.
+Цзя Сичунь: Станьте моей фракцией на время оценки кандидатов на пост Главы Семьи. Помогите мне.
 
 # Original: <... What?>
 Данте: <... Что?>
@@ -275,7 +275,7 @@
 Цзя Сичунь: А что касается конкуренции... ну, моему брату всё равно плевать на всё это.
 
 # Original: So why don't you join me? Help me become the Family Hierarch.
-Цзя Сичунь: Так почему бы вам не присоединиться ко мне? Помогите мне стать Иерархом Семьи.
+Цзя Сичунь: Так почему бы вам не присоединиться ко мне? Помогите мне стать Главой Семьи.
 
 # Original: I'm not like our other older siblings. I always pay my debts, whether that's for a favor or for a grudge. If you can't trust me, I'm happy to make a written—
 Цзя Сичунь: Я не как наши другие старшие братья и сёстры. Я всегда плачу свои долги, будь то за услугу или за обиду. Если вы мне не доверяете, я с радостью составлю письменное—
@@ -434,7 +434,7 @@
 Рассказчик: ... и начала читать с него.
 
 # Original: Upon arrival at the central zone of H Corp., the LCB will participate in the Family Hierarch Evaluation with a candidate.
-Сод: По прибытии в центральную зону Корпорации H, LCB будет представлять определённого кандидата на Оценке Иерарха Семьи.
+Сод: По прибытии в центральную зону Корпорации H, LCB будет представлять определённого кандидата в Отборах на пост Главы Семьи.
 
 # Original: Hmph, we were going to anyway. Now, this Bus Team faction's gonna be my—
 Цзя Сичунь: Хмф, мы и так собирались. Теперь эта Автобусная фракция будет моей—

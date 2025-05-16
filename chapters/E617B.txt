@@ -14,7 +14,7 @@
 Данте: <Так в каждом Гнезде есть... такие массивные сооружения?>
 
 # Original: I've got nothin'. Oi, know anything about what they're asking?
-Хитклиф: Без понятия. Эй, ты что-нибудь знаешь о том, что они спрашивают?
+Хитклиф: Без понятия. Эй, ты что-нибудь знаешь о том, что он спрашивает?
 
 # Original: Heathcliff asked, gesturing toward Meursault with his chin.
 Рассказчик: Хитклиф спросил, кивнув в сторону Мерсо.

@@ -370,7 +370,7 @@
 Грегор: Понятно... совершенно мирно. Угу... Я уверен, что это действительно был мирный переход власти.
 
 # Original: Ooh... 'tis quite fascinating to imagine that even Sir Heathcliff once had been a tiny bairn... How was he as a youth?
-Дон Кихот: Ох... 'тис весьма увлекательно представить, что даже сэр Хитклиф когда-то был крошечным ребёнком... Каким он был в юности?
+Дон Кихот: Ох... сие весьма увлекательно представить, что даже сэр Хитклиф когда-то был крошечным ребёнком... Каким он был в юности?
 
 # Original: Mm, he was... quite the special child. I do not believe that I would have become a Chief Butler had it not been for him.
 Нелли: Мм, он был... довольно особенным ребёнком. Я не думаю, что стала бы Главным Дворецким, если бы не он.
