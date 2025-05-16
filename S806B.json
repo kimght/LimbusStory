@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Palanquin Interior",
+      "place": "Внутри Паланкин",
       "model": "가마꾼",
       "content": "Прибываем в <ruby=Большой Цветочный Зал>Дахуатин</ruby>(大花廳)!"
     },
@@ -196,7 +196,7 @@
     },
     {
       "id": 41,
-      "place": "Daguanyuan - Dahuating Banquet Hall",
+      "place": "Дагуаньюань - Банкетный Зал Дахуатин",
       "model": "이상",
       "content": "Меня обуревают всепоглощающие просторы и предметы великой величины…"
     },
@@ -375,7 +375,7 @@
     },
     {
       "id": 77,
-      "place": "Daguanyuan - Dahuating Banquet Hall",
+      "place": "Дагуаньюань - Банкетный Зал Дахуатин",
       "model": "가정",
       "content": "……."
     },
@@ -714,8 +714,8 @@
     },
     {
       "id": 148,
-      "teller": "Crowd",
-      "title": "Daguanyuan",
+      "teller": "Толпа",
+      "title": "Дагуаньюань",
       "content": "Мы удостоены вашей милости, почтеннейшая Цзя Му."
     },
     {
@@ -763,8 +763,8 @@
     {
       "id": 158,
       "model": "하인4",
-      "teller": "Jia Mu's Servant",
-      "title": "Daguanyuan",
+      "teller": "Слуга Цзя Му",
+      "title": "Дагуаньюань",
       "content": "Прошу подойти, молодой господин Баоюй."
     },
     {

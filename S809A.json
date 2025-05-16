@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Daguanyuan - Yihongyuan Yard",
+      "place": "Дагуаньюань - Двор Ихунъюань",
       "model": "오티스",
       "content": "Фух… Как освежает!"
     },
@@ -43,7 +43,7 @@
     },
     {
       "id": 8,
-      "place": "Daguanyuan - Yihongyuan Interior, Past",
+      "place": "Дагуаньюань - Внутри Ихунъюань, Прошлое",
       "model": "왕부인",
       "content": "Не правда ли… это истинное, величайшее счастье?"
     },
@@ -64,7 +64,7 @@
     },
     {
       "id": 12,
-      "place": "Daguanyuan - Yihongyuan Yard",
+      "place": "Дагуаньюань - Двор Ихунъюань",
       "model": "단테",
       "content": "<Снова воспоминания...>"
     },
