@@ -2782,5 +2782,145 @@
     "original": "Heishou Pack - Mao Branch",
     "translation": "Стая Хэйшоу - Ветвь Мао",
     "model": "오티스"
+  },
+  {
+    "original": "Xichun's Clan",
+    "translation": "Клан Сичунь",
+    "model": "웨이"
+  },
+  {
+    "original": "Jia Family",
+    "translation": "Семья Цзя",
+    "model": "어린홍루"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "어린임대옥"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "어린가환"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거가환"
+  },
+  {
+    "original": "Bodyguard",
+    "translation": "Телохранитель",
+    "model": "임대옥"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "불합격자아버지"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "불합격자어머니"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань"
+  },
+  {
+    "original": "The Middle",
+    "translation": "Средний",
+    "model": "싱클레어"
+  },
+  {
+    "original": "District 8",
+    "translation": "Район 8"
+  },
+  {
+    "original": "Heishou Pack - Si Branch",
+    "translation": "Стая Хэйшоу - Ветвь Сы",
+    "model": "그레고르"
+  },
+  {
+    "original": "Heishou Pack - Si Branch",
+    "translation": "Стая Хэйшоу - Ветвь Сы"
+  },
+  {
+    "original": "Heishou Pack - Si Branch",
+    "translation": "Стая Хэйшоу - Ветвь Сы",
+    "model": "로쟈"
+  },
+  {
+    "original": "Qiu's Clan",
+    "translation": "Клан Цю",
+    "model": "자공"
+  },
+  {
+    "original": "LCB",
+    "translation": "LCB",
+    "model": "수감자들"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "관중1"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "관중2"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "관중3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "취수야객"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "뇌횡"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "하인3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "알란"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "하나후다"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "하인4"
+  },
+  {
+    "original": "Jia Family",
+    "translation": "Семья Цзя"
+  },
+  {
+    "original": "R Corp. 4th Pack Reindeer",
+    "translation": "Олень 4 Стаи Корп. R",
+    "model": "홍루"
+  },
+  {
+    "original": "R Corp. 4th Pack",
+    "translation": "4 Стая Корп. R"
+  },
+  {
+    "original": "R Corp. 4th Pack Rhino",
+    "translation": "Носорог 4 Стаи Корп. R",
+    "model": "뫼르소"
   }
 ]

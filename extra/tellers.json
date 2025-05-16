@@ -2615,11 +2615,156 @@
   },
   {
     "original": "Zilu",
-    "translation": "Цзылу",
+    "translation": "Цзы Лу",
     "model": "자로"
   },
   {
     "original": "Underling",
     "translation": "Подчиненный"
+  },
+  {
+    "original": "Daiyu?",
+    "translation": "Дайюй?",
+    "model": "어린임대옥"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "어린가환"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거가환"
+  },
+  {
+    "original": "Disappointed Audience",
+    "translation": "Разочарованная аудитория",
+    "model": "불합격자아버지"
+  },
+  {
+    "original": "Excited Audience",
+    "translation": "Восторженная аудитория",
+    "model": "불합격자어머니"
+  },
+  {
+    "original": "Audience",
+    "translation": "Аудитория"
+  },
+  {
+    "original": "Fleeing Candidate",
+    "translation": "Бегущий кандидат"
+  },
+  {
+    "original": "Stumbling Candidate",
+    "translation": "Спотыкающийся кандидат"
+  },
+  {
+    "original": "Vengeance Fugitive",
+    "translation": "Избежавший мести"
+  },
+  {
+    "original": "Bungling Little Brother",
+    "translation": "Неумелый Младший Брат"
+  },
+  {
+    "original": "Veteran Snake",
+    "translation": "Змея-ветеран"
+  },
+  {
+    "original": "Novice Snakes",
+    "translation": "Змеи-новички"
+  },
+  {
+    "original": "Jia Xichun",
+    "translation": "Цзя Сичунь",
+    "model": "가시춘"
+  },
+  {
+    "original": "Gossiping Audience",
+    "translation": "Перешептывающаяся аудитория"
+  },
+  {
+    "original": "Gabbing Audience",
+    "translation": "Болтающая аудитория"
+  },
+  {
+    "original": "Stunned Audience",
+    "translation": "Ошеломленная аудитория",
+    "model": "관중1"
+  },
+  {
+    "original": "Suspicious Audience",
+    "translation": "Подозрительная аудитория",
+    "model": "관중2"
+  },
+  {
+    "original": "Whispering Audience",
+    "translation": "Шепчущая Аудитория",
+    "model": "관중3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "취수야객"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "뇌횡"
+  },
+  {
+    "original": "Furious Attendant",
+    "translation": "Разъяренный прислужник",
+    "model": "하인3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "알란"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "하나후다"
+  },
+  {
+    "original": "Crowd",
+    "translation": "Толпа"
+  },
+  {
+    "original": "Jia Mu's Servant",
+    "translation": "Слуга Цзя Му",
+    "model": "하인4"
+  },
+  {
+    "original": "Night Drifter",
+    "translation": "Ночной Скиталец",
+    "model": "취수야객"
+  },
+  {
+    "original": "Fearful Villager",
+    "translation": "Напуганный житель"
+  },
+  {
+    "original": "Defiant Villager",
+    "translation": "Дерзкий житель"
+  },
+  {
+    "original": "Commander",
+    "translation": "Командир"
+  },
+  {
+    "original": "Backstreets Resident Going Insane",
+    "translation": "Сходящий с ума житель Подворотен"
+  },
+  {
+    "original": "Insane Backstreets Resident",
+    "translation": "Сумасшедший житель Подворотен"
+  },
+  {
+    "original": "Busy-looking Servant",
+    "translation": "Деловитый слуга",
+    "model": "하인3"
   }
 ]
