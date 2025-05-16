@@ -1,0 +1,311 @@
+﻿# Original: I see a small group of people fleeing, navigating past the bodies growing cold and stiff.
+Рассказчик: Я вижу небольшую группу людей, спасающихся бегством, они пробираются мимо тел, холодеющих и коченеющих.
+
+# Original: But it won't matter. Don't they know that there's no getting away from the snakes?
+Рассказчик: Но это не будет иметь значения. Неужели они не знают, что от змей не уйти?
+
+# Original: Gaaaaah!
+Рассказчик: Гааааах!
+
+# Original: …….
+Родион: …….
+
+# Original: While it is not as deadly as the Night in the Backstreets, the nighttime of Hongyuan is when various grievances and resentments come to light and clash.
+Рассказчик: Хотя ночь в Хунъюане и не так смертоносна, как Ночь в Подворотнях, именно в это время различные обиды и недовольства выходят на свет и сталкиваются.
+
+# Original: Maybe that's why...
+Рассказчик: Может быть, поэтому...
+
+# Original: Nighttime is when those who harass and bully vendors and merchants during daytime then tremble and fall on the dirt to scurry under their desks.
+Рассказчик: Ночью те, кто днём донимал и запугивал торговцев и купцов, дрожат и падают в грязь, чтобы забиться под свои столы.
+
+# Original: Nighttime is when those who would normally look down on the poor are rendered sobbing and snivelling as they demand to know under whose bidding we have been sent.
+Рассказчик: Ночью те, кто обычно смотрел на бедняков свысока, рыдают и хнычут, требуя ответа, по чьему приказу нас послали.
+
+# Original: Every swing is a beheading of the arrogant,
+Рассказчик: Каждый взмах — обезглавливание надменных,
+
+# Original: and their decapitated heads thump lightly before rolling across the wood floor like bowling balls.
+Рассказчик: и их отрубленные головы глухо ударяются, прежде чем покатиться по деревянному полу, словно шары для боулинга.
+
+# Original: One of the heads comes to a rolling stop, and its eyes stare straight into mine.
+Рассказчик: Одна из голов останавливается, и её глаза смотрят прямо на меня.
+
+# Original: Resentment. Fear. Sorrow.
+Рассказчик: Ненависть. Страх. Печаль.
+
+# Original: Familiar sentiments, all of them, swirl behind the gathering cloudiness of those eyes.
+Рассказчик: Все эти знакомые чувства клубятся за пеленой, застилающей эти глаза.
+
+# Original: Hah. Think you've got it rough, huh? You don't deserve to look at me like that.
+Родион: Ха. Думаешь, тебе досталось, да? Ты не заслуживаешь так на меня смотреть.
+
+# Original: You've never felt the shearing cold. You've never felt the hunger, the sensation of bones sticking to your skin.
+Родион: Ты никогда не чувствовал пронизывающего холода. Ты никогда не чувствовал голода, ощущения, будто кости прилипли к коже.
+
+# Original: How dare a mere beast of the Heishou lecture us?! You're nothing more than livestock!
+Рассказчик: Как смеет какая-то тварь из Хэйшоу читать нам нотации?! Вы всего лишь скот!
+
+# Original: I don't even look around as I decapitate the source of that voice with my polearm.
+Рассказчик: Я даже не оборачиваюсь, обезглавливая древковым оружием источник этого голоса.
+
+# Original: I felt something rising from my throat. It was dry and discomforting.
+Рассказчик: Я почувствовала, как что-то подступает к горлу. Сухое и неприятное.
+
+# Original: Don't they know why they're getting killed...? How do they not see this is totally just deserts?
+Рассказчик: Неужели они не знают, за что их убивают?.. Как они не видят, что это совершенно заслуженно?
+
+# Original: So, despite knowing that there wasn't anyone to hear my words, I speak to the decapitated heads as I walk across the creaking floorboards.
+Рассказчик: Поэтому, хоть я и знала, что меня никто не услышит, я обращаюсь к отрубленным головам, идя по скрипучим половицам.
+
+# Original: It's never enough, is it? Even with all this boundless wealth, you still had to look for more, huh?
+Родион: Вечно вам мало, да? Даже имея всё это безграничное богатство, вам всё равно нужно было больше, а?
+
+# Original: I guess it's more of a rhetorical question. It's power, isn't it? You wanted that little morsel of power, something more than money can get, didn't you?
+Родион: Полагаю, это скорее риторический вопрос. Власть, не так ли? Вы хотели этот маленький кусочек власти, нечто большее, чем можно купить за деньги, верно?
+
+# Original: They must've been too greedy. Greedy enough to draw the ire of a different candidate... my lord's, to be exact.
+Рассказчик: Должно быть, они были слишком жадны. Достаточно жадны, чтобы навлечь на себя гнев другого кандидата... моего господина, если быть точной.
+
+# Original: And they have the gall to give me that look? They pretty much brought all this upon themselves.
+Рассказчик: И у них хватает наглости так на меня смотреть? Они практически сами навлекли всё это на себя.
+
+# Original: ... Looks like I've decapitated all of them.
+Родион: ... Похоже, я всех их обезглавила.
+
+# Original: My lord's orders were simple.
+Рассказчик: Приказы моего господина были просты.
+
+# Original: The mission was to find a small hermitage called <ruby=Songan>Pine</ruby> Hermitage and decapitate everyone on the list.
+Рассказчик: Задание состояло в том, чтобы найти небольшая обитель под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех по списку.
+
+# Original: There was a weird exception clause listed there. Should I encounter a target who's not on the list, I should crush their head. But...
+Рассказчик: Там был странный пункт об исключении. Если я встречу цель, которой нет в списке, я должна размозжить ей голову. Но...
+
+# Original: I didn't see anyone that fit the conditions in this tiny hermitage.
+Рассказчик: В этой крошечной обители я не видела никого, кто подходил бы под эти условия.
+
+# Original: Well, now that's taken care of, I should head back to— Huh?
+Родион: Что ж, с этим покончено, мне бы вернуться к... А?
+
+# Original: I detect a very small noise coming from under the pile of crates.
+Рассказчик: Я улавливаю очень тихий звук из-под груды ящиков.
+
+# Original: I reflexively reach out and destroy them... and a tiny shadow crawled out from under them.
+Рассказчик: Я рефлекторно протягиваю руку и уничтожаю их... и из-под них выползает крошечная тень.
+
+# Original: Ha... ha...
+Родион: Ха... ха...
+
+# Original: So that's why the lord sent the Heishou here. He knew that they were secretly raising a potential candidate here... A potential rival to him.
+Родион: Так вот почему господин послал сюда Хэйшоу. Он знал, что они тайно растили здесь потенциального кандидата... Его потенциального соперника.
+
+# Original: P-please don't kill me, Ms. Heishou!
+Рассказчик: П-пожалуйста, не убивайте меня, госпожа Хэйшоу!
+
+# Original: Mom and dad said... If we wanna live in Daguanyuan's blessings...
+Рассказчик: Мама и папа сказали... Если мы хотим жить под благословением Дагуаньюаня...
+
+# Original: I-I have to work hard to become the Family Hierarch and bring prosperity to our family.
+Рассказчик: Я-я должен усердно трудиться, чтобы стать Главой Семьи и принести процветание нашей семье.
+
+# Original: He's just a kid... he doesn't even know what he's talking about.
+Родион: Он всего лишь ребёнок... он даже не понимает, о чём говорит.
+
+# Original: Haah... now why'd you have to go and hide there? Couldn't you have picked a better hiding place than under some random crate?
+Родион: Хаах... ну зачем ты полез прятаться туда? Не мог выбрать укрытие получше, чем под какими-то случайными ящиками?
+
+# Original: The boy is barely holding back his tears. But the hermitage is quiet, and there are no witnesses.
+Рассказчик: Мальчик едва сдерживает слёзы. Но в обители тихо, и свидетелей нет.
+
+# Original: Now that I'm thinking about it, my lord probably didn't know for sure that there was a kid, either.
+Рассказчик: Теперь, когда я думаю об этом, мой господин, вероятно, тоже не знал наверняка, что там было дитя.
+
+# Original: There wouldn't have been that awkwardly worded clause if he did. He would've just told me to kill the child.
+Рассказчик: Не было бы того коряво сформулированного пункта, если бы он знал. Он бы просто приказал мне убить это дитя.
+
+# Original: He must've sent a Heishou for this job... as a warning.
+Рассказчик: Он, должно быть, послал Хэйшоу на это задание... в качестве предупреждения.
+
+# Original: A warning to others that he shouldn't even hear rumors of something like this.
+Рассказчик: Предупреждение остальным, что он не должен даже слышать слухов о чём-то подобном.
+
+# Original: …….
+Родион: …….
+
+# Original: Nngh...
+Рассказчик: Ннгх...
+
+# Original: Well, I see how it is.
+Родион: Что ж, понятно.
+
+# Original: If the lord's gonna get me outta here... well, he can't afford to use us snakes for the big missions, right?
+Родион: Если господин собирается вытащить меня отсюда... что ж, он не может позволить себе использовать нас, змей, для крупных заданий, верно?
+
+# Original: That has to be why he's using us only for these small, cheaper missions.
+Родион: Должно быть, поэтому он использует нас только для этих мелких, дешёвых заданий.
+
+# Original: Heh, looks like this lord's finally gonna be the one to keep the promise.
+Родион: Хех, похоже, этот господин наконец-то сдержит обещание.
+
+# Original: ... Huh? What are you—
+Рассказчик: ... А? Что ты...
+
+# Original: Don't worry about it. It's better that you don't know.
+Родион: Не беспокойся об этом. Лучше тебе не знать.
+
+# Original: You're a lucky one, kiddo.
+Родион: Тебе повезло, малыш.
+
+# Original: This was a mission I volunteered to take. No other Heishou's coming.
+Рассказчик: На это задание я вызвалась добровольно. Другие Хэйшоу не придут.
+
+# Original: And the other Heishou that's supposed to be here seems to have taken the liberty of giving himself the night off. I haven't seen him all night.
+Рассказчик: А другой Хэйшоу, который должен был быть здесь, похоже, позволил себе взять выходной. Я не видела его всю ночь.
+
+# Original: Uh... uhh...!
+Рассказчик: Э... эээ...!
+
+# Original: Sit still, kid. Don't wanna accidentally cut your head in half.
+Родион: Сиди смирно, малец. Не хочу случайно разрубить тебе голову пополам.
+
+# Original: I... won't have to crush his head. A quick beheading should do it—I can explain this to my lord, and—
+Рассказчик: Мне... не придётся дробить ему голову. Быстрого обезглавливания будет достаточно — я смогу объяснить это моему господину, и...
+
+# Original: Whoops, just realized that you pretty much had the situation handled.
+Грегор: Опаньки, только что понял, что ты почти со всем справилась.
+
+# Original: ……
+Родион: ……
+
+# Original: I didn't just jump the gun, did I? My bad if I did.
+Грегор: Я ведь не поторопился, а? Виноват, если так.
+
+# Original: The head drops to the floor. There's a large hole straight through the skull.
+Рассказчик: Голова падает на пол. В черепе зияет большая дыра.
+
+# Original: The boy's head hits the floor with a wet thump in a fashion unlike the other decapitated heads, which rolled away with an almost blithe bounciness.
+Рассказчик: Голова мальчика с мокрым стуком ударяется об пол, не так, как другие отрубленные головы, которые откатывались с почти беззаботной упругостью.
+
+# Original: The flesh was raw. Viscous blood drips and sticks to the wood.
+Рассказчик: Плоть была обнажена. Вязкая кровь капает и прилипает к дереву.
+
+# Original: Damn... it's like this lord's got a sixth sense or something, huh? How'd he know there'd be a kid here?
+Грегор: Чёрт... у этого господина будто шестое чувство или что-то в этом роде, а? Откуда он знал, что здесь будет ребёнок?
+
+# Original: Uh... yeah. Right.
+Родион: Э... да. Точно.
+
+# Original: This... is why I hate this work.
+Рассказчик: Вот... почему я ненавижу эту работу.
+
+# Original: Not allowed to even make a single judgment. Just follow the lord's orders.
+Рассказчик: Не позволено даже выносить собственных суждений. Просто следовать приказам господина.
+
+# Original: We won't make any enemies or friends, but... that's what makes us nothing more than tools.
+Рассказчик: Мы не наживаем ни врагов, ни друзей, но... именно это делает нас не более чем инструментами.
+
+# Original: ... Its long-term prospects are pretty dire.
+Рассказчик: ... Долгосрочные перспективы у этого довольно плачевны.
+
+# Original: At least I can comfort myself with the fact that the deal I made with the lord'll be fulfilled soon.
+Рассказчик: По крайней мере, я могу утешать себя тем, что сделка, которую я заключила с господином, скоро будет исполнена.
+
+# Original: This miserable work... Just a few more days, and I won't have to be a Heishou anymore...
+Рассказчик: Эта жалкая работа... Ещё несколько дней, и мне больше не придётся быть Хэйшоу...
+
+# Original: ... What took you so long?
+Родион: ... Почему так долго?
+
+# Original: Our lord gave me a last-minute extra mission. Had to take care of that first.
+Грегор: Наш господин дал мне в последнюю минуту дополнительное задание. Пришлось сначала разобраться с ним.
+
+# Original: Mission...?
+Родион: Задание...?
+
+# Original: Yeah. Lord's looking to deal with a prominent candidate from the Xue family tomorrow.
+Грегор: Ага. Господин собирается завтра разобраться с видным кандидатом из семьи Сюэ.
+
+# Original: It's gonna be a big mission, so he'll have to let go of our leashes once we take care of it, but... hey, if he thinks the mission's worth it, then who are we to say otherwise?
+Грегор: Это будет крупное задание, так что ему придётся спустить нас с поводка, как только мы с ним разберёмся, но... эй, если он считает, что задание того стоит, то кто мы такие, чтобы говорить иначе?
+
+# Original: So, uh... Just asking in case you had your hopes up, but... you didn't actually believe him, right? That he'll free you and take you under his wing?
+Грегор: Так, э... Просто спрашиваю на случай, если ты понадеялась, но... ты же ему не поверила, правда? Что он освободит тебя и возьмёт под своё крыло?
+
+# Original: Huh? Aw, 'course not~ I'm not stupid.
+Родион: А? Ой, конечно нет~ Я не глупая.
+
+# Original: The words that came out of my own mouth were strangely placid. Almost jovial.
+Рассказчик: Слова, сорвавшиеся с моих губ, были странно безмятежными. Почти весёлыми.
+
+# Original: Yeah. No sane person in Hongyuan's ever gonna take a non-Adept Heishou under their wing.
+Грегор: Ага. Ни один здравомыслящий человек в Хунъюане никогда не возьмёт под своё крыло Хэйшоу-неадепта.
+
+# Original: The Family Hierarch war's coming, right? It'd be a dumb move to not be a Heishou.
+Родион: Грядёт война за пост Главы Семьи, верно? Было бы глупо не быть Хэйшоу.
+
+# Original: I'm so glad I'm a Heishou when stuff's going down for reals. We get a brief period to relax once they pick the Family Hierarch too, don't we?
+Родион: Я так рада, что я Хэйшоу, когда всё по-настоящему начинается. У нас ведь будет небольшой перерыв, когда выберут Главу Семьи, да?
+
+# Original: It was as though something had taken control of my tongue to speak, as though all the gloom in my words were cleaned and filtered before leaving my lips.
+Рассказчик: Словно что-то овладело моим языком, словно вся мрачность из моих слов была вычищена и отфильтрована, прежде чем они покинули мои губы.
+
+# Original: ... If I admit that I desire for nothing more than to escape this life of a Heishou... I'll have to face what a miserable thing I've become.
+Рассказчик: ... Если я признаю, что не желаю ничего больше, чем сбежать от этой жизни Хэйшоу... мне придётся столкнуться с тем, каким жалким существом я стала.
+
+# Original: You're not wrong.
+Грегор: Ты не ошибаешься.
+
+# Original: Besides, I know how much you guys'll miss me. There'll be a super capable snake-sized hole when I'm gone!
+Родион: Кроме того, я знаю, как вы, ребята, будете по мне скучать. Когда я уйду, останется дыра размером с супер-способную змею!
+
+# Original: That's uh... well, you're not entirely wrong there, but also not entirely correct.
+Грегор: Это, э... ну, ты не совсем неправа, но и не совсем права.
+
+# Original: C'mon, this is when you say "you're so right", 'kay? Ugh, no wonder you're so boring. You've been at this for too long.
+Родион: Да ладно, тут надо говорить "ты так права", ясно? Уф, неудивительно, что ты такой скучный. Ты слишком долго этим занимаешься.
+
+# Original: Well, let's head back. I'll report the mission's success to the lord; I need to visit him soon anyway.
+Грегор: Что ж, пошли назад. Я доложу господину об успехе миссии; мне всё равно нужно скоро его навестить.
+
+# Original: The other snake leaves. I found myself transfixed by the crushed head, its shape now almost unrecognizable.
+Рассказчик: Другая змея уходит. Я обнаружила, что застыла, глядя на раздавленную голову, её форма теперь почти неузнаваема.
+
+# Original: But I soon look away and leave the hermitage.
+Рассказчик: Но вскоре я отворачиваюсь и покидаю обитель.
+
+# Original: My room smelled of mold and lukewarm humidity.
+Рассказчик: В моей комнате пахло плесенью и тёплой сыростью.
+
+# Original: Old, Bolus-soaked wraps thrown haphazardly across the floor. Blood all over my body.
+Рассказчик: Старые, пропитанные Болюсом повязки, небрежно разбросанные по полу. Кровь по всему телу.
+
+# Original: This mess of a room was just too much, too much like my own heart.
+Рассказчик: Этот беспорядок в комнате был уже слишком, слишком похож на моё собственное сердце.
+
+# Original: So I bury my face between my knees to calm the growing misery.
+Рассказчик: Поэтому я прячу лицо между коленями, чтобы успокоить растущее отчаяние.
+
+# Original: I don't know. I just don't know anymore.
+Родион: Я не знаю. Я просто больше ничего не знаю.
+
+# Original: Everything he asked, I did without question. Was it too much to ask to forfeit a few months of his time with the leash?
+Родион: Всё, о чём он просил, я делала без вопросов. Неужели это было слишком много — попросить отказаться от нескольких месяцев его власти надо мной, от поводка?
+
+# Original: There was never going to be any escape from this life, no matter how loyal I was. I knew that. But I still had to ask.
+Рассказчик: От этой жизни никогда не было спасения, какой бы преданной я ни была. Я знала это. Но я всё равно должна была спросить.
+
+# Original: He could've chosen me.
+Родион: Он мог бы выбрать меня.
+
+# Original: Why... why wasn't it me...?
+Родион: Почему... почему не я...?
+
+# Original: I didn't want to think anymore.
+Рассказчик: Я больше не хотела думать.
+
+# Original: Thinking only seemed to sink me, drag me deeper into the endless abyss.
+Рассказчик: Мысли, казалось, только топили меня, утаскивали глубже в бесконечную бездну.
+
+# Original: I'm so cold.
+Рассказчик: Мне так холодно.
