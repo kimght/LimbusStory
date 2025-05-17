@@ -38,7 +38,7 @@
 Рассказчик: Сижэнь безэмоционально наблюдала, как наша шумная толпа хлынула во двор. Выражение её лица не изменилось, даже когда она увидела Хон Лу, который, предположительно, довольно давно не был дома.
 
 # Original: Are they young master’s guests? I will guide them to their room. Please follow me.
-Сижэнь: Это гости молодого господина? Я провожу их в комнаты. Пожалуйста, следуйте за мной.
+Сижэнь: Это гости молодого господина? Я провожу их в собственные комнаты. Пожалуйста, следуйте за мной.
 
 # Original: Now that we're here, I’ve got to pay a visit somewhere. I’ll be back soon, though.
 Хон Лу: Раз уж мы здесь, мне нужно кое-куда заглянуть. Но я скоро вернусь.
@@ -56,7 +56,7 @@
 Сижэнь: ... Сюда.
 
 # Original: Well, I guess I could say this about every operation, but...
-Измаил: Ну, полагаю, это можно сказать о каждой нашей операции, но...
+Измаил: Ну, полагаю, так можно сказать о каждой нашей операции, но...
 
 # Original: ... the weight of our mission doesn't really sink in until we're actually there.
 Измаил: ... тяжесть миссии не ощущается в полной мере, пока мы не окажемся на месте.
@@ -134,13 +134,13 @@
 И Сан: Я также весьма желаю это знать, ибо предположение о взаимном понимании, казалось, существовало исключительно между мисс Фауст и Сод.
 
 # Original: The first round of the Family Hierarch Evaluation... tests what the descendants have prepared and brought for the elders of Hongyuan.
-Фауст: Первый раунд Испытания на пост Главы Семьи... проверяет, что потомки приготовили и принесли для старейшин Хунъюаня.
+Фауст: Первый раунд Оценок на пост Главы Семьи... проверяет, что наследники приготовили и принесли для старейшин Хунъюаня.
 
 # Original: <What the descendants have prepared, huh... So this must be what Jia Xichun's been referring to this whole time...>
-Данте: «Что потомки приготовили, значит... Должно быть, это то, о чём всё время говорила Цзя Сичунь...»
+Данте: «Что наследники приготовили, значит... Должно быть, это то, о чём всё время говорила Цзя Сичунь...»
 
 # Original: Yes. To be free from aging and death—immortality.
-Фауст: Да. Освобождение от старения и смерти — бессмертие.
+Фауст: Да. Освобождение от старости и смерти — бессмертие.
 
 # Original: Each candidate is to present an answer before the judge to demonstrate their idea of true immortality.
 Фауст: Каждый кандидат должен представить свой ответ судье, чтобы продемонстрировать своё понимание истинного бессмертия.
@@ -236,7 +236,7 @@
 Цзя Сичунь: Ох, какую глупость я спросила.
 
 # Original: You’ve never been drunk in your life. Your mind’s always been so, so damn clear.
-Цзя Сичунь: Ты в жизни пьян не был. Твой разум всегда был таким, таким чертовски ясным.
+Цзя Сичунь: Ты ни разу в жизни пьян не был. Твой разум всегда был таким, таким чертовски ясным.
 
 # Original: None of this matters to you, does it? Even when I get angry at you or when I shout at you like this… none of it gets to you, does it?
 Цзя Сичунь: Для тебя ничего из этого не имеет значения, да? Даже когда я злюсь на тебя или когда кричу на тебя вот так… ничего из этого тебя не задевает, да?
@@ -304,8 +304,8 @@
 # Original: Conditions of our hearts... But perhaps unnecessarily peering into them is how we beget suffering?
 Хон Лу: Состояния наших сердец... Но, возможно, излишне заглядывая в них, мы и порождаем страдания?
 
-# Original: What manner of…
-И Сан: Что за…
+# Original: What manner of...
+И Сан: Каким образом…
 
 # Original: Back then, when I lived here in Daguanyuan…
 Хон Лу: Тогда, когда я жил здесь, в Дагуаньюане…
@@ -428,10 +428,10 @@
 Отис: Хм… этот деревянный тренировочный манекен, похоже, был спроектирован и изготовлен с определённым точным инженерным мастерством. У нас ещё есть время до отправления, так почему бы не использовать их для разминки?
 
 # Original: Ack, I don’t wanna get all sweaty, though…
-Родион: Фу, не хочу вся потная быть…
+Родион: Фу, не хочется всё-таки особо потеть…
 
 # Original: Well… it’s not like these things will pose us any danger. I think we can try them out once just to see how we’re doing today.
-Измаил: Ну… не то чтобы эти штуки представляли для нас какую-то опасность. Думаю, можно попробовать их разок, просто чтобы посмотреть, как мы сегодня.
+Измаил: Ну… не то чтобы эти штуки представляли для нас какую-то опасность. Думаю, можно попробовать их разок, просто чтобы посмотреть, как у нас идут дела сегодня.
 
 # Original: Atten-tion! We have orders from the Executive Manager! From this moment forth, we will put our all into laying utter ruin unto these training dummies!
 Отис: Смир-но! У нас приказ от Исполнительного Менеджера! С этого момента мы приложим все силы, чтобы полностью уничтожить эти тренировочные манекены!
