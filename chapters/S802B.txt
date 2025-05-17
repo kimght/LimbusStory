@@ -56,31 +56,31 @@
 Сод: …они смещаются в соответствии со стандартами реструктуризации текущей Корпорации H.
 
 # Original: ♬The world's assembly shifts overnight♬
-Рассказчик: ♬ Мир весь за ночь облик свой меняет, ♬
+Рассказчик: ♬ Мир зданий изменчив, как сон в глубине ночной, ♬
 
 # Original: ♬Yet those who toiled and toiled have naught to fear♬
-Рассказчик: ♬ Но кто трудился не покладая рук, тот страха не знает. ♬
+Рассказчик: ♬ Но тот, кто трудился упорно, встречает беду со спиною прямой. ♬
 
 # Original: ♬Is it not joyous, to have a place to rest your feet tonight♬
-Рассказчик: ♬ Не радость ли – иметь приют, где ноги упокоить этой ночью? ♬
+Рассказчик: ♬ Не радость ли это – найти, где усталость сокрыть и прилечь? ♬
 
 # Original: ♬To those who weren't availed of fortune, this is simply the reality to bear♬
-Рассказчик: ♬ Кому ж фортуна не дала даров, тем эту участь просто нести воочию. ♬
+Рассказчик: ♬ А тем, кому рок не позволил, – свой жребий послушно извлечь ♬
 
 # Original: ♬Only choice is to retreat in silence, to accept your fate as one might♬
-Рассказчик: ♬ Лишь выбор есть – в тиши уйти, свою судьбу принять как есть. ♬
+Рассказчик: ♬ Единственный выбор – молчать и судьбе покориться смиренно, ♬
 
 # Original: ♬Await the coming month, ponder how one might save their skin♬
-Рассказчик: ♬ Грядущий месяц ждать, гадать, как шкуру бы свою сберечь. ♬
+Рассказчик: ♬ И ждать новый месяц, гадая, как шкуру спасти драгоценную. ♬
 
 # Original: ♬How many shall plummet today, and how many shall remain?♬
-Рассказчик: ♬ Сколько падёт сегодня вниз, и скольким суждено остаться? ♬
+Рассказчик: ♬ Кто взмоет сегодня наверх, кому суждено вниз упасть? ♬
 
 # Original: ♬Hold on not to all things too tight♬
-Рассказчик: ♬ Не стоит слишком крепко за всё держаться. ♬
+Рассказчик: ♬ Не стоит держаться за всё слишком крепко и слепо, ♬
 
 # Original: ♬For you may lose sight of when to let go, and feign ignorance when you must take flight♬
-Рассказчик: ♬ Ведь можешь миг отхода проглядеть, прикинуться незнающим, когда пора спасаться. ♬
+Рассказчик: ♬ Иначе не сможешь понять, когда отступить, чтоб не сгинуть нелепо. ♬
 
 # Original: The consequence of re-assembly for the evicted is an endless plummet...
 И Сан: Последствие пересборки для выселенных – это бесконечное падение…
