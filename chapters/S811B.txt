@@ -260,7 +260,7 @@
 Отис: ...Их поведение напоминает Кровососов или подчиненных Аномалиям низших существ... Любое подобие сознания из них вырвано. Они будут атаковать без разбора.
 
 # Original: But it seems that they're just as intent on maiming and killing whatever, whoever they can get their claws on. Executive Manager, we must prepare for battle! Your orders!
-Отис: Но, похоже, они так же полны решимости калечить и убивать всё и вся, до чего дотянутся их когти. Главный Менеджер, мы должны готовиться к бою! Ваши приказания!
+Отис: Но, похоже, они так же полны решимости калечить и убивать всё и вся, до чего дотянутся их когти. Исполнительный Менеджер, мы должны готовиться к бою! Ваши приказания!
 
 # Original: Gnnnhhhh....
 ???: Гнннхххх....
@@ -293,7 +293,7 @@
 Рассказчик: Держитесь от меня подальше!
 
 # Original: As the monsters began to swarm in, some candidates scattered and ran away, while some stood their ground and fought back. Those who did neither were the ones getting slaughtered.
-Рассказчик: Когда монстры начали наступать, некоторые кандидаты разбежались, а некоторые остались на месте и дали отпор. Тех, кто не сделал ни того, ни другого, вырезали.
+Рассказчик: Когда монстры начали наступать, некоторые кандидаты разбежались, а некоторые остались на месте и дали отпор. Тех, кто не сделал ни того, ни другого, растерзали.
 
 # Original: I was simultaneously reminded of Saude and the confident smile she flashed at me as she reassured us that we should be able to pass the first round with little to no trouble.
 Рассказчик: Я одновременно вспомнил Сод и её уверенную улыбку, которой она одарила меня, заверяя, что мы сможем пройти первый раунд практически без проблем.
