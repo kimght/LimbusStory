@@ -149,13 +149,13 @@
 Рёшу: ... И.С.
 
 # Original: Do speak.
-И Сан: Говори.
+И Сан: Слушаю.
 
 # Original: Not you.
 Рёшу: Не ты.
 
 # Original: ... Speak still, your intentions notwithstanding.
-И Сан: ... Всё равно говори, независимо от твоих намерений.
+И Сан: ... Всё равно слушаю, независимо от твоих намерений.
 
 # Original: You, Stop. All of you. Something's off about this whole thing.
 Рёшу: Вы, прекратите. Все вы. Что-то не так со всем этим.

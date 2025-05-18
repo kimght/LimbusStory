@@ -74,7 +74,7 @@
 Альфонсо: Я сотру ваши воспоминания.
 
 # Original: SYNC. Tamper with my memories, and I'll cut you down to bits.
-Рёшу: СИНХ. Тронь мою память, и я разрублю тебя на куски.
+Рёшу: СШИК. Тронь мою память, и я разрублю тебя на куски.
 
 # Original: ...We'll follow your method, ma'am.
 Вергилий: ...Мы последуем вашему методу, мадам.

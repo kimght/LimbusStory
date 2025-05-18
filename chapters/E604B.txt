@@ -269,7 +269,7 @@
 Данте: <Родю я понимаю, но почему вы двое вызвались…?>
 
 # Original: Thought it sounded F.A.H.
-Рёшу: Показалось, что это будет ОВ.
+Рёшу: Показалось, что это будет О.В.
 
 # Original: The greater the quantity and diversity of experience, the better it is.
 Хон Лу: Чем разнообразнее получаемый опыт, тем лучше.

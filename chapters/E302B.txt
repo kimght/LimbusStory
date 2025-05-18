@@ -95,7 +95,7 @@
 Данте: <Но что, если после перевода стрелок моя голова превратится в курицу?>
 
 # Original: S.D.
-Рёшу: БР.
+Рёшу: Б.Р.
 
 # Original: Same difference?!
 Синклер: <b><i>Без разницы?!</i></b>
@@ -290,7 +290,7 @@
 Грегор: …Кажется, кто-то усмехнулся… Мне не послышалось?
 
 # Original: How droll. What does a C.F. know about cooking? You’d be better off flipping hamburger patties with your pincer.
-Рёшу: Умора. Да что ПБ знает о готовке? Этой клешнёй тебе только котлеты для бургеров ворочать.
+Рёшу: Умора. Да что П.Б знает о готовке? Этой клешнёй тебе только котлеты для бургеров ворочать.
 
 # Original: Ooh~ If Mr. Gregor opened a business, he’d be a boss with big meaty claws!
 Хон Лу: Ва-а~ Если Грегор откроет свой ресторан, он станет клешне-боссом!

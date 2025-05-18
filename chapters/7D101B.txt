@@ -209,7 +209,7 @@
 Рассказчик: ... Фауст делает шаг вперёд.
 
 # Original: Only I and Dante, who remained conscious during the events of the WARP train, were aware of this.
-Фауст: Только я и Данте, оставшиеся в сознании во время событий на WARP Поезде, знали об этом.
+Фауст: Только я и Данте, оставшиеся в сознании во время событий на ВАРП Поезде, знали об этом.
 
 # Original: What... did you say?
 Синклер: Что... ты сказала?
@@ -218,7 +218,7 @@
 Фауст: ... Это умолчание... было неизбежным. Фауст запрещено первой раскрывать прошлое Грешника.
 
 # Original: S.P.R.
-Рёшу: S.P.R.
+Рёшу: К.С.О.
 
 # Original: But it wasn't just for Don Quixote. She hid Gregor's past. Sinclair's past. She didn't talk about either of them until they were ready to talk about it themselves... or were made to.
 Измаил: Но это касалось не только Дон Кихот. Она скрывала прошлое Грегора. Прошлое Синклера. Она не говорила ни о ком из них, пока они сами не были готовы рассказать... или пока их не вынудили.
