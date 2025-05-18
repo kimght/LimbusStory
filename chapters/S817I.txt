@@ -23,7 +23,7 @@
 Отис: ...Так вот почему он так уверен в себе. Ясно.
 
 # Original: Identify your name and allegiance.
-Отис: Имя и принадлежность!
+Отис: Назови своё имя и принадлежность!
 
 # Original: Really? You think I'd just tell you all that if you asked nicely, working in this line of business? Heh heh. I have no name nor allegiance to give you, friend!
 Ночной Скиталец: Серьёзно? Думаешь, я бы вот так всё и рассказал, стоило тебе вежливо попросить, в нашем-то деле? Хе-хе. Нет у меня ни имени, ни принадлежности, чтобы тебе назвать, подруга!
