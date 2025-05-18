@@ -56,7 +56,7 @@
 Измаил: …Мы вообще об одном и том же говорим?
 
 # Original: Alack for woe! We could have merrily enjoyed our vacaciones at young Hong Lu’s residence all along?!
-Дон Кихот: О горе! Мы могли бы всё это время весело проводить наши <i>vacaciones</i> в резиденции юного Хон Лу?!
+Дон Кихот: О горе! Мы могли бы всё это время весело проводить наши <i>вакасионес</i> в резиденции юного Хон Лу?!
 
 # Original: That wouldn’t have worked, Don Quixote. When I left home, grandmother and the elders really impressed upon me that...
 Хон Лу: Это бы не сработало, Дон Кихот. Когда я уезжал из дома, бабушка и старейшины особо наказывали мне, что…
