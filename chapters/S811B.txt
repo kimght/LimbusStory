@@ -293,7 +293,7 @@
 Рассказчик: Держитесь от меня подальше!
 
 # Original: As the monsters began to swarm in, some candidates scattered and ran away, while some stood their ground and fought back. Those who did neither were the ones getting slaughtered.
-Рассказчик: Когда монстры начали наступать, некоторые кандидаты разбежались, а некоторые остались на месте и дали отпор. Тех, кто не сделал ни того, ни другого, вырезали.
+Рассказчик: Когда монстры начали наступать, некоторые кандидаты разбежались, а некоторые остались на месте и дали отпор. Тех, кто не сделал ни того, ни другого, растерзали.
 
 # Original: I was simultaneously reminded of Saude and the confident smile she flashed at me as she reassured us that we should be able to pass the first round with little to no trouble.
 Рассказчик: Я одновременно вспомнил Сод и её уверенную улыбку, которой она одарила меня, заверяя, что мы сможем пройти первый раунд практически без проблем.
