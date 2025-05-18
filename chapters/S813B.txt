@@ -35,7 +35,7 @@
 Цзя Сичунь: ...Вот болван.
 
 # Original: S.Y.N.C...
-Рёшу: S.Y.N.C...
+Рёшу: С.И.Н.Х...
 
 # Original: ...? Explain yourself. Now.
 Рёшу: ...? Объясняйся. Сейчас же.
@@ -83,7 +83,7 @@
 Хон Лу: И...
 
 # Original: ... what about you, Ryōshū?
-Хон Лу: ...а что насчёт тебя, Рёшу?
+Хон Лу: ... что насчёт тебя, Рёшу?
 
 # Original: Puff...
 Рёшу: Пф-ф...
@@ -233,7 +233,7 @@
 Дон Кихот: Истинно, я не желаю вредить моим добрым спутникам больше, чем уже навредила...
 
 # Original: It may be a stretch to say that it is fortunate, however...
-Фауст: Возможно, будет преувеличением сказать, что это удача, однако...
+Фауст: Возможно, будет преувеличением сказать, что нам повезло, однако...
 
 # Original: ... we seem to have an individual among us who may be able to carry out the task in a most painless, swift, and unburdened manner.
 Фауст: ...похоже, среди нас есть человек, способный выполнить эту задачу наиболее безболезненно, быстро и без лишних терзаний.
@@ -260,7 +260,7 @@
 Цзя Му: Вы... рассекли его мозг надвое.
 
 # Original: You have irreversibly ended this child's life; not even Life Insurance shall be able to bring him back now.
-Цзя Му: Вы безвозвратно оборвали жизнь этого дитя; даже Страхование Жизни не сможет вернуть его теперь.
+Цзя Му: Вы безвозвратно оборвали жизнь этого дитя; теперь даже Страхование Жизни не сможет вернуть его.
 
 # Original: Baoyu?!
 Цзя Чжэн: Баоюй?!
@@ -269,7 +269,7 @@
 Цзя Юаньчунь: Что ж, тогда... что вы теперь будете делать?
 
 # Original: You have no means to restore this jade of the family. For your transgressions, you will...
-Цзя Юаньчунь: У вас нет средств восстановить эту яшму Семьи. За ваши прегрешения вы...
+Цзя Юаньчунь: У вас нет средств восстановить яшму этой Семьи. За ваши прегрешения вы...
 
 # Original: Clock. Spin it.
 Рёшу: Часы. Крути.
@@ -362,10 +362,10 @@
 Хон Лу: Ах...
 
 # Original: Thank you, Ryōshū. It really didn't hurt at all. And you too, Dante.
-Хон Лу: Спасибо, Рёшу. Совсем не больно было. И тебе тоже, Данте.
+Хон Лу: Спасибо, Рёшу. Было совсем не больно. И тебе тоже, Данте.
 
 # Original: N.P.
-Рёшу: Н.П.
+Рёшу: Б.П.
 
 # Original: Grandmother, big sister Yuanchun.
 Хон Лу: Бабушка, старшая сестра Юаньчунь.
@@ -384,14 +384,14 @@
 
 # Original: <b><i>If aught be owed, a swift vengeance shall arrive in time; it is simply yet to return.</i></b>
 # (不是不报, 时候未到)
-Цзя Му: <b><i>Если нечто должно быть уплачено, скорая месть придёт вовремя; это просто ещё предстоит вернуть.</i></b>
+Цзя Му: <b><i>Если нечто должно быть уплачено, то скорая месть придёт вовремя; это просто ещё предстоит вернуть.</i></b>
 (不是不报, 时候未到)
 
 # Original: Jia Mu's quiet utterance seems to dissipate the forces that had surrounded us outside the curtains.
 Рассказчик: Тихое изречение Цзя Му, казалось, рассеяло силы, окружившие нас за занавесом.
 
 # Original: Jia Baoyu, in the first round of the Family Hierarch Evaluations...
-Цзя Му: Цзя Баоюй, в первом раунде Отборов на пост Главы Семьи...
+Цзя Му: Цзя Баоюй, в первом раунде Оценок на пост Главы Семьи...
 
 # Original: ... you pass.
 Цзя Му: ...ты проходишь.
@@ -403,7 +403,7 @@
 Рассказчик: Что это за фокусы?
 
 # Original: I thought he was off on some sightseeing tour away from Hongyuan like a jobless rich kid. When'd he even manage to find his own answer?
-Рассказчик: Я думал, он отправился в какой-то экскурсионный тур подальше от Хунъюаня, как бездельник-богатейчик. Когда он вообще успел найти свой собственный ответ?
+Рассказчик: Я думал, он отправился в какой-то экскурсионный тур подальше от Хунъюаня, как бездельник-богатей. Когда он вообще успел найти свой собственный ответ?
 
 # Original: ... Thus ends the first round.
 Цзя Чжэн: ...На этом первый раунд заканчивается.
@@ -463,7 +463,7 @@
 Данте: <...Ну, если наша последняя встреча этого не подтвердила, то теперь уж точно кажется, что они нас хорошо знают.>
 
 # Original: Have we not impressed upon you enough that you were to nicely remain within the borders? Instead, he sparks such disorder at the fringes of his perimeter.
-Цзы Гун: Разве мы недостаточно ясно дали вам понять, что вы должны были любезно оставаться в пределах границ? Вместо этого он устраивает такой беспорядок на границах своего периметра.
+Цзы Гун: Разве мы недостаточно ясно дали вам понять, что вы должны были любезно оставаться в пределах границ? Но вместо этого он устраивает такой беспорядок на границах своего периметра.
 
 # Original: I had thought that his only role in this design would be to be played as a pawn by Jia Xichun, no more...
 Цзы Гун: Я полагала, что его единственная роль в этом замысле — быть использованным как пешка Цзя Сичунь, не более...
@@ -511,7 +511,7 @@
 Цзя Цю: Ты прибыл сюда, неподготовленный, но готовый броситься в пламя лишь по той причине, что пришла твоя «очередь».
 
 # Original: If your mind hasn't changed, then it would have been wise to remain unseen and unnoticed as you were.
-Цзя Цю: Если твой разум не изменился, то было бы мудро оставаться невидимым и незамеченным, как ты и был.
+Цзя Цю: Если твой разум не изменился, то было бы мудро оставаться невидимым и незамеченным, коим ты и был.
 
 # Original: Yes, thank you for your concern.
 Хон Лу: Да, спасибо за вашу заботу.
@@ -604,13 +604,13 @@
 Грегор: Теперь мне как-то не по себе из-за этого... Мы каким-то образом всем солгали.
 
 # Original: Hey, don't beat yourself up over it. Own it instead.
-Измаил: Эй, не казни себя за это. Лучше прими это как должное.
+Измаил: Эй, не накручивай себя за это. Лучше прими это как должное.
 
 # Original: Well, if it's all the same to you, then... I wanna say that I'm so happy that you decided to take part.
 Сюэ Баочай: Ну, если тебе всё равно, тогда... я хочу сказать, что я так счастлива, что ты решил принять участие.
 
 # Original: I was... worried that you might have already left Daguanyuan, so far, far away from me again by the time I was finished with the Family Hierarch war. That would've been too bad.
-Сюэ Баочай: Я... беспокоилась, что ты, возможно, уже покинул Дагуаньюань, снова уехал далеко-далеко от меня к тому времени, как я закончу с войной за пост Главы Семьи. Это было бы очень жаль.
+Сюэ Баочай: Я... беспокоилась, что ты, возможно, уже покинул Дагуаньюань, снова уехал далеко-далеко от меня к тому времени, как я закончу с войной за пост Главы Семьи. Это было бы очень грустно.
 
 # Original: So I'm glad that we'll get to spend more time together, even as contestants.
 Сюэ Баочай: Так что я рада, что мы сможем провести больше времени вместе, даже будучи соперниками.
