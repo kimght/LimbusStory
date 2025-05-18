@@ -11,7 +11,7 @@
 Ромеро: Ого, они не так уж плохи! Мы всегда рады сотрудничеству с коллегами-Корректировщиками, которые могут постоять за себя.
 
 # Original: Hey, I recognize you. I saw you guys busily chatting away back at the WARP train platform. My name's Romero, by the way.
-Ромеро: Эй, я вас узнаю. Я видел, как вы оживлённо болтали на платформе WARP поезда. Кстати, меня зовут Ромеро.
+Ромеро: Эй, я вас узнаю. Я видел, как вы оживлённо болтали на платформе ВАРП поезда. Кстати, меня зовут Ромеро.
 
 # Original: You just sat there and watched as your men were out here fighting?
 Отис: Ты просто сидел и смотрел, как твои люди здесь дрались?

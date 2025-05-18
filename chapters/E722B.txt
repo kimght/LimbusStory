@@ -53,7 +53,7 @@
 Родион: Ночлег, значит... типа... отель?!
 
 # Original: Fuhu, it's gotta be pretty fancy then, huh? Do they serve like, complimentary snacks and drinks like the WARP train?
-Родион: Фухуху, он должен быть довольно шикарным, да? Там подают комплиментарные закуски и напитки, как в WARP Поезде?
+Родион: Фухуху, он должен быть довольно шикарным, да? Там подают комплиментарные закуски и напитки, как в ВАРП Поезде?
 
 # Original: Not sure about that, but it seems like kezhans also serve alcohol and food alongside their lodging services. Maybe we can get a meal in there.
 Измаил: Насчёт этого не уверена, но кажется, в кэчжанях предоставляют алкоголь и еду помимо услуг по размещению. Может быть, нам удастся там поесть.

@@ -19,7 +19,7 @@
 которая вошла в гибернацию одновременно со мной...
 
 # Original: ... then I realized that we woke up mid-transit on the WARP train...
-Рассказчик: ... и тогда я понял, что мы проснулись посреди поездки на WARP поезде...
+Рассказчик: ... и тогда я понял, что мы проснулись посреди поездки на ВАРП поезде...
 
 # Original: ... which could only mean that we're now stranded in some lost, unknown dimension...?
 Рассказчик: ... что могло означать только то, что мы теперь застряли в каком-то потерянном, неизвестном измерении...?
@@ -43,7 +43,7 @@
 Рассказчик: Несколько дней назад...
 
 # Original: Our next destination... is to a WARP train, Dante.
-Вергилий: Наш следующий пункт назначения... это WARP поезд, Данте.
+Вергилий: Наш следующий пункт назначения... это ВАРП поезд, Данте.
 
 # Original: <... What?>
 Данте: <... Что?>
@@ -61,19 +61,19 @@
 Вергилий: Я уверен, что ты все правильно расслышала, Дон Кихот.
 
 # Original: We are now en route to the T Corp. WARP train station.
-Вергилий: Мы сейчас направляемся к станции для WARP поездов Корпорации Т.
+Вергилий: Мы сейчас направляемся к станции для ВАРП поездов Корпорации Т.
 
 # Original: That whuh-WARP train station must have some conundrum that must be resolved there, indeed? A-a quest that must be swiftly addressed *at* the station, yes?
 Дон Кихот: На этой... эм, станции ВАРП поезда, должно быть, возникла какая-то ситуация, которую нужно разрешить, не так ли? З-задание, которое нужно будет быстро выполнить *на* станции, да?
 
 # Original: Did a Distortion pop up at one of the WARP platforms or something?
-Грегор: Может, на одной из платформ WARP'а появилось Искажение или что-то в этом роде?
+Грегор: Может, на одной из платформ ВАРПа появилось Искажение или что-то в этом роде?
 
 # Original: I see that you are now significantly less disinclined to take on some side jobs. But no.
 Вергилий: Я вижу, что теперь вы гораздо менее склонны отказываться от побочных заданий. Но нет.
 
 # Original: We are boarding the WARP train to get to P Corp., end of story. There's nothing between the lines, so don't try reading into it.
-Вергилий: Мы садимся на WARP поезд, чтобы добраться до Корпорации P, конец истории. Никакого скрытого значения между строк, так что не пытайтесь додумывать.
+Вергилий: Мы садимся на ВАРП поезд, чтобы добраться до Корпорации P, конец истории. Никакого скрытого значения между строк, так что не пытайтесь додумывать.
 
 # Original: …….
 Рассказчик: …….
@@ -88,7 +88,7 @@
 Данте: <Мы... действительно садимся на этот поезд?>
 
 # Original: ... through what vague information we could gather from the Identities, we all had some fragmentary knowledge about the terrible secrets of the WARP trains' operations.
-Рассказчик: ... благодаря той смутной информации, которую мы смогли собрать от Идентичностей, у всех нас были какие-то фрагментарные знания об ужасных секретах работы WARP поездов.
+Рассказчик: ... благодаря той смутной информации, которую мы смогли собрать от Идентичностей, у всех нас были какие-то фрагментарные знания об ужасных секретах работы ВАРП поездов.
 
 # Original: I initially considered hiding this information from the rest of the Sinners, but since sharing things with everyone and letting them get their two cents in usually ended up being pretty helpful more often than not, I've been sharing more of these as of late.
 Рассказчик: Сначала я думал скрыть эту информацию от остальных Грешников, но поскольку обмен информацией со всеми и предоставление им возможности высказать свое мнение обычно оказывались довольно полезными, в последнее время я стал чаще делиться такими вещами.
@@ -97,7 +97,7 @@
 И Сан: Хотя у меня и есть смутные, если вообще присутствующие, воспоминания о времени, когда я ношу Идентичности...
 
 # Original: Mm. It can be determined from the conversational records between the Manager and the Identities that the mechanisms behind WARP trains' operations can be deemed as somewhat bizarre and inefficient.
-Мерсо: Мм. Из записей разговоров между Менеджером и Идентичностями можно определить, что механизмы работы WARP поездов могут быть охарактеризованы как в чем-то странные и неэффективные.
+Мерсо: Мм. Из записей разговоров между Менеджером и Идентичностями можно определить, что механизмы работы ВАРП поездов могут быть охарактеризованы как в чем-то странные и неэффективные.
 
 # Original: Ohh~ Yeah! It's that 10-second trip that actually takes a long, long time~ Right? And when the train reaches the destination, they just wipe the passengers' memories?
 Хон Лу: А~ Да! Это та 10-секундная поездка, которая на самом деле длится очень, очень долго~ Так? И когда поезд прибывает в пункт назначения, они просто стирают память пассажиров?
@@ -160,7 +160,7 @@
 Вергилий: ... Мисс Фауст.
 
 # Original: The rearmost tail cars of WARP trains are all freight cars. That is where Mephistopheles will be safely fastened and transported.
-Фауст: Задние хвостовые вагоны WARP поездов - грузовые. Там Мефистофель будет надежно закреплен в процессе перевозки.
+Фауст: Задние хвостовые вагоны ВАРП поездов - грузовые. Там Мефистофель будет надежно закреплен в процессе перевозки.
 
 # Original: And the LCB will...
 Фауст: А LCB будет...
@@ -193,7 +193,7 @@
 Фауст: Это рекламный язык, да. Если быть точным, это капсулы гибернации с функцией мгновенной заморозки.
 
 # Original: They have been designed to easily withstand the 'true' amount of time it takes for the WARP train to travel from point A to point B. The trip will be over in the blink of an eye for the passengers.
-Фауст: Они были разработаны, чтобы легко выдерживать 'реальное' количество времени, необходимое для путешествия WARP поезда из точки А в точку Б. Поездка закончится для пассажиров в мгновение ока.
+Фауст: Они были разработаны, чтобы легко выдерживать 'реальное' количество времени, необходимое для путешествия ВАРП поезда из точки А в точку Б. Поездка закончится для пассажиров в мгновение ока.
 
 # Original: The company's regard for our well-being is unfamiliar yet welcome. To be provided such extravagance merely for our comfort... such occurrence is quite seldom.
 И Сан: Забота компании о нашем благополучии непривычна, но приятна. Предоставление такой роскоши просто для нашего комфорта... такое случается довольно редко.
@@ -205,10 +205,10 @@
 Отис: Хмф, выглядит как ненужная роскошь. Им следовало бы сэкономить свой бюджет и предоставить доступ к этим местам только Исполнительному Менеджеру и его верному советнику.
 
 # Original: Let's not get ahead of ourselves. We're taking the train to get to our next mission, alright? We have to think about the unique nature of WARP trains and prepare ourselves accordingly.
-Измаил: Давайте не будем забегать вперед. Мы садимся на поезд, чтобы добраться до нашей следующей миссии, так? Мы должны подумать об уникальной природе WARP поездов и подготовиться соответствующим образом.
+Измаил: Давайте не будем забегать вперед. Мы садимся на поезд, чтобы добраться до нашей следующей миссии, так? Мы должны подумать об уникальной природе ВАРП поездов и подготовиться соответствующим образом.
 
 # Original: Right...?! I know it's first class and all, but WARP trains are just plain creepy. I knew you'd also be worried about—
-Синклер: Ага... Я знаю, что это первый класс и все такое, но WARP поезда просто жуткие. Я знал, что ты тоже будешь беспокоиться насчет—
+Синклер: Ага... Я знаю, что это первый класс и все такое, но ВАРП поезда просто жуткие. Я знал, что ты тоже будешь беспокоиться насчет—
 
 # Original: For example, economy passengers are going to have a hard time getting into a first class car. If they can even attempt open it, I mean. I'm pretty sure the door separating the cars is ironclad.
 Измаил: Например, пассажирам эконом-класса будет крайне трудно попасть в вагон первого класса. Если они вообще смогут попытаться это сделать, я имею в виду. Я уверена, что разделяющая вагоны дверь непробиваемая.
@@ -226,10 +226,10 @@
 Дон Кихот: Истинное приключение не обходится без трудностей... Однако... даже самым возвышенным героям не под силу странствовать без отдыха...! И в очень редких случаях герой может даже соизволить выбрать место первого класса для отдыха вместо скромной гостиницы... Воистину, воистину...
 
 # Original: Seems like everyone was at least somewhat interested in the fabled first class seats of WARP trains.
-Рассказчик: Похоже, все были хотя бы немного заинтересованы легендарными местами первого класса WARP поездов.
+Рассказчик: Похоже, все были хотя бы немного заинтересованы легендарными местами первого класса ВАРП поездов.
 
 # Original: I could sense that there was a growing consensus among the Sinners that even a WARP train trip might be acceptable if it meant that they could ride in the first class seats.
-Рассказчик: Я чувствовал, что среди Грешников растет согласие, что даже поездка на WARP поезде может быть приемлемой, если они смогут поехать на местах первого класса.
+Рассказчик: Я чувствовал, что среди Грешников растет согласие, что даже поездка на ВАРП поезде может быть приемлемой, если они смогут поехать на местах первого класса.
 
 # Original: I will board the train if I must.
 Мерсо: Я сяду на поезд, если это необходимо.

@@ -421,7 +421,7 @@
 Рассказчик: Как жаль, что я не знал, на что подписался…
 
 # Original: ... is to a WARP Train, Dante.
-Вергилий: ...WARP поезд, Данте.
+Вергилий: ...ВАРП поезд, Данте.
 
 # Original: I didn't just clear the air... that statement alone caused a whole storm among the Sinners.
 Рассказчик: Эта тема не просто разбавила атмосферу... она породила целый шторм…

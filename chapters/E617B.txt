@@ -23,7 +23,7 @@
 Мерсо: …….
 
 # Original: Every WARP train station has been built with a general design philosophy that draws from their respective Nest's architectural idiosyncrasies. It can also be said that many critics in relevant fields praise the WARP train stations as one of the many cultural cornerstones of the City.
-Мерсо: Каждая станция WARP поезда была построена на основании общего дизайна, отражающего архитектурные особенности каждого Гнезда. Стоит также сказать, что многие критики в соответствующих областях восхваляют станции WARP поездов в качестве одного из краеугольных камней культурного пространства Города.
+Мерсо: Каждая станция ВАРП поезда была построена на основании общего дизайна, отражающего архитектурные особенности каждого Гнезда. Стоит также сказать, что многие критики в соответствующих областях восхваляют станции ВАРП поездов в качестве одного из краеугольных камней культурного пространства Города.
 
 # Original: ... I have no idea when it happened, but Heathcliff's started treating Meursault like a walking encyclopedia from time to time.
 Рассказчик: ... Я не знаю, когда это произошло, но Хитклиф стал иногда обращаться с Мерсо как с ходячей энциклопедией.
@@ -71,13 +71,13 @@
 Корректировщик с Севера: Чувак, у меня в ушах имплант расширения диапазона слышимых частот!!! Черт возьми...
 
 # Original: Now, get the hell outta my way! You're blocking the walkway like a ragtag band of hicks who's never even seen a WARP train before.
-Корректировщик с Севера: А теперь убирайтесь с дороги! Вы загораживаете проход, как банда деревенщин, никогда не видевших WARP поезда.
+Корректировщик с Севера: А теперь убирайтесь с дороги! Вы загораживаете проход, как банда деревенщин, никогда не видевших ВАРП поезда.
 
 # Original: Dammit, I take the train all the way here for an expedition, only to lose my target, and now these assholes are trying to blow out my eardrums. Great, just great. I love this.
 Корректировщик с Севера: Проклятье, я тащусь сюда на поезде для экспедиции только чтобы потерять свою цель, а теперь эти придурки пытаются взорвать мои барабанные перепонки. Отлично, просто замечательно. Я в восторге.
 
 # Original: G-guys, is it that obvious that we've never been on a WARP train before?
-Родион: Р-ребята, неужели так очевидно, что мы никогда не были в WARP поезде?
+Родион: Р-ребята, неужели так очевидно, что мы никогда не были в ВАРП поезде?
 
 # Original: And the ticket fee came straight out of my damn pocket!
 Корректировщик с Севера: И плата за билет взымается из моего гребаного кармана!
@@ -266,7 +266,7 @@
 Отис: ... Эй. Ты уверена, что в вагонах первого класса никогда не происходило аварий, так?
 
 # Original: In order to prevent cases of unnecessary anxiety and misgivings among the Sinners, the history of accidents that has occurred aboard WARP trains will not be shared.
-Фауст: Во избежание возникновения ненужного беспокойства и опасений, история аварий, произошедших на борту WARP поездов, разглашаться не будет.
+Фауст: Во избежание возникновения ненужного беспокойства и опасений, история аварий, произошедших на борту ВАРП поездов, разглашаться не будет.
 
 # Original: ... Wait, what the—
 Отис: ... Погоди, что за—
@@ -278,7 +278,7 @@
 Измаил: О, кажется, мы скоро отправляемся.
 
 # Original: This is for WARP train PW-612 bound for P Corp. Boarding period is ending soon.
-Рассказчик: Объявление для WARP поезда PW-612, направляющегося в Корпорацию P. Период посадки скоро заканчивается.
+Рассказчик: Объявление для ВАРП поезда PW-612, направляющегося в Корпорацию P. Период посадки скоро заканчивается.
 
 # Original: The Sinners, who were either leisurely enjoying their complimentary snacks or taking a look around the first class car, suddenly became a lot busier.
 Рассказчик: Грешники, которые до этого либо неторопливо наслаждались бесплатными закусками, либо осматривали вагон первого класса, внезапно засуетились.

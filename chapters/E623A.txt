@@ -38,7 +38,7 @@
 Отис: Так что сотрудники Корпорации W делают на борту поезда?
 
 # Original: <Huh, you're right... From what we found out about the WARP trains through the Identities, I can't imagine why any of them would ever willingly board this train...>
-Данте: <Хм, ты права... Судя по тому, что мы узнали о WARP поездах через Идентичности, сложно представить, что кто-то из них добровольно сел бы на этот поезд...>
+Данте: <Хм, ты права... Судя по тому, что мы узнали о ВАРП поездах через Идентичности, сложно представить, что кто-то из них добровольно сел бы на этот поезд...>
 
 # Original: You're the contract Fixers, right...? We were ordered to assist you with your contract.
 Агент по зачистке: Вы Корректировщики, нанятые по контракту, верно...? Нам приказали помочь вам с вашим заданием.

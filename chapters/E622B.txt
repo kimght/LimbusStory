@@ -59,10 +59,10 @@
 Данте: <Почему кто-то вообще станет называть кого-то "Кровосос"...?>
 
 # Original: As it has been said prior, it is impossible for passengers to disappear aboard WARP trains under normal circumstances.
-Фауст: Как уже было сказано ранее, пассажирам невозможно исчезнуть на борту WARP поездов при нормальных обстоятельствах.
+Фауст: Как уже было сказано ранее, пассажирам невозможно исчезнуть на борту ВАРП поездов при нормальных обстоятельствах.
 
 # Original: Though our reserve of intelligence regarding the WARP trains or W Corp. is vast, if incomplete, we could not find a possible exception to the above rule.
-Фауст: Хотя наш запас информации о WARP поездах или Корпорации W обширен, мы не смогли найти возможного исключения из вышеупомянутого правила.
+Фауст: Хотя наш запас информации о ВАРП поездах или Корпорации W обширен, мы не смогли найти возможного исключения из вышеупомянутого правила.
 
 # Original: Within that reserve of intelligence, however, I have discovered that inserting a previously unseen variable into the equation allows for a formulation of a new hypothesis.
 Фауст: Однако в рамках имеющегося запаса информации я обнаружила, что введение ранее невидимой переменной в уравнение позволяет сформулировать новую гипотезу.
@@ -77,7 +77,7 @@
 Измаил: Растворяются...
 
 # Original: No matter the degree of violence the passengers may indulge in, no matter how severe the damages may be, the WARP trains can revert them to their initial states at the beginning of the journey.
-Фауст: Независимо от степени насилия, в которое могут быть вовлечены пассажиры, и независимо от того, насколько серьёзными могут быть поулченные повреждения, WARP поезда могут вернуть их в то состояние, в котором они были в начале путешествия.
+Фауст: Независимо от степени насилия, в которое могут быть вовлечены пассажиры, и независимо от того, насколько серьёзными могут быть поулченные повреждения, ВАРП поезда могут вернуть их в то состояние, в котором они были в начале путешествия.
 
 # Original: Among several interpretations of the word 'violence' involves cannibalization, of course.
 Фауст: В данном случае в многозначное слово "насилие", конечно, включается и каннибализм.

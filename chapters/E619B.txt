@@ -74,7 +74,7 @@
 Фауст: И... что касается Грешников...
 
 # Original: ... the fact that we are currently confined to a WARP train in operation must be a source of enough stress. I believe that sharing Faust's current state with them would add an unnecessary source of tension.
-Фауст: ... тот факт, что мы в сейчас заперты в действующем WARP поезде, и без того дает достаточно стресса. Я думаю, что разъяснение текущего состояния Фауст только создало бы ненужный источник напряжения.
+Фауст: ... тот факт, что мы в сейчас заперты в действующем ВАРП поезде, и без того дает достаточно стресса. Я думаю, что разъяснение текущего состояния Фауст только создало бы ненужный источник напряжения.
 
 # Original: <Hm...>
 Данте: <Хм...>
