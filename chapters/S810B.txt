@@ -41,7 +41,7 @@
 Рассказчик: Занавес раздвинулся, и на платформу вышла пожилая женщина, которую мы видели на вчерашнем банкете.
 
 # Original: Many scores ago, I ascended to the seat of Jia Mu with a stroke of fortune. Yet, a lifetime has passed since I assumed this great responsibility; such as it is, I seek to abdicate and walk the path of mountains and streams as a river does.
-Цзя Му: Много десятков лет назад, по счастливой случайности, я взошла на место, как Цзя Му. Однако прошла целая жизнь с тех пор, как я приняла на себя эту великую ответственность; посему я стремлюсь отречься от престола и последовать путём гор и ручьёв, подобно реке.
+Цзя Му: Много десятков лет назад, по счастливой случайности, я взошла на место Цзя Му. Однако прошла целая жизнь с тех пор, как я приняла на себя эту великую ответственность; посему я стремлюсь отречься от престола и последовать путём гор и ручьёв, подобно реке.
 
 # Original: With the seat voided, the responsibility seeks the one with the qualities of the Family Hierarch to fill it.
 Цзя Му: С освобождением этого места, эта ответственность ищет того, кто обладает качествами Главы Семьи, дабы занять его.
