@@ -140,7 +140,7 @@
 Данте: <Что наследники приготовили, значит... Должно быть, это то, о чём всё время говорила Цзя Сичунь...>
 
 # Original: Yes. To be free from aging and death—immortality.
-Фауст: Да. Освобождение от старости и смерти — бессмертие.
+Фауст: Да. Освобождение от старения и смерти — бессмертие.
 
 # Original: Each candidate is to present an answer before the judge to demonstrate their idea of true immortality.
 Фауст: Каждый кандидат должен представить свой ответ судье, чтобы продемонстрировать своё понимание истинного бессмертия.
