@@ -101,13 +101,13 @@
 Рёшу: Для детей историй нет. Пшла.
 
 # Original: Why? But I loooove stories about bloodshed!
-Сюэ Баочай: Почему? Но я обожа-а-аю истории о кровавой бойне!
+Сюэ Баочай: Почему? Но я обожа-а-аю истории о кровопролитии!
 
 # Original: Ah, one of big sister Baochai’s pastimes was curating creepy stories of urban legends.
 Хон Лу: Ах, одним из увлечений старшей сестры Баочай было коллекционирование жутких городских легенд.
 
 # Original: Puff… then maybe I’ll share some.
-Рёшу: Пф… тогда, может, поделюсь некоторыми.
+Рёшу: Пф… тогда, может, расскажу парочку.
 
 # Original: Wah~ What about everyone else? I love, love, love adventure stories.
 Сюэ Баочай: Ух ты~ А остальные? Я люблю, люблю, люблю истории о приключениях.
@@ -245,7 +245,7 @@
 Рассказчик: С этими словами она грациозно вышла из комнаты.
 
 # Original: Well, how about we also start heading back? This place can get pretty dark around Hai hour(亥時).
-Хон Лу: Что ж, может, мы тоже отправимся назад? Здесь становится довольно темно к часу Хай (亥時).
+Хон Лу: Что ж, может, и нам тоже отправиться назад? Здесь становится довольно темно к часу Хай (亥時).
 
 # Original: You... why'd you leave...?
 Хитклиф: Ты... почему ты ушёл...?
