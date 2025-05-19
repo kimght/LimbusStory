@@ -2,7 +2,7 @@
 Рассказчик: <i><color=#5bffde>Цветы увядают, лепестки летят, дождь из соцветий застилает небосвод;</i></color>
 
 # Original: <i><color=#5bffde>Colors fade, fragrance dies—but who shall mourn their passing?</i></color>
-Рассказчик: <i><color=#5bffde>Краски поблекли, аромат угас — но кто будет оплакивать их уход?</i></color>
+Рассказчик: <i><color=#5bffde>Краски поблекли, аромат угас — но кто оплачет их уход?</i></color>
 
 # Original: <i><color=#5bffde>To the garden I go, in hand a flower-rake,</i></color>
 Рассказчик: <i><color=#5bffde>В сад иду я, цветочные грабли в руке,</i></color>
