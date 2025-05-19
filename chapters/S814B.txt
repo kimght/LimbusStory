@@ -50,7 +50,7 @@
 Сижэнь: Мм, тогда он вернётся через сто ночей сна. Проспите десять ночей, десять раз, вот и будет сто ночей.
 
 # Original: Woah, that's so cool~ Xiren, you’re so smart!
-Цзя Баоюй: Ух ты, так здорово! Сижэнь, ты такая умная!
+Цзя Баоюй: Ух ты, так здорово~ Сижэнь, ты такая умная!
 
 # Original: Aw, it’s nothing. It’s something we all learn growing up.
 Сижэнь: Ох, это пустяки. Этому все учатся, когда растут.
@@ -83,7 +83,7 @@
 Цзя Баоюй: Понимаю.
 
 # Original: You’re smart as always, Xiren.
-Цзя Баоюй: Ты как всегда умная, Сижэнь.
+Цзя Баоюй: Ты как всегда умна, Сижэнь.
 
 # Original: Young master. It's been years, but young master Jia Ling's body is still decaying.
 Сижэнь: Молодой господин. Прошли годы, но тело молодого господина Цзя Лина всё ещё разлагается.
@@ -95,10 +95,10 @@
 Цзя Баоюй: …….
 
 # Original: … Even after he was fed the Boluses I’d sent him...?
-Цзя Баоюй: …Даже после того, как ему дали пилюли, которые я посылал?..
+Цзя Баоюй: …Даже после того, как ему дали Болюсы, которые я посылал?..
 
 # Original: I was told to relay that your Boluses were useless, young master.
-Сижэнь: Мне велели передать, что ваши пилюли были бесполезны, молодой господин.
+Сижэнь: Мне велели передать, что ваши Болюсы были бесполезны, молодой господин.
 
 # Original: The decay reached his brain, and I overheard the other servants gossip that it is impossible to recover from such a wound.
 Сижэнь: Разложение достигло его мозга, и я подслушала, как другие слуги сплетничали, что от такой раны невозможно оправиться.
@@ -287,7 +287,7 @@
 Цзя Сичунь: Скоро будет ночь, знаешь ли.
 
 # Original: And your room's always been so dark because you barely let so much as a ray of moonlight in.
-Цзя Сичунь: А твоя комната всегда была такой тёмной, потому что ты почти не пропускал внутрь даже лунный луч.
+Цзя Сичунь: А твоя комната всегда была такой тёмной, потому что ты почти не пропускал внутрь даже свет луны.
 
 # Original: Seems like she's warning us that we'll be visited by some... uninvited guests soon.
 Отис: Похоже, она предупреждает нас, что скоро нас посетят некие... незваные гости.
@@ -350,7 +350,7 @@
 И Сан: Я не желаю когда-либо причинять им вред, ни чтобы они, в свою очередь, причинили вред нам.
 
 # Original: Well, when's anything ever gone as we wished, eh...?
-Хитклиф: Ну, когда хоть что-нибудь шло так, как мы хотели, а?..
+Хитклиф: Ну, когда-нибудь хоть что-то шло так, как мы хотели, а?..
 
 # Original: But Heathcliff sounded just as uneasy.
 Рассказчик: Но Хитклиф звучал так же встревоженно.

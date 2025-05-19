@@ -377,13 +377,13 @@
 Грегор: Да ладно... Как мы туда доберёмся, если вы не скажете, где это?
 
 # Original: Inaccessible via Mephistopheles... You're not about to suggest that we board the WARP trains again, are you?
-Отис: Недоступно для Мефистофеля... Вы же не собираетесь предложить нам снова сесть на WARP поезда?
+Отис: Недоступно для Мефистофеля... Вы же не собираетесь предложить нам снова сесть на ВАРП поезда?
 
 # Original: Fie, I shan't ever board the WARP trains again…
-Дон Кихот: Нет, я более не сяду на WARP поезда...
+Дон Кихот: Нет, я более не сяду на ВАРП поезда...
 
 # Original: Indeed. We will not be boarding a WARP train for this journey.
-Фауст: Действительно. Мы не будем садиться на WARP поезд для этого путешествия.
+Фауст: Действительно. Мы не будем садиться на ВАРП поезд для этого путешествия.
 
 # Original: Hmm, so are we… taking the Backdoors or something?
 Измаил: Хмм, так мы что... воспользуемся Чёрными Ходами?

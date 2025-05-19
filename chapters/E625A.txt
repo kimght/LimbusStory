@@ -11,7 +11,7 @@
 Синклер: Хаах... это... я не знаю, сможем ли мы...
 
 # Original: The mental fatigue finally got to Gregor and Sinclair, who collapsed to the ground. The strange environment of WARP trains was proving to be a significant help to the Bloodfiend's regenerative ability.
-Рассказчик: Умственное истощение наконец настигло Грегора и Синклера и они рухнули на землю. Странная среда WARP Поездов оказалась существенной помощью для регенеративной способности Кровожада.
+Рассказчик: Умственное истощение наконец настигло Грегора и Синклера и они рухнули на землю. Странная среда ВАРП Поездов оказалась существенной помощью для регенеративной способности Кровожада.
 
 # Original: This fight's been dragging on even longer than our battles at the K Corp. border checkpoint or the basement of Wuthering Heights. I knew that the Sinners had all grown stronger since then, but I felt as though I stood before an impenetrable wall.
 Рассказчик: Эта битва затянулась даже дольше, чем наши сражения на пропускном пункте Корпорации K или в подвале Грозового Перевала. Я знал, что Грешники с тех пор стали сильнее, и все равно теперь чувствовал, будто мы стоим перед непреодолимой стеной.

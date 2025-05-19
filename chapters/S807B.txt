@@ -5,7 +5,7 @@
 И Сан: Странно, что они стали расспрашивать Хон Лу о его планах на отъезд прямо на банкете в честь его возвращения.
 
 # Original: Right…? One moment it appears like they really care about him, then…
-Измаил: Верно?.. То кажется, будто они и вправду о нём заботятся, то…
+Измаил: Верно...? В один момент кажется, будто они и вправду о нём заботятся, а в другой…
 
 # Original: The appearance of that 'care' for one's own child was also quite distinct and unusual compared to the typical display of emotional intimacy expressed in average households.
 Мерсо: Проявление этой «заботы» о собственном ребёнке также было весьма своеобразным и необычным в сравнении с типичным проявлением эмоциональной близости, выражаемым в обычных семьях.
@@ -23,7 +23,7 @@
 Хон Лу: А-а, старшая сестра Сюэ Баочай. Сколько лет, сколько зим.
 
 # Original: You’ve come all the way to my welcome banquet to fill a seat? I appreciate that.
-Хон Лу: Ты пришла на мой приветственный банкет, просто чтобы занять место? Я ценю это.
+Хон Лу: Ты прошла такой путь на мой приветственный банкет, чтобы занять место? Я ценю это.
 
 # Original: Had I known that you’d be coming home today, Baoyu, I would’ve summoned everyone I could from Xue family to see you, too. Big bro Pan’s really been itching to know how you’ve been doing.
 Сюэ Баочай: Если бы я знала, что ты сегодня вернёшься домой, Баоюй, я бы созвала всех, кого только можно из семьи Сюэ, чтобы они тоже тебя увидели. Старшему брату Паню очень не терпится узнать, как у тебя дела.
@@ -50,13 +50,13 @@
 Сюэ Баочай: Твой нефрит всегда такой сияющий и чистый, Баоюй.
 
 # Original: Look, I made myself a necklace in the same color as your eye and wore it every single day to constantly remind myself of you. Well, do you see it?
-Сюэ Баочай: Смотри, я сделала себе ожерелье цвета твоего глаза и носила его каждый божий день, чтобы постоянно помнить о тебе. Ну, видишь?
+Сюэ Баочай: Смотри, я сделала себе ожерелье цвета твоего глаза и носила его каждый божий день, чтобы постоянно помнить о тебе. Ну как, видишь?
 
 # Original: Oh, you have. Thank you for remembering me.
 Хон Лу: О, и вправду. Спасибо, что помнила обо мне.
 
 # Original: Ahem, ahem. So… are you gonna introduce her to us, orrrr…?
-Родион: Кхм-кхм. Так… ты собираешься её нам представить, или-и-и?..
+Родион: Кхм-кхм. Так… ты собираешься её нам представить, или-и-и...?
 
 # Original: Hey… Why couldn’t we just let that nice reunion play out? Man…
 Грегор: Эх… Почему нельзя было просто дать этой милой встрече спокойно состояться? М-да…
@@ -107,7 +107,7 @@
 Хон Лу: Ах, одним из увлечений старшей сестры Баочай было коллекционирование жутких городских легенд.
 
 # Original: Puff… then maybe I’ll share some.
-Рёшу: Пф… тогда, может, поделюсь.
+Рёшу: Пф… тогда, может, расскажу парочку.
 
 # Original: Wah~ What about everyone else? I love, love, love adventure stories.
 Сюэ Баочай: Ух ты~ А остальные? Я люблю, люблю, люблю истории о приключениях.
@@ -245,7 +245,7 @@
 Рассказчик: С этими словами она грациозно вышла из комнаты.
 
 # Original: Well, how about we also start heading back? This place can get pretty dark around Hai hour(亥時).
-Хон Лу: Что ж, может, и нам тоже отправимся назад? Здесь становится довольно темно к часу Хай (亥時).
+Хон Лу: Что ж, может, и нам тоже отправиться назад? Здесь становится довольно темно к часу Хай (亥時).
 
 # Original: You... why'd you leave...?
 Хитклиф: Ты... почему ты ушёл...?

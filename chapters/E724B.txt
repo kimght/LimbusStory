@@ -233,7 +233,7 @@
 Синклер: А? Ч-что? Я неправильно понял?
 
 # Original: I never said G.N.S.... When did you get a F.U.?
-Рёшу: Я не говорила С.Н.С.... Когда ты получил F.U.?
+Рёшу: Я не говорила С.Н.С.... Когда ты получил У.Ф.?
 
 # Original: Ryōshū looked at Sinclair with some interest before slicing open the ceiling above the entrance.
 Рассказчик: Рёшу с интересом посмотрела на Синклера, прежде чем разрезать потолок над входом.

@@ -5,7 +5,7 @@
 Рассказчик: Ребята на лодочной станции копили деньги на поездку обратно в Подворотни Корпорации V, где раньше находился их офис Корректировщиков.
 
 # Original: After experiencing a WARP train malfunction, they apparently decided they'd rather take the car.
-Рассказчик: После того, как они столкнулись с неисправностью WARP Поезда, они, видимо, решили, что лучше поедут на машине.
+Рассказчик: После того, как они столкнулись с неисправностью ВАРП Поезда, они, видимо, решили, что лучше поедут на машине.
 
 # Original: ...I considered telling them the truth I learned from a number of Identities, but I figured ignorance is bliss and kept my figurative mouth shut.
 Рассказчик: ...Я подумывал рассказать им правду, которую узнал от нескольких Идентичностей, но решил, что в неведении счастье, и держал свой фигуральный рот на замке.

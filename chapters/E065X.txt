@@ -68,7 +68,7 @@
 Рассказчик: Брови Фауст хмурились практически незаметно; она вздыхала, даже передавая нам эту информацию, явно встревоженная чем-то.
 
 # Original: ... I suddenly recalled what Faust speculated back at the WARP train: that the Gesellschaft may have made a purposeful omission.
-Рассказчик: ...Я вдруг вспомнил, что Фауст предположила еще в WARP поезде: что Гезельшафт мог намеренно утаить информацию.
+Рассказчик: ...Я вдруг вспомнил, что Фауст предположила еще в ВАРП поезде: что Гезельшафт мог намеренно утаить информацию.
 
 # Original: <You think this is the Gesellschaft withholding information from you again?>
 Данте: <Думаешь, это Гезельшафт снова скрыл от тебя информацию?>
@@ -146,7 +146,7 @@
 Ход: Ты там, в вестибюле... Ты ведь дремал во время наших учений, не так ли?
 
 # Original: I'm pretty sure I explained that in outlier cases like these, we'll be firing Physical Intervention Shield bullets we share with the middle layer...
-Ход: Я уверена, что объясняла, что в подобных нестандартных случаях мы будем стрелять пулями Физической Защиты, которыми мы делим со средним уровнем.
+Ход: Я уверена, что объясняла, что в подобных нестандартных случаях мы будем стрелять пулями Физической Защиты, которые мы делим со средним уровнем.
 
 # Original: So why are you acting all surprised like you've never been shot before...? Haah...
 Ход: Так почему ты так удивляешься, будто в тебя никогда раньше не стреляли...? Хаах...

@@ -131,7 +131,7 @@
 Фауст: В правила Ханы и Ассоциации Девять были добавлены несколько положений для предотвращения случаев попадания людей в размерные контейнеры.
 
 # Original: From a certain perspective, it may be said that the WARP technology employed by W Corp. shares a degree of similitude.
-И Сан: С определённой точки зрения можно сказать, что технология WARP, используемая Корпорацией W, имеет некоторое сходство.
+И Сан: С определённой точки зрения можно сказать, что технология ВАРП, используемая Корпорацией W, имеет некоторое сходство.
 
 # Original: The parallel lies in the fact that it also transports humans to a different dimension, the difference being that they are ‘packaged’ in a safer manner.
 И Сан: Параллель заключается в том, что она также переносит людей в другое измерение, разница лишь в том, что они "упаковываются" более безопасным способом.

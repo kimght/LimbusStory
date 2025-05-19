@@ -26,7 +26,7 @@
 Хитклиф: Помрём, воскреснем, попробуем снова и в конце концов измотаем её.
 
 # Original: D.R.D.R. strategy against this one is meaningless.
-Рёшу: С.В.С.В. стратегия тут бесполезна.
+Рёшу: П.В.П.В. стратегия тут бесполезна.
 
 # Original: ... Even her regeneration is incomparably faster than the one we met aboard the train. We will not win this battle by attrition.
 Отис: ... Даже её регенерация несравнимо быстрее, чем у того, с которым мы встретились в поезде. Мы не победим в этой битве измором.

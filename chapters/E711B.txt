@@ -176,7 +176,7 @@
 Рассказчик: Мы с Грешниками все изрядно нервничали, но никто из нас не шагнул вперёд, чтобы остановить этот эксперимент.
 
 # Original: Why didn't we stop this? Was it because we thought we knew removing Rocinante doesn't necessarily mean that she'll be losing control, because we saw its effects on the WARP train and at La Manchaland?
-Рассказчик: Почему мы не остановили это? Может, потому что думали, будто знаем, что снятие Росинанта не обязательно означает потерю контроля, ведь мы видели его эффекты в WARP Поезде и в Ла-Манчалэнде?
+Рассказчик: Почему мы не остановили это? Может, потому что думали, будто знаем, что снятие Росинанта не обязательно означает потерю контроля, ведь мы видели его эффекты в ВАРП Поезде и в Ла-Манчалэнде?
 
 # Original: Or was it because we assumed that Rocinante was now just a disguise, and now that Don Quixote has accepted her past as Sancho, removing it wouldn't affect her psyche at all?
 Рассказчик: Или потому что предположили, что Росинант теперь просто маскировка, и теперь, когда Дон Кихот приняла своё прошлое как Санчо, его снятие никак не повлияет на её психику?

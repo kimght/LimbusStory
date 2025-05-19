@@ -129,7 +129,7 @@
 Потрошитель Времени: Мы в ловушку попали, олухи! Вы ещё не врубились?
 
 # Original: Detectives. A.O.T.S.
-Рёшу: ПОН.
+Рёшу: П.О.Н.
 
 # Original: <Phew... that's a relief. Had me worried for a moment there...>
 Данте: <Фух… как камень с души…>

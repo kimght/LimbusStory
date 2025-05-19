@@ -2,7 +2,7 @@
 Рассказчик: <i><color=#5bffde>Цветы увядают, лепестки летят, дождь из соцветий застилает небосвод;</i></color>
 
 # Original: <i><color=#5bffde>Colors fade, fragrance dies—but who shall mourn their passing?</i></color>
-Рассказчик: <i><color=#5bffde>Краски блекнут, аромат угас — но кто оплачет их уход?</i></color>
+Рассказчик: <i><color=#5bffde>Краски поблекли, аромат угас — но кто оплачет их уход?</i></color>
 
 # Original: <i><color=#5bffde>To the garden I go, in hand a flower-rake,</i></color>
 Рассказчик: <i><color=#5bffde>В сад иду я, цветочные грабли в руке,</i></color>
@@ -11,10 +11,10 @@
 Рассказчик: <i><color=#5bffde>Лишь ступаю неспешно, дабы не смять рассыпанные лепестки.</i></color>
 
 # Original: <i><color=#5bffde>Thus, in this troubled world I breathe,</i></color>
-Рассказчик: <i><color=#5bffde>Так, в этом беспокойном мире я дышу,</i></color>
+Рассказчик: <i><color=#5bffde>Так, в этом беспокойном мире могу я дышать,</i></color>
 
 # Original: <i><color=#5bffde>To shut my eyes</i></color>
-Рассказчик: <i><color=#5bffde>Закрыть глаза —</i></color>
+Рассказчик: <i><color=#5bffde>Закрывать глаза —</i></color>
 
 # Original: <i><color=#5bffde>Is my sole reprieve.</i></color>
 Рассказчик: <i><color=#5bffde>Моя единственная отрада.</i></color>
@@ -44,7 +44,7 @@
 Госпожа Ван: Итак… Баоюй, мальчик мой. Когда ты познакомишь меня со своими новыми друзьями?
 
 # Original: … Oh, boy. I never know how to act in front of others' parents… Where should I look? Is… this an appropriate size for a polite smile? I hope I don’t come off too smarmy—
-Грегор: …Ох, парень. Никогда не знаю, как вести себя перед чужими родителями… Куда смотреть? Э-это… подходящий размер для вежливой улыбки? Надеюсь, я не выгляжу слишком угодливо—
+Грегор: …Ох, боже. Никогда не знал, как вести себя перед чужими родителями… Куда я должен смотреть? Э-это… подходящий размер для вежливой улыбки? Надеюсь, я не выгляжу слишком угодливо—
 
 # Original: Ha ha, it's nothing to fuss over. Think of this as your own place, and enjoy your time here~
 Хон Лу: Ха-ха, не о чем беспокоиться. Чувствуйте себя как дома и наслаждайтесь пребыванием здесь~
@@ -110,7 +110,7 @@
 Цзя Му: Именно так.
 
 # Original: Dear Baoyu, our peerless treasure, tarry not overlong in this mundane world; leave when the time is right, and fulfill your worth.
-Цзя Му: Дорогой Баоюй, наше несравненное сокровище, не задерживайся слишком долго в этом бренном мире; уезжай, когда придёт время, и исполни своё предназначение.
+Цзя Му: Дорогой Баоюй, наше несравненное сокровище, не задерживайся надолго в этом бренном мире; уезжай, когда придёт время, и исполни своё предназначение.
 
 # Original: …….
 Хон Лу: …….
@@ -149,7 +149,7 @@
 Грегор: О-о! Да, Сод! Нам дадут паланкин или как его там, чтобы довезти нас до самого о-особняка?!
 
 # Original: The usual comedy pair’s desperate efforts to lighten the mood are particularly appreciated today, as tragically ineffective as they seem to be.
-Рассказчик: Отчаянные попытки обычной комедийной парочки разрядить обстановку сегодня особенно ценны, сколь бы трагически неэффективными они ни казались.
+Рассказчик: Отчаянные попытки нашей обычной комедийной парочки разрядить обстановку сегодня особенно ценны, сколь бы трагически неэффективными они ни казались.
 
 # Original: Yes. The LCB and Jia Xichun will be heading to <ruby=Grand View Garden>Daguanyuan</ruby> where one of the most prominent families of H Corp. reside.
 Сод: Да. LCB и Цзя Сичунь направятся в <ruby=Сад c Великолепным Видом>Дагуаньюань</ruby>, где проживает одна из самых влиятельных семей Корпорации H.
@@ -239,7 +239,7 @@
 Хон Лу: Я тоже вырос, слушая те бесчисленные рассказы о Войне за пост Главы Семьи, точно так же, как и ты.
 
 # Original: So the weight we’re feeling must be the same.
-Хон Лу: Так что тяжесть, которую мы ощущаем, должна быть одинаковой.
+Хон Лу: Так что ноша, которую мы ощущаем, должна быть одинаковой.
 
 # Original: …….
 Цзя Сичунь: …….
@@ -302,7 +302,7 @@
 Хон Лу: Мм... моё участие в Войне за пост Главы Семьи уже решено. Если тебе всё ещё интересно знать почему, то...
 
 # Original: Xichun, do you believe that my choices carry any significant meaning?
-Хон Лу: Сичунь, ты веришь, что мой выбор имеет какое-либо существенное значение?
+Хон Лу: Сичунь, веришь ли ты, что мой выбор имеет какое-либо существенное значение?
 
 # Original: … Oh, I see what's up. This crap again.
 Цзя Сичунь: …А, понятно, в чём дело. Опять эта чушь.
@@ -311,7 +311,7 @@
 Цзя Сичунь: Значит, ты уже знаешь, что означает участие в войне, но просто *понятия не имеешь*, почему я вообще тебя о таком спрашиваю, да?
 
 # Original: Fine, looks like I don't even need to hear your reply. There’s no point in trying with you anymore.
-Цзя Сичунь: Ладно, похоже, мне даже не нужно слышать твой ответ. С тобой больше нет смысла пытаться.
+Цзя Сичунь: Ладно, похоже, мне даже не нужно слышать твой ответ. С тобой больше нет смысла даже пытаться.
 
 # Original: At least I’ll have fun watching how far you get with that shallow, meaningless attitude of yours.
 Цзя Сичунь: По крайней мере, я повеселюсь, наблюдая, как далеко ты зайдёшь с этим своим поверхностным, бессмысленным отношением.
@@ -326,7 +326,7 @@
 Пилот: Уоа! Менеджер Сод! Замечен паланкин, движущийся в эту сторону!
 
 # Original: Ugh… I’d like to chill a bit today, yesterday was too tough. Let’s head on over so we can at least relax on the way there—
-Родион: Уф… Я бы хотела сегодня немного расслабиться, вчера было слишком тяжело. Давайте пойдём, чтобы хотя бы в пути отдохнуть—
+Родион: Уф… Я бы хотела сегодня немного расслабиться, вчерашний день был слишком тяжел. Давайте поторопимся, чтобы хотя бы в пути отдох— 
 
 # Original: Nope, we’re taking this one.
 Цзя Сичунь: Нет, этот мы забираем.
@@ -344,7 +344,7 @@
 Рассказчик: Цзя Сичунь криво усмехнулась нам, прежде чем уйти. Вэй молча последовал за ней.
 
 # Original: Boy… and I thought we were finally making some friends out here.
-Грегор: Парень… а я-то думал, мы наконец-то начали здесь заводить друзей.
+Грегор: Боже… а я-то думал, мы наконец-то начали здесь заводить друзей.
 
 # Original: Look! Over there, there's a group waiting for a palanquin! One of ‘em must be the candidate the client told us about!
 Незнакомец: Смотрите! Вон там группа ждёт паланкин! Один из них должен быть кандидатом, о котором нам говорил клиент!
@@ -353,7 +353,7 @@
 Синклер: В-все, к нам приближается группа враждебно настроенных людей...
 
 # Original: Shi Yihua is unlikely to be the only one who's going after the other candidates… Executive Manager, we best take care of them before the next palanquin arrives.
-Отис: Ши Ихуа вряд ли единственный, кто охотится за другими кандидатами… Старший менеджер, нам лучше разобраться с ними до прибытия следующего паланкина.
+Отис: Ши Ихуа вряд ли единственный, кто охотится за другими кандидатами… Исполнительный менеджер, нам лучше разобраться с ними до прибытия следующего паланкина.
 
 # Original: <… Yeah. What can we do, right?>
 Данте: <…Да уж. Что тут поделаешь, верно?>

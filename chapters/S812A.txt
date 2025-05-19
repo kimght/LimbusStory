@@ -26,7 +26,7 @@
 Сюэ Пань: Что скажете, судьи?!
 
 # Original: I present before you not only the clue to immortality, but also a treasure that brings ruin to those who would dare to deceive you! Here is my answer to the perennial question!
-Сюэ Пань: Я представляю вам не только ключ к бессмертию, но и сокровище, что несёт гибель тем, кто посмеет вас обмануть! Вот мой ответ на вечный вопрос!
+Сюэ Пань: Я представляю вам не только ключ к бессмертию, но и сокровище, что несёт гибель тем, кто посмеет вас обмануть! Вот мой ответ на извечный вопрос!
 
 # Original: ... So you have brought us the clay of the jar.
 Цзя Му: ...Значит, ты принёс нам глину из кувшина.
@@ -128,16 +128,16 @@
 Фауст: Настоятельно рекомендуется не говорить ему ни слова.
 
 # Original: That's right, ya shrimps. Ya gotta first wrack them teensy' brains o' yours, gotta think real hard 'bout whether you even come close to my rank before runnin' ya mouths, ya hear?
-Лэй Хэн: Точно так, мелочь пузатая. Сперва напрягите свои крохотные мозгляшки, хорошенько подумайте, дотягиваете ли вы вообще до моего уровня, прежде чем пасти раззявливать, поняли?
+Лэй Хэн: Так точно, мелочь пузатая. Сперва напрягите свои крохотные мозгляшки, хорошенько подумайте, дотягиваете ли вы вообще до моего уровня, прежде чем пасти раззявливать, поняли?
 
 # Original: That shithead, Lei Heng... he's a Finger.
-Рёшу: Этот дерьмоголовый, Лэй Хэн... он Палец.
+Рёшу: Этот говнюк, Лэй Хэн... он Палец.
 
 # Original: The Thumb is a Syndicate with the strictest adherence to rigid hierarchical structure even among the Fingers.
 Фауст: Большой Палец — это Синдикат, который даже среди Пальцев придерживается самой строгой иерархической структуры.
 
 # Original: And his placement in the hierarchy is the highest even among their Capos—his rank is immediately beneath the position of a Sottocapo, or underboss.
-Фауст: И его положение в иерархии — высшее даже среди их Капо, его ранг сразу под Соттокапо, или младшим боссом.
+Фауст: И его положение в иерархии — высшее даже среди их Капо, его ранг сразу под Соттокапо, или же младшим боссом.
 
 # Original: A small mistake could drag us into a battle we do not want to fight. Please order everyone to not say a word, Dante.
 Фауст: Малейшая ошибка может втянуть нас в битву, которой мы не желаем. Пожалуйста, прикажите всем молчать, Данте.
@@ -176,13 +176,13 @@
 Рассказчик: Молодой господин какого-то престижного дома протянул правую руку, хотя было ясно, что он до смерти напуган. Лэй Хэн схватил его руку и отломил её от предплечья, словно прутик.
 
 # Original: I went easy on ya, boy. Seein' a friendly face put me in a good mood.
-Лэй Хэн: Я с тобой по-лёгкому, пацан. Увидел знакомое лицо — настроение поднялось.
+Лэй Хэн: Я обошелся с тобой помягче, пацан. Увидел знакомое лицо — аж настроение поднялось.
 
 # Original: Anyhoo... I don't reckon ya miss the Spider's House? Eh, can't imagine why anybody would. Gives me the heebie-jeebies too, whenever I gotta swing by.
 Лэй Хэн: Короче... Не думаю, что ты скучаешь по Дому Паука? А? Да и с чего бы кому-то по нему скучать. У меня самого мурашки по коже, как только приходится туда заглядывать.
 
 # Original: We got some catchin' up to do later. I'll teach ya how to hold your sword real good right like back when.
-Лэй Хэн: Нам надо будет попозже кой-о чём перетереть. Я научу тебя, как правильно меч держать, как в старые добрые времена.
+Лэй Хэн: Нам надо будет попозже кой-о чём перетереть. Я научу тебя, как правильно меч держать, как в старые добрые.
 
 # Original: Weren't mine the best out of 'em all? I thought I taught ya how to make every cut real fuckin' delicious.
 Лэй Хэн: Разве мои уроки не были лучшими из всех? Я думал, я научил тебя, как делать каждый удар чертовски смачным.
@@ -194,7 +194,7 @@
 Рассказчик: Фауст прошептала Рёшу низким голосом, не поднимая головы.
 
 # Original: Shut up for a damn second...
-Рёшу: Заткнись на чёртову секунду...
+Рёшу: Заткнись хоть на секунду...
 
 # Original: Faust trusts that you still remember the promise made prior to your employment.
 Фауст: Фауст верит, что вы всё ещё помните обещание, данное перед вашим наймом.
@@ -245,7 +245,7 @@
 Данте: <Он ведь здесь из-за войны за пост Главы Семьи, да?>
 
 # Original: The outcome of the Family Hierarch Evaluation determines the immediately foreseeable future of H Corp., which brings parties of varying, possibly clashing interests here.
-Фауст: Исход Отборов кандидатов на пост Главы Семьи определяет ближайшее обозримое будущее Корпорации H, что привлекает сюда стороны с различными, возможно, противоречащими интересами.
+Фауст: Исход Оценок кандидатов на пост Главы Семьи определяет ближайшее обозримое будущее Корпорации H, что привлекает сюда стороны с различными, возможно, противоречащими интересами.
 
 # Original: Hey, Heathcliff. Noticed you didn't rush ahead this time. I was worried it was going to be like the time with the Middle.
 Измаил: Эй, Хитклиф. Заметила, ты в этот раз не полез на рожон. Я уж боялась, будет как тогда со Средним Пальцем.
@@ -311,7 +311,7 @@
 Синклер: Да, они оба постоянно оглядываются, будто нервничают...
 
 # Original: They... are...
-Фауст: Они... это...
+Фауст: Они... являются...
 
 # Original: Faust believes that they are survivors of the Library.
 Фауст: Фауст полагает, что они — выжившие из Библиотеки.
@@ -371,4 +371,4 @@
 Хон Лу: Вы пропустили меня.
 
 # Original: Jia Baoyu, of the Jia family, will partake in the Family Hierarch Evaluations.
-Хон Лу: Цзя Баоюй из семьи Цзя примет участие в Отборах на пост Главы Семьи.
+Хон Лу: Цзя Баоюй из семьи Цзя примет участие в Оценках на пост Главы Семьи.
