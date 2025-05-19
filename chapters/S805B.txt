@@ -107,7 +107,7 @@
 Хон Лу: Синклер, ты изо всех сил старался сдержать подступающие слёзы, снова и снова.
 
 # Original: Yi Sang, you shut your eyes for a long, long time.
-Хон Лу: И Сан, ты закрывал свои глаза очень долгое-долгое время.
+Хон Лу: И Сан, ты на долгое-долгое время закрывал глаза.
 
 # Original: Ishmael, you couldn’t stop talking to yourself while glaring down at the lake’s surface.
 Хон Лу: Измаил, ты не переставала бормотать себе под нос, глядя на водную гладь озера.
