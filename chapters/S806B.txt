@@ -557,7 +557,7 @@
 Госпожа Ван: Посему, дорогой Баоюй…
 
 # Original: I don’t mean to rush, but… when are you planning to depart again?
-Госпожа Ван: Я не хочу торопиться, но… когда ты планируешь снова уехать?
+Госпожа Ван: Я не хочу торопить, но… когда ты планируешь снова уехать?
 
 # Original: Nothing has been decided yet, mother.
 Хон Лу: Ещё ничего не решено, матушка.
