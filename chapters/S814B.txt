@@ -299,7 +299,7 @@
 Данте: <Но разве они не предупреждали нас ранее, что кандидатам второго раунда запрещено причинять вред друг другу...?>
 
 # Original: ... I see. The only thing that matters is the exact wording of the law, not the spirit of it.
-Отис: ...Я всё поняла. Важна лишь буква закона, а не его дух.
+Отис: ...Понимаю. Важна лишь буква закона, а не его дух.
 
 # Original: Right. They won't intervene as long as a candidate's not trying to kill a fellow candidate, literally, with their own hands.
 Цзя Сичунь: Верно. Они не вмешаются, пока кандидат не пытается убить другого кандидата, буквально, своими собственными руками.
