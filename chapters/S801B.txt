@@ -14,10 +14,10 @@
 Рассказчик: <i><color=#5bffde>Так, в этом беспокойном мире могу я дышать,</i></color>
 
 # Original: <i><color=#5bffde>To shut my eyes</i></color>
-Рассказчик: <i><color=#5bffde>Чтобы закрыть глаза —</i></color>
+Рассказчик: <i><color=#5bffde>Закрывать глаза —</i></color>
 
 # Original: <i><color=#5bffde>Is my sole reprieve.</i></color>
-Рассказчик: <i><color=#5bffde>Стало моей единственной отрадой.</i></color>
+Рассказчик: <i><color=#5bffde>Моя единственная отрада.</i></color>
 
 # Original: Little Baoyu. You must have walked and toiled tirelessly on your journey home.
 Цзя Му: Маленький Баоюй. Должно быть, ты устал, изрядно потрудившись на пути домой.
