@@ -236,7 +236,7 @@
 Цзя Сичунь: Ох, какую глупость я спросила.
 
 # Original: You’ve never been drunk in your life. Your mind’s always been so, so damn clear.
-Цзя Сичунь: Ты ни разу в жизни пьян не был. Твой разум всегда был таким, таким чертовски ясным.
+Цзя Сичунь: Ты в жизни пьян не был. Твой разум всегда был таким, таким чертовски ясным.
 
 # Original: None of this matters to you, does it? Even when I get angry at you or when I shout at you like this… none of it gets to you, does it?
 Цзя Сичунь: Для тебя ничего из этого не имеет значения, да? Даже когда я злюсь на тебя или когда кричу на тебя вот так… ничего из этого тебя не задевает, да?
