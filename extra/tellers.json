@@ -2766,5 +2766,71 @@
     "original": "Busy-looking Servant",
     "translation": "Деловитый слуга",
     "model": "하인3"
+  },
+  {
+    "original": "Falling Villager",
+    "translation": "Падающий житель"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "홍루"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "죄수"
+  },
+  {
+    "original": "Announcement",
+    "translation": "Оповещение",
+    "model": "방송"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "조길인"
+  },
+  {
+    "original": "The Elders",
+    "translation": "Старейшины"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "사사정"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "사씨사병1"
+  },
+  {
+    "original": "Cool-headed Clan Member",
+    "translation": "Хладнокровный член клана",
+    "model": "사씨사병1"
+  },
+  {
+    "original": "Anxious Clan Member",
+    "translation": "Нервный член клана",
+    "model": "사씨사병2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "왕청산"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "왕자우"
+  },
+  {
+    "original": "Relative",
+    "translation": "Родственник"
+  },
+  {
+    "original": "Relative's Child",
+    "translation": "Ребёнок Родственника"
   }
 ]
