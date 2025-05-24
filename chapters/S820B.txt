@@ -1,23 +1,23 @@
 ﻿# Original: <i><color=#5bffde>O the garden's sorrow-bearer, lamenter at the flower-funeral</i></color>
-Хон Лу: <i><color=#5bffde>О, сада скорбная душа, рыдающая на цветочной тризне,</i></color>
+Хон Лу: <i><color=#5bffde>Это – юная дева с небольшою садовой мотыгой, безутешные слезы проливает вдали от подруг,</i></color>
 
 # Original: <i><color=#5bffde>Flower-rake in hand, teardrops in eyes,</i></color>
-Хон Лу: <i><color=#5bffde>Грабли цветочные в руке, глаза полны слезами,</i></color>
+Хон Лу: <i><color=#5bffde>А упав на увядшие стебли, эти горькие слезы,</i></color>
 
 # Original: <i><color=#5bffde>You carve bloodstained tears upon branches floral.</i></color>
-Хон Лу: <i><color=#5bffde>Ты кровавые слёзы чертишь на ветвях цветочных.</i></color>
+Хон Лу: <i><color=#5bffde>Словно в капельки крови на них превращаются вдруг…</i></color>
 
 # Original: <i><color=#5bffde>I heard yesternight from the garden a song of grief,</i></color>
-Хон Лу: <i><color=#5bffde>Вчерашней ночью из сада слышал я скорбную песнь,</i></color>
+Хон Лу: <i><color=#5bffde>А вчера за оградой ночью песня протяжно звучала, и была в этой песне безмерная скорбь и тоска.</i></color>
 
 # Original: <i><color=#5bffde>An elegy for a flower and a bird departing.</i></color>
-Хон Лу: <i><color=#5bffde>Элегию цветку и птице, что мир покинули.</i></color>
+Хон Лу: <i><color=#5bffde>Чья душа изливалась? Быть может, таинственной птицы? Коль не птицы, – быть может, душа молодого цветка?</i></color>
 
 # Original: <i><color=#5bffde>Availed naught to hold the parting spring,</i></color>
 Хон Лу: <i><color=#5bffde>Увы, весны уход ничто не остановит,</i></color>
 
 # Original: <i><color=#5bffde>Surrendered I become, heeding the endless woe sans relief.</i></color>
-Хон Лу: <i><color=#5bffde>Смирился я, внимая бесконечной скорби без утешенья.</i></color>
+Хон Лу: <i><color=#5bffde>Смирился я, внимая скорби бесконечной, безутешной.</i></color>
 
 # Original: <color=#9a2d30>Do you understand now, child? There is nothing you can do.</color>
 Рассказчик: <color=#9a2d30>Теперь ты понимаешь, дитя? Ты ничего не можешь сделать.</color>
@@ -47,7 +47,7 @@
 Измаил: Так это…
 
 # Original: ... is the annihilated Kong family's... building?
-Измаил: ...здание уничтоженной семьи Конг?
+Измаил: ...здание уничтоженной семьи Кун?
 
 # Original: Ishmael asked Hong Lu, having read the plaque on the building.
 Рассказчик: спросила Измаил у Хон Лу, прочитав табличку на здании.
@@ -86,7 +86,7 @@
 Синклер: ...Глава.
 
 # Original: So the Kong family… broke a taboo...
-Измаил: Значит, семья Конг… нарушила табу…
+Измаил: Значит, семья Кун… нарушила табу…
 
 # Original: ... And the Sweepers came to clean up anything that was left behind, to erase any sign of whatever it was that violated the taboo.
 Хон Лу: ...И пришли Чистильщики, чтобы убрать всё, что осталось, стереть любые следы того, что нарушило табу.

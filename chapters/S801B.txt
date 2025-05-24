@@ -1,14 +1,14 @@
 ﻿# Original: <i><color=#5bffde>Flowers wilt, petals fall, a drizzle of blossoms sky-blotting;</i></color>
-Рассказчик: <i><color=#5bffde>Цветы увядают, лепестки летят, дождь из соцветий застилает небосвод;</i></color>
+Рассказчик: <i><color=#5bffde>Увядают цветы, лепестки, обессилев, роняя, и летят, и летят, всюду-всюду кружась в небесах.</i></color>
 
 # Original: <i><color=#5bffde>Colors fade, fragrance dies—but who shall mourn their passing?</i></color>
-Рассказчик: <i><color=#5bffde>Краски поблекли, аромат угас — но кто оплачет их уход?</i></color>
+Рассказчик: <i><color=#5bffde>Ах! Уходит краса, тает молодость, благоуханье, но найдется ли тот, кто бы слово сказал о цветах?</i></color>
 
 # Original: <i><color=#5bffde>To the garden I go, in hand a flower-rake,</i></color>
-Рассказчик: <i><color=#5bffde>В сад иду я, цветочные грабли в руке,</i></color>
+Рассказчик: <i><color=#5bffde>Вот с мотыгой в руке, с небольшою садовой мотыгой, из красивых покоев вхожу в отцветающий сад —</i></color>
 
 # Original: <i><color=#5bffde>Only to pace, lest crushed the scatter'd blossoms I make.</i></color>
-Рассказчик: <i><color=#5bffde>Лишь ступаю неспешно, дабы не смять рассыпанные лепестки.</i></color>
+Рассказчик: <i><color=#5bffde>И боюсь растоптать лепестки – им, наверное, больно, ведь не зря ж то у ног они вьются, то прочь улетят.</i></color>
 
 # Original: <i><color=#5bffde>Thus, in this troubled world I breathe,</i></color>
 Рассказчик: <i><color=#5bffde>Так, в этом беспокойном мире могу я дышать,</i></color>

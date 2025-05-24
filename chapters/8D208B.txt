@@ -206,13 +206,13 @@
 Цзя Цю: Тех, кто убивает, и тех, кто умирает.
 
 # Original: To dissolve this vile distinction, to restore to the righteous path this land's trajectory of history, dyed crimson with the blood spilled in the name of our selfish avarice... we need these two virtues: humanity and propriety.
-Цзя Цю: Дабы упразднить это мерзкое различие, дабы вернуть на праведный путь траекторию истории этой земли, окрашенную багрянцем крови, пролитой во имя нашей эгоистичной алчности... нам нужны эти две добродетели: <ruby=Жэнь (仁)>человеколюбие</ruby> и <ruby=Ли (礼)>риутал</ruby>.
+Цзя Цю: Дабы упразднить это мерзкое различие, дабы вернуть на праведный путь траекторию истории этой земли, окрашенную багрянцем крови, пролитой во имя нашей эгоистичной алчности... нам нужны эти две добродетели: <ruby=Жэнь (仁)>человеколюбие</ruby>   и <ruby=Ли (礼)>риутал</ruby>.
 
 # Original: Your words are utterly meaningless. Do you seriously think the people who clamber around every restructuring day to secure just enough room for them to live have any care left to give about either of your pretentious virtues?
 Цзя Хуань: Твои слова совершенно бессмысленны. Ты серьёзно думаешь, что людям, которые карабкаются каждый День Реструктуризации, чтобы обеспечить себе достаточно места для жизни, есть хоть какое-то дело до твоих претенциозных добродетелей?
 
 # Original: What Hongyuan needs is simple and pragmatic: the power to dominate and the administrative efficacy to wield it. Not to mention the ability to maintain the constant upward growth of technological innovation to keep up with the other Wings.
-Цзя Хуань: Хунъюаню нужно простое и прагматичное: <ruby=Ши (勢)>сила правителя</ruby> и <ruby=Шу (術)>административная эффективность</ruby> для её применения. Не говоря уже о способности поддерживать постоянный рост технологических инноваций, чтобы не отставать от других Крыльев.
+Цзя Хуань: Хунъюаню нужно простое и прагматичное: <ruby=Ши (勢)>сила правителя</ruby>   и эффективные <ruby=Шу (術)>административные методы</ruby>   для её применения. Не говоря уже о способности поддерживать постоянный рост технологических инноваций, чтобы не отставать от других Крыльев.
 
 # Original: Unlike the other two who seemed to be more engaged in this debate than I'd expected...
 Рассказчик: В отличие от двух других, которые, казалось, были более вовлечены в эти дебаты, чем я ожидал...
