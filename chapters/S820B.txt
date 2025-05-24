@@ -74,7 +74,7 @@
 Хон Лу: Вы правы. Это было необычно, даже для Города.
 
 # Original: And that’s because the Head was here.
-Хон Лу: И это потому, что здесь была Глава.
+Хон Лу: И это потому, что здесь был Глава.
 
 # Original: Hong Lu replies, like it was the most obvious answer to a complicated question.
 Рассказчик: отвечает Хон Лу, будто это был самый очевидный ответ на сложный вопрос.
@@ -101,7 +101,7 @@
 Рассказчик: …Бестелесный, но зычный и возбуждённый голос нарушил тишину из динамиков.
 
 # Original: As there were numerous complaints regarding the possible partiality issues with our previous host, please understand that I will be taking over as the host with the start of the second round...
-Ведущий: Поскольку было множество жалоб относительно возможной предвзятости нашего предыдущего ведущего, прошу понять, что я принимаю на себя обязанности ведущего со второго раунда...
+Ведущий: Поскольку поступило множество жалоб относительно возможной предвзятости нашего предыдущего ведущего, прошу понять, что я принимаю на себя обязанности ведущего со второго раунда...
 
 # Original: … Looks like this Jia Zheng got kicked off from the host seat.
 Рассказчик: …Похоже, этого Цзя Чжэна вышибли с места ведущего.
@@ -113,7 +113,7 @@
 Хитклиф: Хах… Не говорите мне, что у нас тут живая публика.
 
 # Original: What initially appeared to be a dilapidated rooftop was revealed to be where the spectator seats were installed. They were filled to the brim, to the point where I couldn't spot a single empty seat.
-Рассказчик: То, что изначально казалось полуразрушенной крышей, оказалось местом установки зрительских сидений. Они были заполнены до отказа, до такой степени, что я не мог заметить ни одного свободного места.
+Рассказчик: То, что изначально казалось полуразрушенной крышей, оказалось местом установки зрительских трибун. Они были заполнены до отказа, до такой степени, что я не мог заметить ни одного свободного места.
 
 # Original: It would be reasonable to assume that they are indeed spectators, considering the way the seats are arranged.
 Фауст: Разумно предположить, что это действительно зрители, учитывая расположение мест.
