@@ -53,7 +53,7 @@
 Отис: Фигура впереди. Одна.
 
 # Original: Hopefully, she's a candidate who's been separated from her clan. It should be easy coins for us if that's the case.
-Отис: Надеюсь, это кандидат, отделившаяся от своего клана. В таком случае, для нас это будут лёгкие монеты.
+Отис: Надеюсь, это кандидатка, отделившаяся от своего клана. В таком случае, для нас это будут лёгкие монеты.
 
 # Original: Outis muttered with a bit of anticipation. It really seemed like she was in her element here...
 Рассказчик: Пробормотала Отис с некоторым предвкушением. Казалось, она здесь в своей стихии...
