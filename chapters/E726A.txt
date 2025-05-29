@@ -68,10 +68,10 @@
 Ши Ихуа: Всё ещё не догоняешь, недокрашенный в фиолетовый.
 
 # Original: Zilu, let us leave to the promised location.
-Ши Ихуа: Цзылу, отправляемся в условленное место.
+Ши Ихуа: Цзы Лу, отправляемся в условленное место.
 
 # Original: …….
-Цзылу: …….
+Цзы Лу: …….
 
 # Original: ... Huh? Did he actually scamper all the way here just to gloat at us and run away?
 Родион: ... А? Он что, припёрся сюда только чтобы позлорадствовать и снова сбежать?

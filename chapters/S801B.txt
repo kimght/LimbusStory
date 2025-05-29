@@ -1,23 +1,23 @@
 ﻿# Original: <i><color=#5bffde>Flowers wilt, petals fall, a drizzle of blossoms sky-blotting;</i></color>
-Рассказчик: <i><color=#5bffde>Цветы увядают, лепестки летят, дождь из соцветий застилает небосвод;</i></color>
+Рассказчик: <i><color=#5bffde>Осыпаются цветы, летят цветы, цветы кружат под небесами,</i></color>
 
 # Original: <i><color=#5bffde>Colors fade, fragrance dies—but who shall mourn their passing?</i></color>
-Рассказчик: <i><color=#5bffde>Краски поблекли, аромат угас — но кто оплачет их уход?</i></color>
+Рассказчик: <i><color=#5bffde>Увядает их краса, недолог их душистый аромат – кто пожалеет?</i></color>
 
 # Original: <i><color=#5bffde>To the garden I go, in hand a flower-rake,</i></color>
-Рассказчик: <i><color=#5bffde>В сад иду я, цветочные грабли в руке,</i></color>
+Рассказчик: <i><color=#5bffde>И с заступом в руках цветочным я выйду из резной беседки,</i></color>
 
 # Original: <i><color=#5bffde>Only to pace, lest crushed the scatter'd blossoms I make.</i></color>
-Рассказчик: <i><color=#5bffde>Лишь ступаю неспешно, дабы не смять рассыпанные лепестки.</i></color>
+Рассказчик: <i><color=#5bffde>Боясь ступать на лепестки, усыпавшие тропку.</i></color>
 
 # Original: <i><color=#5bffde>Thus, in this troubled world I breathe,</i></color>
-Рассказчик: <i><color=#5bffde>Так, в этом беспокойном мире могу я дышать,</i></color>
+Рассказчик: <i><color=#5bffde>Лишь вздох один – и жизнь моя уже в смятенье,</i></color>
 
 # Original: <i><color=#5bffde>To shut my eyes</i></color>
-Рассказчик: <i><color=#5bffde>Закрывать глаза —</i></color>
+Рассказчик: <i><color=#5bffde>И только сон</i></color>
 
 # Original: <i><color=#5bffde>Is my sole reprieve.</i></color>
-Рассказчик: <i><color=#5bffde>Моя единственная отрада.</i></color>
+Рассказчик: <i><color=#5bffde>Приносит мне забвенье.</i></color>
 
 # Original: Little Baoyu. You must have walked and toiled tirelessly on your journey home.
 Цзя Му: Маленький Баоюй. Должно быть, ты устал, изрядно потрудившись на пути домой.

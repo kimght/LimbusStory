@@ -8,13 +8,13 @@
 Рассказчик: Я инстинктивно чувствовал, что они... отличались от всех, с кем мы сталкивались в Хунъюане до сих пор.
 
 # Original: I... don't suppose our lord left them alive only for us to slay them.
-Цзыгун: Полагаю... наш господин оставил их в живых не для того, чтобы мы их убили.
+Цзы Гун: Полагаю... наш господин оставил их в живых не для того, чтобы мы их убили.
 
 # Original: Hm, then perhaps it would be apt that I introduce myself, as it is common courtesy to do so.
-Цзыгун: Хм, пожалуй, будет уместно представиться, как того требует общепринятый этикет.
+Цзы Гун: Хм, пожалуй, будет уместно представиться, как того требует общепринятый этикет.
 
 # Original: Call me Zigong; I am but a humble student of my lord, master Qiu's teachings.
-Цзыгун: Зовите меня Цзыгун; я всего лишь скромная ученица моего господина, наставника Цю.
+Цзы Гун: Зовите меня Цзы Гун; я всего лишь скромная ученица моего господина, наставника Цю.
 
 # Original: "My lord", "master Qiu"... somehow, I was reminded of the discussion Qingtao refused to finish.
 Рассказчик: "Мой господин", "наставник Цю"... почему-то это напомнило мне о разговоре, который Цинтао отказался закончить.
@@ -41,22 +41,22 @@
 Фауст: Он представился как менеджер Данте.
 
 # Original: ... I see. Your candidness is appreciated.
-Цзыгун: ... Понятно. Ценю вашу откровенность.
+Цзы Гун: ... Понятно. Ценю вашу откровенность.
 
 # Original: Zilu, withdraw the Mao. It seems that we need not contend with them at the moment.
-Цзыгун: Цзылу, отзови Мао. Похоже, нам не нужно с ними сражаться в данный момент.
+Цзы Гун: Цзы Лу, отзови Мао. Похоже, нам не нужно с ними сражаться в данный момент.
 
 # Original: Very well.
-Цзылу: Как скажете.
+Цзы Лу: Как скажете.
 
 # Original: It seemed that they had the very same thought about us.
 Рассказчик: Похоже, они думали о нас то же самое.
 
 # Original: Now, is that sufficient proof of our intent to engage in a brief discourse?
-Цзыгун: Что ж, достаточно ли это доказывает наше намерение вести краткую беседу?
+Цзы Гун: Что ж, достаточно ли это доказывает наше намерение вести краткую беседу?
 
 # Original: To discuss some matters with you to mark a courtly ending to this encounter should be of benefit to us, for the prospects of our future. So... ask away, as they say.
-Цзыгун: Обсудить некоторые вопросы с вами, чтобы достойно завершить эту встречу, будет полезно для нас, для перспектив нашего будущего. Итак... спрашивайте, как говорится.
+Цзы Гун: Обсудить некоторые вопросы с вами, чтобы достойно завершить эту встречу, будет полезно для нас, для перспектив нашего будущего. Итак... спрашивайте, как говорится.
 
 # Original: So...
 Цзя Сичунь: Значит...
@@ -71,13 +71,13 @@
 Цзя Сичунь: Так эти слова... правда?
 
 # Original: Ahh. So that is what you wish to know.
-Цзыгун: Ах. Так вот что вы хотите знать.
+Цзы Гун: Ах. Так вот что вы хотите знать.
 
 # Original: Xichun of the Jia family... it is said that you possess talent in rhetoric, yet walk a path beclouded by concern and anxiety.
-Цзыгун: Сичунь из семьи Цзя... говорят, что у вас есть талант к риторике, но вы идёте по пути, затуманенному беспокойством и тревогой.
+Цзы Гун: Сичунь из семьи Цзя... говорят, что у вас есть талант к риторике, но вы идёте по пути, затуманенному беспокойством и тревогой.
 
 # Original: Truly, your insignificance precludes your part in greatness.
-Цзыгун: Воистину, ваша незначительность исключает ваше участие в великом.
+Цзы Гун: Воистину, ваша незначительность исключает ваше участие в великом.
 
 # Original: …!
 Вэй: …!
@@ -95,22 +95,22 @@
 Цзя Сичунь: Ши Ихуа... это ты послала его за нами... верно?
 
 # Original: Hm... close, yet not exact. He was an agent of the Shi family, sent to spy on my lord's doings.
-Цзыгун: Хм... близко, но не совсем точно. Он был агентом семьи Ши, посланным шпионить за делами моего господина.
+Цзы Гун: Хм... близко, но не совсем точно. Он был агентом семьи Ши, посланным шпионить за делами моего господина.
 
 # Original: We had bestowed him control of a Heishou Pack, for we had found his conduct shallow, and saw a means of learning more of the Shi family's machinations...
-Цзыгун: Мы даровали ему контроль над Стаей Хэйшоу, ибо нашли его поведение поверхностным и увидели в нём способ узнать больше о махинациях семьи Ши...
+Цзы Гун: Мы даровали ему контроль над Стаей Хэйшоу, ибо нашли его поведение поверхностным и увидели в нём способ узнать больше о махинациях семьи Ши...
 
 # Original: Yet it seems that, once granted power, the boy mistook himself for a man with the wherewithal to represent the Shi family.
-Цзыгун: Однако похоже, что получив власть, мальчик возомнил себя мужчиной, способным представлять семью Ши.
+Цзы Гун: Однако похоже, что получив власть, мальчик возомнил себя мужчиной, способным представлять семью Ши.
 
 # Original: ... So, you used him.
 Цзя Сичунь: ... Значит, вы его использовали.
 
 # Original: Just as he sought to use us.
-Цзыгун: Так же, как он пытался использовать нас.
+Цзы Гун: Так же, как он пытался использовать нас.
 
 # Original: Though he was quite shallow in his strategy compared to our own.
-Цзыгун: Хотя его стратегия была весьма поверхностной по сравнению с нашей.
+Цзы Гун: Хотя его стратегия была весьма поверхностной по сравнению с нашей.
 
 # Original: ... So, what now?
 Цзя Сичунь: ... И что теперь?
@@ -119,16 +119,16 @@
 Цзя Сичунь: Я не думаю... что вы... хотите нас убить, верно?
 
 # Original: Now nothing.
-Цзыгун: Теперь ничего.
+Цзы Гун: Теперь ничего.
 
 # Original: Do whatever it was that you had sought to accomplish here.
-Цзыгун: Делайте то, что собирались здесь совершить.
+Цзы Гун: Делайте то, что собирались здесь совершить.
 
 # Original: You're letting two of your master's rivals go, just like that...?
 Цзя Сичунь: Вы просто так отпускаете двух соперников вашего господина...?
 
 # Original: What a strange thing to say. Look around as I might, I... fail to see any 'rivals' here.
-Цзыгун: Какие странные слова. Как бы я ни смотрела, я... не вижу здесь никаких "соперников".
+Цзы Гун: Какие странные слова. Как бы я ни смотрела, я... не вижу здесь никаких "соперников".
 
 # Original: …….
 Цзя Сичунь: …….
@@ -137,7 +137,7 @@
 Данте: <... Тогда...>
 
 # Original: …?
-Цзыгун: …?
+Цзы Гун: …?
 
 # Original: <Why did you order Yihua to attack us? You said it yourself, we're not even your rivals...>
 Данте: <Зачем вы приказали Ихуа напасть на нас? Вы сами сказали, что мы даже не ваши соперники...>
@@ -146,31 +146,31 @@
 Фауст: Менеджер спрашивает, почему вы приказали Ихуа совершить это нападение на Компанию Лимбус.
 
 # Original: … They fear, yet they seek to gain understanding through that fear.
-Цзыгун: … Они боятся, но через этот страх стремятся к пониманию.
+Цзы Гун: … Они боятся, но через этот страх стремятся к пониманию.
 
 # Original: Yet, they remain wanting in a certain perspicacity...
-Цзыгун: И всё же им недостаёт определённой проницательности...
+Цзы Гун: И всё же им недостаёт определённой проницательности...
 
 # Original: My lord has always said that if one learns naught from a plight, then no discourse with them shall bear fruit.
-Цзыгун: Мой господин всегда говорил, что если кто-то ничему не учится из бедствия, то никакая беседа с ними не принесёт плодов.
+Цзы Гун: Мой господин всегда говорил, что если кто-то ничему не учится из бедствия, то никакая беседа с ними не принесёт плодов.
 
 # Original: Instead of giving me a straight answer, Zigong left me with only a puzzling comment before she brushed past us.
-Рассказчик: Вместо прямого ответа Цзыгун оставила мне лишь загадочный комментарий, прежде чем пройти мимо нас.
+Рассказчик: Вместо прямого ответа Цзы Гун оставила мне лишь загадочный комментарий, прежде чем пройти мимо нас.
 
 # Original: I have given you courtesy enough; this is a good time for us to depart.
-Цзыгун: Я оказала вам достаточно учтивости; сейчас подходящее время нам удалиться.
+Цзы Гун: Я оказала вам достаточно учтивости; сейчас подходящее время нам удалиться.
 
 # Original: Now... do stay nicely within your borders, as you have remained there thus far.
-Цзыгун: А теперь... оставайтесь мирно в своих границах, как вы делали до сих пор.
+Цзы Гун: А теперь... оставайтесь мирно в своих границах, как вы делали до сих пор.
 
 # Original: I would greatly despise an odd splash of ink marring the great painting.
-Цзыгун: Мне было бы крайне неприятно увидеть странный всплеск чернил, портящий великую картину.
+Цзы Гун: Мне было бы крайне неприятно увидеть странный всплеск чернил, портящий великую картину.
 
 # Original: With that, Zigong walked into the shadows cast beneath the forest of buildings.
-Рассказчик: С этими словами Цзыгун ушла в тени, отбрасываемые лесом зданий.
+Рассказчик: С этими словами Цзы Гун ушла в тени, отбрасываемые лесом зданий.
 
 # Original: Zilu and the countless Heishou that had surrounded us... also disappeared with them.
-Рассказчик: Цзылу и бесчисленные Хэйшоу, окружавшие нас... тоже исчезли вместе с ними.
+Рассказчик: Цзы Лу и бесчисленные Хэйшоу, окружавшие нас... тоже исчезли вместе с ними.
 
 # Original: ... F...finally...
 Отис: ... Н...наконец-то...
