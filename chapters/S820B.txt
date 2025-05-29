@@ -47,7 +47,7 @@
 Измаил: Так это…
 
 # Original: ... is the annihilated Kong family's... building?
-Измаил: ...здание уничтоженной семьи Конг?
+Измаил: ...здание уничтоженной семьи Кун?
 
 # Original: Ishmael asked Hong Lu, having read the plaque on the building.
 Рассказчик: спросила Измаил у Хон Лу, прочитав табличку на здании.
@@ -86,7 +86,7 @@
 Синклер: ...Глава.
 
 # Original: So the Kong family… broke a taboo...
-Измаил: Значит, семья Конг… нарушила табу…
+Измаил: Значит, семья Кун… нарушила табу…
 
 # Original: ... And the Sweepers came to clean up anything that was left behind, to erase any sign of whatever it was that violated the taboo.
 Хон Лу: ...И пришли Чистильщики, чтобы убрать всё, что осталось, стереть любые следы того, что нарушило табу.
@@ -101,10 +101,10 @@
 Рассказчик: …Бестелесный, но зычный и возбуждённый голос нарушил тишину из динамиков.
 
 # Original: As there were numerous complaints regarding the possible partiality issues with our previous host, please understand that I will be taking over as the host with the start of the second round...
-Ведущий: Поскольку было множество жалоб относительно возможной предвзятости нашего предыдущего ведущего, прошу понять, что я принимаю на себя обязанности ведущего со второго раунда...
+Ведущий: Поскольку было множество жалоб относительно возможной предвзятости нашего предыдущего ведущего, прошу понять, что я принимаю на себя обязанности ведущего с началом второго раунда...
 
 # Original: … Looks like this Jia Zheng got kicked off from the host seat.
-Рассказчик: …Похоже, этого Цзя Чжэна вышибли с места ведущего.
+Рассказчик: …Похоже, этого Цзя Чжэна выпнули с места ведущего.
 
 # Original: Oi, hold on a minute. Up there, are they...
 Хитклиф: Эй, погоди-ка. Там наверху, они что...
@@ -143,7 +143,7 @@
 Хон Лу: Хотя сомневаюсь, что многие ставили на нас~
 
 # Original: They'll regret that.
-Рёшу: Пожалеют.
+Рёшу: Они пожалеют об этом.
 
 # Original: By the way... we're still indoors, right? Didn't we descend deep into a basement, even if we did ride a lift upward? How come there's a blue sky above us...?
 Измаил: Кстати... мы всё ещё в помещении, да? Разве мы не спустились глубоко в подвал, даже если потом поднялись на лифте? Откуда над нами голубое небо?..
@@ -203,7 +203,7 @@
 Хон Лу: ... Так сказали старейшины.
 
 # Original: Shall we enter, now?
-Хон Лу: Войдём теперь?
+Хон Лу: Теперь, войдём?
 
 # Original: While we all gaped about like fish out of water in this unfamiliar environment,
 Рассказчик: Пока мы все глазели по сторонам, как рыбы, выброшенные на берег, в этой незнакомой обстановке,
