@@ -113,7 +113,7 @@
 Дон Кихот: Гах...!
 
 # Original: Don Quixote immediately leaped at the Fixer, but one of her arms struck her away with great force.
-Рассказчик: Дон Кихот немедленно бросилась на Корректировщика, но одна из механических рук отбросила её в сторону с огромной силой \.
+Рассказчик: Дон Кихот немедленно бросилась на Корректировщицу, но одна из механических рук отбросила её в сторону с огромной силой.
 
 # Original: Ishmael and Meursault, who had been holding Cassetti down, were no match for his strength without Don Quixote's fury. The Bloodfiend threw them both to the side and grabbed the keycard.
 Рассказчик: Измаил и Мерсо, которые сдерживали Кассетти, не могли сравниться с его силой без ярости Дон Кихот. Кровожад разбросал их по сторонам и схватил карту-ключ.
