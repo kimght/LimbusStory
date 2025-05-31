@@ -227,7 +227,7 @@
 Рассказчик: Потому что я хотел верить, что доброты достаточно. Что она действительно может принести перемены в Хунъюань.
 
 # Original: <... This is not about us. It's about you and Hongyuan's future.>
-Данте: <...Это не о нас. Это о тебе и будущем Хунъюань.>
+Данте: <...Это не о нас. Это о тебе и будущем Хунъюаня.>
 
 # Original: <So I think I'll leave the decision up to you.>
 Данте: <Поэтому, думаю, я оставлю решение за тобой.>
@@ -287,7 +287,7 @@
 Рассказчик: Впервые он говорит о пути, которым желает идти.
 
 # Original: Hong Lu's jade eye gazes beyond the walls of Daguanyuan.
-Рассказчик: Нефритовый глаз Хон Лу смотрит за пределы стен Дагуаньюань.
+Рассказчик: Нефритовый глаз Хон Лу смотрит за пределы стен Дагуаньюаня.
 
 # Original: Like brother Qiu said, at this moment, I'm the only one who can freely open the gates of the Tiekan Temple.
 Хон Лу: Как сказал брат Цю, в данный момент я единственный, кто может свободно открыть врата храма Текань.
@@ -362,7 +362,7 @@
 Измаил: Постойте, а как же вы?..
 
 # Original: At the moment, stopping the underboss and his primary officer, Lei Heng, is the most pressing concern. Zigong and I will take to the main battlefield at the gates of Daguanyuan and stall them.
-Цзя Цю: В данный момент остановить заместителя босса и его главного офицера, Лэй Хэна, — самая насущная проблема. Мы с Цзы Гун отправимся на главное поле боя у врат Дагуаньюань и задержим их.
+Цзя Цю: В данный момент остановить заместителя босса и его главного офицера, Лэй Хэна, — самая насущная проблема. Мы с Цзы Гун отправимся на главное поле боя у врат Дагуаньюаня и задержим их.
 
 # Original: The plan was now in motion; there was nothing more to discuss.
 Рассказчик: План был приведён в действие; обсуждать было больше нечего.

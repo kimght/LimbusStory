@@ -11,7 +11,7 @@
 Фауст: Намерение, стоящее за тем выражением, что я наблюдала, всё ещё присутствует, хоть и было приукрашено витиеватыми оборотами.
 
 # Original: Whichever is the case, the Gesellschaft's justification for that request, that I must reconsider my decision after further observation of its intelligence, is understood.
-Фауст: Как бы то ни было, обоснование Гезельшафт этой просьбы — что я должна пересмотреть своё решение после дальнейшего изучения их разведданных — понятно.
+Фауст: Как бы то ни было, обоснование Гезельшафта для этой просьбы — что я должна пересмотреть своё решение после дальнейшего изучения их разведданных — понятно.
 
 # Original: But I refuse nevertheless.
 Фауст: Но я тем не менее отказываюсь.
@@ -20,7 +20,7 @@
 Фауст: У меня есть примерно два обоснования для этого решения...
 
 # Original: First: Gesellschaft provides a distractingly overabundant amount of information. Most of them are unnecessary as well, as learning my lord's teachings takes up a great majority of my days.
-Фауст: Во-первых: Гезельшафт предоставляет отвлекающе избыточное количество информации. Большая её часть также не нужна, поскольку изучение учений моего господина занимает большую часть моих дней.
+Фауст: Во-первых: Гезельшафт предоставляет отвлекающе избыточное количество информации. Также, большая её часть бесполезна, поскольку изучение учений моего господина занимает большую часть моих дней.
 
 # Original: Moreover, there is a dearth of righteousness in the intelligence provided by Faust; an overwhelming majority of them are far too... utilitarian. Overreliance on such information will set me on the wrong path, as it has happened to the other Fausts... And such a thing should not be allowed to pass.
 Фауст: Более того, в разведданных, предоставляемых Фауст, ощущается недостаток праведности; подавляющее большинство из них слишком... утилитарны. Чрезмерное доверие такой информации направит меня по ложному пути, как это уже случилось с другими Фауст... И подобного нельзя допустить.
@@ -53,19 +53,19 @@
 Фауст: Именно тогда я впервые встретила моего господина.
 
 # Original: Whoops! It's kinda hard for us to chat when you're swinging your sword so violently like that~
-Хон Лу: Ой! Нам как-то трудновато болтать, когда ты так яростно размахиваешь мечом~
+Хон Лу: Ой! Нам как-то трудновато болтать, когда вы так яростно размахиваете мечом~
 
 # Original: You jest. It is plain to me that you are not having any difficulties with matching my strikes.
 Фауст: Вы шутите. Мне совершенно ясно, что вы без труда отражаете мои удары.
 
 # Original: Ha ha... I'm not kidding. Whew, you're really giving me no time to speak.
-Хон Лу: Ха-ха... Я не шучу. Уф, ты и вправду не даёшь мне и слова сказать.
+Хон Лу: Ха-ха... Я не шучу. Уф, вы и вправду не даёте мне и слова сказать.
 
 # Original: If you do not jest, then... I best silence myself for now.
 Фауст: Если вы не шутите, тогда... мне лучше пока замолчать.
 
 # Original: Um~ But I've got this burning question I wanna ask you, so that won't do.
-Хон Лу: Гм~ Но у меня тут такой животрепещущий вопрос, который я хочу тебе задать, так что это никуда не годится.
+Хон Лу: Гм~ Но у меня тут такой животрепещущий вопрос, который я хочу вам задать, так что это никуда не годится.
 
 # Original: Haah... do ask.
 Фауст: Хаах... спрашивайте.
@@ -80,7 +80,7 @@
 Фауст: Или... возможно, это лишь попытка выиграть время.
 
 # Original: Ha ha... what reason would I have to do something like that?
-Хон Лу: Ха-ха... с какой стати мне это делать?
+Хон Лу: Ха-ха... с какой стати мне делать нечто подобное?
 
 # Original: I've already taken your lord's life, you see.
 Хон Лу: Я ведь уже лишил жизни вашего господина, понимаете ли.
@@ -89,28 +89,28 @@
 Фауст: …….
 
 # Original: You're an Adept of the Mao branch. You've been visiting Yihongyuan every night to decapitate my precious subordinates' lives...
-Хон Лу: Ты Адепт ветви Мао. Каждую ночь ты приходила в Ихунъюань, чтобы лишать жизни моих драгоценных подчинённых...
+Хон Лу: Вы Адепт ветви Мао. Каждую ночь вы приходили в Ихунъюань, чтобы лишать жизни моих драгоценных подчинённых...
 
 # Original: ... but the more I thought about it, the more did I realize that I know so little about you as a person.
-Хон Лу: ...но чем больше я об этом думал, тем больше понимал, что так мало знаю о тебе как о личности.
+Хон Лу: ...но чем больше я об этом думал, тем больше понимал, что так мало знаю о вас как о личности.
 
 # Original: Well, except for this little detail.
 Хон Лу: Ну, за исключением этой небольшой детали.
 
 # Original: Given that you're still living as a beast... Ah, it seems that the Pinky caucus is still waiting for the right conditions and time to convene, Miss Faust.
-Хон Лу: Учитывая, что ты всё ещё живёшь как зверь... Ах, похоже, собрание Мизинца всё ещё ждёт подходящих условий и времени для созыва, мисс Фауст.
+Хон Лу: Учитывая, что вы всё ещё живёте как зверь... Ах, похоже, собрание Мизинца всё ещё ждёт подходящих условий и времени для созыва, мисс Фауст.
 
 # Original: Or... should I call you the <i>Tianjiu Star</i>?
-Хон Лу: Или... мне называть тебя <i>Звездой Тяньцзю</i>?
+Хон Лу: Или... мне называть вас <i>Звездой Тяньцзю</i>?
 
 # Original: …!
 Фауст: …!
 
 # Original: Oh? Your blade stopped. Did you not expect me to ask you that?
-Хон Лу: О? Твой клинок замер. Ты не ожидала, что я спрошу об этом?
+Хон Лу: О? Ваш клинок замер. Вы не ожидали, что я спрошу об этом?
 
 # Original: If you want to move on from this subject, can you please answer my question from earlier?
-Хон Лу: Если хочешь сменить тему, не могла бы ты, пожалуйста, ответить на мой предыдущий вопрос?
+Хон Лу: Если хотите сменить тему, не могли бы вы, пожалуйста, ответить на мой предыдущий вопрос?
 
 # Original: What do you 'like', Miss Faust?
 Хон Лу: Что вам «нравится», мисс Фауст?
@@ -119,31 +119,31 @@
 Фауст: ... Клинки. Чем более устрашающие и могучие, тем лучше.
 
 # Original: Wowzers~ That's <i>so</i> like you~
-Хон Лу: Ого-го~ Это <i>так</i> на тебя похоже~
+Хон Лу: Ого-го~ Это <i>так</i> на вас похоже~
 
 # Original: But... that wasn't what I was asking. It was more like... a question out of frustration, you know? Miss Faust, you focus only on what you're good at, you never seek out knowledge outside your expertise, you never try to learn new things...
-Хон Лу: Но... я не это спрашивал. Это был скорее... вопрос от досады, понимаете? Мисс Фауст, вы сосредотачиваетесь только на том, в чём сильны, никогда не ищете знаний за пределами своей специализации, никогда не пытаетесь учиться новому...
+Хон Лу: Но... я спрашивал не об этом. Это был скорее... вопрос от досады, понимаете? Мисс Фауст, вы сосредотачиваетесь только на том, в чём сильны, никогда не ищете знаний за пределами своей специализации, никогда не пытаетесь учиться новому...
 
 # Original: Learning could bring you to new paths, unparalleled paths that no one could even dream of following.
-Хон Лу: Учёба могла бы открыть тебе новые, несравненные пути, по которым никто даже мечтать не мог бы пойти.
+Хон Лу: Учёба могла бы открыть вам новые, несравненные пути, по которым никто даже мечтать не мог бы пойти.
 
 # Original: It is doubtful that there is that much value in the act of learning and questioning.
-Фауст: Сомнительно, что в самом акте познания и вопрошания столько ценности.
+Фауст: Сомнительно, что в самом акте познания и вопрошания содержится столько ценности.
 
 # Original: Of course there is.
-Хон Лу: Конечно есть.
+Хон Лу: Конечно содержится.
 
 # Original: Unlearned as I may be, my path has never been limited by it.
 Фауст: Пусть я и необразованна, мой путь никогда не был этим ограничен.
 
 # Original: Heh heh... Nothing stops you, does it? You certainly live up to your nickname.
-Хон Лу: Хе-хе... Тебя ничто не останавливает, да? Ты определённо оправдываешь своё прозвище.
+Хон Лу: Хе-хе... Вас ничто не останавливает, да? Вы определённо оправдываете своё прозвище.
 
 # Original: …….
 Фауст: …….
 
 # Original: But unrestrained as you may be, there are paths you do not want to tread.
-Хон Лу: Но какой бы безудержной ты ни была, есть пути, по которым ты не захочешь ступать.
+Хон Лу: Но какой бы безудержной вы ни были, есть пути, по которым вы не захотите ступать.
 
 # Original: Come work under me, Miss Faust.
 Хон Лу: Работайте на меня, мисс Фауст.
@@ -179,7 +179,7 @@
 Фауст: Мне уже известно о сомнительном поведении моего господина. Мне также известно, что мой господин подготовил амбициозный план для Оценки на пост Главы Семьи. Я всё это знаю.
 
 # Original: I know that he has wielded the favor gained as the precious jade of Daguanyuan, the gem of the Jia family, like a weapon to one by one obtain everything he has ever pursued.
-Фауст: Я знаю, что он использовал благосклонность, обретённую как драгоценный нефрит Дагуаньюаня, сокровище семьи Цзя, словно оружие, чтобы одно за другим заполучить всё, к чему он стремился.
+Фауст: Я знаю, что он использовал благосклонность, обретённую в качестве драгоценного нефрита Дагуаньюаня, сокровища семьи Цзя, словно оружие, чтобы одно за другим заполучить всё, к чему он стремился.
 
 # Original: I know that he has seduced the daughter of the Xue family, for whom there is no place in his heart, to draw many, many of her family's secrets.
 Фауст: Я знаю, что он соблазнил дочь семьи Сюэ, для которой нет места в его сердце, чтобы выведать многие, многие секреты её семьи.
@@ -227,10 +227,10 @@
 Фауст: Ничего. Ваше слово — для меня закон, мой господин.
 
 # Original: Well, don't let me distract you from whatever you were doing. I've got other stuff to do, anyway.
-Хон Лу: Ну, не буду отвлекать тебя от того, чем ты занималась. У меня всё равно есть другие дела.
+Хон Лу: Ну, не буду отвлекать вас от того, чем вы занимались. У меня всё равно есть другие дела.
 
 # Original: Oh, and don't forget say hello to the other Fausts for me~
-Хон Лу: О, и не забудь передать привет от меня другим Фауст~
+Хон Лу: О, и не забудьте передать привет от меня другим Фауст~
 
 # Original: …….
 Фауст: …….
