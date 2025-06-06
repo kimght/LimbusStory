@@ -38,7 +38,7 @@
 И Сан: Однако, отдавая должное твоим усилиям, первый раунд можно считать уже завершённым.
 
 # Original: Protect what you have, collect what intelligence that may be gained, and we shall be able to garner what wisdom there is to be found about the competition. Let not haste taint your wisdom.
-И Сан: Защити то, что имеешь, собери те сведения, что сумеешь добыть, и мы сможем обрести ту мудрость, что есть о состязании. Не позволяй спешке омрачить твою мудрость.
+И Сан: Защити то, что имеешь, собери те сведения, что сумеешь добыть, и мы сможем обрести те знания, что есть о состязании. Не позволяй спешке омрачить твои суждения.
 
 # Original: The first round of the Family Hierarch Evaluation was to bring them a clue of immortality.
 Рассказчик: Первый раунд Оценки на пост Главы Семьи заключался в том, чтобы предъявить свой ключ к бессмертию.
@@ -278,7 +278,7 @@
 Рассказчик: Его расслабленное отношение было не благоразумием; это было высокомерие...
 
 # Original: ... and every word that spoke of humanity and righteousness that came out of his mouth was hollow.
-Рассказчик: ... и каждое слово о человечности и праведности, исходившее из его уст, было пустым.
+Рассказчик: ... и каждое слово о человеколюбии и праведности, исходившее из его уст, было пустым.
 
 # Original: I never should've let my guard down, damned be the good memories we shared...
 Измаил: Мне никогда не следовало терять бдительность, будь прокляты хорошие воспоминания, которые мы разделяли...
