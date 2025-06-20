@@ -23,16 +23,16 @@
 Хитклиф: ... Ты...
 
 # Original: …!
-Жозефина: …!
+Джозефина: …!
 
 # Original: ... You accursed beast...! Infernal demon... you've finally come to take our manor, 'ave you...?
-Жозефина: ... Ты проклятое чудовище...! Исчадие ада... ты наконец-то пришел, чтобы захватить наше поместье, да...?
+Джозефина: ... Ты проклятое чудовище...! Исчадие ада... ты наконец-то пришел, чтобы захватить наше поместье, да...?
 
 # Original: Mistress, I shall not let that interloper... who dared to stain the honour of our manor...
-Жозефина: Госпожа, я не позволю этому самозванцу... который посмел запятнать честь нашего поместья...
+Джозефина: Госпожа, я не позволю этому самозванцу... который посмел запятнать честь нашего поместья...
 
 # Original: Gah, kaugh...!
-Жозефина: Гах, кхе...!
+Джозефина: Гах, кхе...!
 
 # Original: HAHAHAHAHA!
 Хитклиф из Зеркального Мира: ХАХАХАХАХА!
@@ -44,25 +44,25 @@
 Хитклиф из Зеркального Мира: Каждая смерть Хиндли и Линтона была жалкой и мучительной. И это будет неизменной истиной на всю вечность.
 
 # Original: Thus Josephine, it is only right that you are mine as well.
-Хитклиф из Зеркального Мира: Поэтому, Жозефина, вполне естественно, что и ты принадлежишь мне.
+Хитклиф из Зеркального Мира: Поэтому, Джозефина, вполне естественно, что и ты принадлежишь мне.
 
 # Original: You are bound to heed my commands.
 Хитклиф из Зеркального Мира: Ты обязана подчиняться моим приказам.
 
 # Original: M-Mistress, this vagabond... he's...!
-Жозефина: Г-госпожа, этот бродяга... он...!
+Джозефина: Г-госпожа, этот бродяга... он...!
 
 # Original: I tire of your ramblings of your 'Mistress'. She is nothing but a rotting corpse, her flesh decayed and bones desiccated.
 Хитклиф из Зеркального Мира: Мне надоела твоя болтовня о твоей "Госпоже". Она не что иное, как гниющий труп, ее плоть разложилась, а кости иссохли.
 
 # Original: …….
-Жозефина: …….
+Джозефина: …….
 
 # Original: Josephine fell limp and motionless in Heathcliff's grasp.
-Рассказчик: Жозефина обмякла и застыла в хватке Хитклифа.
+Рассказчик: Джозефина обмякла и застыла в хватке Хитклифа.
 
 # Original: Ah! Josephine, Hindley, Linton! All of their pitiful souls tangled and fettered to this accursed destiny in every world! I have seen you far too many times in far too many worlds.
-Хитклиф из Зеркального Мира: Ах! Жозефина, Хиндли, Линтон! Все их жалкие души, запутанные и скованные этой проклятой судьбой в каждом мире! Я видел вас слишком много раз в слишком многих мирах.
+Хитклиф из Зеркального Мира: Ах! Джозефина, Хиндли, Линтон! Все их жалкие души, запутанные и скованные этой проклятой судьбой в каждом мире! Я видел вас слишком много раз в слишком многих мирах.
 
 # Original: I shall take you away from here, you pitiful souls who remain bound to Wuthering Heights even in death.
 Хитклиф из Зеркального Мира: Я заберу вас отсюда, вы, жалкие души, которые остаются привязанными к Грозовым Перевалам даже после смерти.
@@ -128,7 +128,7 @@
 Грегор: Наш путь к отступлению отрезан. Ни пути вперед, ни пути назад.
 
 # Original: <Are they... Hindley, Linton, and Josephine from other worlds?>
-Данте: <Это... Хиндли, Линтон и Жозефина из других миров?>
+Данте: <Это... Хиндли, Линтон и Джозефина из других миров?>
 
 # Original: They appear to be imperfect Identities, summoned from worlds chosen at random. It is the fate that awaits all those who become thralls to that Heathcliff.
 Фауст: Похоже, это несовершенные Личности, призванные из случайно выбранных миров. Это судьба, которая ожидает всех, кто становится рабами того Хитклифа.

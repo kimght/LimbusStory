@@ -11,7 +11,7 @@
 Хиндли: Назад! Отойдите, псы! Вы хоть понимаете, кто я такой?!
 
 # Original: Speak plainly, Hindley. What have ye done to this manor?
-Жозефина: Говори прямо, Хиндли. Что ты сделал с этим поместьем?
+Джозефина: Говори прямо, Хиндли. Что ты сделал с этим поместьем?
 
 # Original: Hells, I do not know! I'm just as lost as you are!
 Хиндли: Черт возьми, я не знаю! Я так же растерян, как и вы!
@@ -23,40 +23,40 @@
 Нелли: Что вы все здесь делаете?
 
 # Original: My, my. If it isn't Nelly, the vagabond child, and his gang o' uninvited guests.
-Жозефина: Ну надо же. Если это не Нелли, бродяжка, и его банда незваных гостей.
+Джозефина: Ну надо же. Если это не Нелли, бродяжка, и его банда незваных гостей.
 
 # Original: ... Is... is she talking about us?
 Родион: ... Это... она о нас говорит?
 
 # Original: Josephine. Something is terribly wrong with the manor. Is there anything you know about this?
-Нелли: Жозефина. С поместьем творится что-то ужасное. Ты что-нибудь об этом знаешь?
+Нелли: Джозефина. С поместьем творится что-то ужасное. Ты что-нибудь об этом знаешь?
 
 # Original: Wuthering Heights has always been like this. More importantly... how dare ye bring those louts to this place! Mistress would have had ye whipped, had she been here to witness this desecration!
-Жозефина: Грозовой Перевал всегда был таким. Что важнее... как ты посмела привести этих олухов в это место! Хозяйка бы тебя высекла, если бы она была здесь и увидела это осквернение!
+Джозефина: Грозовой Перевал всегда был таким. Что важнее... как ты посмела привести этих олухов в это место! Хозяйка бы тебя высекла, если бы она была здесь и увидела это осквернение!
 
 # Original: We are in the dark as much as you are! Everyone was displaced when the lights flickered. Besides... what is this noise?
 Нелли: Мы в таком же неведении, как и ты! Все оказались не на своих местах, когда мигнул свет. Кроме того... что это за шум?
 
 # Original: How are you still unaware? The Dead Rabbits louts and the Butlers are battling in all corners o' this manor! Ripping, tearing, biting... Oh, what I wouldn't give to have them kill each other until they all lay dead!
-Жозефина: Как ты до сих пор не поняла? Громилы из Мертвых Кроликов и Дворецкие сражаются во всех уголках этого поместья! Рвут, терзают, кусают... О, чего бы я только не отдала, чтобы они перебили друг друга, пока все не полягут!
+Джозефина: Как ты до сих пор не поняла? Громилы из Мертвых Кроликов и Дворецкие сражаются во всех уголках этого поместья! Рвут, терзают, кусают... О, чего бы я только не отдала, чтобы они перебили друг друга, пока все не полягут!
 
 # Original: They're fighting...? But why?
 Нелли: Они сражаются...? Но почему?
 
 # Original: After the lightning struck, after the lights flickered...
-Жозефина: После того, как ударила молния, после того, как мигнул свет...
+Джозефина: После того, как ударила молния, после того, как мигнул свет...
 
 # Original: The Dead Rabbits suddenly charged us.
-Жозефина: Мертвые Кролики внезапно напали на нас.
+Джозефина: Мертвые Кролики внезапно напали на нас.
 
 # Original: Hindley... that fool must be scheming to take over our manor.
-Жозефина: Хиндли... этот дурак, должно быть, замышляет захватить наше поместье.
+Джозефина: Хиндли... этот дурак, должно быть, замышляет захватить наше поместье.
 
 # Original: What in the blazes...
 Нелли: Что за чертовщина...
 
 # Original: Do you fail to heed the voice of Wuthering Heights... the voice of the Mistress?!
-Жозефина: Неужели ты не слышишь голос Грозового Перевала... голос Хозяйки?!
+Джозефина: Неужели ты не слышишь голос Грозового Перевала... голос Хозяйки?!
 
 # Original: What the bloody hell do these out-of-control Dead Rabbits have got to do with me?! I haven't even given them any orders!
 Хиндли: Какого черта эти вышедшие из-под контроля Мертвые Кролики имеют ко мне отношение?! Я даже не отдавал им никаких приказов!
@@ -68,13 +68,13 @@
 Грегор: Нелли, ты можешь что-нибудь сделать, чтобы разрядить обстановку? Мы бы предпочли не ввязываться во что-то подобное...
 
 # Original: Josephine and those Butlers... Didn't they serve Hindley once?
-Родион: Жозефина и эти Дворецкие... Разве они когда-то не служили Хиндли?
+Родион: Джозефина и эти Дворецкие... Разве они когда-то не служили Хиндли?
 
 # Original: Their service is to Wuthering Heights, and Wuthering Heights only.
 Нелли: Их служба принадлежит Грозовому Перевалу, и только Грозовому Перевалу.
 
 # Original: Strictly speaking, Josephine and her Butlers are bound to a contract different from mine.
-Нелли: Строго говоря, Жозефина и ее Дворецкие связаны контрактом, отличным от моего.
+Нелли: Строго говоря, Джозефина и ее Дворецкие связаны контрактом, отличным от моего.
 
 # Original: I am contracted with a specific person within the family, while they are contracted with the manor and the estate itself...
 Нелли: Я заключила контракт с конкретным человеком в семье, в то время как они заключили контракт с самим поместьем и землей...
@@ -104,13 +104,13 @@
 Нелли: Ха-ха... И все же контракт не аннулируется только потому, что люди перестают его помнить. Его нарушение может привлечь Охотников за Табу из нежданного Гнезда или Корректировщиков из Ассоциации Оуфи, с которыми мы имели удовольствие встретиться ранее.
 
 # Original: And that Josephine is obsessed with following the long-dead Mistress' orders and won't listen to anyone else.
-Нелли: А эта Жозефина одержима выполнением приказов давно умершей Хозяйки и не будет слушать никого другого.
+Нелли: А эта Джозефина одержима выполнением приказов давно умершей Хозяйки и не будет слушать никого другого.
 
 # Original: Ye know me well, Nelly. Well enough to get out of my way while I remain courteous.
-Жозефина: Ты хорошо меня знаешь, Нелли. Достаточно хорошо, чтобы убраться с моего пути, пока я остаюсь вежливой.
+Джозефина: Ты хорошо меня знаешь, Нелли. Достаточно хорошо, чтобы убраться с моего пути, пока я остаюсь вежливой.
 
 # Original: Do not get in my way of punishing this rat that dared to scheme, to take our Wuthering Heights from us.
-Жозефина: Не вставай на моем пути в наказании этой крысы, которая осмелилась замышлять отнять у нас наш Грозовой Перевал.
+Джозефина: Не вставай на моем пути в наказании этой крысы, которая осмелилась замышлять отнять у нас наш Грозовой Перевал.
 
 # Original: S-sure thing~ We'll just go, 'kay? Let's just pretend we didn't see anything.
 Родион: К-конечно~ Мы просто уйдем, ладно? Давайте просто сделаем вид, что ничего не видели.
