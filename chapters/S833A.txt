@@ -716,7 +716,7 @@
 Сод: Просто у вас тут есть незаконченные дела.
 
 # Original: For your information, the Red Gaze is currently away because he's accompanying Pilot on a mission elsewhere. More urgent LCCB business~
-Сод: К вашему сведению, Красный Взор сейчас отсутствует, потому что сопровождает Пилот на задании в другом месте. Более срочные дела LCCB~
+Сод: К вашему сведению, Красный Взор сейчас отсутствует, потому что сопровождает Пилота на задании в другом месте. Более срочные дела LCCB~
 
 # Original: What misery it is to be him...
 И Сан: Какое несчастье быть им...
