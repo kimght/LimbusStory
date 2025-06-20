@@ -47,7 +47,7 @@
 Цзя Му: С освобождением этого места, эта ответственность ищет того, кто обладает качествами Главы Семьи, дабы занять его.
 
 # Original: Thus here at Daguanyuan, a collective upheld by pillars of four great houses of Jia, Xue, Wang, and Shi, we once again ask you the perennial question.
-Цзя Му: Итак, здесь, в Дагуаньюань, сообществе, поддерживаемом столпами четырёх великих домов: Цзя, Сюэ, Ван и Ши, мы вновь задаём вам извечный вопрос.
+Цзя Му: Итак, здесь, в Дагуаньюане, сообществе, поддерживаемом столпами четырёх великих домов: Цзя, Сюэ, Ван и Ши, мы вновь задаём вам извечный вопрос.
 
 # Original: Have you brought us aught to prove that the answer indeed exists?
 Цзя Му: Принесли ли вы нам что-либо, дабы доказать, что ответ действительно существует?
@@ -77,7 +77,7 @@
 Цзя Юаньчунь: И всё же, независимо от тяжести ваших страданий... у всех вас, в равной степени, есть лишь одна возможность в первом раунде.
 
 # Original: Even still, you were all once prospective heirs of the great house; even your failures shall bring power and prosperity to Daguanyuan.
-Цзя Юаньчунь: Тем не менее, все вы когда-то были предполагаемыми наследниками великого дома; даже ваши неудачи принесут силу и процветание Дагуаньюань.
+Цзя Юаньчунь: Тем не менее, все вы когда-то были предполагаемыми наследниками великого дома; даже ваши неудачи принесут силу и процветание Дагуаньюаню.
 
 # Original: Now, come forth in the order you are summoned, and demonstrate the invaluable answers to the question of three freedoms: one from aging, one from death, and one from brevity of life.
 Цзя Юаньчунь: Теперь выходите в том порядке, в котором вас вызовут, и продемонстрируйте бесценные ответы на вопрос о трёх свободах: от старения, от смерти и от быстротечности жизни.

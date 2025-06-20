@@ -26,7 +26,7 @@
 Сод: Помните, успех плана зависит от вашего терпения, все. Вы должны сохранять спокойствие и ждать, даже если они взбесятся и попытаются вас убить.
 
 # Original: There is a chance that they might panic and immediately order for the Sinners to be executed on the spot. However, it is unlikely that the person whose responsibility is to judge the next Family Hierarch of Hongyuan will make such a hasty response.
-Фауст: Есть шанс, что они могут запаниковать и немедленно приказать казнить Грешников на месте. Однако маловероятно, что тот, на ком лежит ответственность за выбор следующего Главы Семьи Хунъюань, отреагирует столь поспешно.
+Фауст: Есть шанс, что они могут запаниковать и немедленно приказать казнить Грешников на месте. Однако маловероятно, что тот, на ком лежит ответственность за выбор следующего Главы Семьи Хунъюаня, отреагирует столь поспешно.
 
 # Original: Exactly. Everything's going to be fine as long as the decider has the capacity for patience.
 Сод: Именно. Всё будет в порядке, пока у принимающего решение хватит терпения.
@@ -194,7 +194,7 @@
 Данте: <Хон Лу…>
 
 # Original: <Is there anyone you miss here at Daguanyuan?>
-Данте: <Есть ли кто-то, по кому ты скучаешь здесь, в Дагуаньюань?>
+Данте: <Есть ли кто-то, по кому ты скучаешь здесь, в Дагуаньюане?>
 
 # Original: Hmm…
 Хон Лу: Хм-м…

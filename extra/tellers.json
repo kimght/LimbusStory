@@ -2832,5 +2832,35 @@
   {
     "original": "Relative's Child",
     "translation": "Ребёнок Родственника"
+  },
+  {
+    "original": "Kong Qiu",
+    "translation": "Кун Цю",
+    "model": "가치우"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "흑수사"
+  },
+  {
+    "original": "Generous Clan Member",
+    "translation": "Щедрый Член Клана",
+    "model": "사씨사병1"
+  },
+  {
+    "original": "Hong Lu",
+    "translation": "Хон Лу",
+    "model": "과거홍루"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "설보차"
+  },
+  {
+    "original": "Jia Baoyu",
+    "translation": "Цзя Баоюй",
+    "model": "홍루"
   }
 ]
