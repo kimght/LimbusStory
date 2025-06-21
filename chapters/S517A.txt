@@ -65,7 +65,7 @@
 Измаил: ......
 
 # Original: Haha...! Am I getting through to ye? Spare me, and ye just might sail out of this Lake with yer—
-Пират: Хаха...! Неужели я до тебя достучался? Пощади меня, и вы, возможно, выплывете из этого Озера с вашими—
+Пират: Хаха...! Неужели я до тебя достучалась? Пощади меня, и вы, возможно, выплывете из этого Озера с вашими—
 
 # Original: ... Haah. I'm tired of listening to these inane, meaningless pleas.
 Измаил: ... Хаах. Я устала слушать эти бессмысленные, пустые мольбы.

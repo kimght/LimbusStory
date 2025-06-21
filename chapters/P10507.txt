@@ -32,7 +32,7 @@
 Мерсо: Согласно информации в Книге, да.
 
 # Original: Ngh... I said I'm sorry...! I made a little mistake at the club, that's all! Why are you doing any of this...!?
-Сауде: Нгх... Я же сказала, что извиняюсь...! Я допустила небольшую ошибку в клубе, вот и всё! Зачем вы всё это делаете...!?
+Сауде: Нгх... Я же сказал, что извиняюсь...! Я допустил небольшую ошибку в клубе, вот и всё! Зачем вы всё это делаете...!?
 
 # Original: The man shouted desperately. His voice was muffled by the sound of blood and saliva gurgling and rising from his throat.
 Рассказчик: Мужчина отчаянно кричал. Его голос был приглушён звуком крови и слюны, булькающих и поднимающихся из горла.
@@ -44,7 +44,7 @@
 Сауде: Чёрт... Откуда мне было знать...
 
 # Original: Why'd it have to be the Middle...? Shit...
-Сауде: Почему это должен был быть именно Средний Палец...? Блин...
+Сауде: Почему это должен был быть именно Средний Палец...? Дерьмо...
 
 # Original: The man grabbed his torn shoulder and grimaced. He had broad shoulders and a mean face, and seemed to have seen his share of the rough and tumble. But...
 Рассказчик: Мужчина схватился за разорванное плечо и скривился. У него были широкие плечи и суровое лицо, и казалось, что он повидал немало передряг. Но...
@@ -98,7 +98,7 @@
 Мерсо: Грех использования бранных слов в адрес Старшего Брата, управляющего этим клубом. Совершено в ряду B, линия 4 стоячих мест.
 
 # Original: I said I didn't know who he was!!
-Сауде: Я же сказала, что не знала, кто он!!
+Сауде: Я же сказал, что не знала, кто он!!
 
 # Original: Strike a nearby table twice with the guilty one's head. Grab by the hair if possible.
 Мерсо: Ударить виновного головой о ближайший стол дважды. По возможности держать за волосы.
@@ -110,7 +110,7 @@
 Мерсо: Выполнено.
 
 # Original: ALL I SAID WAS THAT HIS HAIR SEEMED A BIT BRISTLY!
-Сауде: ВСЁ, ЧТО Я СКАЗАЛА, ЭТО ТО, ЧТО ЕГО ВОЛОСЫ КАЖУТСЯ НЕМНОГО ЖЁСТКИМИ!
+Сауде: ВСЁ, ЧТО Я СКАЗАЛ, ЭТО ТО, ЧТО ЕГО ВОЛОСЫ КАЖУТСЯ НЕМНОГО ЖЁСТКИМИ!
 
 # Original: Compounded, in that the said foul language... was about something the Big Brother was particularly sensitive of.
 Мерсо: Усугублено тем, что упомянутые бранные слова... касались того, к чему Старший Брат особенно чувствителен.

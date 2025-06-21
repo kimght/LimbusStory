@@ -224,7 +224,7 @@
 Кэтрин: Хочешь услышать историю, Хитклиф?
 
 # Original: Long, long time ago, Josephine told me a little tale.
-Кэтрин: Давным-давно Жозефина рассказала мне маленькую сказку.
+Кэтрин: Давным-давно Джозефина рассказала мне маленькую сказку.
 
 # Original: She said that there is a deep, ancient river flowing beneath this manor.
 Кэтрин: Она сказала, что под этим особняком течёт глубокая, древняя река.
@@ -251,19 +251,19 @@
 Кэтрин: …….
 
 # Original: Ooh... Mistress...
-Жозефина: Ох... Хозяйка...
+Джозефина: Ох... Хозяйка...
 
 # Original: Thankfully, I wasn't the only one who was seeing ghosts.
 Кэтрин: К счастью, я была не единственной, кто видел призраков.
 
 # Original: I, Josephine, knew that you would one day return to our side.
-Жозефина: Я, Жозефина, знала, что вы однажды вернётесь к нам.
+Джозефина: Я, Джозефина, знала, что вы однажды вернётесь к нам.
 
 # Original: That the river flowing beneath these lands would bring your grace back to this manor...
-Жозефина: Что река, текущая под этими землями, вернёт вашу милость в этот особняк...
+Джозефина: Что река, текущая под этими землями, вернёт вашу милость в этот особняк...
 
 # Original: That, should my duties at this manor be complete, you would allow me to drink the river's waters...
-Жозефина: Что, если мои обязанности в этом особняке будут выполнены, вы позволите мне испить воды этой реки...
+Джозефина: Что, если мои обязанности в этом особняке будут выполнены, вы позволите мне испить воды этой реки...
 
 # Original: And I've repeatedly seen that vision as I grew up.
 Кэтрин: И я неоднократно видела это видение, когда росла.
