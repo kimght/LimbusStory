@@ -83,7 +83,7 @@
 Мусорные крабы: Гвах!
 
 # Original: —I am not! Now, Young Sinclair! ¡El golpe de gracia!
-Дон Кихот: —я не такая! Ну же, юный Синклер! ¡El golpe de gracia!
+Дон Кихот: —я не такая! Ну же, юный Синклер! Эль гольпе де грасиа!
 
 # Original: Gregor, I'll take its left leg!
 Синклер: Грегор, я беру его левую ногу!

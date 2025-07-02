@@ -37,7 +37,7 @@
 # Original: So we spent days upon days of boredom on the bus, making very little progress…
 Рассказчик: Так мы и провели дни напролет в скуке в автобусе, продвигаясь очень медленно...
 
-# Original: Toward a tunnel that seemed to lead somewhere.
+# Original: Toward a tunnсthat seemed to lead somewhere.
 Рассказчик: К туннелю, который, казалось, куда-то вел.
 
 # Original: We’re almost there. The road will free up once we exit this tunnel.
@@ -107,7 +107,7 @@
 Дон Кихот: Не Великое ли Озеро я вижу вдали?!
 
 # Original: With Don Quixote’s enthusiastic exclamation, Sinners began waking up from their naps one by one.
-Рассказчик: После восторженного возгласа Дон Кихот Грешники начали просыпаться один за другим.
+Рассказчик: После восторженного возгласа Дон Кихот% Грешники начали просыпаться один за другим.
 
 # Original: …Whew, now that's a sight I've not seen in a long time!
 Грегор: ...Ух ты, давненько я такого не видел!
