@@ -17,7 +17,7 @@
 Хитклиф: ... Так, вы двое. Ой, то есть... Приступаю к присутствию и наблюдению за взаимно согласованным контрактом.
 
 # Original: The proceedings will be observed upon by the Öufi Association South Section 3 Fixer, Heathcliff.
-Хитклиф: За ходом процедуры будет наблюдать Корректировщик Южного Отдела 3 Ассоциации Эуфи, Хитклиф.
+Хитклиф: За ходом процедуры будет наблюдать Корректировщик Южного отдела Секции 3 Ассоциации Эуфи, Хитклиф.
 
 # Original: Every spoken and written word exchanged in these proceedings will be observed by me, the attendee, and can be used for and against the two parties.
 Хитклиф: Каждое произнесенное и написанное слово, обмененное в ходе этой процедуры, будет зафиксировано мной, присутствующим, и может быть использовано за и против обеих сторон.

@@ -14,7 +14,7 @@
 Рассказчик: А между двумя группами были…
 
 # Original: Fixers…! I recognize their outfits! Forsooth, they must be Fixers from the O-Ou-Öufi Association!
-Дон Кихот: Корректировщики...! Я узнаю их наряды! Воистину, это должны быть Корректировщики из Ассоциации О-Оу-Эуфи!
+Дон Кихот: Корректировщики...! Я узнаю их наряды! Воистину, это должны быть Корректировщики из Ассоциации Э-Эу-Эуфи!
 
 # Original: ‘Tis quite rare to even get a sighting of a single Öufi Fixer…! They requireth quite the momentous occasion to even grace us with their presence!!!!!!
 Дон Кихот: Сие редкость даже лицезреть единого Корректировщика Эуфи...! Они требуют весьма знаменательного повода, дабы почтить нас своим присутствием!!!!!!
