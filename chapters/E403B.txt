@@ -293,7 +293,7 @@
 Синклер: Правда? Тогда...
 
 # Original: Since Dante can distinguish between an Abnormality and a Distortion, they were able to tell without me explaining.
-Фауст: Поскольку Данте может различать Аномалию и Искажение, они смогли определить это без моих объяснений.
+Фауст: Поскольку Данте может различать Аномалию и Искажение, он смог определить это без моих объяснений.
 
 # Original: They are living organisms. Mutants, if you will. Theoretically speaking, there shouldn't be any problem with ingesting them.
 Фауст: Это живые организмы. Мутанты, если хотите. Теоретически, не должно быть никаких проблем с их употреблением в пищу.
@@ -335,7 +335,7 @@
 Фауст: Этого следовало ожидать. Пожалуйста, предоставьте это решение нам.
 
 # Original: Did the manager say something? Or do they just tick-tock sometimes? Well, anyway.
-Мика: Менеджер что-то сказал? Или они просто иногда тикают? Ну, в любом случае.
+Мика: Менеджер что-то сказал? Или он просто иногда тикает? Ну, в любом случае.
 
 # Original: We do have a plan to fix it. What we lack are the parts.
 Мика: У нас есть план, как это исправить. Чего нам не хватает, так это деталей.
