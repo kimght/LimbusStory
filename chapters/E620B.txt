@@ -161,7 +161,7 @@
 Фауст: Действительно... Корректировщики.
 
 # Original: Faust wore a look of reluctant acceptance as she affirmed Don Quixote's declaration.
-Рассказчик: Фауст с неохотой согласилась, подтверждая заявление Дон Кихота.
+Рассказчик: Фауст с неохотой согласилась, подтверждая заявление Дон Кихот.
 
 # Original: Huh. They got every single one of you a first class ticket? Your Office must be rollin' in the dough.
 Саша: Хм. Они купили каждому из вас билет первого класса? Ваш Офис, должно быть, купается в деньгах.

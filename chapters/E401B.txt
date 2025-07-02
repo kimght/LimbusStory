@@ -107,7 +107,7 @@
 Дон Кихот: Не Великое ли Озеро я вижу вдали?!
 
 # Original: With Don Quixote’s enthusiastic exclamation, Sinners began waking up from their naps one by one.
-Рассказчик: После восторженного возгласа Дон Кихота Грешники начали просыпаться один за другим.
+Рассказчик: После восторженного возгласа Дон Кихот Грешники начали просыпаться один за другим.
 
 # Original: …Whew, now that's a sight I've not seen in a long time!
 Грегор: ...Ух ты, давненько я такого не видел!
