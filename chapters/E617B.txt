@@ -110,7 +110,7 @@
 Вергилий: Что ж. Мы встретимся в пункте назначения.
 
 # Original: Huh?! Wilt the illustrious Red Gaze not ride alongside us?
-Дон Кихот: Ха?! Неужели достославный Алый Взор не поедет вместе с нами?
+Дон Кихот: Ха?! Неужели достославный Красный взор не поедет вместе с нами?
 
 # Original: W Corp. policy demands that those with the title of a Color must board a train specially prepared for them instead.
 Вергилий: Политика Корпорации W требует от носителей звания Цвета, чтобы они садились на специально подготовленный для них поезд.
