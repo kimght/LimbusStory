@@ -1,5 +1,5 @@
 ﻿# Original: <... Did we just fight the Peccatula?>
-Данте: <…Грехи? Неужели <b>это</b> были грехи?>
+Данте: <…Пеккатулы? Неужели <b>это</b> были Пеккатулы?>
 
 # Original: Yes.
 Фауст: Так и есть.
@@ -8,22 +8,22 @@
 И Сан: Они выглядят иначе, нежели те, коих мы встречали ранее. Словно их грехи усугубились…
 
 # Original: They are evolutions of each Peccatula.
-Фауст: Это следующая форма греха.
+Фауст: Это следующая форма Пеккатул.
 
 # Original: The kind of Peccatula one transforms into depends on the types of Sin that one has embodied in life, so it is no surprise that there may be variations to them.
-Фауст: Сила греха зависит от человека, так что их форма может отличаться от других.
+Фауст: Тип Пеккатул зависит от того какие грехи человек совершил в жизни, так что их форма может отличаться от других.
 
 # Original: But... we've never encountered anything like them before.
 Синклер: Но… Мы ни разу не видели подобную форму.
 
 # Original: Collecting the Golden Boughs could have expedited the Peccatula growth process.
-Фауст: С каждой Золотой ветвью в наших руках грехи будут становиться сильнее.
+Фауст: С каждой Золотой ветвью в наших руках Пеккатулы будут становиться сильнее.
 
 # Original: Those boughs... they really have something to do with everything, huh? Our job is starting to look a lot more serious...
 Родион: Снова эти Ветви… Проще найти, что от них не зависит. Почему так много…
 
 # Original: Right, that reminds me. These 'Peccatula' are each supposed to represent some kinda 'Sin', right?
-Грегор: Если так подумать, каждый грех… Означает собой "грех" человеческий, верно?
+Грегор: Если так подумать, каждая Пеккатула… Означает собой "грех" человеческий, верно?
 
 # Original: <Sin...>
 Данте: <"Грех"…>
@@ -47,7 +47,7 @@
 Грегор: Разве Искажение не схоже?
 
 # Original: Hmm... some people become Distortions, and some people become Peccatula... I wonder what the difference is?
-Синклер: Кто-то искажается, кто-то превращается в грех… Но по каким причинам?
+Синклер: Кто-то искажается, кто-то превращается в Пеккатулу… Но по каким причинам?
 
 # Original: I think... I think I know...
 Рассказчик: Кажется… Я знаю ответ…
@@ -83,7 +83,7 @@
 Данте: <Выдержав ■■■■■■■ ■■■■■ своего, но не ■■■■■■ его ■■■■■, сердце неумолимо ■■■■■■■■■■…>
 
 # Original: W-what the hell... Clockhead, what in the bloody hell are you talking about?
-Хитклиф: Ч-чего… Башка часовая… Что ты несёшь, тебе норм вообще?
+Хитклиф: Ч-чего… Часоголовый… Что ты несёшь, тебе норм вообще?
 
 # Original: I ill like the sound of that... Has something gone awry with their prosthetic head...?
 Энду: Он издаёт страшные звуки… С его головой точно всё в порядке…?
@@ -98,7 +98,7 @@
 Данте: <И в мире через призму собственного ■■■■■… ■■■■■■■■ эго своё ■■ ■■■■■■ ■■■■■, они смогут ■■■■■■ собственный грех в ■■■■■, ■■ утопая в нём…>
 
 # Original: Huh, they're starting to talk a bit like my grandfa— Huh?! M-manager! Your head!
-Хон Лу: Мой дедушка говорил так… Э?! М-менеджер! Ваша голова!
+Хон Лу: А, он начинает говорить примерно, как мой деду… Э?! М-менеджер! Ваша голова!
 
 # Original: Executive Manager! Y-your head is on fire!
 Отис: Менеджер! В-ваша голова горит!
@@ -122,13 +122,13 @@
 Данте: <И познавшие собственный ■■■■■…>
 
 # Original: Gaaah! 'T-tis scorching! I had thought that Manager Esquire's flaming head was merely for style, for I had not once felt such heat from it...!
-Дон Кихот: А-ай! Г-горячо! П-п-полагала я, что пламя на главе менеджера-милорда — лишь украшение…
+Дон Кихот: А-ай! Г-горячо! П-п-полагала я, что пламя на голове Сэра Менеджера — лишь украшение…
 
 # Original: Faust! What if they accidentally activated the self-destruct sequence?! Agh, this heat... if we don't douse it now, it's going to melt everything around them...!
 Измаил: Мисс Фауст! Как работает его кнопка самоуничтожения?! Кажется, словно он вот-вот всё расплавит своим пламенем…
 
 # Original: ... Yes, the operating principles are the same. Dante is, via the Golden Boughs, connected to the root of the sapling planted in the subterranean area of the headquarters. Which is to say that—
-Фауст: …Принцип одинаков. Золотыми ветвями Данте соединён с саженцами в цоколе штаб-квартиры…
+Фауст: …Принцип одинаков. Золотыми ветвями Данте соединён с саженцами в цокольном этаже штаб-квартиры…
 
 # Original: Who gives a shite about the Boughs?! We've got to douse the flames on their head!
 Хитклиф: Кому нахуй нужны твои Ветви?! Нам этот пожарище потушить надо!
