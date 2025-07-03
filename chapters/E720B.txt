@@ -269,7 +269,7 @@
 Грегор: Этот приятель-гид... правда что-то делает? Этот тип?
 
 # Original: Yes. Unfortunately, LCC has our own business to take care of today, so I won't be accompanying the LCB this time. And the Red Gaze will be helping us out to get it done.
-Сод: Да. К сожалению, у LCC сегодня свои дела, так что я не буду сопровождать LCB в этот раз. А Алый Взор поможет нам их выполнить.
+Сод: Да. К сожалению, у LCC сегодня свои дела, так что я не буду сопровождать LCB в этот раз. А Красный взор поможет нам их выполнить.
 
 # Original: Taking Mephi there. Vroom-vroom.
 Харон: Везём Мефи туда. Врум-врум.

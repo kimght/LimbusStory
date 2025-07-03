@@ -11,7 +11,7 @@
 Рассказчик: Сод, ослабшая, прислонилась к стене.
 
 # Original: She was covered in bites and gnawings left by the Peccatula.
-Рассказчик: Всё её тело было покрыто укусами, будто оставленными грехом.
+Рассказчик: Всё её тело было покрыто укусами, будто оставленными Пеккатулами.
 
 # Original: Are you alright? Can you get up easily?
 Измаил: Ты в порядке? Можешь стоять?
@@ -47,7 +47,7 @@
 Отис: Похоже, к нам ползёт ещё больше тех странных существ.
 
 # Original: A swarm of Peccatula approached us.
-Рассказчик: Рой грехов настигнул нас.
+Рассказчик: Рой Пеккатул настигнул нас.
 
 # Original: It was as though our guilt about lying to her had gained physical form.
 Рассказчик: Казалось, будто нас настигла вина за нашу ложь.

@@ -2,7 +2,7 @@
 Дон Кихот: Воистину, близится час, когда юный И Сан и я должны подвергнуться испытанию!
 
 # Original: The nature of our trial shall take form as Peccatula Invidiae.
-И Сан: Природа нашего испытания примет форму Peccatula Invidiae.
+И Сан: Природа нашего испытания примет форму Пеккатулы Инвидиа.
 
 # Original: I assume that we all have a first-hand experience with static shocks?
 Хохенхайм: Полагаю, все мы не понаслышке знакомы с эффектом статического электричества?
