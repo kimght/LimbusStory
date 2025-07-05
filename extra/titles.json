@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "original": "Grade 8 Fixer",
     "translation": "Корректировщица 8 ранга",
@@ -1773,7 +1773,7 @@
   },
   {
     "original": "Fanghunt Office",
-    "translation": "Офис Охотников на Клыки",
+    "translation": "Офис Охотников за Клыками",
     "model": "혈귀사냥꾼"
   },
   {
@@ -2082,7 +2082,7 @@
   },
   {
     "original": "Effloresced E.G.O::Farmwatch",
-    "translation": "Effloresced E.G.O::Farmwatch",
+    "translation": "Расцветшее ЭГО::Управитель",
     "model": "다친에고동랑"
   },
   {
@@ -2360,7 +2360,7 @@
   },
   {
     "original": "Effloresced E.G.O::Farmwatch",
-    "translation": "Effloresced E.G.O::Farmwatch",
+    "translation": "Расцветшее ЭГО::Управитель",
     "model": "뒤틀린다친동랑"
   },
   {
@@ -2454,7 +2454,7 @@
   },
   {
     "original": "Fanghunt Office",
-    "translation": "Офис Охотников на Клыки",
+    "translation": "Офис Охотников за Клыками",
     "model": "홍루"
   },
   {
@@ -2593,7 +2593,7 @@
   },
   {
     "original": "Fanghunt Office",
-    "translation": "Офис Охотников на Клыки"
+    "translation": "Офис Охотников за Клыками"
   },
   {
     "original": "Devyat' North Section 3",
@@ -3045,5 +3045,15 @@
     "original": "Jia Family",
     "translation": "Семья Цзя",
     "model": "홍루"
+  },
+  {
+    "original": "The Thumb's Capo ⅠⅠⅠⅠ",
+    "translation": "Капо Большого ⅠⅠⅠⅠ",
+    "model": "뫼르소"
+  },
+  {
+    "original": "N Corp. New League of Nine Littérateurs",
+    "translation": "Новая Лига Девяти Литераторов Корп. N",
+    "model": "이상"
   }
 ]

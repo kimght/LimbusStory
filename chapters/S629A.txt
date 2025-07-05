@@ -2,7 +2,7 @@
 Рассказчик: Рёшу останавливает одного из убегающих врагов быстрым взмахом ножен.
 
 # Original: Ugh...
-Директор ассоц. Оуфи: Ух...
+Директор ассоц. Эуфи: Ух...
 
 # Original: I normally couldn't give any less of a crap about what kind of art the Ring makes.
 Рёшу: Обычно мне плевать, какое там искусство создаёт Безымянный.
@@ -11,7 +11,7 @@
 Рёшу: Но это... Это мне довольно интересно.
 
 # Original: The Ring playing at being the Öufi... What is this, some kind of pop art?
-Рёшу: Безымянный, притворяющийся Оуфи... Что это, какой-то поп-арт?
+Рёшу: Безымянный, притворяющийся Эуфи... Что это, какой-то поп-арт?
 
 # Original: They're... the Ring?
 Родион: Они... Безымянный?
@@ -26,19 +26,19 @@
 Рёшу: У них есть своя галерея, где они выставляют свои работы, но ни одна из них не по моему вкусу.
 
 # Original: How... pitiful... you... do not understand the true philosophical beauty of Pointillism...
-Директор ассоц. Оуфи: Как... жалко... вы... не понимаете истинную философскую красоту пуантилизма...
+Директор ассоц. Эуфи: Как... жалко... вы... не понимаете истинную философскую красоту пуантилизма...
 
 # Original: Is a Maestro involved in this? Where are they?
 Рёшу: В этом замешан Маэстро? Где он?
 
 # Original: A Maestro wouldn't bother to be in a place like this, would they...? Besides, we're not even a part of the Ring anymore.
-Директор ассоц. Оуфи: Разве Маэстро стал бы возиться с таким местом, как это...? К тому же, мы больше не часть Безымянного.
+Директор ассоц. Эуфи: Разве Маэстро стал бы возиться с таким местом, как это...? К тому же, мы больше не часть Безымянного.
 
 # Original: Then what are you?
 Рёшу: Тогда кто вы?
 
 # Original: Ahahahahaha! You think I'd tell you that so easi—
-Директор ассоц. Оуфи: Ахахахаха! Думаешь, я так легко тебе это скаж—
+Директор ассоц. Эуфи: Ахахахаха! Думаешь, я так легко тебе это скаж—
 
 # Original: Heathcliff tore the man's head clean off with a full swing of his club.
 Рассказчик: Хитклиф оторвал голову мужчины одним мощным ударом своей биты.

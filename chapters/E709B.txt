@@ -59,7 +59,7 @@
 Хитклиф: Девочка, я думал, что уже достаточно ясно выразился — <i>никаких смен команд!</i>
 
 # Original: Peccatulum Superbiae—Pride.
-Хохенхайм: Peccatulum Superbiae — Гордыня.
+Хохенхайм: Пеккатула Супербия — Гордыня.
 
 # Original: Hohenheim droned on, as if the bickering Sinners didn't exist in his world.
 Рассказчик: Хохенхайм монотонно продолжал, словно спорящие Грешники не существовали в его мире.
@@ -86,7 +86,7 @@
 Данте: <Вот так просто перешёл к следующей теме, да...>
 
 # Original: The meaning of Peccatulum Luxuriae, 'Lust', is not exactly what it says on the tin. A more illustrative description would say that it is... ah, yes. An obsession to spread a fragment of what forms the self. A desire to propagate, to breed.
-Хохенхайм: Значение Peccatulum Luxuriae, "Похоти", не совсем то, что можно предположить по названию. Более точное описание гласило бы, что это... ах, да. Одержимость распространением частицы того, что составляет собственное "я". Желание размножаться, плодиться.
+Хохенхайм: Значение Пеккатулы Луксурия, "Похоти", не совсем то, что можно предположить по названию. Более точное описание гласило бы, что это... ах, да. Одержимость распространением частицы того, что составляет собственное "я". Желание размножаться, плодиться.
 
 # Original: Of course, there is more to this concept than just that. While the word itself may be subject to interpretations limited to the carnal understanding...
 Хохенхайм: Разумеется, этот концепт включает в себя гораздо больше. И хотя само слово может интерпретироваться лишь в плотском понимании...

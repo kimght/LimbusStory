@@ -339,7 +339,7 @@
 Рассказчик: Я почти ничего не знаю об этой компании.
 
 # Original: And there's this mysterious 'Hermann', and the equally puzzling 'Demian'.
-Рассказчик: Кроме этого, загадочная Германн и не менее таинственный Демиан…
+Рассказчик: Кроме этого, загадочная Герман и не менее таинственный Демиан…
 
 # Original: Maybe, in the grand scheme of things, I really don't know anything. Maybe what I know amounts to nothing more than a pinch of knowledge available to the powers that be.
 Рассказчик: Похоже, известная мне информация — лишь песчинка по сравнению с тем, что происходит на самом деле, и даже эту песчинку я не могу полностью понять.

@@ -146,13 +146,13 @@
 Рёшу: Я же говорила, что с ними что-то не так.
 
 # Original: I remember Ryōshū telling the Öufi Association Fixers to stop. That there was something off about them.
-Рассказчик: Я помню, как Рёшу сказала Корректировщикам ассоциации Оуфи остановиться. Что с ними что-то не так.
+Рассказчик: Я помню, как Рёшу сказала Корректировщикам ассоциации Эуфи остановиться. Что с ними что-то не так.
 
 # Original: Then...
 Рассказчик: Значит...
 
 # Original: They're not Öufi.
-Рёшу: Они не Оуфи.
+Рёшу: Они не Эуфи.
 
 # Original: They're nothing but cheap imitations.
 Рёшу: Они всего лишь дешевые имитации.

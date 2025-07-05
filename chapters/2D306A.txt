@@ -188,7 +188,7 @@
 Герман: Но и сжёг деньги.
 
 # Original: You should know, Hermann, that I’ve never been friends with money.
-Соня: Ты же знаешь, Германн, мы никогда не были в ладах с деньгами.
+Соня: Ты же знаешь, Герман, мы никогда не были в ладах с деньгами.
 
 # Original: I will admit, you are not like most idealists who are all theory and no action.
 Герман: Признаю, ты не из того скопища идеалистов, что лишь треплются и ничего не делают.
@@ -209,7 +209,7 @@
 Герман: Полагаю, её это не убедило.
 
 # Original: It seems the method you suggested was wrong after all, Hermann.
-Соня: Кажется, предложенный тобою метод оказался всё же неверен, Германн.
+Соня: Кажется, предложенный тобою метод оказался всё же неверен, Герман.
 
 # Original: She wasn’t the kind of person to let a few words change her mind.
 Соня: Она не из тех, кто изменит своё мнение после пары слов.
