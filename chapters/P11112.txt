@@ -1,5 +1,5 @@
 ﻿# Original: One night in Hongyuan, brightly lit under its artificial light.
-Рассказчик: Одна ночь в Хунъюане, ярко освещённом искусственным светом.
+Рассказчик: Одной ночью в Хунъюане, ярко освещённом искусственным светом.
 
 # Original: The child's yellow eyes glimmer menacingly in the shadows as she stares down at the thief.
 Рассказчик: Жёлтые глаза дитя угрожающе мерцают в тени, пока оно смотрит сверху вниз на вора.
@@ -47,16 +47,16 @@
 Отис: Я должна отрубить тебе голову здесь и сейчас за кражу Анамначервя, созданного из благородной особы...
 
 # Original: People from different regions, like the west or the south, might wonder what the purpose of this curious monstrosity might be...
-Рассказчик: Люди из разных регионов, с запада или юга, могли бы задаться вопросом о предназначении этого странного чудовища...
+Рассказчик: Люди из разных регионов, например с запада или юга, могли бы задаться вопросом о предназначении этого странного чудовища...
 
 # Original: ... but an Anamnaworm wasn't like any other grub.
-Рассказчик: ...но Анамначервь был не похож на обычную личинку.
+Рассказчик: ...но Анамначервь не был обычной личинкой.
 
 # Original: Anyone can gain the memories of the person who was used to make the grub by inserting it into their body,
-Рассказчик: Любой мог бы получить воспоминания человека, из которого была создана личинка, поместив её в своё тело,
+Рассказчик: Поместив её в своё тело, кто угодно мог бы получить воспоминания человека, из которого была создана личинка,
 
 # Original: and even once they have been mutated into this worm-like form, they are counted as people, not tools.
-Рассказчик: и даже после превращения в эту червеобразную форму они считаются людьми, а не инструментами.
+Рассказчик: и даже после того, как они мутировали в эту червеобразную форму, они считаются людьми, а не инструментами.
 
 # Original: This particular Anamnaworm, currently held in the thief's palms, was created from someone of high prestige in Hongyuan with deep knowledge of the secrets of the family.
 Рассказчик: Этот конкретный Анамначервь, который сейчас находился в ладонях вора, был создан из человека высокого положения в Хунъюане, обладавшего глубокими познаниями о секретах семьи.
@@ -80,7 +80,7 @@
 Рассказчик: Оно просто исполняло волю своего господина.
 
 # Original: Perhaps the thief saw the slimmest chance for life through the child's cold, cold words?
-Рассказчик: Возможно, вор увидел малейший шанс на жизнь в холодных-прехолодных словах дитя?
+Рассказчик: Возможно, вор увидел малейший шанс на жизнь в холодных словах дитя?
 
 # Original: He dropped to his knees and began to share a tearful tale of his own.
 Рассказчик: Он упал на колени и начал рассказывать свою слезливую историю.
@@ -107,13 +107,13 @@
 Отис: А теперь правду.
 
 # Original: My lord has given you a way out of this hole you've dug yourself into, but know that the path is extremely narrow.
-Отис: Мой господин дал тебе выход из ямы, которую ты себе выкопал, но знай, что путь этот крайне узок.
+Отис: Мой господин указал тебе путь из ямы, которую ты себе выкопал, но знай, что путь этот крайне узок.
 
 # Original: Should you lie any further...
 Отис: Если солжёшь ещё раз...
 
 # Original: The thief hesitated for a long time, sensing that he was likely walking on very thin ice.
-Рассказчик: Вор колебался долгое время, чувствуя, что, вероятно, ходит по очень тонкому льду.
+Рассказчик: Вор долгое время колебался, чувствуя, что, вероятно, ходит по очень тонкому льду.
 
 # Original: …….
 Рассказчик: …….
@@ -122,34 +122,34 @@
 Рассказчик: Я... я устал и боялся ждать наступления дней реструктуризации. Того, что могу упасть в яму, из которой никогда не выберусь.
 
 # Original: The buildings within Hongyuan shift after every set interval.
-Рассказчик: Здания в Хунъюане перемещаются после каждого установленного интервала.
+Рассказчик: Здания в Хунъюане изменяются после каждого установленного интервала.
 
 # Original: The process is called 'restructuring', a redistribution of living spaces based on each individual's net worth.
-Рассказчик: Этот процесс называется 'реструктуризацией' — перераспределением жилых пространств на основе чистой стоимости каждого человека.
+Рассказчик: Этот процесс называется 'реструктуризацией' — перераспределением жилых пространств на основе благосостояния каждого человека.
 
 # Original: The poor are fated to live in their ever-shrinking homes, feeling unsafe even where they should feel the safest.
 Рассказчик: Бедные обречены жить в своих вечно уменьшающихся домах, чувствуя себя в опасности даже там, где должны чувствовать себя в безопасности.
 
 # Original: It is unfortunate, yes... but to the child, a beast of a Heishou Pack, it mattered very little.
-Рассказчик: Это печально, да... но для дитя, зверя из Стаи Хэйшоу, это значило очень мало.
+Рассказчик: Это печально, да... но для дитя, зверя из Стаи Хэйшоу, это имело мало значения.
 
 # Original: So it was greed, after all.
 Отис: Значит, всё-таки жадность.
 
 # Original: If that's all there was to it, then... we have nothing more to discuss.
-Отис: Если это всё, что было... нам больше нечего обсуждать.
+Отис: Если это всё, то... нам больше нечего обсуждать.
 
 # Original: T-take a single step, or if I see signs of your heels transforming... I'm inserting the Anamnaworm into my ear!
 Рассказчик: С-сделаешь хоть шаг, или если я увижу признаки трансформации твоих пяток... я засуну Анамначервя себе в ухо!
 
 # Original: ... You must have a death wish. Those memories aren't for the faint of heart. Besides—
-Отис: ...Должно быть, ты жить надоело. Эти воспоминания не для слабонервных. Кроме того—
+Отис: ...Должно быть, тебе жить надоело. Эти воспоминания не для слабонервных. Кроме того—
 
 # Original: W-wait, stop!!!
 Рассказчик: П-подожди, стой!!!
 
 # Original: No, we've talked enough.
-Отис: Нет, мы наговорились.
+Отис: Нет, мы достаточно поговорили.
 
 # Original: The sword hanging from the child's back began to shimmer with a sinister glow.
 Рассказчик: Меч на спине дитя начал мерцать зловещим светом.
@@ -161,7 +161,7 @@
 Рассказчик: И для этой миссии условием был... отказ вора от милости её господина.
 
 # Original: The child unsheathes her sword, and her feet begin to crack and mutate into a hare's reverse-jointed legs. She prepares to rush toward the thief.
-Рассказчик: Дитя обнажает свой меч, и его ступни начинают трескаться и мутировать в заячьи ноги с вывернутыми суставами. Оно готовится броситься на вора.
+Рассказчик: Дитя обнажает свой меч, и его ступни начинают трещать и мутировать в заячьи ноги с вывернутыми суставами. Оно готовится броситься на вора.
 
 # Original: At this point, he realizes that his efforts were most likely for nothing. But as a last ditch effort, he leaped backward, and—
 Рассказчик: В этот момент он понимает, что его усилия, скорее всего, были напрасны. Но в последней отчаянной попытке он отпрыгнул назад и—
@@ -176,28 +176,28 @@
 Рассказчик: Гуххх...
 
 # Original: You can try inserting the Anamnaworm into your body... but I can get it back fully intact as long as I cut you down immediately.
-Отис: Можешь пытаться засунуть Анамначервя в своё тело... но я смогу вернуть его полностью целым, если убью тебя немедленно.
+Отис: Можешь пытаться засунуть Анамначервя в своё тело... но я смогу вернуть его совершенно нетронутым, если убью тебя немедленно.
 
 # Original: You seem to have missed that part.
-Отис: Похоже, ты упустил эту часть.
+Отис: Похоже, ты упустил это.
 
 # Original: The child, who leaped forward in an explosive burst of speed, had killed the thief before he even had a chance to let out his final cry.
-Рассказчик: Дитя, которое рванулось вперёд со взрывной скоростью, убило вора прежде, чем тот успел издать свой последний крик.
+Рассказчик: Дитя, которое прыгнуло вперёд со взрывным порывом скорости, убило вора прежде, чем тот успел издать свой последний крик.
 
 # Original: Normally, if one lingers too much after inserting the Anamnaworm into their body, the grub would assimilate with the host, unable to be removed until the conditions prescribed upon its creation are met...
 Рассказчик: Обычно, если промедлить слишком долго после введения Анамначервя в тело, личинка ассимилируется с носителем, и её невозможно будет извлечь, пока не будут выполнены условия, предписанные при её создании...
 
 # Original: ... But the child managed to retrieve it without much trouble by killing the thief before the assimilation began.
-Рассказчик: ...Но дитя удалось извлечь её без особых проблем, убив вора до начала ассимиляции.
+Рассказчик: ...Но дитя удалось вернуть её без особых проблем, убив вора до начала слияния.
 
 # Original: My next mission...
-Отис: Моя следующая миссия...
+Отис: Моё следующее задание...
 
 # Original: The night is yet young for the child. There were more missions for her on the horizon.
-Рассказчик: Ночь ещё только начинается для дитя. Впереди его ждало ещё больше миссий.
+Рассказчик: Для дитя ночь ещё только начинается. Впереди её ждали новые миссии.
 
 # Original: To live in Hongyuan is to be mired in a constant vortex of dark conspiracies and battles. And as a beast of a Heishou Pack, the child...
 Рассказчик: Жить в Хунъюане — значит быть погружённым в постоянный водоворот тёмных заговоров и сражений. И как зверь из Стаи Хэйшоу, дитя...
 
 # Original: ... would have no rest and continue to hop between mission after mission bestowed upon her by her lord.
-Рассказчик: ...не будет знать отдыха и продолжит скакать между миссиями, возложенными на него господином.
+Рассказчик: ...не будет знать отдыха и продолжит прыгать между миссиями, возложенными на него господином.
