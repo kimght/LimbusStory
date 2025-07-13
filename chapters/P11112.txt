@@ -1,11 +1,11 @@
 ﻿# Original: One night in Hongyuan, brightly lit under its artificial light.
-Рассказчик: Одной ночью в Хунъюане, ярко освещённом искусственным светом.
+Рассказчик: Однажды ночью в Хунъюане, ярко освещённом искусственным светом.
 
 # Original: The child's yellow eyes glimmer menacingly in the shadows as she stares down at the thief.
-Рассказчик: Жёлтые глаза дитя угрожающе мерцают в тени, пока оно смотрит сверху вниз на вора.
+Рассказчик: Жёлтые глаза дитя угрожающе мерцают в тени, когда оно смотрит на вора сверху вниз.
 
 # Original: Done running? It was embarrassing to watch.
-Отис: Набегался? Было неловко смотреть.
+Отис: Набегался? Неловко было за этим наблюдать.
 
 # Original: I knew that the Mao branch were supposed to be fast, but... this is...
 Рассказчик: Я знал, что ветвь Мао славится своей скоростью, но... это...
@@ -17,10 +17,10 @@
 Рассказчик: Вор украл довольно важную посылку, когда её перевозили к господину дитя.
 
 # Original: She received the command to capture the thief a whole two hours after he'd already made off with the shipment, but...
-Рассказчик: Оно получило приказ поймать вора спустя целых два часа после того, как тот скрылся с посылкой, но...
+Рассказчик: Она получила приказ поймать вора спустя целых два часа после того, как тот скрылся с посылкой, но...
 
 # Original: ... it took her less than thirty minutes to catch up to him.
-Рассказчик: ...ему потребовалось меньше тридцати минут, чтобы догнать его.
+Рассказчик: ...ей потребовалось меньше тридцати минут, чтобы догнать его.
 
 # Original: The Backstreets of Hongyuan teems with a chaotic jumble of buildings, but to a Heishou like herself—who roamed its alleys nightly and fought in every corner of the District—it was easy to anticipate the thief’s escape route.
 Рассказчик: Подворотни Хунъюана кишат хаотичным нагромождением зданий, но для члена Стаи Хэйшоу вроде него — каждую ночь бродящего по этим переулкам и сражавшегося в каждом уголке Района — было легко предугадать путь побега вора.
