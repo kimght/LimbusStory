@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "original": "Grade 8 Fixer",
     "translation": "Корректировщица 8 ранга",
@@ -3055,5 +3055,34 @@
     "original": "N Corp. New League of Nine Littérateurs",
     "translation": "Новая Лига Девяти Литераторов Корп. N",
     "model": "이상"
+  },
+  {
+    "original": "Welfare Team Agent",
+    "translation": "Агент Команды Благосостояния",
+    "model": "로쟈"
+  },
+  {
+    "original": "Welfare Team Agent",
+    "translation": "Агент Команды Благосостояния"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "마법소녀"
+  },
+  {
+    "original": "O-01-04",
+    "translation": "O-01-04",
+    "model": "마법소녀"
+  },
+  {
+    "original": "Central Command Sephirah",
+    "translation": "Сефира Центрального Командного Отдела",
+    "model": "티페리트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "티페리트"
   }
 ]
