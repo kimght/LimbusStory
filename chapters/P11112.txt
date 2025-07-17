@@ -23,7 +23,7 @@
 Рассказчик: ...ей потребовалось меньше тридцати минут, чтобы догнать его.
 
 # Original: The Backstreets of Hongyuan teems with a chaotic jumble of buildings, but to a Heishou like herself—who roamed its alleys nightly and fought in every corner of the District—it was easy to anticipate the thief’s escape route.
-Рассказчик: Подворотни Хунъюана кишат хаотичным нагромождением зданий, но для члена Стаи Хэйшоу вроде него — каждую ночь бродящего по этим переулкам и сражавшегося в каждом уголке Района — было легко предугадать путь побега вора.
+Рассказчик: Подворотни Хунъюана кишат хаотичным нагромождением зданий, но для члена Стаи Хэйшоу вроде неё — каждую ночь бродящего по этим переулкам и сражавшегося в каждом уголке Района — было легко предугадать путь побега вора.
 
 # Original: I see that the Anamnaworm is still intact.
 Отис: Вижу, Анамначервь всё ещё цел.
@@ -32,19 +32,19 @@
 Рассказчик: В ладони вора извивалось длинное и толстое червеобразное существо.
 
 # Original: It was a truly hideous thing, its surface slick and its body wriggling in an unnatural and unpleasant motion... but that wasn't the worst of it.
-Рассказчик: Оно было поистине отвратительным — с блестящей поверхностью и телом, извивающимся неестественными, неприятными движениями... но это было не самое худшее.
+Рассказчик: Оно было поистине отвратительным — его поверхность была скользкой, а тело извивалось в неестественных и неприятных движениях... но это было не самое худшее.
 
 # Original: The worst of it was its face.
 Рассказчик: Хуже всего было его лицо.
 
 # Original: Its features are arranged like those of a human face—yet its sallow flesh hangs loose, its hollow eyes staring into the distant void. A monstrosity.
-Рассказчик: Черты расположены как на человеческом лице — но его желтоватая плоть обвисла, пустые глаза смотрят в далёкую пустоту. Чудовище.
+Рассказчик: Его черты устроены так же, как черты человеческого лица — но его желтоватая плоть обвисла, а пустые глаза смотрят в далёкую пустоту. Чудовище.
 
 # Original: Yet, the thief was holding this hideous thing as if it was the most precious thing in the world.
 Рассказчик: И всё же вор держал это омерзительное создание так, будто оно было самой драгоценной вещью в мире.
 
 # Original: I must cut off your head here and now for stealing an Anamnaworm made from a noble one...
-Отис: Я должна отрубить тебе голову здесь и сейчас за кражу Анамначервя, созданного из благородной особы...
+Отис: За кражу Анамначервя, созданного из благородной особы, я должна отрубить тебе голову здесь и сейчас ...
 
 # Original: People from different regions, like the west or the south, might wonder what the purpose of this curious monstrosity might be...
 Рассказчик: Люди из разных регионов, например с запада или юга, могли бы задаться вопросом о предназначении этого странного чудовища...
@@ -53,13 +53,13 @@
 Рассказчик: ...но Анамначервь не был обычной личинкой.
 
 # Original: Anyone can gain the memories of the person who was used to make the grub by inserting it into their body,
-Рассказчик: Поместив её в своё тело, кто угодно мог бы получить воспоминания человека, из которого была создана личинка,
+Рассказчик: Поместив её в своё тело, кто угодно может получить воспоминания человека, из которого была создана личинка,
 
 # Original: and even once they have been mutated into this worm-like form, they are counted as people, not tools.
 Рассказчик: и даже после того, как они мутировали в эту червеобразную форму, они считаются людьми, а не инструментами.
 
 # Original: This particular Anamnaworm, currently held in the thief's palms, was created from someone of high prestige in Hongyuan with deep knowledge of the secrets of the family.
-Рассказчик: Этот конкретный Анамначервь, который сейчас находился в ладонях вора, был создан из человека высокого положения в Хунъюане, обладавшего глубокими познаниями о секретах семьи.
+Рассказчик: Анамначервь, который сейчас находился в ладонях вора, был создан из человека высокого положения в Хунъюане, обладавшего глубокими познаниями о секретах семьи.
 
 # Original: Various familial secrets of the lord were preserved within it in the form of a memory...
 Рассказчик: Различные семейные тайны господина хранились в нём в форме воспоминаний...
@@ -176,10 +176,10 @@
 Рассказчик: Гуххх...
 
 # Original: You can try inserting the Anamnaworm into your body... but I can get it back fully intact as long as I cut you down immediately.
-Отис: Можешь пытаться засунуть Анамначервя в своё тело... но я смогу вернуть его совершенно нетронутым, если убью тебя немедленно.
+Отис: Можешь пытаться засунуть Анамначервя в своё тело... но я смогу вернуть его нетронутым, если убью тебя немедленно.
 
 # Original: You seem to have missed that part.
-Отис: Похоже, ты упустил это.
+Отис: Похоже, ты упустил эту часть.
 
 # Original: The child, who leaped forward in an explosive burst of speed, had killed the thief before he even had a chance to let out his final cry.
 Рассказчик: Дитя, которое прыгнуло вперёд со взрывным порывом скорости, убило вора прежде, чем тот успел издать свой последний крик.
