@@ -14,16 +14,16 @@
 Рассказчик: Всё, что оно получило, впервые посетив банкет в Дагуаньюане...
 
 # Original: Haah... no one came to the banquet but my big brother with that silly smile, huh?
-Измаил: Хаах... никто не пришёл на банкет, кроме моего старшего брата с этой дурацкой улыбкой, да?
+Измаил: Хаах... никто не пришёл на банкет, кроме моего старшего брата с этой своей дурацкой улыбкой, а?
 
 # Original: ... was a nearly empty party. The Family Hierarch and the family elders, whom she actually came to see, apparently all had some business to attend to and only left her letters and notes.
 Рассказчик: ... это практически безлюдный приём. Глава Семьи и старейшины, которых оно действительно пришло увидеть, по-видимому, все были заняты какими-то делами и оставили ему только письма и записки.
 
 # Original: And the people who were indifferent about her didn't even bother showing their faces...
-Рассказчик: А те, кому оно было безразлично, даже не удосужились показать свои лица...
+Рассказчик: А те, кому она было безразлична, даже не удосужились показать свои лица...
 
 # Original: So, essentially, there was but a single family member who was there to welcome her.
-Рассказчик: Так что, по сути, нашёлся только один член семьи, который прибыл встретить его.
+Рассказчик: Так что, по сути, нашёлся только один член семьи, который прибыл встретить её.
 
 # Original: This being an inauspicious place, it has already been anticipated that they would not hail your return with open arms...
 И Сан: Сие место неблагоприятно, так что уже предвиделось, что они не встретят твоё возвращение с распростёртыми объятиями...
@@ -50,7 +50,7 @@
 Измаил: Фух... Не могу поверить, что нам действительно удалось зачерпнуть немного этих ■■■■■ из глубин по следам ■■■■■■■ Кита. Нам действительно повезло, да?
 
 # Original: Jeez, I'm still shaking from what a close call that was. First time in the Lakes, almost devoured by the Waves as soon as we sailed out...
-Измаил: Боже, я всё ещё дрожу от того, насколько всё было на волоске. Первый раз в Озёрах, чуть не сожраны Волнами, как только мы вышли в плавание...
+Измаил: Боже, я всё ещё дрожу от того, насколько всё было на волоске. Первый раз на Озёрах, едва не поглощены Волнами, как только мы вышли в плавание...
 
 # Original: It could not be helped. You are a sc■■■ of the Jia Family; you must have had no ■■■■■ ■■ visit U Corp. even once.
 И Сан: Иного пути не было. Ты — от■■■■■ семьи Цзя; у тебя не было ни ■■■■■ посетить Корпорацию U хотя бы раз.
@@ -107,13 +107,13 @@
 Измаил: Ну и жуткую песню они выбрали, чтобы петь её на улицах.
 
 # Original: I guess that's Hongyuan for you.
-Измаил: Наверное, это и есть Хунъюань.
+Измаил: Наверное, для тебя это и есть Хунъюань.
 
 # Original: What an... egregious song this is.
 И Сан: Какая... возмутительная песня.
 
 # Original: The 'gem' of Hongyuan... cannot be referring to anyone else other than young lord Baoyu.
-И Сан: «Самоцвет» Хунъюаня... не может означать ни кого иного, кроме молодого господина Баоюя.
+И Сан: «Самоцвет» Хунъюаня... не может означать ни кого иного, кроме молодого господина Баою.
 
 # Original: Well... I get how these songs can spread.
 Измаил: Ну... я понимаю, как такие песни могут распространяться.
@@ -125,10 +125,10 @@
 Рассказчик: Песня называла его зловещим знамением... и не без оснований. Его боится каждый кандидат на пост Главы Семьи.
 
 # Original: At first, what they felt was envy. Envy for the gem of Hongyuan who was praised and loved by the elders...
-Рассказчик: Сначала они чувствовали зависть. Зависть к драгоценности Хунъюаня, которого хвалили и любили старейшины...
+Рассказчик: Сначала они чувствовали зависть. Зависть к самоцвету Хунъюаня, которого хвалили и любили старейшины...
 
 # Original: ... but that envy soon turned to fear when the gem began to ruthlessly wield the favor and love as his power to dominate the competition.
-Рассказчик: ... но эта зависть вскоре превратилась в страх, когда эта драгоценность начала безжалостно использовать благосклонность и любовь как свою силу, позволяющую ей доминировать над конкурентами.
+Рассказчик: ... но эта зависть вскоре превратилась в страх, когда самоцвет начал безжалостно использовать благосклонность и любовь как свою силу, позволяющую ему доминировать над конкурентами.
 
 # Original: Every move he made was a threat against the other candidates.
 Рассказчик: Каждый его ход был угрозой другим кандидатам.
@@ -137,16 +137,16 @@
 Рассказчик: Но... то, чего боится дитя, — это нечто иное.
 
 # Original: The scariest thing about him is that... none of us have any idea what he's thinking behind that smiling face of his.
-Измаил: Самое страшное в нём то, что... никто из нас понятия не имеет, о чём он думает за этим улыбающимся лицом.
+Измаил: Самое страшное в нём то, что... никто из нас понятия не имеет, о чём он думает, скрываясь за этим улыбающимся лицом.
 
 # Original: Yet, has he not always shown quite the pleasant degree of gentleness toward you, Miss? He thought it kind to visit your banquet, after all.
-И Сан: И всё же, разве он не всегда проявлял к тебе весьма приятную степень мягкости, мисс? Он счёл добрым делом посетить твой банкет, в конце концов.
+И Сан: И всё же, разве он не всегда проявлял к тебе весьма приятную степень доброты, мисс? Он счёл добрым делом посетить твой банкет, в конце концов.
 
 # Original: Were you not quite close with him in your youth?
 И Сан: Разве вы не были довольно близки в юности?
 
 # Original: Yeah, we used to be pretty close. I followed him around because he'd always play with me wearing that silly smile of his, but...
-Измаил: Да, мы были довольно близки. Я ходила за ним по пятам, потому что он всегда играл со мной с этой дурацкой улыбкой, но...
+Измаил: Да, мы были довольно близки. Я ходила за ним по пятам, потому что он всегда играл со мной надев на лицо эту глупую улыбку, но...
 
 # Original: ... That smile just feels so... I don't know, it makes my skin crawl.
 Измаил: ... Эта улыбка просто кажется такой... не знаю, от неё мурашки по коже.
@@ -170,10 +170,10 @@
 Рассказчик: Дитя качает головой, пытаясь прояснить свой разум после того, как поделилось опасениями со своей правой рукой.
 
 # Original: Analyzing other candidates was all well and good, but she decided that it would be best for her to focus on what she has at this very moment.
-Рассказчик: Анализировать других кандидатов было хорошо и правильно, но оно решило, что лучше всего будет сосредоточиться на том, что у него есть в данный момент.
+Рассказчик: Анализировать других кандидатов — это всё очень хорошо и замечательно, но оно решило, что лучше всего будет сосредоточиться на том, что у него есть в данный момент.
 
 # Original: I'm just worried that even that concern might be kinda... premature, to be honest.
-Измаил: Я просто волнуюсь, что даже это беспокойство может быть... преждевременным, если честно.
+Измаил: Если честно, я просто волнуюсь, что даже это беспокойство может быть... преждевременным.
 
 # Original: We gotta focus on protecting what we have until the Evaluation day.
 Измаил: До наступления дня Оценки нам нужно сосредоточиться на защите того, что у нас есть.
