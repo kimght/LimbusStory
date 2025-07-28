@@ -1,8 +1,8 @@
 ﻿# Original: I see a small group of people fleeing, navigating past the bodies growing cold and stiff.
-Рассказчик: Я вижу небольшую группу людей, спасающихся бегством, они пробираются мимо тел, холодеющих и коченеющих.
+Рассказчик: Я вижу как небольшая группа людей убегает, пробираясь мимо холодеющих и окоченевших тел.
 
 # Original: But it won't matter. Don't they know that there's no getting away from the snakes?
-Рассказчик: Но это не будет иметь значения. Неужели они не знают, что от змей не уйти?
+Рассказчик: Но это неважно. Неужели они не знают, что от змей не уйти?
 
 # Original: Gaaaaah!
 Рассказчик: Гааааах!
@@ -11,13 +11,13 @@
 Родион: …….
 
 # Original: While it is not as deadly as the Night in the Backstreets, the nighttime of Hongyuan is when various grievances and resentments come to light and clash.
-Рассказчик: Хотя ночь в Хунъюане и не так смертоносна, как Ночь в Подворотнях, именно в это время различные обиды и недовольства выходят на свет и сталкиваются.
+Рассказчик: Хотя ночь в Хунъюане и не так смертоносна, как Ночь в Подворотнях, именно в это время различные обиды и недовольства проявляют себя и сталкиваются.
 
 # Original: Maybe that's why...
-Рассказчик: Может быть, поэтому...
+Рассказчик: Может быть, именно поэтому...
 
 # Original: Nighttime is when those who harass and bully vendors and merchants during daytime then tremble and fall on the dirt to scurry under their desks.
-Рассказчик: Ночью те, кто днём донимал и запугивал торговцев и купцов, дрожат и падают в грязь, чтобы забиться под свои столы.
+Рассказчик: Ночью те, кто днём притеснял и запугивал торговцев и продавцов, дрожат и падают в грязь, чтобы забиться под свои столы.
 
 # Original: Nighttime is when those who would normally look down on the poor are rendered sobbing and snivelling as they demand to know under whose bidding we have been sent.
 Рассказчик: Ночью те, кто обычно смотрел на бедняков свысока, рыдают и хнычут, требуя ответа, по чьему приказу нас послали.
@@ -32,10 +32,10 @@
 Рассказчик: Одна из голов останавливается, и её глаза смотрят прямо на меня.
 
 # Original: Resentment. Fear. Sorrow.
-Рассказчик: Ненависть. Страх. Печаль.
+Рассказчик: Негодование. Страх. Печаль.
 
 # Original: Familiar sentiments, all of them, swirl behind the gathering cloudiness of those eyes.
-Рассказчик: Все эти знакомые чувства клубятся за пеленой, застилающей эти глаза.
+Рассказчик: Все эти знакомые чувства клубятся за сгущающейся пеленой этих глаз.
 
 # Original: Hah. Think you've got it rough, huh? You don't deserve to look at me like that.
 Родион: Ха. Думаешь, тебе досталось, да? Ты не заслуживаешь так на меня смотреть.
@@ -44,10 +44,10 @@
 Родион: Ты никогда не чувствовал пронизывающего холода. Ты никогда не чувствовал голода, ощущения, будто кости прилипли к коже.
 
 # Original: How dare a mere beast of the Heishou lecture us?! You're nothing more than livestock!
-Рассказчик: Как смеет какая-то тварь из Хэйшоу читать нам нотации?! Вы всего лишь скот!
+Рассказчик: Как смеет какая-то тварь из Хэйшоу поучать нас?! Вы всего лишь скот!
 
 # Original: I don't even look around as I decapitate the source of that voice with my polearm.
-Рассказчик: Я даже не оборачиваюсь, обезглавливая древковым оружием источник этого голоса.
+Рассказчик: Я даже не оборачиваясь, обезглавливаю своим древковым оружием источник этого голоса.
 
 # Original: I felt something rising from my throat. It was dry and discomforting.
 Рассказчик: Я почувствовала, как что-то подступает к горлу. Сухое и неприятное.
@@ -56,19 +56,19 @@
 Рассказчик: Неужели они не знают, за что их убивают?.. Как они не видят, что это совершенно заслуженно?
 
 # Original: So, despite knowing that there wasn't anyone to hear my words, I speak to the decapitated heads as I walk across the creaking floorboards.
-Рассказчик: Поэтому, хоть я и знала, что меня никто не услышит, я обращаюсь к отрубленным головам, идя по скрипучим половицам.
+Рассказчик: Поэтому, хоть я и знала, что никто не услышит моих слов, я обращаюсь к отрубленным головам, пока иду по скрипучим половицам.
 
 # Original: It's never enough, is it? Even with all this boundless wealth, you still had to look for more, huh?
 Родион: Вечно вам мало, да? Даже имея всё это безграничное богатство, вам всё равно нужно было больше, а?
 
 # Original: I guess it's more of a rhetorical question. It's power, isn't it? You wanted that little morsel of power, something more than money can get, didn't you?
-Родион: Полагаю, это скорее риторический вопрос. Власть, не так ли? Вы хотели этот маленький кусочек власти, нечто большее, чем можно купить за деньги, верно?
+Родион: Полагаю, это скорее риторический вопрос. Власть, не так ли? Вы хотели этот маленький кусочек власти, чего-то большего, чем то, что можно купить за деньги, верно?
 
 # Original: They must've been too greedy. Greedy enough to draw the ire of a different candidate... my lord's, to be exact.
-Рассказчик: Должно быть, они были слишком жадны. Достаточно жадны, чтобы навлечь на себя гнев другого кандидата... моего господина, если быть точной.
+Рассказчик: Они, должно быть, были слишком жадными. Настолько жадными, что навлекли на себя гнев другого кандидата... если быть точной — моего господина.
 
 # Original: And they have the gall to give me that look? They pretty much brought all this upon themselves.
-Рассказчик: И у них хватает наглости так на меня смотреть? Они практически сами навлекли всё это на себя.
+Рассказчик: И у них хватает наглости так на меня смотреть? Они практически сами навлекли на себя всё это.
 
 # Original: ... Looks like I've decapitated all of them.
 Родион: ... Похоже, я всех их обезглавила.
@@ -77,7 +77,7 @@
 Рассказчик: Приказы моего господина были просты.
 
 # Original: The mission was to find a small hermitage called <ruby=Songan>Pine</ruby> Hermitage and decapitate everyone on the list.
-Рассказчик: Задание состояло в том, чтобы найти небольшая обитель под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех по списку.
+Рассказчик: Задание состояло в том, чтобы найти небольшой скит под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех кто в списке.
 
 # Original: There was a weird exception clause listed there. Should I encounter a target who's not on the list, I should crush their head. But...
 Рассказчик: Там был странный пункт об исключении. Если я встречу цель, которой нет в списке, я должна размозжить ей голову. Но...
@@ -86,7 +86,7 @@
 Рассказчик: В этой крошечной обители я не видела никого, кто подходил бы под эти условия.
 
 # Original: Well, now that's taken care of, I should head back to— Huh?
-Родион: Что ж, с этим покончено, мне бы вернуться к... А?
+Родион: Что ж, с этим покончено, мне следует вернуться к... А?
 
 # Original: I detect a very small noise coming from under the pile of crates.
 Рассказчик: Я улавливаю очень тихий звук из-под груды ящиков.
@@ -119,16 +119,16 @@
 Рассказчик: Мальчик едва сдерживает слёзы. Но в обители тихо, и свидетелей нет.
 
 # Original: Now that I'm thinking about it, my lord probably didn't know for sure that there was a kid, either.
-Рассказчик: Теперь, когда я думаю об этом, мой господин, вероятно, тоже не знал наверняка, что там было дитя.
+Рассказчик: Если так подумать, мой господин тоже, вероятно, не знал наверняка, что там было дитя.
 
 # Original: There wouldn't have been that awkwardly worded clause if he did. He would've just told me to kill the child.
-Рассказчик: Не было бы того коряво сформулированного пункта, если бы он знал. Он бы просто приказал мне убить это дитя.
+Рассказчик: Если бы он знал — не было бы того коряво сформулированного пункта. Он бы просто приказал мне убить это дитя.
 
 # Original: He must've sent a Heishou for this job... as a warning.
-Рассказчик: Он, должно быть, послал Хэйшоу на это задание... в качестве предупреждения.
+Рассказчик: Должно быть, он послал Хэйшоу на это задание... в качестве предупреждения.
 
 # Original: A warning to others that he shouldn't even hear rumors of something like this.
-Рассказчик: Предупреждение остальным, что он не должен даже слышать слухов о чём-то подобном.
+Рассказчик: Предупреждение остальным, что он не должен даже слышать слухи о чём-то подобном.
 
 # Original: …….
 Родион: …….
@@ -137,13 +137,13 @@
 Рассказчик: Ннгх...
 
 # Original: Well, I see how it is.
-Родион: Что ж, понятно.
+Родион: Что ж, я поняла.
 
 # Original: If the lord's gonna get me outta here... well, he can't afford to use us snakes for the big missions, right?
-Родион: Если господин собирается вытащить меня отсюда... что ж, он не может позволить себе использовать нас, змей, для крупных заданий, верно?
+Родион: Если господин собирается вытащить меня отсюда... ну, он не может позволить себе использовать нас, змей, для больших заданий, верно?
 
 # Original: That has to be why he's using us only for these small, cheaper missions.
-Родион: Должно быть, поэтому он использует нас только для этих мелких, дешёвых заданий.
+Родион: Должно быть, поэтому он использует нас только для этих небольших, дешёвых миссий.
 
 # Original: Heh, looks like this lord's finally gonna be the one to keep the promise.
 Родион: Хех, похоже, этот господин наконец-то сдержит обещание.
@@ -173,13 +173,13 @@
 Рассказчик: Мне... не придётся дробить ему голову. Быстрого обезглавливания будет достаточно — я смогу объяснить это моему господину, и...
 
 # Original: Whoops, just realized that you pretty much had the situation handled.
-Грегор: Опаньки, только что понял, что ты почти со всем справилась.
+Грегор: Упс, только сейчас понял, что ты, в общем-то, и сама почти справилась
 
 # Original: ……
 Родион: ……
 
 # Original: I didn't just jump the gun, did I? My bad if I did.
-Грегор: Я ведь не поторопился, а? Виноват, если так.
+Грегор: Я ведь не слишком поторопился, а? Виноват, если так.
 
 # Original: The head drops to the floor. There's a large hole straight through the skull.
 Рассказчик: Голова падает на пол. В черепе зияет большая дыра.
