@@ -128,7 +128,7 @@
 Рассказчик: Дитя прочитало задание, написанное на бамбуковом свитке, прежде чем раздражённо усмехнуться.
 
 # Original: The mission was to find a small hermitage called <ruby=Song>Pine</ruby> Hermitage and decapitate everyone on the list.
-Рассказчик: Миссия состояла в том, чтобы найти небольшой скит под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех кто в списке.
+Рассказчик: Задание состояло в том, чтобы найти небольшую хижину отшельников под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех кто в списке.
 
 # Original: However, the child knew that the 'exception' clause written in small letters at the bottom of the instructions was the most important part of the mission.
 Рассказчик: Однако дитя знало, что пункт об «исключении», написанный мелкими буквами внизу инструкций, был самой важной частью задания.
