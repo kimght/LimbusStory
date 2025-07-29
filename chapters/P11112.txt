@@ -38,7 +38,7 @@
 Рассказчик: Хуже всего было его лицо.
 
 # Original: Its features are arranged like those of a human face—yet its sallow flesh hangs loose, its hollow eyes staring into the distant void. A monstrosity.
-Рассказчик: Его черты устроены так же, как черты человеческого лица — но его желтоватая плоть обвисла, а пустые глаза смотрят в далёкую пустоту. Чудовище.
+Рассказчик: Его черты устроены так же, как черты человеческого лица — но его болезненная плоть обвисла, а пустые глаза смотрят в далёкую пустоту. Чудовище.
 
 # Original: Yet, the thief was holding this hideous thing as if it was the most precious thing in the world.
 Рассказчик: И всё же вор держал это омерзительное создание так, будто оно было самой драгоценной вещью в мире.
