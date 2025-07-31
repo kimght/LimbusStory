@@ -168,7 +168,7 @@ Will you be making your tax payment in installments?
 Измаил: А то ведь в корпорации T…
 
 # Original: ... everyone must carry a timepiece, yes. I know the rules.
-Вергилий: ...Одним из привил является обладание часами, да. Мне это прекрасно известно.
+Вергилий: ...Одним из правил является обладание часами, да. Мне это прекрасно известно.
 
 # Original: But for every rule, there's always room for an alternative that offers a bit more flexibility. Of course, I don't suppose it's listed anywhere on that pamphlet.
 Вергилий: Но на каждое правило найдётся своя альтернатива, что предоставит больше гибкости. Конечно же в брошюре об этом вряд ли упоминалось…
