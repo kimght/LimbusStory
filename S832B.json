@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Вход в храм Текань, прошлое",
+      "place": "Tiekan Temple Entrance, Past",
       "model": "더어린홍루",
       "content": "Я не хочу туда входить… Мне страшно…"
     },
@@ -68,7 +68,7 @@
     },
     {
       "id": 13,
-      "place": "Внутри храма Текань, прошлое",
+      "place": "Tiekan Temple Interior, Past",
       "model": "어린홍루",
       "content": "…Я здесь."
     },
@@ -139,7 +139,7 @@
     },
     {
       "id": 27,
-      "place": "Внутри храма Текань",
+      "place": "Tiekan Temple Interior",
       "model": "가모",
       "content": "Добро пожаловать, маленький Баоюй."
     },
@@ -695,7 +695,7 @@
     },
     {
       "id": 138,
-      "place": "Внутри храма Текань",
+      "place": "Tiekan Temple Interior",
       "model": "홍루",
       "content": "Тогда я не совсем понял, почему ты задала мне этот вопрос."
     },
@@ -744,7 +744,7 @@
     },
     {
       "id": 147,
-      "place": "Внутри храма Текань",
+      "place": "Tiekan Temple Interior",
       "model": "가시춘",
       "title": "Семья Цзя",
       "content": "……."
@@ -1220,7 +1220,7 @@
     },
     {
       "id": 241,
-      "place": "Внутри храма Текань",
+      "place": "Tiekan Temple Interior",
       "model": "홍루",
       "content": "Понятно. Теперь, возможно, самое время."
     },
