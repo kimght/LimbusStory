@@ -298,7 +298,7 @@
 Май: Поехали, Май.
 
 # Original: Yes, Director Hubert.
-Май: Да, Директор Хьюберт.
+Май: Да, Директор Герберт.
 
 # Original: This company is growing increasingly bizarre, Miss Faust.
 Вергилий: Эта компания движется всё в более и более странном направлении, мисс Фауст.
