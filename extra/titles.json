@@ -3094,5 +3094,29 @@
     "original": "Effloresced E.G.O::Spicebush",
     "translation": "Расцветшее ЭГО::Линдера",
     "model": "동백에고각성"
+  },
+  {
+    "original": "The Master of Hongyuan",
+    "translation": "Хозяин Хунъюаня",
+    "model": "홍루"
+  },
+  {
+    "original": "The Hierarch of Hongyuan",
+    "translation": "Глава Хунъюаня",
+    "model": "이스마엘"
+  },
+  {
+    "original": "H Corp. Board Member",
+    "translation": "Член совета директоров Корп. H"
+  },
+  {
+    "original": "The Master of Twelve Beasts",
+    "translation": "Хозяин двенадцати Зверей",
+    "model": "홍루"
+  },
+  {
+    "original": "The Lord",
+    "translation": "Владыка",
+    "model": "홍루"
   }
 ]

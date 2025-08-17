@@ -2911,5 +2911,28 @@
   {
     "original": "The Big Brother",
     "translation": "Старший Брат"
+  },
+  {
+    "original": "Chronicler",
+    "translation": "Летописец"
+  },
+  {
+    "original": "Elder in a Jar",
+    "translation": "Старейшина в банке",
+    "model": "어르신그림자"
+  },
+  {
+    "original": "Elder in Monk Robes",
+    "translation": "Старейшина в монашеской робе",
+    "model": "어르신그림자"
+  },
+  {
+    "original": "Elder in a Machine",
+    "translation": "Старейшина в машине",
+    "model": "어르신그림자"
+  },
+  {
+    "original": "Fearful Employee",
+    "translation": "Напуганный сотрудник"
   }
 ]
