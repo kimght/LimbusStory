@@ -77,7 +77,7 @@
 Измаил: Растворяются...
 
 # Original: No matter the degree of violence the passengers may indulge in, no matter how severe the damages may be, the WARP trains can revert them to their initial states at the beginning of the journey.
-Фауст: Независимо от степени насилия, в которое могут быть вовлечены пассажиры, и независимо от того, насколько серьёзными могут быть поулченные повреждения, ВАРП поезда могут вернуть их в то состояние, в котором они были в начале путешествия.
+Фауст: Независимо от степени насилия, в которое могут быть вовлечены пассажиры, и независимо от того, насколько серьёзными могут быть полученные повреждения, ВАРП поезда могут вернуть их в то состояние, в котором они были в начале путешествия.
 
 # Original: Among several interpretations of the word 'violence' involves cannibalization, of course.
 Фауст: В данном случае в многозначное слово "насилие", конечно, включается и каннибализм.
