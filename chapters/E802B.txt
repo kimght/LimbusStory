@@ -50,7 +50,7 @@
 Родион: Какого чёрта, Сичунь? Это не в твоём стиле!
 
 # Original: What happened to the girl who looked down on us the moment we met? Ya even had the audacity to pretend to not know who we were, didn’tcha? Where’d all that confidence go, girl?
-Родион: Куда подевалась девчонка, что смотрела на нас свысока при первой встрече? Ты ж даже наглости набралась притвориться, что не знаешь, кто мы такие, да? Куда вся эта уверенность подевалась, а, девчонка?
+Родион: Куда подевалась девчонка, что смотрела на нас свысока при первой встрече? Ты ж даже наглости набралась притвориться, что не знаешь, кто мы такие, да? Куда вся эта уверенность подевалась, а?
 
 # Original: <That actually got under her skin back then, huh...?>
 Данте: <Надо же, её тогда это и вправду задело?..>
@@ -137,7 +137,7 @@
 Рассказчик: Некоторое время спустя...
 
 # Original: Prithee, thou must impress upon the illustrious Red Gaze that ‘twasn’t mine idea this time…
-Дон Кихот: Молю, ты должна втолковать достославному Алому Взору, что на сей раз идея была не моя...
+Дон Кихот: Молю, ты должна втолковать достославному Красному Взору, что на сей раз идея была не моя...
 
 # Original: ... Sinclair stared blankly at Don Quixote as she made her desperate plea toward Saude.
 Рассказчик: ...Синклер безучастно смотрел на Дон Кихот, пока та отчаянно взывала к Сод.
