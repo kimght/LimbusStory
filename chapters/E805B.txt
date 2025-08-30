@@ -32,7 +32,7 @@
 Цзы Гун: Верно. Облагороженный лагерь для интернированных в Хунъюане, ныне закрытый.
 
 # Original: <ruby=Peace and Calm>Pingan</ruby> Residential Support Zone. It is a policy Jia Yuanchun and the former Jia Mu pursued.
-Цзы Гун: Жилая зона поддержки <ruby=Мир и Спокойствие>Пинъань</ruby>. Это политика, которую продвигали Цзя Юаньчунь и бывшая Цзя Му.
+Цзы Гун: Центр жилищной поддержки <ruby=Мир и Спокойствие>Пинъань</ruby>. Это политика, которую продвигали Цзя Юаньчунь и бывшая Цзя Му.
 
 # Original: The policy was indefinitely tabled and the zone was closed off, as many voiced reluctance to pass it, but I find it hard to believe that Jia Yuanchun would admit defeat so easily.
 Цзы Гун: Проект был отложен на неопределённый срок, а зону закрыли, поскольку многие высказались против его принятия. Но мне трудно поверить, что Цзя Юаньчунь так легко признала бы своё поражение.

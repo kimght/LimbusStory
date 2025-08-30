@@ -3118,5 +3118,164 @@
     "original": "The Lord",
     "translation": "Владыка",
     "model": "홍루"
+  },
+  {
+    "original": "First Note",
+    "translation": "Первая записка"
+  },
+  {
+    "original": "First Note",
+    "translation": "Первая записка",
+    "model": "히스클리프그림자"
+  },
+  {
+    "original": "Second Note",
+    "translation": "Вторая записка"
+  },
+  {
+    "original": "Second Note",
+    "translation": "Вторая записка",
+    "model": "오티스그림자"
+  },
+  {
+    "original": "Third Note",
+    "translation": "Третья записка"
+  },
+  {
+    "original": "Third Note",
+    "translation": "Третья записка",
+    "model": "이스마엘그림자"
+  },
+  {
+    "original": "Fourth Note",
+    "translation": "Четвертая записка"
+  },
+  {
+    "original": "Fourth Note",
+    "translation": "Четвертая записка",
+    "model": "파우스트그림자"
+  },
+  {
+    "original": "Fifth Note",
+    "translation": "Пятая записка"
+  },
+  {
+    "original": "Fifth Note",
+    "translation": "Пятая записка",
+    "model": "로쟈그림자"
+  },
+  {
+    "original": "Sixth Note",
+    "translation": "Шестая записка"
+  },
+  {
+    "original": "Sixth Note",
+    "translation": "Шестая записка",
+    "model": "뫼르소그림자"
+  },
+  {
+    "original": "Seventh Note",
+    "translation": "Седьмая записка",
+    "model": "그레고르그림자"
+  },
+  {
+    "original": "\"One of Them\"",
+    "translation": "\"Один из них\"",
+    "model": "그레고르그림자"
+  },
+  {
+    "original": "Eighth Note",
+    "translation": "Восьмая записка",
+    "model": "돈키호테그림자"
+  },
+  {
+    "original": "Ninth Note",
+    "translation": "Девятая записка"
+  },
+  {
+    "original": "Ninth Note",
+    "translation": "Девятая записка",
+    "model": "료슈그림자"
+  },
+  {
+    "original": "Tenth Note",
+    "translation": "Десятая записка",
+    "model": "히스클리프그림자"
+  },
+  {
+    "original": "Eleventh Note",
+    "translation": "Одиннадцатая записка"
+  },
+  {
+    "original": "Eleventh Note",
+    "translation": "Одиннадцатая записка",
+    "model": "이상그림자"
+  },
+  {
+    "original": "Twelfth Note",
+    "translation": "Двенадцатая записка"
+  },
+  {
+    "original": "Twelfth Note",
+    "translation": "Двенадцатая записка",
+    "model": "홍루그림자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "싱클레어그림자"
+  },
+  {
+    "original": "Sinners",
+    "translation": "Грешники",
+    "model": "이상 & 싱클레어"
+  },
+  {
+    "original": "The Hierarch of Hongyuan",
+    "translation": "Глава Хунъюаня",
+    "model": "불량시춘"
+  },
+  {
+    "original": "Heishou Pack - You Branch",
+    "translation": "Стая Хэйшоу - Ветвь Ю",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Heishou Pack - You Branch",
+    "translation": "Стая Хэйшоу - Ветвь Ю"
+  },
+  {
+    "original": "Students",
+    "translation": "Ученики"
+  },
+  {
+    "original": "Xichun's Clan",
+    "translation": "Клан Сичунь",
+    "model": "웨이다침2"
+  },
+  {
+    "original": "H Corp. Merchant Representative",
+    "translation": "Представитель торговли Корп. H",
+    "model": "쩔쩔이사"
+  },
+  {
+    "original": "H Corp. Administrative Representative",
+    "translation": "Представитель администрации Корп. H",
+    "model": "굽신이사"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "임대옥"
+  },
+  {
+    "original": "The Pinky",
+    "translation": "Мизинец",
+    "model": "자로사복"
+  },
+  {
+    "original": "The Hierarch of Hongyuan",
+    "translation": "Глава Хунъюаня",
+    "model": "가주시춘"
   }
 ]

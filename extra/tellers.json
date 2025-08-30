@@ -2934,5 +2934,126 @@
   {
     "original": "Fearful Employee",
     "translation": "Напуганный сотрудник"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "히스클리프그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "오티스그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "이스마엘그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "파우스트그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "로쟈그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "뫼르소그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "그레고르그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "돈키호테그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "료슈그림자"
+  },
+  {
+    "original": "Sinner #1",
+    "translation": "Грешник #1",
+    "model": "이상그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "홍루그림자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "싱클레어그림자"
+  },
+  {
+    "original": "Yi Sang & Sinclair",
+    "translation": "И Сан & Синклер",
+    "model": "이상 & 싱클레어"
+  },
+  {
+    "original": "Shi Huazhen",
+    "translation": "Ши Хуачжэнь",
+    "model": "사화정"
+  },
+  {
+    "original": "Anxious Civilian",
+    "translation": "Напуганный гражданин"
+  },
+  {
+    "original": "Gamefowl",
+    "translation": "Бойцовый Петух"
+  },
+  {
+    "original": "Young Master of a House",
+    "translation": "Молодой Мастер Клана"
+  },
+  {
+    "original": "Architectural Engineer",
+    "translation": "Архитектурный Инженер"
+  },
+  {
+    "original": "Attendant",
+    "translation": "Прислужник"
+  },
+  {
+    "original": "Soldier",
+    "translation": "Солдат"
+  },
+  {
+    "original": "Honored Guest",
+    "translation": "Почтенный гость"
+  },
+  {
+    "original": "Sinclair & Jia Xichun",
+    "translation": "Синклер & Цзя Сичунь"
+  },
+  {
+    "original": "Flustered Board Member",
+    "translation": "Взволнованный член совета",
+    "model": "쩔쩔이사"
+  },
+  {
+    "original": "Obsequious Board Member",
+    "translation": "Подобострастный член совета",
+    "model": "굽신이사"
+  },
+  {
+    "original": "Wei?",
+    "translation": "Вэй?",
+    "model": "폭주웨이"
   }
 ]
