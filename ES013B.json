@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Daguanyuan - Special Lecture Hall",
+      "place": "Дагуаньюань - Особый лекционный зал",
       "model": "돈키호테",
       "content": "Гм-гм..."
     },
@@ -25,7 +25,7 @@
     },
     {
       "id": 5,
-      "place": "Daguanyuan - Special Lecture Hall, Recent Past",
+      "place": "Дагуаньюань - Особый лекционный зал, недавно",
       "content": "Отис, которая уже довольно долго сверлила Дон Кихот испепеляющим взглядом, наконец решила высказать свои сомнения Сод."
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "id": 13,
-      "place": "Daguanyuan - Special Lecture Hall",
+      "place": "Дагуаньюань - Особый лекционный зал",
       "model": "돈키호테",
       "content": "Э-э... Посмотрим же!.."
     },

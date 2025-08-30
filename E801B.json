@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Daguanyuan - Heishou Houses Assembly",
+      "place": "Дагуаньюань - Место сбора Домов",
       "content": "В зале, где витал холодок напряжённости,"
     },
     {
@@ -86,15 +86,15 @@
     {
       "id": 18,
       "model": "쩔쩔이사",
-      "teller": "Flustered Board Member",
-      "title": "H Corp. Merchant Representative",
+      "teller": "Взволнованный член совета",
+      "title": "Представитель торговли Корп. H",
       "content": "Ваше величие, безусловно, соответствует вашему положению, госпожа Юаньчунь."
     },
     {
       "id": 19,
       "model": "굽신이사",
-      "teller": "Obsequious Board Member",
-      "title": "H Corp. Administrative Representative",
+      "teller": "Подобострастный член совета",
+      "title": "Представитель администрации Корп. H",
       "content": "Мы все впечатлены вашей безграничной преданностью гражданам Хунъюаня, несмотря на ваш и без того плотный график…"
     },
     {
@@ -196,8 +196,8 @@
     {
       "id": 39,
       "model": "쩔쩔이사",
-      "teller": "Flustered Board Member",
-      "title": "H Corp. Merchant Representative",
+      "teller": "Взволнованный член совета",
+      "title": "Представитель торговли Корп. H",
       "content": "Кхм, кхм… если позволите, почтенная Глава. «Набить карманы»? Довольно странный оборот речи для описания того минимума уважения, которым общество может отплатить своим наиболее значимым членам, вам не кажется?"
     },
     {
@@ -266,8 +266,8 @@
     {
       "id": 53,
       "model": "쩔쩔이사",
-      "teller": "Flustered Board Member",
-      "title": "H Corp. Merchant Representative",
+      "teller": "Взволнованный член совета",
+      "title": "Представитель торговли Корп. H",
       "content": "Хмммм…"
     },
     {
@@ -402,7 +402,7 @@
     {
       "id": 80,
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "…Семья Ши не возражает."
     },
     {

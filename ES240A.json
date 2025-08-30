@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Daguanyuan Sparring Grounds",
+      "place": "Площадка для поединков Дагуаньюаня",
       "model": "설반",
       "content": "Зачем останавливаться?"
     },
@@ -137,7 +137,7 @@
     },
     {
       "id": 26,
-      "place": "Daguanyuan Streets",
+      "place": "Улицы Дагуаньюаня",
       "model": "웨이",
       "title": "Клан Сичунь",
       "content": "Превосходная работа, госпожа. Вы блестяще сдали четвёртый экзамен."
@@ -151,7 +151,7 @@
     {
       "id": 28,
       "model": "불량시춘",
-      "title": "The Hierarch of Hongyuan",
+      "title": "Глава Хунъюаня",
       "content": "......"
     },
     {

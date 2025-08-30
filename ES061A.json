@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Daguanyuan Sparring Grounds",
+      "place": "Площадка для поединков Дагуаньюаня",
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "Что ж, поздравляю, твоя взяла. А теперь перестань так на меня смотреть и убирайся."
     },
     {
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "Да... и что с того?! Хочешь назвать меня нищим неудачником?"
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": 4,
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "Ах ты..."
     },
     {
@@ -40,7 +40,7 @@
     {
       "id": 6,
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "..."
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 10,
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "..."
     },
     {
@@ -82,7 +82,7 @@
     {
       "id": 13,
       "model": "사화정",
-      "teller": "Shi Huazhen",
+      "teller": "Ши Хуачжэнь",
       "content": "Ты... ты знала моё имя? ...Госпожа?"
     },
     {
