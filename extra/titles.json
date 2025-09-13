@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "original": "Grade 8 Fixer",
     "translation": "Корректировщица 8 ранга",
@@ -3277,5 +3277,14 @@
     "original": "The Hierarch of Hongyuan",
     "translation": "Глава Хунъюаня",
     "model": "가주시춘"
+  },
+  {
+    "original": "N Corp.",
+    "translation": "Корп. N"
+  },
+  {
+    "original": "N Corp. New League of Nine Littérateurs",
+    "translation": "Новая Лига Девяти Литераторов Корп. N",
+    "model": "료슈"
   }
 ]
