@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "original": "Samjo",
     "translation": "Самджо",
@@ -3055,5 +3055,68 @@
     "original": "Wei?",
     "translation": "Вэй?",
     "model": "폭주웨이"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "주교메이어스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아미야"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스카디"
+  },
+  {
+    "original": "Inquisitor",
+    "translation": "Инквизитор",
+    "model": "아이린"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "메이어스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "켈시"
+  },
+  {
+    "original": "Mon3tr",
+    "translation": "Мон3тр",
+    "model": "Mon3tr"
+  },
+  {
+    "original": "Fellow Researcher",
+    "translation": "Коллега-Исследователь"
+  },
+  {
+    "original": "Townsfolk",
+    "translation": "Горожане"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "박사"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "돈키호테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "파비우스"
+  },
+  {
+    "original": "Village Chief",
+    "translation": "Староста Деревни",
+    "model": "파비우스"
   }
 ]
