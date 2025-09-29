@@ -137,7 +137,7 @@
 Измаил: Ну... твой босс мёртв. Что теперь? Хотите продолжить?
 
 # Original: Gah... Dammit!
-Сауде: Гах... Чёрт возьми!
+Сод: Гах... Чёрт возьми!
 
 # Original: In a large-scale battle involving multiple combatants, the death of the leader often means the death of morale.
 Рассказчик: В крупномасштабной битве с участием множества бойцов смерть лидера часто означает смерть боевого духа.

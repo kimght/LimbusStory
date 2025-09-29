@@ -17,7 +17,7 @@
 Босс банды Бом-бом: Но… понятней… не стало…!
 
 # Original: Oh, and for reference, Effie and I work in a different department. Please don’t associate us with them.
-Сауде: Ох, к вашему сведению, я и Эффи работаем в другом отделе. Пожалуйста, не связывайте нас с ними.
+Сод: Ох, к вашему сведению, я и Эффи работаем в другом отделе. Пожалуйста, не связывайте нас с ними.
 
 # Original: ……
 Босс банды Бом-бом: ……
@@ -68,7 +68,7 @@
 Рёшу: А мне не нравится. Как-то это трусливо.
 
 # Original: Sorry, but can someone please keep her mouth shut?
-Сауде: Извините, но, может, кто-нибудь её заткнёт?
+Сод: Извините, но, может, кто-нибудь её заткнёт?
 
 # Original: …You’re free to try as long as you’re good with your ribs being cut apart.
 Грегор: …Можешь и сама попробовать, если готова, что тебя накрошат на мелкие кусочки.
@@ -92,13 +92,13 @@
 Данте: <О чём ты…?>
 
 # Original: I guess we owe you an explanation, judging from your clueless motions.
-Сауде: Судя по вашим неловким движениям, нам придётся объясниться.
+Сод: Судя по вашим неловким движениям, нам придётся объясниться.
 
 # Original: The long and short of it is that this thing contains J Corp’s other Singularity. This is a tool that sucks up ‘wishes’ from people and stores them in some form of energy.
 Эффи:  Говоря кратко, эта штука содержит в себе другую сингулярность корпорации J. Этот инструмент высасывает "желания" из людей и перерабатывает их в своего рода энергию.
 
 # Original: When the time is right, squeeze that wishpower onto a sheet of paper, and voilà! You get a one-use stick-on tattoo that boosts your luck to high heavens.
-Сауде: Когда придёт время, отпечатайте силу желаний на бумаге — и та-дам!, — получите одноразовую татуировку, с которой ваша удача не будет знать границ.
+Сод: Когда придёт время, отпечатайте силу желаний на бумаге — и та-дам!, — получите одноразовую татуировку, с которой ваша удача не будет знать границ.
 
 # Original: Seems the plan was to try to win the game on the top floor by scraping up others’ luck… Imagine, the boss of some lowly gang was carrying one of these.
 Эффи: Кажется, они планировали выиграть игру на верхнем этаже чужой удачей… Поверить не могу, что у босса захудалой банды оказалось что-то подобное.
@@ -146,7 +146,7 @@
 Эффи: Хорошо. Вытяните руку. Станете ненадолго самым удачливым человеком в Городе.
 
 # Original: Now then, you’ll act as Tingtangers, and we’ll be croupiers. Break a leg, everyone.
-Сауде: Так, с этих пор вы все — члены «Бом-боб», а мы — крупье. Ни пуха, ни пера.
+Сод: Так, с этих пор вы все — члены «Бом-боб», а мы — крупье. Ни пуха, ни пера.
 
 # Original: Vowing that we’ll see this operation to success no matter what…
 Рассказчик: Поклявшись, что мы завершим эту операция несмотря ни на что…

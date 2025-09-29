@@ -83,13 +83,13 @@
 Родион: Божечки, ну прекратите! Данте~ Пожалуйста, заткни их~
 
 # Original: You had us worried, Faust.
-Сауде: Ты заставила нас поволноваться, Фауст.
+Сод: Ты заставила нас поволноваться, Фауст.
 
 # Original: Amidst the chaos, a most gentle voice softly landed on my ears.
 Рассказчик: Сквозь хаос до меня донёсся мягкий голос.
 
 # Original: We were meant to meet each other at 4, but fifteen minutes had passed already. Surely you couldn’t have forgotten how to read a clock, right?
-Сауде: Мы договаривались встретиться в четыре, но уже минут пятнадцать прошло. Ты же не забыла, как читать время по часам, ведь так?
+Сод: Мы договаривались встретиться в четыре, но уже минут пятнадцать прошло. Ты же не забыла, как читать время по часам, ведь так?
 
 # Original: Certainly not. There was little I could do to alter the driver of the bus.
 Фауст: Отнюдь нет. Но повлиять на водителя автобуса у меня не вышло.
@@ -113,7 +113,7 @@
 Эффи: Люди возлагали на вас большие надежды, учитывая, что среди вас есть умнейшие люди Города.
 
 # Original: No wonder… Ms. Faust wasn’t looking very pleased.
-Сауде: Неудивительно… Мисс Фауст выглядела крайне недовольной.
+Сод: Неудивительно… Мисс Фауст выглядела крайне недовольной.
 
 # Original: My face has remained constant.
 Фауст: Моё выражение лица не менялось.
@@ -149,7 +149,7 @@
 Отис: План, чья цель — провал? Вряд ли его тогда можно квалифицировать как план.
 
 # Original: By the way, where is Vergilius? I agreed to assist with the operation mainly for a chance to get to see him.
-Сауде: Кстати, где же Вергилий? По большей части я согласилась принять участие в операции только ради возможности увидеть его.
+Сод: Кстати, где же Вергилий? По большей части я согласилась принять участие в операции только ради возможности увидеть его.
 
 # Original: He must’ve been embarrassed. Imagine accompanying people like these.
 Эффи: Ему должно быть стыдно. Представь сопровождать кого-то вроде них.
@@ -167,7 +167,7 @@
 Фауст: Эти двое будут нашими партнёрами в этой миссии. Они из отдела исполнения компании «Лимбус», также известном как "LCC".
 
 # Original: The Before Team of Clearance, please. Ah, I’m Saude, and this here is Effie.
-Сауде: Команда подготовки исполнения, пожалуйста. Ах, я — Сод, а это — Эффи.
+Сод: Команда подготовки исполнения, пожалуйста. Ах, я — Сод, а это — Эффи.
 
 # Original: What, are we supposed to clap or…
 Хитклиф: Ну и, нам в ладоши похлопать или чё…

@@ -293,7 +293,7 @@
 Дон Кихот: Н-но ведь не имеет значения, узнают ли юная Мэрс и юная Амия об этом…
 
 # Original: I agree with that fool this time. The Inquisitor used an artillery projectile that penetrates the outer wall—several of them, in fact—of a building, and the Head did not pursue her following that breach of taboo. This is clearly… not the City.
-Отис: На этот раз я соглашусь с этой дурой. Инквизитор использовала артиллерийский снаряд, пробивающий внешнюю стену здания, — причём несколько, — и Глава не стала преследовать её после нарушения этого табу. Это очевидно… не Город.
+Отис: На этот раз я соглашусь с этой дурой. Инквизитор использовала артиллерийский снаряд, пробивающий внешнюю стену здания, — причём несколько, — и Глава не пришёл за ней после нарушения этого табу. Это очевидно… не Город.
 
 # Original: Ain’t it better to let her talk her heart out than to hear her moan and whine about not being able to say anything?
 Хитклиф: Не лучше ли дать ей выговориться, чем слушать её стоны и нытьё о том, что ей ничего нельзя сказать?

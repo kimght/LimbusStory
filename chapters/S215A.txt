@@ -50,19 +50,19 @@
 Измаил: Но мой словарный запас, видимо, лишь верхушка айсберга.
 
 # Original: ……
-Сауде: ……
+Сод: ……
 
 # Original: I honestly couldn’t fathom why the higher-ups would organize a team of people like you.
-Сауде: Честно, без малейшего понятия, с чего начальству потребовалось составлять команду из таких людей как вы.
+Сод: Честно, без малейшего понятия, с чего начальству потребовалось составлять команду из таких людей как вы.
 
 # Original: I don’t suppose the lineup was meant to be understood by the likes of us.
 Фауст: Не думаю, что состав был подобран так, чтобы он был понятен кому-то вроде нас.
 
 # Original: And I’m still having trouble figuring out the meaning of this personnel measure…
-Сауде: И всё же такой подбор вызывает у меня вопросы…
+Сод: И всё же такой подбор вызывает у меня вопросы…
 
 # Original: But, I guess… this isn’t so bad after all.
-Сауде: Но, думаю… Всё не так уж плохо.
+Сод: Но, думаю… Всё не так уж плохо.
 
 # Original: Saude, you’ve finally reached the stage of acceptance. Congratulations.
 Фауст: Сод, ты наконец добралась до стадии принятия. Поздравляю.

@@ -1,20 +1,20 @@
 ﻿# Original: Just to make sure…
-Сауде: Просто хочу убедиться…
+Сод: Просто хочу убедиться…
 
 # Original: You all know that our goal is to win the game being held on the top floor, not reduce the ground floor of the casino to rubble, right?
-Сауде: Вы же в курсе, что наша задача — выиграть в игре на верхнем этаже, а не сравнять нижний с землёй?
+Сод: Вы же в курсе, что наша задача — выиграть в игре на верхнем этаже, а не сравнять нижний с землёй?
 
 # Original: I was certain that some definitely didn’t know or care, but I figured I’d rather not remind her.
 Рассказчик: Бьюсь об заклад, что часть определённо не знала или игнорировала это, но я решил не напоминать ей об этом.
 
 # Original: Not only must we reach the top, we also have to win the game as our objective states…
-Сауде: И наша цель — не просто добраться до верха, но и победить в игре…
+Сод: И наша цель — не просто добраться до верха, но и победить в игре…
 
 # Original: Thus, we need the wishpower to make it happen.
-Сауде: А для этого нам нужна сила желаний.
+Сод: А для этого нам нужна сила желаний.
 
 # Original: I won’t bother reviewing in detail how the wishpower we had managed to collect went down the drain for preposterous reasons. It’ll only hurt our morale.
-Сауде: Пожалуй не буду вдаваться в подробности того, как вся собранная нами сила желаний пошла псу под хвост по абсолютно нелепым причинам. Только моральный дух подорвёт.
+Сод: Пожалуй не буду вдаваться в подробности того, как вся собранная нами сила желаний пошла псу под хвост по абсолютно нелепым причинам. Только моральный дух подорвёт.
 
 # Original: I had to keep my head down, feeling the pricks of conscience poking at my heart.
 Рассказчик: Я понурил голову, чувствуя, как совесть колет моё сердце.
@@ -23,7 +23,7 @@
 Отис: Откуда тут можно извлечь больше всего силы желаний?
 
 # Original: That roulette next to the entrance. People who visit the casino try their daily luck using that roulette, and take or yield wishpower depending on the outcome.
-Сауде: Из той рулетки напротив входа. Посетители казино каждый день испытывают на ней свою удачу, получая или отдавая силу желаний в зависимости от результата.
+Сод: Из той рулетки напротив входа. Посетители казино каждый день испытывают на ней свою удачу, получая или отдавая силу желаний в зависимости от результата.
 
 # Original: Is that so? Then I’ll seek out an opportunity to snatch the container attached to it.
 Отис: Вот как? Тогда поищу способ вытащить контейнер из неё.
@@ -98,7 +98,7 @@
 Рассказчик: …и лишь стоило тому уклониться, как рулетка, стоявшая позади него, разлетелась на осколки.
 
 # Original: The, the wish container…!
-Сауде: К-контейнер желаний…!
+Сод: К-контейнер желаний…!
 
 # Original: Spouts of what I assume was once wishpower until moments ago poured through the poor remains of the roulette.
 Рассказчик: Потоки того, что, кажется, было силой желаний, разлились в оставшиеся ошмётки рулетки.
@@ -143,7 +143,7 @@
 Данте: <……>
 
 # Original: I’ve made up my mind. Starting now, I won’t ever try to discuss plans or anything similar with these people.
-Сауде: Я решила. С этого момента, я никогда не буду пытаться обсуждать планы или что-либо подобное с этими людьми.
+Сод: Я решила. С этого момента, я никогда не буду пытаться обсуждать планы или что-либо подобное с этими людьми.
 
 # Original: Took you long enough to realize.
 Фауст: У тебя ушло на это много времени

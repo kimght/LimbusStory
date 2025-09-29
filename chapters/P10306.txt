@@ -134,7 +134,7 @@
 Дон Кихот: ВЕЧЕ-РИНКА! ВЕЧЕ-РИНКА!
 
 # Original: Kuh... Ugh...
-Сауде: Кух... Ух...
+Сод: Кух... Ух...
 
 # Original: As long as a reward is in sight... their work efficiency will skyrocket.
 Рассказчик: Пока награда маячит на горизонте... эффективность их работы взлетит до небес.
@@ -146,13 +146,13 @@
 Дон Кихот: Я должна покинуть сие место поспешно ради ВЕЧЕ— ах, по делам! Не сопротивляйся и прими своё наказание с достоинством!
 
 # Original: I-I didn't know! I didn't...! I didn't know they were one of the Middle—
-Сауде: Я-я не знала! Я не...! Я не знала, что они были из Среднего Пальца—
+Сод: Я-я не знала! Я не...! Я не знала, что они были из Среднего Пальца—
 
 # Original: I! CARE! NOT!
 Дон Кихот: МЕНЯ! ЭТО! НЕ! ВОЛНУЕТ!
 
 # Original: Augh...
-Сауде: Ауч...
+Сод: Ауч...
 
 # Original: Thou art evil! For it is evil to speak so ill of the brotherhood, the sisterhood of the Middle, to not take the Middle's side! Fie on thee!
 Дон Кихот: Ты зло! Ибо зло есть говорить столь дурно о братстве, сестринстве Среднего Пальца, не принимать сторону Среднего Пальца! Позор тебе!
