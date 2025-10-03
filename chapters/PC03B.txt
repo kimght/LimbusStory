@@ -20,7 +20,7 @@
 Амия: Вы… готовите суп из печенья и желе?..
 
 # Original: Noooo! No! No! You are not getting anywhere near the kitchen again, not after what you cooked up last time!
-Синклер: Не-е-ет! Нет! Нет! Ты больше не подойдёшь к кухне, не после того, что ты приготовил в прошлый раз!
+Синклер: Не-е-ет! Нет! Нет! Ты больше не подойдёшь к кухне, не после того, что ты приготовила в прошлый раз!
 
 # Original: While I must admit to a certain level of interest...
 И Сан: Хотя я должен признать определённый уровень интереса...
