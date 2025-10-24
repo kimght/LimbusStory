@@ -1,206 +1,206 @@
 # Original: Something caught my attention from the corner of my eye after another round of brutal combat.
-Рассказчик: Кое-что привлекло мое внимание после очередного раунда ожесточенного боя.
+Рассказчик: После очередного жестокого боя что-то краем глаза привлекло моё внимание.
 
 # Original: Huhh...? What's this now?
-Грегор: Хух...? Это еще что такое?
+Грегор: Хм-м?.. А это ещё что?
 
 # Original: We were on the final car adjacent to the freight car when we discovered that odd box with the T Corp. logo on it.
-Рассказчик: Мы находились в предпоследнем вагоне, когда обнаружили странный ящик с логотипом Корпорации T.
+Рассказчик: Мы были в последнем вагоне, примыкающем к грузовому, когда обнаружили эту странную коробку с логотипом Корпорации Т.
 
 # Original: Ah, 'tis the emblem of T Corp.!
-Дон Кихот: Ах, сие есть эмблема Корпорации T!
+Дон Кихот: Ах, сие есть эмблема Корпорации Т!
 
-# Original: It appears that it was broken in the fierceness of our battle.
-И Сан: Похоже, она была повреждена в пылу нашей битвы.
+# Original: It appears that the wall covering it was broken in the fierceness of our battle.
+И Сан: Похоже, стена, что скрывала её, была пробита в пылу нашей яростной битвы.
 
-# Original: Didn't that Chief Executive guy... Hubert, right? Didn't he offhandedly mention something about partnering with other Wings?
-Родион: Тот главный исполнительный... Герберт, верно? Кажется, он мимоходом упоминал что-то о партнерстве с другими Крыльями?
+# Original: Didn't that Chief Executive guy... Herbert, right? Didn't he offhandedly mention something about partnering with other Wings?
+Родион: Тот главный... Герберт, да? Он же вроде как вскользь упоминал о партнёрстве с другими Крыльями?
 
 # Original: I guess they were in cahoots with W Corp. too...
-Родион: Похоже, они были в сговоре с Корпорацией W в том числе...
+Родион: Похоже, они и с Корпорацией W были заодно...
 
 # Original: Such collaborations are not limited to T Corp.; it is oft the case that a Wing may work with another.
-И Сан: Подобные сотрудничества не ограничиваются Корпорацией T; Крылья достаточно часто работают друг с другом.
+И Сан: Подобное сотрудничество не ограничивается Корпорацией Т; нередко случается так, что одно Крыло может работать с другим.
 
 # Original: It is only on rare occasions that they urgently request the assistance of less significant, lesser-known corporations such as our own Limbus Company... Their choice appears to be quite irregular.
-И Сан: Лишь в редких случаях они срочно просят помощи у менее значительных и известных корпораций, таких как наша Компания Лимбус... Их выбор кажется достаточно необычным.
+И Сан: Лишь в редких случаях они срочно запрашивают помощь менее значимых, малоизвестных корпораций, подобных нашей Компании Лимбус... Их выбор кажется весьма необычным.
 
 # Original: Sounds like W Corp.'s heydays are long behind them.
-Родион: Похоже, лучшие дни Корпорации W давно позади.
+Родион: Звучит так, будто лучшие деньки Корпорации W давно позади.
 
 # Original: Just like this wall that's falling apart, revealing what's behind...
-Родион: Прямо как эта разваливающаяся стена, раскрывающая скрытое за ней...
+Родион: Прямо как эта стена, что разваливается на части, открывая то, что за ней...
 
 # Original: ... Oh! Speaking of falling apart, this room sure got messed up, huh?
-Родион: ... О! Кстати о развалах, этот вагон довольно сильно пострадал, да?
+Родион: ...О! Кстати о разваливающемся, эта комната, конечно, знатно пострадала, а?
 
 # Original: It was difficult for me to ignore how Rodya hurriedly swerved to a different subject as though she'd made a mistake. Even the tone of her voice shifted like she was catching herself.
-Рассказчик: Мне было трудно игнорировать то, насколько Родя поспешно сменила тему, словно исправляя совершенную ошибку. Даже тон ее голоса изменился так резко, будто она поймала себя на чем-то.
+Рассказчик: Мне было трудно не заметить, как Родя поспешно сменила тему, будто совершила ошибку. Даже тон её голоса изменился, словно она себя одёрнула.
 
 # Original: The various destroyed prosthetic parts covered in human remains indicate that this train car was boarded by several prosthetic-equipped Fixers.
-Мерсо: Множество частей от уничтоженных протезов, покрытые человеческими останками, указывают на то, что этот вагон по всей видимости был атакован Корректировщиками, оснащенными протезами.
+Мерсо: Различные уничтоженные части протезов, покрытые человеческими останками, указывают на то, что в этот вагон проникло несколько Корректировщиков с протезами.
 
-# Original: ... I can't think about that right now. Let's deal with the task at hand first.
-Рассказчик: ... Я не могу думать об этом сейчас. Давайте сначала разберемся с текущей задачей.
+# Original: ... I can't think about that right now. Let's first deal with the task at hand.
+Рассказчик: ...Не могу сейчас об этом думать. Сначала разберёмся с задачей.
 
-# Original: Maybe these people are from the same Office as that guy we met at the platform. Remember? He said he was warped over to T Corp. on an expedition.
-Измаил: Должно быть, эти люди из Офиса того парня, которого мы встретили на платформе. Помните? Он сказал, что его отправили в Корпорацию T на экспедицию.
+# Original: Maybe these people are from the same Office as that guy we met at the platform. Remember? He said he'd warped over to T Corp. on an expedition.
+Измаил: Может, эти люди из той же Конторы, что и тот парень, которого мы встретили на платформе. Помните? Он сказал, что отправился в экспедицию в Корпорацию Т.
 
 # Original: Look, it's almost like they're all wearing standardized sets of prosthetics. Same make, same model, everything.
-Измаил: Похоже, они все носили стандартизированные наборы протезов. Одна и та же марка, одна и та же модель, все одинаковое.
+Измаил: Смотрите, у них у всех будто бы стандартизированные наборы протезов. Та же марка, та же модель, всё одинаковое.
 
 # Original: Mm... I believe I have read articles stating that certain Offices do exclusively hire Fixers with prosthetics.
-Дон Кихот: Мм... Мнится мне, что я читала статьи, гласящие, будто некоторые Офисы нанимают исключительно Корректировщиков с протезами.
+Дон Кихот: М-м... Полагаю, я читала статьи, где говорилось, что некоторые Конторы нанимают исключительно Корректировщиков с протезами.
 
 # Original: Hm...? Wait, he's...
-Синклер: Хм...? Постойте, он...
+Синклер: Хм?.. Стойте, он...
 
 # Original: We were walking through the bloodied train car when we suddenly heard Sinclair's voice crack as though he saw something awful.
-Рассказчик: Мы шли через окровавленный вагон, когда внезапно услышали, как голос Синклера дрогнул, словно он увидел что-то ужасное.
+Рассказчик: Мы шли по залитому кровью вагону, когда внезапно услышали, как голос Синклера дрогнул, словно он увидел что-то ужасное.
 
 # Original: Fie...! He is the one we encountered at the platform...!
-Дон Кихот: Увы...! Сие есть тот самый, кого мы встретили на платформе...!
+Дон Кихот: Тьфу!.. Да это же тот, кого мы встретили на платформе!..
 
 # Original: This is the Fixer who suddenly started venting at us.
-Отис: Это тот Корректировщик, который вдруг начал кричать на нас.
+Отис: Это тот Корректировщик, что внезапно начал на нас изливать душу.
 
-# Original: Yeah, and he said something about going to T Corp. on an expedition and failing... They brought a whole train car full of Fixers for this contract? I guess calling it an expedition was no exaggeration.
-  Грегор: Да, он говорил что-то о том, как он отправился в Корпорацию T на экспедицию и облажался... Они привезли целый вагон Корректировщиков для этого контракта? Похоже, называть это экспедицией было не преувеличением.
+# Original: Yeah, and he said something about going to T Corp. on an expedition and failing... They brought a whole train car full of Fixers for this contract? I guess he wasn't exaggerating when he called it an expedition.
+Грегор: Ага, и он говорил что-то про экспедицию в Корпорацию Т и провал... Они притащили целый вагон Корректировщиков для этого контракта? Похоже, он не преувеличивал, когда назвал это экспедицией.
 
-# Original: There are over a dozen broken arms strewn about... they must have fought valiantly by replacing their broken arms with backup arms, perchance? A strategy, indeed!
-Дон Кихот: Здесь разбросано более дюжины сломанных рук... Должно быть, они доблестно сражались, заменяя свои сломанные руки запасными, не так ли? Воистину, стратегия!
+# Original: There are over a dozen broken arms strewn about... they must have fought valiantly by replacing their broken arms with backup arms, perchance?
+Дон Кихот: Здесь разбросано больше дюжины сломанных рук... должно быть, они доблестно сражались, заменяя сломанные руки запасными, возможно?
 
 # Original: <Makes sense... That would explain all those broken prosthetic arms and legs in this car.>
-Данте: <Резонно... Это объясняет все эти сломанные протезы для рук и ног, которые мы нашли в этом вагоне.>
+Данте: <Логично... Это бы объяснило все эти сломанные протезы рук и ног в этом вагоне.>
 
-# Original: Executive Manager, This is likely an aftermath of a battle between the Fixers and the Bloodbags.
-Отис: Исполнительный Менеджер, это, должно быть, последствия битвы между Корректировщиками и Кровососами.
+# Original: Executive Manager, This is likely an aftermath of a battle between Fixers and Bloodbags.
+Отис: Главный менеджер, это, скорее всего, последствия битвы между Корректировщиками и Кровососами.
 
-# Original: There were many similar cases during the war. Those using prosthetics would simply let their bodies be destroyed in battle because they considered them to be disposable as long as there was cash remaining in their wallets.
-Отис: Во время войны было много подобных случаев. Те, кто использовал протезы, просто позволяли своим телам быть уничтоженными в бою. Они считали их легко заменяемыми до тех пор, пока в их кошельках оставались деньги.
+# Original: There were many similar cases during the war. Those using prosthetics would simply let their bodies be destroyed in battle because they considered them to be disposable as long as their wallets would permit.
+Отис: Во время войны было много подобных случаев. Те, кто использовал протезы, просто позволяли уничтожать свои тела в бою, потому что считали их расходным материалом, пока кошелёк позволял.
 
-# Original: Of course, the blatant lack of self-preservation often led them to early graves.
-Отис: Конечно, такое вопиющее отсутствие инстинкта самосохранения часто приводило их к ранней могиле.
+# Original: Of course, the blatant lack of self-preservation often sent them to early graves.
+Отис: Конечно, столь вопиющее отсутствие инстинкта самосохранения часто сводило их в раннюю могилу.
 
-# Original: <Hm, maybe that's true...>
-Данте: <Хм, возможно, это правда...>
+# Original: <Hm, maybe so...>
+Данте: <Хм, возможно и так...>
 
-# Original: I see. There are more than a single possible interpretation of the same scene. I will remember both of your inputs.
-Фауст: Понятно. Существует более одной возможной интерпретации одной и той же сцены. Я запомню оба ваших предположения.
+# Original: I see. There are multiple possible interpretations depending on one's perspective, despite the fact that there is but a single scene. I will remember both of your inputs.
+Фауст: Понятно. Существует несколько возможных интерпретаций в зависимости от точки зрения, несмотря на то, что сцена всего одна. Я запомню ваши соображения.
 
-# Original: Mm, that's a good attitude. Employees with attitude like yours often made it to the end of the war.
-Отис: Мм, это хорошее отношение. Сотрудники с таким отношением часто доживали до конца войны.
+# Original: Mm, that's a good attitude. Employees with attitude like yours would often make it to the end of the war.
+Отис: М-м, хороший настрой. Сотрудники с таким отношением часто доживали до конца войны.
 
 # Original: Yes, well. Good for them.
-Фауст: Да? Что-же. Рада за них.
+Фауст: Что ж. Рада за них.
 
-# Original: Faust answers Outis in an uncharacteristically snappy manner. Signs of fatigue were creeping into her pensive expression.
-Рассказчик: Фауст ответила Отис в непривычной для неё резкой манере. На её задумчивом лице проявились признаки усталости.
+# Original: Faust answered Outis in an uncharacteristically snappy manner. Signs of fatigue were creeping into her pensive expression.
+Рассказчик: Фауст ответила Отис на удивление резко. На её задумчивом лице проступали признаки усталости.
 
 # Original: <You alright, Faust...?>
-Данте: <Ты в порядке, Фауст...?>
+Данте: <Ты в порядке, Фауст?..>
 
 # Original: It was rare to see any actual expression from her... I was starting to get worried.
-Рассказчик: Было редкостью увидеть на ее лице какое-либо выражение... Я начинал беспокоиться.
+Рассказчик: Редко можно было увидеть на её лице хоть какие-то эмоции... Я начал беспокоиться.
 
-# Original: I am physically unharmed, yet... Hm. Yes, I am alright.
-Фауст: Физически, со мной все в порядке, однако... Хм. Да, я в порядке.
+# Original: I am physically unharmed, but... Hm. Yes, I am alright.
+Фауст: Физически я невредима, но... Хм. Да, я в порядке.
 
-# Original: However, I do not enjoy this circumstance which we find ourselves in. It is as though I am casting nets to nowhere while lost and isolated in a blind sea.
-Фауст: Тем не менее, мне не нравится ситуация, в которой мы оказались. Я как будто забрасываю сети в никуда, будучи потерянной и изолированной в темном море.
+# Original: However, I do not enjoy this circumstance which we find ourselves in. It is as though I am casting nets to nowhere, lost and isolated in a blind sea.
+Фауст: Однако мне неприятна ситуация, в которой мы оказались. Словно я закидываю сети в никуда, затерявшись одна в слепом море.
 
-# Original: ... I could usually complete these deductions within moments after establishing a few basic cross-references between the accessible information.
-Фауст: ... Обычно я могла завершить свой анализ за считанные мгновения после произведения нескольких базовых перекрестных ссылок между доступной информацией.
+# Original: ... Normally, deductions such as these would have been completed within moments after establishing a few basic cross-references with the information I accessed.
+Фауст: ...Обычно подобные умозаключения были бы сделаны в считанные мгновения после установления нескольких базовых перекрёстных ссылок с информацией, к которой я получала доступ.
 
 # Original: Her voice was such a whisper for the second part of her sentence that even I could barely hear what she was saying.
-Рассказчик: Вторую часть своего предложения она произнесла таким шепотом, что даже я едва мог расслышать, что она говорит.
+Рассказчик: Вторую часть предложения она произнесла таким шёпотом, что даже я едва смог расслышать, что она сказала.
 
 # Original: Ah, I know what you mean.
-Измаил: Ах, я понимаю, что ты имеешь в виду.
+Измаил: А, я знаю, что ты имеешь в виду.
 
 # Original: Feeling like you're completely lost, obsessively casting net after net over the black, rippleless Lake in desperate hopes that one of them might pull in something we could eat.
-Измаил: Чувствуешь себя полностью потерянной, одержимо забрасывая сеть за сетью в черное, спокойное Озеро в отчаянной надежде, что одна из них может вытащить что-то съедобное.
+Измаил: Чувство, будто ты полностью потерялась, одержимо закидываешь сеть за сетью в чёрное, безмятежное Озеро в отчаянной надежде, что одна из них вытащит что-то съедобное.
 
-# Original: No way to tell where we are. No way to tell if there's even anything to eat under that glassy water surface... Grasping at the straws, you know?
-Измаил: Нет возможности понять, где ты находишься. Нет способа узнать, есть ли вообще что-нибудь съедобное под этой гладкой водной поверхностью... Хватаешься за соломинку, понимаешь?
+# Original: No way to tell where we are, no way to tell if there's even anything to eat under that glassy water surface... Grasping at the straws, you know?
+Измаил: Не знаешь, где ты, не знаешь, есть ли вообще что-то съедобное под этой зеркальной гладью... Хватаешься за соломинку, понимаешь?
 
-# Original: This sense I find mired in is not unlike your own; it is like lying my back over an unseen grave, for the reflection of radiance upon my eyes and the sanguine scent hanging from the tip of my olfactory tells me not of the forging path.
-И Сан: Ощущение, в коем я нахожу себя увязшим, слабо отличается от твоего; это подобно возлежанию на незримой могиле, ибо отражение света в моих глазах и кровавый аромат, стоящий в органах обоняния, ничего не говорят мне о пути грядущем.
+# Original: This sense I find myself mired in is not unlike your own; it is like lying my back over an unseen grave, for the reflection of radiance upon my eyes and the sanguine scent hanging from the tip of my olfactory sensors tells me naught of the forging path.
+И Сан: Чувство, в коем я погряз, сродни вашему; будто лежу я на незримой могиле, ибо отблеск сияния в моих очах и кровавый аромат, витающий у кончика моих обонятельных сенсоров, не говорят мне ничего о грядущем пути.
 
-# Original: It seemed that the first part of the sentence was well heard by Ishmael and Yi Sang, however. They walked up to her and shared a few words of consolation.
-Рассказчик: Похоже, первую часть предложения Измаил и И Сан расслышали. Они подошли к ней и поделились несколькими словами утешения.
+# Original: It seemed that Ishmael and Yi Sang picked up on the first part of her sentence, however, as they walked up to her and shared a few words of consolation.
+Рассказчик: Похоже, Измаил и И Сан расслышали первую часть её предложения, потому что они подошли к ней и сказали несколько слов утешения.
 
 # Original: By the way... I don't ever recall you talking like that, Faust.
-Измаил: Кстати... Я не помню, чтобы ты когда-либо так разговаривала, Фауст.
+Измаил: Кстати... Не припомню, чтобы ты когда-нибудь так говорила, Фауст.
 
-# Original: I don't know what it is, but you feel... different from your usual self, somehow?
-Измаил: Не знаю, в чем дело, но ты кажешься... какой-то другой, не похожей на себя обычную?
+# Original: I don't know what it is, but I feel like there's... something different about you today?
+Измаил: Не знаю, в чём дело, но мне кажется, что в тебе сегодня... есть что-то другое?
 
 # Original: That is...
 Фауст: Это...
 
 # Original: Oh, I mean, I don't hate it. I'm actually glad to learn that you had a softer side.
-Измаил: О, я хочу сказать, я не имею ничего против. Я на самом деле даже рада узнать, что у тебя есть более мягкая сторона.
+Измаил: О, то есть, мне это не не нравится. Я на самом деле рада узнать, что у тебя есть и мягкая сторона.
 
 # Original: This unseen side of yours... it is unfamiliar, yet quite fresh.
-И Сан: Прежде невидимая сторона твоя... она непривычна, но весьма свежа.
+И Сан: Эта ваша незримая сторона... она незнакома, но весьма свежа.
 
 # Original: ... Is that so.
-Фауст: ... Вот как.
+Фауст: ...Вот как.
 
 # Original: Faust's reply was curt. She closed her eyes.
-Рассказчик: Ответ Фауст был краток. Она закрыла глаза.
+Рассказчик: Ответ Фауст был коротким. Она закрыла глаза.
 
 # Original: As per the information provided by the pamphlet at the platform, it is likely that this train is composed of twelve passenger cars and one freight car.
-Мерсо: Согласно информации, предоставленной в брошюре на платформе, этот поезд должен состоять из двенадцати пассажирских вагонов и одного грузового.
+Мерсо: Согласно информации из брошюры на платформе, вероятно, этот поезд состоит из двенадцати пассажирских вагонов и одного грузового.
 
 # Original: Because we are on the eleventh car at the moment, that leaves a single car between us and the freight car in which Mephistopheles is secured.
-Мерсо: Поскольку мы на данный момент находимся в одиннадцатом вагоне, это оставляет всего один вагон между нами и грузовым вагоном, в котором располагается Мефистофель.
+Мерсо: Поскольку в данный момент мы находимся в одиннадцатом вагоне, это означает, что между нами и грузовым вагоном, в котором находится Мефистофель, остался один вагон.
 
 # Original: <Which means...>
-Данте: <Что означает...>
+Данте: <А это значит...>
 
 # Original: Which means that there is a high likelihood that we will soon encounter the Bloodfiend responsible for the creation of the Bloodbags aboard this train.
-Мерсо: Что означает, что существует высокая вероятность того, что мы скоро столкнемся с Кровожадом, ответственным за создание Кровососов на борту этого поезда.
+Мерсо: Это значит, что существует высокая вероятность того, что мы скоро столкнёмся с Кровожадом, ответственным за создание Кровососов на борту этого поезда.
 
 # Original: Just beyond that door...
-Рассказчик: Прямо за той дверью...
+Рассказчик: Прямо за этой дверью...
 
-# Original: Well, how strong could it be if its fodders are this weak? There were so many of 'em, but we practically smashed through their entire horde.
-Хитклиф: Да ладно, насколько сильным он может быть, если его пушечное мясо настолько слабое? Их было так много, но мы прошли насквозь через всю их орду.
+# Original: Well, how impressive could the leader of this sort of cannon fodder be?
+Хитклиф: Ну и насколько впечатляющим может быть предводитель такого пушечного мяса?
 
 # Original: A different, more accurate interpretation would be to say that a being capable of commanding a force as large as the Bloodbags we have defeated should be considered a high-risk entity.
-Мерсо: Другая, более точная интерпретация заключается в том, что существо, способное командовать такой многочисленной силой, как те Кровососы, которых мы победили, должно было бы считать объектом высокого риска.
+Мерсо: Иная, более точная интерпретация заключается в том, что существо, способное командовать силой столь же большой, как побеждённые нами Кровососы, следует считать объектом высокого риска.
 
 # Original: Although this is not common knowledge, there is a subcategory of Fixers called Bloodfiend Hunters who specialize in... yes, hunting Bloodfiends.
-Фауст: Хотя это не является общеизвестным фактом, существует подкатегория Корректировщиков, называемая Охотниками на Кровожадов, которые специализируются на... да, охоте на Кровожадов.
+Фауст: Хотя это и не общеизвестно, существует подкатегория Корректировщиков под названием Охотники на Кровожадов, которые специализируются на... да, охоте на Кровожадов.
 
 # Original: Assuming that information is true, it can be inferred that Bloodfiends are difficult foes that require a certain expertise to defeat.
-Фауст: Предполагая, что эта информация верна, можно сделать вывод, что Кровожады являются сложными противниками, которые требуют определенного опыта для одержания победы.
+Фауст: Если предположить, что эта информация верна, можно сделать вывод, что Кровожады — трудные противники, для победы над которыми требуется определённый опыт.
 
-# Original: Now that I'm thinking about it... if Bloodbags are like mindless thralls to Bloodfiends, then they're kind of like their private army, right?
-Хон Лу: Когда я думаю об этом... если Кровососы подобны бездумным рабам Кровожадов, то они вроде как их личная армия, верно?
+# Original: Now that I'm thinking about it... if Bloodbags are like mindless thralls to Bloodfiends, then they're kind of like an army, right?
+Хон Лу: Если так подумать... раз Кровососы — это безмозглые рабы Кровожадов, то они вроде как армия, да?
 
 # Original: A being of power who can create a force of their own without concern for lowered morale or desertion... Wartime or not, they will always make for formidable foes.
-Отис: Могущественное существо, способное создавать собственную армию и не заботиться о моральном духе или дезертирстве... Военное время или нет, они всегда будут грозными противниками.
+Отис: Могущественное существо, способное создать собственную армию, не беспокоясь о падении боевого духа или дезертирстве... Военное время или нет, такие всегда будут грозными противниками.
 
 # Original: The Sinners each exchange various opinions with one another. Possible strategies, estimations of the Bloodfiend's strength...
-Рассказчик: Грешники обменивались друг с другом различными мнениями. Возможные стратегии, оценки силы Кровожада...
+Рассказчик: Грешники обменивались друг с другом различными мнениями. Возможные стратегии, оценка силы Кровожада...
 
 # Original: And all of a sudden...
 Рассказчик: И вдруг...
 
 # Original: Fie on this indecisive idleness!! Our quest is to defeat the villain who hath brought such pain and misery upon this train, is it not?! It may be vaporizing the lifeblood of the innocent as we speak!
-Дон Кихот: Позор этой нерешительной праздности!! Разве это не наша миссия – одолеть злодея, что принес столько боли и страданий в этот поезд?! Он может испарять жизненную силу невинных прямо в этот самый момент!
+Дон Кихот: Долой это нерешительное промедление!! Наша задача — одолеть злодея, что принёс столько боли и страданий этому поезду, не так ли?! Он, возможно, испепеляет кровь невинных, пока мы тут говорим!
 
 # Original: Mighty or feeble, I care not! I swear upon mine honor that I shall smite this foe and let my hand of justice be the judge of their fate! Let us hasten, now!
-Дон Кихот: Могуч ли он или слаб, мне нет дела! Клянусь своей честью, что я сражу сего врага и пусть моя длань правосудия станет судьей его судьбы! Поспешим же!
+Дон Кихот: Сильный он или слабый, мне всё равно! Клянусь своей честью, я сражу сего недруга, и пусть моя длань правосудия решит его судьбу! Поспешим же!
 
 # Original: Don Quixote's sudden outburst immediately put a stop to the chatter.
-Рассказчик: Внезапная вспышка Дон Кихот мгновенно остановила болтовню.
+Рассказчик: Внезапная вспышка Дон Кихот немедленно прекратила все разговоры.
 
-# Original: <... She's not wrong. Besides, we have to deal with the Bloodfiend to complete our contract.>
-Данте: <... Она права. К тому же, мы все равно должны разобраться с Кровожадом, чтобы выполнить наш контракт.>
+# Original: <... She's not wrong. Besides, dealing with the Bloodfiend is the key to completing our contract.>
+Данте: <...Она не ошибается. К тому же, разобраться с Кровожадом — это ключ к завершению нашего контракта.>
 
-# Original: With that, I opened the door leading to the final car of this train.
-Рассказчик: С этими словами я открыл дверь, ведущую в последний вагон этого поезда.
+# Original: With that, I opened the door leading to the last car of this train.
+Рассказчик: С этими мыслями я открыл дверь, ведущую в последний вагон поезда.

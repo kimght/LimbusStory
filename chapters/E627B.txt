@@ -2,43 +2,43 @@
 Рассказчик: Некоторое время спустя...
 
 # Original: ... Can somebody explain what just happened? In a way that makes sense?
-Измаил: ... Кто-нибудь может объяснить, что именно здесь произошло? Так, чтобы это имело смысл?
+Измаил: ...Кто-нибудь может объяснить, что только что произошло? Да так, чтобы это имело смысл?
 
 # Original: I knew that the Sinners would all be shocked and confused.
-Рассказчик: Я знал, что Грешники будут шокированы и растеряны.
+Рассказчик: Я знал, что все Грешники будут шокированы и сбиты с толку.
 
 # Original: After all, when they, including Faust and Don Quixote, all came back to life after I rewound the clock...
-Рассказчик: В конце концов, после того, как я перемотал часы и они, включая Фауст и Дон Кихот, вернулись к жизни ...
+Рассказчик: В конце концов, когда они все, включая Фауст и Дон Кихот, вернулись к жизни после того, как я отмотал время...
 
 # Original: ... all that remained was the destroyed door to the freight car and the disgusting, obliterated remains of what was once Cassetti.
-Рассказчик: ... от проишествия осталась только разрушенная дверь в грузовой вагон и отвратительные останки того, что когда-то было Кассетти.
+Рассказчик: ...всё, что осталось — это развороченная дверь грузового вагона и отвратительные, уничтоженные останки того, что когда-то было Кассетти.
 
-# Original: Most personnel had lost their consciousness from the mental stress of the prolonged battle against the Bloodfiend.
-Мерсо: Большая часть персонала потеряла сознание из-за психического стресса, вызванного продолжительной битвой с Кровожадом.
+# Original: Most had lost their consciousness from the mental stress of the prolonged battle against the Bloodfiend.
+Мерсо: Большинство потеряло сознание от ментального напряжения в затянувшейся битве с Кровожадом.
 
-# Original: Whatever measure it was that the Manager has taken, it can be said that it was appropriate.
-Мерсо: Какие бы меры ни принял Менеджер, можно сказать, что они были уместны.
+# Original: Therefore, whatever measure it was that the Manager has taken, it was appropriate.
+Мерсо: Следовательно, какие бы меры ни предпринял Управляющий, они были уместны.
 
 # Original: Tsk, I guess so...
-Грегор: Тск, наверное, так и есть...
+Грегор: Тц, полагаю, да...
 
 # Original: <Well... Good work, everyone...>
-Данте: <Ну... Хорошая работа, ребята...>
+Данте: <Что ж... Отличная работа, ребята...>
 
-# Original: However. 
+# Original: However.
 Мерсо: Однако.
 
-# Original: The definition of 'most personnel' excludes three individuals. Therefore, it would be most appropriate to direct any questions to them.
-Мерсо: Определение "большая часть персонала" исключает трех человек. Поэтому было бы наиболее уместно направить любые возможные вопросы им.
+# Original: The definition of "most" excludes three individuals. Thus, it would be most appropriate to direct any questions to them.
+Мерсо: Определение «большинство» исключает трёх индивидов. Таким образом, будет наиболее уместно адресовать любые вопросы им.
 
 # Original: <Wait...>
-Данте: <Подождите...>
+Данте: <Погоди...>
 
 # Original: Hm?!
 Отис: Хм?!
 
 # Original: Who are those three?
-Родион: Кто эти трое?
+Родион: И кто же эти трое?
 
 # Original: Faust.
 Мерсо: Фауст.
@@ -47,412 +47,412 @@
 Фауст: …….
 
 # Original: The Manager.
-Мерсо: Менеджер.
+Мерсо: Управляющий.
 
 # Original: <Uh...>
-Данте: <Эм...>
+Данте: <Э-э...>
 
 # Original: And Don Quixote, who is still unconscious.
-Мерсо: И Дон Кихот, которая все еще остается без сознания.
+Мерсо: И Дон Кихот, которая всё ещё без сознания.
 
-# Original: Huh, really? The three of you?
-Измаил: А, правда? Вы трое?
+# Original: Huh, really? Them?
+Измаил: А, правда? Они?
 
 # Original: <Wow, you were spot on... ha ha... When did you even have the time to notice that? Oh boy...>
-Данте: <Ого, да ты попал в точку... ха-ха... Когда ты успел это заметить? Надо же...>
+Данте: <Ого, ты попал в яблочко... ха-ха... И когда ты только успел это заметить? Ох уж...>
 
 # Original: I have identified the three conscious individuals by analyzing their walking cadence and voices, moments before my loss of consciousness.
-Мерсо: Прежде, чем я потерял сознание, я определил трех сознательных индивидов, анализируя их походку и голоса.
+Мерсо: Я определил трёх индивидов в сознании, проанализировав их походку и голоса за мгновения до моей потери сознания.
 
 # Original: Right, so what's goin' on with the lass? Why's she still out cold?
-Хитклиф: Ладно, а что с девчонкой? Почему она всё ещё без сознания?
+Хитклиф: Ясно, так что там с этой девчонкой? Почему она до сих пор в отрубе?
 
-# Original: She appears to be in a state of deep slumber. As she is not at a risk of death, she will be waking up soon.
-Фауст: Она, по-видимому, находится в состоянии глубокого сна. Поскольку её жизни ничто не угрожает, она уже скоро должна проснуться.
+# Original: She appears to be in a state of deep slumber. As she is not in any risk of death, she will be waking up soon.
+Фауст: Она, по-видимому, находится в состоянии глубокого сна. Поскольку её жизни ничто не угрожает, она скоро очнётся.
 
 # Original: ... I remember everything, of course. Don Quixote's sudden... transformation. How she practically erased the Bloodfiend and his Kindred from the world without even moving a finger.
-Рассказчик: ... Разумеется, я помнил все. Внезапное... преображение Дон Кихот. Как она практически стёрла Кровожада и его Сородича с лица земли, даже не пошевелив пальцем.
+Рассказчик: ...Я, конечно, помнил всё. Внезапную... трансформацию Дон Кихот. То, как она, не пошевелив и пальцем, практически стёрла Кровожада и его Собратьев с лица земли.
 
 # Original: But I also remember Faust's last words.
-Рассказчик: Но я также помню последние слова Фауст.
+Рассказчик: Но я также помнил последние слова Фауст.
 
 # Original: And please, do note that the other Sinners must never hear a word of what is about to happ—
-Фауст: И, пожалуйста, учтите, что другие Грешники не должны услышать ни слова о том, что сейчас произой—
+Фауст: И пожалуйста, учтите, что остальные Грешники не должны услышать ни слова о том, что сейчас произойд—
 
 # Original: …….
 Фауст: …….
 
-# Original: Don Quixote was unconscious, and Faust was answering every question with silence; it was only natural that their eyes would all fall on me.
-Рассказчик: Дон Кихот была без сознания, а Фауст отвечала на все вопросы молчанием. Само собой, взгляды Грешников обратились ко мне.
+# Original: Don Quixote was unconscious, and Faust was answering every question with silence; it was only natural that everyone would turn to me for some answers.
+Рассказчик: Дон Кихот была без сознания, а Фауст на все вопросы отвечала молчанием; было совершенно естественно, что все повернулись ко мне в поисках ответов.
 
 # Original: <That's... uh... Y'know...>
-Данте: <Это... ну... Знаете...>
+Данте: <Это... э-э... Знаете ли...>
 
 # Original: Wait, that reminds me...
-Синклер: Подождите, это напомнило мне...
+Синклер: Постойте, я тут вспомнил...
 
 # Original: Where's the... keycard?
-Синклер: Где... ключ-карта?
+Синклер: А где... ключ-карта?
 
 # Original: <Last I remember, it was in Cassetti's hands...>
-Данте: <Последнее, что я помню, она была в руках Кассетти...>
+Данте: <Насколько я помню, она была в руках Кассетти...>
 
-# Original: ... Who is in a far more presentable state than he was in before.
-Рёшу: ... Который сейчас в гораздо более презентабельном состоянии, чем раньше.
+# Original: ... Who's in a far more presentable state than he was in before.
+Рёшу: ...Который теперь в куда более презентабельном виде, чем был до этого.
 
 # Original: Wait, so what about the keycard he was holding, though...?
-Родион: Погодите, а что с ключ-картой, которую он держал?
+Родион: Погодите, так что насчёт ключ-карты, которую он держал?..
 
 # Original: <…….>
 Данте: <…….>
 
 # Original: It has been half liquefied. The remains have melded with his finger bones; it appears to have become one with the middle phalanges.
-Мерсо: Она была наполовину расплавлена. Остатки слились с костями его пальцев; по-видимому, она стала единым целым со средними фалангами.
+Мерсо: Она наполовину расплавилась. Остатки сплавились с костями его пальцев; похоже, она стала единым целым со средними фалангами.
 
 # Original: Uh... wait... oh...
-Рассказчик: Э... подождите... о...
+Рассказчик: Э-э... погодите... ох...
 
 # Original: Oh no. Everyone, calm down. Calm down! I SAID CALM DOWN!!!
-Синклер: О нет. Все, успокойтесь. Успокойтесь! Я СКАЗАЛ УСПОКОЙТЕСЬ!!!
+Синклер: О нет. Все, успокойтесь. Успокойтесь! Я СКАЗАЛ, УСПОКОЙТЕСЬ!!!
 
 # Original: Haah... I... really should've packed more cigarettes, huh...
-Грегор: Хаах... Я... действительно должен был взять больше сигарет, да?
+Грегор: Ха-ах... Мне... и вправду стоило взять побольше сигарет, да?..
 
 # Original: Uh... How 'bout we force one of these doors open?
-Хитклиф: Э... Как насчет силой открыть одну из этих дверей?
+Хитклиф: Э-э... Как насчёт того, чтобы силой открыть одну из этих дверей?
 
 # Original: The master keycard is not an absolutely necessary element to resolving this situation.
-Фауст: Для разрешения этой ситуации, ключ-карта не является абсолютно необходимым элементом.
+Фауст: Мастер-карта не является абсолютно необходимым элементом для разрешения этой ситуации.
 
 # Original: Wha-h-how?
-Хитклиф: Ч-что? Как?
+Хитклиф: Ч-ч-чего? Как?
 
-# Original: It will require approximately five hours to formulate and proceed with an explanation in a manner that will allow the Sinners to fully comprehend the exact 'how' of this methodology. Therefore, it will be delivered to you in a digestible, summarized format.
-Фауст: Чтобы сформулировать и представить объяснение таким образом, чтобы Грешники могли полностью понять "как" этой методологии, потребуется около пяти часов. В связи с этим, оно будет представлено более в удобоваримом, сокращённом формате.
+# Original: It will require approximately 5 hours to formulate an explanation that will allow the Sinners to fully comprehend the exact "how" of this methodology. Therefore, it will be delivered to you in a digestible, summarized format.
+Фауст: Потребуется приблизительно 5 часов, чтобы сформулировать объяснение, которое позволит Грешникам в полной мере постичь, «как» именно работает эта методология. Поэтому оно будет предоставлено вам в удобоваримом, сжатом формате.
 
 # Original: ... Well, that was short-lived. She's actin' all smug again.
-Хитклиф: ... Ну, недолго длилось счастье. Она снова ведет себя самодовольно.
+Хитклиф: ...Что ж, недолго музыка играла. Опять из себя умницу строит.
 
 # Original: We can utilize the Backdoor of Mephistopheles.
-Фауст: Мы можем использовать Заднюю Дверь Мефистофеля.
+Фауст: Мы можем использовать Чёрный ход «Мефистофеля».
 
 # Original: The steely confidence in her declaration was more than enough to win us all over.
-Рассказчик: Стальной уверенности в её заявлении была более чем достаточной, чтобы убедить нас всех.
+Рассказчик: Стальной уверенности в её словах было более чем достаточно, чтобы убедить всех нас.
 
 # Original: So we headed to the corridor past the Backdoor, Don Quixote slung over one of our shoulders...
-Рассказчик: Итак, мы направились к коридору за Задней Дверью, водрузив Дон Кихот на плечо одного из нас...
+Рассказчик: Так мы и направились в коридор за Чёрным ходом, взвалив Дон Кихот на плечо...
 
-# Original: and arrived at our destination.
-Рассказчик: и прибыли к месту назначения.
+# Original: ... and arrived at our destination.
+Рассказчик: ...и прибыли в пункт назначения.
 
 # Original: …….
 Вергилий: …….
 
 # Original: I can't... not ask what happened after seeing the state you are all in.
-Вергилий: Увидев, в каком вы все состоянии, я не могу... не спросить, что произошло.
+Вергилий: Я не могу... не спросить, что произошло, видя, в каком вы все состоянии.
 
 # Original: Sandy pitter sandy patter.
-Харон: Песок-песок, топ-топ.
+Харон: Песочек сып-сып, песочек шур-шур.
 
 # Original: Grains of sand and seashell-like things fell with every step the Sinners took.
-Рассказчик: Частицы песка и нечто, напоминающее ракушки, валились с Грешников с каждым шагом.
+Рассказчик: С каждым шагом Грешников с них сыпались песчинки и нечто, похожее на ракушки.
 
 # Original: Ask... someone after me...
-Родион: Спросите... кого-нибудь еще...
+Родион: Спроси... кого-нибудь после меня...
 
 # Original: To explicate, it can— kugghhh... grains of sand roll about in my throat with every word... spoken...
-И Сан: Чтобы пояснить, след— кхгххх... частички песка перекатываются в моем горле с каждым... словом...
+И Сан: Изъясняясь, можно... кхгххх... песчинки катаются в горле с каждым произнесённым... словом...
 
 # Original: Some time ago...
 Рассказчик: Некоторое время назад...
 
-# Original: Faust explained the simpler gist of this plan as we made our way to the Backdoor.
-Рассказчик: Фауст объяснила суть этого плана, пока мы шли к Задней Двери.
+# Original: Faust explained the gist of this plan as we made our way to the Backdoor.
+Рассказчик: Пока мы шли к Чёрному ходу, Фауст объяснила суть плана.
 
 # Original: To put it simply, we will spend the time at a space disconnected from the train.
-Фауст: Если говорить просто, мы проведём время в пространстве, отрезанном от поезда.
+Фауст: Проще говоря, мы проведём это время в пространстве, не связанном с поездом.
 
-# Original: The train should be arriving at its destination in approximately ten seconds, going by the A Corp. time scale. All we must do is to remain somewhere in our original dimension for that duration.
-Фауст: Поезд должен прибыть к месту назначения примерно через десять секунд по шкале времени Корпорации A. Всё, что нам нужно сделать, это оставаться где-то в нашем исходном измерении в течение этого времени.
+# Original: The train should be arriving at its destination in approximately 10 seconds, going by the A Corp. time scale. All we must do is to remain somewhere in our original dimension for that duration.
+Фауст: Поезд должен прибыть в пункт назначения примерно через 10 секунд по временной шкале Корпорации A. Всё, что нам нужно сделать, — это оставаться где-нибудь в нашем исходном измерении в течение этого времени.
 
 # Original: And with that, Faust came to a sudden stop in the middle of one of the corridors.
-Рассказчик: И с этими словами, Фауст внезапно остановилась посреди одного из коридоров.
+Рассказчик: С этими словами Фауст внезапно остановилась посреди одного из коридоров.
 
 # Original: Wait, wait... Are you seriously gonna just open that door? With this many doors in here... are ya sure that it's the right one?
-Родион: Погоди, погоди... Ты серьёзно собираешься просто открыть эту дверь? Учитывая количество дверей здесь... ты уверена, что это правильная?
+Родион: Погоди, погоди... Ты серьёзно собираешься просто открыть эту дверь? Тут столько дверей... ты уверена, что она та самая?
 
-# Original: Yes. This is the correct door. Its safety is completely ensured.
-Фауст: Да. Это правильная дверь. Её безопасность полностью гарантирована.
+# Original: Yes. This is the correct door. Its safety is guaranteed.
+Фауст: Да. Это правильная дверь. Её безопасность гарантирована.
 
 # Original: Uh... lass, at least tell us what's past that door.
-Хитклиф: Э... подруга, хотя бы скажи нам, что за ней.
+Хитклиф: Э-э... девчонка, хоть скажи нам, что за этой дверью.
 
 # Original: I... did not bother verifying that particular information myself.
-Фауст: Я... не удосужилась проверить эту конкретную информацию лично.
+Фауст: Я... не стала утруждать себя проверкой этой конкретной информации.
 
 # Original: It is necessary for future endeavors that I gain the experience... of encountering something completely unexpected.
-Фауст: Для будущих начинаний необходимо, чтобы я получила опыт... столкновения с чем-то совершенно неожиданным.
+Фауст: Для будущих начинаний мне необходимо получить опыт... столкновения с чем-то совершенно неожиданным.
 
 # Original: What? Oi, wait—
-Хитклиф: Что? Эй, подожди—
+Хитклиф: Что? Эй, пого—
 
 # Original: Faust did not wait for Heathcliff to finish his sentence before jerking the door wide open.
-Рассказчик: Фауст не стала ждать, пока Хитклиф закончит свою фразу, и резко распахнула дверь.
+Рассказчик: Фауст не стала дожидаться, пока Хитклиф закончит фразу, и рывком распахнула дверь.
 
 # Original: Now, please enter through this door.
-Фауст: Теперь, пожалуйста, войдите через эту дверь.
+Фауст: А теперь, пожалуйста, войдите в эту дверь.
 
 # Original: With Faust's stern command, we quickly walked into a building that looked like a derelict, abandoned hospital of sorts...
-Рассказчик: По суровой команде Фауст, мы быстро вошли в здание, похожее на заброшенную, полуразрушенную больницу...
+Рассказчик: По строгому приказу Фауст мы быстро вошли в здание, похожее на заброшенную больницу...
 
-# Original: I think we walked into a middle of a sandstorm...
-Измаил: Кажется, мы попали в разгар песчаной бури...
+# Original: I think we walked into the middle of a sandstorm...
+Измаил: Кажется, мы попали в эпицентр песчаной бури...
 
-# Original: H-huh? Aren't we supposed to be indoors? How the heck is this even happening?
-Родион: Х-ха? Разве мы не должны быть в помещении? Как это вообще происходит?
+# Original: H-huh? Aren't we indoors? How the heck is this even happening?
+Родион: А-а? Разве мы не в помещении? Как такое вообще возможно?
 
 # Original: Aah! I-I can't open my eyes!
-Синклер: Ааа! Я-я не могу открыть глаза!
+Синклер: А-ах! Я-я не могу открыть глаза!
 
 # Original: Ptooey, I got sand in my mou... Wait, no way. Is this a sandstorm? But aren't we inside a building?!
-Грегор: Тьфу, у меня песок во рту... Подождите, не может быть. Песчаная буря? Но разве мы не внутри здания?!
+Грегор: Тьфу, мне песок в рот попа... Стоп, да не может быть. Это песчаная буря? Но мы же внутри здания?!
 
 # Original: 5… 4… 3… 2… 1…
 Фауст: 5… 4… 3… 2… 1…
 
-# Original: The Sinners blurted out colorful series of complaints, trying to cover themselves in the blasting sandstorm...
-Рассказчик: Грешники разразились красочной серией жалоб, пытаясь укрыться от бушующей песчаной бури...
+# Original: The Sinners blurted out a series of colorful complaints, trying to cover themselves in the blasting sandstorm...
+Рассказчик: Грешники выкрикивали цветистые жалобы, пытаясь укрыться от бушующей песчаной бури...
 
-# Original: But Faust continued to count in that same, indifferent rhythm before dragging us out of there just as urgently as she had herded us in.
-Рассказчик: Но Фауст продолжала считать в том же безразличном ритме, прежде чем вытащить нас оттуда так же срочно, как она нас туда загнала.
+# Original: But Faust continued to count in that same, indifferent rhythm before dragging us out of there just as urgently as she had ushered us in.
+Рассказчик: Но Фауст продолжала считать в том же безразличном ритме, а затем вытащила нас оттуда так же поспешно, как и завела внутрь.
 
 # Original: So...
 Рассказчик: Итак...
 
 # Original: ... We managed to return safe and sound to the interiors of the WARP train as it arrived at the P Corp. Platforms.
-Рассказчик: ... Нам удалось благополучно вернуться внутрь ВАРП поезда тогда, когда он прибыл на платформу в Корпорации P.
+Рассказчик: ...Нам удалось вернуться в целости и сохранности внутрь WARP поезда, как раз когда он прибыл на платформы Корпорации P.
 
 # Original: As the train was still getting cleaned up, that is...
-Рассказчик: Пока на поезде еще шла уборка, если говорить точнее...
+Рассказчик: В то время как в поезде всё ещё шла уборка...
 
 # Original: ... and with our bodies completely covered in sand.
-Рассказчик: ... и с нашими телами, полностью покрытыми песком.
+Рассказчик: ...а наши тела были полностью покрыты песком.
 
 # Original: Sob... I thought we'd never make it...
-Синклер: Хнык... Я думал, мы никогда не выберемся...
+Синклер: *хнык*... Я думал, мы никогда не выберемся...
 
 # Original: W-woah, are you guys okay? How did these passengers...?
-Агент по уборке: В-воу, ребята, вы в порядке? Как эти пассажиры...?
+Чистильщик: В-воу, вы, ребята, в порядке? Как эти пассажиры...?
 
 # Original: We were so happy to be done with this whole ordeal, that even the W Corp. Cleanup Agents in the middle of a cleanup mission looked downright hospitable.
-Рассказчик: Мы были так счастливы, что это испытание закончилось, что даже Агенты Зачистки Корпорации W посреди миссии по уборке выглядели для нас чрезвычайно гостеприимными.
+Рассказчик: Мы были так счастливы, что всё это испытание закончилось, что даже Чистильщики Корпорации W, занятые уборкой, казались нам верхом гостеприимства.
 
-# Original: We are employees of Limbus Company. We boarded the WARP train at the behest of your employer.
-Фауст: Мы сотрудники Компании Лимбус. Мы сели на ВАРП поезд по просьбе вашего работодателя.
+# Original: We are employees of Limbus Company who boarded the WARP train at the behest of your employer.
+Фауст: Мы — сотрудники Компании Лимбус, севшие в WARP поезд по поручению вашего нанимателя.
 
 # Original: Ohh... So you guys are the people that our Captain told us about. They really let you guys keep your memories, huh...?
-Агент по уборке: Ооо... Так вы те люди, о которых нам рассказывал наш Капитан. Они реально позволяют вам сохранить ваши воспоминания, да...?
+Чистильщик: О-о... так это вы те люди, о которых нам говорил Капитан. Вам и вправду позволили сохранить воспоминания, да?..
 
 # Original: Oh, that reminds me! One of the employees must be sleeping inside that hibernation pod over there~
-Хон Лу: О, это напомнило мне! Один из ваших сотрудников должен спать внутри той капсулы гибернации~
+Хон Лу: О, кстати! Один из сотрудников, должно быть, спит вон в той гибернационной капсуле~
 
 # Original: Oh, that... Huh, I've never seen it in action before. Thanks, lemme go check.
-Агент по уборке: А, это... Хм, я никогда не видел её в действии. Спасибо, дайте-ка проверю.
+Чистильщик: О, это... Хм, никогда не видел её в действии. Спасибо, сейчас проверю.
 
-# Original: That hidden compartment behind the chair that the Cleanup Agent crawled into.
-Рассказчик: Тот скрытый отсек за стулом, в который раннее заполз Агент.
+# Original: We walked over to the hidden compartment behind the chair that the Cleanup Agent crawled into.
+Рассказчик: Мы подошли к потайному отсеку за креслом, в который заполз Чистильщик.
 
 # Original: Inside it was...
-Рассказчик: Внутри него было...
+Рассказчик: Внутри него...
 
 # Original: Huh...? There isn't anyone in here.
-Агент по уборке: А...? Здесь никого нет.
+Чистильщик: А?.. Здесь никого нет.
 
 # Original: Hm? Maybe we're looking at the wrong pod?
-Родион: Хм? Может, мы смотрим не на ту капсулу?
+Родион: Хм? Может, мы не ту капсулу смотрим?
 
 # Original: This is the correct spot. Then the disappearance of the individual who has entered this pod would indicate...
-Мерсо: Это правильное место. Тогда исчезновение человека, вошедшего в эту капсулу, означает...
+Мерсо: Это верное место. Тогда исчезновение индивида, вошедшего в эту капсулу, указывает на...
 
 # Original: I guess these folks aren't all there in the head either... Uh, maybe you guys are just mistaken?
-Агент по уборке: Похоже, эти ребята все таки не в своём уме... Э, может, вы просто ошиблись?
+Чистильщик: Похоже, эти ребята тоже не в себе... Э-э, может, вы просто ошиблись?
 
 # Original: <I doubt that...>
 Данте: <Сомневаюсь...>
 
 # Original: Yes, we must have suffered from a momentary, collective hallucination caused by fatigue. Very well, then. We will see ourselves out.
-Фауст: Да, должно быть, мы пострадали от коллективной галлюцинации, вызванной усталостью. Хорошо, в таком случае. Мы сами найдём выход.
+Фауст: Да, должно быть, мы пострадали от кратковременной коллективной галлюцинации, вызванной усталостью. Что ж, хорошо. Мы тогда пойдём.
 
 # Original: Faust cut the conversation short before the other Sinners began asking too many questions.
 Рассказчик: Фауст прервала разговор, прежде чем другие Грешники начали задавать слишком много вопросов.
 
-# Original: Now that I became intimately familiar with the meaning of that gesture, I followed her to the outside without another word.
-Рассказчик: Теперь, когда я близко познакомился со значением этого жеста, я последовал за ней наружу без лишних слов.
+# Original: Now that I became intimately familiar with the meaning of that gesture, I followed her outside without another word.
+Рассказчик: Теперь, когда я близко познакомился со значением этого жеста, я без лишних слов последовал за ней наружу.
 
 # Original: Mm...? Arriv... have we arrived?
-Дон Кихот: Мм...? Прибы... мы прибыли?
+Дон Кихот: Мм...? Приб... мы прибыли?
 
-# Original: Rise and shine, lass. Had enough nap yet?
-Хитклиф: Доброе утро, девчонка. Выспалась?
+# Original: Rise and shine, lass. Had a nice kip, did you?
+Хитклиф: Проснись и пой, девчонка. Хорошо поспала, да?
 
 # Original: ... I see. I will hear the details of the incident on the bus once we're traveling again.
-Вергилий: ... Понимаю. Я выслушаю подробности инцидента в автобусе, когда мы снова будем в пути.
+Вергилий: ...Ясно. Подробности инцидента я выслушаю в автобусе, когда мы снова будем в пути.
 
 # Original: Understood. Any and all relevant reports will be sent to W Corp. via LCCA, and...
-Фауст: Принято к сведению. Все соответствующие отчёты будут отправлены в Корпорацию W через LCCA, и...
+Фауст: Принято. Все соответствующие отчёты будут отправлены в Корпорацию W через LCCA, и...
 
-# Original: Vergilius was already there when we arrived. He was sharing a conversation with Faust about what went down inside that the train with a serious expression.
-Рассказчик: Когда мы прибыли, Вергилий уже был на месте. Он беседовал с Фауст о том, что произошло внутри поезда, с серьезным выражением на лице.
+# Original: Vergilius was already there when we arrived, discussing the events aboard the train with Faust. He looked oddly apprehensive.
+Рассказчик: Вергилий был уже там, когда мы приехали, и обсуждал с Фауст события в поезде. Он выглядел на удивление встревоженным.
 
-# Original: ... I will now leave with Charon and watch them unfasten Mephistopheles from the train.
-Вергилий: ... Я пойду с Харон и посмотрю, как они отцепляют Мефистофеля от поезда.
+# Original: ... I will now leave with Charon to go watch as they unfasten Mephistopheles from the train.
+Вергилий: ...Я сейчас уйду с Харон, посмотрю, как они будут отцеплять «Мефистофель» от поезда.
 
 # Original: The minute hand on the Manager's head seems to be desperately signaling me that they have a lot of burning questions to ask you. Allow me to give you two some space.
-Вергилий: Минутная стрелка на голове Менеджера отчаянно сигнализирует мне, что у него есть к вам много жгучих вопросов. Позвольте мне дать вам двоим немного пространства.
+Вергилий: Минутная стрелка на голове Управляющего, кажется, отчаянно сигнализирует мне, что у него к тебе накопилось много животрепещущих вопросов. Позволю себе оставить вас двоих наедине.
 
 # Original: …….
 Фауст: …….
 
 # Original: I was finally able to ask Faust once Vergilius left.
-Рассказчик: Когда Вергилий ушёл, я наконец мог спросить Фауст.
+Рассказчик: Когда Вергилий ушёл, я наконец смог спросить Фауст.
 
 # Original: <Why... did you do that?>
-Данте: <Почему... ты это сделала?>
+Данте: <Зачем... ты это сделала?>
 
 # Original: ... Faust's body was, quite literally, blasted to pieces from the sheer explosive pressure that filled the room the moment Don Quixote's shoes came off.
-Рассказчик: ... Тело Фауст было буквально разорвано на куски от невероятного взрывного давления, которое заполнило комнату в тот момент, когда ботинки Дон Кихот слетели с её ног.
+Рассказчик: ...Тело Фауст было в буквальном смысле разорвано на куски от чудовищного взрывного давления, которое заполнило комнату в тот момент, когда с ног Дон Кихот слетели кроссовки.
 
 # Original: It was as though she knew that it was going to happen.
-Рассказчик: Было похоже, что она знала, что именно произойдёт.
+Рассказчик: Словно она знала, что это произойдёт.
 
-# Original: Because it was the preferable course of action to having the same explosive demise occur to your body instead.
-Фауст: Потому что это был более предпочтительный курс действий, чем тот, в котором ту же взрывную гибель пережило бы ваше тело вместо моего.
+# Original: Because it was the preferable course of action to letting the same explosive demise occur to your body instead.
+Фауст: Потому что это был предпочтительный курс действий, нежели позволить той же взрывной кончине случиться с вашим телом.
 
 # Original: <Haah...>
-Данте: <Хаах...>
+Данте: <Ха-ах...>
 
 # Original: I do find it regrettable that you were made to turn the clock despite my knowledge of the high likelihood of my death upon that occurrence.
-Фауст: Я, конечно, нахожу достойным сожаления тот факт, что вам пришлось повернуть часы, даже несмотря на моё знание о высокой вероятности моей смерти.
+Фауст: Я нахожу прискорбным, что вам пришлось повернуть время вспять, несмотря на то, что я знала о высокой вероятности моей смерти при таком исходе.
 
 # Original: <No, I'm not... blaming you for that.>
-Данте: <Нет, я не... виню тебя за это.>
+Данте: <Нет, я не... виню тебя в этом.>
 
 # Original: <I just want to know how long you've known. That...>
-Данте: <Я просто хочу знать, как давно ты знала. Насчет...>
+Данте: <Я просто хочу знать, как давно ты знала. Что...>
 
 # Original: <Don Quixote is...>
-Данте: <Дон Кихот...>
+Данте: <Что Дон Кихот...>
 
 # Original: ... That is something I have been aware of since the LCB was first established. The same could be said of Vergilius.
-Фауст: ... Это вещь, которую я знала с момента основания LCB. То же самое можно сказать и о Вергилии.
+Фауст: ...Мне было известно об этом с момента основания LCB. То же самое можно сказать и о Вергилии.
 
 # Original: <... Of course.>
-Данте: <... Разумеется.>
+Данте: <...Конечно.>
 
-# Original: However, it was by the will of the LCA's superiors that this knowledge remains withheld from the Manager until the appropriate moment.
-Фауст: Однако, по воле вышестоящих лиц LCA, это знание должно было оставаться скрытым от Менеджера до подходящего момента.
+# Original: However, it was by the will of the LCA's superiors that this knowledge remained withheld from the Manager until the appropriate moment.
+Фауст: Однако, по воле начальства LCA, эти сведения должны были оставаться в тайне от Управляющего до подходящего момента.
 
-# Original: <And that appropriate moment was... back there?>
-Данте: <И этот подходящий момент был... там, в поезде?>
+# Original: <And that <i>appropriate</i> moment was... back there?>
+Данте: <И этот <i>подходящий</i> момент был... тогда?>
 
 # Original: ... According to my private judgment, yes.
-Фауст: ... Согласно моему личному суждению, да.
+Фауст: ...Согласно моему личному суждению, да.
 
 # Original: Well, as my connection to all communications, including one to Faust, had been severed. I was not in a position to receive the headquarters' authorization for that action.
-Фауст: Что ж, поскольку все мои каналы коммуникации, включая связь с Фауст, были нарушены, я не имела возможности получить разрешение штаб-квартиры на это действие.
+Фауст: Что ж, поскольку моя связь со всеми каналами коммуникации, включая связь с Фауст, была прервана, я не имела возможности получить разрешение штаб-квартиры на это действие.
 
 # Original: <Right...>
-Данте: <Понятно...>
+Данте: <Ясно...>
 
 # Original: …….
 И Сан: …….
 
 # Original: Though the full truth may remain obscured still...
-И Сан: Хотя истина в её полноте может всё ещё оставаться сокрытой...
+И Сан: Хоть вся правда и может оставаться сокрытой...
 
 # Original: ... we are once again, returned.
-И Сан: ... мы вернулись. Опять.
+И Сан: ...мы снова вернулись.
 
 # Original: Returned... That was a layered word.
-Рассказчик: Вернулись... Это было многозначное слово.
+Рассказчик: Вернулись... Это было многослойное слово.
 
-# Original: We've 'returned' to one of the WARP platforms in our own dimension. We've 'returned' to our daily lives of speculating about what's next in our path. And...
-Рассказчик: Мы "вернулись" на одну из платформ для ВАРП поездов в нашем собственном измерении. Мы "вернулись" к нашей повседневной жизни, размышляя о том, что ждёт нас впереди. И...
+# Original: We've "returned" to one of the WARP platforms in our own dimension. We've "returned" to our daily lives of speculating about what's next in our path. And...
+Рассказчик: Мы «вернулись» на одну из WARP платформ в нашем собственном измерении. Мы «вернулись» к нашей повседневной жизни, гадая, что ждёт нас дальше на пути. И...
 
-# Original: The usual Faust, reconnected to 'Faust', has returned.
-Рассказчик: Обычная Фауст, восстановившая свою связь с "Фауст", вернулась.
+# Original: The usual Faust, reconnected to "Faust," has returned.
+Рассказчик: Вернулась обычная Фауст, вновь подключённая к «Фауст».
 
 # Original: ... Yes.
-Фауст: ... Да.
+Фауст: ...Да.
 
-# Original: Faust's replied to Yi Sang's nebulous wording with a quiet affirmation.
-Рассказчик: Фауст ответила на туманную формулировку И Сана с тихим подтверждением.
+# Original: Faust's quietly affirms Yi Sang's rather nebulous question.
+Рассказчик: Фауст тихо подтверждает довольно туманный вопрос И Сан.
 
 # Original: Please, do not take this query with any greater import than a mere jest. However...
-И Сан: Пожалуйста, не придавайте моему вопросу большего значения, чем простой шутке. Однако...
+И Сан: Прошу, не придавайте этому вопросу большего значения, чем простой шутке. Однако...
 
 # Original: ... Do you suppose I shall see her again?
-И Сан: ... Как вы думаете, я увижу её снова?
+И Сан: ...Как вы полагаете, увижу ли я её снова?
 
 # Original: …….
 Фауст: …….
 
 # Original: She shot a puzzled look at Yi Sang.
-Рассказчик: Она бросила на И Сана озадаченный взгляд.
+Рассказчик: Она бросила на И Сан озадаченный взгляд.
 
 # Original: In a way, it was quite the...
-И Сан: В каком-то смысле, это была довольно...
+И Сан: В каком-то смысле это была весьма...
 
 # Original: ... pleasant encounter, was it not?
-И Сан: ... приятная встреча, не так ли?
+И Сан: ...приятная встреча, не так ли?
 
 # Original: Yi Sang mused ambiguously before leaving us.
-Рассказчик: И Сан задумчиво произнёс, прежде чем оставить нас.
+Рассказчик: Неоднозначно заметил И Сан, прежде чем покинуть нас.
 
 # Original: <Phew...>
 Данте: <Фух...>
 
-# Original: The incident at the WARP train was such a chaotic mess that it felt shorter than it really was, but I also learned so much about so many things.
-Рассказчик: Инцидент в ВАРП поезде был настолько хаотичным, что казался куда короче, чем был на самом деле. И в то же время, я узнал так много о столь многих вещах.
+# Original: The incident at the WARP train was such a chaotic mess that it felt shorter than it really was, but it was also an opportunity to learn so much.
+Рассказчик: Инцидент на WARP поезде был таким хаотичным, что показался короче, чем был на самом деле, но он также дал возможность многое узнать.
 
 # Original: But...
 Рассказчик: Но...
 
 # Original: It was too soon to start wracking our brains about what kind of nonsense trial we were about to face in P Corp., so I decided to enjoy this momentary peace.
-Рассказчик: Было слишком рано начинать ломать голову над тем, с каким абсурдным испытанием мы столкнёмся в Корпорации P, поэтому я решил насладиться мимолётным покоем.
+Рассказчик: Было слишком рано ломать голову над тем, какое очередное бредовое испытание ждёт нас в Корпорации P, поэтому я решил насладиться этим мимолётным покоем.
 
 # Original: How... cough... do we find ourselves at P Corp.? Cough... wherefore is my throat so parched?
-Дон Кихот: Как... кхе... мы оказались в Корпорации P? Кха... отчего моё горло так пересохло?
+Дон Кихот: Как... кха... мы оказались в Корпорации P? Кха... отчего у меня так в горле пересохло?
 
 # Original: Haah... I'm too tired... to explain...
-Измаил: Хаах... Я слишком устала... чтобы объяснять...
+Измаил: Ха-ах... я слишком устала... чтобы объяснять...
 
 # Original: Chiquita... ya missed out big time on one craaazy adventure.
-Родион: Девчуля... ты пропустила одно сумасше-е-едшее приключение.
+Родион: Чикита... ты пропустила такое сумааасшедшее приключение.
 
 # Original: HUHHHH?!
-Дон Кихот: ХАААА?!
+Дон Кихот: ЧТО-О-О?!
 
 # Original: Ah, that vibrated the last few grains of the sand out of my ears.
-Синклер: Ах, это вытрясло последние песчинки из моих ушей.
+Синклер: А, от этой вибрации последние песчинки из моих ушей высыпались.
 
 # Original: The Sinners look at Don Quixote's bewildered awakening, grinning.
-Рассказчик: Грешники с ухмылкой смотрели на ошеломлённое пробуждение Дон Кихот.
+Рассказчик: Грешники с ухмылками смотрят на растерянное пробуждение Дон Кихот.
 
 # Original: There's no way to know what we'll be facing here at District 16, where P Corp. was located, but...
-Рассказчик: Невозможно сказать, с чем мы столкнёмся здесь, в Районе 16, где расположена Корпорация P, но...
+Рассказчик: Невозможно знать, с чем мы столкнёмся здесь, в Районе 16, где располагалась Корпорация P, но...
 
 # Original: We got this, right?
-Рассказчик: Мы справимся, верно?
+Рассказчик: Мы ведь справимся, так?
 
 # Original: The same faith I saw in the Faust who believes in uncertainty rises within me, too.
-Рассказчик: Та же вера, которую я увидел в той Фауст, которая верила в неопределённость, поднимается и во мне.
+Рассказчик: Та же вера, что я видел в Фауст, которая верит в неопределённость, зарождается и во мне.
 
 # Original: I looked up to Faust, only to see that Faust was looking at me as well.
-Рассказчик: Я взглянул на Фауст, только чтобы увидеть, что Фауст также смотрит на меня.
+Рассказчик: Я поднял взгляд на Фауст и увидел, что она тоже смотрит на меня.
 
 # Original: She nodded at me with her usual, barely noticeable smile, and I gave her a light nod back in return.
 Рассказчик: Она кивнула мне со своей обычной, едва заметной улыбкой, и я слегка кивнул ей в ответ.
 
 # Original: ... Time to go find ourselves another Golden Bough.
-Рассказчик: ... Пора идти искать ещё одну Золотую Ветвь.
+Рассказчик: ...Пора отправляться на поиски новой Золотой Ветви.

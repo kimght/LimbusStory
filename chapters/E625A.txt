@@ -1,104 +1,104 @@
 # Original: It hurts... it hurts... it hurts...!
-Кассетти: Больно... больно... больно...!
+Кассетти: Больно... больно... больно!..
 
-# Original: Yes, I love your boiling human blood... But this... this is too painful...!
-Кассетти: Да, я обожаю кипящую человеческую кровь... Но это... это слишком больно...!
+# Original: Yes, I love it when humans let their blood boil... But this... this is too painful...!
+Кассетти: Да, я обожаю, когда в людях закипает кровь... Но это... это слишком мучительно!..
 
 # Original: This guy keeps regenerating... no matter how many times we tear him to pieces... Ngh...
-Грегор: Этот тип продолжает регенерировать... сколько бы раз мы ни разрывали его на куски... Нгх...
+Грегор: Этот тип всё регенерирует... сколько бы мы его на куски ни рвали... Кх...
 
 # Original: Haah... this... I don't know if we can...
-Синклер: Хаах... это... я не знаю, сможем ли мы...
+Синклер: Ха-а... это... я не знаю, сможем ли мы...
 
-# Original: The mental fatigue finally got to Gregor and Sinclair, who collapsed to the ground. The strange environment of WARP trains was proving to be a significant help to the Bloodfiend's regenerative ability.
-Рассказчик: Умственное истощение наконец настигло Грегора и Синклера и они рухнули на землю. Странная среда ВАРП Поездов оказалась существенной помощью для регенеративной способности Кровожада.
+# Original: The mental fatigue finally got to Gregor and Sinclair, and they collapsed to the ground. The strange environment of WARP trains was proving to be a significant boost to the Bloodfiend's regenerative ability.
+Рассказчик: Умственное истощение наконец одолело Грегора и Синклера, и они рухнули на землю. Странная среда WARP поездов значительно усиливала регенеративные способности Кровожада.
 
-# Original: This fight's been dragging on even longer than our battles at the K Corp. border checkpoint or the basement of Wuthering Heights. I knew that the Sinners had all grown stronger since then, but I felt as though I stood before an impenetrable wall.
-Рассказчик: Эта битва затянулась даже дольше, чем наши сражения на пропускном пункте Корпорации K или в подвале Грозового Перевала. Я знал, что Грешники с тех пор стали сильнее, и все равно теперь чувствовал, будто мы стоим перед непреодолимой стеной.
+# Original: The battle trudged on without an end in sight. At this point, we've already been fighting for much longer than we had at the K Corp. border checkpoint or at the basement of Wuthering Heights. The Sinners had all grown much stronger since then, but even they were reaching a breaking point.
+Рассказчик: Битва тянулась без конца и края. В этот раз мы сражались куда дольше, чем у пограничного пункта К-Корп или в подвале Грозового Перевала. С тех пор Грешники стали намного сильнее, но даже они были на пределе.
 
 # Original: …….
 Дон Кихот: …….
 
 # Original: Don Quixote continues to wildly pummel the Bloodfiend with her lance, breaking, stabbing, and crushing him every time a body part regenerated.
-Рассказчик: Дон Кихот продолжала неистово атаковать Кровожада своим копьём, останавливая, пронзая и сокрушая его каждый раз, когда он регенерировал очередную часть тела.
+Рассказчик: Дон Кихот продолжала яростно избивать Кровожада своим копьём, ломая, пронзая и сокрушая его всякий раз, когда регенерировала очередная часть тела.
 
-# Original: I am... I am so hungry...
-Кассетти: Я... я так голоден...
+# Original: I am... I am so very hungry...
+Кассетти: Я... я так ужасно голоден...
 
 # Original: Ridiculous! Thy hunger is no justification for this massacre thou hast wrought!
-Дон Кихот: Нелепость! Твой голод не оправдание той резне, которую ты принес!
+Дон Кихот: Нелепо! Твой голод не оправдывает резню, что ты учинил!
 
 # Original: Shut up! Y-you, you, you don't understand.
 Кассетти: Заткнись! Т-ты, ты, ты не понимаешь.
 
-# Original: You don't know how awful it is to... survive on that disgusting blood for two hundred— N-no, NO! I don't even want to think about it!
-Кассетти: Ты не знаешь, как это ужасно... выживать на этой отвратительной крови двести— Н-нет, НЕТ! Я даже не хочу думать об этом!
+# Original: You don't know how awful it is to— I survived for two hundred years on that disgusting... horrible— N-no, NO! I don't even want to think about it!
+Кассетти: Ты не знаешь, как это ужасно... я двести лет выживал на этой мерзкой... отвратительной... Н-нет, НЕТ! Я даже думать об этом не хочу!
 
-# Original: Shut up! Be quiet! No, I'm... I'm sorry... Please, please please let me have just a sip... just the smallest sip... Please...
-Кассетти: Заткнись! Замолчи! Нет, я... прости... Пожалуйста, пожалуйста, позвольте мне сделать лишь глоток... всего один маленький глоточек... Прошу...
+# Original: Shut up! Be quiet! No, I'm... I'm sorry, I'll be good... Please, please, please let me have just a sip... just the smallest sip... Please...
+Кассетти: Замолчи! Тихо! Нет, я... прости, я буду хорошим... Прошу, прошу, прошу, дай мне сделать хоть глоток... самый маленький глоточек... Пожалуйста...
 
-# Original: Nngh... it's all... useless... No matter how many times you stab me...
-Кассетти: Ннгх... всё... бесполезно... Сколько бы раз ты меня ни пронзала...
+# Original: Nngh... it won't matter... how many times you stab me...
+Кассетти: Н-нгх... это неважно... сколько раз ты меня проткнёшь...
 
 # Original: I shan't stop until all of thy flesh and bone and organs are crushed into a viscous, shapeless mush, never to become whole again!!!
-Дон Кихот: Я не остановлюсь, пока вся твоя плоть, кости и органы не превратятся в вязкую, бесформенную массу, которая никогда не станет целой вновь!!!
+Дон Кихот: Я не остановлюсь, покуда вся твоя плоть, кости и органы не будут раздавлены в вязкую, бесформенную кашу, чтобы им никогда больше не стать единым целым!!!
 
-# Original: But... the Bloodfiend's regeneration is powerful. He's regenerating as fast as Don Quixote is destroying him.
-Рассказчик: Однако... регенерация Кровожада слишком сильна. Он восстанавливается с той же скоростью, с которой Дон Кихот его уничтожает.
+# Original: But... the Bloodfiend's regeneration is so powerful that he's recovering as fast as Don Quixote is destroying him.
+Рассказчик: Но... регенерация Кровожада настолько сильна, что он восстанавливается так же быстро, как Дон Кихот его уничтожает.
 
 # Original: <He's regenerating at an insane rate... We can't...>
 Данте: <Он регенерирует с безумной скоростью... Мы не можем...>
 
-# Original: Agh... My Kindred... my child!!!
-Кассетти: Агх... Мой Сородич... моё дитя!!!
+# Original: Agh... My Kindred... my Child!!!
+Кассетти: Агх... Мой Родич... моё Дитя!!!
 
 # Original: I have given thee new life, invited thee to this banquet...!
-Кассетти: Я даровал тебе новую жизнь, пригласил тебя на этот пир...!
+Кассетти: Я дал тебе новую жизнь, пригласил тебя на этот пир!..
 
-# Original: So do thy responsibilities! The blessings of a parent must be repaid, no?!
-Кассетти: Так исполни же свои обязанности! Родительское благословение должно быть оплачено, разве нет?!
+# Original: So do something! Your responsibilities! The blessings of your Father must be repaid, no?!
+Кассетти: Так сделай что-нибудь! Твои обязанности! Благословения твоего Отца должны быть отплачены, не так ли?!
 
 # Original: Wh-what can I do...?
-Саша: Ч-что я могу сделать...?
+Саша: Ч-что я могу сделать?..
 
 # Original: Find their weakness, break their anchor...! Make them kneel and grovel before me in desperation, just as you had...!
-Кассетти: Найди их слабость, сломи их якорь...! Заставь их встать на колени и пресмыкаться передо мной в отчаянии, как это делала ты...!
+Кассетти: Найди их слабость, сломай их якорь!.. Заставь их пасть на колени и пресмыкаться передо мной в отчаянии, как это сделала ты!..
 
 # Original: …….
 Саша: …….
 
 # Original: W-wait, I think I've got an idea...
-Саша: П-подождите, кажется, у меня есть идея...
+Саша: П-постойте, кажется, у меня есть идея...
 
 # Original: Sasha began looking around wildly, surprised by Cassetti's sudden command...
-Рассказчик: Саша начала дико озираться, удивлённая внезапным приказом Кассетти...
+Рассказчик: Саша начала дико озираться по сторонам, удивлённая внезапным приказом Кассетти...
 
-# Original: ... It's that the way they fight... reminds me a lot of the way we prosthetic-using Fixers fight.
-Саша: ... То, как они сражаются... очень напоминает мне то, как мы, Корректировщики с протезами, ведём бой.
+# Original: It's that the way they fight... reminds me a lot of the way we prosthetic-using Fixers fight.
+Саша: Просто то, как они сражаются... очень напоминает мне стиль боя нас, Корректировщиков с протезами.
 
 # Original: …?
 Фауст: …?
 
-# Original: ... Just as Prosthetic Fixers slowly lose their sense of self-preservation, their limbs becoming no more important than tools to be replaced...
-Саша: ... Как Корректировщики с протезами постепенно теряют чувство самосохранения, когда их конечности становятся не более чем инструментами, подлежащими замене...
+# Original: ... Just as Prosthetic Fixers slowly lose their sense of self-preservation, their limbs becoming no more than tools to be replaced...
+Саша: ...Точно так же, как Корректировщики с протезами медленно теряют инстинкт самосохранения, а их конечности становятся не более чем инструментами, подлежащими замене...
 
 # Original: ... these idiots act with such abandon, as if they have multiple lives to burn through.
-Саша: ... эти идиоты действуют с таким безрассудством, будто у них несколько жизней в запасе.
+Саша: ...эти идиоты действуют так безрассудно, будто у них в запасе несколько жизней.
 
 # Original: <…!>
 Данте: <…!>
 
 # Original: With nothing to protect, they throw themselves wildly into battle like moths to a flame...
-Саша: Не имея ничего, что нужно было бы защищать, они бросаются в бой, как мотыльки на пламя...
+Саша: Когда нечего защищать, они сломя голову бросаются в бой, как мотыльки на пламя...
 
 # Original: And... heh heh... forget to look after what's really important. Like this little thing.
-Саша: И... хе-хе... забывают позаботиться о том, что действительно важно. Как эта маленькая вещица.
+Саша: И... хе-хе... забывают следить за тем, что действительно важно. Например, за этой вещицей.
 
-# Original: With one of her remaining arms, Sasha picked up...
-Рассказчик: Одной из оставшихся рук Саша подняла...
+# Original: With one of her remaining arms, Sasha picked up from the ground...
+Рассказчик: Одной из своих оставшихся рук Саша подобрала с земли...
 
-# Original: ... the master card key Faust showed her in one of the previous cars.
-Рассказчик: ... ключ-карту, которую Фауст показала ей в одном из предыдущих вагонов.
+# Original: ... the master keycard Faust showed her in one of the previous cars.
+Рассказчик: ...мастер-карту, которую Фауст показала ей в одном из предыдущих вагонов.
 
 # Original: …!
 Фауст: …!
@@ -106,167 +106,167 @@
 # Original: Don Quixote! Stop her, now!
 Фауст: Дон Кихот! Останови её, сейчас же!
 
-# Original: O my parent... I offer this gift to you...!
-Саша: О мой родитель... Я преподношу тебе этот дар...!
+# Original: O my Father... I offer this gift to you...!
+Саша: О, мой Отец... я преподношу этот дар тебе!..
 
 # Original: Gah...!
-Дон Кихот: Гах...!
+Дон Кихот: Гха!..
 
 # Original: Don Quixote immediately leaped at the Fixer, but one of her arms struck her away with great force.
-Рассказчик: Дон Кихот немедленно бросилась на Корректировщицу, но одна из механических рук отбросила её в сторону с огромной силой.
+Рассказчик: Дон Кихот немедленно прыгнула на Корректировщицу, но одна из её рук с огромной силой отбросила Дон Кихот в сторону.
 
 # Original: Ishmael and Meursault, who had been holding Cassetti down, were no match for his strength without Don Quixote's fury. The Bloodfiend threw them both to the side and grabbed the keycard.
-Рассказчик: Измаил и Мерсо, которые сдерживали Кассетти, не могли сравниться с его силой без ярости Дон Кихот. Кровожад разбросал их по сторонам и схватил карту-ключ.
+Рассказчик: Измаил и Мёрсо, державшие Кассетти, не могли сравниться с его силой без ярости Дон Кихот. Кровожад отшвырнул их обоих и схватил карту.
 
-# Original: This is the key to the first class cars, my lord... With this, grow your army of Bloodbags... To bring glory to the kingdom...
-Саша: Это ключ к вагонам первого класса, мой господин... С его помощью увеличьте свою армию Кровососов... Чтобы принести славу этому королевству...
+# Original: This is the key to the first class cars, my Lord... With this, grow your army of Bloodbags... For the kingdom's prosperity...
+Саша: Это ключ от вагонов первого класса, мой Повелитель... С ним ты приумножишь свою армию Кровососов... Во имя процветания королевства...
 
 # Original: <No...>
 Данте: <Нет...>
 
-# Original: Cassetti examines the Master Keycard with clear interest.
-Рассказчик: Кассетти рассматривал ключ-карту с явным интересом.
+# Original: Cassetti examines the master keycard with clear interest.
+Рассказчик: Кассетти с явным интересом изучает мастер-карту.
 
 # Original: Without that keycard... we'll be trapped inside this train for thousands of years until it reaches its destination.
-Рассказчик: Без этой ключ-карты... мы будем заперты в этом поезде на тысячи лет до тех пор, пока он не достигнет места назначения.
+Рассказчик: Без этой карты... мы окажемся в ловушке в этом поезде на тысячи лет, пока он не достигнет пункта назначения.
 
 # Original: Dante...
 Фауст: Данте...
 
-# Original: I believed myself to be trying my utmost to overcome this adversity...
-Фауст: Я верила, что прилагаю все усилия, чтобы преодолеть это испытание...
+# Original: I believe that I have tried my utmost to overcome this adversity...
+Фауст: Полагаю, я сделала всё возможное, чтобы преодолеть это несчастье...
 
 # Original: ... without access to Faust's knowledge and intelligence.
-Фауст: ... без доступа к знаниям и интеллекту Фауст.
+Фауст: ...без доступа к знаниям и интеллекту Фауст.
 
 # Original: However...
 Фауст: Однако...
 
-# Original: With our loss of the Master Keycard... the uncertainty of this circumstance has greatly exacerbated.
-Фауст: С потерей ключ-карты... неопределённость этой ситуации значительно усугубилась.
+# Original: With our loss of the master keycard... the uncertainty of this circumstance has been greatly exacerbated.
+Фауст: С потерей мастер-карты... неопределённость этих обстоятельств значительно усугубилась.
 
-# Original: At the origin of this obstacle...
-Фауст: В основе этого препятствия...
+# Original: At the origin of this plight...
+Фауст: В основе этого бедственного положения...
 
 # Original: Faust took a deep breath, as if she was about to take a deep dive into the source of all this trouble...
-Рассказчик: Фауст глубоко вздохнула, словно собираясь погрузиться в источник всех своих проблем...
+Рассказчик: Фауст сделала глубокий вдох, словно собираясь погрузиться в самый источник всех этих проблем...
 
 # Original: ... must be my overreliance on Faust.
-Фауст: ... должна быть моя чрезмерная зависимость от Фауст.
+Фауст: ...должно быть, моя чрезмерная зависимость от Фауст.
 
 # Original: <…….>
 Данте: <…….>
 
-# Original: From what I can tell, Faust has always been operating based on information she received from 'Faust'. So a situation like this, where she has to make decisions on her own, has to be unfamiliar to her.
-Рассказчик: Насколько я могу предположить, Фауст всегда действовала на основе той информации, которую она получала от "Фауст". Поэтому ситуация, где ей приходится принимать решения самостоятельно, должна быть для неё непривычной.
+# Original: From what I can tell, Faust has always been operating based on information she received from "Faust." So a situation like this, where she has to make decisions on her own, must be unfamiliar to her.
+Рассказчик: Насколько я могу судить, Фауст всегда действовала на основе информации, которую получала от «Фауст». Так что подобная ситуация, когда ей приходится принимать решения самостоятельно, должно быть, для неё непривычна.
 
-# Original: ... But Faust is an admirable Sinner with or without 'Faust'.
-Рассказчик: ... Но Фауст - достойный восхищения Грешник. С "Фауст" или без.
+# Original: ... But Faust is an exceptional Sinner with or without"'Faust."
+Рассказчик: ...Но Фауст — исключительный Грешник, с «Фауст» или без.
 
 # Original: <I've been thinking the same thing about myself, actually. That I might've been relying too much on that... perfect Faust.>
-Данте: <На самом деле, я думал то же самое о себе. Что, возможно, я слишком полагался на ту... идеальную Фауст.>
+Данте: <Я, вообще-то, думал о себе то же самое. Что я, возможно, слишком полагался на ту... идеальную Фауст.>
 
-# Original: <But even without 'Faust', you still gave us good directions to follow after analyzing the information we brought you.>
-Данте: <Но даже без "Фауст" ты всё ещё дала нам верные указания, верно проанализировав ту информацию, которую мы тебе принесли.>
+# Original: <But even without "Faust," you've still guided us masterfully after analyzing the information we brought you.>
+Данте: <Но даже без «Фауст» ты всё равно мастерски вела нас, анализируя информацию, которую мы тебе приносили.>
 
 # Original: …….
 Фауст: …….
 
-# Original: <Maybe... uncertainly itself doesn't always have to be a problem for us.>
-Данте: <Быть может... неопределённость сама по себе не обязательно должна быть для нас проблемой.>
+# Original: <Maybe... uncertainty itself doesn't always have to be a problem for us.>
+Данте: <Может... сама по себе неопределённость не всегда должна быть для нас проблемой.>
 
 # Original: <Remember? "Thus the lack of plan itself becomes the plan". You said it yourself.>
-Данте: <Помнишь? "Таким образом, отсутствие плана само становится планом". Ты сама это сказала.>
+Данте: <Помнишь? «Так отсутствие плана само становится планом». Ты сама это сказала.>
 
 # Original: ... I see.
-Фауст: ... Я понимаю.
+Фауст: ...Ясно.
 
 # Original: Indeed, among many, I am a Faust that believes in uncertainty.
-Фауст: Действительно. Среди многих, я - Фауст, верящая в неопределённость.
+Фауст: Верно, среди многих я — та Фауст, что верит в неопределённость.
 
 # Original: Our loss of the master keycard is but one of innumerable uncertain variables in the equation.
-Фауст: Потеря ключ-карты - лишь одна из бесчисленных неизвестных переменных в уравнении.
+Фауст: Наша потеря мастер-карты — лишь одна из бесчисленных неопределённых переменных в уравнении.
 
 # Original: The constant is, however...
-Фауст: Константа же, однако...
+Фауст: Однако константой является то...
 
 # Original: ... that the Bloodfiend is just as desperate as we are.
-Фауст: ... состоит в том, что Кровожад в таком же отчаянии, как и мы.
+Фауст: ...что Кровожад в таком же отчаянии, как и мы.
 
 # Original: Thus the only option that remains at present is to... compromise.
-Фауст: А значит, единственный вариант, который остаётся для нас в настоящий момент... это компромисс.
+Фауст: Таким образом, единственный вариант, который остаётся на данный момент, — это... пойти на компромисс.
 
 # Original: You there... Looks like thou art the one who's been regenerating your friends...
-Кассетти: Ты там... Похоже, это ты восстанавливал своих друзей все это время...
+Кассетти: Эй, ты... Похоже, это ты регенерируешь своих друзей...
 
 # Original: Stop... stop doing that, alright? Don't heal a single one them.
-Кассетти: Прекрати... прекрати это делать, хорошо? Не исцеляй ни одного из них.
+Кассетти: Прекрати... прекрати это делать, ясно? Не исцеляй больше никого из них.
 
 # Original: Or I'll smash your precious key to pieces!
-Кассетти: Иначе я разобью твой драгоценный ключ вдребезги!
+Кассетти: Или я разобью твой драгоценный ключ вдребезги!
 
 # Original: M-Manager Esquire...
-Дон Кихот: М-менеджер... Сэр Менеджер...
+Дон Кихот: С-Сэр Менеджер...
 
 # Original: Compromise...? To compromise with a villain as vile as that cur...!
-Дон Кихот: Компромисс...? Идти на компромисс с таким омерзительным злодеем...!
+Дон Кихот: Компромисс?.. Пойти на компромисс с таким гнусным злодеем, с этим псом!..
 
 # Original: I didn't have the time to regenerate Don Quixote's severe injuries just yet. And the rest of the Sinners were already unconscious...
-Рассказчик: У меня не было времени, чтобы откатить вспять ранения Дон Кихот прямо сейчас. И все остальные Грешники уже были без сознания...
+Рассказчик: У меня ещё не было времени, чтобы восстановить тяжёлые раны Дон Кихот. А остальные Грешники уже были без сознания...
 
-# Original: The only Sinner who could still move and talk normally... was Faust, whom I just rewound the clock for.
-Рассказчик: Единственным Грешником, который всё ещё мог двигаться и разговаривать... была Фауст, для которой я только что перемотал время.
+# Original: The only Sinner who could still move and talk... was Faust, whom I just rewound the clock for.
+Рассказчик: Единственным Грешником, кто ещё мог двигаться и говорить... была Фауст, для которой я только что отмотал время.
 
 # Original: <... Yeah... Let's do that.>
-Данте: <... Да... Так и поступим.>
+Данте: <...Да... Давай так и сделаем.>
 
 # Original: Very well. Then... Cassetti, why don't we move this conversation to a different location?
 Фауст: Очень хорошо. Тогда... Кассетти, почему бы нам не перенести этот разговор в другое место?
 
-# Original: Only I will accompany Dante to this negotiation. I will make my intentions clear now: Dante and I will not attack you there.
-Фауст: Сопровождать Данте на эти переговоры буду только я. Я сразу же ясно выражу свои намерения: Данте и я не собираемся атаковать вас.
+# Original: I alone will accompany Dante to this negotiation. Let me make my intentions clear now: Dante and I will not attack you there.
+Фауст: Я одна буду сопровождать Данте на этих переговорах. Позвольте мне прояснить свои намерения: мы с Данте не станем нападать на вас там.
 
-# Original: There is no doubt in my mind that Cassetti must be absolutely exhausted by the unending barrage of attacks from Don Quixote and the Sinners.
-Рассказчик: Нет никаких сомнений, что Кассетти уже должен быть совершенно измотан бесконечным шквалом атак, полученным от Дон Кихот и остальных Грешников.
+# Original: There is no doubt in my mind that Cassetti must also be exhausted by the unending barrage of attacks from Don Quixote and the Sinners.
+Рассказчик: Я не сомневаюсь, что Кассетти тоже должен был устать от нескончаемого шквала атак Дон Кихот и Грешников.
 
-# Original: Faust's suggestion that we move this conversation to a different place without the Sinners must've been a sweet one.
-Рассказчик: Предложение Фауст перенести разговор в место, в котором не будет Грешников, должно показаться ему заманчивым.
+# Original: So, Faust's suggestion that we move this conversation to a different place without the Sinners must've sounded pretty sweet to him.
+Рассказчик: Так что предложение Фауст перенести разговор в другое место, без Грешников, должно быть, прозвучало для него весьма заманчиво.
 
 # Original: J-just you two, huh?
 Кассетти: Т-только вы двое, да?
 
-# Original: Yes. The freight car is immediately adjacent to this one; that is where we will further discuss what we each have to offer to one another.
-Фауст: Да. Сразу за этим вагоном находится грузовой отсек. Именно там мы обсудим то, что каждый из нас может предложить друг другу.
+# Original: Yes. As you are aware, the freight car is immediately adjacent to this one; that is where we will further discuss what we each have to offer to one another.
+Фауст: Да. Как вам известно, грузовой вагон находится в непосредственной близости от этого; там мы и обсудим, что каждый из нас может предложить другому.
 
 # Original: That... that clock must be thy monarch then, hm? And thou art one of the retainers.
-Кассетти: Эти... эти часы, должно быть, твой монарх, хм? А ты - одна из его приближённых?
+Кассетти: Этот... этот часовщик, должно быть, твой монарх, хм? А ты — одна из его вассалов.
 
 # Original: Correct.
 Фауст: Верно.
 
-# Original: Very well... this will be a royal debate, then! It is only right that a royalty talks to no one else but the one who is his equal!
-Кассетти: Очень хорошо... это будут королевские дебаты! Это естественно, что особа королевской крови должна говорить только с тем, кто ему равен!
+# Original: Very well... this will be a royal debate, then! It is only right that a member of royalty talks to no one else but the one who is his equal!
+Кассетти: Что ж, прекрасно... тогда это будут королевские дебаты! Члену королевской семьи подобает говорить лишь с тем, кто ему ровня!
 
 # Original: Manager... Esquire...
 Дон Кихот: Сэр... Менеджер...
 
 # Original: <We'll be back in a minute... Don Quixote.>
-Данте: <Мы скоро вернемся... Дон Кихот.>
+Данте: <Мы вернёмся через минуту... Дон Кихот.>
 
 # Original: Thus we left the incapacitated Sinners and Don Quixote, who watched on with hollow, despondent eyes as we walked away. We carefully made our way into the freight car.
-Рассказчик: Итак, мы оставили обездвиженных Грешников и смотрящую на нас пустыми, подавленными глазами, Дон Кихот, и неспешно направились в грузовой вагон.
+Рассказчик: Так мы оставили обездвиженных Грешников и Дон Кихот, что провожала нас взглядом пустых, удручённых глаз. Мы осторожно пробрались в грузовой вагон.
 
-# Original: <So Faust, why are we doing this in the Freight car again...?>
-Данте: <Итак, Фауст, почему именно мы делаем это в грузовом вагоне?..>
+# Original: <So Faust, why are we doing this in the freight car again...?>
+Данте: <Так, Фауст, почему мы снова делаем это в грузовом вагоне?..>
 
 # Original: Dante... this will be my first attempt...
 Фауст: Данте... это будет моя первая попытка...
 
-# Original: ... at a 'gamble'.
-Фауст: ... "азартной игры".
+# Original: ... at a "gamble."
+Фауст: ...пойти на «авантюру».
 
 # Original: <What!?>
-Данте: <Что?!>
+Данте: <Что!?>
 
 # Original: With that, the door closed shut behind us.
-Рассказчик: С этими словами дверь за нами закрылась.
+Рассказчик: С этими словами дверь за нами захлопнулась.
