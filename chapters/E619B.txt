@@ -26,13 +26,13 @@
 Данте: <…!>
 
 # Original: I cannot discern the cause of this disconnection... More than enough precautions have likely been taken in case of interdimensional travel, but perhaps Faust did not take into account an occasion in which we may have to access an unidentified dimension such as this. Or, even if it was taken into account, this particular dimension may not have been subject to cross-observation yet.
-Фауст: Я не могу определить причину этого разрыва... Скорее всего, было предпринято более чем достаточно мер предосторожности на случай межпространственного путешествия, но, возможно, Фауст не учла вероятность того, что нам придётся войти в неопознанное измерение вроде этого. Или же, даже если это и было учтено, данное конкретное измерение могло ещё не подвергаться перекрёстному наблюдению.
+Фауст: Я не могу определить причину этого разрыва... Скорее всего, было предпринято более чем достаточно мер предосторожности на случай межпространственного путешествия, но, возможно, Фауст не учла вероятность того, что нам придётся войти в неустановленное измерение вроде этого. Или же, даже если это и было учтено, данное конкретное измерение могло ещё не подвергаться перекрёстному наблюдению.
 
 # Original: If that is not the case, then I-no, never mind.
 Фауст: Если же дело не в этом, то я... впрочем, неважно.
 
 # Original: There was nothing that suggested that my connection to Faust would be lost, not even as we boarded the train. To be honest...
-Фауст: Ничто не указывало на то, что моя связь с Фауст будет потеряна, даже когда мы садились на поезд. Если честно...
+Фауст: Даже когда мы уже садились на поезд, не было ничего указывающего на то, что моя связь с Фауст будет потеряна. Если честно...
 
 # Original: ... I find myself in a somewhat perplexed state.
 Фауст: ...я нахожусь в некотором замешательстве.
@@ -53,7 +53,7 @@
 Рассказчик: Я забормотал, словно пытался убедить самого себя.
 
 # Original: As the manager, my job is to calm everyone down and set their sights on the future. Just as Faust did for me immediately before the hatch closed.
-Рассказчик: Как менеджер, я обязан успокоить всех и нацелить их на будущее. Точно так же, как Фауст сделала для меня прямо перед тем, как закрылся люк.
+Рассказчик: Как менеджер, я обязан успокоить всех и нацелить их внимание на будущее. Точно так же, как Фауст сделала для меня прямо перед тем, как закрылся люк.
 
 # Original: <If you're right about why you were disconnected, then that problem will solve itself once we're off the train...>
 Данте: <Если ты права насчёт причины разрыва связи, то проблема решится сама собой, как только мы сойдём с поезда...>
@@ -101,7 +101,7 @@
 Рассказчик: Фауст прокашлялась, прежде чем продолжить.
 
 # Original: By A Corp.'s standard time scale, approximately three days have passed since our departure.
-Фауст: По стандартной шкале времени Корпорации A, с момента нашего отправления прошло около трёх дней.
+Фауст: По стандартной временной шкале Корпорации A, с момента нашего отправления прошло около трёх дней.
 
 # Original: As per the contract between Limbus Company and W Corp., I acquired the master keycard placed inside my capsule and adjusted the hatch settings to open automatically in three days.
 Фауст: Согласно контракту между Компанией Лимбус и Корпорацией W, я забрала мастер-ключ из своей капсулы и настроила люк на автоматическое открытие через три дня.
@@ -113,7 +113,7 @@
 Синклер: Такое чувство, будто я просто моргнул, и... вот что значит гибернация, полагаю.
 
 # Original: As you were all informed prior to boarding, there is no way for the economy class passengers to enter the first class car; that is why this place has remained untouched.
-Фауст: Как вас всех и информировали перед посадкой, у пассажиров эконом-класса нет способа попасть в вагон первого класса; именно поэтому это место осталось нетронутым.
+Фауст: Как вас всех и информировали перед посадкой, у пассажиров эконом-класса нет возможности попасть в вагон первого класса; именно поэтому это место осталось нетронутым.
 
 # Original: However, cross-referencing my own deductions and W Corp.'s rather fragmentary explanations, I can assume that "the situation" is currently under progress in the economy class cars.
 Фауст: Однако, сопоставив мои собственные умозаключения и довольно обрывочные объяснения Корпорации W, я могу предположить, что в вагонах эконом-класса сейчас развивается «та самая ситуация».
