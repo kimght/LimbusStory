@@ -1,5 +1,5 @@
 # Original: <Wait, a Bloodfiend...?>
-Данте: <Постойте, Кровожад?..>
+Данте: <Погоди, Кровожад?..>
 
 # Original: What's... a Bloodfiend...?
 Рассказчик: Что ещё за... Кровожад?..
@@ -35,7 +35,7 @@
 Отис: ...Хотя мои воспоминания не очень ясны, я совершенно уверена, что здешние монстры не похожи на тех, что видела я.
 
 # Original: There was a "Bloodfiend" among the ranks of the Fingers, too. But the things that "Bloodfiend" commanded weren't rubber-glove looking like these.
-Рёшу: Среди Пальцев тоже был «Кровожад». Но твари, которыми тот «Кровожад» командовал, не выглядели как резиновые перчатки.
+Рёшу: В рядах одного из Пальцев тоже был «Кровожад». Но твари, которыми тот «Кровожад» командовал, не выглядели как резиновые перчатки.
 
 # Original: There's something off about this one. That one didn't spawn these dregs with abandon like this.
 Рёшу: С этим что-то не так. Тот не порождал этих отродий без разбора, как этот.

@@ -3401,5 +3401,36 @@
   {
     "original": "Floor of History",
     "translation": "Этаж Истории"
+  },
+  {
+    "original": "Heishou Pack - You Branch Adept",
+    "translation": "Стая Хэйшоу - Адепт Ветви Ю",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Heishou Pack - Mao Branch Adept",
+    "translation": "Стая Хэйшоу - Адепт Ветви Мао"
+  },
+  {
+    "original": "Distortion",
+    "translation": "Искажение"
+  },
+  {
+    "original": "Heishou Pack -\nYou Branch",
+    "translation": "Стая Хэйшоу -\nВетвь Ю",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Heishou Pack - Wei Branch",
+    "translation": "Стая Хэйшоу - Ветвь Вэй",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Heishou Pack - Chou Branch",
+    "translation": "Стая Хэйшоу - Ветвь Чоу"
+  },
+  {
+    "original": "Heishou Pack - Wei Branch",
+    "translation": "Стая Хэйшоу - Ветвь Вэй"
   }
 ]
