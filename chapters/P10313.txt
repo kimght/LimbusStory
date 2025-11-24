@@ -92,7 +92,7 @@
 Дон Кихот: Лютый мороз того дня заморозил наши уши докрасна, и ни единого слова нам не удалось услышать...
 
 # Original: ... I am aware that sheep are vulnerable to cold, but with so many layers of clothing in this weather, don't you feel overheated?
-Фауст: ... Я знаю, что овцы уязвимы к холоду, но с таким количеством слоев одежды в такую погоду, разве ты не перегрелась?
+Фауст: ... Я знаю, что козы уязвимы к холоду, но с таким количеством слоев одежды в такую погоду, разве ты не перегрелась?
 
 # Original: The Backstreets of Hongyuan trap the heat of the great fires that are lit to produce the Boluses, as well as the body warmth of the passersby that walk through the alleys.
 Рассказчик: Подворотни Хунъюаня удерживают жар великих огней, которые зажигают для производства Болюсов, а также тепло тел прохожих, идущих по переулкам.
