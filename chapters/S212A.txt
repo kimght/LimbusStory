@@ -134,7 +134,7 @@
 Мариачи навеселе: Молодой человек, может присоединитесь к нам? У вас явно есть большой потенциал.
 
 # Original: That boy belongs to our company. You should know that siphoning valuable talent from their current employment without permission is a serious crime.
-Сауде: Этот мальчик — собственность нашей компании. Это, знаете ли, серьёзное преступление — переманивать столь ценный талант с его текущего места работы.
+Сод: Этот мальчик — собственность нашей компании. Это, знаете ли, серьёзное преступление — переманивать столь ценный талант с его текущего места работы.
 
 # Original: Just a few hours ago, Sinclair was only one moron in our band of blunderheads, but now he’s been elevated to the company’s valuable asset.
 Рассказчик: Всего несколько часов назад Синклер был единственным дурачком в нашей банде бестолочей, а тут вдруг стал ценным активом компании.

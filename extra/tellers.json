@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "original": "Samjo",
     "translation": "Самджо",
@@ -2911,5 +2911,284 @@
   {
     "original": "The Big Brother",
     "translation": "Старший Брат"
+  },
+  {
+    "original": "Chronicler",
+    "translation": "Летописец"
+  },
+  {
+    "original": "Elder in a Jar",
+    "translation": "Старейшина в банке",
+    "model": "어르신그림자"
+  },
+  {
+    "original": "Elder in Monk Robes",
+    "translation": "Старейшина в монашеской робе",
+    "model": "어르신그림자"
+  },
+  {
+    "original": "Elder in a Machine",
+    "translation": "Старейшина в машине",
+    "model": "어르신그림자"
+  },
+  {
+    "original": "Fearful Employee",
+    "translation": "Напуганный сотрудник"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "히스클리프그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "오티스그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "이스마엘그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "파우스트그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "로쟈그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "뫼르소그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "그레고르그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "돈키호테그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "료슈그림자"
+  },
+  {
+    "original": "Sinner #1",
+    "translation": "Грешник #1",
+    "model": "이상그림자"
+  },
+  {
+    "original": "Anonymous",
+    "translation": "Аноним",
+    "model": "홍루그림자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "싱클레어그림자"
+  },
+  {
+    "original": "Yi Sang & Sinclair",
+    "translation": "И Сан и Синклер",
+    "model": "이상 & 싱클레어"
+  },
+  {
+    "original": "Shi Huazhen",
+    "translation": "Ши Хуачжэнь",
+    "model": "사화정"
+  },
+  {
+    "original": "Anxious Civilian",
+    "translation": "Напуганный гражданин"
+  },
+  {
+    "original": "Gamefowl",
+    "translation": "Бойцовый Петух"
+  },
+  {
+    "original": "Young Master of a House",
+    "translation": "Молодой Мастер Клана"
+  },
+  {
+    "original": "Architectural Engineer",
+    "translation": "Архитектурный Инженер"
+  },
+  {
+    "original": "Attendant",
+    "translation": "Прислужник"
+  },
+  {
+    "original": "Soldier",
+    "translation": "Солдат"
+  },
+  {
+    "original": "Honored Guest",
+    "translation": "Почтенный гость"
+  },
+  {
+    "original": "Sinclair & Jia Xichun",
+    "translation": "Синклер и Цзя Сичунь"
+  },
+  {
+    "original": "Flustered Board Member",
+    "translation": "Взволнованный член совета",
+    "model": "쩔쩔이사"
+  },
+  {
+    "original": "Obsequious Board Member",
+    "translation": "Подобострастный член совета",
+    "model": "굽신이사"
+  },
+  {
+    "original": "Wei?",
+    "translation": "Вэй?",
+    "model": "폭주웨이"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "주교메이어스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아미야"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스카디"
+  },
+  {
+    "original": "Inquisitor",
+    "translation": "Инквизитор",
+    "model": "아이린"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "메이어스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "켈시"
+  },
+  {
+    "original": "Mon3tr",
+    "translation": "Мон3тр",
+    "model": "Mon3tr"
+  },
+  {
+    "original": "Fellow Researcher",
+    "translation": "Коллега-Исследователь"
+  },
+  {
+    "original": "Townsfolk",
+    "translation": "Горожане"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "박사"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "돈키호테"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "파비우스"
+  },
+  {
+    "original": "Village Chief",
+    "translation": "Староста Деревни",
+    "model": "파비우스"
+  },
+  {
+    "original": "Maman",
+    "translation": "Maman"
+  },
+  {
+    "original": "The Princess",
+    "translation": "Принцесса"
+  },
+  {
+    "original": "Squire",
+    "translation": "Оруженосец"
+  },
+  {
+    "original": "Terrified Human",
+    "translation": "Напуганный человек"
+  },
+  {
+    "original": "Loudmouthed Gambler",
+    "translation": "Крикливый игрок"
+  },
+  {
+    "original": "Grumbling Gambler",
+    "translation": "Ворчащий игрок"
+  },
+  {
+    "original": "Loudmouthed & Grumbling Gamblers",
+    "translation": "Крикливый и ворчащий игроки"
+  },
+  {
+    "original": "Committed Subordinate",
+    "translation": "Преданный подчинённый"
+  },
+  {
+    "original": "Desperate Subordinate",
+    "translation": "Отчаявшийся подчинённый"
+  },
+  {
+    "original": "Decorous Subordinate",
+    "translation": "Вежливый подчинённый"
+  },
+  {
+    "original": "Aggressive Subordinate",
+    "translation": "Агрессивный подчинённый"
+  },
+  {
+    "original": "Assistant Librarian",
+    "translation": "Помощник Библиотекаря"
+  },
+  {
+    "original": "Despairing Subordinate",
+    "translation": "Павший духом подчинённый"
+  },
+  {
+    "original": "Patron Librarian",
+    "translation": "Главный Библиотекарь"
+  },
+  {
+    "original": "Nightstrike Team Adept",
+    "translation": "???"
+  },
+  {
+    "original": "Hare",
+    "translation": "Заяц"
+  },
+  {
+    "original": "Oxlord",
+    "translation": "Бычий Лорд"
+  },
+  {
+    "original": "Pack of Sheep",
+    "translation": "Стая Овец"
   }
 ]

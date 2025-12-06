@@ -362,7 +362,7 @@
 Рассказчик: Воспоминания Синклера...?
 
 # Original: I saw an image of Saude and Effie—both smiling. Both were excellent field Agents.
-Рассказчик: Я увидел образ Сауде и Эффи — оба улыбались. Оба были отличными полевыми Агентами.
+Рассказчик: Я увидел образ Сод и Эффи — оба улыбались. Оба были отличными полевыми Агентами.
 
 # Original: And because they were both excellent Agents, they suffered to their last moments before our eyes.
 Рассказчик: И именно потому, что они оба были отличными Агентами, они страдали до последних мгновений своей жизни на наших глазах.

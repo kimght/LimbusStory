@@ -26,7 +26,7 @@
 Дон Кихот: Цк-цк, ты еще не уразумела!
 
 # Original: Yet the child's nonchalance was unrelenting, as she grinned and wagged her index finger at the woman.
-Рассказчик: Однако беспечность дитяти была непоколебима, она ухмыльнулась и погрозила женщине указательным пальцем.
+Рассказчик: Однако беспечность дитя была непоколебима, она ухмыльнулась и погрозила женщине указательным пальцем.
 
 # Original: I ask thee! What dost thou think the primary function of the Cinq Association is?
 Дон Кихот: Я вопрошаю тебя! Как ты полагаешь, в чем заключается основная функция Ассоциации Сэнк?

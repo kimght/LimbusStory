@@ -2,7 +2,7 @@
 Мерсо: Я сделал свой ход.
 
 # Original: ... Oh, so you have.
-Сауде: ... О, вот как.
+Сод: ... О, вот как.
 
 # Original: An old man garbed in a glistening white dopo robe sat opposite the child, who wore a hat woven from horsehair and bamboo.
 Рассказчик: Старик, облаченный в сверкающее белое одеяние допо, сидел напротив дитя, на котором была шляпа, сплетенная из конского волоса и бамбука.

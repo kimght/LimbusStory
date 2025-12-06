@@ -35,7 +35,7 @@
 Май: А вы быстро приходите в себя. Хорошая черта характера.
 
 # Original: Well, you know~ Ain’t that how emotions are supposed to be? Constantly changing with time, y’know?
-Родион: Так уж устроены эмоции~ Порой она меняются туда-сюда.
+Родион: Так уж устроены эмоции~ Порой они меняются туда-сюда.
 
 # Original: Is it now? I don't quite agree. Emotions don't change with time.
 Май: Вы так думаете? Не думаю, что согласен. Эмоции не меняются со временем.

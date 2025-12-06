@@ -5,7 +5,7 @@
 Рассказчик: <color=#9b111e>Мы несем #&#(!@&$.</color>
 
 # Original: This doesn’t look like the right wire. Hey, anybody—
-Сауде: Это не похоже на нужный провод. Эй, кто-нибудь—
+Сод: Это не похоже на нужный провод. Эй, кто-нибудь—
 
 # Original: An unfamiliar voice seemed to ring in the air.
 Рассказчик: Казалось, в воздухе зазвучал незнакомый голос.
@@ -17,10 +17,10 @@
 Рассказчик: Когда эти мысли начали возникать, в поле зрения замерцал свет.
 
 # Original: …ake up.
-Сауде: …роснитесь.
+Сод: …роснитесь.
 
 # Original: Teacher. Wake up.
-Сауде: Учитель. Проснитесь.
+Сод: Учитель. Проснитесь.
 
 # Original: Looking around, I found myself in a strange place.
 Рассказчик: Оглядевшись, я обнаружил себя в странном месте.
@@ -32,13 +32,13 @@
 Данте: <Школа?>
 
 # Original: You seem rather confused, Dear Teacher.
-Сауде: Вы кажетесь довольно растерянным, Дорогой Учитель.
+Сод: Вы кажетесь довольно растерянным, Дорогой Учитель.
 
 # Original: <Me? A teacher?>
 Данте: <Я? Учитель?>
 
 # Original: Indeed you are. Seeing how you’re acting, you must have forgotten all about the explanation that was given just now.
-Сауде: Действительно, вы им являетесь. Судя по вашему поведению, вы, должно быть, забыли всё объяснение, которое было дано только что.
+Сод: Действительно, вы им являетесь. Судя по вашему поведению, вы, должно быть, забыли всё объяснение, которое было дано только что.
 
 # Original: <Uh… Y—Yeah, I guess. Hey, wait a sec… You can hear me?>
 Данте: <Эм… Д-Да, наверное. Подождите-ка… Вы меня слышите?>
@@ -80,16 +80,16 @@
 Рассказчик: …
 
 # Original: …mael! You can’t simply smack a device back into function. Go scuttle off to a corner with your ignorance.
-Сауде: …маэль! Нельзя просто так бить по устройству, чтобы оно заработало. Иди-ка в угол со своим невежеством.
+Сод: …маэль! Нельзя просто так бить по устройству, чтобы оно заработало. Иди-ка в угол со своим невежеством.
 
 # Original: Tch, then—
-Сауде: Тч, тогда—
+Сод: Тч, тогда—
 
 # Original: Before I could fully process the unpleasant feeling creeping over me, my view was painted with a different color.
 Рассказчик: Прежде чем я успел полностью осознать неприятное чувство, охватившее меня, мой взгляд окрасился в другой цвет.
 
 # Original: Doctor, Doctor!
-Сауде: Доктор, Доктор!
+Сод: Доктор, Доктор!
 
 # Original: <…Vergilius?>
 Данте: <…Вергилий?>
@@ -125,7 +125,7 @@
 Рассказчик: …….
 
 # Original: …ss Faust! How does this clock head even work?!
-Сауде: …с Фауст! Как вообще работает эта часовая голова?!
+Сод: …с Фауст! Как вообще работает эта часовая голова?!
 
 # Original: Yet again… Strange voices and unpleasant sights.
 Рассказчик: И снова… Странные голоса и неприятные видения.
@@ -134,13 +134,13 @@
 Рассказчик: Что же…
 
 # Original: Amazing… that was amazing! You really won!
-Сауде: Удивительно… это было потрясающе! Вы действительно победили!
+Сод: Удивительно… это было потрясающе! Вы действительно победили!
 
 # Original: What is it this time… They’re not even human now…
 Рассказчик: Что на этот раз… Они теперь даже не люди…
 
 # Original: So this is Mephistopheles… showing us the way a true “Ace” runs…
-Сауде: Так вот он, Мефистофель… показывает нам, как действует настоящий "Ас"…
+Сод: Так вот он, Мефистофель… показывает нам, как действует настоящий "Ас"…
 
 # Original: <What are you going on about… this time…>
 Данте: <О чем ты говоришь… на этот раз…>
@@ -161,7 +161,7 @@
 Рассказчик: …
 
 # Original: Memory module… …Did that work? The… Why is…
-Сауде: Модуль памяти… …Получилось? Почему… Почему…
+Сод: Модуль памяти… …Получилось? Почему… Почему…
 
 # Original: <M—My head…>
 Данте: <М-Моя голова…>

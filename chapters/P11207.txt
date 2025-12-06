@@ -125,13 +125,13 @@
 Грегор: А ну-ка, смотри сюда!
 
 # Original: Aaahhh!!
-Сауде: Аааа!!
+Сод: Аааа!!
 
 # Original: Oh~ Don't freak out, now. Thrash about a little too much, and I just might slip and take your whole noggin clean off. If something so unfortunate were to happen... well, don't blame me, 'kay?
 Грегор: О~ Не психуй. Будешь слишком сильно дёргаться, я могу случайно снести тебе всю башку. Если произойдёт что-то настолько прискорбное... ну, не вини меня, лады?
 
 # Original: ... Gulp.
-Сауде: ... Глоть.
+Сод: ... Глоть.
 
 # Original: Now, lookee here~ My future guest~
 Грегор: Теперь смотри сюда~ Мой будущий гость~
@@ -151,7 +151,7 @@
 Грегор: Отныне ты будешь нашим "гостем". У тебя есть богатые друзья, богатая семья, хм?
 
 # Original: ……
-Сауде: ……
+Сод: ……
 
 # Original: Yeah, just like that. Just blink. Chill with us here until your friends get here with the ransom, 'kay? Play nice, and I won't kill ya. Ain't that nice?
 Грегор: Да, вот так. Просто моргай. Отдыхай с нами здесь, пока твои друзья не приедут с выкупом, лады? Будешь вести себя хорошо, и я тебя не убью. Разве не мило?
@@ -160,7 +160,7 @@
 Грегор: Не моргаешь? Глаза пересохли? Хочешь глазные капли? Всё ещё осталось немного боевого духа, да?
 
 # Original: N-no! Not at...
-Сауде: Н-нет! Вовсе не...
+Сод: Н-нет! Вовсе не...
 
 # Original: ... Gulp.
 Нервный Пират: ... Глоть.

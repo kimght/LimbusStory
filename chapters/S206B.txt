@@ -23,7 +23,7 @@
 Синклер: Тут написано: "Скучаю по вам". Её хозяин… скоро же к ним вернётся, да…?
 
 # Original: Not a chance.
-Родион: Без шанса. 
+Родион: Без шанса.
 
 # Original: Even if they did return from the casino, they wouldn’t be in the right state to happily reunite with their loving families~
 Родион: Даже если он и выберется из казино, то вряд ли будет в состоянии счастливо воссоединиться со своей любящей семьёй~
@@ -32,13 +32,13 @@
 Отис: ……
 
 # Original: Well… To play the auxiliary role of your tour guide, this here is the hidden landmark of the street.
-Сауде: Что ж… Подыграем вам и побудем для вас гидами; это — скрытая достопримечательность улицы.
+Сод: Что ж… Подыграем вам и побудем для вас гидами; это — скрытая достопримечательность улицы.
 
 # Original: The bitter end of gamblers.
 Эффи: Горький конец игроманов.
 
 # Original: And this served as a stepping stone for the Tingtang Gang to amass wealth and power by dealing used cars.
-Сауде: А также первая ступенька банды «Бом-боб» на пути к наращиванию богатств и силы — продажей подержанных автомобилей.
+Сод: А также первая ступенька банды «Бом-боб» на пути к наращиванию богатств и силы — продажей подержанных автомобилей.
 
 # Original: So Rodya, you’ve been to places like this pretty often, right? Got anything to add? Bet you could tell us some pretty interesting trivia.
 Грегор: Так, Родя, ты же тут часто бывала, да? Есть что добавить? Готов поспорить, у тебя припрятана парочка замечаний.

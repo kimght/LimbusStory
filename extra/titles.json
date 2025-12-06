@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "original": "Grade 8 Fixer",
     "translation": "Корректировщица 8 ранга",
@@ -1309,16 +1309,16 @@
   },
   {
     "original": "The Ring Pointillist Student",
-    "translation": "Пуанталист-Ученик Среднего",
+    "translation": "Пуантилист-Ученик Безымянного",
     "model": "오티스"
   },
   {
     "original": "The Ring Fauvist Student",
-    "translation": "Фовист-Ученик Среднего"
+    "translation": "Фовист-Ученик Безымянного"
   },
   {
     "original": "The Ring Cubist Student",
-    "translation": "Кубист-Ученик Среднего"
+    "translation": "Кубист-Ученик Безымянного"
   },
   {
     "original": "District 22 Backstreets",
@@ -3094,5 +3094,352 @@
     "original": "Effloresced E.G.O::Spicebush",
     "translation": "Расцветшее ЭГО::Линдера",
     "model": "동백에고각성"
+  },
+  {
+    "original": "The Master of Hongyuan",
+    "translation": "Хозяин Хунъюаня",
+    "model": "홍루"
+  },
+  {
+    "original": "The Hierarch of Hongyuan",
+    "translation": "Глава Хунъюаня",
+    "model": "이스마엘"
+  },
+  {
+    "original": "H Corp. Board Member",
+    "translation": "Член совета директоров Корп. H"
+  },
+  {
+    "original": "The Master of Twelve Beasts",
+    "translation": "Хозяин двенадцати Зверей",
+    "model": "홍루"
+  },
+  {
+    "original": "The Lord",
+    "translation": "Владыка",
+    "model": "홍루"
+  },
+  {
+    "original": "First Note",
+    "translation": "Первая записка"
+  },
+  {
+    "original": "First Note",
+    "translation": "Первая записка",
+    "model": "히스클리프그림자"
+  },
+  {
+    "original": "Second Note",
+    "translation": "Вторая записка"
+  },
+  {
+    "original": "Second Note",
+    "translation": "Вторая записка",
+    "model": "오티스그림자"
+  },
+  {
+    "original": "Third Note",
+    "translation": "Третья записка"
+  },
+  {
+    "original": "Third Note",
+    "translation": "Третья записка",
+    "model": "이스마엘그림자"
+  },
+  {
+    "original": "Fourth Note",
+    "translation": "Четвертая записка"
+  },
+  {
+    "original": "Fourth Note",
+    "translation": "Четвертая записка",
+    "model": "파우스트그림자"
+  },
+  {
+    "original": "Fifth Note",
+    "translation": "Пятая записка"
+  },
+  {
+    "original": "Fifth Note",
+    "translation": "Пятая записка",
+    "model": "로쟈그림자"
+  },
+  {
+    "original": "Sixth Note",
+    "translation": "Шестая записка"
+  },
+  {
+    "original": "Sixth Note",
+    "translation": "Шестая записка",
+    "model": "뫼르소그림자"
+  },
+  {
+    "original": "Seventh Note",
+    "translation": "Седьмая записка",
+    "model": "그레고르그림자"
+  },
+  {
+    "original": "\"One of Them\"",
+    "translation": "\"Один из них\"",
+    "model": "그레고르그림자"
+  },
+  {
+    "original": "Eighth Note",
+    "translation": "Восьмая записка",
+    "model": "돈키호테그림자"
+  },
+  {
+    "original": "Ninth Note",
+    "translation": "Девятая записка"
+  },
+  {
+    "original": "Ninth Note",
+    "translation": "Девятая записка",
+    "model": "료슈그림자"
+  },
+  {
+    "original": "Tenth Note",
+    "translation": "Десятая записка",
+    "model": "히스클리프그림자"
+  },
+  {
+    "original": "Eleventh Note",
+    "translation": "Одиннадцатая записка"
+  },
+  {
+    "original": "Eleventh Note",
+    "translation": "Одиннадцатая записка",
+    "model": "이상그림자"
+  },
+  {
+    "original": "Twelfth Note",
+    "translation": "Двенадцатая записка"
+  },
+  {
+    "original": "Twelfth Note",
+    "translation": "Двенадцатая записка",
+    "model": "홍루그림자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "싱클레어그림자"
+  },
+  {
+    "original": "Sinners",
+    "translation": "Грешники",
+    "model": "이상 & 싱클레어"
+  },
+  {
+    "original": "The Hierarch of Hongyuan",
+    "translation": "Глава Хунъюаня",
+    "model": "불량시춘"
+  },
+  {
+    "original": "Heishou Pack - You Branch",
+    "translation": "Стая Хэйшоу - Ветвь Ю",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Heishou Pack - You Branch",
+    "translation": "Стая Хэйшоу - Ветвь Ю"
+  },
+  {
+    "original": "Students",
+    "translation": "Ученики"
+  },
+  {
+    "original": "Xichun's Clan",
+    "translation": "Клан Сичунь",
+    "model": "웨이다침2"
+  },
+  {
+    "original": "H Corp. Merchant Representative",
+    "translation": "Представитель торговли Корп. H",
+    "model": "쩔쩔이사"
+  },
+  {
+    "original": "H Corp. Administrative Representative",
+    "translation": "Представитель администрации Корп. H",
+    "model": "굽신이사"
+  },
+  {
+    "original": "Daguanyuan",
+    "translation": "Дагуаньюань",
+    "model": "임대옥"
+  },
+  {
+    "original": "The Pinky",
+    "translation": "Мизинец",
+    "model": "자로사복"
+  },
+  {
+    "original": "The Hierarch of Hongyuan",
+    "translation": "Глава Хунъюаня",
+    "model": "가주시춘"
+  },
+  {
+    "original": "N Corp.",
+    "translation": "Корп. N"
+  },
+  {
+    "original": "N Corp. New League of Nine Littérateurs",
+    "translation": "Новая Лига Девяти Литераторов Корп. N",
+    "model": "료슈"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "주교메이어스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "아미야"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "스카디"
+  },
+  {
+    "original": "Faro Muerto",
+    "translation": "Фаро Муэрто",
+    "model": "파비우스"
+  },
+  {
+    "original": "Faro Muerto",
+    "translation": "Фаро Муэрто",
+    "model": "이베리아주민2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "메이어스"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "켈시"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "Mon3tr"
+  },
+  {
+    "original": "Ægir",
+    "translation": "Эгир"
+  },
+  {
+    "original": "Iberia",
+    "translation": "Иберия"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "박사"
+  },
+  {
+    "original": "Faro Muerto",
+    "translation": "Фаро Муэрто"
+  },
+  {
+    "original": "Shi East Section 3",
+    "translation": "Восточная Ши Секция 3",
+    "model": "파우스트"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент Зачистки Корп. W",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Bloodfiend Hunter",
+    "translation": "Охотник на Кровожадов"
+  },
+  {
+    "original": "Third Kindred",
+    "translation": "Третий Сородич"
+  },
+  {
+    "original": "Fourth Kindred",
+    "translation": "Четвертый Сородич",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Fourth Kindred",
+    "translation": "Четвертый Сородич"
+  },
+  {
+    "original": "Third Kindred",
+    "translation": "Третий Сородич",
+    "model": "뫼르소"
+  },
+  {
+    "original": "J Corp. Resident",
+    "translation": "Житель Корп. J"
+  },
+  {
+    "original": "Jeong's Office Rep",
+    "translation": "Представитель Офиса Чона",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Night Awls Capitano",
+    "translation": "Капитано Ночных Шильев",
+    "model": "그레고르"
+  },
+  {
+    "original": "Night Awls",
+    "translation": "Ночные Шилья"
+  },
+  {
+    "original": "Library Director",
+    "translation": "Директор Библиотеки"
+  },
+  {
+    "original": "Floor of History",
+    "translation": "Этаж Истории"
+  },
+  {
+    "original": "Heishou Pack - You Branch Adept",
+    "translation": "Стая Хэйшоу - Адепт Ветви Ю",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Heishou Pack - Mao Branch Adept",
+    "translation": "Стая Хэйшоу - Адепт Ветви Мао"
+  },
+  {
+    "original": "Distortion",
+    "translation": "Искажение"
+  },
+  {
+    "original": "Heishou Pack -\nYou Branch",
+    "translation": "Стая Хэйшоу -\nВетвь Ю",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Heishou Pack - Wei Branch",
+    "translation": "Стая Хэйшоу - Ветвь Вэй",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Heishou Pack - Chou Branch",
+    "translation": "Стая Хэйшоу - Ветвь Чоу"
+  },
+  {
+    "original": "Heishou Pack - Wei Branch",
+    "translation": "Стая Хэйшоу - Ветвь Вэй"
+  },
+  {
+    "original": "Hongyuan",
+    "translation": "Хунъюань",
+    "model": "료슈"
+  },
+  {
+    "original": "Shi Family",
+    "translation": "Семья Ши"
   }
 ]

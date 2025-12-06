@@ -11,10 +11,10 @@
 Рассказчик: Сод обрушила на Родю шквал накопившихся вопросов.
 
 # Original: …How did you manage to win without even using any wishpower?
-Сауде: …Как ты победила без силы желаний?
+Сод: …Как ты победила без силы желаний?
 
 # Original: No, before any of that, what made you so sure that you’ll win regardless?
-Сауде: Хотя нет, сначала, почему ты была так уверена в своей безоговорочной победе?
+Сод: Хотя нет, сначала, почему ты была так уверена в своей безоговорочной победе?
 
 # Original: Yikes, hold your horses, gal… One question at a time. Okay?
 Родион: Божечки, попридержи коней, милая… Один вопрос за раз. Хорошо?
@@ -44,7 +44,7 @@
 Родион: Победитель сам создаёт импульс и пользуется им. Ху-ху.
 
 # Original: ……
-Сауде: ……
+Сод: ……
 
 # Original: I mean, look. Even you guys thought I’d popped the wish stickers, right?
 Родион: Ну смотрите. Даже вы, ребята, подумали, что я воспользовалась меткой желаний, верно?
@@ -56,10 +56,10 @@
 Родион: Для человека с непоколебимой верой в себя это не более, чем просто странная бумажка.
 
 # Original: That can’t be true… J Corp’s wishpower-related tech is an officially approved semi-Singularity with widely proven efficacy.
-Сауде: Быть такого не может… Технология желаний корпорации J — официально признанная полусингулярность с широко доказанной эффективностью.
+Сод: Быть такого не может… Технология желаний корпорации J — официально признанная полусингулярность с широко доказанной эффективностью.
 
 # Original: Thousands of people rely on wishpower for every aspect of their lives…
-Сауде: Тысячи людей полагаются на силу желаний в каждом аспекте своей жизни…
+Сод: Тысячи людей полагаются на силу желаний в каждом аспекте своей жизни…
 
 # Original: I guess there’s nothing like it to give people a confidence boost in this day and age.
 Родион: Полагаю, в наше время нет ничего лучше, что бы могло было дать людям для уверенности в себе.
@@ -113,7 +113,7 @@
 Родион: Почему мы должны сюда прокрадываться? И что это за рабы, что с камнями возятся?
 
 # Original: Although we’ve earned ownership… we have nothing proper to show as proof that we won, and we’re more or less intruders to them.
-Сауде: Хоть мы и выиграли право собственности… у нас нет ничего, что мы могли бы предъявить в качестве доказательства нашей победы, так что мы для них так или иначе нарушители.
+Сод: Хоть мы и выиграли право собственности… у нас нет ничего, что мы могли бы предъявить в качестве доказательства нашей победы, так что мы для них так или иначе нарушители.
 
 # Original: In all fairness, anyone would’ve thought of us as thieves if they saw us awkwardly hiding near the vault.
 Рассказчик: Справедливости ради, любой бы мог принять нас за воров, увидь как мы неловко прячемся поодаль хранилища.

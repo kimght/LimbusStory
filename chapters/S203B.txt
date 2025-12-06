@@ -1,8 +1,8 @@
 ﻿# Original: Now… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks.
-Сауде: Что же… В этой миссии мы, по сути, подадим вам всё на тарелочке с голубой каёмочкой. От вас лишь потребуется открыть рты пошире и проглотить свои простые задачи.
+Сод: Что же… В этой миссии мы, по сути, подадим вам всё на тарелочке с голубой каёмочкой. От вас лишь потребуется открыть рты пошире и проглотить свои простые задачи.
 
 # Original: Check the documents in this envelope, and do exactly, preciiiiisely as the papers say.
-Сауде: Прочтите документы из этого пакета и делайте прямо, в то-о-очности то, что в них прописано.
+Сод: Прочтите документы из этого пакета и делайте прямо, в то-о-очности то, что в них прописано.
 
 # Original: The way Saude dragged out that vowel needled me a bit, but I decided not to argue.
 Рассказчик: То, как Сод протянула эту гласную, немного меня задело, но я предпочёл не возражать.
@@ -89,7 +89,7 @@
 Рассказчик: Эй, секунду. Разве это всё не пойдёт на смарку, если наш игрок проиграет?
 
 # Original: We’ve prepared fake identification as well. It’s just in case the casino security runs random inspections on visitors.
-Сауде: Мы подготовили и поддельные удостоверения личностей. На случай, если охрана казино решит провести выборочную проверку посетителей.
+Сод: Мы подготовили и поддельные удостоверения личностей. На случай, если охрана казино решит провести выборочную проверку посетителей.
 
 # Original: Alright, that’s all fine and dandy… But how do you plan to win once you’re at the top floor?
 Грегор: Ладно, это всё, конечно, классно и до блеска вылизано… Но каким образом вы собираетесь выиграть на верхнем этаже?
@@ -113,7 +113,7 @@
 Грегор: И как вы планируете потеснить босса банды «Бом-боб»?
 
 # Original: We’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef.
-Сауде: Мы подсыпем снотворное в еду из казино. Детали с шеф-поваром уже улажены.
+Сод: Мы подсыпем снотворное в еду из казино. Детали с шеф-поваром уже улажены.
 
 # Original: Sedatives…
 И Сан: Снотворное…
@@ -125,7 +125,7 @@
 Рассказчик: Этот жест был словно отражением того, что эти двое были идеальными партнёрами, способными прочитать мысли друг друга лишь мельком переглянувшись.
 
 # Original: Hey, Dear Pawnbroker~ We’ll be taking a look at the goods on showcase from here to there~
-Сауде: Эй, дорогой ростовщик~ Мы бы взглянули на товар с этой и вон той витрин~
+Сод: Эй, дорогой ростовщик~ Мы бы взглянули на товар с этой и вон той витрин~
 
 # Original: Hyes? Oh! No yeah, sure, of course. Please take your time, ma’am.
 Ростовщик: Уэ? Ох! Ага, да, разумеется. Минуточку, мэм.
@@ -134,7 +134,7 @@
 Рассказчик: Ростовщик резко переменился в лице, начав пресмыкаться.
 
 # Original: Now then, let’s take what we need from the display.
-Сауде: Ну что ж, возьмём то, что нам может понадобиться.
+Сод: Ну что ж, возьмём то, что нам может понадобиться.
 
 # Original: Oh my! This is a Guppcha Designer Brooch, isn’t it?
 Хон Лу: О боже! Это же дизайнерская брошь Гупча?
@@ -152,7 +152,7 @@
 Родион: Согласна на эти воловьи перчатки. Уж не знаю, чьи они были, но выглядят весьма моднявенько~
 
 # Original: Please take items that suit what’s written in the envelopes. You have roles to play.
-Сауде: Пожалуйста, берите только то, что подходит тому, что было указано в пакетах Придерживайтесь своих ролей.
+Сод: Пожалуйста, берите только то, что подходит тому, что было указано в пакетах Придерживайтесь своих ролей.
 
 # Original: Pardon, but the envelope I have received says “janitor”, this must be an error of some sort!
 Дон Кихот: Извините, но на пакете, полученном мною, написано "уборщик", это, должно быть, какая-то ошибка!
@@ -215,10 +215,10 @@
 Рассказчик: В отличии от Измаил, посмеивающейся над бандитом, Синклер оглядывался с тревогой.
 
 # Original: We have no choice, the Backstreets have their own rules and order. We aren’t the ones to disturb that complex web of their society.
-Сауде: Тут мы бессильны, у Подворотен свои порядки и устои. Нам лучше не тревожить хитросплетения их общества.
+Сод: Тут мы бессильны, у Подворотен свои порядки и устои. Нам лучше не тревожить хитросплетения их общества.
 
 # Original: Outsiders like us will only cause a bigger scene if we try to step in.
-Сауде: Чужаки, вроде нас, сделают только хуже, если попытаются вмешаться.
+Сод: Чужаки, вроде нас, сделают только хуже, если попытаются вмешаться.
 
 # Original: Pleased by the Sinners choosing to stay away, the goon continued with the extortion.
 Рассказчик: Довольный, что Грешники предпочли остаться в стороне, бандит продолжил вымогательство.
@@ -275,13 +275,13 @@
 Хитклиф: Не нравится мне как ты об этом говоришь…
 
 # Original: Come on now, gather the items to help with your disguises so we can leave.
-Сауде: Так, берите всё, что надо для маскировки, и мы пойдём отсюда.
+Сод: Так, берите всё, что надо для маскировки, и мы пойдём отсюда.
 
 # Original: Saude flapped the document full of scheduled plans to emphasize that we’d be busy.
 Рассказчик: Сод помахала документом, исписанным чёткими планами, будто подчёркивая, что у нас не так много времени.
 
 # Original: We’re salaried workers, not “heroes” fighting for justice.
-Сауде: Мы наёмные рабочие, а не борющиеся за справедливость "герои".
+Сод: Мы наёмные рабочие, а не борющиеся за справедливость "герои".
 
 # Original: <Wait… Not that word…!>
 Данте: <Погоди-ка… <b>Только не это…!</b>>
@@ -323,7 +323,7 @@
 Рассказчик: Вырубившийся от резкого удара и распластавшийся по полу бандит на целую минуту стал центром внимания всех находившихся в ломбарде.
 
 # Original: ……
-Сауде: ……
+Сод: ……
 
 # Original: Ah, for your information, keeping the Sinners in check is not part of my job description. That would be the job of this person here.
 Фауст: Ах, к вашему сведению, контролировать грешников не входит в мои должностные обязанности. Этим должен заниматься он.
@@ -404,13 +404,13 @@
 Грегор: Эй, как вас там, Маффин и Сабле? Кончайте с колкостями. Тут же полно ломбардов, разве нет? Можем просто пойти в другой—
 
 # Original: It’s Effie and Saude. Please don’t mistake our names for confections.
-Сауде: Вообще-то Эффи и Сод. Пожалуйста, не путай наши имена со сладостями.
+Сод: Вообще-то Эффи и Сод. Пожалуйста, не путай наши имена со сладостями.
 
 # Original: And your statement that there are plenty of pawnshops in the vicinity won’t mean much…
-Сауде: А что касается твоего замечания, то толку от соседних ломбардов не будет, если…
+Сод: А что касается твоего замечания, то толку от соседних ломбардов не будет, если…
 
 # Original: …When said pawnshops notice the trouble happening here and close…
-Сауде: …Они заметят, что намечается какая-то заварушка, и позакрываются…
+Сод: …Они заметят, что намечается какая-то заварушка, и позакрываются…
 
 # Original: <Don Quixote…!>
 Данте: <Дон Кихот…!>

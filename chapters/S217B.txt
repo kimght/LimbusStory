@@ -152,7 +152,7 @@
 Грегор: Вы же тоже… слышали сейчас громкий хлопок?
 
 # Original: Undoubtedly. After a quarrel about… wishpower and the like.
-Сауде: Несомненно. После спора на счёт… силы желаний и всего такого.
+Сод: Несомненно. После спора на счёт… силы желаний и всего такого.
 
 # Original: What? Did they find out? Oi, quit gawking and turn that clock.
 Хитклиф: Чё? Они пронюхали? Эй, хватит пялиться и отмотай часы.

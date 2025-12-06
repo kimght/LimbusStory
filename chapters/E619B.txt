@@ -1,188 +1,188 @@
 # Original: <What do you mean you... can't...?>
-Данте: <Что значит ты... не можешь...?>
+Данте: <В смысле... не можешь?..>
 
 # Original: I mean it in the most literal sense. My access to Faust's input and information, which has always been readily available... is completely severed.
-Фауст: В самом буквальном смысле. Мой доступ к данным и информации Фауст, который всегда был доступен по первому же запросу... полностью прерван.
+Фауст: В самом что ни на есть буквальном. Мой доступ к данным и информации Фауст, который всегда был в моём распоряжении... полностью отрезан.
 
 # Original: <... Oh! What if everything about this situation is something you don't have access to yet, like you said last time...?>
-Данте: <... О! А что если у тебя просто нет доступа к тому, что касается этой ситуации, как ты говорила в прошлый раз...?>
+Данте: <...О! А что, если вся эта ситуация — нечто, к чему у тебя ещё нет доступа, как ты говорила в прошлый раз?..>
 
 # Original: One cannot completely dismiss that possibility, but even that is... uncertain...
-Фауст: Нельзя полностью исключить такую возможность, но даже это... не известно точно...
+Фауст: Нельзя полностью исключать такую возможность, но даже она... неясна...
 
-# Original: Every answer Faust has given me was always full of confidence and methodical expertise.
-Рассказчик: Каждый ответ Фауст всегда был полон уверенности и методичного точности.
+# Original: Faust's answers have always been perfectly accurate and methodical when sharing information.
+Рассказчик: Ответы Фауст всегда были безупречно точными и методичными, когда она делилась информацией.
 
 # Original: I don't think she's ever said a sentence that was this full of speculation and doubt.
-Рассказчик: Не думаю, что она когда-либо произносила фразу, настолько полную предположений и сомнений.
+Рассказчик: Кажется, она ещё никогда не произносила фразу, настолько полную домыслов и сомнений.
 
-# Original: <Then 'Faust', you are...>
-Данте: <Тогда 'Фауст', ты...>
+# Original: <Then "Faust", right now you're...>
+Данте: <Тогда, «Фауст», сейчас ты...>
 
-# Original: Yes. At this moment, I am... limited to operating only with my knowledge.
-Фауст: Да. В данный момент я... ограничена только своими собственными знаниями.
+# Original: Yes. At this moment, I am... limited to utilizing only the knowledge that is in <i>my</i> possession.
+Фауст: Да. В данный момент я... могу использовать лишь те знания, что находятся в <i>моём</i> распоряжении.
 
 # Original: <…!>
 Данте: <…!>
 
-# Original: I cannot discern the cause of this disconnection... More than enough precautions have likely been taken in case of interdimensional travel, but perhaps Faust did not take into account an occasion in which we may have to access an unidentified dimension such as this. Or, even if it was taken into account, this particular dimension may not yet have been subject to cross-observation.
-Фауст: Я не могу определить причину разрыва связи... Меры предосторожности были приняты на случай межпространственных путешествий, но, возможно, Фауст не учла тот случай, в котором нам может потребоваться доступ к неопознанному измерению, подобному этому. Или, даже если это было учтено, это конкретное измерение, вероятно, еще не подвергалось перекрестному наблюдению.
+# Original: I cannot discern the cause of this disconnection... More than enough precautions have likely been taken in case of interdimensional travel, but perhaps Faust did not take into account an occasion in which we may have to access an unidentified dimension such as this. Or, even if it was taken into account, this particular dimension may not have been subject to cross-observation yet.
+Фауст: Я не могу определить причину этого разрыва... Скорее всего, было предпринято более чем достаточно мер предосторожности на случай межпространственного путешествия, но, возможно, Фауст не учла вероятность того, что нам придётся войти в неустановленное измерение вроде этого. Или же, даже если это и было учтено, данное конкретное измерение могло ещё не подвергаться перекрёстному наблюдению.
 
-# Original: If that is not the case, then I-no, nevermind.
-Фауст: Если это не так, то я... нет, неважно.
+# Original: If that is not the case, then I-no, never mind.
+Фауст: Если же дело не в этом, то я... впрочем, неважно.
 
-# Original: There was nothing that suggested that my connection to Faust would be lost, not even as we boarded the train. To be honest, this is...
-Фауст: Ничто не давало оснований полагать, что моя связь с Фауст будет потеряна, даже когда мы уже погрузились на поезд. Честно говоря, это...
+# Original: There was nothing that suggested that my connection to Faust would be lost, not even as we boarded the train. To be honest...
+Фауст: Даже когда мы уже садились на поезд, не было ничего указывающего на то, что моя связь с Фауст будет потеряна. Если честно...
 
-# Original: ... a rather disagreeable situation for me.
-Фауст: ... довольно неприятная ситуация для меня.
+# Original: ... I find myself in a somewhat perplexed state.
+Фауст: ...я нахожусь в некотором замешательстве.
 
-# Original: <... Alright. For now.>
-Данте: <... Хорошо. Пока что.>
+# Original: <... Alright, I get it for now.>
+Данте: <...Хорошо, пока что я понял.>
 
 # Original: Now that changes everything.
-Рассказчик: Это меняет всё.
+Рассказчик: Теперь это всё меняет.
 
 # Original: I recalled the last thing I saw before the hatch on the capsule closed. When Faust told me not to worry too much.
-Рассказчик: Я вспомнил сцену, которую я видел перед тем, как закрылся люк капсулы. Тогда Фауст сказала мне не слишком беспокоиться.
+Рассказчик: Я вспомнил последнее, что видел перед тем, как закрылся люк капсулы. Как Фауст сказала мне не слишком беспокоиться.
 
 # Original: <Okay. This is just a minor setback. Nothing we can't beat, right? We got this.>
-Данте: <Ладно. Это просто небольшое затруднение. Ничего такого, с чем мы не справимся, верно? Мы справимся.>
+Данте: <Ладно. Это лишь небольшая неудача. Мы же справимся, верно? Всё будет в порядке.>
 
 # Original: I began to mutter like I was trying to convince myself.
-Рассказчик: Я начал бормотать, словно пытаясь убедить самого себя.
+Рассказчик: Я забормотал, словно пытался убедить самого себя.
 
 # Original: As the manager, my job is to calm everyone down and set their sights on the future. Just as Faust did for me immediately before the hatch closed.
-Рассказчик: Поскольку я менеджер, моя работа - успокоить всех и направить их взгляды в будущее. Точно так же, как Фауст сделала это для меня прямо перед закрытием люка.
+Рассказчик: Как менеджер, я обязан успокоить всех и нацелить их внимание на будущее. Точно так же, как Фауст сделала для меня прямо перед тем, как закрылся люк.
 
 # Original: <If you're right about why you were disconnected, then that problem will solve itself once we're off the train...>
-Данте: <Если ты права насчет причины разрыва связи, то эта проблема решится сама собой, как только мы покинем поезд...>
+Данте: <Если ты права насчёт причины разрыва связи, то проблема решится сама собой, как только мы сойдём с поезда...>
 
 # Original: <And if we do ever run out of options, I'll just turn the clock and see what happens.>
-Данте: <А если у нас закончатся варианты, я просто поверну часы вспять и посмотрю, что произойдет.>
+Данте: <А если у нас закончатся варианты, я просто поверну часы и посмотрю, что будет.>
 
 # Original: <Don't stress yourself too much. We still have a lot to work with. Your knowledge, my, um... clock, the Sinners... and...>
-Данте: <Не волнуйся так сильно. У нас еще есть с чем работать. Твои знания, мои, эм... часы, Грешники... и...>
+Данте: <Не переживай слишком сильно. У нас всё ещё много чего есть. Твои знания, мои, эм... часы, Грешники... и...>
 
 # Original: I could feel my confidence taking a hit with every word that came out of my metaphorical mouth, but that seemed to be enough for Faust. She nodded.
-Рассказчик: Я чувствовал, как моя уверенность убывает с каждым словом, выходящим из моего метафорического рта, но, похоже, этого было достаточно для Фауст. Она кивнула.
+Рассказчик: Я чувствовал, как моя уверенность тает с каждым словом, слетающим с моих, так сказать, уст, но, похоже, для Фауст этого было достаточно. Она кивнула.
 
 # Original: ... Understood.
-Фауст: ... Понятно.
+Фауст: ...Понятно.
 
 # Original: And... to the Sinners...
 Фауст: И... что касается Грешников...
 
-# Original: ... the fact that we are currently confined to a WARP train in operation must be a source of enough stress. I believe that sharing Faust's current state with them would add an unnecessary source of tension.
-Фауст: ... тот факт, что мы в сейчас заперты в действующем ВАРП поезде, и без того дает достаточно стресса. Я думаю, что разъяснение текущего состояния Фауст только создало бы ненужный источник напряжения.
+# Original: ... the fact that we are currently confined to a WARP train in operation must be a source of enough stress. It would be best not to share Faust's current state with them and add an unnecessary source of tension.
+Фауст: ...тот факт, что мы заперты в действующем WARP поезде, должно быть, уже сам по себе является достаточным источником стресса. Будет лучше не сообщать им о нынешнем состоянии Фауст и не создавать лишнего напряжения.
 
 # Original: <Hm...>
-Данте: <Хм...>
+Данте: <Хм-м...>
 
 # Original: What, so wrecking this door ain't gonna do anything? We're all going to bite it once it opens?
-Хитклиф: Ну чё, просто разнести эту дверь не выйдет? Мы все сдохнем, как только она откроется?
+Хитклиф: Чего, так ломать эту дверь ни черта не даст? Мы все крякнем, как только она откроется?
 
 # Original: Ugh, how many times do I have to tell you that you're not even strong enough to break this door down!
-Измаил: Ух, сколько раз мне повторять, что у тебя даже сил не хватит, чтобы её сломать!
+Измаил: Тьфу, да сколько раз тебе повторять, у тебя силёнок не хватит эту дверь выломать!
 
 # Original: A-a billion years in this box... ha... ha ha...
 Синклер: М-миллиард лет в этой коробке... ха... ха-ха...
 
-# Original: <... Yeah. Good idea.>
-Данте: <... Да. Хорошая идея.>
+# Original: <... Yeah. That might be best.>
+Данте: <...Да. Пожалуй, так будет лучше всего.>
 
-# Original: So? What now? Do we have to take a searching sweep around each car... or something?
-Грегор: Ну и? Что теперь? Нам нужно обыскать каждый вагон... или что-то в этом роде?
+# Original: So? What now? Do we take a searching sweep through each car... or something?
+Грегор: Ну и? Что теперь? Прочешем вагон за вагоном... или как?
 
 # Original: In the grand scheme of things, yes.
-Фауст: В общем и целом, да.
+Фауст: В общих чертах, да.
 
 # Original: Faust cleared the air with a cough before continuing.
-Рассказчик: Фауст прочистила горло, прежде чем продолжить.
+Рассказчик: Фауст прокашлялась, прежде чем продолжить.
 
 # Original: By A Corp.'s standard time scale, approximately three days have passed since our departure.
-Фауст: По стандартной шкале времени Корпорации A, прошло примерно три дня с момента нашего отправления.
+Фауст: По стандартной временной шкале Корпорации A, с момента нашего отправления прошло около трёх дней.
 
 # Original: As per the contract between Limbus Company and W Corp., I acquired the master keycard placed inside my capsule and adjusted the hatch settings to open automatically in three days.
-Фауст: Согласно контракту между Компанией Лимбус и Корпорацией W, я взяла мастер-карту, помещенную внутрь моей капсулы, и настроила люк так, чтобы он автоматически открылся через три дня.
+Фауст: Согласно контракту между Компанией Лимбус и Корпорацией W, я забрала мастер-ключ из своей капсулы и настроила люк на автоматическое открытие через три дня.
 
 # Original: Three days, huh...
 Грегор: Три дня, значит...
 
 # Original: I feel like I just blinked, and... I guess that's hibernation for you.
-Синклер: Такое чувство, что я просто моргнул, и... наверное, это и есть гибернация.
+Синклер: Такое чувство, будто я просто моргнул, и... вот что значит гибернация, полагаю.
 
 # Original: As you were all informed prior to boarding, there is no way for the economy class passengers to enter the first class car; that is why this place has remained untouched.
-Фауст: Как вам всем сообщили перед посадкой, у пассажиров эконом-класса нет возможности проникнуть в вагон первого класса; именно поэтому это место осталось нетронутым.
+Фауст: Как вас всех и информировали перед посадкой, у пассажиров эконом-класса нет возможности попасть в вагон первого класса; именно поэтому это место осталось нетронутым.
 
-# Original: However, cross-referencing my own deductions and W Corp.'s rather fragmentary explanations, I can assume that 'the situation' is currently under progress in the economy class cars.
-Фауст: Однако, сопоставляя мои собственные выводы и достаточно фрагментарные объяснения Корпорации W, я могу предположить, что "ситуация" в настоящее время развивается в вагонах эконом-класса.
+# Original: However, cross-referencing my own deductions and W Corp.'s rather fragmentary explanations, I can assume that "the situation" is currently under progress in the economy class cars.
+Фауст: Однако, сопоставив мои собственные умозаключения и довольно обрывочные объяснения Корпорации W, я могу предположить, что в вагонах эконом-класса сейчас развивается «та самая ситуация».
 
 # Original: The uh... the part where they thrash the shite out of one another, tearin' their limbs off, all that mess?
-Хитклиф: Эта, ну... часть, где они колошматят друг друга, отрывая конечности, вся эта срань?
+Хитклиф: Э-э... та, где они мочат друг друга почём зря, отрывают конечности и всё такое?
 
 # Original: No, I doubt that... I don't think it gets that bad in just three days. Besides, that's supposed to be business as usual for W Corp., right? There must be something else that's out of the ordinary that they want us to deal with.
-Измаил: Нет, я сомневаюсь... Я не думаю, что всё может стать настолько плохо всего за три дня. Кроме того, это должно быть обычным делом для Корпорации W, верно? Должно быть что-то ещё, с чем они хотят, чтобы мы разобрались.
+Измаил: Нет, сомневаюсь... Не думаю, что всё стало бы так плохо всего за три дня. К тому же для Корпорации W это вроде как обычное дело, так? Должно быть что-то ещё, из ряда вон выходящее, с чем они хотят, чтобы мы разобрались.
 
 # Original: Precisely. In my opinion, it is—
-Фауст: Именно. По моему мнению, это—
+Фауст: Именно. По моему мнению, это...
 
 # Original: O-ooh, hold that thought for but a moment!
-Дон Кихот: О-ох, придержи эту мысль на мгновение!
+Дон Кихот: О-о, придержите мысль свою на миг единый!
 
 # Original: Just as Faust was about to continue, Don Quixote raised her index finger to her lips and signaled her to be quiet.
-Рассказчик: Как раз когда Фауст собиралась продолжить, Дон Кихот подняла указательный палец к губам и дала знак ей замолчать.
+Рассказчик: Едва Фауст собралась продолжить, как Дон Кихот приложила указательный палец к губам, призывая её к тишине.
 
 # Original: Dost... dost thou hear aught as I do?
-Дон Кихот: Слышишь... слышишь ли ты то же, что и я?
+Дон Кихот: Слышите... слышите ли вы то, что слышу я?
 
 # Original: Scratching... nay, rapping! Forsooth, past this gate must be... hm...
-Дон Кихот: Царапанье... нет, стук! Воистину, за этими вратами должны быть... хм...
+Дон Кихот: Скрежет... нет же, стук! Воистину, за этими вратами должно быть... хм...
 
 # Original: As Don Quixote kept listening with her ear to the door, an odd expression of half-curiosity and half-horror appeared on her face.
-Рассказчик: Пока Дон Кихот продолжала прислушиваться, приложив ухо к двери, на её лице появилось странное выражение, наполовину любопытное, наполовину испуганное.
+Рассказчик: Пока Дон Кихот прислушивалась, приложив ухо к двери, на её лице отразилась странная смесь любопытства и ужаса.
 
 # Original: It is possible that there must be... hm? Lady Faust?
-Дон Кихот: Возможно, там должны быть... хм? Леди Фауст?
+Дон Кихот: Возможно, что там... хм? Леди Фауст?
 
 # Original: …….
-Фауст: …….
+Фауст: .......
 
 # Original: After that very distressful noise, everyone simultaneously turned their heads to look at Faust...
-Рассказчик: Услышав этот тревожный звук, все одновременно повернули головы, чтобы посмотреть на Фауст...
+Рассказчик: После этого крайне тревожного звука все одновременно повернули головы в сторону Фауст...
 
 # Original: ... who closed her eyes, briefly in thought.
-Рассказчик: ... которая стояла с закрытыми глазам, задумавшись.
+Рассказчик: ...которая закрыла глаза, ненадолго погрузившись в раздумья.
 
 # Original: Please step aside for a moment, Don Quixote. It would be best if I observed it with my own eyes.
-Фауст: Пожалуйста, отойдите на минуту, Дон Кихот. Будет лучше, если я осмотрю все своими глазами.
+Фауст: Пожалуйста, отойдите на мгновение, Дон Кихот. Будет лучше, если я увижу всё своими глазами.
 
 # Original: With that, she produced the master keycard from her pocket and approached the panel installed next to the door.
-Рассказчик: С этими словами она достала из кармана мастер-карту и подошла к панели, установленной рядом с дверью.
+Рассказчик: С этими словами она достала из кармана мастер-ключ и подошла к панели, установленной рядом с дверью.
 
-# Original: Woah, hang on a minute. You're going to open the door?
-Хитклиф: Воу, погоди-ка. Ты собираешься открыть дверь?
+# Original: Whoa, hang on a minute. You're going to open the door?
+Хитклиф: Эй, погоди-ка. Ты собираешься открыть дверь?
 
 # Original: I intend to follow your usual flavor of suggestion, Heathcliff.
-Фауст: Я намерена последовать вашему обычному стилю предложений, Хитклиф.
+Фауст: Я намерена последовать предложению в вашем привычном духе, Хитклиф.
 
 # Original: That there are times in which a physical altercation is preferable to detached ruminations.
-Фауст: Бывают времена, когда физическое столкновение оказывается предпочтительнее отвлеченных размышлений.
+Фауст: О том, что порой физическое столкновение предпочтительнее отстранённых размышлений.
 
 # Original: H-huh? My suggestion...? Um, well, I ain't going to disagree with you there, but... what's gotten into you, lass?
-Хитклиф: Х-ха? Моих предложений...? Эм, я не собираюсь с тобой спорить, но... что на тебя нашло, подруга?
+Хитклиф: А-а? Моему предложению?.. Э-э, ну, спорить не буду, но... что на тебя нашло, а?
 
 # Original: After all... how could I deduce anything without seeing it myself?
-Фауст: В конце концов... как я могу сделать выводы о чем-то, не увидев это своими глазами?
+Фауст: В конце концов... как я смогу сделать какие-либо выводы, не увидев всё сама?
 
 # Original: Bleep—
-Рассказчик: Биип—
+Рассказчик: Пик...
 
 # Original: After a brief, mechanical beep...
-Рассказчик: После короткого механического писка...
+Рассказчик: После короткого механического сигнала...
 
 # Original: KAAAGGHHHH!!!
-Рассказчик: КАААГХХХ!!!
+Рассказчик: ГХА-А-А-А-А!!!
 
 # Original: Hideous creatures suddenly crashed through the open door and charged wildly in our direction.
-Рассказчик: Отвратительные существа внезапно ворвались через открытую дверь и бросились в нашу сторону.
+Рассказчик: Уродливые твари внезапно прорвались через открытую дверь и яростно ринулись в нашу сторону.

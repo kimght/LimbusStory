@@ -29,7 +29,7 @@
 Рассказчик: У неспособного сражаться менеджера и кого-то, кто едва дышит, нет ни шанса на победу над ним.
 
 # Original: Please stop…
-Сауде: Остановитесь…
+Сод: Остановитесь…
 
 # Original: Just then, Saude pulled out a gun.
 Рассказчик: И тогда, Сод достала пистолет.
@@ -38,19 +38,19 @@
 Рассказчик: Она направила его дуло прямо на меня.
 
 # Original: I need you… to keep still…
-Сауде: Пожалуйста, стойте… смирно…
+Сод: Пожалуйста, стойте… смирно…
 
 # Original: The moment you try to turn that clock, my gun… will blow off your head…
-Сауде: Если вы попытаетесь отмотать время, я… выстрелю вам голову…
+Сод: Если вы попытаетесь отмотать время, я… выстрелю вам голову…
 
 # Original: <Saude…?>
 Данте: <Сод…?>
 
 # Original: Don’t look at me… like that… I can’t hear you. But, I can tell you this.
-Сауде: Не смотрите на меня… так… Я всё равно вас не услышу. Но зато могу кое-что сказать.
+Сод: Не смотрите на меня… так… Я всё равно вас не услышу. Но зато могу кое-что сказать.
 
 # Original: They promised… to let Effie go… if I helped to get rid of you…
-Сауде: Они обещали мне… что если я помогу от вас избавиться… они отпустят Эффи живым…
+Сод: Они обещали мне… что если я помогу от вас избавиться… они отпустят Эффи живым…
 
 # Original: I let too much time pass.
 Гвидо: Слишком много воды утекло.
@@ -149,7 +149,7 @@
 Синклер: Нет… Больше я бежать не собираюсь.
 
 # Original: …I like that answer, Sinclair.
-Сауде: …Замечательный ответ, Синклер.
+Сод: …Замечательный ответ, Синклер.
 
 # Original: Gunfire filled my ears.
 Рассказчик: Раздался звук выстрела.
@@ -182,10 +182,10 @@
 Данте: <…Сод.>
 
 # Original: Effie, he’s… he’s dead, isn’t he?
-Сауде: Эффи ведь… мёртв?
+Сод: Эффи ведь… мёртв?
 
 # Original: You’re all terrible liars. At least try to make it somewhat believable.
-Сауде: Вы ужасные лжецы. Хоть бы попытались звучать правдоподобно.
+Сод: Вы ужасные лжецы. Хоть бы попытались звучать правдоподобно.
 
 # Original: …C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up.
 Грегор: …Сод, идём отсюда. Мы остановим тебе кровотечение… и… вернём обратно в форму.
@@ -194,13 +194,13 @@
 Измаил: Верно. Я наложу жгут…
 
 # Original: Don’t be stupid. I can hardly lift a finger.
-Сауде: Да о чём вы? Я едва могу двигаться.
+Сод: Да о чём вы? Я едва могу двигаться.
 
 # Original: Besides, those Inquisitors will keep on coming, won’t they? You guys need to keep moving down.
-Сауде: К тому же, инквизиторы ведь продолжат наступать, не так ли? Вы должны идти дальше.
+Сод: К тому же, инквизиторы ведь продолжат наступать, не так ли? Вы должны идти дальше.
 
 # Original: I’ll hold them off here. You should go.
-Сауде: Я разберусь с ними, а вы спускайтесь ниже.
+Сод: Я разберусь с ними, а вы спускайтесь ниже.
 
 # Original: You can’t—You can’t do that…
 Синклер: Как, как ты можешь…
@@ -209,28 +209,28 @@
 Измаил: Ты ведь сама только что сказала, что едва двигаешься. Нельзя же доверять свой тыл кому-то в таком состоянии… да?
 
 # Original: You know… in moments like this… you’re supposed to just nod at me and be on your way.
-Сауде: Слушайте… в такие моменты… вы должны просто смириться и продолжить путь.
+Сод: Слушайте… в такие моменты… вы должны просто смириться и продолжить путь.
 
 # Original: Why do you care so much about the one who volunteered to stay behind?
-Сауде: Почему вы так переживаете за тех, кто сами выбрали остаться?
+Сод: Почему вы так переживаете за тех, кто сами выбрали остаться?
 
 # Original: You can’t… You can’t just…
 Синклер: Но… Но…
 
 # Original: Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell.
-Сауде: Эх… Вы в курсе, что сейчас всё лишь усложняете? Я собиралась устроить крутое прощание.
+Сод: Эх… Вы в курсе, что сейчас всё лишь усложняете? Я собиралась устроить крутое прощание.
 
 # Original: Faust, please take these absolute dorks out of here.
-Сауде: Фауст, пожалуйста, уведи этих придурков.
+Сод: Фауст, пожалуйста, уведи этих придурков.
 
 # Original: I’ll make sure to give Vergilius your regards.
 Фауст: Я передам Вергилию от вас привет.
 
 # Original: No need.
-Сауде: Не надо.
+Сод: Не надо.
 
 # Original: …Just tell him to come visit and say hello someday. You know what I mean?
-Сауде: …Просто скажи ему как-нибудь зайти и поздороваться лично. Понимаешь, о чём я?
+Сод: …Просто скажи ему как-нибудь зайти и поздороваться лично. Понимаешь, о чём я?
 
 # Original: ……
 Фауст: ……

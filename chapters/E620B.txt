@@ -1,155 +1,155 @@
 # Original: After a round of intelligence gathering from Faust...
-Рассказчик: После того, как Фауст закончила сбор информации...
+Рассказчик: Собрав сведения для Фауст...
 
 # Original: We opened the door to the next cabin, only to be greeted by a loud commotion.
-Рассказчик: Мы открыли дверь в следующий вагон, где нас встретил громкий шум.
+Рассказчик: Мы открыли дверь в следующий вагон и тут же услышали громкий шум.
 
 # Original: It sounds like there are other survivors?
-Хон Лу: Похоже, там есть другие выжившие?
+Хон Лу: Похоже, здесь есть выжившие?
 
-# Original: Ah, passengers in danger! Worry not, for I have arrived to— Euagh!
-Дон Кихот: Ах, пассажиры в опасности! Не беспокойтесь, ибо я прибыла, чтобы— Эуах!
+# Original: Ah, passengers in danger! Fret not, for I have arrived to— Euagh!
+Дон Кихот: Ах, пассажиры в беде! Не бойтесь, ибо пришла я на по... Уагх!
 
-# Original: Woah, woah! Don't come any closer! Who the hell are you guys?
-Саша: Хэй! Хэй! Не подходите ближе! Кто, черт возьми, вы такие?
+# Original: Whoa, whoa! Don't come any closer! Who the hell are you guys?
+Саша: Эй, эй! Не подходить! Вы вообще кто такие, чёрт возьми?
 
 # Original: A four-armed woman suddenly jumped in our path.
-Рассказчик: Женщина с четыремя руками внезапно преградила нам путь.
+Рассказчик: Нам наперерез внезапно выскочила четырёхрукая женщина.
 
 # Original: ... She appeared without warning.
-Фауст: ... Она появилась без предупреждения.
+Фауст: ...Она появилась без предупреждения.
 
 # Original: Faust stumbled a little, inadvertently slapped by the figure's swinging arms as she pushed us away.
-Рассказчик: Фауст слегка оступилась, получив удар от одной из хаотично движущихся рук, когда неизвестная фигура заставила нас отодвинуться.
+Рассказчик: Фауст немного пошатнулась — её случайно задело одной из рук незнакомки, когда та отталкивала нас.
 
 # Original: Right, like you gave me any warning before you practically kicked that door open.
-Саша: Ага, как будто вы мне дали предупреждение, прежде чем практически выбить ту дверь.
+Саша: Ага, а вы меня типа предупредили, прежде чем с ноги эту дверь вынести.
 
-# Original: Uh, would you mind moving that huge sword out of our faces? It's a bit disconcerting.
-Грегор: Эм, не могли бы вы убрать этот огромный меч подальше от наших лиц? Это немного тревожит.
+# Original: Uh, would you mind moving that huge sword out of our faces? It's a bit threatening.
+Грегор: Э-э, не могла бы ты убрать этот свой огромный меч от наших лиц? Это немного пугает.
 
-# Original: Threatening? I'm just trying to protect those civilians in this car.
-Саша: Тревожит? Я просто пытаюсь защитить гражданских в этом вагоне.
+# Original: Threatening? I'm just trying to protect the civilians in this car.
+Саша: Пугает? Я просто пытаюсь защитить гражданских в этом вагоне.
 
 # Original: Also, is that a bio-prosthetic? Must be an old timer, huh? I thought those things went out of style forever ago.
-Саша: Кстати, это что, био-протез? Ты, похоже, старпер, а? Я думала, эти штуки уже давным-давно вышли из моды.
+Саша: И ещё, это что, биопротез? Должно быть какое-то старьё, да? Я думала, такие уже сто лет как из моды вышли.
 
 # Original: ... Oh, you wanna see what this old timer's got left in him?
-Грегор: ... О, хочешь посмотреть, на что еще способен этот старпер?
+Грегор: ...А, так ты хочешь посмотреть, на что это старьё ещё способно?
 
 # Original: Aha... thou art from the north, verily?! Thy garb is that of northerners, no?
-Дон Кихот: Ага... воистину, ты с севера, не так ли?! Твое облачение подобно одеждам северян, так?
+Дон Кихот: Ага... ты воистину с севера?! Одежды твои — как у северян, не так ли?
 
 # Original: This really ain't the time, lass!
-Хитклиф: Сейчас реально не время, девчонка!
+Хитклиф: Сейчас не время для этого, девчонка!
 
 # Original: Anyways, it looks like we're in the same mess here. Make way for us, yeah?
-Хитклиф: В любом случае, похоже, что мы все в одной лодке сейчас. Как насчет уступить нам дорогу?
+Хитклиф: Короче, похоже, мы в одной лодке. Дай пройти, а?
 
 # Original: …….
-Саша: …….
+Саша: ......
 
 # Original: She seemed to be sizing us up for a moment.
-Рассказчик: Казалось, будто некоторое время она смотрела на нас оценивающе.
+Рассказчик: Казалось, она на мгновение нас оценила.
 
 # Original: Nah. How do I trust you? Got any proof that you ain't bitten? I'm not gonna let all my effort protecting this place go to waste...
-Саша: Неа. Как я могу вам доверять? Есть какие-нибудь доказательства, что вас не покусали? Я не собираюсь позволять всем моим усилиям по защите этого места пойти насмарку...
+Саша: Не-а. С чего мне вам доверять? Есть доказательства, что вас не покусали? Я не позволю, чтобы все мои старания по защите этого места пошли псу под хвост...
 
-# Original: Bitten? The bloody hell are you talking about?
-Хитклиф: Покусали? Что за херню ты несешь?
+# Original: Bitten? The bloody hell are you on about?
+Хитклиф: Покусали? Ты о чём, чёрт возьми?
 
 # Original: Weird, ya look completely lost. If you were in one of the economy cars, I'm sure you've seen—
-Саша: Странно, вы, ребята, выглядите совершенно сбитыми с толку. Если вы были в одном из вагонов эконом-класса, то я уверена, вы видели—
+Саша: Странно, вид у вас совершенно потерянный. Если вы были в эконом классе, то точно видели...
 
 # Original: ... Hold on.
-Саша: ... Подождите-ка.
+Саша: ...Стоп.
 
 # Original: Are y'all from the first class car?
-Саша: Вы из вагона первого класса?
+Саша: Вы что, все из вагона первого класса?
 
 # Original: Yeah. We just woke up from our capsules.
-Измаил: Да. Мы только что поднялись из наших капсул.
+Измаил: Да. Мы только что очнулись в своих капсулах.
 
 # Original: Hmm, but none of you look very... I mean, aren't first class seats supposed to be... Well, why didn't you say so from the get-go?
-Саша: Хмм, но никто из вас не выглядит особо... Я имею в виду, разве места первого класса не должны быть... Ну, почему вы не сказали об этом сразу?
+Саша: Хм, но вы все не выглядите очень... В смысле, разве места в первом классе не должны быть... Ладно, почему сразу не сказали?
 
 # Original: Name's Sasha. MultiCrack Office Rep.
-Саша: Меня зовут Саша. Представитель Офиса MultiCrack.
+Саша: Меня зовут Саша. Представитель Офиса МультиРазлома.
 
 # Original: With that, she lowered her weapons and allowed us to pass.
 Рассказчик: С этими словами она опустила оружие и позволила нам пройти.
 
 # Original: Have you not left this car for the duration of the ride, Sasha?
-Фауст: Ты не покидала этот вагон на протяжении всей поездки, Саша?
+Фауст: Саша, вы не покидали этот вагон в течение всей поездки?
 
 # Original: Hm? Uh, no, I haven't...
-Саша: Хм? Э, нет, не покидала...
+Саша: М? Э-э, нет, не покидала...
 
-# Original: We warped over to T Corp. after picking up one of their contracts., but... jeez, can ya believe that this train broke down? Shit, is it even 'broken'?
-Саша: Мы переместились в Корпорацию T после получения контракта от них, но... проклятье, можете вы поверить, что этот поезд взял и сломался? Черт, да "сломан" ли он вообще?
+# Original: We warped over to T Corp. after picking up one of their contracts, but... jeez, can ya believe that this train broke down? Shit, is it even "broken"?
+Саша: Мы варпнулись к Корпорации T после того, как взяли у них контракт, но... блин, ты прикинь, этот поезд сломался? Дерьмо, да и «сломался» ли он вообще?
 
 # Original: I'm not feeling hungry or sleepy at all. It stinks of some shady bullshit, if ya ask me.
-Саша: Я совсем не чувствую голода или сонливости. Все это дело как-то странно пахнет, если хотите знать мое мнение.
+Саша: Я совсем не чувствую ни голода, ни сонливости. Попахивает какой-то мутной хернёй, если хочешь знать моё мнение.
 
 # Original: You can feel all that even in a prosthetic body...?
-Синклер: Ты можешь чувствовать такое даже в протезированном теле...?
+Синклер: Вы всё это чувствуете даже с протезами?..
 
-# Original: Man, how could I live without my favorite hobby, drifting into a sweet nap after a pleasant meal? So, I made sure to get high-quality parts for 'em so I can still feel hungry and sleepy.
-Саша: Чувак, разве я могла бы жить без моего любимого хобби, хорошего сна после плотного обеда? Поэтому я позаботилась о высококачественных деталях, чтобы я все еще могла чувствовать голод и сонливость.
+# Original: Man, how could I live without my favorite hobby, drifting into a sweet nap after a pleasant meal? So, I made sure to get high-quality parts for 'em so I can still feel 'em all.
+Саша: Парень, как я могла бы жить без моего любимого хобби — сладко вздремнуть после приятной трапезы? Так что я позаботилась о качественных деталях, чтобы по-прежнему всё это ощущать.
 
 # Original: Hasn't something else of note also occurred?
-Фауст: Происходило ли что-то еще достойное внимания?
+Фауст: Произошло ли что-то ещё примечательное?
 
 # Original: You bet your ass did something else of note go down!
-Саша: Ага, черта с два что-то достойное внимания не случилось!
+Саша: А то ж! Ещё как произошло!
 
 # Original: How distracting... Is it hard for you to speak without being so hyper?
-Отис: Как назойливо... Неужели тебе сложно говорить, не находясь постоянно в движении?
+Отис: Как отвлекает... Вам трудно говорить, не будучи такой гиперактивной?
 
 # Original: Or at least stop swinging your arms around like that...
-Измаил: Хотя бы перестань так размахивать руками...
+Измаил: Или хотя бы прекратите так размахивать руками...
 
-# Original: Can't do that, friend... I broke all my prosthetic arms in a fight, so I'm calibrating a new set. Gotta keep swinging 'em if I want 'em to sync up with the other parts anytime soon.
-Саша: Не могу, подруга... Я сломала все свои протезированные руки в бою, так что я калибрую новый набор. Нужно продолжать ими двигать, если я хочу, чтобы они вовремя синхронизировались с остальными частями.
+# Original: Can't do that, friend... I broke all my prosthetic arms in a fight, so I'm calibrating a new set. Gotta keep swinging 'em if I want 'em to sync up with the other parts ASAP.
+Саша: Не могу, подруга... Я сломала все свои протезы в бою, так что калибрую новый набор. Нужно продолжать ими махать, если я хочу, чтобы они как можно быстрее синхронизировались с остальными частями.
 
 # Original: Anyhoo, I dunno what the hell's going on, but people started turnin' into some weird monsters all of a sudden.
-Саша: В любом случае, я не знаю, какого черта происходит, но люди вдруг начали превращаться в каких-то странных монстров.
+Саша: Короче, я без понятия, что за хрень происходит, но люди внезапно начали превращаться в каких-то странных монстров.
 
 # Original: Haven't a goddamn clue as to who they are... don't seem like they can understand us, either.
-Саша: Понятия не имею, кто они... не похоже, чтобы они могли понимать нас.
+Саша: Понятия не имею, кто они такие... и, похоже, они нас тоже не понимают.
 
 # Original: Good thing my train car didn't have a lot of those monsters. I just chopped what monsters there were to pieces and hauled the civilians to this... vacant car.
-Саша: Хорошо, что в моем вагоне было не так много этих монстров. Я просто порубила тех, которые были, на куски и затащила гражданских в этот... пустой вагон.
+Саша: Хорошо, что в моём вагоне этих монстров было не так много. Я просто порубила тех, что были, на куски и перетащила гражданских в этот... пустой вагон.
 
 # Original: Sob...
-Рассказчик: Всхлип...
+Рассказчик: *Хнык*...
 
-# Original: 3201 red colors... 3202 red colors...
-Рассказчик: 3201 красный цвет... 3202 красных цвета...
+# Original: 3,201 red colors... 3,202 red colors...
+Рассказчик: 3201 красный оттенок... 3202 красных оттенка...
 
 # Original: ... You have decided to protect them, despite the potential risk that they may transform as well.
-Фауст: ... Ты решила защищать их, даже не смотря на риск того, что они тоже могут трансформироваться.
+Фауст: ...Вы решили защитить их, несмотря на потенциальный риск того, что они тоже могут трансформироваться.
 
-# Original: But of course! 'Tis expected duty of any valorous Fixer to stand guard in the front lines against evil to protect the weak!
-Дон Кихот: Но разумеется! Сие есть ожидаемый долг любого доблестного Корректировщика - стоять на страже в первых рядах против зла, дабы защищать слабых!
+# Original: But of course! 'Tis an expected duty of any valorous Fixer to stand guard in the front lines against evil to protect the weak!
+Дон Кихот: Но разумеется! Долг каждого доблестного Корректировщика — стоять на страже в первых рядах против зла, дабы защитить слабых!
 
 # Original: I've been keepin' a close eye on 'em for the last three days, and so far... zero transformations.
-Саша: Я внимательно наблюдала за ними последние три дня, и пока что... ноль трансформаций.
+Саша: Я за ними три дня в оба глаза смотрю, и пока что... ноль трансформаций.
 
 # Original: Go past this car, and you'll see what hell on earth really means. Those monsters are constantly trying to claw their way to the front of the train... so if ya ask me, I'd wager that some shit went down there at one of the train cars in the back, and it spread like wildfire 'till it reached here.
-Саша: Пройдите дальше этого вагона, и вы увидите, что такое настоящий ад на земле. Эти монстры постоянно пытаются прорваться к передней части поезда... так что я бы поставила на то, что какое-то дерьмо случилось там, в одном из задних вагонов, а потом распространилось через поезд как лесной пожар, пока не добралось сюда.
+Саша: Пройдёте этот вагон, и увидите, что такое настоящий ад на земле. Эти монстры постоянно пытаются прорваться в начало поезда... так что, если хотите знать моё мнение, я бы поставила на то, что какая-то херня случилась в одном из задних вагонов и распространилась, как лесной пожар, пока не дошла сюда.
 
 # Original: ... I see.
-Фауст: ... Понятно.
+Фауст: ...Понятно.
 
-# Original: And that's all I can tell ya about the situation. So... what's your story? Why'd you rich, first class folks decide to suddenly grace us peasants with your presence?
-Саша: И это все, что я могу вам рассказать насчет этой ситуации. Так что... что у вас за история? Почему вы, богатые люди из первого класса, вдруг решили осчастливить нас, простолюдинов, своим присутствием?
+# Original: And that's all I can tell ya about the situation. So... what's your story? Why'd you rich, first class folks suddenly decide to grace us peasants with your presence?
+Саша: И это всё, что я могу вам рассказать о ситуации. Ну а... какая у вас история? Почему вы, богачи из первого класса, вдруг решили осчастливить нас, плебеев, своим присутствием?
 
 # Original: Nothing that's happening here could've made it to your swanky first class cars, so what's your business down here?
-Саша: Ничто из того, что происходит здесь, заведомо не могло добраться до ваших шикарных вагонов, так что какое у вас здесь дело?
+Саша: Ничто из того, что здесь творится, не могло добраться до ваших шикарных вагонов первого класса, так что какого чёрта вы здесь делаете?
 
 # Original: W Corp. has hired us to solve this case. We are...
-Фауст: Корпорация W наняла нас для решения этой проблемы. Мы...
+Фауст: Корпорация W наняла нас для решения этого дела. Мы...
 
 # Original: Um...
 Фауст: Эм...
@@ -158,121 +158,121 @@
 Дон Кихот: КОРРЕКТИРОВЩИКИ!
 
 # Original: Indeed... Fixers.
-Фауст: Действительно... Корректировщики.
+Фауст: Верно... Корректировщики.
 
-# Original: Faust wore a look of reluctant acceptance as she affirmed Don Quixote's declaration.
-Рассказчик: Фауст с неохотой согласилась, подтверждая заявление Дон Кихот.
+# Original: Faust nodded reluctantly as she affirmed Don Quixote's boisterous declaration.
+Рассказчик: Фауст неохотно кивнула, подтверждая громкое заявление Дон Кихот.
 
 # Original: Huh. They got every single one of you a first class ticket? Your Office must be rollin' in the dough.
-Саша: Хм. Они купили каждому из вас билет первого класса? Ваш Офис, должно быть, купается в деньгах.
+Саша: Ха. Они купили каждому из вас билет в первый класс? Ваш Офис, должно быть, купается в деньгах.
 
 # Original: ... Wait a goddamn second. So W Corp. already knew that this would happen?
-Саша: ... Подождите-ка чертову секунду. Значит, Корпорация W уже знала, что это произойдет?
+Саша: ...Погодите-ка, чёрт возьми. То есть Корпорация W уже знала, что это произойдёт?
 
 # Original: But... hm. Are you really contracted to a Wing? Not sure if I trust ya...
-Саша: Но... хм. Вы действительно работаете по контракту с Крылом? Не уверена, что я могу вам доверять...
+Саша: Но... хм. Вы и правда работаете на Крыло? Не уверена, что могу вам доверять...
 
 # Original: As you must be well aware yourself, contracts and contract fulfillment are of paramount importance for Fixers.
-Фауст: Как вы, должно быть, хорошо знаете сами, контракты и их выполнение имеют для Корректировщиков первостепенное значение.
+Фауст: Как вы и сами должны прекрасно знать, контракты и их выполнение имеют для Корректировщиков первостепенное значение.
 
 # Original: With that in mind, please recall that W Corp. is one of the most secretive Wings of the City.
-Фауст: С учетом этого, пожалуйста, вспомните, что Корпорация W является одним из самых скрытных Крыльев Города.
+Фауст: Учитывая это, прошу вас вспомнить, что Корпорация W — одно из самых скрытных Крыльев Города.
 
 # Original: Ah, a non-disclosure agreement, huh? Makes sense. I wouldn't wanna deal with those Öufi boys either... Anyways, I'm still gonna have to ask for proof that you're actually contracted by W Corp.
-Саша: А, соглашение о неразглашении, да? Резонно. Я бы тоже не хотела иметь дело с ребятами из Эуфи... Однако, мне все равно нужно попросить доказательства того, что вы реально работаете по контракту с Корпорацией W.
+Саша: А, соглашение о неразглашении, да? Логично. Я бы тоже не хотела связываться с этими ребятами из Эуфи... В любом случае, мне всё равно придётся попросить доказательств, что вас наняла Корпорация W.
 
 # Original: This is the master keycard given to us by W Corp. I believe that it can open most doors aboard this train.
-Фауст: Это мастер-ключ, выданный нам Корпорацией W. Я полагаю, что он может открыть большинство дверей на этом поезде.
+Фауст: Это мастер-карта, которую нам выдала Корпорация W. Полагаю, она может открыть большинство дверей в этом поезде.
 
 # Original: Faust produced a master keycard from her pocket. I guess there isn't any other way for us to prove that we're actually contracted by W Corp....
-Рассказчик: Фауст достала из кармана мастер-ключ. Похоже, это единственный способ доказать, что мы действительно работаем по контракту с Корпорацией W...
+Рассказчик: Фауст достала из кармана мастер-карту. Похоже, у нас нет другого способа доказать, что нас наняла Корпорация W...
 
 # Original: A keycard? So you used this to open the path between the first class and the economy class car... Let's see... W Corp. logo... Woah, nice materials. Looks like you're telling the truth.
-Саша: Ключ-карта? Значит, это ее вы использовали, чтобы открыть путь между вагонами первого класса и вагонами эконом-класса... Посмотрим... Логотип Корпорации W... Вау, качественные материалы. Похоже, вы говорите правду.
+Саша: Карта? Значит, вы ей открыли проход между первым и эконом-классом... Так, посмотрим... Логотип Корпорации W... Ого, какой материал. Похоже, вы говорите правду.
 
 # Original: Alright, I won't pry. Not like there's any cash in it for me either.
-Саша: Ладно, не буду допытываться. Не то чтобы мне светило что-то заработать на этом.
+Саша: Ладно, не буду лезть не в своё дело. Мне за это всё равно не заплатят.
 
 # Original: So... I guess you gotta go all the way down there for your job, huh?
-Саша: Итак... Надо думать, вам нужно пройти весь поезд целиком для вашей работы, да?
+Саша: Значит... полагаю, вам по заданию нужно дойти до самого конца, да?
 
 # Original: Yes.
 Фауст: Да.
 
 # Original: The Fixer finally got out of our way. Then, with one of her free hands, pointed toward the opposite door.
-Рассказчик: Корректировщик наконец-то сдвинулась с нашего пути. Затем одной из своих свободных рук она указала на противоположную дверь.
+Рассказчик: Корректировщик наконец уступила нам дорогу. Затем одной из свободных рук она указала на противоположную дверь.
 
 # Original: Well~ It's your funeral, ladies and gents. Or your victory lap, if you guys are really that good. Lotsa luck to y'all.
-Саша: Что же~ Ваши похороны, дамы и господа. Или ваш круг почета, если вы реально настолько хороши. Удачи вам всем.
+Саша: Ну~ Либо вы идёте на собственные похороны, дамы и господа. Либо на круг почёта, если вы и правда так хороши. Удачи вам всем.
 
 # Original: I thank thee for thy words of courage, Fixer Sasha!
-Дон Кихот: Благодарю тебя за твои напутствования, Корректировщик Саша!
+Дон Кихот: Благодарю тебя за твои слова ободрения, Корректировщик Саша!
 
-# Original: I shall trust thee with protection of this fortress; prithee, protect the innocent in my stead!
-Дон Кихот: Я доверяю тебе защиту сей крепости; молю тебя, защищай невинных вместо меня!
+# Original: I shall trust thee with protection of this fortress; prithee, protect the innocents in my stead!
+Дон Кихот: Я доверю тебе защиту сей крепости; молю, защищай невинных вместо меня!
 
 # Original: …….
-Саша: …….
+Саша: ......
 
 # Original: Um... big sis, are you a Fixer? Are you going to save us from the monsters in the cars behind us?
-Любопытный ребенок: Эм... сестренка, ты же Корректировщик? Ты спасешь нас от монстров в задних вагонах?
+Любопытный ребёнок: Эм... сестрёнка, ты Корректировщица? Ты спасёшь нас от монстров в задних вагонах?
 
 # Original: Hoh?
-Дон Кихот: Хо?
+Дон Кихот: Хо-хо?
 
 # Original: Just as we were about to reach the other end of the car, a little passenger pulled on Don Quixote's coattails.
-Рассказчик: Как раз когда мы почти достигли другого конца вагона, маленький пассажир потянул Дон Кихот за краешек пальто.
+Рассказчик: Когда мы уже почти дошли до другого конца вагона, маленькая пассажирка потянула Дон Кихот за рукав.
 
 # Original: Mhm! Aye, forsooth!
-Дон Кихот: Мхм! Да, воистину так!
+Дон Кихот: М-хм! Да, воистину!
 
-# Original: Woaah...! Are you a famous Fixer?
-Любопытный ребенок: Вааау...! Ты знаменитый Корректировщик?
+# Original: Whoa...! Are you a famous Fixer?
+Любопытный ребёнок: Ого!.. Ты знаменитая Корректировщица?
 
 # Original: Forsooth once again! Thou mayest know me as a profoundly illustrious Fixer!
-Дон Кихот: Воистину еще раз! Ты можешь знать меня как глубоко достославного Корректировщика!
+Дон Кихот: И ещё раз воистину! Ты можешь знать меня как весьма прославленную Корректировщицу!
 
-# Original: Woooaaaah... I-I wanna be a Fixer, too! Just like y—
-Любопытный ребенок: Вааааау... Я-я тоже хочу стать Корректировщиком! Прямо как т—
+# Original: Whoaaaa... I-I wanna be a Fixer, too! Just like y—
+Любопытный ребёнок: Ого-о-о... Я-я тоже хочу стать Корректировщицей! Такой же, как т...
 
 # Original: Don't pester the lady! I'm sorry, she's my daughter, and—
-Рассказчик: Не беспокой леди! Прошу прощения, это моя дочь, и—
+Рассказчик: Не приставай к леди! Простите, это моя дочь, и...
 
-# Original: Muahaha, worry not thyself, 'tis no bother! No bother at all~! Thou must dream of becoming a Fixer thyself, little squire~?
-Дон Кихот: Муахаха, не беспокойся, сие не есть помеха! Отнюдь не помеха~! Ты, должно быть, сама мечтаешь стать Корректировщиком, малый оруженосец~?
+# Original: Muahaha, worry thyself not, 'tis no bother! No bother at all~! Thou must dream of becoming a Fixer thyself, little squire~?
+Дон Кихот: Муа-ха-ха, не беспокойся, это пустяк! Сущий пустяк~! Ты, должно быть, мечтаешь сама стать Корректировщицей, маленький оруженосец~?
 
 # Original: It is fortunate that someone like yourself is aboard the train. Your presence ensured that child's survival.
-Фауст: Большая удача, что такой человек, как вы, нашлись на борту этого поезда. Ваше присутствие обеспечило выживание этого ребенка.
+Фауст: Какая удача, что на борту поезда оказался кто-то вроде вас. Ваше присутствие обеспечило выживание этого ребёнка.
 
 # Original: Whatcha talkin' about all of a sudden? C'mon, no need to keep up appearances between people in the same line of work.
-Саша: О чем это ты? Да ладно, людям одной профессии не нужно притворяться.
+Саша: К чему это ты вдруг? Да ладно, не надо тут цирк устраивать, мы же с тобой коллеги.
 
 # Original: I'm just here to collect some sweet, sweet emergency contract fees from each and every one of 'em. Are you two on something or what?
-Саша: Я просто здесь, чтобы собрать сладкие, сладкие гонорары за экстренные контракты с каждого из них. Вы что, под кайфом или чего?
+Саша: Я просто собираюсь содрать с каждого из них плату по экстренному контракту. Вы двое что, под чем-то?
 
 # Original: ... I see.
-Фауст: ... Понимаю.
+Фауст: ...Понятно.
 
 # Original: <... I don't think Don Quixote needs to hear what she just said.>
-Данте: <... Не думаю, что Дон Кихот следует слышать то, что она нам только что сказала.>
+Данте: <...Не думаю, что Дон Кихот нужно было слышать то, что она только что сказала.>
 
 # Original: ... Didn't know you could be like that, Faust.
-Измаил: ... Не знала, что ты можешь быть такой, Фауст.
+Измаил: ...Не знала, что ты можешь быть такой, Фауст.
 
 # Original: Be like... what?
 Фауст: Быть... какой?
 
 # Original: You knew there was no way the Fixer was actually there to protect them out of pure goodwill, but you decided to go along with Don Quixote's delusions anyway. Am I right?
-Измаил: Ты ведь знала, что нет никакой возможности, что этот Корректировщик на самом деле защищает их исключительно по доброте сердечной, но ты все равно решила подыграть иллюзиям Дон Кихот. Я права?
+Измаил: Ты знала, что эта Корректировщица защищает их не из чистого альтруизма, но всё равно решила подыграть шизе Дон Кихот. Я права?
 
 # Original: …….
-Фауст: …….
+Фауст: ......
 
 # Original: Good move. I was getting worried about what might happen if she started acting out again.
-Измаил: Хороший ход. Я уже начинала беспокоиться о том, что она снова может начать чудить.
+Измаил: Хороший ход. Я уже начала беспокоиться, что она опять начнёт чудить.
 
 # Original: You saw the twinkle in her eyes too, right...? Don Quixote's always been energetic, but she's been especially bouncy today.
-Измаил: Ты тоже видела блеск в ее глазах, верно...? Дон Кихот всегда была энергичной, но сегодня она особенно оживленная.
+Измаил: Ты тоже видела этот блеск в её глазах, да?.. Дон Кихот всегда была энергичной, но сегодня она особенно воодушевлена.
 
 # Original: Eyes...
 Фауст: Глаза...
@@ -281,52 +281,52 @@
 Рассказчик: Фауст подошла к Саше с вопросом.
 
 # Original: I have one last thing to inquire.
-Фауст: У меня есть еще одна вещь, которую я бы хотела спросить.
+Фауст: Я хотела бы спросить ещё кое о чём.
 
-# Original: It'll be 30k per inquiry.
-Саша: Это будет стоить 30 тысяч за каждый вопрос.
+# Original: It'll be 30k Ahn per inquiry.
+Саша: 30 тыщ Ан за вопрос.
 
-# Original: ... That is quite an unsound decision to make for someone who claims to be 'in the same line of work' as us.
-Фауст: ... Несколько неразумное решение для того, кто утверждает, что находится "в той же профессии", что и мы.
+# Original: ... That is quite an unsound decision to make for someone who claims to be "in the same line of work" as us.
+Фауст: ...Это довольно безрассудное решение для того, кто утверждает, что «работает в той же сфере», что и мы.
 
 # Original: Have you considered the possibility that, once our contract is successfully completed, we could include references to a particularly cooperative Associate Office in our report to W Corp?
-Фауст: Вы не рассматривали возможность того, что после успешного выполнения контракта мы могли бы включить упоминание об исключительно полезном Офисе-партнере в наш отчет для Корпорации W?
+Фауст: Вы рассматривали возможность того, что после успешного завершения нашего контракта мы могли бы включить упоминание об особенно сговорчивом Ассоциированном Офисе в наш отчёт для Корпорации W?
 
 # Original: W-woah... You serious?
-Саша: В-вау... Серьезно?
+Саша: О-ого... Ты серьёзно?
 
 # Original: Well then, let me hear it.
-Саша: Ну, тогда давай послушаю.
+Саша: Ну, тогда выкладывай.
 
 # Original: Were the eyes of the monsters you faced red, by any chance?
-Фауст: Были ли глаза монстров, с которыми вы столкнулись, красными?
+Фауст: Глаза монстров, с которыми вы столкнулись, случайно не были красными?
 
 # Original: Sasha paused her swinging arms for a moment upon hearing that question, appearing to either be in thought or trying to recall something... then answered.
-Рассказчик: Услышав этот вопрос, Саша на мгновение остановила хаотичное движение своих рук. Казалось, что она либо крепко задумалась, либо пыталась что-то вспомнить... После этого она ответила.
+Рассказчик: Услышав этот вопрос, Саша на мгновение перестала размахивать руками, словно задумавшись или пытаясь что-то вспомнить... а затем ответила.
 
-# Original: ... Umm, I dunno? It was a pretty hectic battle in a narrow hallway, so I didn't have the wherewithal to get a good look at their eyes. Is it something important?
-Саша: ... Хмм, не знаю? Это была хаотичная битва в узком коридоре, так что у меня не было особой возможности рассмотреть их глаза. Это что-то важное?
+# Original: ... Umm, I dunno? Those monsters were red all over, but... is there something special about their eye color?
+Саша: ...Эм-м, не знаю? Эти монстры были все красные, но... что-то особенное в цвете их глаз?
 
-# Original: Well, for one, my prosthetic eye is red. That passenger over there's got red eyes. Oh, you there. That lady with a big sword's also got red eyes.
-Саша: Ну, например, мой протезированный глаз красный. У пассажира вон там красные глаза. Да, вы там. У той дамы с большим мечом тоже красные глаза.
+# Original: Well, for one, my prosthetic eye is red. That passenger over there's got red eyes, and... Oh, you there. That lady with a big sword's also got red eyes.
+Саша: Ну, во-первых, у меня глазной протез красный. У того пассажира вон тоже красные глаза, и... О, а вот вы. У леди с большим мечом тоже красные глаза.
 
 # Original: What, is someone out there paying cash for info on red eyes or something?
-Саша: Что, кто-то платит наличкой за информацию о красных глазах или в этом роде?
+Саша: Чего, кто-то платит за инфу о красных глазах, что ли?
 
 # Original: No, well.
-Фауст: Ну, нет.
+Фауст: Нет, что вы.
 
 # Original: It was a question of no significance.
-Фауст: Это был вопрос без особого значения.
+Фауст: Это был незначительный вопрос.
 
 # Original: Faust nodded lightly in her direction, then opened the door to the next car.
-Рассказчик: Фауст слегка кивнула в ее сторону, затем открыла дверь в следующий вагон.
+Рассказчик: Фауст слегка кивнула ей и открыла дверь в следующий вагон.
 
 # Original: Guuuuhhhh...
-Рассказчик: Уууууххх...
+Рассказчик: Гууууххх...
 
 # Original: *Whistle*
-Рёшу: *Свист*
+Рёшу: *Присвистнула*
 
 # Original: It was just as we had feared. The scene that appeared before us looked like it came straight out of a painting of hell.
-Рассказчик: Это было именно то, чего мы боялись. Сцена, открывшаяся перед нами, будто пришла прямиком из изображения ада.
+Рассказчик: Всё было именно так, как мы и боялись. Сцена, представшая перед нашими глазами, выглядела так, будто сошла прямиком с картины ада.
