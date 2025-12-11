@@ -77,7 +77,7 @@
 Рассказчик: Громкий, драматический голос прервал размышления дитя о более ранних событиях этой поездки.
 
 # Original: Hark, Brother Sinclair! A news I must relay unto thee; both acts of vengeance shared to us in the book have been paid for!
-Дон Кихот: Внемли, Брат Синклер! Весть должна я тебе поведать; обе акты мщения, что были нам в книге поручены, свершились!
+Дон Кихот: Внемли, Брат Синклер! Весть должна я тебе поведать; оба акта мщения, что были нам в книге поручены, свершились!
 
 # Original: Precisely calculated. Among the retributions that have been synchronized to our Books of Vengeance, five of them that have been highlighted by our seniors in the east are now complete.
 Мерсо: Точно рассчитано. Среди возмездий, синхронизированных с нашими Книгами Мщения, пять из тех, что были выделены нашими старшими на востоке, теперь завершены.
@@ -89,7 +89,7 @@
 Синклер: ... Уверен, это удовлетворит наших восточных братьев и сестёр.
 
 # Original: After taking care of a few lines of vengeance...
-Рассказчик: После выполнения нескольких актов мщения...
+Рассказчик: После мести за ещё несколько обид...
 
 # Original: The child from the south and the other Little Brothers were having a discussion in a circle.
 Рассказчик: Дитя с юга и другие Младшие Братья вели обсуждение в кругу.
