@@ -77,7 +77,7 @@
 Рассказчик: Приказы моего господина были просты.
 
 # Original: The mission was to find a small hermitage called <ruby=Songan>Pine</ruby> Hermitage and decapitate everyone on the list.
-Рассказчик: Задание состояло в том, чтобы найти небольшую хижину отшельников под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех кто в списке.
+Рассказчик: Задание состояло в том, чтобы найти небольшую обитель под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех кто в списке.
 
 # Original: There was a weird exception clause listed there. Should I encounter a target who's not on the list, I should crush their head. But...
 Рассказчик: Там был странный пункт об исключении. Если я встречу цель, которой нет в списке, я должна размозжить ей голову. Но...
