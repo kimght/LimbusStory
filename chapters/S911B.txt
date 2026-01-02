@@ -269,7 +269,7 @@ Ezra: Ну, насчёт этого...
 Ezra: Сегодня отдел LCE должен был представить важный отчет о проделанной работе.
 
 # Original: Apparently, it's a <i>reeeally</i> important presentation too! We've been receiving bazillions of reminders about how it's a mandatory attendance event and everything... Right, Team Leader? Feels like everyone's overlooking just how <i>reeeally</i> busy our department is!
-Ezra: Судя по всему, это <i>о-о-очень</i> важная презентация! Нам прислали миллиарды напоминаний о том, что это мероприятие с обязательным посещением и всё такое... Верно, Лидер? Такое чувство, будто все забывают, насколько <i>о-о-очень</i> занят наш отдел!
+Ezra: Судя по всему, это <i>о-о-очень</i> важная презентация! Нам прислали дохрениллиарды напоминаний о том, что это мероприятие с обязательным посещением и всё такое... Верно, Лидер? Такое чувство, будто все забывают, насколько <i>о-о-очень</i> занят наш отдел!
 
 # Original: Sorry to borrow your wording, but it <i>is</i> indeed a <i>reeeally</i> important presentation.
 Hohenheim: Извините, что заимствую твою формулировку, но это и впрямь <i>о-о-очень</i> важная презентация.
