@@ -2,7 +2,7 @@
 Рассказчик: Значит, это она, та, с кем мы должны были встретиться здесь на станции...
 
 # Original: My, my... what an honor this is, to meet the Red Gaze himself in the flesh.
-Цезара: Боже мой... какая честь встретить самого Алого Взора во плоти.
+Цезара: Боже мой... какая честь встретить самого Красного Взора во плоти.
 
 # Original: Everyone, I am pleased to meet you all. I am Cesara, Head Manager of P Corp. Archival Department.
 Цезара: Всем привет, рада познакомиться. Я Цезара, главный менеджер Архивного отдела Корпорации P.
