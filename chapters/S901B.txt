@@ -113,7 +113,7 @@ Rien: «Ситуация здесь... совершенно безнадёжна
 Narrator: Спустя несколько часов...
 
 # Original: ... A good deal of time had passed since we'd said our heartfelt farewells to Jia Xichun, yet we still remained stuck in Hongyuan.
-Narrator: ... Прошло немало времени с тех пор, как мы сердечно попрощались с Цзя Сичунь, однако мы всё ещё оставались в Хунъюань.
+Narrator: ... Прошло немало времени с тех пор, как мы сердечно попрощались с Цзя Сичунь, однако мы всё ещё оставались в Хунъюане.
 
 # Original: You sure we're settin' off today? Reckon you got the date wrong?
 Heathcliff: Ты уверен, что мы выдвигаемся сегодня? Сдаётся мне, ты с датой ошибся?
