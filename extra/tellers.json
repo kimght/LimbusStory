@@ -3190,5 +3190,137 @@
   {
     "original": "Pack of Sheep",
     "translation": "Стая Овец"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "약지아비상"
+  },
+  {
+    "original": "Loudspeaker",
+    "translation": "Громкоговоритель",
+    "model": "에즈라"
+  },
+  {
+    "original": "Loudspeaker",
+    "translation": "Громкоговоритель",
+    "model": "마튼"
+  },
+  {
+    "original": "Loudspeaker",
+    "translation": "Громкоговоритель",
+    "model": "호엔하임"
+  },
+  {
+    "original": "A Rather Unwelcoming Voice",
+    "translation": "Довольно неприветливый голос",
+    "model": "호엔하임"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에즈라"
+  },
+  {
+    "original": "Dihui Star",
+    "translation": "Звезда Дихуэй",
+    "model": "소지아비"
+  },
+  {
+    "original": "Faint-hearted Messenger",
+    "translation": "Малодушный Посыльный"
+  },
+  {
+    "original": "Tailor",
+    "translation": "Ткач"
+  },
+  {
+    "original": "Udjat Agent",
+    "translation": "Агент Уджат"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엄지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엄지제자"
+  },
+  {
+    "original": "Announcer",
+    "translation": "Диктор",
+    "model": "아나운서"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거료슈2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "검지아비상"
+  },
+  {
+    "original": "Radio",
+    "translation": "Передатчик",
+    "model": "LCE연구원1"
+  },
+  {
+    "original": "Radio",
+    "translation": "Передатчик",
+    "model": "검지아비상"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거료슈3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "료슈딸"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소지제자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "약지제자1"
+  },
+  {
+    "original": "Radio",
+    "translation": "Передатчик",
+    "model": "호엔하임"
+  },
+  {
+    "original": "Radio",
+    "translation": "Передатчик",
+    "model": "히스클리프"
+  },
+  {
+    "original": "LCA Agent",
+    "translation": "Агент LCA",
+    "model": "LCA우제트"
+  },
+  {
+    "original": "Radio",
+    "translation": "Передатчик",
+    "model": "파우스트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "중지제자"
   }
 ]

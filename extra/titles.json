@@ -3441,5 +3441,116 @@
   {
     "original": "Shi Family",
     "translation": "Семья Ши"
+  },
+  {
+    "original": "R Corp. 4th Pack Reindeer",
+    "translation": "Олень 4 стаи Корп. R",
+    "model": "로쟈"
+  },
+  {
+    "original": "Broadcast Sector",
+    "translation": "Сектор Вещания",
+    "model": "에즈라"
+  },
+  {
+    "original": "Broadcast Sector",
+    "translation": "Сектор Вещания",
+    "model": "마튼"
+  },
+  {
+    "original": "Broadcast Sector",
+    "translation": "Сектор Вещания",
+    "model": "호엔하임"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에즈라"
+  },
+  {
+    "original": "The Index Messenger",
+    "translation": "Посыльный Указательного"
+  },
+  {
+    "original": "The Index Proselyte",
+    "translation": "Прозелит Указательного",
+    "model": "파우스트"
+  },
+  {
+    "original": "The Carnival",
+    "translation": "Карнавал"
+  },
+  {
+    "original": "LCA Vanguard Team 3",
+    "translation": "3-ий отряд Авангарда LCA",
+    "model": "오티스"
+  },
+  {
+    "original": "LCA Vanguard Team 3",
+    "translation": "3-ий отряд Авангарда LCA"
+  },
+  {
+    "original": "LCA",
+    "translation": "LCA"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엄지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엄지제자"
+  },
+  {
+    "original": "LCE Department",
+    "translation": "Отдел LCE",
+    "model": "아나운서"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거료슈2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "검지아비상"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거료슈3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "료슈딸"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소지제자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "약지제자1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "LCA우제트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "중지제자"
   }
 ]
