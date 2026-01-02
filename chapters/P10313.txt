@@ -119,7 +119,7 @@
 Рассказчик: Существо, о котором идет речь, видите ли, может внезапно отрастить — или, скорее, <i>извергнуть</i> — тяжелые слои шерсти из своей кожи из-за своей чувствительности к холоду.
 
 # Original: And along with that trait, another of its physical features was woven into the effect of the Wei Bolus: the tough, sturdy horns that the child and her Packmates possess.
-Рассказчик: И наряду с этой чертой, еще одна из его физических особенностей была вплетена в эффект Болюса Вэй: крепкие, прочные рога, которыми обладают дитя и его Собратья по стае.
+Рассказчик: И наряду с этой чертой, ещё одна из его физических особенностей была вплетена в эффект Болюса Вэй: крепкие, прочные рога, которыми обладают дитя и его Собратья по стае.
 
 # Original: ... I have come to discover that the Wei's tolerance for cold is far lower than I had expected. I am learning something new every day.
 Фауст: ... Я обнаружила, что устойчивость Вэй к холоду гораздо ниже, чем я ожидала. Я узнаю что-то новое каждый день.

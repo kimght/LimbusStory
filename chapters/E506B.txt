@@ -11,7 +11,7 @@
 Синклер: ... Повсюду Рождественские украшения...
 
 # Original: ... There's still some time until Christmas, though.
-Синклер: ... Хотя до Рождества еще есть немного времени.
+Синклер: ... Хотя до Рождества ещё есть немного времени.
 
 # Original: Sinclair looked to the ground with a somber expression.
 Рассказчик: Синклер опустил взгляд с мрачным выражением лица.

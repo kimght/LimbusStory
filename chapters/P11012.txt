@@ -80,7 +80,7 @@
 Дон Кихот: Внемли, Брат Синклер! Весть должна я тебе поведать; оба акта мщения, что были нам в книге поручены, свершились!
 
 # Original: Precisely calculated. Among the retributions that have been synchronized to our Books of Vengeance, five of them that have been highlighted by our seniors in the east are now complete.
-Мерсо: Точно рассчитано. Среди возмездий, синхронизированных с нашими Книгами Мщения, пять из тех, что были выделены нашими старшими на востоке, теперь завершены.
+Мерсо: Точно рассчитано. Среди возмездий, синхронизированных с нашими Книгами Мести, пять из тех, что были выделены нашими старшими на востоке, теперь завершены.
 
 # Original: We've still got about twenty minutes until Big Bro returns... Hey, nice work. There's still a lot of time left.
 Синклер: У нас ещё около двадцати минут до возвращения Старшего Брата... Эй, отличная работа. Ещё много времени осталось.
@@ -143,7 +143,7 @@
 Синклер: Отлично. Мы сможем убедиться, что Старший Брат хорошо проведёт здесь время.
 
 # Original: After staring at its texts for a while, the child shuts the Book of Vengeance and brings the other siblings to attention.
-Рассказчик: Просмотрев тексты некоторое время, дитя закрывает Книгу Мщения и привлекает внимание других братьев.
+Рассказчик: Просмотрев тексты некоторое время, дитя закрывает Книгу Мести и привлекает внимание других братьев.
 
 # Original: He's lording over them like he's their boss, but the Little Brothers don't mind.
 Рассказчик: Оно командует ими, словно босс, но Младшие Братья не возражают.

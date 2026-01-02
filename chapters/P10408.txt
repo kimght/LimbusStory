@@ -137,7 +137,7 @@
 Рёшу: Он вне ваших возможностей. Вы и ваши жалкие навыки даже царапины ему не оставите.
 
 # Original: There's much work to be done back at the manor. You haven't even started your morning duties, have you? Run along, get to work.
-Рёшу: В поместье еще много работы. Вы даже не начали свои утренние обязанности, не так ли? Бегите, приступайте к работе.
+Рёшу: В поместье ещё много работы. Вы даже не начали свои утренние обязанности, не так ли? Бегите, приступайте к работе.
 
 # Original: The child glared at the formidable wolf before her as she slowly drew her long knife.
 Рассказчик: Дитя пристально смотрела на грозного волка перед собой, медленно вытаскивая свой длинный нож.

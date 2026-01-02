@@ -11,7 +11,7 @@
 Измаил: Хмм...
 
 # Original: <I appreciate your analyses, but we should probably get moving. We still don't know where Heathcliff and Don Quixote are.>
-Данте: <Я ценю ваш анализ, но нам, вероятно, стоит двигаться дальше. Мы все еще не знаем, где Хитклиф и Дон Кихот.>
+Данте: <Я ценю ваш анализ, но нам, вероятно, стоит двигаться дальше. Мы все ещё не знаем, где Хитклиф и Дон Кихот.>
 
 # Original: You always say the right things at the right time, Executive Manager.
 Отис: Вы всегда говорите правильные вещи в нужное время, Исполнительный Менеджер.

@@ -56,7 +56,7 @@
 Рёшу: Тц... хм?
 
 # Original: Ah, yes... Perhaps doing so while they're still alive would be a way of pursuing a new direction in art in the vein of an avant-garde spirit.
-Рёшу: Ах да... Возможно, сделать это, пока они еще живы, было бы способом двигаться в новом направлении в искусстве, в духе авангардизма.
+Рёшу: Ах да... Возможно, сделать это, пока они ещё живы, было бы способом двигаться в новом направлении в искусстве, в духе авангардизма.
 
 # Original: My suggestion was not to inflict them further pain. Simply a more appropriate method of engaging in the culinary arts.
 Мерсо: Мое предложение состояло в том, чтобы не причинять им дальнейшей боли. Просто более подходящий метод занятия кулинарным искусством.

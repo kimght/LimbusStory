@@ -1,5 +1,5 @@
 ﻿# Original: Another day, another prolonged and dreary period of waiting, waiting, and some more waiting for something to happen. Of course, our busboat was still floating on the coastal Great Lake.
-Рассказчик: Очередной день, очередной бесконечный период тоскливого ожидания, ожидания и еще раз ожидания хоть чего-нибудь. Разумеется, наш лодкобус все еще плавал у берегов Великого Озера.
+Рассказчик: Очередной день, очередной бесконечный период тоскливого ожидания, ожидания и ещё раз ожидания хоть чего-нибудь. Разумеется, наш лодкобус все ещё плавал у берегов Великого Озера.
 
 # Original: Voices of discontent among the Sinners started small, but they have been growing increasingly incessant as of late.
 Рассказчик: Голоса недовольства среди Грешников начинались с малого, но в последнее время становились все более настойчивыми.
@@ -131,7 +131,7 @@
 Фауст: Действительно, так и есть. Я уверена, что все вы прекрасно знаете, что извлечение Идентичностей и ЭГО из зеркальных миров является одной из многих функций двигателя Мефистофеля.
 
 # Original: But its reach is rather limited. Even as it has expanded over our journey, we have yet to reach mirror worlds that are too far from our own.
-Фауст: Но его охват довольно ограничен. Даже несмотря на то, что он расширился за время нашего путешествия, мы еще не достигли зеркальных миров, которые слишком далеки от нашего собственного.
+Фауст: Но его охват довольно ограничен. Даже несмотря на то, что он расширился за время нашего путешествия, мы ещё не достигли зеркальных миров, которые слишком далеки от нашего собственного.
 
 # Original: Is this the Golden Boughs' doing? I noticed that it was fishing up more and more new things the longer our journey went on.
 Отис: Это дело рук Золотых Ветвей? Я заметила, что чем дольше длилось наше путешествие, тем больше новых вещей он вылавливал.
@@ -152,7 +152,7 @@
 Хитклиф: Что за чертова карта Идентичности?
 
 # Original: Oh, you still didn't know? Hm... I'm jealous of you, Heathcliff. You have a talent for ignoring anything you don't care about~
-Хон Лу: О, ты все еще не знал? Хм... Я завидую тебе, Хитклиф. У тебя талант игнорировать все, что тебе неинтересно~
+Хон Лу: О, ты все ещё не знал? Хм... Я завидую тебе, Хитклиф. У тебя талант игнорировать все, что тебе неинтересно~
 
 # Original: You lookin' to get your head smashed in or what?
 Хитклиф: Ты хочешь, чтобы я тебе голову проломил или как?
@@ -206,7 +206,7 @@
 Дон Кихот: Ну, я...
 
 # Original: Is this not about time when Ishmael would intrude upon this conversation and denounce Heathcliff with biting words such as 'You still didn't know? That's just like you'? This emptiness weighs heavily upon mine heart...
-Дон Кихот: Разве не настало время, когда Измаил вторглась бы в сию беседу и осудила Хитклифа язвительными словами, подобными: "Ты все еще не знал? Это так на тебя похоже"? Сия пустота тяжким грузом ложится на мое сердце...
+Дон Кихот: Разве не настало время, когда Измаил вторглась бы в сию беседу и осудила Хитклифа язвительными словами, подобными: "Ты все ещё не знал? Это так на тебя похоже"? Сия пустота тяжким грузом ложится на мое сердце...
 
 # Original: Ohh~ You're right. Something was missing from this whole convo. I knew it.
 Родион: Ох~ Ты права. Чего-то явно не хватало во всем этом разговоре. Я так и знала.

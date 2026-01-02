@@ -44,7 +44,7 @@
 Синклер: Эм, так что... Что нам теперь...
 
 # Original: Manager. You can still sense the Golden Bough, right?
-Измаил: Менеджер. Вы все еще чувствуете Золотую Ветвь, верно?
+Измаил: Менеджер. Вы все ещё чувствуете Золотую Ветвь, верно?
 
 # Original: <Yeah. Unlike at the Lobotomy Corp. Branch, I can definitely feel that it's somewhere 'in here'. But it's also pretty far away, so I can't tell where it exactly—>
 Данте: <Да. В отличие от филиала Корпорации Лоботомии, я определенно чувствую, что она где-то "здесь". Но она также довольно далеко, так что я не могу сказать, где именно—>

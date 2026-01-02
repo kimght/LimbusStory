@@ -44,7 +44,7 @@
 Хохенхайм: Ах, я согласен. Впервые с момента нашего знакомства.
 
 # Original: I hear that our department has reached out several times to yours to remind you of this regular check-up?
-Хохенхайм: Я слышал, что наш отдел несколько раз связывался с вашим, чтобы напомнить об этом регулярном осмотре?
+Хохенхайм: Я слышал, что наш отдел несколько раз связывался с вашим, чтобы напомнить об этом плановом осмотре?
 
 # Original: The nature of the LCB department necessitates that we are constantly on the move from one Nest to another, which makes it rather difficult for us to give you an immediate reply. I would have expected someone like you to already be well aware of this obvious detail.
 Фауст: Специфика отдела LCB требует от нас постоянного перемещения из одного Гнезда в другое, что делает весьма затруднительным немедленное реагирование на ваши запросы. Я полагала, что человек вроде вас должен быть прекрасно осведомлён об этой очевидной детали.
@@ -146,7 +146,7 @@
 Хохенхайм: Я разделяю вашу срочность.
 
 # Original: There is much we must cover, regrettably, given that this is the first-ever regular check-up performed as a group since your employment.
-Хохенхайм: К сожалению, нам предстоит многое охватить, учитывая, что это первый регулярный групповой осмотр с момента вашего трудоустройства.
+Хохенхайм: К сожалению, нам предстоит многое охватить, учитывая, что это первый плановый групповой осмотр с момента вашего трудоустройства.
 
 # Original: Faust also does not wish to pass more time without substance. Let us begin.
 Фауст: Фауст также не желает тратить время впустую. Приступим.
@@ -194,4 +194,4 @@
 Рассказчик: Сотрудник появился и повёл Вергилия и Харон в ближайшую офисную комнату.
 
 # Original: <... Okay, so this is the regular check-up, huh? Let’s get this done.>
-Данте: <... Ладно, так вот какой он, регулярный осмотр? Давайте покончим с этим.>
+Данте: <... Ладно, так вот какой он, плановый осмотр? Давайте покончим с этим.>

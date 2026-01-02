@@ -53,7 +53,7 @@
 Данте: <Кстати говоря, наш пункт назначения был...>
 
 # Original: Yes, indeed. Once again, we were being blindly led along by our guide to who knows where.
-Рассказчик: Да, действительно. Еще раз нас слепо вел наш проводник неизвестно куда.
+Рассказчик: Да, действительно. Ещё раз нас слепо вел наш проводник неизвестно куда.
 
 # Original: <Don’t you think… it’s about time he started telling us where we’re going?>
 Данте: <Как думаешь... не пора ли ему начать говорить нам, куда мы едем?>
@@ -125,7 +125,7 @@
 Рассказчик: За исключением одной, то есть.
 
 # Original: I… No, we're still not ready for this...
-Измаил: Я... Нет, мы еще не готовы к этому...
+Измаил: Я... Нет, мы ещё не готовы к этому...
 
 # Original: <Ishmael… you good?>
 Данте: <Измаил... ты в порядке?>
@@ -134,7 +134,7 @@
 Измаил: Н-нет. Эмм... дай мне минутку... Мне нужно время подумать...
 
 # Original: While I was still worried about Ishmael’s sudden gloominess, I had faith that she would be okay. She was always on top of things, after all.
-Рассказчик: Я все еще беспокоился о внезапной мрачности Измаил, но верил, что с ней все будет хорошо. В конце концов, она всегда держала все под контролем.
+Рассказчик: Я все ещё беспокоился о внезапной мрачности Измаил, но верил, что с ней все будет хорошо. В конце концов, она всегда держала все под контролем.
 
 # Original: Besides, my attention was drawn to the bubbling enthusiasm that seemed to have possessed the Sinners.
 Рассказчик: Кроме того, мое внимание привлек бурлящий энтузиазм, которым, казалось, были одержимы Грешники.

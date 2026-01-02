@@ -164,16 +164,16 @@
 Рассказчик: Вдалеке начинает появляться огромное поместье. Я сразу понял, что это и есть поместье "Грозовой перевал", о котором упоминал Хитклиф.
 
 # Original: ... black.
-Хитклиф: ... черный.
+Хитклиф: ... чёрный.
 
 # Original: It’s the colour you get when you dump an entire set of paint into a bucket, innit?
 Хитклиф: Это цвет, который получается, когда вываливаешь в ведро весь набор красок, верно?
 
 # Original: And that’s exactly why I tolerate it. Keep throwing paint over paint over paint… and you get black. Simple.
-Хитклиф: И именно поэтому я его выношу. Продолжаешь лить краску, на краску, на краску... и получаешь черный. Просто.
+Хитклиф: И именно поэтому я его выношу. Продолжаешь лить краску, на краску, на краску... и получаешь чёрный. Просто.
 
 # Original: I can clearly hear that Heathcliff is muttering through gritted teeth.
 Рассказчик: Я отчетливо слышу, что Хитклиф бормочет сквозь стиснутые зубы.
 
 # Original: I have a feeling that black wasn’t always his favorite color.
-Рассказчик: У меня такое чувство, что черный не всегда был его любимым цветом.
+Рассказчик: У меня такое чувство, что чёрный не всегда был его любимым цветом.

@@ -1,5 +1,5 @@
 # Original: Refrain from any deviations from the plan... Has my humble self neglected to impress upon this matter many times?
-Жэнь: Воздержитесь от любых отклонений от плана... Неужели моя скромная персона недостаточно часто подчёркивала важность этого вопроса?
+Рен: Воздержитесь от любых отклонений от плана... Неужели моя скромная персона недостаточно часто подчёркивала важность этого вопроса?
 
 # Original: See? Fascia has begun to pulsate.
 Альбина: Видишь? Фасция начала пульсировать.
@@ -8,7 +8,7 @@
 Альбина: Я давно не видела, чтобы Фасция так дрожала. Почему бы тебе не дать ей немного времени поболтать?
 
 # Original: This plan involves no outward expression of such selfish desires.
-Жэнь: Этот план не предусматривает внешнего проявления столь эгоистичных желаний.
+Рен: Этот план не предусматривает внешнего проявления столь эгоистичных желаний.
 
 # Original: The "plan" that involves only the observation of the warming, reddening flesh while our own heartbeats slow...
 Альбина: «План», который включает лишь созерцание теплеющей, алеющей плоти, пока наши собственные сердца замедляются...
@@ -17,7 +17,7 @@
 Альбина: Этот план не по душе Фасции. Её сухожилия натянулись.
 
 # Original: Yet, we must learn to remain tranquil before these common beats if we are to adhere to the wills of those who are our masters.
-Жэнь: И всё же, мы должны научиться сохранять безмятежность перед лицом этих заурядных ритмов, если желаем следовать воле тех, кто является нашими господами.
+Рен: И всё же, мы должны научиться сохранять безмятежность перед лицом этих заурядных ритмов, если желаем следовать воле тех, кто является нашими господами.
 
 # Original: I've always been so curious of the Maestro's child, forever-lost...
 Альбина: Мне всегда было так любопытно узнать о вечно потерянном дитя Маэстро...
@@ -26,7 +26,7 @@
 Альбина: Почему бы не позволить нам хотя бы подготовить макет?
 
 # Original: ... It has become apparent that this glorified executioner does not know her place; clearly, it is about time her branches are pruned.
-Жэнь: ... Стало очевидно, что этот хвалёный палач не знает своего места; ясно, что пришло время подрезать ей ветви.
+Рен: ... Стало очевидно, что этот хвалёный палач не знает своего места; ясно, что пришло время подрезать ей ветви.
 
 # Original: With that, the man who stood in our way leaped toward the pulsating greatsword of flesh and delivered a powerful strike.
 Рассказчик: С этими словами человек, стоявший у нас на пути, прыгнул к пульсирующему двуручному мечу из плоти и нанёс мощный удар.

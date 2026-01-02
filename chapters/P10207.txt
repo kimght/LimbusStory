@@ -47,7 +47,7 @@
 Джейкоб: Один Грех и Сотня Благих Деяний...
 
 # Original: Team Captain! W-what happens if I get unlucky and the thing decides to commit that one Sin against me? I-I don't... I still haven't...
-Джейкоб: Капитан! Ч-что, если мне не повезет, и эта штука решит совершить тот единственный Грех против меня? Я-я не... Я все еще не...
+Джейкоб: Капитан! Ч-что, если мне не повезет, и эта штука решит совершить тот единственный Грех против меня? Я-я не... Я все ещё не...
 
 # Original: Relax. That is not how this Abnormality behaves.
 Фауст: Успокойся. Эта Аномалия так себя не ведет.
@@ -149,10 +149,10 @@
 Фауст: Я должна пойти и помочь им в подавлении этого Испытания.
 
 # Original: I am not particularly concerned. Maybe this Ordeal will be Suppressed before Faust even gets there.
-Фауст: Я не особенно обеспокоена. Может быть, это Испытание будет подавлено еще до того, как Фауст туда доберется.
+Фауст: Я не особенно обеспокоена. Может быть, это Испытание будет подавлено ещё до того, как Фауст туда доберется.
 
 # Original: The Manager does not yet know... but the Ordeal of Green Dawn is quite insignificant compared to what is to come.
-Фауст: Управляющий еще не знает... но Испытание Зеленого Рассвета довольно незначительно по сравнению с тем, что грядет.
+Фауст: Управляющий ещё не знает... но Испытание Зеленого Рассвета довольно незначительно по сравнению с тем, что грядет.
 
 # Original: ... Hm, no. I must hold my tongue, lest I risk confusing any other individual who will be listening to this recording.
 Фауст: ... Хм, нет. Я должна придержать язык, чтобы не рисковать запутать любого другого человека, который будет слушать эту запись.

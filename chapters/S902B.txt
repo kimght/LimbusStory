@@ -32,7 +32,7 @@
 Родион: Верг?
 
 # Original: Color returned to Rodya's face upon hearing Vergilius's name.
-Рассказчик: Лицо Родя вновь обрело краски, стоило ей услышать имя Вергилия.
+Рассказчик: Лицо Роди вновь обрело краски, стоило ей услышать имя Вергилия.
 
 # Original: Well... Then maybe Verg's already on his way back after wiping the floor with both of them?
 Родион: Ну... Может тогда Верг уже на обратном пути, после того как вытер пол ими обоими?
@@ -110,13 +110,13 @@
 Грегор: Это LCB, я вас слышу. Какова ваша обстановка? Приём.
 
 # Original: HQ Research Facility—
-Напуганный исследователь: Исследовательский центр штаб-квартиры —
+Напуганный исследователь: Исследовательский центр штаб-квартиры—
 
 # Original: Research Facility?
 Грегор: Исследовательский центр?
 
 # Original: U-und-under-attack—
-Напуганный исследователь: По-по-под-атакой —
+Напуганный исследователь: По-по-под-атакой—
 
 # Original: My darling daughter. I hope you've been doing well for yourself out there.
 Рьян: Моя дорогая дочь. Надеюсь, у тебя там всё было хорошо.
@@ -137,16 +137,16 @@
 Рёшу: ...Ха.
 
 # Original: The Spiders have spun their web, Clock.
-Рёшу: Пауки сплели свою сеть, Часы.
+Рёшу: Пауки сплели свою паутину, Часы.
 
 # Original: <Web?>
-Данте: <Сеть?>
+Данте: <Паутину?>
 
 # Original: And it's woven so intricately that there's no way around it.
 Рёшу: И она сплетена так искусно, что её не обойти.
 
 # Original: That's when I recalled something Lei Heng had mentioned—"The House of Spiders."
-Рассказчик: В этот момент я вспомнил кое-что из слов Лэй Хэн — «Дом Пауков».
+Рассказчик: В этот момент я вспомнил кое-что из слов Лэй Хэна — «Дом Пауков».
 
 # Original: Thinking back to how intensely Ryōshū reacted then...
 Рассказчик: Вспоминая, как бурно тогда отреагировала Рёшу...
@@ -188,7 +188,7 @@
 Рёшу: Ладно. Я не ожидала, что они сами придут искать меня.
 
 # Original: Once the spiders have spun their web, they tend to wait for the prey to stumble into it, after all.
-Рёшу: В конце концов, когда Пауки сплели свою сеть, они склонны ждать, пока добыча сама в неё угодит.
+Рёшу: В конце концов, когда Пауки сплели свою паутину, они склонны ждать, пока добыча сама в неё угодит.
 
 # Original: The plume of cigarette smoke lingered for a moment before scattering into the air. When I looked at Ryōshū's face, what I saw...
 Рассказчик: Струйка сигаретного дыма на мгновение задержалась, прежде чем раствориться в воздухе. Когда я посмотрел на лицо Рёшу, то увидел...
@@ -263,7 +263,7 @@
 Сод: ...Что?
 
 # Original: The Backdoor of this truck. Can it connect us directly to the HQ Research Facility right this instant?
-Рёшу: Черный Ход в этом грузовике. Может ли он соединить нас напрямую с исследовательским центром штаб-квартиры прямо сейчас?
+Рёшу: Чёрный Ход в этом грузовике. Может ли он соединить нас напрямую с исследовательским центром штаб-квартиры прямо сейчас?
 
 # Original: W-wait. It can, but...
 Сод: П-погоди. Может, но...
@@ -302,7 +302,7 @@
 Рассказчик: Было несложно интуитивно понять, что настал черёд Рёшу, учитывая её явное воодушевление.
 
 # Original: If so... the backdoor leading to the HQ, which Ryōshū intends to use, should be the path we're meant to take this time.
-Рассказчик: Если так... то Черный Ход, ведущий в штаб-квартиру, которым намерена воспользоваться Рёшу, должен быть тем путём, по которому нам суждено пройти в этот раз.
+Рассказчик: Если так... то Чёрный Ход, ведущий в штаб-квартиру, которым намерена воспользоваться Рёшу, должен быть тем путём, по которому нам суждено пройти в этот раз.
 
 # Original: Better prepare yourselves.
 Рёшу: Получше приготовьтесь.
@@ -323,7 +323,7 @@
 Хитклиф: Эй, тогда не стоит ли нам убраться из грузовика, пока он не обвалился нам на головы?
 
 # Original: No. P Corp.'s Singularity protects this truck, remember? Something that's supposed to keep whatever's inside safe. We should just lie low in here until—
-Измаил: Нет. Сингулярность Корпорации P защищает этот грузовик, помнишь? Нечто, что должно держать в безопасности всё, что внутри. Нам стоит просто затаиться здесь, пока —
+Измаил: Нет. Сингулярность Корпорации P защищает этот грузовик, помнишь? Нечто, что должно держать в безопасности всё, что внутри. Нам стоит просто затаиться здесь, пока—
 
 # Original: Y-ya sure about that? I can see a teensy crack in the ceiling!
 Родион: Т-ты в этом уверена? Я вижу ма-а-асенькую трещину в потолке!
@@ -350,7 +350,7 @@
 Хитклиф: Значит, они сэкономили.
 
 # Original: Then the assailant is not one of the Nursefathers from the House of Spiders.
-Рёшу: Тогда нападавший — не один из Отцов-воспитателей из Дом Пауков.
+Рёшу: Тогда нападавший — не один из Отцов-воспитателей из Дома Пауков.
 
 # Original: If it were one of them... the first shock would have shattered this wall into pieces.
 Рёшу: Будь это один из них... первый же удар разнёс бы эту стену в щепки.
@@ -359,7 +359,7 @@
 Рёшу: Полагаю, начинать сразу с верхушки было бы довольно пресным развитием сюжета.
 
 # Original: The Nurse<i>fathers</i>...? Wait, you mean the same people Lei Heng—
-Синклер: Отцы-<i>воспитатели</i>?.. Погодите, вы о тех же людях, которых Лэй Хэн —
+Синклер: Отцы-<i>воспитатели</i>?.. Погоди, ты о тех же людях, которых Лэй Хэн—
 
 # Original: ... We'll have time for speculations later.
 Отис: ...У нас будет время для предположений позже.

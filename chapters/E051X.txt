@@ -146,16 +146,16 @@
 Мерсо: Кажется, что разные формы накладываются на дверь, но все они одного и того же дизайна.
 
 # Original: Correct. The overlapping shapes are more clear evidence that Walpurgis Night has returned.
-Фауст: Верно. Накладывающиеся формы - это еще более явное доказательство того, что Вальпургиева ночь вернулась.
+Фауст: Верно. Накладывающиеся формы - это ещё более явное доказательство того, что Вальпургиева ночь вернулась.
 
 # Original: <... Opening now.>
 Данте: <... Открываю.>
 
 # Original: The door creaks open, and another corridor appears before us.
-Рассказчик: Дверь со скрипом открывается, и перед нами предстает еще один коридор.
+Рассказчик: Дверь со скрипом открывается, и перед нами предстает ещё один коридор.
 
 # Original: So this is another Lobotomy Corp. branch, innit?
-Хитклиф: Так это еще один филиал Корпорации Лоботомии, да?
+Хитклиф: Так это ещё один филиал Корпорации Лоботомии, да?
 
 # Original: The longer I look at it, the more familiar it becomes. This place definitely looks a lot like those Lobotomy Corp. branches we've been to.
 Рассказчик: Чем дольше я смотрю на него, тем более знакомым он становится. Это место определенно очень похоже на те филиалы Корпорации Лоботомии, в которых мы были.
@@ -197,13 +197,13 @@
 Фауст: Как я уже сказала ранее, я не буду полностью отрицать возможность использования этого метода. Кроме того...
 
 # Original: There are more inaccuracies to be addressed.
-Фауст: Есть еще неточности, которые нужно исправить.
+Фауст: Есть ещё неточности, которые нужно исправить.
 
 # Original: <... More?>
-Данте: <... Еще?>
+Данте: <... Ещё?>
 
 # Original: I didn't think there was anything more for her to correct. But Faust clearly seemed to think that there was another critical error in Heathcliff's statement.
-Рассказчик: Я не думал, что ей есть что еще исправлять. Но Фауст явно считала, что в утверждении Хитклифа была еще одна критическая ошибка.
+Рассказчик: Я не думал, что ей есть что ещё исправлять. Но Фауст явно считала, что в утверждении Хитклифа была ещё одна критическая ошибка.
 
 # Original: And without even flinching, and wearing that serious expression, she looked into the distance.
 Рассказчик: И, даже не моргнув глазом, с серьезным выражением лица, она посмотрела вдаль.

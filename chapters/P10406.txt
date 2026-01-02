@@ -92,7 +92,7 @@
 Рёшу: ……
 
 # Original: But there also was a trail of smoke coming from the shotgun in the child's hands.
-Рассказчик: Но был еще и след дыма, исходящий от дробовика в руках дитя.
+Рассказчик: Но был ещё и след дыма, исходящий от дробовика в руках дитя.
 
 # Original: Hmph. So here we are.
 Рёшу: Хмф. Вот мы и здесь.

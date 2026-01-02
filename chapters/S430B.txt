@@ -8,7 +8,7 @@
 Донран: Ха-ха, вы все побледнели. Ах, прошу прощения на минутку.
 
 # Original: <The situation looks pretty tense. It's kinda awkward to stand still like this...>
-Данте: <Ситуация выглядит довольно напряженной. Как-то неловко просто стоять вот так...>
+Данте: <Ситуация выглядит довольно напряжённой. Как-то неловко просто стоять вот так...>
 
 # Original: As I meandered in the lobby murmuring meaningless things to myself, Don Quixote scuttled to a shelf.
 Рассказчик: Пока я бесцельно бродил по вестибюлю, бормоча себе под нос что-то бессмысленное, Дон Кихот подбежала к полке.

@@ -59,7 +59,7 @@
 Хитклиф: ...Они не могут происходить сразу друг за другом...? Чё, значит, этот гигантский кусок камня не имел никакого отношения к Испытанию?
 
 # Original: Yes, it was indeed an Ordeal of Violet. However, this was... the Noon of Violet.
-Фауст: Да, это действительно было Фиолетовое Испытание. Однако, это был... Фиолетовый Полдень. 
+Фауст: Да, это действительно было Фиолетовое Испытание. Однако, это был... Фиолетовый Полдень.
 
 # Original: Ordeals of the Noon are a degree higher than Ordeals of the Dawn, which we already have experience with.
 Фауст: Испытания Полудня на порядок выше Испытаний Рассвета, с которыми у нас уже есть опыт.
@@ -68,7 +68,7 @@
 Рассказчик: Брови Фауст хмурились практически незаметно; она вздыхала, даже передавая нам эту информацию, явно встревоженная чем-то.
 
 # Original: ... I suddenly recalled what Faust speculated back at the WARP train: that the Gesellschaft may have made a purposeful omission.
-Рассказчик: ...Я вдруг вспомнил, что Фауст предположила еще в ВАРП поезде: что Гезельшафт мог намеренно утаить информацию.
+Рассказчик: ...Я вдруг вспомнил, что Фауст предположила ещё в ВАРП поезде: что Гезельшафт мог намеренно утаить информацию.
 
 # Original: <You think this is the Gesellschaft withholding information from you again?>
 Данте: <Думаешь, это Гезельшафт снова скрыл от тебя информацию?>
@@ -122,13 +122,13 @@
 Ход: Мы все расследуем, как и почему Испытание Полудня произошло сразу после Рассвета.
 
 # Original: I understand that an unfamiliar situation like this may cause a sense of alarm and anxiety. But there's nothing to worry about as long as you remember the instructions under the Exception #40-AA Measure, which I made sure to mention in every training session!
-Ход: Я понимаю, что незнакомая ситуация, как эта, может вызвать тревогу и беспокойство. Но беспокоиться не о чем, если вы помните инструкции в рамках Меры Исключения #40-АА, о которой я обязательно упоминала на каждой тренировке!  
+Ход: Я понимаю, что незнакомая ситуация, как эта, может вызвать тревогу и беспокойство. Но беспокоиться не о чем, если вы помните инструкции в рамках Меры Исключения #40-АА, о которой я обязательно упоминала на каждой тренировке!
 
 # Original: Exception #40-AA...? Just how many exceptions did she come up with...?
 Грегор: Исключение #40-АА...? Сколько же исключений она придумала...?
 
 # Original: She must be a leader with a very hands-on approach to team management. Commanders who are overprotective of their personnel often make such mistakes.
-Отис: Должно быть, она лидер с очень практичным подходом к управлению командой. Командиры, которые чрезмерно опекают своих подчиненных, часто совершают такие ошибки. 
+Отис: Должно быть, она лидер с очень практичным подходом к управлению командой. Командиры, которые чрезмерно опекают своих подчиненных, часто совершают такие ошибки.
 
 # Original: G-guys, I don't think it's time to share our first impressions...! We don't know what measure she's talking about! At this rate, we'll get—
 Синклер: Р-ребята, не думаю, что сейчас время делиться первыми впечатлениями...! Мы не знаем, о какой мере она говорит! Если так пойдет, нас же—
@@ -173,7 +173,7 @@
 Хитклиф: Ха, а потом сама же запустила чертов гарпун прямиком в плечо Часоголового всего пару месяцев спустя.
 
 # Original: Heh. Like a good circular narrative structure.
-Рёшу: Хех. Как хорошая круговая структура повествования. 
+Рёшу: Хех. Как хорошая круговая структура повествования.
 
 # Original: Okay, you smartasses...
 Измаил: Ладно вам, умники...

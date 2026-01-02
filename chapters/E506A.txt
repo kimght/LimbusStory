@@ -29,7 +29,7 @@
 Синклер: Подарки сделанные из людей...
 
 # Original: Haah... more stuff made from human sacrifice? I guess the Outskirts isn't so different from the City, huh?
-Родион: Хаах... еще больше вещей, сделанных из человеческих жертв? Похоже, Окраины не так уж отличаются от Города, а?
+Родион: Хаах... ещё больше вещей, сделанных из человеческих жертв? Похоже, Окраины не так уж отличаются от Города, а?
 
 # Original: What's really concerning is... who are these gifts for?
 Измаил: То что действительно тревожит, так это... для кого эти подарки?
@@ -38,7 +38,7 @@
 Синклер: Кто... в здравом уме захотел бы что-то подобное?
 
 # Original: Who knows. Rich folks with screwed-up perversions? Maybe that's who they're for.
-Родион: Кто знает. Может, для богатеньких извращенцев с больной фантазией? 
+Родион: Кто знает. Может, для богатеньких извращенцев с больной фантазией?
 
 # Original: Uh... so...
 Хон Лу: Э... так...
@@ -53,7 +53,7 @@
 И Сан: Тогда мы должны действовать без промедления.
 
 # Original: I have discovered a location with a high probability of their presence. Presuming that they haven't been turned into gifts yet.
-Мерсо: Я обнаружил место с высокой вероятностью их присутствия. Предполагая, что их еще не превратили в подарки.
+Мерсо: Я обнаружил место с высокой вероятностью их присутствия. Предполагая, что их ещё не превратили в подарки.
 
 # Original: After a long silence, Meursault spoke up. He pointed in a direction.
 Рассказчик: После долгого молчания, заговорил Мерсо. Он указал в определенном направлении.

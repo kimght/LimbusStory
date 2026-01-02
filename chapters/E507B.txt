@@ -11,7 +11,7 @@
 Мерсо: Я знаком с этим тоном. Диапазон децибел этого крика точно совпадает с голосом Дон Кихот.
 
 # Original: Wait. We have yet to conduct a threat assessment of the combat area. That area appears to be a closed-off space, which means—
-Отис: Подождите. Мы еще не провели оценку угрозы в боевой зоне. Эта область кажется замкнутым пространством, что означает—
+Отис: Подождите. Мы ещё не провели оценку угрозы в боевой зоне. Эта область кажется замкнутым пространством, что означает—
 
 # Original: Outis. Were Heathcliff with us, he would have said as such.
 И Сан: Отис. Будь Хитклиф с нами, он бы сказал следующее.

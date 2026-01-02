@@ -107,7 +107,7 @@
 Повествователь: ... но она беззаботно ухмыльнулась.
 
 # Original: Oh yeah, it started hurting more and more the closer I got to Ticket.
-Валенсина: О да, он начал болеть всё сильнее, чем ближе я подходила к Билетик.
+Валенсина: О да, он начал болеть всё сильнее, чем ближе я подходила к Билетику.
 
 # Original: But it's gonna get better. Ticket's about to leave this place, you see.
 Валенсина: Но скоро станет лучше. Видишь ли, Билетик скоро покинет это место.
@@ -128,7 +128,7 @@
 Повествователь: ... но сделав несколько глубоких вдохов, она заметно расслабилась и продолжила.
 
 # Original: Glad you finally figured that out. Now fuck off as soon as that Backdoor opens.
-Валенсина: Рада, что ты наконец это поняла. Теперь проваливай, как только откроется этот Черный Ход.
+Валенсина: Рада, что ты наконец это поняла. Теперь проваливай, как только откроется этот Чёрный Ход.
 
 # Original: The other Nursefathers are waiting for you there, so show some proper manners.
 Валенсина: Там тебя ждут другие Отцы-воспитатели, так что прояви должные манеры.
@@ -167,7 +167,7 @@
 Повествователь: Не сводя глаз с Вергилия, Отец-воспитатель Большого Пальца медленно отступила от Черного Хода, открывая нам путь.
 
 # Original: <The Backdoor to the HQ hasn't opened yet. We have to rescue Charon first, then—>
-Данте: <Черный Ход в Штаб-квартиру ещё не открылся. Сначала мы должны спасти Харон, а потом—>
+Данте: <Чёрный Ход в Штаб-квартиру ещё не открылся. Сначала мы должны спасти Харон, а потом—>
 
 # Original: Do not hesitate, Dante. That... is indeed the path you must bring the Sinners to.
 Вергилий: Не медли, Данте. Это... действительно тот путь, по которому ты должен вести Грешников.
@@ -176,7 +176,7 @@
 Повествователь: Вергилий продолжал холодно, словно читал мои мысли.
 
 # Original: In fact, you should go through the Backdoor like she says if you want to help Charon.
-Вергилий: На самом деле, тебе стоит пройти через Черный Ход, как она и говорит, если хочешь помочь Харон.
+Вергилий: На самом деле, тебе стоит пройти через Чёрный Ход, как она и говорит, если хочешь помочь Харон.
 
 # Original: This entire circumstance at the Backdoor has been engineered to hold me, and only me, back. And what awaits beyond the Backdoor... is what they have orchestrated to summon you and Sinner #4 there.
 Вергилий: Вся эта ситуация у Черного Хода была подстроена лишь для того, чтобы удержать меня, и только меня. А то, что ждёт за Черным Ходом... это то, что они организовали, чтобы заманить туда тебя и Грешницу №4.
@@ -194,7 +194,7 @@
 Сод: Но... но все файрволлы, защищающие соединение со Штаб-квартирой, были обойдены... Что?..
 
 # Original: Then, it must be via the defenseless Backdoor, or Backdoors, through which the intruders have broken in.
-И Сан: Значит, вторжение произошло через беззащитный Черный Ход или Ходы.
+И Сан: Значит, вторжение произошло через беззащитный Чёрный Ход или Ходы.
 
 # Original: Portal connection to HQ... established.
 Сод: Соединение портала со Штаб-квартирой... установлено.
@@ -254,4 +254,4 @@
 Фауст: ... Пойдёмте, Данте.
 
 # Original: With Vergilius's words hanging heavily over us, we made our way into the Backdoor connected to the HQ Research Facility.
-Повествователь: С тяжёлым осадком от слов Вергилия мы направились в Черный Ход, ведущий в Исследовательский центр штаб-квартиры.
+Повествователь: С тяжёлым осадком от слов Вергилия мы направились в Чёрный Ход, ведущий в Исследовательский центр штаб-квартиры.

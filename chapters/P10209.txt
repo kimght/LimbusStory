@@ -53,7 +53,7 @@
 Отис: Похоже, другим Дворецким требуется... дополнительное обучение.
 
 # Original: Her fingers were wet with blood, yet to be cleaned.
-Рассказчик: Её пальцы были влажными от крови, которую еще не очистили.
+Рассказчик: Её пальцы были влажными от крови, которую ещё не очистили.
 
 # Original: It appears that the clean-up for the battle they conducted against the uninvited guests earlier wasn't as thorough as it should've been.
 Рассказчик: Похоже, что уборка после битвы, которую они провели против незваных гостей ранее, была не столь тщательной, как следовало бы.
@@ -71,7 +71,7 @@
 Фауст: Понятно, мэм.
 
 # Original: Very good. Now head downstairs. They are still training hard for the hunt, yes?
-Отис: Очень хорошо. Теперь спускайся вниз. Они все еще усердно тренируются для охоты, да?
+Отис: Очень хорошо. Теперь спускайся вниз. Они все ещё усердно тренируются для охоты, да?
 
 # Original: Indeed. Everything is proceeding as you have ordered.
 Фауст: Действительно. Все идет так, как вы приказали.
@@ -101,7 +101,7 @@
 Фауст: Очень хорошо. Пожалуйста, продолжайте.
 
 # Original: Oh, and another thing...
-Фауст: О, и еще кое-что...
+Фауст: О, и ещё кое-что...
 
 # Original: Chief Butler Lady Outis had a comment regarding your 'cleanup' performance.
 Фауст: У Главного Дворецкого леди Отис был комментарий относительно вашей работы по "уборке".

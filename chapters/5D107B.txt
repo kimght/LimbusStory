@@ -92,7 +92,7 @@
 Ахав: Мое сердце – вот твоя Золотая Ветвь, твоя добыча, сокровище, которое ты так отчаянно ищешь в конце своего путешествия.
 
 # Original: I knew that, deep inside, you were still a sailor and a harpooneer. An excellent one at that.
-Ахав: Я знала, что глубоко внутри ты все еще моряк и гарпунщица. Превосходная, к тому же.
+Ахав: Я знала, что глубоко внутри ты все ещё моряк и гарпунщица. Превосходная, к тому же.
 
 # Original: From the moment of our reunion to now, you've been stabbing me over and over again in your head. And not once have you averted your eyes.
 Ахав: С момента нашей встречи и до сих пор ты снова и снова пронзала меня в своей голове. И ни разу не отвела глаз.
@@ -128,7 +128,7 @@
 Ахав: Ну же! Разве ты не хочешь разорвать мои артерии?
 
 # Original: Allow me to make this task even easier for you. Shall I turn my neck so that my veins are plain to see?! All of this is yours... as long as I can achieve my goal.
-Ахав: Позволь мне сделать эту задачу еще проще для тебя. Может, мне повернуть шею так, чтобы мои вены были хорошо видны?! Все это твое... до тех пор пока я могу достичь своей цели.
+Ахав: Позволь мне сделать эту задачу ещё проще для тебя. Может, мне повернуть шею так, чтобы мои вены были хорошо видны?! Все это твое... до тех пор пока я могу достичь своей цели.
 
 # Original: Oh, what a keen harpoon you have whetted! I can imagine the nights you've spent sharpening it, drawing a picture of my painful demise. You must have felt it—the call of destiny, your fate! Just as I have!!!
 Ахав: О, какой острый гарпун ты наточила! Я могу представить ночи, которые ты провела, затачивая его, рисуя картину моей мучительной смерти. Ты должно быть чувствовала это — зов судьбы, твое предназначение! Точно так же, как и я!!!
@@ -149,7 +149,7 @@
 Ахав: Потому что даже сейчас, даже когда кончик твоего острого как бритва гарпуна щекочет пушок на моей шее, ты хорошо знаешь правду.
 
 # Original: That you are still too weak to kill me.
-Ахав: Что ты все еще слишком слаба, чтобы убить меня.
+Ахав: Что ты все ещё слишком слаба, чтобы убить меня.
 
 # Original: How pitiful, yet how clever... The girl knows her place.
 Ахав: Как жалко, но как умно... Девчонка знает свое место.

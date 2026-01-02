@@ -134,7 +134,7 @@
 Фауст: ... Действительно. Отсутствие плана становится самим планом.
 
 # Original: This solidifies the veracity of my new theory even further.
-Фауст: Это еще больше подтверждает верность моей новой теории.
+Фауст: Это ещё больше подтверждает верность моей новой теории.
 
 # Original: Luckily, we didn't lose any Sinners on the way down. All 12 of them made it down here, just as we planned.
 Рассказчик: К счастью, мы не потеряли ни одного Грешника по пути вниз. Все 12 из них добрались сюда, как мы и планировали.
