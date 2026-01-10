@@ -48,14 +48,14 @@
       "model": "늑대",
       "teller": "Волчица",
       "title": "???",
-      "content": "How long are you going to lie there, Lion? We don’t have time."
+      "content": "You getting off your ass anytime soon, Lion? We don’t have time for this."
     },
     {
       "id": -1,
       "model": "사자",
       "teller": "Львица",
       "title": "???",
-      "content": "…You know, you’re right. No need to make this longer than it has to be."
+      "content": "… You know, you’re right. No need to make this longer than it has to be."
     },
     {
       "id": 8,
@@ -148,7 +148,7 @@
       "model": "사자",
       "teller": "Львица",
       "title": "???",
-      "content": "Aah~ I took my sweet time. Let’s finish this for real!"
+      "content": "Aah~ Sure took my sweet time. Let’s finish this for real!"
     },
     {
       "id": 22,
