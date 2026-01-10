@@ -1,4 +1,4 @@
-﻿# Original: After a while of carefully sailing on Skadi’s raft along the coastal cliffs, a gargantuan, shrouded lighthouse emerged from the thick mist.
+# Original: After a while of carefully sailing on Skadi’s raft along the coastal cliffs, a gargantuan, shrouded lighthouse emerged from the thick mist.
 Рассказчик: Спустя некоторое время осторожного плавания на плоту Скади вдоль прибрежных скал из густого тумана показался гигантский, окутанный мглой маяк.
 
 # Original: … Eye of Iberia.
@@ -222,9 +222,6 @@
 
 # Original: I mean, what’s the worst that could happen? Get Corroded?
 Измаил: В смысле, что худшее может случиться? Подвергнусь Коррозии?
-
-# Original: //스카디 인게임 SD 연출//
-Рассказчик: //스카디 인게임 SD 연출//
 
 # Original: Uhh, uhhh!? C-cracks on the lighthouse are growing!
 Синклер: Ой, ой?! Т-трещины на маяке становятся всё больше!

@@ -70,9 +70,6 @@
 # Original: I hear you, Manager Bud. Let’s do this.
 Грегор: Я вас понял, менеджер-дружище. Давайте-ка провернём это.
 
-# Original: /무에나 에고 연출/
-Рассказчик: /Активация ЭГО Муэны/
-
 # Original: The incandescent, golden blades of light surge forth, cleaving through the darkness of the sea.
 Рассказчик: Раскалённые золотые клинки света устремляются вперёд, рассекая тьму моря.
 

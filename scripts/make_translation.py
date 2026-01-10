@@ -2,16 +2,16 @@ import json
 import pathlib
 
 from .utils import (
+    apply_places,
+    apply_tellers,
+    apply_titles,
+    apply_translations,
     get_reference_chapters,
     load_places,
     load_story_lines,
     load_tellers,
-    load_translations,
     load_titles,
-    apply_translations,
-    apply_titles,
-    apply_tellers,
-    apply_places,
+    load_translations,
 )
 
 
@@ -32,13 +32,17 @@ def main():
         if chapter_id not in reference_chapters:
             continue
 
-        story_lines = load_story_lines(reference_chapters[chapter_id])
-        translations = load_translations(chapter)
+        try:
+            story_lines = load_story_lines(reference_chapters[chapter_id])
+            translations = load_translations(chapter)
 
-        result = apply_translations(story_lines, translations)
-        result = apply_titles(result, titles)
-        result = apply_tellers(result, tellers)
-        result = apply_places(result, places)
+            result = apply_translations(story_lines, translations)
+            result = apply_titles(result, titles)
+            result = apply_tellers(result, tellers)
+            result = apply_places(result, places)
+        except Exception as e:
+            print(f"Error processing chapter {chapter_id}: {e}")
+            raise e
 
         with open(dist_path / f"{chapter_id}.json", "w", encoding="utf-8-sig") as f:
             json.dump(

@@ -119,10 +119,10 @@
 Напуганный исследователь: По-по-под-атакой—
 
 # Original: My darling daughter. I hope you've been doing well for yourself out there.
-Рьян: Моя дорогая дочь. Надеюсь, у тебя там всё было хорошо.
+Риен: Моя дорогая дочь. Надеюсь, у тебя там всё было хорошо.
 
 # Original: But don't you think it's about time you stopped playing and came home?
-Рьян: Но не думаешь ли ты, что тебе пора перестать играть и вернуться домой?
+Риен: Но не думаешь ли ты, что тебе пора перестать играть и вернуться домой?
 
 # Original: Utter silence descends as a kindly calling cuts off the bloodcurdling scream from the other side.
 Рассказчик: Воцаряется абсолютная тишина, когда ласковый зов обрывает леденящий душу крик на другом конце.
