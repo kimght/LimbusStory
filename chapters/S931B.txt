@@ -146,7 +146,7 @@ Aeng-du: Госпожа лидер команды выразила мнение,
 Jamila: Всё готово к развертыванию... с нашей стороны тоже.
 
 # Original: LCA Vanguard Team 1, Udjat. Radio check.
-Jamila: Авангардный отряд LCA №1, Уджат. Проверка связи.
+Jamila: 1-й отряд Авангарда LCA, Уджат. Проверка связи.
 
 # Original: ... Reading you loud and clear. LCA Team 1 ready for assault.
 Jamila: ... Слышу вас громко и четко. Отряд LCA №1 готов к штурму.
