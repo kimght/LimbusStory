@@ -1,0 +1,65 @@
+﻿{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Корридор Безымянного",
+      "model": "약지아비",
+      "content": "Your eyes have been witnesses to... such a vast spectrum of slaughter.\nКаллисто: Твои глаза были свидетелями... столь обширного спектра кровопролития."
+    },
+    {
+      "id": 1,
+      "model": "약지아비",
+      "content": "I implore you, please... tell me. How does my gallery appear...\nКаллисто: Умоляю тебя, прошу... скажи мне. Какой предстает моя галерея..."
+    },
+    {
+      "id": 2,
+      "model": "약지아비",
+      "content": "... reflected in those eyes...?\nКаллисто: ... отражаясь в этих глазах...?"
+    },
+    {
+      "id": 3,
+      "model": "각성싱클레어1",
+      "content": ".......\nСинклер: ......."
+    },
+    {
+      "id": 4,
+      "model": "각성싱클레어1",
+      "content": "It's trashy.\nСинклер: Это безвкусица."
+    },
+    {
+      "id": 5,
+      "model": "각성싱클레어1",
+      "content": "Like some things my life has led me to see as of late.\nСинклер: Как и многое из того, что мне довелось повидать за последнее время."
+    },
+    {
+      "id": 6,
+      "model": "약지아비",
+      "content": ".......\nКаллисто: ......."
+    },
+    {
+      "id": 7,
+      "model": "약지아비",
+      "content": "The things you've witnessed... Allow me to see it, too...\nКаллисто: То, чему ты был свидетелем... Позволь и мне это увидеть..."
+    },
+    {
+      "id": 8,
+      "model": "각성싱클레어2",
+      "content": "It'd be meaningless to try to explain them with words.\nСинклер: Пытаться объяснить это словами было бы бессмысленно."
+    },
+    {
+      "id": 9,
+      "model": "약지아비",
+      "content": "Aah...\nКаллисто: А-а..."
+    },
+    {
+      "id": 10,
+      "model": "약지아비",
+      "content": "Yes, and that is... And that is enough.\nКаллисто: Да, и этого... И этого достаточно."
+    },
+    {
+      "id": 11,
+      "model": "각성싱클레어2",
+      "content": "... So it is.\nСинклер: ... Так и есть."
+    }
+  ]
+}
