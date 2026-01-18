@@ -1,0 +1,125 @@
+# Original: .......
+Лучио: .......
+
+# Original: Why don't you... yield? You're too injured to fight.
+Грегор: Почему ты не... сдашься? Ты слишком ранен, чтобы драться.
+
+# Original: Please... tell me what you think.
+Лучио: Прошу... скажи мне, что ты думаешь.
+
+# Original: Would Yoshihide have forfeited the battle by this point? Or do you think...
+Лучио: Отказалась бы Ёсихидэ от битвы к этому моменту? Или ты думаешь...
+
+# Original: ... she wouldn't have put herself in this situation to begin with...?
+Лучио: ... она бы изначально не загнала себя в такую ситуацию...?
+
+# Original: How many times do I have to remind you? Forget all the useless flourishing and just go for the heart! The heart!
+Валенсина: Сколько раз мне нужно тебе напоминать? Забудь все эти бесполезные выкрутасы и бей прямо в сердце! В сердце!
+
+# Original: I've given you plenty of demonstrations, haven't I?!
+Валенсина: Я же тебе кучу раз показывала, разве нет?!
+
+# Original: Are you really gonna make me watch those clowns mop the floor with you?!
+Валенсина: Ты правда заставишь меня смотреть, как эти клоуны вытирают тобой пол?!
+
+# Original: Bloody hell, she sure is a gasbag. Tell 'er to shut up, won't you?
+Хитклифф: Черт возьми, ну и балаболка же она. Скажи ей, пусть заткнется, а?
+
+# Original: ... I've always known that this day would come.
+Лучио: ... Я всегда знал, что этот день настанет.
+
+# Original: But I was hoping... to meet my end while dueling Yoshihide herself... someone who was supposed to study... me...
+Лучио: Но я надеялся... встретить свой конец в дуэли с самой Ёсихидэ... той, кто должна была изучать... меня...
+
+# Original: So that the next Textbook can...
+Лучио: Чтобы следующий Учебничек мог...
+
+# Original: ... learn from my mistakes... and make appropriate corrections to its content...
+Лучио: ... научиться на моих ошибках... и внести соответствующие поправки в свое содержание...
+
+# Original: Hey, wait—
+Грегор: Эй, погоди—
+
+# Original: Stab the heart in front of you! Stab that bastard's heart! Now!
+Валенсина: Пырни сердце прямо перед собой! Проткни сердце этого ублюдка! Живо!
+
+# Original: I cut apples in half
+Грегор: <i>я режу яблоки пополам</i>
+
+# Original: Hngh... Stop...
+Грегор: Хнгх... Хватит...
+
+# Original: This right here is why you still haven't graduated from being a Textbook, do you hear me?!
+Валенсина: Именно поэтому ты до сих пор не выпустился из Учебничков, ты слышишь меня?!
+
+# Original: Some were hard some crumbly some were soft some sappy
+Грегор: <i>одни были твердые одни рыхлые одни были мягкие одни сочные</i>
+
+# Original: Your breathing is growing irregular... I understand.
+Лучио: Твое дыхание становится неровным... Я понимаю.
+
+# Original: This place has a way of... driving people completely mad.
+Лучио: У этого места есть свойство... сводить людей с ума окончательно.
+
+# Original: The sugary smell...
+Грегор: Сладкий запах...
+
+# Original: ... makes me...
+Грегор: ... заставляет меня...
+
+# Original: …….
+Вергилий: .......
+
+# Original: Looks like...
+Вергилий: Похоже...
+
+# Original: ... you've finally been freed from your bundle of liability.
+Вергилий: ... ты наконец освободилась от своей обузы.
+
+# Original: Well? Do you feel liberated now, as you've always wanted?
+Вергилий: Ну что? Чувствуешь теперь свободу, как всегда хотела?
+
+# Original: ... What, are you saying Lucio died or something?
+Валенсина: ... Чего, ты хочешь сказать, что Лучио сдох или типа того?
+
+# Original: Had his heart stabbed right out of him.
+Вергилий: Ему выкололи сердце.
+
+# Original: Isn't this what you wanted? You got your heart.
+Вергилий: Разве не этого ты хотела? Ты получила свое сердце.
+
+# Original: ... Fuck off... with your bullshit.
+Валенсина: ... Отъебись ты... со своим бредом.
+
+# Original: Hey, Lucio!
+Валенсина: Эй, Лучио!
+
+# Original: Don't you dare ignore me. Say something.
+Валенсина: Не смей меня игнорировать. Скажи что-нибудь.
+
+# Original: Lazy little shit! You haven't even done a quarter of what you're meant to do. Who said you could lie down there like you're done?!
+Валенсина: Ленивый мелкий говнюк! Ты не сделал даже четверти того, что должен был. Кто разрешил тебе валяться тут, будто ты уже всё?!
+
+# Original: …….
+Грегор: .......
+
+# Original: ... Mate, you... you alright?
+Хитклифф: ... Приятель, ты... ты в порядке?
+
+# Original: ... Ah...
+Валенсина: ... А...
+
+# Original: Wha... what...
+Валенсина: Чт... что...
+
+# Original: What the fuck have you done, vermin?!
+Валенсина: Что, блять, ты натворил, паразит?!
+
+# Original: Nngh...
+Грегор: Ннгх...
+
+# Original: You... disgusting little shit...!
+Валенсина: Ты... мерзкий мелкий говнюк...!
+
+# Original: Greg—!
+Родион: Грег—!

@@ -446,7 +446,7 @@
 Священник: …….
 
 # Original: On that day... when the Machine Purge took place... I was already a dead man.
-Священник: В тот день... когда произошла Машинная Чистка... я уже был мертвецом.
+Священник: В тот день... когда произошла Чистка Машин... я уже был мертвецом.
 
 # Original: The will of the Father is the will of my own.
 Священник: Воля Отца — моя воля.

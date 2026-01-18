@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "original": "Samjo",
     "translation": "Самджо",
@@ -3382,5 +3382,94 @@
     "original": "Araya",
     "translation": "Арая",
     "model": "료슈딸"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация",
+    "model": "9장소드다침"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "료슈딸2"
+  },
+  {
+    "original": "Araya",
+    "translation": "Арая",
+    "model": "소지아비"
+  },
+  {
+    "original": "Araya",
+    "translation": "Арая",
+    "model": "아라야정장"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация",
+    "model": "LCD앵두"
+  },
+  {
+    "original": "Old-model TV",
+    "translation": "Старый телевизор"
+  },
+  {
+    "original": "Mall Shopkeeper",
+    "translation": "Владелец магазина в торговом центре"
+  },
+  {
+    "original": "Rational and Brilliant Faust",
+    "translation": "Рациональная и Гениальная Фауст"
+  },
+  {
+    "original": "Unbending, Proactive, and Resourceful Faust",
+    "translation": "Непреклонная, Инициативная и Находчивая Фауст"
+  },
+  {
+    "original": "August and Dignified Faust",
+    "translation": "Величественная и преисполненная достоинства Фауст"
+  },
+  {
+    "original": "Lovely and Guileful Faust",
+    "translation": "Милая и Коварная Фауст"
+  },
+  {
+    "original": "Naive Faust?",
+    "translation": "Наивная Фауст?",
+    "model": "파우스트"
+  },
+  {
+    "original": "Astute and Intelligent Faust",
+    "translation": "Проницательная и Умная Фауст"
+  },
+  {
+    "original": "Stupid Faust?",
+    "translation": "Глупая Фауст?",
+    "model": "파우스트"
+  },
+  {
+    "original": "Ryōshū",
+    "translation": "Рёшу"
+  },
+  {
+    "original": "Terrified Victim",
+    "translation": "Напуганная жертва"
+  },
+  {
+    "original": "Dying Victim",
+    "translation": "Умирающая жертва"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация",
+    "model": "9장소드다침2"
+  },
+  {
+    "original": "Target of the House of Spiders",
+    "translation": "Цель Дома Пауков"
+  },
+  {
+    "original": "Araya",
+    "translation": "Арая",
+    "model": "아라야정장2"
   }
 ]

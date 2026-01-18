@@ -53,7 +53,7 @@
 Данте: <Уже так темно и всю улицу сильно заволокло туманом… Мы можем потеряться во времени.>
 
 # Original: Seems particularly darker around this area we're in. ... Well, compared to the Smoke War days, it's still bright as a sunny day.
-Грегор: Да, здесь особенно неприятно… Ну, по сравнению с Дымной войной тут ещё солнышко светит и птички поют.
+Грегор: Да, здесь особенно неприятно… Ну, по сравнению с Дымовой войной тут ещё солнышко светит и птички поют.
 
 # Original: Hm... I suppose that's true.
 Отис: Хм… И вправду.
@@ -65,7 +65,7 @@
 Фауст: Во время работы механизмов выбрасывается большое количество дыма, и извлечение цветов делает окружающую картину безжизненно серой.
 
 # Original: Of course, I must also inform you that the conditions have improved somewhat after the Smoke War due to the various extenuating, prohibitive conditions introduced by the outcome of that war that limits the production of smoke. Before the war—
-Фауст: Конечно, со времён Дымной войны эффект был ослаблен, но до этого…
+Фауст: Конечно, со времён Дымовой войны эффект был ослаблен, но до этого…
 
 # Original: We have no time for idle chatter! Come now!
 Энду: Разве у нас есть время на лекции? Заходите быстрее!
