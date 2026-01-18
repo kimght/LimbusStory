@@ -215,10 +215,10 @@ Rien: Судя по всему, моя дорогая дочь заходила 
 Rien: Её кровь, видишь ли... уникальным образом взаимодействует с течением времени. Вот что позволяло ей входить сюда невредимой.
 
 # Original: You, too, were born with Yoshihide's blood because the higher-ups of the Thumb wished for another candidate with an innate aptitude to wield Arayashiki, however...
-Rien: Ты тоже родилась с кровью Ёсихидэ, потому что верхушка Большого Пальца желала получить ещё одного кандидата с врождённой способностью владеть Араяшики, однако...
+Rien: Ты тоже родилась с кровью Ёшихидэ, потому что верхушка Большого Пальца желала получить ещё одного кандидата с врождённой способностью владеть Араяшики, однако...
 
 # Original: The fact is it's simply impossible for you to ever match my Yoshihide's aptitude for it.
-Rien: Дело в том, что тебе просто невозможно сравниться в способностях с моей Ёсихидэ.
+Rien: Дело в том, что тебе просто невозможно сравниться в способностях с моей Ёшихидэ.
 
 # Original: Blood—yes, blood is important, but it's only the first and most basic requirement. What really counts is how you <i>sense</i> time.
 Rien: Кровь — да, кровь важна, но это лишь первое и самое базовое требование. Что действительно важно, так это то, как ты <i>чувствуешь</i> время.
@@ -239,7 +239,7 @@ Araya: …….
 Rien: Понятия не имею, какая эмоция заставила тебя распахнуть ту дверь...
 
 # Original: But we will be reunited with Yoshihide again, without fail.
-Rien: Но мы снова воссоединимся с Ёсихидэ, непременно.
+Rien: Но мы снова воссоединимся с Ёшихидэ, непременно.
 
 # Original: Because as long as that child remains incomplete, the House of Spiders... will endure.
 Rien: Ведь пока это дитя остаётся незавершённым, Дом Пауков... будет стоять.

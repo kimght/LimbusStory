@@ -89,7 +89,7 @@ Yoshihide: Давай, прочти.
 Yoshihide: Нет... Эти буквы читаются не так...
 
 # Original: "Yoshihide." That's how you say it.
-Yoshihide: «Ёсихидэ». Вот так это произносится.
+Yoshihide: «Ёшихидэ». Вот так это произносится.
 
 # Original: "Ryō-shū!"
 ???: «Рё-шу!»

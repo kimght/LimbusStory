@@ -134,7 +134,7 @@
 Кира: А? В-видишь что? Я ничего не вижу!
 
 # Original: Bwahaha! You don't? You really don't see it? Shucks, Kiddo~ Ya gotta work harder if you wanna be as sharp as Yoshihide!
-Маттиас: Бу-га-га! Не видишь? Реально не видишь? Блин, Малая~ Тебе надо больше стараться, если хочешь быть такой же четкой, как Ёсихидэ!
+Маттиас: Бу-га-га! Не видишь? Реально не видишь? Блин, Малая~ Тебе надо больше стараться, если хочешь быть такой же четкой, как Ёшихидэ!
 
 # Original: Now open your eyes and take a closer look. See that purple flash? It's that thing there... bouncing around and pouring electric currents into the bodies.
 Маттиас: А теперь открой глаза и присмотрись. Видишь ту фиолетовую вспышку? Это вон та хреновина... скачет вокруг и вливает электрический ток в тела.

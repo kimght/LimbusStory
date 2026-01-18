@@ -50,22 +50,22 @@ Dante: <Они сделаны теми "Отцами-воспитателями"
 Каллисто: Коснись его, если желаешь. Чувствуют ли твои пальцы контур лезвия вдоль волокон мускулатуры, её сухожилий и связок?
 
 # Original: …….
-Ёсихидэ: …….
+Ёшихидэ: …….
 
 # Original: The bones of the one most desperate for life... have become a blade best fit to reap it.
-Ёсихидэ: Кости того, кто отчаяннее всего цеплялся за жизнь... стали клинком, лучше всего подходящим для того, чтобы её пожинать.
+Ёшихидэ: Кости того, кто отчаяннее всего цеплялся за жизнь... стали клинком, лучше всего подходящим для того, чтобы её пожинать.
 
 # Original: Indeed it has, hasn't it? I knew from the fathoms of my heart that you could appreciate the true value of this piece, Yoshihide.
-Каллисто: И вправду стали, не так ли? Я знал из самой глубины своего сердца, что ты сможешь оценить истинную ценность этого произведения, Ёсихидэ.
+Каллисто: И вправду стали, не так ли? Я знал из самой глубины своего сердца, что ты сможешь оценить истинную ценность этого произведения, Ёшихидэ.
 
 # Original: The care put into this piece I have so painstakingly birthed into the world is greater than that of any other work of mine. The smallest fracture or imbalance could instantly render it useless.
 Каллисто: Забота, вложенная в это произведение, которое я с таким трудом явил на свет, превосходит любую другую мою работу. Малейшая трещина или дисбаланс могут мгновенно сделать его бесполезным.
 
 # Original: Once this piece is complete, dearest Yoshihide, I would like for you to wield it.
-Каллисто: Когда это произведение будет завершено, дорогая Ёсихидэ, я бы хотел, чтобы ты взяла его в руки.
+Каллисто: Когда это произведение будет завершено, дорогая Ёшихидэ, я бы хотел, чтобы ты взяла его в руки.
 
 # Original: I will.
-Ёсихидэ: Обязательно.
+Ёшихидэ: Обязательно.
 
 # Original: Never got to finish that precious piece he'd always ramble about... did he?
 Рёшу: Так и не закончил то драгоценное произведение, о котором вечно разглагольствовал... верно?

@@ -1,5 +1,5 @@
 # Original: So, what do you think, Yoshihide? This concept is called "Minimalism."
-Каллисто: Ну, что думаешь, Ёсихидэ? Эта концепция называется «Минимализм».
+Каллисто: Ну, что думаешь, Ёшихидэ? Эта концепция называется «Минимализм».
 
 # Original: A bold removal of the unnecessary for the preservation of the essence.
 Каллисто: Смелое удаление ненужного ради сохранения сути.
@@ -14,52 +14,52 @@
 Напуганная жертва: Отец... Где... ты...
 
 # Original: Dad...
-Ёсихидэ: Папа...
+Ёшихидэ: Папа...
 
 # Original: This is just too cruel... I don't wanna see it...!
-Ёсихидэ: Это просто слишком жестоко... Я не хочу это видеть...!
+Ёшихидэ: Это просто слишком жестоко... Я не хочу это видеть...!
 
 # Original: .......
-Ёсихидэ: .......
+Ёшихидэ: .......
 
 # Original: Yoshihide, that is because you are focusing only on the present. Allow yourself to look beyond the subject's momentary suffering—and there you will discover the perpetuity of the structure we will shape from it.
-Каллисто: Ёсихидэ, это потому, что ты сосредотачиваешься только на настоящем. Позволь себе заглянуть за пределы сиюминутного страдания субъекта — и там ты обнаружишь вечность структуры, которую мы из него сформируем.
+Каллисто: Ёшихидэ, это потому, что ты сосредотачиваешься только на настоящем. Позволь себе заглянуть за пределы сиюминутного страдания субъекта — и там ты обнаружишь вечность структуры, которую мы из него сформируем.
 
 # Original: Let us review. The simplicity with which a straight line sunders is a primordial form of structuralism.
 Каллисто: Давай повторим. Простота, с которой рассекает прямая линия, — это первобытная форма структурализма.
 
 # Original: I will raise you as a precious pupil of mine, a companion to all of my future artwork. So please, Yoshihide—follow along with my classes.
-Каллисто: Я воспитаю тебя как свою драгоценную ученицу, спутницу всех моих будущих произведений искусства. Поэтому, прошу, Ёсихидэ, следи за ходом моих уроков.
+Каллисто: Я воспитаю тебя как свою драгоценную ученицу, спутницу всех моих будущих произведений искусства. Поэтому, прошу, Ёшихидэ, следи за ходом моих уроков.
 
 # Original: To reveal the beautiful, original form of the human corpus to the world, the skin must be removed, and the spine severed. That approach, however, runs the risk of being far too safe with the composition.
 Каллисто: Чтобы явить миру прекрасную, первозданную форму человеческого тела, кожу необходимо удалить, а позвоночник — рассечь. Этот подход, однако, несет в себе риск слишком осторожного обращения с композицией.
 
 # Original: After all, art is a culmination of moments and choices, and the suffering therein... Yoshihide, will you impart your impression of this piece, how it appears in your eyes...?
-Каллисто: В конце концов, искусство — это кульминация моментов и выборов, и страдания в них... Ёсихидэ, поделишься своим впечатлением от этого произведения? Каким оно предстает в твоих глазах...?
+Каллисто: В конце концов, искусство — это кульминация моментов и выборов, и страдания в них... Ёшихидэ, поделишься своим впечатлением от этого произведения? Каким оно предстает в твоих глазах...?
 
 # Original: I'd say my tastes lean closer to...
-Ёсихидэ: Я бы сказала, что мои вкусы склоняются скорее к...
+Ёшихидэ: Я бы сказала, что мои вкусы склоняются скорее к...
 
 # Original: ... the appreciation of the negative space. Not this kind of butchershop job.
-Ёсихидэ: ... оценке негативного пространства. А не к такой вот работе мясника.
+Ёшихидэ: ... оценке негативного пространства. А не к такой вот работе мясника.
 
 # Original: Butchershop, Yoshihide? I was simply hoping to replicate the striking visual imagery of Fauvism.
-Каллисто: Мясника, Ёсихидэ? Я просто надеялся воспроизвести поразительную визуальную образность Фовизма.
+Каллисто: Мясника, Ёшихидэ? Я просто надеялся воспроизвести поразительную визуальную образность Фовизма.
 
 # Original: Nngh... Do you have any idea who I am?! I'm—I'm—!
 Умирающая жертва: Нгх... Ты хоть знаешь, кто я?! Я — я...!
 
 # Original: Her squealing's getting... real grating.
-Ёсихидэ: Её визг становится... реально раздражающим.
+Ёшихидэ: Её визг становится... реально раздражающим.
 
 # Original: I prefer my canvases quiet.
-Ёсихидэ: Я предпочитаю, чтобы мои холсты молчали.
+Ёшихидэ: Я предпочитаю, чтобы мои холсты молчали.
 
 # Original: Ah, you are finally enlightened enough to engage with me in a discourse of tastes.
 Каллисто: Ах, наконец-то ты достаточно просвещена, чтобы вступить со мной в дискуссию о вкусах.
 
 # Original: I'm so happy, Yoshihide...
-Каллисто: Я так счастлив, Ёсихидэ...
+Каллисто: Я так счастлив, Ёшихидэ...
 
 # Original: Perhaps you will evolve beyond simply learning the art movements created by the other Maestros of the Ring, and...
 Каллисто: Возможно, ты перерастешь простое изучение течений искусства, созданных другими Маэстро Безымянного, и...
@@ -74,7 +74,7 @@
 Алиса: Нгх...
 
 # Original: While we certainly had conflicting subjectivities when it came to our tastes... I helped to form the structure and the intellectual framework through which Yoshihide's unique aesthetic sense and her exceptional eye for artistic beauty could thrive.
-Каллисто: Хотя у нас определенно были противоречивые субъективности в вопросах вкусов... я помог сформировать структуру и интеллектуальную основу, благодаря которым уникальное эстетическое чувство Ёсихидэ и её исключительный взгляд на художественную красоту смогли расцвести.
+Каллисто: Хотя у нас определенно были противоречивые субъективности в вопросах вкусов... я помог сформировать структуру и интеллектуальную основу, благодаря которым уникальное эстетическое чувство Ёшихидэ и её исключительный взгляд на художественную красоту смогли расцвести.
 
 # Original: Alyssa...!
 Измаил: Алиса...!
@@ -401,7 +401,7 @@
 Каллисто: ... Моя миндалина дрожит. Миндалевидное тело связано со стволом мозга, который задействован в эмоциональных центрах мозга.
 
 # Original: Ah... when Yoshihide shattered that sword of mine so long ago...
-Каллисто: Ах... когда Ёсихидэ разбила тот мой меч так давно...
+Каллисто: Ах... когда Ёшихидэ разбила тот мой меч так давно...
 
 # Original: ... I believe I felt an emotion similar to this.
 Каллисто: ... Полагаю, я испытывал эмоцию, похожую на эту.

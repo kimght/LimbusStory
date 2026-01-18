@@ -158,13 +158,13 @@ Ren: Озорные взрослые любят задавать детям шу
 Ren: Кого ты любишь больше: маму или папу? Тебе больше нравится клубничное мороженое или шоколадное?
 
 # Original: Perhaps my master, Yoshihide... considers you naught but a child still.
-Ren: Возможно, моя госпожа, Ёсихидэ... все еще считает тебя лишь ребёнком.
+Ren: Возможно, моя госпожа, Ёшихидэ... все еще считает тебя лишь ребёнком.
 
 # Original: Get to the point, or you'll find out firsthand how exactly your master lost her tongue.
 Ryōshū: Переходи к делу, или ты на собственном опыте узнаешь, как именно твоя госпожа лишилась языка.
 
 # Original: I present before you, Yoshihide... and your companions... a choice.
-Ren: Я предлагаю тебе, Ёсихидэ... и твоим спутникам... выбор.
+Ren: Я предлагаю тебе, Ёшихидэ... и твоим спутникам... выбор.
 
 # Original: The Golden Boughs... and the child. If you could return with only one of the two...
 Ren: Золотые Ветви... и ребёнок. Если бы вы могли вернуться только с одним из двух...
@@ -221,7 +221,7 @@ Callisto: Полагаю, это должно стать следующей те
 Rien: ... Мм.
 
 # Original: "Yoshihide" should be a good name for her.
-Rien: «Ёсихидэ» должно быть хорошим именем для неё.
+Rien: «Ёшихидэ» должно быть хорошим именем для неё.
 
 # Original: ... Says the Prescript?
 Valencina: ... Так говорит Предписание?
@@ -239,7 +239,7 @@ Callisto: Я был бы признателен, если бы ты остави
 ???: ... Мя!
 
 # Original: Look at 'er... Looks to me she's a fan of the name Yoshihide. Then it is decided! You're gonna be Yoshihide from now on, Yoshihide!
-Matthias: Посмотрите на неё... По-моему, ей нравится имя Ёсихидэ. Тогда решено! С этого момента ты будешь Ёсихидэ, Ёсихидэ!
+Matthias: Посмотрите на неё... По-моему, ей нравится имя Ёшихидэ. Тогда решено! С этого момента ты будешь Ёшихидэ, Ёшихидэ!
 
 # Original: .......
 Dihui Star: .......

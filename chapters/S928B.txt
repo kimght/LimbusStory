@@ -59,7 +59,7 @@ Hohenheim: Эта ситуация, безусловно... отклонение
 Callisto: Неужели нити распутались...? О, или, быть может, их утащили за их нити.
 
 # Original: The City boasts many a work of art, yet Yoshihide found the marionette dolls particularly distasteful.
-Callisto: Город может похвастаться множеством произведений искусства, однако Ёсихидэ находила кукол-марионеток особенно отвратительными.
+Callisto: Город может похвастаться множеством произведений искусства, однако Ёшихидэ находила кукол-марионеток особенно отвратительными.
 
 # Original: That child believed those puppets to be... how should I put this? Mere simulacra. Simulacra may be infinitely similar to what is "real," but to her, no matter how meticulously their details were recreated... they were worthless next to the living, breathing "reality."
 Callisto: Это дитя считало тех кукол... как бы это выразиться? Всего лишь имитациями. Имитации могут быть бесконечно похожи на то, что "реально", но для нее, как бы скрупулезно ни были воссозданы их детали... они не стоили ничего по сравнению с живой, дышащей "реальностью".

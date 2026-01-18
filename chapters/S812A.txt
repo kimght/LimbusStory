@@ -214,7 +214,7 @@
 # Original: Huh, am I wrong 'bout that? Just <i>hwat</i> in tarnation happened, then? I ain't exactly nose-deep in them fellers' business, ya gotta understand. Guess somethin' sure as hell went down though, didn't it?
 Лэй Хэн: Ха, я что, ошибаюсь? Так <i>какого ж</i> лешего тогда случилось? Я не особо сую нос в дела тех ребят, сама понимаешь. Полагаю, что-то там точно произошло, а?
 
-# Original: Hyahhh~ Now ain't that somethin'. So, ya really fixin' to unsheathe that blade?  
+# Original: Hyahhh~ Now ain't that somethin'. So, ya really fixin' to unsheathe that blade?
 Лэй Хэн: Хья-а-а~ Ну нифига себе. Так ты и вправду намылилась клинок обнажить?
 
 # Original: ... Miss Ryōshū.
@@ -236,7 +236,7 @@
 Лэй Хэн: Ох, чёрт побери, какого это... Ха-ах~ Мои извинения, народ. Мне правда надо ответить. Это младший босс звонит, сами понимаете.
 
 # Original: Awrighty then, I'll meetcha'll later. We can talk about your daddies or shoot some other shit then. Seeya 'round, Yoshihide!
-Лэй Хэн: Ладненько, тогда позже увидимся. Поболтаем о ваших папашах или ещё о какой хрени. Увидимся, Ёсихиде!
+Лэй Хэн: Ладненько, тогда позже увидимся. Поболтаем о ваших папашах или ещё о какой хрени. Увидимся, Ёшихидэ!
 
 # Original: The strange man turns around and stomps his way through the crowd again, his booming voice reverberating across the entire hall as he loudly and boisterously answers the call.
 Рассказчик: Странный мужчина разворачивается и снова прокладывает себе путь сквозь толпу, его громогласный голос эхом разносится по всему залу, пока он громко и шумно отвечает на звонок.

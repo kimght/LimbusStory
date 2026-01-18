@@ -77,7 +77,7 @@
 Рёшу: И какую роль вы, "дети", играете?
 
 # Original: Yoshihide, the day you return to the House of Spiders...
-Рен: Ёсихидэ, в день, когда ты вернешься в Дом Пауков...
+Рен: Ёшихидэ, в день, когда ты вернешься в Дом Пауков...
 
 # Original: We, the five children, shall bind together the thread you have slashed to pieces...
 Рен: Мы, пятеро детей, свяжем воедино нить, которую ты изрубила на куски...
@@ -89,7 +89,7 @@
 Рёшу: …….
 
 # Original: The Nursefathers of the House were beside themselves with concern, Yoshihide.
-Рен: Отцы-воспитатели Дома были вне себя от беспокойства, Ёсихидэ.
+Рен: Отцы-воспитатели Дома были вне себя от беспокойства, Ёшихидэ.
 
 # Original: Were you to return home having forgotten even the time you had spent at their side...
 Рен: Если бы ты вернулась домой, забыв даже время, проведенное рядом с ними...
@@ -119,13 +119,13 @@
 Рёшу: ... <i>Заботилась</i> обо мне?
 
 # Original: Yoshihide.
-Звезда Дихуэй: Ёсихидэ.
+Звезда Дихуэй: Ёшихидэ.
 
 # Original: How does it feel to be a living fetter?
 Звезда Дихуэй: Каково это — быть живыми оковами?
 
 # Original: ... Fet... ter?
-Ёсихидэ: ... Око... вами?
+Ёшихидэ: ... Око... вами?
 
 # Original: I am... barred from enjoying the fresh air of the world outside,
 Звезда Дихуэй: Мне... запрещено наслаждаться свежим воздухом внешнего мира,
@@ -137,16 +137,16 @@
 Звезда Дихуэй: Тщетно желаю я, чтобы мне позволили вновь свободно скитаться меж Крыльями и Подворотнями.
 
 # Original: I don't understand... what you mean.
-Ёсихидэ: Я не понимаю... о чём ты.
+Ёшихидэ: Я не понимаю... о чём ты.
 
 # Original: You don't? I'm saying I did not endure my grueling life only to be trapped here as your <i>Nursefather</i>.
 Звезда Дихуэй: Не понимаешь? Я говорю, что терпела свою изнурительную жизнь не для того, чтобы оказаться здесь в ловушке в качестве твоего <i>Отца-воспитателя</i>.
 
 # Original: Well? What do you make of it, Yoshihide?
-Звезда Дихуэй: Ну? Что ты об этом думаешь, Ёсихидэ?
+Звезда Дихуэй: Ну? Что ты об этом думаешь, Ёшихидэ?
 
 # Original: *sniffle*
-Ёсихидэ: *хнык*
+Ёшихидэ: *хнык*
 
 # Original: Stifle your crying. What makes you think you have the right to shed tears?
 Звезда Дихуэй: Прекрати нытье. С чего ты взяла, что имеешь право лить слезы?
@@ -158,10 +158,10 @@
 Звезда Дихуэй: С тех пор, как тебя спихнули на мое попечение, не прошло и дня, чтобы мне не хотелось плакать.
 
 # Original: My knees...
-Ёсихидэ: Коленки...
+Ёшихидэ: Коленки...
 
 # Original: Momm—Mother, I scraped... my knees...
-Ёсихидэ: Мам—Мама, я ободрала... коленки...
+Ёшихидэ: Мам—Мама, я ободрала... коленки...
 
 # Original: Keep your bawling out of my sight.
 Звезда Дихуэй: Убери свой рёв с глаз моих.
@@ -176,7 +176,7 @@
 Звезда Дихуэй: Может... может, если бы тебе оторвало ногу...
 
 # Original: …….
-Ёсихидэ: …….
+Ёшихидэ: …….
 
 # Original: Then you'd also taste a drop of this crippling agony of imprisonment.
 Звезда Дихуэй: Тогда ты бы тоже вкусила каплю этой калечащей агонии заточения.
@@ -188,7 +188,7 @@
 Рёшу: Она винила меня в своей судьбе.
 
 # Original: Yet in the end, Yoshihide... It is thanks to her...
-Рен: И всё же, в конце концов, Ёсихидэ... Именно благодаря ей...
+Рен: И всё же, в конце концов, Ёшихидэ... Именно благодаря ей...
 
 # Original: That your mastery of the blade has been cultivated to such a degree—enough to parry both this humble blade of mine and that brute's sword.
 Рен: Твое мастерство клинка было взращено до такой степени — достаточной, чтобы парировать и мой скромный клинок, и меч этой громилы.

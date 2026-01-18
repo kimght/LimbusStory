@@ -173,10 +173,10 @@ LCA агент: …!
 Риен: Привет, дорогая. Как прошла твоя тренировка?
 
 # Original: ... Same old. Dull and boring.
-Ёсихидэ: ...Всё так же. Серо и скучно.
+Ёшихидэ: ...Всё так же. Серо и скучно.
 
 # Original: Dad, that wound on your arm... Did you do that to yourself?
-Ёсихидэ: Пап, эта рана у тебя на руке... Ты сам это сделал?
+Ёшихидэ: Пап, эта рана у тебя на руке... Ты сам это сделал?
 
 # Original: Ah, yes. I had to stab my opponent with a knife 38 times through my own arm.
 Риен: Ах, да. Мне пришлось ударить противника ножом 38 раз сквозь мою собственную руку.
@@ -185,7 +185,7 @@ LCA агент: …!
 Риен: На двадцатом ударе стало по-настоящему больно.
 
 # Original: …….
-Ёсихидэ: …….
+Ёшихидэ: …….
 
 # Original: They say that the pain of burning hurts at least 100 times worse than the pain of getting stabbed. Did you know that?
 Риен: Говорят, что боль от ожогов как минимум в 100 раз сильнее боли от удара ножом. Ты знала об этом?
@@ -200,7 +200,7 @@ LCA агент: …!
 Риен: Разве они не заслуживают того, чтобы вспомнить жизнь, проносящуюся перед глазами, в относительном покое?
 
 # Original: ... Okay.
-Ёсихидэ: ...Хорошо.
+Ёшихидэ: ...Хорошо.
 
 # Original: Come closer. You've got a scratch on your cheek.
 Риен: Подойди ближе. У тебя царапинка на щеке.
@@ -212,7 +212,7 @@ LCA агент: …!
 Риен: Давай позаботимся об этой ране, чтобы не осталось шрама, хорошо?
 
 # Original: Whatever.
-Ёсихидэ: Как хочешь.
+Ёшихидэ: Как хочешь.
 
 # Original: If what LCE has told us through the transmission is true, then the Executive Manager's in danger—!
 Отис: Если то, что передали нам LCE через трансляцию — правда, то Исполнительный Менеджер в опасности—!
@@ -242,10 +242,10 @@ LCA агент: …!
 Родион: Он что-то кричит...? Я не совсем слышу, что он говорит через трансляцию...
 
 # Original: Yoshihide.
-Мозес: Ёсихидэ.
+Мозес: Ёшихидэ.
 
 # Original: He is shouting... "Yoshihide." Repeatedly so.
-Мозес: Он выкрикивает... "Ёсихидэ". Раз за разом.
+Мозес: Он выкрикивает... "Ёшихидэ". Раз за разом.
 
 # Original: ... As he fills the silence between them with... a boisterous guffaw.
 Энду: ...Заполняя тишину между выкриками... раскатистым хохотом.
