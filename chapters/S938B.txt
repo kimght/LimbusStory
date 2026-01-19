@@ -308,7 +308,7 @@ Matthias: Хочешь, чтобы я развернулся?
 Yoshihide: ... Нет. Фиолетовый меня устраивает.
 
 # Original: Buddy, you ever find anything you don't like, you can talk to me about it. I'll always make sure to avenge the wrongs... no matter what I gotta do to get there.
-Matthias: Дружок, если тебе когда-нибудь что-то не понравится, ты можешь поговорить со мной об этом. Я всегда отомщу за обиды... что бы мне это не стоило.
+Matthias: Дружок, если тебе когда-нибудь что-то не понравится, ты можешь поговорить со мной об этом. Я всегда отомщу за обиды... чего бы мне это не стоило.
 
 # Original: If she wanted something, I'd empty my pockets to get it for her, even if that meant I had to borrow money from my younger Brothers and Sisters and risk losing face.
 Matthias: Если она чего-то хотела, я выворачивал карманы, чтобы достать это для неё, даже если это означало, что мне приходилось занимать деньги у Младших Братьев и Сестёр и рисковать потерей лица.
