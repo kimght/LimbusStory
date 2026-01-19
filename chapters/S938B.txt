@@ -251,7 +251,7 @@ Moses: ... Пол усеян пустыми контейнерами из-под
 Kira: Папа купил мне целую коробку.
 
 # Original: Out there, it always pissed me off how Big Brothers and Big Sisters would chide me about snacking on nothing but this kinda junk... But ever since I came here, papa's been letting me eat whatever I wanna eat, however much I wanna eat 'em! What about it?
-Kira: Там, снаружи, меня всегда бесило, как Большие Братья и Большие Сёстры отчитывали меня за то, что я ем только такую вредную еду... Но с тех пор, как я пришла сюда, папа разрешает мне есть всё, что я хочу, и сколько я хочу! И что с того?
+Kira: Там, снаружи, меня всегда бесило, как Старшие Братья и Старшие Сёстры отчитывали меня за то, что я ем только такую вредную еду... Но с тех пор, как я пришла сюда, папа разрешает мне есть всё, что я хочу, и сколько я хочу! И что с того?
 
 # Original: ... I cannot help but assume they would have adverse effects to one's health.
 Yi Sang: ... Не могу не предположить, что они окажут пагубное влияние на здоровье.
