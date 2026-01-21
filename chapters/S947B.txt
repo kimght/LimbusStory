@@ -486,7 +486,7 @@
 Лэй Хэн: Глянем-ка. Дальше у нас... ну, ёлы-палы. Всякие типы заявляются учить тебя сегодня. Думаю, куча ребят с нетерпением ждут этого.
 
 # Original: That ol' Bloodfiend Elder from the Ring's comin' in person... and this feller over here, ain't got a clue who that is. Must be one o' them Pinkies.
-Лэй Хэн: Тот старый Старейшина Коровожадов из Безымянного Пальца прибывает лично... а этот парень вон там, без понятия кто такой. Должно быть, один из этих Мизинцев.
+Лэй Хэн: Тот старый Старейшина Кровожадов из Безымянного Пальца прибывает лично... а этот парень вон там, без понятия кто такой. Должно быть, один из этих Мизинцев.
 
 # Original: Hah... Ain't that a hoot? How'd these devils all get assigned 'ere just months after that Finger Bow-Bell? Mighty sure them's the same ones that were busy raisin' hell out on the Outskirts Strife not long ago.
 Лэй Хэн: Ха... Разве не умора? Как всех этих дьяволов назначили сюда всего через пару месяцев после того Перезвона по пальцам? Уверен, это те же самые, что были заняты тем, что наводили шороху в той зарубе на Окраинах не так давно.
@@ -540,7 +540,7 @@
 Риен: .......
 
 # Original: Ah, come to think of it... It's already been 3 years since you started coming here, hasn't it?
-Риен: Ах, если подумать... Прошло уже 3 года с тех пор, как ты начала приходить сюда, не так ли?
+Риен: Ах, если подумать... Прошло уже 3 года с тех пор, как ты начал приходить сюда, не так ли?
 
 # Original: 3 years? Been more like 5—
 Лэй Хэн: 3 года? Скорее уж 5—
