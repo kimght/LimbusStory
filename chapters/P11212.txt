@@ -2,7 +2,7 @@
 Грегор: М-да.
 
 # Original: I guess it was all just a lie. What was it again? This procedure's gonna replace my arm with an actual snake? Very funny.
-Грегор: Похоже, всё это было просто враньём. Как там бишь говорилось? Эта процедура заменит мою руку на настоящую змею? Очень смешно.
+Грегор: Похоже, всё это было просто враньём. Как там говорилось? Эта процедура заменит мою руку на настоящую змею? Очень смешно.
 
 # Original: This is why I never listen to the guys who made it out first.
 Грегор: Вот поэтому я никогда не слушаю тех, кто прошёл через это первым.
@@ -38,19 +38,19 @@
 Рассказчик: Дитя быстро поняло, что происходит.
 
 # Original: I guess we lost quite a few snakes last time following our last lord's half-baked orders.
-Грегор: Похоже, в прошлый раз мы потеряли немало змей, следуя непродуманным приказам нашего прошлого господина.
+Грегор: Похоже, в прошлый раз мы потеряли немало змей, следуя необдуманным приказам нашего прошлого господина.
 
 # Original: Rumors of the next Family Hierarch Evaluation had begun to circulate in Hongyuan.
-Рассказчик: Слухи о следующих Отборах на пост Главы Семьи начали распространяться в Хунъюане.
+Рассказчик: Слухи о следующем Отборе на пост Главы Семьи начали распространяться в Хунъюане.
 
 # Original: The prominent candidates used their Heishou Pack more strategically, but...
 Рассказчик: Видные кандидаты использовали свою Стаю Хэйшоу более стратегически, но...
 
 # Original: ... certain lords who happened to get ahold of the leash by sheer luck used the Heishou too haphazardly.
-Рассказчик: ...некоторые господа, которым цепь досталась по чистой случайности, использовали Хэйшоу слишком уж как попало.
+Рассказчик: ...некоторые господа, которым лишь по чистой случайности удалось получить цепь, использовали Хэйшоу слишком небрежно.
 
 # Original: If he really wanted to take on an army, he should've taken those cockfighting roosters' leash.
-Грегор: Если он действительно хотел потягаться с армией, ему следовало бы взять цепь тех бойцовых петухов.
+Грегор: Если он действительно хотел потягаться с армией, ему следовало бы взять цепи тех бойцовых петухов.
 
 # Original: Haah... What was he thinking, throwing a bunch of snakes at a full-frontal assault? No wonder we suffered so many losses.
 Грегор: Хах... О чём он только думал, бросая кучу змей в лобовую атаку? Неудивительно, что мы понесли столько потерь.
@@ -71,22 +71,22 @@
 Грегор: Эх, ребята... Да ладно вам.
 
 # Original: Why the long face? You're all getting bestowed with those precious Boluses today, aren't you?
-Грегор: Чего носы повесили? Вам же сегодня даруют эти драгоценные Болюсы, так ведь?
+Грегор: Чего приуныли? Вас же сегодня одарят этими драгоценными Болюсами, не так ли?
 
 # Original: Some snakes began to grow visibly uncomfortable upon hearing the child's conversation with the other snake...
 Рассказчик: Некоторые змеи стали заметно нервничать, услышав разговор дитя с другой змеёй...
 
 # Original: So the child stopped, thought for a moment, then attempted to alleviate some of the palpable tension.
-Рассказчик: Поэтому дитя остановилось, на мгновение задумалось, а затем попыталось немного разрядить ощутимое напряжение.
+Рассказчик: Поэтому оно остановилось, задумавшись на мгновение, а затем попыталось немного разрядить ощутимое напряжение.
 
 # Original: Well, at least lemme give you a few pointers. Let's see... hm.
 Грегор: Ну, по крайней мере, позвольте дать вам пару советов. Так-с... хм.
 
 # Original: I've got no idea if this applies to all Heishou Boluses, but... you do <i>not</i> want to drink the Si Bolus solution, okay?
-Грегор: Понятия не имею, относится ли это ко всем Болюсам Хэйшоу, но... раствор Болюса Сы вы пить точно <i>не</i> захотите, ясно?
+Грегор: Понятия не имею, относится ли это ко всем Болюсам Хэйшоу, но... вы точно <i>не</i> хотите пить раствор Болюса Сы весь сразу, хорошо?
 
 # Original: One time, there was this guy who grew a bit impatient with the process, so he decided to chug the Si Bolus solution, and... Well, let's just say that he wasn't much use to us anymore. The mutations were too severe.
-Грегор: Как-то раз был один парень, который немного потерял терпение в процессе, так он решил залпом хлебнуть раствор Болюса Сы, и... Ну, скажем так, толку от него для нас больше не было. Мутации были слишком уж тяжёлыми.
+Грегор: Однажды один нетерпеливый парень захотел ускорить процесс, выпив залпом раствор Болюса Сы, и... Ну, скажем так, толку от него для нас больше не было. Мутации были слишком серьёзными.
 
 # Original: …….
 Рассказчик: …….
@@ -95,7 +95,7 @@
 Грегор: Просто расслабьтесь и впитывайте, а? Вам почти ничего не нужно делать. Не то чтобы вам тут руки отпиливали.
 
 # Original: Oh, and remember to take it slow at first, okay? It takes some time getting used to how squiggly your arm can get. I swear, getting them tangled up was a real mess.
-Грегор: О, и помните, поначалу не спешите, ладно? Нужно время, чтобы привыкнуть, какой извилистой может стать рука. Клянусь, когда они у меня путались, это была та ещё морока.
+Грегор: О, и помните, поначалу не спешите, ладно? Нужно время, чтобы привыкнуть к тому, насколько может извиваться твоя рука. Клянусь, когда они у меня запутывались, это была та ещё морока.
 
 # Original: …….
 Рассказчик: …….
@@ -104,7 +104,7 @@
 Рассказчик: Советы были, конечно... полезными, но и довольно отстранёнными. Тишина в комнате стала ещё более неловкой.
 
 # Original: The child scratched his hair for a bit, before slowly turning to the other snake to change the subject.
-Рассказчик: Дитя немного почесало у себя на голове, прежде чем медленно повернуться к другой змее, чтобы сменить тему.
+Рассказчик: Дитя немного почесало голову, прежде чем медленно повернуться к другой змее, чтобы сменить тему.
 
 # Original: So... weren't you supposed to be on a different mission from our lord today?
 Грегор: Так... а ты разве сегодня не должен был быть на другом задании от нашего господина?
@@ -113,10 +113,10 @@
 Рассказчик: ...Другая змея наготове, она вызвалась взять это задание вместо меня. Разумеется, с одобрения нашего господина.
 
 # Original: Mm. I've got a feeling I know who that snake might be.
-Грегор: М-м. Кажется, я догадываюсь, что это за змея.
+Грегор: М-м. Кажется, я догадываюсь, кто эта змея.
 
 # Original: I'll head over there too, just in case. If she's infiltrating the infamous Jia family... it won't hurt to have an extra snake to back her up.
-Грегор: Я тоже туда наведаюсь, на всякий случай. Если она пробирается в печально известную семью Цзя... лишняя змея для подстраховки не помешает.
+Грегор: Я тоже на всякий случай направлюсь туда. Если она пробирается в печально известную семью Цзя... лишняя змея для подстраховки не помешает.
 
 # Original: ... I had a feeling this would happen.
 Грегор: ...Так и знал, что этим кончится.
@@ -128,7 +128,7 @@
 Рассказчик: Дитя прочитало задание, написанное на бамбуковом свитке, прежде чем раздражённо усмехнуться.
 
 # Original: The mission was to find a small hermitage called <ruby=Song>Pine</ruby> Hermitage and decapitate everyone on the list.
-Рассказчик: Задание состояло в том, чтобы найти небольшую обитель под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех по списку.
+Рассказчик: Задание состояло в том, чтобы найти небольшую хижину отшельников под названием <ruby=Сунъань>Сосновая</ruby> Обитель и обезглавить всех кто в списке.
 
 # Original: However, the child knew that the 'exception' clause written in small letters at the bottom of the instructions was the most important part of the mission.
 Рассказчик: Однако дитя знало, что пункт об «исключении», написанный мелкими буквами внизу инструкций, был самой важной частью задания.
@@ -137,22 +137,22 @@
 Грегор: «Если встретится цель не из списка — размозжить ей голову».
 
 # Original: He saw a fellow snake hesitating before a young boy, a candidate. The boy was tearing up.
-Рассказчик: Оно увидело, как другая змея колеблется перед маленьким мальчиком, кандидатом. У мальчика на глаза наворачивались слёзы.
+Рассказчик: Он увидел, как другая змея колеблется перед маленьким мальчиком, кандидатом. Тот был весь в слезах.
 
 # Original: The child watched in silence. But when he noticed the other snake's eye focus on the boy's neck, he moved his arm without hesitation.
 Рассказчик: Дитя молча наблюдало. Но когда оно заметило, что взгляд другой змеи сосредоточился на шее мальчика, оно без колебаний двинуло своей рукой.
 
 # Original: The arm slithered across the ground like a snake before coming to a quiet stop behind the candidate.
-Рассказчик: Рука проскользнула по земле, подобно змее, прежде чем тихо замереть за спиной кандидата.
+Рассказчик: Она проскользнула по земле, подобно змее, прежде чем тихо замереть за спиной кандидата.
 
 # Original: Let's see... was it a downward cut from this angle?
-Грегор: Так-с... удар сверху под этим углом?
+Грегор: Так-с... удар сверху вниз под этим углом?
 
 # Original: Hm, no. Stab to the right.
 Грегор: Хм, нет. Укол вправо.
 
 # Original: The polearm in the child's hand suddenly leaped forth, a swift strike...
-Рассказчик: Древковое оружие в руке дитя внезапно метнулось вперёд, стремительный удар...
+Рассказчик: Древковое оружие в руке дитя внезапно метнулось вперёд в стремительном ударе...
 
 # Original: ... and penetrated the young candidate's skull as precisely and easily as stabbing through an inert apple.
 Рассказчик: ...и пронзило череп юного кандидата так же точно и легко, как будто проткнуло неподвижное яблоко.
@@ -161,7 +161,7 @@
 Рассказчик: Удар был быстрым и бесшумным. В его движении не было места эмоциям.
 
 # Original: The child casually saunters up to the other snake, who stood frozen, her eyes trembling with shock. He chats her up.
-Рассказчик: Дитя небрежно подходит к другой змее, застывшей на месте, её глаза дрожали от шока. Оно заговаривает с ней.
+Рассказчик: Дитя небрежно подходит к другой змее, которая застыла на месте, с дрожащими от шока глазами. Оно заговаривает с ней.
 
 # Original: Whoops, just realized that you pretty much had the situation handled.
 Грегор: Упс, только сейчас понял, что ты, в общем-то, и сама почти справилась.
@@ -179,25 +179,25 @@
 Рассказчик: Оно было зверем Хэйшоу очень, очень долго... оно точно знало, чего хотела эта новенькая.
 
 # Original: It was simply that he could not empathize at all with what she felt. He also had to wrap up the mission before it went awry.
-Рассказчик: Просто оно совершенно не могло сопереживать её чувствам. Ему также нужно было завершить задание, пока всё не пошло наперекосяк.
+Рассказчик: Просто оно совершенно не могло сопереживать её чувствам. Кроме того, ему нужно было завершить задание, пока всё не пошло наперекосяк.
 
 # Original: Then, he let the incident slip away like a snake, pretending to be ignorant about what she was about to do...
-Рассказчик: Затем оно позволило этому инциденту ускользнуть, подобно змее, притворившись, будто не знало, что она собиралась сделать...
+Рассказчик: Затем он позволил этому инциденту ускользнуть, подобно змее, притворившись, будто не знал, что она собиралась сделать...
 
 # Original: ... and told the other snake to return home, that he'll take care of the report.
-Рассказчик: ...и сказало другой змее возвращаться домой, что оно позаботится об отчёте.
+Рассказчик: ...и сказал другой змее возвращаться домой, и что он разберётся с отчётом.
 
 # Original: The child wasn't exactly looking out for her.
-Рассказчик: Дитя не то чтобы заботилось о ней.
+Рассказчик: Не то чтобы дитя заботилось о ней.
 
 # Original: He... simply found it unnecessary to point it out.
-Рассказчик: Оно... просто сочло ненужным на это указывать.
+Рассказчик: Оно... просто не сочло нужным на это указывать.
 
 # Original: She might've hesitated, because she's still only on her first procedure...
-Грегор: Она могла колебаться, потому что это её всего лишь первая процедура...
+Грегор: Она могла колебаться, потому что это всего лишь её первая процедура...
 
 # Original: Hm. Well, then going through another procedure'll take care of that problem.
-Грегор: Хм. Ну что ж, следующая процедура эту проблему решит.
+Грегор: Хм. Ну что ж, следующая процедура решит эту проблему.
 
 # Original: Hup...
 Грегор: Хах...
