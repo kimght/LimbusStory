@@ -1,5 +1,5 @@
 # Original: <i><color=#cf0000>There is a clew of thread, raveled of a single strand whose beginning is its end.</i></color>
-Narrator: <i><color=#cf0000>Существует клубок ниток, свитый из единой нити, начало которой — её конец.</i></color>
+Narrator: <color=#cf0000>Существует клубок ниток, свитый из единой нити, начало которой — её конец.</color>
 
 # Original: <i><color=#cf0000>Moments become wefts and warps that criss-cross into a weave,</i></color>
 Narrator: <i><color=#cf0000>Мгновения становятся утком и основой, что переплетаются в полотно,</i></color>
