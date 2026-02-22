@@ -1,26 +1,26 @@
 ﻿# Original: Perhaps it was a mistake to have reflexively volunteered the moment he heard that a superior officer was looking for someone to drive her car.
-Рассказчик: Возможно, было ошибкой рефлекторно вызваться в тот самый момент, когда он услышал, что начальница ищет кого-то, кто мог бы повести её машину.
+Рассказчик: Возможно, было ошибкой рефлекторно вызваться добровольцем в тот момент, когда он услышал, что вышестоящий служащий ищет кого-то, кто мог бы вести её машину.
 
 # Original: The Class 1 Collection Staff employee, who was fresh in the field... greeted his boss with the rigidity of a stone, his expression frozen with anxiety.
-Рассказчик: Сборщик 1-го класса, совсем ещё новичок в этом деле... приветствовал свою начальницу с каменной неподвижностью, его лицо застыло от беспокойства.
+Рассказчик: Сборщик 1-го класса, ещё совсем новичок в этом деле... встретил свою начальницу с каменным спокойствием, но на его лице застыла тревога.
 
 # Original: Such panic was understandable, given that the first thing he heard the moment he opened the door was...
 Рассказчик: Такая паника была вполне объяснима, ведь первым, что он услышал, едва открыв дверь, было...
 
 # Original: Commence mission briefing. You have thirty seconds—keep it concise.
-Отис: Приступить к докладу. У тебя тридцать секунд — будь краток.
+Отис: Приступай к докладу. Будь краток — у тебя есть тридцать секунд.
 
 # Original: Thir...ty...
-Рассказчик: Три... дцать...
+Рассказчик: Трид... цать...
 
 # Original: If you don't have the competency for it, now's your time to fess up. I don't have the time to listen to you stutter through a half-baked briefing.
-Отис: Если некомпетентен, то признайся сразу. У меня нет времени слушать твоё заикание.
+Отис: Если недостаточно компетентен для этого, то признайся сразу. У меня нет времени слушать твоё заикание.
 
 # Original: ... was something of incredibly high difficulty, something he never knew to be a part of his job description.
-Рассказчик: ... было заданием невероятной сложности, о которой он и не подозревал, читая свои должностные обязанности.
+Рассказчик: ... было задание невероятной сложности, о которой он и не подозревал, читая свои должностные обязанности.
 
 # Original: The employee was anxious before the child, but... perhaps anxiety helped.
-Рассказчик: Сотрудник нервничал перед дитя, но... возможно, беспокойство ему помогло.
+Рассказчик: Сотрудник нервничал перед дитя, но... возможно, беспокойство ему и помогло.
 
 # Original: Not a single social nicety to dress up the briefing came to mind; instead, his mind instantly wandered to the mission brief he had read over and over again today, and his mouth was on autopilot from that moment onward.
 Рассказчик: На ум не пришло ни единой светской любезности, чтобы приукрасить доклад; вместо этого его разум мгновенно обратился к заданию, которое он перечитывал сегодня снова и снова, и с этого момента его рот говорил будто на автопилоте.
@@ -35,13 +35,13 @@
 Рассказчик: Но, похоже, краткость и ясность доклада удовлетворили дитя.
 
 # Original: Hm. Any chance they already managed to flee the scene after extracting the time vault from the warehouse?
-Отис: Хм. Есть ли шанс, что они уже успели скрыться, вытащив временной сейф со склада?
+Отис: Хм. Есть ли вероятность того, что они уже успели скрыться, вытащив временной сейф со склада?
 
 # Original: Unlike U Corp.'s stasis preservation packaging, which advertises primarily based on completely static transportation, T Corp.'s time vaults boast their stationary preservative and management qualities based on internal time scale adjustments.
-Рассказчик: В отличие от стазис-упаковки для консервации от Корпорации U, чья реклама делает упор на полную неподвижность её содержимого при транспортировке, временные сейфы Корпорации T славятся своими свойствами по хранению и складированию стационарных объектов, основанными на корректировке внутренней временной шкалы.
+Рассказчик: В отличие от упаковки для сохранения стазиса Корпорации U, чья реклама делает упор на полную неподвижность её содержимого при транспортировке, временные сейфы Корпорации T славятся своими свойствами по хранению и складированию стационарных объектов, основанными на корректировке внутренней временной шкалы.
 
 # Original: Given that the perpetrators are defaulters who are unable to make even their time tax payments, it can be assumed that they are still at the scene, having failed to procure a getaway method.
-Рассказчик: Учитывая, что преступники — неплательщики, неспособные внести даже свой временной налог, можно предположить, что они всё ещё на месте, так как не смогли раздобыть способ для отхода.
+Рассказчик: Учитывая, что преступники — неплательщики, неспособные внести даже свой временной налог, можно предположить, что они всё ещё на месте, так как не смогли найти способ скрыться.
 
 # Original: That is all.
 Рассказчик: Это всё.
@@ -50,7 +50,7 @@
 Отис: ... Как думаешь, давно у меня эта машина?
 
 # Original: As the child was internally sighing with relief at completing that sudden extra assignment, the child surprises him with an odd question.
-Рассказчик: Пока первое дитя внутренне вздыхало с облегчением, выполнив внезапное дополнительное поручение, другое дитя озадачило его странным вопросом.
+Рассказчик: Пока первое дитя внутренне вздохнуло с облегчением, выполнив внезапное дополнительное поручение, другое дитя озадачило его странным вопросом.
 
 # Original: The employee stares silently, not knowing what to say. The child continues with a slight smile.
 Рассказчик: Сотрудник молча смотрел, не зная, что сказать. Дитя продолжило с лёгкой улыбкой.
@@ -62,13 +62,13 @@
 Рассказчик: ......
 
 # Original: I purchased it when I joined the ranks of the Class 2 Collection Staff. The first automotive vehicle I ever purchased here at T Corp.
-Отис: Я купила её, когда вступила в ряды Сборщиков 2-го класса. Моё первое транспортное средство, купленное здесь, в Корпорации T.
+Отис: Я купила её, когда вступила в ряды Сборщиков 2-го Класса. Моё первое транспортное средство, купленное здесь, в Корпорации T.
 
 # Original: I had a feeling that, as I continued to put in serious, honest work here... one day, I would no longer be able to ride in a car with a roof.
-Отис: У меня было чувство, что, продолжая серьёзно и честно трудиться здесь... однажды я больше не смогу ездить в машине с крышей.
+Отис: У меня было предчувствие, что продолжая серьёзно и честно трудиться здесь... однажды я больше не смогу ездить в машине с крышей.
 
 # Original: ... the child has misunderstood the employee's nervous silence as nothing more than a show of deference and readiness to listen to the words of a senior officer.
-Рассказчик: ...дитя неверно истолковало нервное молчание сотрудника, приняв его за проявление почтения и готовности выслушать слова старшего по званию.
+Рассказчик: ...дитя неверно истолковало нервное молчание сотрудника, приняв его за проявление почтения и готовности выслушать слова старшего служащего.
 
 # Original: Do you understand what I am saying?
 Отис: Ты понимаешь, о чём я?
@@ -86,7 +86,7 @@
 Рассказчик: Мэм, это, эм...
 
 # Original: But it doesn't mesh very well with your shirt, which is sepia and deprived of color.
-Отис: Но он не очень сочетается с твоей рубашкой, окрашенной в сепию и лишённой цвета.
+Отис: Но он не очень хорошо сочетается с твоей окрашенной в сепию и лишённой цвета рубашкой.
 
 # Original: The employee must've wanted to tell her that the necktie was a gift from his mother, who purchased this color necktie to celebrate his employment at T Corp.
 Рассказчик: Должно быть, сотрудник хотел сказать ей, что это подарок его матери, которая купила этот цветной галстук, чтобы отпраздновать его приём на работу в Корпорацию T.
@@ -104,10 +104,10 @@
 Отис: Другими словами, ты одет как обычный нувориш... Транжира времени.
 
 # Original: I see, ma'am. I never knew my outfit could imply such a thing...!
-Рассказчик: Понятно, мэм. Никогда бы не подумал, что мой наряд может на такое намекать!..
+Рассказчик: Понятно, мэм. Никогда бы не подумал, что мой наряд может подразумевать такое..!
 
 # Original: Next time, just don't wear any color.
-Отис: В следующий раз просто не носи ничего цветного.
+Отис: В следующий раз просто не надевай ничего цветного.
 
 # Original: If you're heading to a function where being tidily dressed is important, be sure to color in your shirt as well.
 Отис: А если идёшь на мероприятие, где важен опрятный вид, не забудь приобрести цвета и для рубашки.
@@ -116,22 +116,22 @@
 Рассказчик: Я... буду иметь в виду, мэм.
 
 # Original: Hmph. I don't waste my time on worthless fools.
-Отис: Хмф. Я не трачу время на никчёмных дураков.
+Отис: Хмф. Я не трачу своё время на никчёмных дураков.
 
 # Original: So, I trust you will make the time I just spent on you worthwhile.
-Отис: Так что, я надеюсь, ты сделаешь так, чтобы время, которое я только что на тебя потратила, не было потрачено зря.
+Отис: Так что, я надеюсь, ты оправдаешь только что потраченное на тебя время.
 
 # Original: And like she said, she never wastes time in pursuit of her goal.
-Рассказчик: И, как она и сказала, она никогда не тратит время зря на пути к своей цели.
+Рассказчик: И, как она и сказала, на пути к своей цели она никогда не тратит время зря.
 
 # Original: While the child has already accumulated a fair bit of time in her watch, she's always being chased by time.
-Рассказчик: И хотя дитя уже накопило немало времени на своих часах, время вечно его подгоняет.
+Рассказчик: И хотя дитя уже накопило немало времени в своих часах, время вечно его подгоняет.
 
 # Original: Pursued by the idea that... her 'time' is always approaching.
 Рассказчик: Его постоянно преследует мысль о том, что... его "время" всегда приближается.
 
 # Original: Yes, ma'am. I'll—and she's gone.
-Рассказчик: Да, мэм. Я...—а она уже ушла.
+Рассказчик: Да, мэм. Я...— и она уже ушла.
 
 # Original: She steps one foot into the warehouse...
 Рассказчик: Она делает один шаг внутрь склада...
@@ -140,7 +140,7 @@
 Рассказчик: ...и обращается к врагам прежде, чем те успевают среагировать и произнести хоть слово.
 
 # Original: That unnecessary chat with the employee, in whom she saw a smidgen of potential, was an investment. But to engage in an extended parlay with these Syndicate henchmen was an unwise use of her time.
-Рассказчик: Тот ненужный разговор с сотрудником, в котором она увидела толику потенциала, был инвестицией. Но вступать в долгие переговоры с этими приспешниками Синдиката было неразумной тратой её времени.
+Рассказчик: Тот необязательный разговор с сотрудником, в котором она увидела толику потенциала, был инвестицией. Но вступать в долгие переговоры с этими приспешниками Синдиката было неразумной тратой её времени.
 
 # Original: You...
 Рассказчик: Ты...
@@ -149,10 +149,10 @@
 Отис: Тридцать одна секунда по Центральной Часовой Башне Корпорации Т.
 
 # Original: That is how much time you have to present your defense. Let's get right to the point and avoid beating around the bush.
-Отис: Ровно столько времени у вас есть, чтобы предоставить своё оправдание. Перейдём сразу к делу, без хождения вокруг да около.
+Отис: Ровно столько времени у вас есть, чтобы предоставить своё оправдание. Перейдём сразу к делу и не будем ходить вокруг да около.
 
 # Original: It seemed that she managed to communicate her firm stance on the matter; the henchmen began to discuss their next course of action.
-Рассказчик: Кажется, ей удалось донести свою твёрдую позицию; бандиты начали обсуждать дальнейшие действия.
+Рассказчик: Кажется, ей удалось донести свою твёрдую позицию по этому вопросу; бандиты начали обсуждать дальнейшие действия.
 
 # Original: "We should run", "let's surrender"...
 Рассказчик: "Надо бежать", "давайте сдадимся"...
@@ -170,7 +170,7 @@
 Отис: Прошло пять секунд. Вы тратите драгоценное время.
 
 # Original: What are you lot doin'?! Get 'er 'fore she gets reinforcements!
-Рассказчик: Чего встали?! Хватай её, пока подкрепление не подоспело!
+Рассказчик: Чего встали?! Хватайте её, пока подкрепление не подоспело!
 
 # Original: The child could not help but grin at this rather predictable outcome.
 Рассказчик: Дитя не могло сдержать ухмылки при виде такого предсказуемого исхода.
@@ -188,7 +188,7 @@
 Отис: Но не переживайте, что упустили лучший вариант. Ваша упреждающая атака...
 
 # Original: ... is certainly a wonderful, if second-best, option.
-Отис: ...безусловно, прекрасный, хоть и не самый лучший, вариант.
+Отис: ...безусловно, прекрасный, хоть и не самый лучший выбор.
 
 # Original: Refusal to comply with collections logged. From <i>ThisMomentForth—%&!&@</i>
 Отис: Отказ от содействия сбору зафиксирован. <i>ОтнынеИвпредь—%&!&@</i>
@@ -197,7 +197,7 @@
 Рассказчик: Что она только что—
 
 # Original: Prismatic aura exudes from her briefly before fading away.
-Рассказчик: Долю секунды от неё исходит призматическая аура, после чего исчезает.
+Рассказчик: Прежде чем дитя исчезло, призматическая аура исходит от него на долю секунды.
 
 # Original: She just stepped into a different time.
 Рассказчик: Она просто шагнула в другое время.
@@ -206,7 +206,7 @@
 Рассказчик: ……
 
 # Original: In the blink of an eye, before they could even flinch a finger, five of the Syndicate henchmen almost simultaneously hit the ground.
-Рассказчик: В мгновение ока, не успев дёрнуть и пальцем, пятеро приспешников Синдиката почти одновременно рухнули на землю.
+Рассказчик: В мгновение ока пятеро приспешников Синдиката почти одновременно рухнули на землю, не успев и пальцем пошевелить.
 
 # Original: One of them hit himself with his own weapon, while some fell and hurt their heads.
 Рассказчик: Один ударил себя собственным оружием, другие просто упали и разбили головы.
@@ -215,25 +215,25 @@
 Рассказчик: А ещё один повис на потолке, и никто, кроме дитя, не знал, как он там очутился.
 
 # Original: The child was trying to use fear as her weapon, to compel them to surrender and end this battle early.
-Рассказчик: Дитя пыталось использовать страх как оружие, чтобы заставить их сдаться и закончить бой досрочно.
+Рассказчик: Она пыталась использовать страх как оружие, чтобы заставить их сдаться и закончить бой досрочно.
 
 # Original: W-wait! Let's talk. We can talk this out, can't we?
 Рассказчик: П-постой! Давай поговорим. Мы же можем всё обсудить, правда?
 
 # Original: Listen, I know that, by the way you're moving, you're spending too much time. Even for you.
-Рассказчик: Слушай, я вижу по твоим движениям, ты тратишь слишком много времени. Даже для такой, как ты.
+Рассказчик: Слушай, судя по твоим движениям, ты тратишь слишком много времени. Даже для такой, как ты.
 
 # Original: <i>OhIsThat#*%$YouThink?YetThisIsButTheEv@^#nceOfTheCompany'sFai&!InMe.</i>
-Отис: <i>ОхВот#*%$КакТыДумаешь?НоЭтоЛишьДок@^#тельствоВер&!КомпанииВМеня.</i>
+Отис: <i>ОхТакВот*%$ТыДумаешь?НоЭтоЛишьДок@^#тельствоВер&КомпанииВМеня.</i>
 
 # Original: <i>INotice$YouFromEarlier,Look$##AroundLike#*^Idiot.</i>
-Отис: <i>ЯЗаметила$ТебяРаньше,Оглядывался$##ПоСторонамКак#*^Идиот.</i>
+Отис: <i>ЯЗаметила$ТебяРаньше,Оглядыва$##ПоСторонамКак*^Идиот.</i>
 
 # Original: One of them tried talking to her, watching his comrades fall like blades of grass to a scythe, but...
 Рассказчик: Один из них попытался заговорить с ней, наблюдая, как его товарищи падают, словно скошенная трава, но...
 
 # Original: ... the child already saw through his shallow trick. When she decelerated, there was something in her hand.
-Рассказчик: ...дитя уже разгадало его дешёвый трюк. Когда оно замедлилось, что-то появилось в его руке.
+Рассказчик: ...дитя уже разгадало его дешёвый трюк. Что-то оказалось в её руке, когда она замедлилось.
 
 # Original: Don't concern yourselves with buying time.
 Отис: Не утруждайте себя попытками выиграть время.
@@ -269,22 +269,22 @@
 Отис: И выглядят слишком топорно, чтобы как следует подключиться к временному потоку Корпорации Т.
 
 # Original: Dammit, activate them anyway!
-Рассказчик: Чёрт, всё равно активируйте!
+Рассказчик: Всё равно включайте, чёрт возьми! 
 
 # Original: The child activated the watch on her waist without finishing her thought.
 Рассказчик: Не закончив свою мысль, дитя активировало часы у себя на поясе.
 
 # Original: Seeing that, the Syndicate henchmen hurriedly fumbled with their watches, doing the same.
-Рассказчик: Увидев это, приспешники Синдиката поспешно завозились со своими часами, делая то же самое.
+Рассказчик: Видя это, приспешники Синдиката поспешно завозились со своими часами, делая то же самое.
 
 # Original: And once they perceived the hat falling from her head...
 Рассказчик: И когда они увидели, что с её головы падает шляпа...
 
 # Original: ... they realized that, at this very moment at least, they were living in the same time as the child's.
-Рассказчик: ...они поняли, что, по крайней мере, в этот самый момент, они живут в одном времени с дитя.
+Рассказчик: ...они поняли, что, по крайней мере, в этот самый момент, они живут в том же времени, что и дитя.
 
 # Original: ... It works. It works! With this, we can take on a Collector, lads!
-Рассказчик: ...Работает. Работает! С этим мы и со Сборщиком справимся, парни!
+Рассказчик: ...Работает. Работает! Парни, с этой штукой мы и со Сборщиком справимся!
 
 # Original: ... I dropped my hat?
 Отис: ...Я уронила шляпу?
@@ -293,7 +293,7 @@
 Рассказчик: Приспешники возбуждённо бросились на дитя, но...
 
 # Original: Very good. If we're dealing with defaulters who can keep up with this much time... this should register positively on my performance review.
-Отис: Очень хорошо. Если мы имеем дело с неплательщиками, которые могут угнаться за таким временем... это должно положительно сказаться на моём отчёте.
+Отис: Очень хорошо. Если мы имеем дело с неплательщиками, которые могут угнаться за таким временем... это должно положительно сказаться на оценке моей работы.
 
 # Original: Exoskeleton? When'd she...?
 Рассказчик: Экзоскелет? Когда она?..
@@ -335,10 +335,10 @@
 Отис: ...это контрабанда времени. Организованная контрабанда, незаконное перемещение времени.
 
 # Original: And that's why a Violent Defaulter Collections Unit Staff member such as myself handles these cases.
-Отис: И именно поэтому такими делами занимаются сотрудники вроде меня — из Отдела строгого взыскания долгов.
+Отис: И именно поэтому такими делами занимаются сотрудники из Отдела строгого взыскания долгов, вроде меня.
 
 # Original: Acceleration ratio adjusted. Max activate collection mace.
-Отис: Коэффициент ускорения скорректирован. Максимальная активация коллекторской трости.
+Отис: Коэффициент ускорения скорректирован. Максимальная активация трости сборщика.
 
 # Original: But they never got the chance to witness the final form of her weapon.
 Рассказчик: Но им так и не довелось увидеть окончательную форму её оружия.
@@ -353,10 +353,10 @@
 Рассказчик: Те, кого поразила булава дитя, больше не могут двигаться.
 
 # Original: Assigned task completed. The child crosses off an entry in her notepad, then—ah, and she's gone.
-Рассказчик: Поставленная задача выполнена. Дитя вычёркивает запись в своём блокноте, а затем... —ах, оно уже исчезло.
+Рассказчик: Поставленная задача выполнена. Она вычёркивает запись в своём блокноте, и затем... —ах, она уже исчезла.
 
 # Original: What remains in the child's wake is the impending doom, slowly approaching from the delayed time.
 Рассказчик: Всё, что остаётся после дитя — это неминуемая гибель, медленно приближающаяся из замедленного времени.
 
 # Original: And there lies the hopeless future—or the lack thereof—of the criminal Syndicate.
-Рассказчик: И в этом заключается безнадёжное будущее — или его полное отсутствие — для преступного Синдиката.
+Рассказчик: И в этом заключается безнадёжное будущее — или его отсутствие — для преступного Синдиката.

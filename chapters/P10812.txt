@@ -14,7 +14,7 @@
 Рассказчик: Всё, что оно получило, впервые посетив банкет в Дагуаньюане...
 
 # Original: Haah... no one came to the banquet but my big brother with that silly smile, huh?
-Измаил: Хаах... никто не пришёл на банкет, кроме моего старшего брата с этой дурацкой улыбкой, да?
+Измаил: Хаах... никто не пришёл на банкет, кроме моего старшего брата с этой своей дурацкой улыбкой, а?
 
 # Original: ... was a nearly empty party. The Family Hierarch and the family elders, whom she actually came to see, apparently all had some business to attend to and only left her letters and notes.
 Рассказчик: ... это практически безлюдный приём. Глава Семьи и старейшины, которых оно действительно пришло увидеть, по-видимому, все были заняты какими-то делами и оставили ему только письма и записки.
@@ -23,7 +23,7 @@
 Рассказчик: А те, кому оно было безразлично, даже не удосужились показать свои лица...
 
 # Original: So, essentially, there was but a single family member who was there to welcome her.
-Рассказчик: Так что, по сути, нашёлся только один член семьи, который прибыл встретить его.
+Рассказчик: Так что, по сути, нашёлся только один член семьи, который прибыл встретить её.
 
 # Original: This being an inauspicious place, it has already been anticipated that they would not hail your return with open arms...
 И Сан: Сие место неблагоприятно, так что уже предвиделось, что они не встретят твоё возвращение с распростёртыми объятиями...
@@ -50,7 +50,7 @@
 Измаил: Фух... Не могу поверить, что нам действительно удалось зачерпнуть немного этих ■■■■■ из глубин по следам ■■■■■■■ Кита. Нам действительно повезло, да?
 
 # Original: Jeez, I'm still shaking from what a close call that was. First time in the Lakes, almost devoured by the Waves as soon as we sailed out...
-Измаил: Боже, я всё ещё дрожу от того, насколько всё было на волоске. Первый раз в Озёрах, чуть не сожраны Волнами, как только мы вышли в плавание...
+Измаил: Боже, я всё ещё дрожу от того, насколько всё было на волоске. Первый раз на Озёрах, едва не поглощены Волнами, как только мы вышли в плавание...
 
 # Original: It could not be helped. You are a sc■■■ of the Jia Family; you must have had no ■■■■■ ■■ visit U Corp. even once.
 И Сан: Иного пути не было. Ты — от■■■■■ семьи Цзя; у тебя не было ни ■■■■■ посетить Корпорацию U хотя бы раз.
@@ -107,7 +107,7 @@
 Измаил: Ну и жуткую песню они выбрали, чтобы петь её на улицах.
 
 # Original: I guess that's Hongyuan for you.
-Измаил: Наверное, это и есть Хунъюань.
+Измаил: Наверное, для тебя это и есть Хунъюань.
 
 # Original: What an... egregious song this is.
 И Сан: Какая... возмутительная песня.
@@ -125,10 +125,10 @@
 Рассказчик: Песня называла его зловещим знамением... и не без оснований. Его боится каждый кандидат на пост Главы Семьи.
 
 # Original: At first, what they felt was envy. Envy for the gem of Hongyuan who was praised and loved by the elders...
-Рассказчик: Сначала они чувствовали зависть. Зависть к драгоценности Хунъюаня, которого хвалили и любили старейшины...
+Рассказчик: Сначала они чувствовали зависть. Зависть к самоцвету Хунъюаня, которого хвалили и любили старейшины...
 
 # Original: ... but that envy soon turned to fear when the gem began to ruthlessly wield the favor and love as his power to dominate the competition.
-Рассказчик: ... но эта зависть вскоре превратилась в страх, когда эта драгоценность начала безжалостно использовать благосклонность и любовь как свою силу, позволяющую ей доминировать над конкурентами.
+Рассказчик: ... но эта зависть вскоре превратилась в страх, когда самоцвет начал безжалостно использовать благосклонность и любовь как свою силу, позволяющую ему доминировать над конкурентами.
 
 # Original: Every move he made was a threat against the other candidates.
 Рассказчик: Каждый его ход был угрозой другим кандидатам.
@@ -137,16 +137,16 @@
 Рассказчик: Но... то, чего боится дитя, — это нечто иное.
 
 # Original: The scariest thing about him is that... none of us have any idea what he's thinking behind that smiling face of his.
-Измаил: Самое страшное в нём то, что... никто из нас понятия не имеет, о чём он думает за этим улыбающимся лицом.
+Измаил: Самое страшное в нём то, что... никто из нас понятия не имеет, о чём он думает, скрываясь за этим улыбающимся лицом.
 
 # Original: Yet, has he not always shown quite the pleasant degree of gentleness toward you, Miss? He thought it kind to visit your banquet, after all.
-И Сан: И всё же, разве он не всегда проявлял к тебе весьма приятную степень мягкости, мисс? Он счёл добрым делом посетить твой банкет, в конце концов.
+И Сан: И всё же, разве он не всегда проявлял к тебе весьма приятную степень доброты, мисс? Он счёл добрым делом посетить твой банкет, в конце концов.
 
 # Original: Were you not quite close with him in your youth?
 И Сан: Разве вы не были довольно близки в юности?
 
 # Original: Yeah, we used to be pretty close. I followed him around because he'd always play with me wearing that silly smile of his, but...
-Измаил: Да, мы были довольно близки. Я ходила за ним по пятам, потому что он всегда играл со мной с этой дурацкой улыбкой, но...
+Измаил: Да, мы были довольно близки. Я ходила за ним по пятам, потому что он всегда играл со мной надев на лицо эту глупую улыбку, но...
 
 # Original: ... That smile just feels so... I don't know, it makes my skin crawl.
 Измаил: ... Эта улыбка просто кажется такой... не знаю, от неё мурашки по коже.
@@ -170,10 +170,10 @@
 Рассказчик: Дитя качает головой, пытаясь прояснить свой разум после того, как поделилось опасениями со своей правой рукой.
 
 # Original: Analyzing other candidates was all well and good, but she decided that it would be best for her to focus on what she has at this very moment.
-Рассказчик: Анализировать других кандидатов было хорошо и правильно, но оно решило, что лучше всего будет сосредоточиться на том, что у него есть в данный момент.
+Рассказчик: Анализировать других кандидатов — это всё очень хорошо и замечательно, но оно решило, что лучше всего будет сосредоточиться на том, что у него есть в данный момент.
 
 # Original: I'm just worried that even that concern might be kinda... premature, to be honest.
-Измаил: Я просто волнуюсь, что даже это беспокойство может быть... преждевременным, если честно.
+Измаил: Если честно, я просто волнуюсь, что даже это беспокойство может быть... преждевременным.
 
 # Original: We gotta focus on protecting what we have until the Evaluation day.
 Измаил: До наступления дня Оценки нам нужно сосредоточиться на защите того, что у нас есть.
@@ -182,22 +182,22 @@
 И Сан: Тогда вернёмся в <ruby=Форт Тёплого Аромата>Нуаньсянъу</ruby>.
 
 # Original: Been a while since I got to sleep in my own room, huh.
-Измаил: Давненько я не спала в своей комнате, да?
+Измаил: Давненько я не спала в своей комнате, а?
 
 # Original: The same night, the latter edge of Hai hour(亥時).
 Рассказчик: Той же ночью, вторая половина часа Хай (亥時).
 
 # Original: Contrary to what she said, the child cannot seem to fall asleep. Well... it's more like she wasn't thinking of going to sleep at all tonight.
-Рассказчик: Вопреки тому, что оно сказало, дитя, похоже, не может заснуть. Ну... скорее, оно вообще не собиралось спать этой ночью.
+Рассказчик:  Дитя, похоже, не может заснуть, вопреки тому, что оно сказало. Ну... или скорее, оно вообще не собиралось сегодня спать.
 
 # Original: This was her first night back in Hongyuan. She knew that it was pretty much a guarantee that she'd be getting ambushed.
 Рассказчик: Это была его первая ночь в Хунъюане. Оно знало, что практически гарантированно подвергнется нападению.
 
 # Original: If she doesn't survive the ambush, even if she were to be revived later... the clue she brought would be gone.
-Рассказчик: Если оно не переживёт нападение, даже если его воскресят позже... ключ, который оно принесло, будет потерян.
+Рассказчик: Если она не переживёт засаду, даже если её воскресят позже... ключ, который она принесла, будет потерян.
 
 # Original: And she wasn't wrong.
-Рассказчик: И оно не ошиблось.
+Рассказчик: И она не ошиблось.
 
 # Original: Miss.
 И Сан: Мисс.
@@ -209,31 +209,31 @@
 Измаил: Хаах... нет места лучше дома, да?
 
 # Original: I would've thought they were underestimating me had tonight been completely peaceful.
-Измаил: Я бы подумала, что они недооценивают меня, если бы сегодняшняя ночь была совершенно мирной.
+Измаил: Если бы сегодняшняя ночь была совершенно мирной, я бы подумала, что они недооценивают меня.
 
 # Original: Yet... Strange.
 И Сан: И всё же... Странно.
 
 # Original: Y... S...? Yi Sang, this is seriously not the time for one of your weird puns—
-Измаил: И... С...? И Сан, сейчас серьёзно не время для одного из твоих странных каламбуров—
+Измаил: И... С...? И Сан, сейчас не время для одного из твоих странных каламбуров—
 
 # Original: The child muttered at her right-hand man, who somehow found it appropriate to make a pun in this tense situation...
-Рассказчик: Дитя пробормотало своему помощнику, который каким-то образом счёл уместным каламбурить в этой напряжённой ситуации...
+Рассказчик: Пробормотало дитя своему помощнику, который каким-то образом счёл уместным каламбурить в этой напряжённой ситуации...
 
 # Original: ... but he only looked back at her in confusion, as though it was no joke at all.
-Рассказчик: ... но он только посмотрел на него в замешательстве, как будто это вовсе не была шутка.
+Рассказчик: ... но он только посмотрел на неё в замешательстве, как будто это была вовсе не шутка.
 
 # Original: I wish also that the situation indeed called for jests, yet...
-И Сан: Я тоже желал бы, чтобы ситуация действительно располагала к шуткам, но...
+И Сан: Я тоже желал бы, чтобы ситуация действительно располагала к балагурству, но...
 
 # Original: ... it seems that I have neglected aught. It is not the Shi family that holds these serpents' leash.
-И Сан: ... похоже, я упустил нечто. Не семья Ши держит цепи этих змей.
+И Сан: ... похоже, я упустил нечто. Не семья Ши держит на поводке этих змей.
 
 # Original: …!
 Измаил: …!
 
 # Original: There was a sound of several pairs of powerful legs kicking the ground, followed by the terrified screams of her clansmen.
-Рассказчик: Раздался звук нескольких пар мощных ног, ударяющих о землю, за которым последовали испуганные крики членов его клана.
+Рассказчик: Раздался звук нескольких пар мощных ног, ударивших о землю, за которым последовали испуганные крики членов его клана.
 
 # Original: The child's expression hardened with the realization that she was under even greater danger than she'd thought.
 Рассказчик: Выражение лица дитя ожесточилось от осознания того, что оно находится в ещё большей опасности, чем думало.
@@ -254,16 +254,16 @@
 Хон Лу: Я был единственным, кто занял место на том твоём безлюдном банкете в Дахуатине, не так ли?
 
 # Original: ... Big brother Baoyu?
-Измаил: ... Старший брат Баоюй?
+Измаил: ... Старший брат Баою?
 
 # Original: Huh. So much for trusting anyone in this stupid house.
 Измаил: Ха. Вот тебе и доверие к кому-либо в этом дурацком доме.
 
 # Original: Looks like you've found a hidden knack for knifing people in the back while I was gone, huh?
-Измаил: Похоже, ты открыл в себе скрытый талант к тому, чтобы вонзать людям нож в спину, пока меня не было, да?
+Измаил: Похоже, ты открыл в себе скрытый талант к тому, чтобы вонзать людям нож в спину, пока меня не было, а?
 
 # Original: Hm~ are you sure 'knack' is the right word? Please, I've learned and studied hard for this.
-Хон Лу: Хм~ ты уверена, что «талант» — подходящее слово? Прошу, я изрядно потрудился, учась этому.
+Хон Лу: Хм~ ты уверена, что «талант» — подходящее слово? Попрошу, я долго и усердно учился этому.
 
 # Original: How did you even get ahold of the snakes' leashes— Ah. I guess all this questioning is kinda pointless, huh.
 Измаил: Как ты вообще заполучил цепи змей— А. Наверное, все эти расспросы бессмысленны, да.
@@ -275,13 +275,13 @@
 Рассказчик: Он держится с видом просветлённого человека, но дитя знает, что это всё фарс.
 
 # Original: His laid-back attitude wasn't prudence; it was arrogance...
-Рассказчик: Его расслабленное отношение было не благоразумием; это было высокомерие...
+Рассказчик: Его непринуждённое поведение было не благоразумием; это было высокомерие...
 
 # Original: ... and every word that spoke of humanity and righteousness that came out of his mouth was hollow.
 Рассказчик: ... и каждое слово о человеколюбии и праведности, исходившее из его уст, было пустым.
 
 # Original: I never should've let my guard down, damned be the good memories we shared...
-Измаил: Мне никогда не следовало терять бдительность, будь прокляты хорошие воспоминания, которые мы разделяли...
+Измаил: Мне никогда не следовало терять бдительность, будь прокляты наши хорошие воспоминания, что мы разделяли...
 
 # Original: Aw, you're still seeking to gain understanding even in a jam like this? I'm so proud of you.
 Хон Лу: Ах, ты всё ещё стремишься к пониманию даже в такой передряге? Я так горжусь тобой.
@@ -296,10 +296,10 @@
 Хон Лу: А это кажется... немного неосуществимым для тебя, не так ли?
 
 # Original: Young lord Baoyu, that is—
-И Сан: Молодой господин Баоюй, это—
+И Сан: Молодой господин Баою, это—
 
 # Original: Enough talk. Nothing'll come of this conversation anyway.
-Измаил: Хватит разговоров. Ничего из этой беседы не выйдет.
+Измаил: Хватит разговоров. В любом случае, из этой беседы ничего не выйдет.
 
 # Original: I'll prove myself by surviving tonight.
 Измаил: Я докажу это, пережив эту ночь.
@@ -320,13 +320,13 @@
 Рассказчик: Большинство других кандидатов в таких обстоятельствах сдались бы от страха...
 
 # Original: ... but she wasn't going down that easy. She was going to put her all into surviving tonight, as she has always done.
-Рассказчик: ... но оно не собиралось сдаваться так легко. Оно собиралось вложить всё в то, чтобы пережить эту ночь, как оно делало это всегда.
+Рассказчик: ... но она не собиралась сдаваться так просто. Чтобы пережить эту ночь, она собиралась приложить все усилия, как и делала это всегда.
 
 # Original: Yeah... I'm probably gonna regret this.
 Измаил: Да... я, наверное, буду сожалеть об этом.
 
 # Original: But it's really not like me to back down. Not here.
-Измаил: Но это действительно не в моём стиле — отступать. Не здесь.
+Измаил: Но отступать — это не в моём стиле. Не здесь.
 
 # Original: ... Ha ha.
 Хон Лу: ... Ха-ха.
@@ -335,4 +335,4 @@
 Рассказчик: Борьба против течения, выживание в этих смертельных, болезненных обстоятельствах...
 
 # Original: ... she was used to it all. Just as she was to the smile the man before her wore.
-Рассказчик: ... оно привыкло ко всему этому. Как и к улыбке, которую носил мужчина перед ним.
+Рассказчик: ... она привыкла ко всему этому. Как и к улыбке, которую носил мужчина перед ней.
