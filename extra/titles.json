@@ -3667,5 +3667,46 @@
   {
     "original": "The Ring's Art Ingredient",
     "translation": "Ингредиет произведения искусства Безымянного"
+  },
+  {
+    "original": "Welfare Team Captain",
+    "translation": "Капитан Команды Благосостояния",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Welfare Team Clerk",
+    "translation": "Клерк Команды Благосостояния"
+  },
+  {
+    "original": "Welfare Team Agent",
+    "translation": "Агент Команды Благосостояния",
+    "model": "료슈"
+  },
+  {
+    "original": "The Middle Apprentice",
+    "translation": "Ученица Среднего",
+    "model": "이스마엘"
+  },
+  {
+    "original": "The Middle Nursefather",
+    "translation": "Отец-воспитатель Среднего",
+    "model": "오티스"
+  },
+  {
+    "original": "Abnormality",
+    "translation": "Аномалия"
+  },
+  {
+    "original": "Information Team Agent",
+    "translation": "Агент Информационной Команды"
+  },
+  {
+    "original": "LCE Research Team Chief",
+    "translation": "Начальник Исследовательской Команды LCE",
+    "model": "그레고르"
+  },
+  {
+    "original": "LCA HR Management Team 2",
+    "translation": "2 Команда Управления Персоналом LCA"
   }
 ]
