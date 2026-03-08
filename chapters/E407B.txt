@@ -116,7 +116,7 @@
 Ольга: Верно~
 
 # Original: You heard 'er, clockface.
-Хитклиф: Ты слышала ее, циферблат.
+Хитклиф: Ты слышал её, часовая башка.
 
 # Original: Heathcliff turned to me, visibly eager to go up and crush some shells.
 Рассказчик: Хитклиф повернулся ко мне, явно горя желанием взбодриться и раздавить несколько панцирей.

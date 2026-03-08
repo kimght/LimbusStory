@@ -122,7 +122,7 @@
 Измаил: …….
 
 # Original: Ishmael limps toward Ahab. The Captain is on the ground, defeated.
-Рассказчик: Измаил хромая идёт к Ахав. Капитан лежит на земле, поверженная.
+Рассказчик: Измаил, хромая, идёт к Ахав. Капитан лежит на земле, поверженная.
 
 # Original: In Ishmael's hand is the harpoon that has been whetted and sharpened for this singular moment.
 Рассказчик: В руке Измаил гарпун, который был заточен и заострён лишь для этого единственного момента.

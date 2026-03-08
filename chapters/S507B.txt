@@ -23,7 +23,7 @@
 Пираты Двукрюки?: Вот они! Взять их!
 
 # Original: Aaah! S-sorry for disturbing you!
-Гость: Ааа! П-простите, что побеспокоил!
+Гость: Ааа! П-простите, что побеспокоила!
 
 # Original: Okay everyone~ Let's do the famous 'Marlin Dance' of our beloved Marlin port!
 Рассказчик: Так, все вместе~ Давайте исполним знаменитый "Танец Марлина" нашего любимого порта Марлин!
