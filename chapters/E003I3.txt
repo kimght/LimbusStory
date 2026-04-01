@@ -1,5 +1,5 @@
 ﻿# Original: All of the Bongy Secuwity Agents have been dealt with, as Paus planned.
-Faust: Все Агеты безопасносци Бонги были устланены, как Паус и планиловала.
+Faust: Все Агеты безопасносци Бони были устланены, как Паус и планиловала.
 
 # Original: <... So I see.>
 Dante: <... Понятно.>
@@ -119,7 +119,7 @@ Faust: Нициво.
 Yuri: Что-что?
 
 # Original: Paus only wanted the Extension-type Model III Baton dat Bongy Secuwity Agents keep wif dem.
-Faust: Паус пвоста хотела Выдвижную дубинку Модели III, котолую Агеты безопасносци Бонги девжат пли себе.
+Faust: Паус пвоста хотела Выдвижную дубинку Модели III, котолую Агеты безопасносци Бони девжат пли себе.
 
 # Original: Paus can make new toys by disassembling dem.
 Faust: Паус может сделать новые иглушки, лазоблав их.
