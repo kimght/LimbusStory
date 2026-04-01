@@ -1,4 +1,4 @@
-{
+﻿{
   "K Corp. Laboratory Lobby": "Холл Лаборатории Корп. К",
   "District 4 - LC Branch Interior": "Внутри филиала «Лоботомии» 4-го Района",
   "Midst of the Smoke War": "Посреди Дымовой войны",
@@ -368,5 +368,9 @@
   "Corridor of the Index, Long Ago": "Коридор Указательного, давным давно",
   "LCE Research Team\nLab. Sector, Past": "Исследовательская команда LCE\nЛаб. сектор, прошлое",
   "L Corp. HQ Welfare Team Hallway": "Корридор Команды Благосостояния Штаб Квартиры Корп. L",
-  "L Corp. HQ Welfare Team Lobby": "Холл Команды Благосостояния Штаб Квартиры Корп. L"
+  "L Corp. HQ Welfare Team Lobby": "Холл Команды Благосостояния Штаб Квартиры Корп. L",
+  "-1": "",
+  "Limbus Kindergarten?": "Детский сад \"Лимбусята\"?",
+  "Kindergarten Kitchen?": "Кухня детского сада",
+  "Inside Mephistopheles?": "Внутри Мефистофеля"
 }

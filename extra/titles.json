@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "original": "Grade 8 Fixer",
     "translation": "Корректировщица 8 ранга",
@@ -3708,5 +3708,30 @@
   {
     "original": "LCA HR Management Team 2",
     "translation": "2 Команда Управления Персоналом LCA"
+  },
+  {
+    "original": "Dietitian",
+    "translation": "Диетолог",
+    "model": "유리만우"
+  },
+  {
+    "original": "Driver",
+    "translation": "Водитель",
+    "model": "카론만우"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "유리만우"
+  },
+  {
+    "original": "Distortion",
+    "translation": "Искажение",
+    "model": "유리만우"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "베르길리우스만우"
   }
 ]
