@@ -14,7 +14,7 @@ Ishmael: Агась! Вооооот стооока фишек!
 Narrator: Измаил уверенно вывалила на стол целый мешок фишек для казино.
 
 # Original: Ooooh... Shiny!
-Heathcliff: О-о-о... Блестят!
+Heathcliff: О-о-о... Блестят! Блестят!
 
 # Original: Did I do good, Miss Yuri? Capain din't even get half of half of me!
 Ishmael: Я холосё посталалась, мисс Юри? Капитан дазе половину от половины моего не соблал!
@@ -395,7 +395,7 @@ Ryōshū: Нет. Есви товко ты не Т.И.
 Faust: Рёшу. Нельзя так лазговаливать с дилектолом. Поплобуй есё лаз.
 
 # Original: ... *sigh* No, <i>Pwincipal.</i>
-Ryōshū: ... *вздох* Нет, <i>Дивектол.</i>
+Ryōshū: ... *вздох* Нет,  <i>Дивектол.</i>
 
 # Original: <D-don't mind me, I'm fine...>
 Dante: <Н-не обращайте на меня внимания, я в порядке...>

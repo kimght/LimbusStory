@@ -173,7 +173,7 @@ Narrator: О, нет... лицо Мисс Юри... оно мрачнеет на
 Dante: <... А-а как же остальные? Рёшу? Хон Лу?>
 
 # Original: Meal times are better shotened, too. <i>Pwincipal</i>.
-Ryōshū: Ввемя плиема пищи тоже луцсе соклатить. <i>Дилектол</i>.
+Ryōshū: Ввемя плиема пищи тоже луцсе соклатить.  <i>Дилектол</i>.
 
 # Original: Um... I think I like the cooking back home better!
 Hong Lu: Эм... Думаю, еда у меня дома нравится мне больше!
