@@ -3733,5 +3733,19 @@
     "original": "???",
     "translation": "???",
     "model": "베르길리우스만우"
+  },
+  {
+    "original": "The Ring Apprentice",
+    "translation": "Ученица Безымянного",
+    "model": "파우스트"
+  },
+  {
+    "original": "The Ring Nursefather",
+    "translation": "Отец-воспитатель Безымянного",
+    "model": "홍루"
+  },
+  {
+    "original": "Uninvited Guest?",
+    "translation": "Незваный Гость?"
   }
 ]

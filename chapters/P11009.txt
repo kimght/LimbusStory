@@ -209,7 +209,7 @@
 Рассказчик: Но идти по этому пути так больно. Я желаю, чтобы он не подвергал себя таким страданиям.
 
 # Original: The child, now freed from his shell, dangerously attempts to reach for the heavens when he has but a lone wing.
-Рассказчик: Дитя, теперь освобождённое от своей оболочки, опасно пытается достичь небес, имея лишь одно крыло.
+Рассказчик: Дитя, теперь освобождённое от своей оболочки, пытается достичь небес, имея лишь одно крыло.
 
 # Original: Not knowing that his shaky consciousness was the only thing keeping his wing intact in the flames that devoured his emotions as fuel.
 Рассказчик: Не зная, что его шаткое сознание было единственным, что удерживало его крыло целым в пламени, пожирающем его эмоции как топливо.
