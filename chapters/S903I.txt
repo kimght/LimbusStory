@@ -17,16 +17,16 @@
 Рассказчик: Рёшу была единственной, кто сохранил достаточное хладнокровие, чтобы поднять меч на нападавшего на этом тесном поле боя.
 
 # Original: Bothersome little halfwit. Arms straight, I said. How many times... Just how many times must I repeat myself?
-Валенсина: Докучливая дура. Руки прямо, я сказала. Сколько раз... Ну сколько раз мне нужно повторять?
+Валенчина: Докучливая дура. Руки прямо, я сказала. Сколько раз... Ну сколько раз мне нужно повторять?
 
 # Original: Oh, stop making a fuss—it couldn't have hurt that much. On your feet. Get off your ass! What makes you think you deserve a break?
-Валенсина: Ой, хватит ныть — не могло быть так больно. Живо на ноги. Поднимай свою задницу! С чего ты решила, что заслужила отдых?
+Валенчина: Ой, хватит ныть — не могло быть так больно. Живо на ноги. Поднимай свою задницу! С чего ты решила, что заслужила отдых?
 
 # Original: Quit being a whiny little brat and pick up that sword. Slash straight. See? That wasn't so hard, was it?
-Валенсина: Прекращай вести себя как плаксивая малявка и поднимай меч. Руби прямо. Видишь? Это ведь было не так уж и трудно, а?
+Валенчина: Прекращай вести себя как плаксивая малявка и поднимай меч. Руби прямо. Видишь? Это ведь было не так уж и трудно, а?
 
 # Original: If I <i>ever</i> hear you whining again... I'll rip your hair clean off your head, so get your act together.
-Валенсина: Если я <i>хоть раз</i> ещё услышу твоё нытьё... я тебе все волосы с корнем вырву, так что соберись.
+Валенчина: Если я <i>хоть раз</i> ещё услышу твоё нытьё... я тебе все волосы с корнем вырву, так что соберись.
 
 # Original: ... You.
 Рёшу: ...Ты.
@@ -38,7 +38,7 @@
 Лучио: Палермский стиль. Я тоже был ему обучен.
 
 # Original: Did you learn it from Valencina, that boozehound?
-Рёшу: Научился у Валенсины, этой алкашки?
+Рёшу: Научился у Валенчины, этой алкашки?
 
 # Original: I must ask you not to insult her with such a crude epithet. ... My master gave me an order when she imparted this style to me:
 Лучио: Я должен попросить вас не оскорблять её столь грубым эпитетом. ...Моя госпожа дала мне наказ, когда передавала этот стиль:
@@ -59,13 +59,13 @@
 Рёшу: Если ты всего лишь подражатель, то угол запястья, расстояние между стопами, баланс самого меча — всё это должно быть точным, потому что даже единственное несоответствие...
 
 # Original: Are you actually that incompetent, or do you enjoy the beating? Maintain your stance!
-Валенсина: Ты на самом деле настолько бездарна, или тебе нравится получать взбучку? Держи стойку!
+Валенчина: Ты на самом деле настолько бездарна, или тебе нравится получать взбучку? Держи стойку!
 
 # Original: Don't bother your stupid little head trying to be clever and just stick to what you’ve been taught! Take what you memorized and <i>move</i>!
-Валенсина: Не забивай свою глупую башку попытками сострить и просто придерживайся того, чему тебя учили! Вспомни заученное и <i>двигайся</i>!
+Валенчина: Не забивай свою глупую башку попытками сострить и просто придерживайся того, чему тебя учили! Вспомни заученное и <i>двигайся</i>!
 
 # Original: The sooner you become the blade that cuts through all, the better. Only then can I—
-Валенсина: Чем скорее ты станешь клинком, разрубающим всё на свете, тем лучше. Только тогда я смогу—
+Валенчина: Чем скорее ты станешь клинком, разрубающим всё на свете, тем лучше. Только тогда я смогу—
 
 # Original: ... will break your form, making your swordsmanship as precarious as a tightrope walk headed straight for a fall.
 Рёшу: ...нарушит твою форму, делая твоё фехтование столь же шатким, как прогулка по канату, ведущая прямиком к падению.
@@ -101,19 +101,19 @@
 Рёшу: ...пока ты не будешь изрублен и искромсан до неузнаваемости.
 
 # Original: Hah... Damn. My eye's torn up again—Yup, I landed on the right place. That's my Ticket all right.
-Валенсина: Ха... Проклятье. Мой глаз снова дёргается — ага, я попала в точку. Это точно мой Билетик.
+Валенчина: Ха... Проклятье. Мой глаз снова дёргается — ага, я попала в точку. Это точно мой Билетик.
 
 # Original: Gah...!
 Рёшу: Гх...!
 
 # Original: I told you, Lucio.
-Валенсина: Я же говорила тебе, Лучио.
+Валенчина: Я же говорила тебе, Лучио.
 
 # Original: You could spend years honing your skills...
-Валенсина: Ты можешь годами оттачивать свои навыки...
+Валенчина: Ты можешь годами оттачивать свои навыки...
 
 # Original: But that still won't be enough to catch up to our Yoshihide.
-Валенсина: Но этого всё равно будет недостаточно, чтобы догнать нашу Ёшихидэ.
+Валенчина: Но этого всё равно будет недостаточно, чтобы догнать нашу Ёшихидэ.
 
 # Original: .......
 Лучио: .......
@@ -122,37 +122,37 @@
 Рассказчик: Мужчина слегка пошатнулся, его голова дёрнулась в сторону от силы удара.
 
 # Original: Isn't it obvious now that you've seen it yourself?
-Валенсина: Разве теперь это не очевидно, раз ты увидел всё сам?
+Валенчина: Разве теперь это не очевидно, раз ты увидел всё сам?
 
 # Original: How sad and pathetic your progress is.
-Валенсина: Насколько печален и жалок твой прогресс.
+Валенчина: Насколько печален и жалок твой прогресс.
 
 # Original: This... This is the problem with greenhorns who haven't had a taste of the War... They don't know what it's like to crawl through the muck and grime of the battlefield where the slightest inattention can get your head blown clean off...
-Валенсина: В этом... В этом и проблема новичков, которые не пробовали Войну на вкус... Они не знают, каково это — ползать в грязи и нечистотах поля боя, где малейшая невнимательность может стоить тебе головы...
+Валенчина: В этом... В этом и проблема новичков, которые не пробовали Войну на вкус... Они не знают, каково это — ползать в грязи и нечистотах поля боя, где малейшая невнимательность может стоить тебе головы...
 
 # Original: When faced with a superior opponent, don't just rely on brawn, but redirect the force of their attack to the side by locking their arc with the tip of your sword—I've said it time and again.
-Валенсина: Столкнувшись с превосходящим противником, не полагайся на одну лишь грубую силу, а перенаправляй энергию его атаки в сторону, блокируя траекторию кончиком своего меча — я говорила это снова и снова.
+Валенчина: Столкнувшись с превосходящим противником, не полагайся на одну лишь грубую силу, а перенаправляй энергию его атаки в сторону, блокируя траекторию кончиком своего меча — я говорила это снова и снова.
 
 # Original: And when you're outnumbered, lower your form and draw wide arcs with your sword. Did you forget everything I drilled into you after shouting myself hoarse?
-Валенсина: А когда ты в меньшинстве, пригнись и описывай широкие дуги мечом. Ты что, забыл всё, что я в тебя вдалбливала, пока не охрипла?
+Валенчина: А когда ты в меньшинстве, пригнись и описывай широкие дуги мечом. Ты что, забыл всё, что я в тебя вдалбливала, пока не охрипла?
 
 # Original: Secure a corner,
-Валенсина: Займи угол,
+Валенчина: Займи угол,
 
 # Original: force them to get to you in a single file...
-Валенсина: заставь их подходить к тебе по одному...
+Валенчина: заставь их подходить к тебе по одному...
 
 # Original: Because positioning is everything. Didn't I tell you all of this before?
-Валенсина: Потому что позиционирование — это всё. Разве я не говорила тебе этого раньше?
+Валенчина: Потому что позиционирование — это всё. Разве я не говорила тебе этого раньше?
 
 # Original: If Yoshihide is to recall even one more lesson from me, the textbook can't afford to have any defects.
-Валенсина: Если Ёшихидэ должна вспомнить хотя бы ещё один мой урок, учебник не может позволить себе иметь дефекты.
+Валенчина: Если Ёшихидэ должна вспомнить хотя бы ещё один мой урок, учебник не может позволить себе иметь дефекты.
 
 # Original: ... Forgive me, Master.
 Лучио: ...Простите меня, Госпожа.
 
 # Original: But... you did manage to collect this one as instructed. Maybe you're not completely useless after all.
-Валенсина: Но... тебе всё же удалось забрать эту, как и было приказано. Может, ты и не совсем бесполезен.
+Валенчина: Но... тебе всё же удалось забрать эту, как и было приказано. Может, ты и не совсем бесполезен.
 
 # Original: Hatred thick in her voice, Ryōshū hissed "The Thumb Nursefather..." under her breath as she shifted into a blade-drawing stance against the second assailant.
 Рассказчик: С нескрываемой ненавистью в голосе Рёшу прошипела себе под нос: «Отец-воспитатель Большого Пальца...», принимая стойку для извлечения клинка против второго нападавшего.
@@ -161,13 +161,13 @@
 Рёшу: .......
 
 # Original: Hey. How have you been doing, Ticket?
-Валенсина: Эй. Как поживаешь, Билетик?
+Валенчина: Эй. Как поживаешь, Билетик?
 
 # Original: Your form's really become a wreck since you were away. Just seeing that sloppy grip makes me sigh. I had to beat that habit out of you back in the day, remember?
-Валенсина: Твоя форма совсем развалилась за время отсутствия. От одного вида этой небрежной хватки мне хочется вздохнуть. Мне ведь пришлось выбивать из тебя эту привычку в своё время, помнишь?
+Валенчина: Твоя форма совсем развалилась за время отсутствия. От одного вида этой небрежной хватки мне хочется вздохнуть. Мне ведь пришлось выбивать из тебя эту привычку в своё время, помнишь?
 
 # Original: Tch. Still... this reunion's been a long time coming, so I suppose I owe you a bit of courtesy. You're old enough now to understand what I'm saying without me having to resort to the occasional backhand, aren't you?
-Валенсина: Тьфу. Всё же... эта встреча была долгожданной, так что, полагаю, я должна проявить немного вежливости. Ты уже достаточно взрослая, чтобы понимать мои слова без рукоприкладства, не так ли?
+Валенчина: Тьфу. Всё же... эта встреча была долгожданной, так что, полагаю, я должна проявить немного вежливости. Ты уже достаточно взрослая, чтобы понимать мои слова без рукоприкладства, не так ли?
 
 # Original: "Ticket?"
 Рёшу: «Билетик»?
@@ -179,13 +179,13 @@
 Рёшу: ...Очевидно, ты всё та же жалкая куча дерьма, застрявшая в выгребной яме, которую сама же и выкопала.
 
 # Original: ... Did you just call me... a "sack of shit?"
-Валенсина: ...Ты только что назвала меня... «кучей дерьма»?
+Валенчина: ...Ты только что назвала меня... «кучей дерьма»?
 
 # Original: Hah... Bitch... you should know your place before barking at your betters.
-Валенсина: Ха... Сучка... тебе стоит знать своё место, прежде чем гавкать на тех, кто выше тебя.
+Валенчина: Ха... Сучка... тебе стоит знать своё место, прежде чем гавкать на тех, кто выше тебя.
 
 # Original: ...!
-Валенсина: ...!
+Валенчина: ...!
 
 # Original: Sensing a sudden presence outside, the so-called Thumb Nursefather snatched Charon into her arms and swiftly assumed a fighting stance.
 Рассказчик: Почувствовав внезапное присутствие снаружи, так называемая Отец-воспитатель Большого Пальца схватила Харон на руки и стремительно приняла боевую стойку.

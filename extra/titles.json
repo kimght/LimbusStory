@@ -3747,5 +3747,87 @@
   {
     "original": "Uninvited Guest?",
     "translation": "Незваный Гость?"
+  },
+  {
+    "original": "The House of Spiders",
+    "translation": "Дом Пауков",
+    "model": "소지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "앨런마스크"
+  },
+  {
+    "original": "Wayfarer Company",
+    "translation": "Компания Вэйфарер",
+    "model": "앨런마스크"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에밀브누아"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация",
+    "model": "오티스"
+  },
+  {
+    "original": "Radio",
+    "translation": "Рация",
+    "model": "로쟈"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "그레고르네부장"
+  },
+  {
+    "original": "The Ring",
+    "translation": "Безымянный",
+    "model": "약지아이1"
+  },
+  {
+    "original": "The Ring",
+    "translation": "Безымянный",
+    "model": "약지아이2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "털루포"
+  },
+  {
+    "original": "The House of Spiders",
+    "translation": "Дом Пауков",
+    "model": "사루"
+  },
+  {
+    "original": "The Ring Fauvist Docent",
+    "translation": "Доцент Фовизма Безымянного"
+  },
+  {
+    "original": "The Ring Fauvist Docent",
+    "translation": "Доцент Фовизма Безымянного",
+    "model": "로쟈"
+  },
+  {
+    "original": "Wayfarer Doorbreach Team 5",
+    "translation": "5-ая группа по Взлому Дверей Вэйфарер"
+  },
+  {
+    "original": "Wayfarer Doorbreach Team 5 Leader",
+    "translation": "Лидер 5-ой группы по Взлому Дверей"
+  },
+  {
+    "original": "The Ring Fauvist Student",
+    "translation": "Студент Фовизма Безымянного",
+    "model": "뫼르소"
   }
 ]

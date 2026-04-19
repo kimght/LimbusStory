@@ -206,7 +206,7 @@ LCA агент: …!
 Риен: Подойди ближе. У тебя царапинка на щеке.
 
 # Original: It happened during Valencina's class, didn't it? Her methods are simply too violent—she's the kind of teacher who uses the number of scars as a measure of training intensity and effectiveness.
-Риен: Ты получила её на занятии Валенсины, верно? Её методы слишком жестоки — она из тех учителей, кто использует количество шрамов как меру интенсивности и эффективности обучения.
+Риен: Ты получила её на занятии Валенчины, верно? Её методы слишком жестоки — она из тех учителей, кто использует количество шрамов как меру интенсивности и эффективности обучения.
 
 # Original: Let's take good care of that wound so it doesn't scar, okay?
 Риен: Давай позаботимся об этой ране, чтобы не осталось шрама, хорошо?

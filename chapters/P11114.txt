@@ -107,7 +107,7 @@ Narrator: Даже снаряжение в этом арсенале всё вы
 Narrator: Странно. Реакция Штаба слишком вялая, учитывая, что атакован Исследовательский комплекс LCE.
 
 # Original: Even stranger still, Wayfarer Corp., responsible for the development and service of the Backdoor Portal stabilization technology for the HQ, hasn't reacted in any meaningful way to this rather serious breach of security.
-Narrator: Ещё более странно, что Компания Wayfarer, ответственная за разработку и обслуживание технологии стабилизации Порталов Черного Хода для Штаба, никак значимо не отреагировала на это довольно серьёзное нарушение безопасности.
+Narrator: Ещё более странно, что Компания Вэйфарер, ответственная за разработку и обслуживание технологии стабилизации Порталов Черного Хода для Штаба, никак значимо не отреагировала на это довольно серьёзное нарушение безопасности.
 
 # Original: Perhaps they've already talked this out with the higher-ups, but...
 Narrator: Возможно, они уже обсудили это с руководством, но...

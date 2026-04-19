@@ -29,16 +29,16 @@
 Данте: <Компания Вэйфарер?>
 
 # Original: A corporate entity partnered with Limbus Company, responsible for providing portal technology. It has, on prior occasion, been referred to as the "new" or "aspirant" W Corp.—though the name is an unofficial one.
-Фауст: Корпоративная организация, сотрудничающая с Limbus Company и отвечающая за предоставление портальных технологий. Ранее её называли «новой» или «подающей надежды» Корпорацией W — хотя это название неофициальное.
+Фауст: Корпоративная организация, сотрудничающая с Компанией Лимбус и отвечающая за предоставление портальных технологий. Ранее её называли «новой» или «подающей надежды» Корпорацией W — хотя это название неофициальное.
 
 # Original: Our employees also have taken to calling you the "new L Corp." Something we have in common, given that we're both chasing after the same horizon.
-Алан: Наши сотрудники также стали называть вас «новой Корпорацией L». У нас есть нечто общее, учитывая, что мы все гонимся за одним горизонтом.
+Алан: Наши сотрудники также стали называть вас «новой Корпорацией L». У нас есть нечто общее, учитывая, что обе наши компании стремятся к одной и той же вершине.
 
 # Original: <Ah...! I remember. That company vying to take W Corp.'s place, right?>
 Данте: <Ах...! Я вспомнил. Та компания, что борется за место Корпорации W, верно?>
 
 # Original: "The same horizon." He's probably talking about getting recognized as a Wing.
-Рассказчик: «За одним горизонтом». Вероятно, он говорит о признании Крылом.
+Рассказчик: «К одной и той же вершине». Вероятно, он говорит о признании Крылом.
 
 # Original: After all, the old L Corp. has already fallen, while W Corp., from what I've heard... is free-falling at this point.
 Рассказчик: В конце концов, старая Корпорация L уже пала, в то время как Корпорация W, судя по тому, что я слышал... сейчас находится в свободном падении.
@@ -56,7 +56,7 @@
 Рассказчик: Алан с пониманием кивнул. Мужчина снял свой громоздкий шлем, прежде чем протянуть руку для приветствия.
 
 # Original: Pleased to make your acquaintance. The name's Alan, Leader of Doorbreach Team 4.
-Алан: Рад знакомству. Меня зовут Алан, командир Четвёртой группы по взлому дверей.
+Алан: Рад знакомству. Меня зовут Алан, командир Четвёртой группы по Взлому дверей.
 
 # Original: <L-likewise...>
 Данте: <В-взаимно...>
@@ -65,13 +65,13 @@
 Рассказчик: Не успела Фауст передать моё ответное приветствие, как слова полились из уст Алана в странно неровном ритме — как будто моё тиканье его нисколько не смущало. Словно он придерживался заранее заученного сценария.
 
 # Original: I've heard great things about you, Manager Dante of Limbus Company, and the Bus Team's performance.
-Алан: Я слышал много хорошего о вас, Менеджер Данте из Limbus Company, и о работе Команды Автобуса.
+Алан: Я слышал много хорошего о вас, Менеджер Данте из Компании Лимбус, и о работе Команды Автобуса.
 
 # Original: You capitalized on the suppression of Distortions at T Corp. as leverage to push your products... and the profits were nothing short of staggering, I heard...
 Алан: Вы использовали подавление Искажений в Корпорации T как рычаг для продвижения своих продуктов... и прибыль, как я слышал, была просто ошеломляющей...
 
 # Original: <Oh yeah, we're supposed to be Distortion-resolving specialists to the public... But what's that "product" part about?>
-Данте: <Ах да, для публики мы вроде как специалисты по разрешению Искажений... Но что за часть про «продукты»?>
+Данте: <Ах да, для публики мы вроде как специалисты по разрешению Искажений... Но про какие «продукты» он говорит?>
 
 # Original: ... The Manager says it was merely a matter of luck. They also look forward to working with you on this task.
 Фауст: ... Менеджер говорит, что это было лишь делом удачи. И он также с нетерпением ждёт возможности поработать с вами над этой задачей.
@@ -110,7 +110,7 @@
 Кира: Честно говоря, у меня вообще по нулям инфы, если речь о робо-дяде и его комнате.
 
 # Original: I mean, I've seen Albina hit up that door and the other one over there when she was popping out to farm stuff, but...
-Кира: В смысле, я видела, как Альбина заскакивала в ту дверь и вон ту, когда выходила пофармить лут, но...
+Кира: В смысле, я видела, как Альбина заскакивала в ту дверь и вон ту, когда выходила пофармить, но...
 
 # Original: "Farm"...?
 Алан: «Пофармить»...?
@@ -125,10 +125,10 @@
 Кира: Человеческие кишки и всё такое. Она возвращалась, волоча за собой целые кучи этого добра.
 
 # Original: So they're prolly connected to some Backstreets area.
-Кира: Так что они, скорее всего, ведут в какой-то район Закоулков.
+Кира: Так что они, скорее всего, ведут в какой-то район Подворотен.
 
 # Original: The Backstreets... Hmm. Any more details?
-Алан: Закоулки... Хм. Есть ещё какие-нибудь детали?
+Алан: Подворотни... Хм. Есть ещё какие-нибудь детали?
 
 # Original: Can you stop prying? You're lowkey pissin' me off.
 Кира: Можешь перестать докапываться? Ты меня внатуре подбешиваешь.
@@ -152,7 +152,7 @@
 Рассказчик: Я думал, Кира достаточно проворна, чтобы легко уклониться от внезапной атаки, но эта, похоже, застала её врасплох. Она стояла и моргала, округлив глаза от грубого потрясения.
 
 # Original: Actually, it wasn't that he caught her off guard; it was the motion of the punch itself that somehow felt off. The fist being raised, the arm being extended, the blow making contact... the chain of actions was there, but it just didn't look... normal.
-Рассказчик: На самом деле, дело было не в том, что он застал её врасплох; сами движения удара почему-то казались неправильными. Занесённый кулак, вытянутая рука, соприкосновение удара с целью... цепь действий была на месте, но это просто не выглядело... нормальным.
+Рассказчик: На самом деле, дело было не в том, что он застал её врасплох; сами движения удара почему-то казались неправильными. Занесённый кулак, вытянутая рука, соприкосновение удара с целью... последовательность действий присутствовала, но это просто не выглядело... нормальным.
 
 # Original: D-did you just hit me...?
 Кира: Т-ты чё, реально меня ударил...?
@@ -224,10 +224,10 @@
 Хохенхайм: Грешница Рёшу. Предоставь Менеджеру Алану любую информацию, которой располагаешь.
 
 # Original: *puff*
-Рёшу: *затяжка*
+Рёшу: *пффф*
 
 # Original: That door... should lead to one of the Ring-protected turfs.
-Рёшу: Та дверь... должна вести на одну из территорий под крышей Безымянного.
+Рёшу: Та дверь... должна вести на одну из территорий крышуемых Безымянным.
 
 # Original: The other two on the left... I remember they were marked with an X painted with blood...
 Рёшу: Две другие слева... Я помню, они были отмечены крестом, нарисованным кровью...
@@ -290,19 +290,19 @@
 Рассказчик: Через мгновение кто-то нарушил тишину — но это была не Дон Кихот, наша обычная подозреваемая.
 
 # Original: Holy shit... The scale is just insane! Th-that's the Whale from "Eight Association: Great Lake" special issue!
-Кира: Охренеть... Масштаб просто конский! Э-это же Кит из спецвыпуска «Ассоциация Эйт: Великое Озеро»!
+Кира: Охренеть... Масштаб просто невероятный! Э-это же Кит из спецвыпуска «Ассоциация Эйт: Великое Озеро»!
 
 # Original: Kira, who'd seemed beaten-down all along, exclaimed with a bit more energy in her voice.
 Рассказчик: Кира, которая всё это время казалась подавленной, воскликнула с чуть большей энергией в голосе.
 
 # Original: Man, seeing it in real life sure hits different... And the Indigo Elder solo one-shots these monsters with that harpoon of his, huh?
-Кира: Блин, в реале это ощущается совсем иначе... А Старший Индиго в соло ваншотает таких монстров своим гарпуном, да?
+Кира: Блин, в реале это ощущается совсем иначе... А Старик Индиго в соло ваншотает таких монстров своим гарпуном, да?
 
 # Original: <... It's a Great Lake Whale. Doesn't look like the one we've encountered, though.>
 Данте: <... Это Кит Великого Озера. Хотя он не похож на того, с которым мы сталкивались.>
 
 # Original: Organisms of various sources can be identified here—Singularity-modified, Outskirts-born...
-Фауст: Здесь можно идентифицировать организмы самого разного происхождения — модифицированные Сингулярностью, рождённые на Окраинах...
+Фауст: Здесь можно идентифицировать организмы самого разного происхождения — модифицированные Сингулярностями, рождённые на Окраинах...
 
 # Original: <Th-they look almost alive... They're not, right?>
 Данте: <О-они выглядят почти живыми... Но ведь они не живые, да?>
@@ -311,10 +311,10 @@
 Фауст: Нет, они—
 
 # Original: Not. Duh. Though robo-unc did say that the Ring has these zoos where they put monsters on display alive...
-Кира: Нет. Ежу понятно. Хотя робо-дядя говорил, что у Безымянного есть такие зоопарки, где они выставляют монстров живьём...
+Кира: Нет. Ежу понятно. Хотя робо-дядя говорил, что у Безымянного есть зоопарки, где они выставляют монстров живьём...
 
 # Original: Man, this would've been way more fun if we could see the moving ones. Everything here's dead... meh. Still looks crazy sick, though. The vibe really hits.
-Кира: Блин, было бы куда веселее, если бы мы увидели, как они двигаются. Здесь всё мёртвое... мда. Но всё равно выглядит люто круто. Вайб прям в точку.
+Кира: Блин, было бы куда веселее, если бы мы увидели, как они двигаются. Здесь всё мёртвое... мда. Но всё равно выглядит люто круто. Вайб прям жёсткий.
 
 # Original: Even though she was trying to play it cool, Kira kept sneaking glances at the massive horned display off to the side, clearly surprised in a way she couldn't hide.
 Рассказчик: Несмотря на попытки казаться крутой, Кира продолжала украдкой поглядывать на огромный рогатый экспонат в стороне, явно не в силах скрыть своего удивления.
@@ -365,10 +365,10 @@
 Кира: Это присутствие... чем-то напоминает папино...
 
 # Original: Ain't no way... That's <i>not</i> a raid boss we can clear at our level! We gotta get out of here!
-Кира: Да ни за что... Это <i>не</i> рейдовый босс, которого мы можем зачистить на нашем левеле! Нам надо валить отсюда!
+Кира: Да ни в жизнь... Это <i>не тот</i> рейдовый босс, которого мы можем завалить с нашим левелом! Нам надо валить отсюда!
 
 # Original: ... It's not that simple. Retreating is not a viable solution here.
-Хохенхайм: ... Не всё так просто. Отступление здесь не является жизнеспособным решением.
+Хохенхайм: ... Не всё так просто. Отступление в такой момент не является жизнеспособным решением.
 
 # Original: This door is connected to the House of Spiders. Escaping without installing a security system will invite pursuit.
 Хохенхайм: Эта дверь связана с Домом Пауков. Если мы сбежим, не установив систему безопасности, это спровоцирует погоню.
@@ -398,7 +398,7 @@
 Рёшу: Ты... Кто ты такая?
 
 # Original: Ah, right... It makes sense that you would fail to recognize me. I used to wear a different mask back when I used to visit as your tutor, didn't I? A wolf, if memory serves right.
-Эмиль Бенуа: Ах, верно... Вполне логично, что ты меня не узнала. В те времена, когда я навещала тебя в качестве твоего наставника, я носила другую маску, не так ли? Волка, если мне не изменяет память.
+Эмиль Бенуа: Ах, верно... Вполне логично, что ты меня не узнала. В те времена, когда я навещала тебя в качестве твоего наставника, я носила другую маску, не так ли? Волчью, если мне не изменяет память.
 
 # Original: Yes, that must've been when I was quite captivated by the sensation of tearing into the raw, still-thrashing flesh of living prey... and the predator's ferocious yet cavernously resonant howling.
 Эмиль Бенуа: Да, должно быть, это было тогда, когда я была совершенно очарована ощущением разрывания сырой, всё ещё трепещущей плоти живой добычи... и свирепым, но гулко резонирующим воем хищника.
@@ -458,7 +458,7 @@
 Рассказчик: Но в тот момент, когда он проследил за взглядом Фауст и увидел, на что она смотрит, он тихо закрыл рот и больше ничего не сказал.
 
 # Original: Faith in potentiality is not something I dislike.
-Хохенхайм: Вера в потенциал — это не то, что мне претит.
+Хохенхайм: Вера в потенциальные возможности — это не то, что мне претит.
 
 # Original: As for this, however... This seems more like grasping at straws.
 Хохенхайм: Однако что касается этого... Это больше похоже на попытку ухватиться за соломинку.
@@ -473,7 +473,7 @@
 Рёшу: Я давно хотела посмотреть, будет ли смерть Маэстро чем-то отличаться.
 
 # Original: <Telling him that we were just leaving... won't work, will it?>
-Данте: <Сказать им, что мы просто уходим... не сработает, да?>
+Данте: <Сказать им, что мы уже уходим... не сработает, да?>
 
 # Original: No, it won't. Every individual present here would be quite the fascinating specimen to the artists of the Ring.
 Фауст: Нет, не сработает. Каждый присутствующий здесь человек стал бы весьма увлекательным образцом для художников Безымянного.
@@ -584,13 +584,13 @@
 Эмиль Бенуа: У меня появились сомнения с того самого момента, как я увидела тебя сегодня.
 
 # Original: Was the House of Spiders a success... or a failure?
-Эмиль Бенуа: Оказался ли Дом Пауков успехом... или провалом?
+Эмиль Бенуа: Оказался ли проект Дома Пауков успехом... или провалом?
 
 # Original: Tell me, Yoshihide. What do you think a serpent's defining strength is?
 Эмиль Бенуа: Скажи мне, Ёшихидэ. В чём, по-твоему, заключается главная сила змеи?
 
 # Original: What are you on about now?
-Рёшу: Что ты теперь несёшь?
+Рёшу: Что ты несёшь?
 
 # Original: Ask any Student, and they'll give the same, predictable answers: the deadly venom, the sleek scales... Why, it's lamentably disappointing.
 Эмиль Бенуа: Спроси любого Студента, и они дадут одни и те же предсказуемые ответы: смертельный яд, гладкая чешуя... До чего же прискорбно разочаровывающе.
@@ -614,7 +614,7 @@
 Данте: <К-какого чёрта это такое?!>
 
 # Original: Which brings me to ask... What better way to claim this delivery of promising material with a single bite than a work of art fashioned from a snake?
-Эмиль Бенуа: Что подводит меня к вопросу... Какой способ лучше, чтобы за один присест поглотить эту доставку столь многообещающего материала, нежели произведение искусства, созданное из змеи?
+Эмиль Бенуа: Что подводит меня к вопросу... Какой способ подойдёт лучше, чтобы за один присест поглотить эту поставку столь многообещающего материала, нежели использование произведения искусства, созданного из змеи?
 
 # Original: The Maestro plunged her arm into the long, serpentine body of a monster.
 Рассказчик: Маэстро погрузила свою руку в длинное змееподобное тело монстра.
@@ -686,7 +686,7 @@
 Хохенхайм: Значит, поведенческую грань психики можно контролировать с помощью подходящих тренировок. Неожиданные данные, но, безусловно, полезные.
 
 # Original: Nnghh...! Shut it, Mister! Quit yapping and let me use my blades!
-Кира: Ннгх...! Заткнись, мистер! Хватит трепаться и позволь мне заюзать клинки!
+Кира: Ннгх...! Заткнись, мужик! Хватит трепаться и позволь мне заюзать клинки!
 
 # Original: Authorized and ready. Lifting locks... Now!
 Хохенхайм: Одобрено и готово. Снимаю блокировку... Сейчас!
@@ -785,7 +785,7 @@
 Измаил: А? Э-э... Наверное?
 
 # Original: Ready for your order, Executive Manager! I, Outis, am prepared to answer your call whenever and wherever—
-Отис: Готова к вашему приказу, Исполнительный менеджер! Я, Отис, готова ответить на ваш зов когда угодно и где угодно —
+Отис: Готова к вашему приказу, Исполнительный менеджер! Я, Отис, готова ответить на ваш зов когда угодно и где угодно—
 
 # Original: Eh?! H-hang on, I just need to finish this bite...!
 Родион: А?! П-подожди, мне только нужно дожевать этот кусочек...!

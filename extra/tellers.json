@@ -3495,5 +3495,61 @@
   {
     "original": "Man Tied to a Chair",
     "translation": "Человек привязанный к стулу"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "앨런마스크"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에밀브누아"
+  },
+  {
+    "original": "Benoît",
+    "translation": "Бенуа",
+    "model": "에밀브누아"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "그레고르네부장"
+  },
+  {
+    "original": "Instructor",
+    "translation": "Инструктор"
+  },
+  {
+    "original": "Miffed Child",
+    "translation": "Обиженный Ребёнок",
+    "model": "약지아이1"
+  },
+  {
+    "original": "Picky Child",
+    "translation": "Придирчивый Ребёнок",
+    "model": "약지아이2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "털루포"
+  },
+  {
+    "original": "Saru",
+    "translation": "Сару",
+    "model": "사루"
+  },
+  {
+    "original": "Finicky Student",
+    "translation": "Привередливый Студент"
+  },
+  {
+    "original": "Meticulous Student",
+    "translation": "Дотошный Студент"
+  },
+  {
+    "original": "Fellow Docent",
+    "translation": "Коллега Доцент"
   }
 ]

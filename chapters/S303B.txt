@@ -161,7 +161,7 @@
 Измаил: Запомните, когда вас спросят о цели визита…
 
 # Original: …Remind me one more time and I’ll show SANGRIA to you and the official or whatever.
-Рёшу: Попробуй сказать это ещё хоть раз, и я продемонстрирую ВСТИМ и на тебе, и на пограничниках.
+Рёшу: Попробуй сказать это ещё хоть раз, и я продемонстрирую САНГРИЯ и на тебе, и на пограничниках.
 
 # Original: Despite Ishmael’s worries, our inspection was smooth sailing.
 Рассказчик: Несмотря на беспокойство Измаил, наш досмотр проходил гладко.
