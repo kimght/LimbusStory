@@ -2,10 +2,10 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Rien's Dungeon, Past",
+      "place": "Темница Риена, Прошлое",
       "model": "소지아비",
       "teller": "Арая",
-      "title": "The House of Spiders",
+      "title": "Дом Пауков",
       "content": "Что там... наверху?"
     },
     {
@@ -22,7 +22,7 @@
       "id": 3,
       "model": "소지아비",
       "teller": "Арая",
-      "title": "The House of Spiders",
+      "title": "Дом Пауков",
       "content": "... Да брось. Я ведь не напрашивалась на место Звезды Дихуэй. Просто дай мне делать, что хочу, пока я здесь."
     },
     {
@@ -34,7 +34,7 @@
       "id": 5,
       "model": "소지아비",
       "teller": "Арая",
-      "title": "The House of Spiders",
+      "title": "Дом Пауков",
       "content": "Так что там... вверх по лестнице?"
     },
     {
@@ -51,7 +51,7 @@
       "id": 8,
       "model": "소지아비",
       "teller": "Арая",
-      "title": "The House of Spiders",
+      "title": "Дом Пауков",
       "content": "Тебе разве ни капельки не интересно?"
     },
     {
