@@ -329,16 +329,16 @@
 Соня: ……
 
 # Original: Rodya, this will probably elude you, but you don’t have the mark.
-Соня: Родя, это, возможно, пройдёт мимо от тебя, но у тебя нет печати.
+Соня: Родя, это, возможно, пройдёт мимо от тебя, но у тебя нет метки.
 
 # Original: I came here hoping to see you possess it, but I’m seeing it on a few of your friends instead.
 Соня: Я пришёл в надежде, что она у тебя есть, но вместо этого я вижу её на нескольких твоих друзьях.
 
 # Original: The mark? What do you…
-Родион: Печать? Что ты…
+Родион: Метки? Что ты…
 
 # Original: Besides, you can’t see the mark, either. In other words… you don’t have what it takes to be a leader.
-Соня: Кроме того, ты даже не видишь печать. Другими словами… у тебя нет того, что нужно лидеру.
+Соня: Кроме того, ты даже не видишь метки. Другими словами… у тебя нет того, что нужно лидеру.
 
 # Original: But I’m different. So, to make a better world—
 Соня: Я другой. И так, чтобы сделать мир лучше—

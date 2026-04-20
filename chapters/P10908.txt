@@ -1,5 +1,5 @@
 # Original: C'mon, Ishy! This way, this way~
-Родион: Давай, Иши! Сюда, сюда~
+Родион: Давай, Изя! Сюда, сюда~
 
 # Original: Whew... Director, we've been running from one restaurant to another for the last four hours.
 Измаил: Уф... Директор, мы бегаем из одного ресторана в другой уже четыре часа.
@@ -53,7 +53,7 @@
 Измаил: ... Прости, что?
 
 # Original: Pick one, Ishy. Green grapes, tangerines, or strawberries?
-Родион: Выбирай, Иши. Зелёный виноград, мандарины или клубника?
+Родион: Выбирай, Изя. Зелёный виноград, мандарины или клубника?
 
 # Original: The child's eyes flashed as she lightly shook the white paper bag.
 Рассказчик: Глаза дитя сверкнули, когда она слегка встряхнула белый бумажный пакет.
@@ -65,7 +65,7 @@
 Измаил: Серьёзно, если ты думаешь, что можешь подкупить меня едой—
 
 # Original: I've known all along, Ishy.
-Родион: Я всё время знала, Иши.
+Родион: Я всё время знала, Изя.
 
 # Original: ... that you've been watching this bag of tanghulu all along.
 Родион: ... что ты всё это время смотрела на этот пакет танхулу.
