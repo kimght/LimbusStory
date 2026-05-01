@@ -3551,5 +3551,10 @@
   {
     "original": "Fellow Docent",
     "translation": "Коллега Доцент"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "히스클리프"
   }
 ]

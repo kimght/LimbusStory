@@ -289,6 +289,9 @@ Dante: <... Академия.>
 # Original: <You sure it was a school? Not like an art academy or something like it?>
 Dante: <Уверена, что это была школа? А не художественная академия или что-то в этом роде?>
 
+# Original: Perchance it be an academy, not a school?
+Don Quixote: Быть может это была академия, а не школа?
+
 # Original: Wait, that kinda makes more sense, yeah! Musta been an academy, not a school.
 Kira: Погоди, так реально логичнее, ага! Должно быть, это была академия, а не школа.
 

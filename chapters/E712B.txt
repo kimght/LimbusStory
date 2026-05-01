@@ -204,6 +204,3 @@
 
 # Original: Feels funny, getting consoled by the guy who placed last…
 Грегор: Забавно получать утешение от того, кто оказался последним...
-
-# Original: //줄 세우는 CG 없다고 치고 최대한 묘사로 하는 거 (차순위)
-Рассказчик: //줄 세우는 CG 없다고 치고 최대한 묘사로 하는 거 (차순위)
