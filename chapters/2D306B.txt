@@ -281,7 +281,7 @@
 Соня: На сей земле никто не будет страдать от голода.
 
 # Original: May every individual enjoy the right to pursue psychological and intellectual delights.
-Соня: И у каждого человека будет право на на получение психологических и интеллектуальных благ.
+Соня: И у каждого человека будет право на получение психологических и интеллектуальных благ.
 
 # Original: …Join hands with me, and I’ll give you that world as a gift.
 Соня: …Пожми мне руку, и я дарую тебе этот мир.
