@@ -353,6 +353,19 @@
 
 # Интерваллы
 
+## Hell's Chicken
+1. [Эпизод 1 (до боя)](./chapters/E301B.txt)
+2. [Эпизод 2 (после боя)](./chapters/E301A.txt)
+3. [Эпизод 3 (до боя)](./chapters/E302B.txt)
+4. [Эпизод 4 (после боя)](./chapters/E302A.txt)
+5. [Эпизод 5 (до боя)](./chapters/E303B.txt)
+6. [Эпизод 6 (после боя)](./chapters/E303A.txt)
+7. [Эпизод 7 (до боя)](./chapters/E304B.txt)
+8. [Эпизод 8 (после боя)](./chapters/E304A.txt)
+9. [Эпизод 9 (после боя)](./chapters/E305A.txt)
+10. [Эпизод 10 (до боя)](./chapters/E306B.txt)
+11. [Эпизод 11 (после боя)](./chapters/E306A.txt)
+
 ## S.E.A.
 1. [Эпизод 1 (до боя)](./chapters/E401B.txt)
 2. [Эпизод 2 (до боя)](./chapters/E402B.txt)
