@@ -497,7 +497,7 @@ Dante: <Мерсо, ты знаешь, кто эти люди?>
 Mersault: Да, Менеджер.
 
 # Original: These are N Corp. Class 2 Staff members. Given the camera briefcases in their possession, they are likely members of the Pinframe Team of Service des Clous.
-Mersault: Эти это сотрудники Корпорации N второго класса. Учитывая имеющиеся у них чемоданы-камеры, они, вероятно, являются членами Отдела Стоп-Кадров из <i>Сервис де Клу</i>.
+Mersault: Эти это сотрудники Корпорации N второго уровня. Учитывая имеющиеся у них чемоданы-камеры, они, вероятно, являются членами Отдела Стоп-Кадров из <i>Сервис де Клу</i>.
 
 # Original: Meursault recited the information as though he were pulling it from a file he had already sorted and placed in the back of the shelf in his mind.
 Narrator: Мерсо излагал сведения так, словно вытаскивал их из папки, которую уже давно аккуратно подшил и убрал на самую дальнюю полку в своей голове.
