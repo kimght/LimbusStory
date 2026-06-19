@@ -59,7 +59,7 @@
 Эзра: В любом случае, мы не сможем подавить или исцелить Искажение, даже если надерём этим парням задницы сотню раз.
 
 # Original: We need more clues to help us locate the Inflection Point... Maybe we should examine these people over here, too?
-Эзра: Нам нужно больше зацепок, чтобы найти точку невозврата... Может, нам стоит осмотреть и этих людей тоже?
+Эзра: Нам нужно больше зацепок, чтобы найти точку перелома... Может, нам стоит осмотреть и этих людей тоже?
 
 # Original: With a call, Ezra directed our attention to rows of collapsed people all around, all of them clad in dopo robes.
 Повествователь: Окликнув нас, Эзра привлекла наше внимание к рядам лежащих без сознания людей вокруг, все из которых были одеты в одежды допо.

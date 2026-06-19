@@ -410,25 +410,25 @@ Narrator: Я больше не чувствовал поблизости ник�
 Faust: Данте интересуется, не завершилось ли подавление Искажения на самом деле.
 
 # Original: Oh, not yet. These people we fought just now? They only got caught up in the Distortion—they didn't actually Distort themselves. We haven't even gotten close to the Distortion's "Inflection Point" yet.
-Ezra: Ой, ещё нет. Те люди, с которыми мы только что дрались? Они просто попали под влияние Искажения, сами они не искажались. Мы ещё даже близко не подобрались к «точке невозврата» Искажения.
+Ezra: Ой, ещё нет. Те люди, с которыми мы только что дрались? Они просто попали под влияние Искажения, сами они не искажались. Мы ещё даже близко не подобрались к «точке перелома» Искажения.
 
 # Original: <"Inflection Point"...?>
-Dante: <«Точка невозврата»...?>
+Dante: <К «Точке перелома»...?>
 
 # Original: Uh... Anyhoo, finding an "Inflection Point" without the Team Leader around's gonna take some time... Maybe it won't be too bad with your help...
-Ezra: Ну... Так или иначе, поиск «точки невозврата» без нашего лидера займёт кучу времени... Но с вашей помощью, может, всё пойдёт быстрее...
+Ezra: Ну... Так или иначе, поиск «точки перелома» без нашего лидера займёт кучу времени... Но с вашей помощью, может, всё пойдёт быстрее...
 
 # Original: Ezra swept her eyes around the room with a look of frustration as though she had just been handed a puzzle box with half the pieces missing.
 Narrator: Эзра раздосадованно оглядела комнату, словно ей только что вручили коробку с головоломкой, в которой не хватало половины деталей.
 
 # Original: By "Inflection Point," are you referring to the point on a graph in which the directionality of its curvature changes?
-Outis: Под «точкой невозврата» вы имеете в виду точку на графике, в которой меняется направление изгиба его кривой?
+Outis: Под «точкой перелома» вы имеете в виду точку на графике, в которой меняется направление изгиба его кривой?
 
 # Original: Mm... Calling to mind the present context, it may less be a mathematical term and more a specialized polyseme referring to the point at which Distortion occurs—the motive, intent, or, indeed, the point in which "inflection" of the mind occurs.
 Yi Sang: Мм... Если принять во внимание нынешний контекст, это может быть не столько математическим термином, сколько специализированным многозначным словом, обозначающим момент возникновения Искажения — мотив, намерение или же, собственно, точку преломления разума.
 
 # Original: Yup, that's about right. That's the kind of "Inflection Point" I was talkin' about. So in our department, we use that term to mean the "source" of a Distortion, the "Inflector" or "cause" behind it... stuff like that.
-Ezra: Ага, всё верно. Именно о такой «точке невозврата» я и говорила. В нашем отделе этим термином называют «источник» Искажения, «исказителя» или «причину»... в общем, всё в таком духе.
+Ezra: Ага, всё верно. Именно о такой «точке перелома» я и говорила. В нашем отделе этим термином называют «источник» Искажения, «исказителя» или «причину»... в общем, всё в таком духе.
 
 # Original: Y'know, Distortion's hard to treat if ya don't know the core cause~ Treat the symptoms you see on the surface all you like, but if ya never find the root cause, the Distortion's never gettin' solved.
 Ezra: Понимаете, Искажение трудно устранить, если не знаешь его первопричину~ Лечите видимые на поверхности симптомы сколько угодно, но если не докопаться до корня проблемы, Искажение никогда не победить.
@@ -443,7 +443,7 @@ Outis: ... Вы имеете в виду Подземелье глубин?
 Ezra: Ага, его самого!
 
 # Original: From where we're standing, Distortions are really high-maintenance, time-consuming headaches. It's one thing to somehow manage to locate the Inflection Point, but curing it is another thing.
-Ezra: С нашей точки зрения Искажения — это жутко хлопотная и долгая головная боль. Одно дело — умудриться выследить саму точку невозврата, но вот вылечить её — совсем другое.
+Ezra: С нашей точки зрения Искажения — это жутко хлопотная и долгая головная боль. Одно дело — умудриться выследить саму точку перелома, но вот вылечить её — совсем другое.
 
 # Original: But you guys can just march straight into someone's heart, knock the snot out of everything in there, and then, ta-da~! Patient ready for discharge! That's how it works, right? Ugh... Not gonna lie, I was so jealous when I heard about it, I almost bit my sleeve off.
 Ezra: А вы можете просто завалиться прямо в чьё-то сердце, выбить там из всех всё дерьмо, и вуаля~! Пациент готов к выписке! Оно ведь так работает, да? Эх... не буду врать, когда я об этом услышала, от зависти чуть рукав не сгрызла.

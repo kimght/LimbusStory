@@ -317,7 +317,7 @@
 Им Гёнъоп: Я лишь от всей души выражаю свою благодарность, только и всего.
 
 # Original: Those whose corruption is revealed ought to readily receive their scarlet Ohra bonds. The gall to scamper away with their expensive prosthetics... My men were having some trouble apprehending them... until now.
-Им Гёнъоп: Те, чья коррупция вскрылась, должны без промедления примерить наши алые узы Ора. Какая наглость — улепётывать на своих дорогостоящих протезах... У моих людей возникли некоторые трудности с их поимкой... до сего момента.
+Им Гёнъоп: Те, чья коррупция вскрылась, должны без промедления примерить наши алые путы Ора. Какая наглость — улепётывать на своих дорогостоящих протезах... У моих людей возникли некоторые трудности с их поимкой... до сего момента.
 
 # Original: Well, if that is your intent, you are invited to leave a token of gratitude somewhere in the vicinity. Perhaps I'll <i>happen</i> to pick it up... Wouldn't want to get thrown in the dungeons teeming with <i>real</i> vermin.
 Ким в бамбуковой шляпе: Ну, коли таковы твои намерения, милости прошу оставить какой-нибудь знак признательности где-нибудь поблизости. Быть может, я его <i>случайно</i> подберу... Не хотелось бы оказаться брошенным в темницу, кишащую <i>настоящими</i> паразитами.

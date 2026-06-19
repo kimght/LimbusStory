@@ -257,7 +257,7 @@ Narrator: <color=#ffffff><i>"Все вы, слепо поглощающие од
 Class 2 Pinframing Staff: Дело номер TC3224. Вы подозреваетесь в нарушении 3-й категории.
 
 # Original: Reveal yourself now and forfeit your illegal recordings. Should you comply, we will—
-Class 2 Pinframing Staff: Обнаружьте себя немедленно и сдайте незаконные записи. В случае повиновения мы—
+Class 2 Pinframing Staff: Покажите себя немедленно и сдайте незаконные записи. В случае повиновения мы—
 
 # Original: ... What is foolery but witless buffoonery in the absence of fools?
 Bamboo-hatted Kim: ... Что есть глупость, как не безмозглое шутовство в отсутствие дураков?
