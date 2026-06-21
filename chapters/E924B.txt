@@ -239,7 +239,7 @@
 Дон Кихот: Хм-м..? Ппё..? Саль..? Что за неведомые вещи ты описываешь?
 
 # Original: It is a well-known truth that S Corp. is also known by its other name, Salpippyeo Agroindustries.
-Энду: Общеизвестно, что Корпорация S также зовётся иным именем — Сальпхиппё Агроиндастриз.
+Энду: Общеизвестно, что Корпорация S также зовётся иным именем — Агроиндустрией Сальпхиппё.
 
 # Original: A Wing specializing in the general agriculture and livestock industry of the City, the vastness and the depth of its responsibilities have necessitated such divisions of labor.
 Энду: Это Крыло, специализирующееся на сельском хозяйстве и животноводстве Города. Из-за огромного масштаба и глубины возложенных на него обязательств возникла необходимость в подобном разделении труда.

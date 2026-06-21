@@ -125,10 +125,10 @@ Yi Sang: Однако же она угасает... Должно быть, си�
 Distorted Im Gyeong-eop: ... Внемли, обвиняемый, ибо вот твои преступления:
 
 # Original: The crime of fomenting chaos in a foreign Wing while impersonating Ch'unokkuns of Salpippyeo Agroindustries.
-Distorted Im Gyeong-eop: Преступление в виде разжигания хаоса в чужом Крыле под видом чхуноккунов Сальпхиппё Агроиндастриз.
+Distorted Im Gyeong-eop: Преступление в виде разжигания хаоса в чужом Крыле под видом чхуноккунов Агроиндустрии Сальпхиппё.
 
 # Original: The crime of exploiting the suffering of Salpippyeo Agroindustries' downtrodden as a mere veil for one's own fathoms.
-Distorted Im Gyeong-eop: Преступление в виде использования страданий угнетённых Сальпхиппё Агроиндастриз как простой завесы для собственных глубин.
+Distorted Im Gyeong-eop: Преступление в виде использования страданий угнетённых Агроиндустрии Сальпхиппё з как простой завесы для собственных глубин.
 
 # Original: And...
 Distorted Im Gyeong-eop: И...

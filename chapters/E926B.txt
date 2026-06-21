@@ -47,7 +47,7 @@
 Ким в бамбуковой шляпе: ... Гёнъоп.
 
 # Original: I still believe that Salpippyeo Agroindustries deserves to die.
-Ким в бамбуковой шляпе: Я всё ещё верю, что «Сальпхиппё Агроиндастриз» заслуживает гибели.
+Ким в бамбуковой шляпе: Я всё ещё верю, что «Агроиндустрия Сальпхиппё» заслуживает гибели.
 
 # Original: But destruction's not the point. The point is that I want it to be a place where I can cut away the avaricious corrupted, and...
 Ким в бамбуковой шляпе: Но разрушение — не цель. Суть в том, что я хочу превратить её в место, где смогу отсечь алчных и развращённых, и...
@@ -116,7 +116,7 @@
 Им Гёнъоп: Закон гласит, что противление воле Королевского двора — преступление, караемое смертью через обезглавливание.
 
 # Original: I, Im Gyeong-eop, Second Ordinant of the Salpippyeo Agroindustries, Official of the Sword, and Military Commissioner to the Royal Court, shall uphold the command...
-Им Гёнъоп: Я, Им Гёнъоп, Второй ординант «Сальпхиппё Агроиндастриз», Чиновник меча и Военный комиссар Королевского двора, приведу в исполнение приказ...
+Им Гёнъоп: Я, Им Гёнъоп, Второй ординант «Агроиндустрии Сальпхиппё», Чиновник меча и Военный комиссар Королевского двора, приведу в исполнение приказ...
 
 # Original: ... and sever the buds of rebellion before they propagate.
 Им Гёнъоп: ... и отсеку ростки мятежа, прежде чем они успеют разрастись.
