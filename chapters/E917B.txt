@@ -461,7 +461,7 @@ Ezra: Ну да, обычно люди сперва пытаются решит�
 Sinclair: Значит, клиентом на этот раз был...
 
 # Original: Bingo. Apparently, the residents of Butter Street had all chipped in to commission all kinds of agencies like the Zwei and the combat-specialized Fixer Offices... but none of them could actually do things right, and the job got passed on to us.
-Ezra: Бинго. Судя по всему, жители улицы Теста скинулись, чтобы нанять всевозможные агентства вроде «Цвай» и боевых Офисов Корректировщиков... но никто из них не справился как надо, так что работа перешла к нам.
+Ezra: Бинго. Судя по всему, жители улицы Масла скинулись, чтобы нанять всевозможные агентства вроде «Цвай» и боевых Офисов Корректировщиков... но никто из них не справился как надо, так что работа перешла к нам.
 
 # Original: Meaning... the Distortion phenomenon related to this kind of photograph is still occurring unchecked somewhere on the streets.
 Outis: Значит... явление Искажения, связанное с подобными фотографиями, по-прежнему беспрепятственно происходит где-то на улицах.
@@ -497,7 +497,7 @@ Dante: <Мерсо, ты знаешь, кто эти люди?>
 Mersault: Да, Менеджер.
 
 # Original: These are N Corp. Class 2 Staff members. Given the camera briefcases in their possession, they are likely members of the Pinframe Team of Service des Clous.
-Mersault: Эти это сотрудники Корпорации N второго уровня. Учитывая имеющиеся у них чемоданы-камеры, они, вероятно, являются членами Отдела Стоп-Кадров из <i>Сервис де Клу</i>.
+Mersault: Это сотрудники Корпорации N второго уровня. Учитывая имеющиеся у них чемоданы-камеры, они, вероятно, являются членами Отдела Стоп-Кадров из <i>Сервис де Клу</i>.
 
 # Original: Meursault recited the information as though he were pulling it from a file he had already sorted and placed in the back of the shelf in his mind.
 Narrator: Мерсо излагал сведения так, словно вытаскивал их из папки, которую уже давно аккуратно подшил и убрал на самую дальнюю полку в своей голове.
@@ -638,7 +638,7 @@ Ezra: Ага! Кажется, это оно. Это приказ!
 Narrator: Эзра вытащила лист бумаги из пальто одного из сотрудников Корпорации N и зачитала содержимое вслух.
 
 # Original: "Work Details: Elimination of the individual of a Category 3 Taboo Violation. Address: Butter Street..."
-Ezra: «Детали задания: устранение лица, совершившего Нарушение Табу 3-й Категории. Адрес: улица Теста...»
+Ezra: «Детали задания: устранение лица, совершившего Нарушение Табу 3-й Категории. Адрес: улица Масла...»
 
 # Original: ... This is the place!
 Ezra: ... Это здесь!
