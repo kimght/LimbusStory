@@ -122,16 +122,16 @@
 Рассказчик: Дитя, казалось, что-то заметило после быстрого осмотра коридора; она схватила свои два ЭГО-оружия.
 
 # Original: The rookies are all huddled together... N.O.V., is it?
-Рёшу: Новички все сбились в кучу... N.O.V., да?
+Рёшу: Новички все сбились в кучу... Ф.П, да?
 
 # Original: This is no "Night of Violet, by which I presume you are referring to a Midnight, that we must contend with; it is the Noon.
-И Сан: Это не "Фиолетовая Ночь", под которой, как я полагаю, вы подразумеваете Полночь, с которой мы должны бороться; это Полдень.
+И Сан: Это не "Фиолетовая полночь", под которой, как я полагаю, вы подразумеваете Ф.П, с которой мы должны бороться; это Полдень.
 
 # Original: What I meant by N.O.V. was— Are you hard of hearing?
-Рёшу: Под N.O.V. я имела в виду— У тебя проблемы со слухом?
+Рёшу: Под Ф.П. я имела в виду— У тебя проблемы со слухом?
 
 # Original: Ah, if it indeed was the Noon of Violent you were referring to, then you would be correct. Your men are all gathered abreast one anoth— Captain?
-И Сан: Ах, если действительно вы имели в виду Полдень Насилия, то вы правы. Ваши люди все собрались вместе— Капитан?
+И Сан: Ах, если действительно вы имели в виду Фатальный Полдень, то вы правы. Ваши люди все собрались вместе— Капитан?
 
 # Original: The other child's explanation was cut short by the sudden sensation of something heavy tapping against his head.
 Рассказчик: Объяснение другого дитя было прервано внезапным ощущением чего-то тяжелого, постукивающего по его голове.
@@ -149,7 +149,7 @@
 И Сан: Поэтому... не могли бы вы прекратить это постоянное стучание по моей голове вашим Покаянием?
 
 # Original: Consider yourself lucky that it's not S.H. that's hitting your head, gloomface.
-Рёшу: Считай себя счастливчиком, что это не S.H. бьет тебя по голове, мрачнолицый.
+Рёшу: Считай себя счастливчиком, что это не П.Б. бьет тебя по голове, мрачнолицый.
 
 # Original: One could mistake this for a mere workplace banter between two coworkers on an average day, but...
 Рассказчик: Это можно было бы принять за обычную рабочую перепалку между двумя коллегами в обычный день, но...
@@ -161,22 +161,22 @@
 Рассказчик: И не прошло и минуты... как по всему зданию разнесся оглушительный сигнал тревоги.
 
 # Original: We've a D.O.V. in our hands, but *this* is the level of trumpets we're getting?
-Рёшу: У нас D.O.V., но *это* уровень тревоги, который мы получаем?
+Рёшу: У нас Ф.Р, но *это* уровень тревоги, который мы получаем?
 
 # Original: I would like to repeat myself that this is not an Ordeal of Midnight, Captain. I ask that you refer to it as the "Noon" of—
 И Сан: Я хотел бы повторить, что это не Испытание Полуночи, Капитан. Я прошу вас называть это "Полднем"—
 
 # Original: T.N.W.I.M.
-Рёшу: T.N.W.I.M.
+Рёшу: Я.Н.П.Э.
 
 # Original: At any case, I am suspicious. It's almost like the manager already knows what's coming...
-Рёшу: В любом случае, я подозреваю. Почти как будто менеджер уже знает, что грядет...
+Рёшу: В любом случае, я подозреваю. Почти как будто управляющий уже знает, что грядет...
 
 # Original: Got any guesses?
 Рёшу: Есть какие-нибудь догадки?
 
 # Original: Mm. I have none in particular. It may be as simple as mere competency, for I have heard that the manager was as foresighted from the day he started. Metaphorically speaking, of course.
-И Сан: Мм. У меня нет никаких особых предположений. Возможно, это просто компетентность, ибо я слышал, что менеджер был столь же дальновидным с самого первого дня. Метафорически выражаясь, конечно.
+И Сан: Мм. У меня нет никаких особых предположений. Возможно, это просто компетентность, ибо я слышал, что управляющий был столь же дальновидным с самого первого дня. Метафорически выражаясь, конечно.
 
 # Original: Tsk, how unhelpful.
 Рёшу: Цк, как бесполезно.
@@ -230,7 +230,7 @@
 Рёшу: Тебе было бы лучше с ними. Игнорируй то, что сказал G.T.C., он накачан Э. с головы до ног.
 
 # Original: Patently... that is the manager's wish as well.
-И Сан: Явно... это также желание менеджера.
+И Сан: Явно... это также желание управляющего.
 
 # Original: I'll be the reinforcement for the Training team.
 Рёшу: Я буду подкреплением для Тренировочной команды.
