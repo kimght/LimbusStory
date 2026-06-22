@@ -152,7 +152,7 @@
 Данте: <Это тот голос...>
 
 # Original: But your last move was not a good one. Indeed, I did wish to become a blade—and what did you do? Forged me into an indiscriminate one that cleaves blindly into friend and foe both. It seems that, in your excitement, you have cornered yourself with that last move.
-Ким в бамбуковой шляпе: Но твой последний ход оказался неудачным. Да, я действительно хотел стать клинком — и что ты сделал? Выковал меня беспорядочным, разящим без разбору и друга, и врага. Похоже, от излишнего азарта ты сам загнал себя в угол своим последним ходом.
+Ким в бамбуковой шляпе: Но твой последний ход оказался неудачным. Да, я действительно хотел стать клинком — и что ты сделала? Выковала из меня беспорядочный, разящий без разбору и друга, и врага. Похоже, от излишнего азарта ты сама загнала себя в угол своим последним ходом.
 
 # Original: Well, as it seems that I have had an opportunity to retrace our past moves, allow me to try something different this time.
 Ким в бамбуковой шляпе: Что ж, раз уж у меня появилась возможность переиграть наши прошлые ходы, позволь мне в этот раз попробовать кое-что другое.
