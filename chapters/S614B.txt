@@ -137,7 +137,7 @@
 Рассказчик: Эта месть может оказаться не такой уж сложной.
 
 # Original: We just had to pretend we didn't see anything, leave Hindley behind, and have Josephine and her Butlers take care of him for us.
-Рассказчик: Нам просто нужно было притвориться, что мы ничего не видели, оставить Хиндли позади и позволить Жозефине и ее Дворецким разобраться с ним за нас.
+Рассказчик: Нам просто нужно было притвориться, что мы ничего не видели, оставить Хиндли позади и позволить Джозефине и ее Дворецким разобраться с ним за нас.
 
 # Original: Even if he does put up a fight, there is no telling how long he could hold out against all of them without backup.
 Рассказчик: Даже если он и окажет сопротивление, неизвестно, как долго он сможет продержаться против них всех без поддержки.
