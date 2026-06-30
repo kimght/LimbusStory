@@ -3955,5 +3955,31 @@
     "original": "LCD OSIR Team",
     "translation": "LCD ГВРУ",
     "model": "이스마엘"
+  },
+  {
+    "original": "The Pinky Nursefather",
+    "translation": "Отец-воспитатель Мизинца"
+  },
+  {
+    "original": "The Pinky Apprentice",
+    "translation": "Ученик Мизинца",
+    "model": "싱클레어"
+  },
+  {
+    "original": "The Thumb Apprentice",
+    "translation": "Ученик Большого",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Wing Employee",
+    "translation": "Сотрудник Крыла"
+  },
+  {
+    "original": "The Thumb",
+    "translation": "Большой"
+  },
+  {
+    "original": "G Corp.",
+    "translation": "Корпорация G"
   }
 ]
