@@ -1,5 +1,5 @@
 ﻿# Original: You have not entered an Entanglement. That's... a relief.
-???: Ты не вошла во Временное переплетение. Это... облегчение.
+???: Ты не вошла во Временную запутанность. Это... облегчение.
 
 # Original: "Relief?" Fuck that, Ticket! Exactly which part of that is a "relief"?
 Родион: «Облегчение»? Да хрен там, Билетик! И какая вообще часть в этом — «облегчение»?
@@ -35,7 +35,7 @@
 Хон Лу: Способность Ёшихидэ чувствовать течение времени действительно впечатляет. Возможно, она даже сравнима с твоей...
 
 # Original: If we'd had enough absolute time, perhaps we could have gradually let the "perspective" settle within her. But we do not—which is why we must press the process forward, even if we must induce a Temporal Entanglement.
-Хон Лу: Будь у нас достаточно абсолютного времени, возможно, мы могли бы постепенно дать «перспективе» улечься внутри неё. Но у нас его нет — вот почему мы должны форсировать процесс, даже если нам придётся вызвать Временное переплетение.
+Хон Лу: Будь у нас достаточно абсолютного времени, возможно, мы могли бы постепенно дать «перспективе» улечься внутри неё. Но у нас его нет — вот почему мы должны форсировать процесс, даже если нам придётся вызвать Временную запутанность.
 
 # Original: .......
 ???: .......
@@ -125,7 +125,7 @@
 Родион: Погоди-ка. Этот меч... Какого хрена у тебя этот меч?
 
 # Original: ... I realized facing you with Palermitan Style would be a losing bet.
-Рёшу: ... Я поняла, что противостоять тебе с Палермитанским стилем было бы заведомо проигрышным делом.
+Рёшу: ... Я поняла, что противостоять тебе с Палермским стилем было бы заведомо проигрышным делом.
 
 # Original: So I learned a new swordfighting style. This sword was given to me then.
 Рёшу: Поэтому я освоила новый стиль фехтования. Этот меч мне дали тогда же.
@@ -290,7 +290,7 @@
 Родион: Не вякай мне тут. Не огрызайся. Делай то, что я говорю — <i>в точности</i> так, как тебе велят.
 
 # Original: I'll have to haul that lil' bitch back and drill the Palermitan Style into her from baby steps. Here we go again, another lifetime of motherfuckin' work.
-Родион: Мне придётся притащить эту мелкую сучку обратно и вдалбливать ей Палермитанский стиль с самых азов. Ну вот, опять за старое, ещё одна целая жизнь гребаной работы.
+Родион: Мне придётся притащить эту мелкую сучку обратно и вдалбливать ей Палермский стиль с самых азов. Ну вот, опять за старое, ещё одна целая жизнь гребаной работы.
 
 # Original: If you get your ass killed too, then who's left to help me do all that shit, huh? Huh?
 Родион: Если и тебя убьют к чертям, то кто тогда останется помогать мне со всем этим дерьмом, а? А?
@@ -344,7 +344,7 @@
 Повествователь: И потому она в отчаянии продолжала взмахивать своим клинком.
 
 # Original: The Palermitan Style is indeed a masterful school of swordsmanship. But why does the House of Spiders need it?
-Повествователь: Палермитанский стиль действительно является искусной школой фехтования. Но зачем он Дому Пауков?
+Повествователь: Палермский стиль действительно является искусной школой фехтования. Но зачем он Дому Пауков?
 
 # Original: It was not a question Rodion had never asked herself before.
 Повествователь: Нельзя сказать, что Родион никогда раньше не задавалась этим вопросом.
@@ -365,16 +365,16 @@
 Родион: .......
 
 # Original: Nevertheless, Rodion never stopped imparting the Palermitan Style to her student.
-Повествователь: Тем не менее Родион никогда не переставала обучать свою ученицу Палермитанскому стилю.
+Повествователь: Тем не менее Родион никогда не переставала обучать свою ученицу Палермскому стилю.
 
 # Original: It began as an outlet for her frustration—a vague hope that if the girl could at least learn the Palermitan Style to perfection, it might make some damned difference.
-Повествователь: Поначалу это было выходом для её разочарования — смутной надеждой на то, что если девочка хотя бы освоит Палермитанский стиль в совершенстве, это принесёт хоть какую-то чёртову перемену.
+Повествователь: Поначалу это было выходом для её разочарования — смутной надеждой на то, что если девочка хотя бы освоит Палермский стиль в совершенстве, это принесёт хоть какую-то чёртову перемену.
 
 # Original: Then it changed. The girl absorbed everything taught to her like sponge. And Rodion found herself liking the way the child stuck with her, pressing close to a woman everyone else avoided like the plague.
 Повествователь: Затем всё изменилось. Девочка впитывала всё, чему её учили, как губка. И Родион поймала себя на том, что ей нравится, как ребёнок тянется к ней, держась поближе к женщине, которую все остальные избегали как чумы.
 
 # Original: But by the end... teaching the Palermitan Style was no longer a lesson. It was the last thing left for her to do, and she had run out of all other excuses.
-Повествователь: Но под конец... преподавание Палермитанского стиля больше не было уроком. Это было последним, что ей оставалось делать, и у неё иссякли все другие оправдания.
+Повествователь: Но под конец... преподавание Палермского стиля больше не было уроком. Это было последним, что ей оставалось делать, и у неё иссякли все другие оправдания.
 
 # Original: .......
 Родион: .......
@@ -671,7 +671,7 @@
 Повествователь: Всякий раз, осознавая, что монстр разгадал её траекторию, она меняла дугу своей атаки за счёт отдачи выстрелов.
 
 # Original: The building recoil is all it takes. With each clash, the Palermitan Style accelerates.
-Повествователь: Этой накапливающейся отдачи было достаточно. С каждым столкновением Палермитанский стиль ускорялся.
+Повествователь: Этой накапливающейся отдачи было достаточно. С каждым столкновением Палермский стиль ускорялся.
 
 # Original: And eventually...
 Повествователь: И в конце концов...
@@ -839,7 +839,7 @@
 Повествователь: Честная дуэль один на один.
 
 # Original: The Palermitan Style is known to accelerate the longer a duel lasts.
-Повествователь: Известно, что Палермитанский стиль ускоряется, чем дольше длится дуэль.
+Повествователь: Известно, что Палермский стиль ускоряется, чем дольше длится дуэль.
 
 # Original: A duel of this kind couldn't be more ideal for a practitioner of that style, but...
 Повествователь: Поединок подобного рода не мог бы лучше подойти мастеру этого стиля, но...
@@ -893,7 +893,7 @@
 Повествователь: Будущее, явленное её Глазом, становилось всё ближе и ближе.
 
 # Original: The sword movements of the Palermitan Style began to gain speed. The rapier and the blade, and Rodion herself, too.
-Повествователь: Движения меча Палермитанского стиля начали набирать скорость. Рапира, клинок, и сама Родион тоже.
+Повествователь: Движения меча Палермского стиля начали набирать скорость. Рапира, клинок, и сама Родион тоже.
 
 # Original: At the end of the next instant...
 Повествователь: На исходе следующего мига...
@@ -947,7 +947,7 @@
 Хитклифф: .......
 
 # Original: Only a fellow practitioner of the Palermitan Style could have spotted that opportunity.
-Повествователь: Лишь тот, кто сам владел Палермитанским стилем, мог заметить эту возможность.
+Повествователь: Лишь тот, кто сам владел Палермским стилем, мог заметить эту возможность.
 
 # Original: It was an attack from a blind spot that could neither be predicted nor blocked unless the Eye had room to compute the variable of another enemy.
 Повествователь: Это была атака из слепой зоны, которую невозможно было ни предугадать, ни заблокировать, если только у Глаза не было ресурса для вычисления переменной ещё одного противника.
