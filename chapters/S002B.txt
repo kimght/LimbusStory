@@ -1,78 +1,77 @@
-﻿# Original: I hear the howl of a beast somewhere.
-Рассказчик: Где-то вдали я слышу вой зверя.
+# Original: I hear a beast howling from somewhere.
+Рассказчик: Откуда-то доносится вой зверя.
 
 # Original: It cries ceaselessly. Is it wailing out of hunger? Or…
-Рассказчик: Он не прекращается. Плач ли это голода? Или же…
+Рассказчик: Он воет без умолку. От голода? Или…
 
-# Original: They’re being itchy-twitchy. Did they get up?
-Рассказчик: Его тело подёргивается, дрыг-дрыг. Он уже проснулся?
+# Original: They’re being itchy-twitchy. Are they up?
+???: Дёрг-дёрг. Уже проснулся?
 
 # Original: Awake at last. I would’ve been a tad bit disappointed if you croaked on us.
-Рассказчик: Наконец пришли в себя. Я был бы немного разочарован, сыграйте вы в ящик прямо в начале нашего пути.
+???: Наконец-то очнулся. Я бы чуток расстроилась, если б ты взял и окочурился.
 
-# Original: Fresh morning. This is Charon the Bus Driver.
-Харон: Освежающего утра. Водитель автобуса, Харон.
+# Original: Refreshing morning. This is Charon the Bus Driver.
+Харон: Бодрящего утречка. Это водитель автобуса Харон.
 
-# Original: It’s not morning, but I could guess it’s refreshing. How do you feel, Dante?
-Вергилий: Сейчас далеко не утро, но время дня действительно освежающее. Как вы себя чувствуете, Данте?
+# Original: It’s not morning, but I suppose it could be refreshing. How do you feel, Dante?
+Человек с красными глазами: Сейчас не утро, но, полагаю, взбодриться всё же можно. Как ты себя чувствуешь, Данте?
 
-# Original: <Well I…>
-Данте: <Я…>
+# Original: <Well, I…>
+Данте: <Ну, я…>
 
-# Original: Tick-tocking like a clock… Sigh, some language barrier this is.
-Вергилий: Тикаете как часы… Ха-а, общаться будет нелегко.
+# Original: Tick-tocking like a clock… *sigh* this language barrier will be quite a hassle.
+Человек с красными глазами: Тикаешь, словно часы… *вздох* Этот языковой барьер доставит немало хлопот.
 
-# Original: You may call me Vergilius… If you can understand what I’m saying, give me some kind of reaction, Dante.
-Вергилий: Зовите меня Вергилий… Если вы понимаете меня, дайте знак, Данте.
+# Original: You may call me Vergilius. If you can hear me, Dante, give me a sign.
+Вергилий: Можешь называть меня Вергилием. Если слышишь меня, Данте, подай знак.
 
-# Original: I gave him a quick nod since he didn’t seem hostile.
-Рассказчик: Я быстро кивнул. Непохоже, чтобы он желал мне зла.
+# Original: I gave him a quick nod. He didn’t seem hostile.
+Рассказчик: Я коротко кивнул. Враждебным он не казался.
 
-# Original: Good. At least your hearing is functional. Let’s ride, Charon.
-Вергилий: Прекрасно, по крайней мере, слышите вы без проблем. Поехали, Харон.
+# Original: Good. At least your hearing is functional. Time to drive, Charon.
+Вергилий: Хорошо. По крайней мере, слух у тебя исправен. Пора ехать, Харон.
 
 # Original: Now departing. Vroom-vroom.
-Харон: Мы отправляемся, врум-врум.
+Харон: Отправляемся. Врум-врум.
 
 # Original: There was a heavy roar and vibrations, as though they echoed from the bottom of a deep mire.
-Рассказчик: Вдруг раздался дикий рёв двигателя и началась тряска, словно мы застряли в глубокой колдобине.
+Рассказчик: Раздался тяжёлый рёв, всё задрожало — будто звук шёл со дна глубокой трясины.
 
 # Original: It was then that I realized I was aboard a bus.
-Рассказчик: И только в этот момент я осознал, что мы находимся в автобусе.
+Рассказчик: И только тогда я понял, что нахожусь в автобусе.
 
 # Original: A bus… I can’t be sure if I’ve ever ridden such a vehicle in the past.
-Рассказчик: Автобус… Не думаю, что я разъезжал в такой штуковине в прошлом.
+Рассказчик: Автобус… Не уверен, доводилось ли мне прежде ездить на таком транспорте.
 
 # Original: Do you remember who you were?
-Вергилий: Помните ли, кем вы были?
+Вергилий: Ты помнишь, кем был?
 
-# Original: I shook my head to say no. I had been reminded that my head was now a clinking mechanism.
-Рассказчик: Я покачал головой.
-Всё, что я могу понять — моя голова превратилась в тикающий механизм.
+# Original: I shook my head to say no. I had just been reminded that my head was now a clinking mechanism of sorts.
+Рассказчик: Я покачал головой. Заодно мне вновь напомнили, что теперь вместо головы у меня какой-то позвякивающий механизм.
 
-# Original: I suppose you want your memory back. Am I right?
-Вергилий: Вы желаете вернуть свою память, не так ли?
+# Original: I suppose you want your memory back, don't you?
+Вергилий: Полагаю, ты хочешь вернуть память?
 
-# Original: I nodded. I sure feel like an idiot.
-Рассказчик: Я кивнул. Чувствовал я себя, конечно, последним идиотом.
+# Original: I nodded. I sure felt like an idiot.
+Рассказчик: Я кивнул. Чувствовал себя я при этом полным идиотом.
 
 # Original: Smooth as it gets. What’s to stop the rest of you from adopting this gesture-based communication?
-Вергилий: Просто и ясно. Что мешает остальным использовать такое незатейливое общение жестами?
+Вергилий: Проще некуда. Что мешает и остальным перейти на язык жестов?
 
-# Original: Any words of yours, Ms. Faust?
-Вергилий: Есть что сказать, мисс Фауст?
+# Original: What do you think, Miss Faust?
+Вергилий: Что скажете, госпожа Фауст?
 
-# Original: Faust will kindly turn down the offer.
-Фауст: Увы, но Фауст придётся отвергнуть предложение.
+# Original: Faust will respectfully decline.
+Фауст: Фауст вынуждена почтительно отказаться.
 
-# Original: I doubt we’ll have that much freedom over our own bodies most of the time.
-Фауст: Я сомневаюсь, что мы вольны двигаться как пожелаем.
+# Original: I find it unlikely that the situations ahead will permit us the physical liberty for "smooth" gesture-based communication.
+Фауст: Маловероятно, что предстоящие обстоятельства оставят нам свободу движений, необходимую для столь «простого» общения жестами.
 
 # Original: She’s the one who spoke to me back in the forest.
-Рассказчик: Это её голос я слышал тогда, в лесу.
+Рассказчик: Это она говорила со мной тогда, в лесу.
 
-# Original: Her silver hair that glistens even without sunlight gives off a rather mysterious air.
-Рассказчик: В этот автобус не проникает солнечный свет, но её серебряные волосы не перестают сиять и искриться, и выглядит это довольно загадочно.
+# Original: Her silver hair, glistening even without sunlight, gives off a rather mysterious air.
+Рассказчик: Её серебристые волосы, сияющие даже в полумраке, придают ей довольно загадочный вид.
 
 # Original: Dante.
 Фауст: Данте.
@@ -80,475 +79,473 @@
 # Original: <Dante?>
 Данте: <Данте?>
 
-# Original: Come to think of it, the red-eyed man has been calling me that, too.
-Рассказчик: Если так подумать, то и красноглазый человек зовёт меня Данте.
+# Original: Come to think of it, the man with red eyes has been calling me that, too.
+Рассказчик: Если подумать, человек с красными глазами тоже меня так называл.
 
 # Original: Dante is your name. The amnesia must be affecting you rather severely.
-Фауст: Ваше имя — Данте. Амнезия сильно на вас сказалась.
+Фауст: Данте — ваше имя. Очевидно, амнезия поразила вас весьма серьёзно.
 
-# Original: <Sure looks like it… That doesn’t sound like a familiar word.>
-Данте: <Похоже на то… Однако оно звучит незнакомо.>
+# Original: <Sure looks like it… That doesn’t sound familiar at all.>
+Данте: <Похоже на то… Совсем не кажется знакомым.>
 
 # Original: You’ll get used to it in time.
 Фауст: Со временем вы привыкнете.
 
 # Original: <Wait… You can understand me?>
-Данте: <Погодите… Вы понимаете меня?>
+Данте: <Постойте… Вы меня понимаете?>
 
 # Original: <The group that attacked me earlier—and that Vergie or whatever he was called—seemed to hear nothing but ticking from me.>
-Данте: <Те, кто напал на меня, — и этот Вергиль… Всё, что они слышат — это тиканье часов.>
+Данте: <Те, кто напал на меня раньше, — и этот Верги или как его там — слышали от меня, похоже, лишь тиканье.>
 
 # Original: Faust can hear what you intend to speak.
-Фауст: Фауст слышит, что вы желаете сказать.
+Фауст: Фауст слышит то, что вы намереваетесь сказать.
 
-# Original: <You really can…? But how? I don’t even have a real mouth.>
-Данте: <Правда…? Как же так? Ведь у меня нет рта.>
+# Original: <You actually can! But how? I don’t even have a real mouth.>
+Данте: <И правда слышите! Но как? У меня ведь даже настоящего рта нет.>
 
-# Original: Outdated ideas must be one of the side effects that came with your head replacement.
-Фауст: Похоже, замена вашей головы привела к появлению в ней таких устаревших идей.
+# Original: Assumptions of yesteryear must be one of the side effects that came with your head replacement.
+Фауст: Представления минувших лет, должно быть, являются одним из побочных эффектов замены вашей головы.
 
-# Original: It’s anachronistic to think that vocal organs such as the cords or tongue are necessary to participate in conversation.
-Фауст: То, что разговор возможен лишь посредством голосового аппарата — голосовых связок или языка, — пережиток прошлого.
+# Original: It’s anachronistic to think that vocal organs such as the cords or tongue are necessary for one to communicate.
+Фауст: Считать, что для общения необходимы органы речи — например, голосовые связки или язык, — анахронизм.
 
 # Original: <Anachronistic… Right. Never considered that.>
-Данте: <Пережиток прошлого… Точно. Я даже не задумался об этом.>
+Данте: <Анахронизм… Ну да. Никогда об этом не задумывался.>
 
-# Original: …You can limit the recipient of your words to one person, or choose to speak to everyone at once.
-Фауст: …Вы можете ограничить количество слушателей одним или говорить со всеми сразу.
+# Original: … You can limit the recipient of your words to one person, or choose to speak to everyone at once.
+Фауст: …Вы можете ограничить круг адресатов одним человеком или обратиться сразу ко всем.
 
-# Original: Ah, a little clarification: When I say “everyone”, I’m only referring to the Sinners.
-Фауст: А, небольшое уточнение. Слышать вас могут лишь "грешники."
+# Original: Ah, a little clarification: the scope of "everyone" is limited to the Sinners.
+Фауст: Ах да, небольшое уточнение: под «всеми» подразумеваются только Грешники.
 
 # Original: <Sinners?>
 Данте: <Грешники?>
 
-# Original: The people who have taken seats behind you…
+# Original: The people seated behind you…
 Фауст: Люди, сидящие позади вас…
 
-# Original: And the ones who fought in your stead until moments ago.
-Фауст: И те, кто сражался за вас мгновения назад.
+# Original: The very same who fought in your stead until mere moments ago.
+Фауст: Те самые, кто ещё несколько мгновений назад сражался вместо вас.
 
-# Original: What hooo!!! So thou art the final piece that completes our journey’s cast! How I have yearned for this moment!
-Рассказчик: У-у-у-у!!! Так это вы — завершающий штрих, знаменующий окончание подготовки к нашему путешествию! С каким нетерпением я ожидала сего момента!
+# Original: Oooh! So thou art the final piece that completes our journey’s cast! How I have yearned for this moment!
+???: О-о-о! Так вот ты каков, последний участник, коему суждено дополнить состав нашего странствия! Сколь долго я ждала сего мгновения!
 
 # Original: Say, pal, where’d you sell your old cranium off?
-Рассказчик: Друже, где ж ты продал свою черепную коробку?
+???: Слышь, приятель, а куда ты старую черепушку сбагрил?
 
 # Original: So it was you. Thanks for putting my spine back into one piece. Were you a surgeon or something in the Nest?
-Рассказчик: Так это были вы. Спасибо, что подлатали мою спину. В Гнезде вы были хирургом или кем-то вроде того?
+???: Так это был ты. Спасибо, что снова собрал мой позвоночник воедино. Ты что, раньше хирургом в Гнезде был?
 
-# Original: Everyone, quiet. Nothing is more displeasing than to hear a choir of noises.
-Вергилий: Так, довольно. Ничто не раздражает так, чем болтовня вразнобой.
+# Original: Keep your mouths shut. Nothing is more unpleasant than hearing a cacophony of noises.
+Вергилий: Держите рты закрытыми. Нет ничего неприятнее какофонии голосов.
 
-# Original: I suppose you all owe them a brief introduction.
-Вергилий: Полагаю, настало время вам представиться.
+# Original: Now, a brief introduction is in order.
+Вергилий: А теперь полагается кратко представиться.
 
-# Original: I’ll give you time to make yourselves known, starting with the closest one. Go on.
-Вергилий: Я дам время для краткого знакомства каждому из вас, начиная с сидящего к нему ближе всех. Начинай же.
+# Original: I’ll give you time to make yourselves known, starting with the one seated at the very front. Speak.
+Вергилий: Я дам каждому возможность назвать себя. Начнём с того, кто сидит впереди всех. Говори.
 
-# Original: Why is it always the ones in front that go first… I’m sick of taking any sort of lead now.
-Грегор: Почему всегда начинают с передних рядов… Мне уже надоело быть во всём первым.
+# Original: Why is it always the ones in front that go first…? I'm sick of taking the lead.
+Грегор: Почему всегда начинают с тех, кто впереди…? Надоело быть первым.
 
 # Original: I heard you were gonna be our boss, or… yeah, our manager.
-Грегор: Я слышал, ты будешь нашим боссом или как там… а, точно, менеджером.
+Грегор: Слышал, ты будешь нашим начальником, или… ну да, нашим Менеджером.
 
 # Original: <Manager?>
 Данте: <Менеджером?>
 
 # Original: Yep, which is why I was real curious to meet you, and…
-Грегор: Так точно. Именно поэтому мне было любопытно встретиться с тобой, да и…
+Грегор: Ага, потому мне и было жутко любопытно с тобой познакомиться, и…
 
-# Original: Uhrm… Hmm, tsk. Forming the right sentences is tough work.
-Грегор: Э-э-э… ам, тц. Сложно подбирать подходящие слова.
+# Original: Uh… Hmm, tsk. It's always tough work to choose the right words.
+Грегор: Эм… Хм, тьфу. Всегда так сложно подобрать нужные слова.
 
-# Original: Dunno what you did with your old head, but I guess everyone has their story.
-Грегор: Понятия не имею, куда и зачем ты продал свою старую голову, но у каждого своя история за спиной.
+# Original: Dunno what you did with your old head, but I guess everyone's got a story to tell.
+Грегор: Не знаю, куда ты дел свою старую голову, но у каждого, наверное, своя история.
 
 # Original: I’m Gregor. We’re in this together, Manager Bud.
-Грегор: Я Грегор. Мы с тобой в одной лодке, дружище менеджер.
+Грегор: Я Грегор. Теперь мы в одной лодке, дружище Менеджер.
 
 # Original: Greg! They aren’t just your “bud” or “pal”~ You’re talking to the person who’ll make us filthy rich!
-Родион: Грег! "Друже", "друже"~ Ты говоришь с человеком, который набьёт наши карманы деньжатами!
+Родион: Грег! Менеджер тебе не просто «дружище» или «приятель»~ Ты говоришь с тем, кто сделает нас неприлично богатыми!
 
 # Original: Greg…?
 Грегор: Грег…?
 
 # Original: <Rich? What’s that about?>
-Данте: <Деньжатами? Что вы имеете в виду?>
+Данте: <Богатыми? Это ещё о чём?>
 
-# Original: Let’s see, what’s better… Dante! Don’t mind me if I call you by name. You can call me Rodya~
-Родион: Не "друже", а… Данте! Буду звать тебя по имени. А ты можешь звать меня Родей~
+# Original: Let’s see what's better to call you… Dante! Hope ya don't mind us being on first-name basis. You can call me Rodya, too~
+Родион: Так, как бы тебя получше называть… Данте! Надеюсь, ты не против, если сразу на «ты». Меня тоже можешь звать Родей~
 
-# Original: I think there’s a… well, good reason you became our manager.
-Родион: Думаю, должна быть… ну, хорошая причина, почему ты стал нашим менеджером.
+# Original: I think there’s a... well, a good reason you became our manager.
+Родион: Думаю, есть… ну, веская причина, почему именно ты стал нашим Менеджером.
 
-# Original: I’m sure. You used to be a big deal back in the Nest, right? When your old habits start coming back, we’ll be that much closer to rolling in the dough… Fuhu…
-Родион: Уверена, в Гнезде ты был на хорошем счету, не так ли? Как только твои былые привычки начнут возвращаться, мы с тобой будем купаться в деньгах… Хе-хе…
+# Original: I’m sure you used to be a big shot back in the Nest, right? When your old habits start coming back, we’ll be that much closer to rolling in the dough… Fuhu…
+Родион: Наверняка раньше ты был большой шишкой в Гнезде, да? Когда к тебе начнут возвращаться старые привычки, мы станем ещё на шаг ближе к несметным богатствам… Фуху…
 
-# Original: …She does have sociability, I’ll give her that.
-Рассказчик: …Отдам ей должное, она весьма общительна.
+# Original: … She sure is an extrovert, I’ll give her that.
+Рассказчик: …Что ж, в общительности ей точно не откажешь.
 
-# Original: Oh gosh, look at me keeping on. Hey, kid! It’s your turn next!
-Родион: Божечки, как же я заболталась. Эй! Твоя очередь!
+# Original: Oh gosh, look at me keeping on. Hey, kid! You're up next!
+Родион: Ой, что-то я разошлась. Эй, малой! Теперь ты!
 
-# Original: Good day…
+# Original: Hello...
 Синклер: Здравствуйте…
 
 # Original: Aw, boring~ That’s it?
-Родион: Ав, скучновато~ И это всё?
+Родион: Ой, ка-а-ак скучно~ И это всё?
 
-# Original: Oh! I am Sinclair…
-Синклер: А! Меня зовут Синклер…
+# Original: Oh! Sinclair... That's my name.
+Синклер: А! Синклер… Меня зовут Синклер.
 
 # Original: This boy looks awfully unnerved; did he even join this company of his own accord?
-Рассказчик: Этот юноша слишком сильно нервничает; он точно пришёл сюда на своих двоих?
+Рассказчик: Этот паренёк выглядит до смерти перепуганным. Он вообще по своей воле устроился в эту компанию?
 
-# Original: …I—Is there anything else I need to say? I’ve never worked for a company before…
-Синклер: М-мне нужно сказать что-то ещё? Я впервые работаю на компанию…
+# Original: … I—Is there anything else I need to say? This is my first corporate job…
+Синклер: …М-мне нужно сказать что-нибудь ещё? Это моя первая работа в компании…
 
 # Original: Well, you’ll learn the ropes in the coming days.
-Родион: Ну, у нас полно времени, чтобы привыкнуть к этому.
+Родион: Ну, в ближайшие дни освоишься.
 
 # Original: ‘Kay then, how about you next, nerdy pal!
-Родион: А теперь эстафета передаётся тому ботану!
+Родион: Ладушки, теперь ты, наш умник!
 
 # Original: I am Yi Sang.
-И Сан: Меня зовут И Сан.
+И Сан: Я — И Сан.
 
-# Original: <…That’s it?>
-Данте: <…И это всё?>
+# Original: <… That’s it?>
+Данте: <…И всё?>
 
-# Original: Mhm. No smoke or mirrors.
-И Сан: Мгм. Просто И Сан.
+# Original: Mhm. No smoke and mirrors.
+И Сан: Именно. Ни дыма, ни зеркал.
 
-# Original: I waited for him to reveal that he was pulling a prank or something…
-Рассказчик: Я смотрел на него в надежде, что он просто шутит…
+# Original: I waited for him to see if he was being witty or something...
+Рассказчик: Я подождал, решив, что, может быть, он так шутит…
 
-# Original: But he just stared vacantly into the window, disinterested.
-Рассказчик: Но он лишь пустым взглядом уставился в окно, не выражая какого-либо интереса к последующему диалогу.
+# Original: But he just stared vacantly out the window, disinterested.
+Рассказчик: Но тот лишь безучастно смотрел в окно с отсутствующим видом.
 
-# Original: Haaa… I can’t believe you people. Aren’t proper introductions the first step to being a member of society?
-Измаил: Ха-а… Вы меня разочаровываете. Разве вы не знаете, что общение начинается с приветствия?
+# Original: *sigh* I can’t believe you people. Aren’t proper introductions the first step to fitting in the society?
+Измаил: *вздох* Поверить не могу. Разве нормальное знакомство — не первый шаг к тому, чтобы вписаться в общество?
 
 # Original: Call me Ishmael, if you please.
-Измаил: Зовите меня Измаил.
+Измаил: Прошу, зовите меня Измаил.
 
 # Original: I heard you glued our bodies back together from pieces. I look forward to working with you.
-Измаил: Слышала, это вы собрали нас по кусочкам. Надеюсь, мы сработаемся.
+Измаил: Я слышала, это вы собрали наши тела по кусочкам. Надеюсь на плодотворное сотрудничество.
 
 # Original: She gave a polite bow before returning to her seat.
-Рассказчик: Она вежливо поклонилась, прежде чем вернуться на своё место.
+Рассказчик: Она вежливо поклонилась и вернулась на своё место.
 
-# Original: Although she emphasized sociality, she didn’t feel like the most amicable sort.
-Рассказчик: Несмотря на то, что она говорила, непохоже, чтобы она сама была из общительных.
+# Original: For someone who emphasized not being a misfit, she didn’t feel like the most amicable sort.
+Рассказчик: Для человека, который так подчёркивал важность умения вписываться в общество, дружелюбной она не казалась.
 
 # Original: Sorry to disappoint, ‘cause I don’t care too much for fitting in.
-Хитклиф: Уж извини, но чхать я хотел на "общение".
+Хитклиф: Не хочу разочаровывать, но мне плевать, впишусь я или нет.
 
 # Original: Name’s Heathcliff. Used to be a professional wrecker—for property and people alike.
-Хитклиф: Звать Хитклиф. Спец по битью морд и херни всякой.
+Хитклиф: Хитклиф. Раньше профессионально крушил всё подряд — и имущество, и людей.
 
 # Original: Not under anyone’s orders, mind you. I only did it to buggers that got on my nerves.
-Хитклиф: Не по заказу, а так, когда взбесят.
+Хитклиф: И не по чужой указке, ясно? Только тех гадов, которые действовали мне на нервы.
 
-# Original: So you’d better watch it.
-Хитклиф: Так что глядите в оба.
+# Original: So watch it, you.
+Хитклиф: Так что следи за собой.
 
 # Original: I’m deathly allergic to cocky gaffers who think they can boss me around.
-Хитклиф: У меня аллергия на выскочек, считающих, что могут вертеть мной как им вздумается.
+Хитклиф: У меня смертельная аллергия на всяких выскочек, которые думают, будто могут мной командовать.
 
 # Original: I don’t think I’ve done anything to give that impression yet.
-Рассказчик: Не думаю, что я пока мог показаться таким.
+Рассказчик: Не думаю, что уже успел произвести такое впечатление.
 
-# Original: ‘Tis my turn to speak! I am Don Quixote!
-Дон Кихот: Вот и настал мой час сиять! Именуют меня Дон Кихот!
+# Original: ‘Tis my turn to speak, at long last! I am Don Quixote!
+Дон Кихот: Наконец-то настал мой черёд! Я — Дон Кихот!
 
-# Original: I am a Fixer who shall sprint for the dream side by side. A pleasure to have thee.
-Дон Кихот: Я — корректировщица, что стремится с вами бок о бок к мечте. Приятно встретиться с вами.
+# Original: I am a Fixer who shall sprint for the dream side by side with thee. 'Tis a pleasure.
+Дон Кихот: Я Корректировщик, коему суждено бок о бок с тобою устремиться к мечте. Весьма рада знакомству.
 
 # Original: <A Fixer…? That definitely feels like a term I used to know…>
-Данте: <Корректировщица…? Кажется, я когда-то слышал это слово…>
+Данте: <Корректировщик…? Это слово мне определённо когда-то было знакомо…>
 
-# Original: Dost thou wish to know what it is? I can answer thy question! Fixers are protectors of the City!
-Дон Кихот: Желаете узнать, кто такие корректировщики? Я могу поведать вам! Корректировщики — доблестные защитники Города!
+# Original: Dost thou wish to know what a Fixer is? I can answer thy question! Fixers are protectors of the City!
+Дон Кихот: Желаешь ли ты узнать, кто такие Корректировщики? Я отвечу на твой вопрос! Корректировщики — защитники Города!
 
 # Original: Ah! Perchance thou mayst struggle to remember the City! ‘Tis—
-Дон Кихот: А! Быть может, вы испытываете трудности с тем, чтобы вспомнить и сам Город! Это…
+Дон Кихот: Ах! Быть может, тебе непросто будет вспомнить и сам Город! Это—
 
 # Original: I believe I said this was for brief introductions.
-Вергилий: Мне казалось, я сказал "краткое знакомство".
+Вергилий: Кажется, я велел представляться кратко.
 
 # Original: Ngh…
-Дон Кихот: Э-эк…
+Дон Кихот: Нгх…
 
 # Original: Don’t make me say it twice. Next.
-Вергилий: Не заставляй меня повторять дважды. Следующий.
+Вергилий: Не заставляй меня повторять. Следующий.
 
 # Original: My name’s Hong Lu. I hope we can get along well.
-Хон Лу: Меня зовут Хон Лу. Надеюсь, мы поладим, вы и я.
+Хон Лу: Меня зовут Хон Лу. Надеюсь, мы поладим.
 
-# Original: Wow, and look at you! Isn’t that a fascinating head there? A popular model these days, I suppose?
-Хон Лу: Ува-а~ Только взгляните на себя, разве эта голова не прекрасна? Эта модель весьма популярна, да?
+# Original: Wow, and look at you! Isn’t that a fascinating head you've got there? A popular model these days, I suppose?
+Хон Лу: Ого, да вы только посмотрите! Какая у тебя занятная голова! Наверное, сейчас эта модель в моде?
 
 # Original: <No, this isn’t that kind of…>
-Данте: <Нет, это не…>
+Данте: <Нет, это совсем не…>
 
-# Original: It’s not of my interest, though.
-Хон Лу: Однако меня это не интересует.
+# Original: It’s not my cup of tea, though.
+Хон Лу: Хотя мне такая не по вкусу.
 
-# Original: …The hell’s wrong with your attitude?
-Хитклиф: …Что, чёрт побери, с тобой не так?
+# Original: ... The hell’s wrong with your attitude?
+Хитклиф: …Ты чё себе позволяешь?
 
 # Original: Heathcliff looked to be just moments away from swinging his bat…
-Рассказчик: Казалось, Хитклиф был в шаге от того, чтобы пустить в ход свою биту…
+Рассказчик: Казалось, ещё мгновение — и Хитклиф пустит в ход свою биту…
 
-# Original: But when he realized the red gaze laid on him, he grunted and sat back down.
-Рассказчик: Но когда он почувствовал на себе взгляд красных глаз, то заворчал и плюхнулся обратно на своё место.
+# Original: But when he noticed the red gaze laid on him, he grunted and sat himself back down.
+Рассказчик: Но, заметив устремлённый на него красный взгляд, он хмыкнул и снова уселся.
 
-# Original: It’s Ryōshū.
+# Original: Ryōshū.
 Рёшу: Рёшу.
 
 # Original: Shūre’s nice to meet ya.
-Рёшу: Рада ско<b>реш</b>иться.
+Рёшу: Рада ско<b>рёш</b>иться.
 
-# Original: …Pfht.
-Рёшу: …пфф.
+# Original: ... Pfft.
+Рёшу: …Пфф.
 
 # Original: At what point was I supposed to laugh?
-Рассказчик: А в какой момент мне надо было засмеяться?
+Рассказчик: И в какой именно момент я должен был засмеяться?
 
 # Original: Meursault. Please refer to me as such.
-Мерсо: Мерсо. Прошу обращаться ко мне так.
+Мерсо: Мерсо. Прошу обращаться ко мне именно так.
 
-# Original: <You’re pretty polite.>
-Данте: <Вы довольно вежливы.>
+# Original: <You’re polite.>
+Данте: <Как вежливо.>
 
 # Original: This isn’t anything special. I’m simply behaving normally.
-Мерсо: Ничего особенного. Я лишь веду себя естественно.
+Мерсо: В этом нет ничего особенного. Я всего лишь веду себя нормально.
 
-# Original: <I’m almost touched. Merci.>
-Данте: <Вы тронули моё сердце. Мерси.>
+# Original: <I’m almost touched. Thanks.>
+Данте: <Я почти тронут. Спасибо.>
 
 # Original: Yes.
-Мерсо: Конечно.
+Мерсо: Да.
 
-# Original: It felt as if something were gravely amiss with him, but I can’t seem to pin it down exactly.
-Рассказчик: У меня стойкое ощущение, что у него крыша не на месте, но я не могу понять, почему мне так кажется.
+# Original: It felt as though something was gravely amiss with him, but I couldn't quite tell what.
+Рассказчик: Казалось, с ним что-то серьёзно не так, но что именно, я понять не мог.
 
 # Original: ……
 Отис: ……
 
 # Original: The way she scanned me up and down was a little daunting.
-Рассказчик: То, как она осмотрела меня с головы до пят, казалось немного пугающим.
+Рассказчик: То, как она оглядела меня с головы до ног, слегка пугало.
 
 # Original: I…
 Отис: Я…
 
 # Original: I felt almost compelled to bow to her, but she stopped me with a motion of her hand.
-Рассказчик: Я чуть было не поклонился, но, подходя ко мне, она одним движением вытянутой руки остановила меня.
+Рассказчик: Я уже почти почувствовал себя обязанным поклониться ей, но она остановила меня взмахом руки.
 
-# Original: Please, I would never make my manager grovel before me.
-Отис: Не должно менеджеру первым склонять голову перед подчинённым.
+# Original: Please, I would never make my manager stoop before me.
+Отис: Прошу вас, я никогда не позволю своему Менеджеру склоняться передо мной.
 
 # Original: My name is Outis. I would like to apologize for my rudeness earlier.
-Отис: Моё имя — Отис. Прошу прощения, если мои слова показались вам грубыми.
+Отис: Меня зовут Отис. Я хотела бы извиниться за свою прежнюю грубость.
 
 # Original: <Rudeness…?>
-Данте: <Грубо…?>
+Данте: <Грубость…?>
 
-# Original: Haha, oh, please. Your generosity is a humbling sight.
-Отис: Ха-ха, надо же. Не знала, что наш менеджер настолько добросердечен и щедр.
+# Original: Haha, oh, please. Your magnanimity humbles me.
+Отис: Ха-ха, ну что вы. Ваша великодушная снисходительность заставляет меня устыдиться.
 
-# Original: I knew at first glance that you have what it takes to lead us.
-Отис: Я с первого взгляда поняла, что вы сможете повести нас за собой.
+# Original: I knew at first glance that you had what it takes to lead us.
+Отис: Я с первого взгляда поняла, что вы обладаете всеми качествами, необходимыми нашему лидеру.
 
-# Original: <…Huh? Sorry?>
-Данте: <…Э-эм? Эм?>
+# Original: <Uh... What?>
+Данте: <Эм… Что?>
 
-# Original: While most humans cause noise and friction as a result of confrontation…
-Отис: Пока многие вызывают шум и трения в конфронтациях друг с другом…
+# Original: While most humans cause noise and friction as a result of confrontation...
+Отис: Сталкиваясь друг с другом, большинство людей порождают лишь шум и трение…
 
-# Original: Some are able to reap mutual benefit from coming head-to-head.
-Отис: Некоторые извлекают выгоду, натравливая одних на других.
+# Original: ... some are able to reap mutual benefit from coming head-to-head.
+Отис: …но некоторые способны извлечь из такого столкновения взаимную пользу.
 
-# Original: It could be compared to the relationship between a blade and a whetstone.
-Отис: Ведь чтобы сделать лезвие острым, необходим точильный камень.
+# Original: Just as one might seek out firm whetstones to best sharpen their blade.
+Отис: Подобно тому как для наилучшей заточки клинка ищут твёрдый точильный камень.
 
-# Original: I vow to serve you with unrivaled devotion, Executive Manager. My blade is yours to wield.
-Отис: Я клянусь служить вам верой и правдой, менеджер. Используйте мой клинок, как вы пожелаете.
+# Original: And my blade is yours to wield, Executive Manager. I shall serve you with unrivaled devotion.
+Отис: И мой клинок отныне в вашем распоряжении, Исполнительный Менеджер. Я буду служить вам с непревзойдённой преданностью.
 
-# Original: <Th-That’s reassuring… Thanks.>
-Данте: <…Э-это обнадёживает… Спасибо.>
+# Original: <Th-that’s reassuring… Thanks.>
+Данте: <Э-это обнадёживает… Спасибо.>
 
-# Original: I gave her an approving nod, even though I still don’t get what she meant by her “rudeness”.
-Рассказчик: Я одобрительно кивнул, выслушав её речь, хотя до сих пор не понимаю, что она имела в виду под "грубостью".
+# Original: I gave her an approving nod, even though I didn't get what she meant by her “rudeness.”
+Рассказчик: Я одобрительно кивнул, хотя так и не понял, какую именно свою «грубость» она имела в виду.
 
-# Original: I’m amazed at how you can sing such bold-faced high praise not too long after calling them a “miserably writhing wretch”.
-Измаил: Поверить не могу: в Лесу называешь его жалким, а затем поёшь такие панегирики о его величии.
+# Original: I’m amazed at your ability to bootlick with such passion so soon after calling them a “miserable thing.”
+Измаил: Поражаюсь, с какой страстью вы принялись лизать сапоги тому, кого совсем недавно называли «жалким созданием».
 
-# Original: …I think I see now.
-Рассказчик: …Кажется, теперь я понял.
+# Original: … I think I get it now.
+Рассказчик: …Теперь, кажется, я понял.
 
 # Original: It seems I am the last. Faust is the name.
-Фауст: Что ж, похоже, знакомства заканчиваются на мне. Моё имя — Фауст.
+Фауст: Похоже, я осталась последней. Имя — Фауст.
 
 # Original: A genius with whom you’re lucky to cross paths even once in your life.
-Фауст: Гений, с которым вам посчастливилось пересечься в своей жизни.
+Фауст: Гений, встретить которого хотя бы раз в жизни — большая удача.
 
 # Original: <Mmh…>
-Данте: <Э-эм…>
+Данте: <М-м…>
 
-# Original: Sounds like you aren’t convinced, Dante.
-Фауст: Похоже, вы не верите, Данте.
+# Original: Your reaction suggests that you're not convinced, Dante.
+Фауст: Судя по вашей реакции, вы не убеждены, Данте.
 
 # Original: Well, it’s fine. You’ll come to learn, all in due time.
-Фауст: Всё в порядке. Со временем вы всё поймёте.
+Фауст: Что ж, ничего страшного. В своё время вы всё поймёте.
 
 # Original: <Learn what…?>
-Данте: <Пойму что…?>
+Данте: <Что пойму…?>
 
-# Original: That Faust is indeed a brilliant mind.
-Фауст: Что у Фауст блестящий ум.
+# Original: That Faust is indeed a rare and brilliant mind.
+Фауст: Что Фауст действительно обладает редким и выдающимся умом.
 
-# Original: When a proverbial tree falls, the fact of its sound cannot become truth when the outside observer fails to recognize it.
-Фауст: Звук падающего дерева не сможет стать истиной, пока наблюдатель не услышит его.
+# Original: When a proverbial tree falls, its impact on the ground is a given fact. The observer's failure to perceive it has nothing to do with the truth of the matter.
+Фауст: Если пресловутое дерево падает, его удар о землю является непреложным фактом. Неспособность наблюдателя воспринять этот факт никак не влияет на его истинность.
 
 # Original: <Okay…>
 Данте: <Ладно…>
 
 # Original: That’s enough greetings.
-Вергилий: Итак, знакомства подходят к концу.
+Вергилий: Довольно приветствий.
 
-# Original: Dante, let me explain your new occupation.
-Вергилий: Данте, позвольте мне рассказать об ожидающей вас работе.
+# Original: Dante, let me explain your job scope.
+Вергилий: Данте, позволь объяснить круг твоих обязанностей.
 
 # Original: <You mean… as the manager?>
-Данте: <Вы имеете в виду… работу менеджера?>
+Данте: <То есть… обязанностей Менеджера?>
 
-# Original: They’re asking if the job you’re about to explain is that of a manager.
-Фауст: Он спрашивает, значит ли, что та работа, о которой вы желаете поведать — работа менеджера.
+# Original: They’re asking if you’re about to explain the job description of a manager.
+Фауст: Данте спрашивает, собираетесь ли вы объяснить должностные обязанности Менеджера.
 
-# Original: Come to think of it, that red-eyed man couldn’t hear me, unlike the Sinners.
-Рассказчик: Если так подумать, то этот красноглазый человек не слышит меня, в отличие от грешников.
+# Original: Come to think of it, the man with red eyes couldn’t hear me, unlike the Sinners.
+Рассказчик: И правда, в отличие от Грешников, человек с красными глазами не мог меня слышать.
 
-# Original: That’s correct, Executive Manager Dante. You will embark on a trip to the Inferno with the twelve Sinners who’ve just introduced themselves.
-Вергилий: Вы правы, менеджер Данте.
-Вам предстоит отправиться в Ад вместе с двенадцатью грешниками, что только что вам представились.
+# Original: That’s correct, Executive Manager Dante. You will embark on a trip to the Inferno with the 12 Sinners who’ve just introduced themselves.
+Вергилий: Именно так, Исполнительный Менеджер Данте. Ты отправишься в путешествие по Инферно вместе с двенадцатью Грешниками, которые только что представились.
 
 # Original: <The Inferno…? Why should I go to hell?>
-Данте: <В Ад…? Но зачем нам ехать в Ад?>
+Данте: <По Инферно…? Зачем мне идти в ад?>
 
 # Original: They’re asking why they need to travel to the Inferno.
-Фауст: Он спрашивает, зачем нам отправляться в Ад.
+Фауст: Данте спрашивает, зачем нужно отправляться в Инферно.
 
-# Original: Hmm… How about this: Treasure awaits at the end of the road… Would that suffice?
-Вергилий: Хм… В конце Ада вас ожидает сокровище… Хватит ли вам этого ответа?
+# Original: Hmm… Because treasure awaits at the end of the road. Would that suffice?
+Вергилий: Хм… Потому что в конце пути ждёт сокровище. Такого ответа достаточно?
 
 # Original: <I don’t… You mean I used to be a treasure hunter or something?>
-Данте: <Что… Неужели вы хотите сказать, что до этого я охотился за сокровищами?>
+Данте: <Не понимаю… Хотите сказать, раньше я был охотником за сокровищами или кем-то в этом роде?>
 
-# Original: They can’t seem to get you at all.
-Фауст: Похоже, он совершенно вас не понимает.
+# Original: They can’t seem to understand you at all.
+Фауст: Похоже, Данте вас совсем не понимает.
 
-# Original: I did not ask for your understanding, Dante. Nor was this a question of your willingness.
-Вергилий: Я не жду от вас понимания, Данте. Так же, как и не стоит вопрос о вашем желании участвовать.
+# Original: I did not ask for your understanding, Dante. Nor was this a question of your consent.
+Вергилий: Я и не просил меня понимать, Данте. И твоего согласия тоже не спрашивал.
 
 # Original: You’ll have to listen to me if you want to reclaim your memories and original head.
-Вергилий: Если вы желаете вернуть свои воспоминания и былую голову назад, вам придётся слушаться меня.
+Вергилий: Если хочешь вернуть воспоминания и прежнюю голову, тебе придётся меня слушаться.
 
 # Original: <I mean… I do want them back, but…>
-Данте: <Как бы… Мне хотелось вернуть их, но…>
+Данте: <То есть… я и правда хочу их вернуть, но…>
 
 # Original: They’re hesitant.
-Фауст: Он колеблется.
+Фауст: Данте колеблется.
 
-# Original: Ms. Faust, what will we do if Dante keeps on refusing to cooperate? This was not a scenario we anticipated.
-Вергилий: Мисс Фауст, что же нам делать, если Данте продолжит отказываться сотрудничать с нами? Мы не планировали этого.
+# Original: Miss Faust, what will we do if Dante keeps on refusing to cooperate? This was not a scenario we anticipated.
+Вергилий: Госпожа Фауст, что мы будем делать, если Данте продолжит отказываться от сотрудничества? Такого сценария мы не предусматривали.
 
 # Original: Preposterous. Faust anticipates every possibility.
-Фауст: Абсурд. Фауст предвидит каждый из возможных исходов.
+Фауст: Нелепость. Фауст предусматривает любую возможность.
 
 # Original: Dante, once you’ve completed all your missions…
-Фауст: Данте, когда вы завершите каждую из ваших миссий…
+Фауст: Данте, когда вы выполните все свои миссии…
 
 # Original: You’ll be able to engrave the Aspect.
-Фауст: Вы сможете начертить Аспект.
+Фауст: Вы сможете выгравировать Аспект.
 
 # Original: I can promise you that.
-Фауст: Я обещаю вам это.
+Фауст: Фауст вам это обещает.
 
-# Original: Aspect. A word that strikes my mind intensely. Even though my memories are gone, my underlying instincts are responding strongly to it.
-Рассказчик: "Аспект." Это слово болью отдалось в моей голове.
-Интуиция, что хранится глубоко под слоем забвения в моей памяти, дала о себе знать.
+# Original: Aspect. A word that pierces through my mind. Even though my memories are gone, my underlying instincts respond strongly to it.
+Рассказчик: Аспект. Это слово пронзает мой разум. Хотя воспоминаний больше нет, глубинные инстинкты живо на него откликаются.
 
-# Original: Led by intuition, I make my choice…
-Рассказчик: И, прислушавшись к ней, я принял решение…
+# Original: And led by those instincts, I make my choice…
+Рассказчик: И, ведомый этими инстинктами, я делаю свой выбор…
 
-# Original: See there? They’re nodding.
-Фауст: Видите? Он кивнул.
+# Original: See? They’re nodding now.
+Фауст: Видите? Теперь Данте кивает.
 
 # Original: Good. Then we can continue.
-Вергилий: Прекрасно. Значит, мы можем продолжать.
+Вергилий: Хорошо. Тогда продолжим.
 
 # Original: By the way, Charon, why isn’t the bus moving? Were you dozing off?
-Вергилий: К слову, Харон, почему автобус не движется? Ты задремала?
+Вергилий: К слову, Харон, почему автобус не едет? Ты задремала?
 
 # Original: A bus driver only snoozes at rest spots, Verg.
-Харон: Водитель автобуса может вздремнуть только во время остановки, Вер.
+Харон: Водитель автобуса дремлет только на остановках, Верг.
 
 # Original: Weirdos were hanging around in front of Mephi.
-Харон: Странные ребята собрались вокруг Мефи.
+Харон: Чудики ошивались перед Мефи.
 
 # Original: I told you, Charon. If anything happens with the bus, you’ve got to let me know right away.
-Вергилий: Харон, я же тебе говорил. Чуть что случится с автобусом — ты сразу докладываешь мне.
+Вергилий: Я же говорил тебе, Харон: если с автобусом что-то происходит, сразу сообщай мне.
 
 # Original: <Mephi? Who’s that?>
-Данте: <Мефи? Кто это?>
+Данте: <Мефи? Это кто?>
 
 # Original: Mephistopheles. The name of this bus and the engine that runs it.
-Фауст: Мефистофель. Это название этого автобуса и двигателя, находящегося в нём.
+Фауст: Мефистофель. Так называется этот автобус и приводящий его в движение двигатель.
 
-# Original: …And Faust’s magnum opus cordis.
-Фауст: …И магнум опус, в который Фауст вложила все свои сердце и душу.
+# Original: … and Faust’s magnum opus cordis.
+Фауст: …А также <i>magnum opus cordis</i> Фауст.
 
-# Original: An ideal ferryboat to bear us across the Inferno.
-Вергилий: Прекрасная лодка для того, чтобы нести нас по Аду.
+# Original: A most fitting ferryboat to bear us across the Inferno.
+Вергилий: Самое подходящее судно, чтобы перевезти нас через Инферно.
 
 # Original: Wouldn’t you agree, Dante?
-Вергилий: Разве вы не согласны, Данте?
+Вергилий: Не согласен, Данте?
 
 # Original: I wasn’t sure what he was getting at, so I turned away to look through the window instead of giving him a reply.
-Рассказчик: Я не понимаю, к чему он клонит, так что я посмотрел в окно вместо того, чтобы ответить ему.
+Рассказчик: Я не понял, к чему он клонит, поэтому вместо ответа отвернулся и посмотрел в окно.
 
 # Original: Looks like they’re just another pack of dirty Rats living in the Backstreets.
-Вергилий: Похоже, это лишь свора грязных Крыс, живущих в Подворотнях.
+Вергилий: Похоже, это всего лишь очередная шайка грязных Крыс из Подворотен.
 
 # Original: This is just the right time, Dante. They should make perfect targets for practicing your command.
-Вергилий: Прекрасно, Данте. Самое время вам попрактиковаться в командовании.
+Вергилий: Самое время, Данте. Они станут прекрасными мишенями, а ты заодно потренируешься командовать.
 
 # Original: Dante, I skipped over many details during our first battle.
-Фауст: Данте, во время первой битвы я опустила некоторые детали.
+Фауст: Данте, во время нашего первого сражения Фауст опустила множество подробностей.
 
 # Original: We were short on time, after all.
-Фауст: Ведь у нас не было времени.
+Фауст: В конце концов, времени у нас было мало.
 
-# Original: However, we’ll be slaughtered frequently if no improvements are made to your strategy.
-Фауст: Однако, мы часто будем оказываться убитыми, если не поможем вам улучшить ваши тактики.
+# Original: However, without improvements to your strategic prowess, only defeat and slaughter lie in our path.
+Фауст: Однако, если вы не усовершенствуете свои стратегические навыки, впереди нас ждут лишь поражения и избиения.
 
-# Original: And in turn, you’ll have to endure senseless pain over and over again to revive us.
-Фауст: И вам не придётся чувствовать бессмысленную боль, раз за разом воскрешая нас.
+# Original: And in turn, you’ll have to endure pointless pain over and over again to revive us.
+Фауст: А вам, в свою очередь, придётся снова и снова терпеть бессмысленную боль, чтобы воскрешать нас.
 
-# Original: <Pain… Revive? You mean, what happened earlier was…>
-Данте: <Боль… Воскрешая? То есть до этого…>
+# Original: <Pain… to revive you? You mean, what happened earlier was…>
+Данте: <Боль… чтобы воскресить вас? То есть произошедшее раньше было…>
 
-# Original: Yes, we were brought back to life because you “turned back the clock”.
-Фауст: Да, мы живы благодаря тому, что вы "перевели стрелки часов".
+# Original: Yes, we were brought back to life because you “turned back the clock.”
+Фауст: Да. Мы вернулись к жизни, потому что вы «повернули стрелки часов назад».
 
-# Original: I don’t believe that much is necessary, Ms. Faust.
-Вергилий: Не думаю, что стоило рассказывать так много, мисс Фауст.
+# Original: That exposition doesn't seem to be of any immediate urgency, Miss Faust.
+Вергилий: Не думаю, что эти объяснения настолько неотложны, госпожа Фауст.
 
 # Original: Save the chatter for later. Sinners, off the bus.
-Вергилий: Поболтаете потом. А сейчас, грешники, на выход.
+Вергилий: Оставьте разговоры на потом. Грешники, выйти из автобуса.
 
-# Original: …Allow me to elaborate on combat.
-Фауст: …Позвольте продолжить во время битвы.
+# Original: … Allow me to elaborate on the elements of combat.
+Фауст: …Позвольте подробнее разъяснить составляющие боя.

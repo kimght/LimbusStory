@@ -1,77 +1,77 @@
-﻿# Original: Road’s clear. But Verg, Mephi could’ve run them over just fine.
-Харон: Дорога свободна, но Вер, Мефи мог расчистить дорогу сам, переехав их.
+# Original: Road’s clear. But Verg, Mephi could’ve just run them over and pushed through just fine.
+Харон: Дорога свободна. Но, Верг, Мефи мог бы просто их переехать и спокойно поехать дальше.
 
-# Original: <…Huh?>
-Данте: <…Что?>
+# Original: <... Huh?>
+Данте: <... А?>
 
-# Original: <What did I fight for, then?>
-Данте: <Ради чего я тогда так старался?>
+# Original: <What was the point of putting me through all that fighting, then?>
+Данте: <Тогда зачем было заставлять меня участвовать во всех этих драках?>
 
-# Original: Sensing a rattling agitation in my gestures, Vergilius stepped in.
-Рассказчик: Но заметив, как я дрожу и чуть не подскакиваю от негодования, Вергилий вступился.
+# Original: Vergilius stepped in at the sight of my rattling head and agitated gestures.
+Рассказчик: Увидев, как дребезжит моя голова и как я нервно жестикулирую, Вергилий вмешался.
 
 # Original: Calm yourself, Dante.
-Вергилий: Успокойтесь, Данте.
+Вергилий: Успокойся, Данте.
 
 # Original: It’s not right to ask a toddler to run when it has yet to take its first steps.
-Вергилий: Нельзя заставлять бегать дитя, что ещё не начало ходить.
+Вергилий: Нельзя требовать от малыша умения бегать, когда он ещё и первого шага не сделал.
 
-# Original: You’ll need every opportunity to try and walk before you’re made to run.
-Вергилий: Вам стоит пробовать ходить каждый раз, когда предоставляется шанс, прежде чем попытаться побежать.
+# Original: Best take every opportunity there is to walk on your own feet before you’re made to run.
+Вергилий: Лучше пользуйся каждой возможностью ходить на своих двоих, пока тебя не заставили бежать.
 
 # Original: Furthermore… Dante.
-Вергилий: Так что… Данте.
+Вергилий: И ещё… Данте.
 
-# Original: As the manager… it’s your job to “manage” your staff.
-Вергилий: Вы менеджер… И ваша работа в том, чтобы управлять ими.
+# Original: As the manager… your job is to “manage” your staff.
+Вергилий: Как Менеджер… ты обязан «управлять» своими подчинёнными.
 
-# Original: And I… am the guide. I decide where we go and how we arrive there.
-Вергилий: Я… лишь гид. Я решаю, куда мы едем и как мы добираемся туда, куда нам надо.
+# Original: And I… am the guide. I decide the "where" and the "how" of our journey.
+Вергилий: А я… Гид. Я решаю, «куда» и «как» мы отправимся.
 
-# Original: Do you get it?
-Вергилий: Понимаете?
+# Original: Am I understood?
+Вергилий: Ясно?
 
 # Original: Don’t argue with me.
-Вергилий: Так что не жалуйтесь.
+Вергилий: Не спорь со мной.
 
-# Original: <…How am I supposed to not question a stranger who can’t even hear me?>
-Данте: <…Вы серьёзно хотите, чтобы я слушал человека, который совершенно меня не понимает, и слушался его?>
+# Original: <... How am I supposed to not question a stranger who can’t even hear me?>
+Данте: <... И как мне не задавать вопросов незнакомцу, который даже не слышит меня?>
 
 # Original: ……
 Фауст: ……
 
-# Original: I heard ticking, so what did they say, Ms. Faust?
-Вергилий: Он тикает. Мисс Фауст, что он говорит?
+# Original: I heard ticking. What did they say, Miss Faust?
+Вергилий: Я слышал тиканье. Что он сказал, госпожа Фауст?
 
 # Original: Nothing much.
-Фауст: Ничего такого.
+Фауст: Ничего особенного.
 
-# Original: Some verbose agreement that was. A nod should be enough to let me know that you approve, Dante.
-Вергилий: Значит, он согласен. Напоминаю, что вы можете просто кивать, Данте.
+# Original: A little too verbose to be an affirmation. A nod should suffice going forward, Dante.
+Вергилий: Для утвердительного ответа многовато слов. Впредь будет достаточно кивка, Данте.
 
 # Original: Now, Mephi, off we go. Woohoo.
-Харон: Значит, Мефи, в дорогу. Ура.
+Харон: А теперь вперёд, Мефи. Вуху.
 
 # Original: How’re you feeling, Charon?
-Вергилий: Харон, как ты себя чувствуешь?
+Вергилий: Как настроение, Харон?
 
 # Original: Extreme. Excitement. About to walk on air, reports Charon.
-Харон: Так. Рада. Харон кажется, она вот-вот взлетит.
+Харон: Запредельный. Восторг. Готова взлететь от счастья, докладывает Харон.
 
-# Original: …Good.
-Вергилий: …Хорошо.
+# Original: ... Good.
+Вергилий: ... Хорошо.
 
 # Original: <So, where are we going?>
 Данте: <Так куда мы едем?>
 
 # Original: Vergilius, they’d like to know the destination.
-Фауст: Вергилий, он спрашивает, куда мы направляемся.
+Фауст: Вергилий, Данте хочет знать, куда мы направляемся.
 
-# Original: Sigh… I believe I told you that already, Dante.
-Вергилий: Ха-а… кажется, я говорил об этом, Данте.
+# Original: *sigh* What did I just tell you, Dante?
+Вергилий: *вздох* Что я только что тебе сказал, Данте?
 
-# Original: <But just *where* are we going?>
-Данте: <Но всё же, <b>куда</b> мы едем?>
+# Original: <But just <i>where</i> are we going?>
+Данте: <Но <i>куда</i> именно мы едем?>
 
 # Original: With his sigh, the bus shuddered and started to rumble forward.
-Рассказчик: И с его выдохом внезапно автобус с шумом и грохотом тронулся вперёд.
+Рассказчик: Вслед за его вздохом автобус содрогнулся и с грохотом тронулся вперёд.

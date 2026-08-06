@@ -1,11 +1,11 @@
-﻿# Original: I don’t get it. This is what Lion struggled against?
-Пантера: Ума не приложу. Вот эта свора детей смогла сбить Львицу с ног?
+# Original: I don’t get it. These nobodies managed to take Lion down?
+Пантера: Не понимаю. Эти ничтожества сумели одолеть Львицу?
 
 # Original: W-Whoa, hang on!
-Грегор: По-погодите минутку!
+Грегор: С-стойте, погодите!
 
-# Original: I know this is kinda weird coming from someone you were just fighting, but I’m pretty sure we can talk this o—
-Грегор: Мы, конечно, только что сражались, но, может, нам лучше решить это простым разгово…
+# Original: I know this is kinda weird coming from someone you were just fighting, but I’m pretty sure we can talk this ou—
+Грегор: Знаю, странно слышать такое от того, с кем вы только что дрались, но, уверен, мы можем всё обсу—
 
 # Original: ……!
 Грегор: ……!
@@ -13,143 +13,152 @@
 # Original: This…
 И Сан: Это…
 
-# Original: …is unideal.
-И Сан: …далеко до идеала.
+# Original: … is not ideal.
+И Сан: …не идеально.
 
-# Original: Haa… I knew it was a ridiculous idea to put up a fight against them.
-Измаил: Ха… Я знала, что эта битва в принципе бессмысленна.
+# Original: *sigh* I knew it was a ridiculous idea to put up a fight against them.
+Измаил: *вздыхает* Я так и знала, что пытаться им сопротивляться — нелепая затея.
 
 # Original: ……
 Измаил: ……
 
-# Original: Are y’all kidding? I haven’t even…
-Родион: Да вы издеваетесь? Я даже не нача…
+# Original: You getting off your ass anytime soon, Lion? We don’t have time for this.
+Волчица: Львица, как долго ты ещё собираешься прохлаждаться? У нас нет времени.
+
+# Original: … You know, you’re right. No need to make this longer than it has to be.
+Львица: …Знаешь, а ты права. Незачем это затягивать.
+
+# Original: Are y’all kidding? I haven’t even started…
+Родион: Вы там шутите, что ли? Я ведь ещё даже не начала…
 
 # Original: ……
 Родион: ……
 
-# Original: <What the hell is going on? You said you’ll fight in my stead!>
-Данте: <Что происходит? Вы же сказали, что будете сражаться за меня!>
+# Original: <What the hell? You said you'd fight in my stead!>
+Данте: <Какого чёрта? Вы же сказали, что будете сражаться вместо меня!>
 
 # Original: We never promised to win said fights.
-Фауст: Но мы не обещали, что одержим победу.
+Фауст: Но мы не обещали побеждать.
 
 # Original: <What…>
-Данте: <Чего…>
+Данте: <Что?..>
 
 # Original: And, it seems that I’m the only survivor.
-Фауст: И вот, я осталась одна.
+Фауст: И, судя по всему, в живых осталась одна Фауст.
 
-# Original: <Oookay. So you were waiting for this?>
-Данте: <Ч-что ж, вы ожидали, что всё так окончится?>
+# Original: <O-okay. So you meant for this to happen?>
+Данте: <Л-ладно. Значит, всё так и было задумано?>
 
-# Original: <You have some hidden card up your sleeve, right?>
-Данте: <У вас есть козырь?>
+# Original: <You've got an ace up your sleeve, haven't you?>
+Данте: <У тебя ведь есть козырь в рукаве?>
 
-# Original: Not… necessarily a trump, no. Rather…
-Фауст: Козырь… не то чтобы. Скорее…
+# Original: Not… necessarily an ace, no. This is simply about...
+Фауст: Не… совсем козырь. Нужно лишь…
 
-# Original: It’s about following the star.
-Фауст: Следование… ха, за звездой.
+# Original: ... following the star.
+Фауст: …следовать за звездой.
 
-# Original: What is this, some kind of suicidal performance? Not the funnest lives to end.
-Пантера: Вы что, решили покончить с жизнью целой толпой? Таких даже убивать грустно.
+# Original: Is this supposed to be a mass suicide or something? It's a rather unpleasant display.
+Пантера: Это что, массовое самоубийство? Довольно неприятное зрелище.
 
 # Original: <What… what am I supposed to do?>
-Данте: <Какого… Что мне делать?>
+Данте: <Что… что мне теперь делать?>
 
-# Original: <They jumped in triumphantly only to die like flies…>
-Данте: <Поверить не могу. Так радостно идти на смерть…>
+# Original: <Arriving with all that fanfare, only to die like flies…>
+Данте: <Явились с такой помпой — и передохли как мухи…>
 
 # Original: <Gah… I can’t remember a thing about the past since I repeated what she said.>
-Данте: <Эх… Я не помню ничего до того момента, как повторил её слова.>
+Данте: <Аргх… С тех пор как я повторил её слова, я совсем ничего не помню о прошлом.>
+
+# Original: Aah~ Sure took my sweet time. Let’s finish this for real!
+Львица: А-а-а~ Что-то мы закопались. Давайте уже прикончим его по-настоящему!
 
 # Original: <Is this… how I die?>
-Данте: <Я… неужели я вот так и умру?>
+Данте: <Вот так… я и умру?>
 
-# Original: Tell the Serpent this, false lion.
-Рассказчик: Передай Змее, фальшивая львица.
+# Original: Deliver this message to the Serpent, false lion.
+???: Передай Змее послание, лжельвица.
 
-# Original: This flow cannot be stopped.
-Вергилий: Ей не удастся остановить этот поток.
+# Original: This is a flow that cannot be stopped.
+Человек с красными глазами: Этот поток уже не остановить.
 
 # Original: Grh… GAAAH!!
-Лев: Э… КХА!!!
+Львица: Грх… ГА-А-А-А!!
 
-# Original: Red…? But why?
-Волк: Красный…? Но почему?
+# Original: The Red...? But why?
+Волчица: Красный?.. Но почему?
 
 # Original: Argh…
-Волк: Агх…
+Волчица: Аргх…
 
-# Original: Do you know why I only dismembered those two?
-Вергилий: Знаете, почему я отрезал конечности лишь двум?
+# Original: Do you know why I only had those two dismembered?
+Человек с красными глазами: Знаешь, почему я расчленил только их двоих?
 
-# Original: Because at least one of you needs to be able to carry the rest out of here.
-Вергилий: Чтобы третий, живой и здоровый, взял их в охапку и унёс отсюда как можно дальше.
+# Original: Because one of you needs to be intact to carry the rest and scram pell-mell out of here.
+Человек с красными глазами: Потому что один из вас должен остаться достаточно целым, чтобы сломя голову убраться отсюда, унеся остальных.
 
 # Original: And you’re the only one left to offer them any help.
-Вергилий: Так что только ты сможешь им помочь.
+Человек с красными глазами: А помочь им больше некому, кроме тебя.
 
-# Original: …The Red Gaze.
-Пантера: …Красный взор.
+# Original: … The Red Gaze.
+Пантера: …Красный Взгляд.
 
 # Original: Don’t glare at me like that. This is nothing compared to what you did.
-Вергилий: Не смотри на меня так. Это ничто по сравнению с тем, сколько крови пролили вы.
+Человек с красными глазами: Не сверли меня взглядом. Это ничто по сравнению с тем, что сделали вы.
 
-# Original: With wounds like those, I’m sure your boss will recognize that you did your part. Consider them a medal of honor.
-Вергилий: С такими ранениями и вы, и ваш босс, поймёте, что вы сделали. Считайте это медалью за отвагу.
+# Original: With wounds like those, I’m sure your boss will recognize the effort you put in. Consider them a badge of honor.
+Человек с красными глазами: Уверен, по таким ранам ваше начальство поймёт, как усердно вы старались. Считайте их знаком отличия.
 
 # Original: Unless…
-Вергилий: Или же…
+Человек с красными глазами: Если только…
 
-# Original: You want this to be the end of your life?
-Вергилий: Вы втроём хотите сложить головы прямо здесь?
+# Original: You want to meet your end here.
+Человек с красными глазами: …ты не хочешь встретить здесь свой конец.
 
 # Original: ……
 Пантера: ……
 
 # Original: <Who are… Are you one of them?>
-Данте: <Что… Вы с теми ребятами?>
+Данте: <Кто вы… Вы один из них?>
 
-# Original: <You’re too late, they’re already…>
-Данте: <Но все уже…>
+# Original: <You’re too late. They’re already…>
+Данте: <Вы опоздали. Они уже…>
 
-# Original: No one is too late, Dante.
-Вергилий: Ещё не поздно, Данте.
+# Original: I am not late for anything, Dante.
+Человек с красными глазами: Я никуда не опоздал, Данте.
 
-# Original: There is only one thing we need…
-Вергилий: Всё, что вам нужно, это…
+# Original: We only need...
+Человек с красными глазами: Нам нужно лишь…
 
-# Original: A little time to rewind.
-Вергилий: Отмотать немного времени.
+# Original: ... a little time to rewind.
+Человек с красными глазами: …немного отмотать время назад.
 
 # Original: <…!>
 Данте: <…!>
 
-# Original: <color=#b01c37>I’m suddenly overwhelmed by a sharp pain in my chest, as though my heart were being torn asunder.</color>
-Рассказчик: <color=#b01c37>Внезапно меня охватывает боль, словно моё сердце разрывается на куски.</color>
+# Original: <color=#b01c37>I’m suddenly overwhelmed by an excruciating stab of pain in my chest, as though my heart were being torn asunder.</color>
+Рассказчик: <color=#b01c37>Внезапно мою грудь пронзает мучительная боль, словно сердце разрывают на части.</color>
 
 # Original: <color=#b01c37>Followed by flashes in the ribs, intestines, stomach, and lungs.</color>
-Рассказчик: <color=#b01c37>Затем рёбра, все внутренности: живот и лёгкие.</color>
+Рассказчик: <color=#b01c37>Следом боль вспыхивает в рёбрах, кишечнике, желудке и лёгких.</color>
 
 # Original: <GAAAAAAGH!!!>
-Данте: <ГХА-А-А-А!!!>
+Данте: <ГА-А-А-А-А-А-А!!!>
 
-# Original: Engulfed in a deluge of torment twisting and squeezing my entire body, I let out an agonizing scream.
-Рассказчик: Каждый кусочек моего тела кричал от вспышек выворачивающей боли.
+# Original: I couldn't even tell where the pain was coming from anymore. I let out a cry of pure agony as I felt my body twisting and breaking open.
+Рассказчик: Я уже не мог понять, откуда исходит боль. Чувствуя, как моё тело выворачивает и разрывает, я закричал от невыносимой боли.
 
 # Original: <You… Grgh…>
-Данте: <А… гх…>
+Данте: <Вы… Грх…>
 
-# Original: In my fading consciousness, the only thing I could perceive…
-Рассказчик: Всё, что моё угасающее сознание смогло уловить…
+# Original: My consciousness fading, the only thing I could perceive…
+Рассказчик: Сознание угасало, и я ещё мог лишь…
 
-# Original: …Was the deceased’s flesh reconstructing in a bizarre manner.
-Рассказчик: Это то, как плоть умерших странным образом восстанавливалась.
+# Original: … was the sight of mutilated bodies around me inexplicably regenerating ...
+Рассказчик: …видеть, как изувеченные тела вокруг меня необъяснимым образом восстанавливались…
 
-# Original: You’ll suffer aplenty from now on, Dante.
-Вергилий: Отныне ты будешь много страдать, Данте.
+# Original: You're in for one hell of a painful ride from here on out, Dante.
+Человек с красными глазами: Отныне тебя ждёт чертовски мучительный путь, Данте.
 
-# Original: And the voice of the man with red eyes.
-Рассказчик: И голос человека с красными глазами.
+# Original: ... and the voice of the man with red eyes.
+Рассказчик: …и слышать голос человека с красными глазами.

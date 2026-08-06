@@ -1,65 +1,65 @@
-﻿# Original: I see… This is what that was about.
-Измаил: Понятно… Вот что вы имели в виду.
+# Original: I see… So this is what that was about.
+Измаил: Понятно… Так вот к чему всё это было.
 
-# Original: There’s no need to get impatient, Ishmael. As the bus goes onward, you’ll naturally…
-Фауст: Не стоит так спешить, Измаил. Пока автобус едет, естественно, что…
+# Original: There’s no need to get impatient, Ishmael. As the bus makes its journey, you’ll naturally…
+Фауст: Не стоит проявлять нетерпение, Измаил. По мере продвижения автобуса вы естественным образом…
 
-# Original: You’ll naturally take on more important tasks than beating the life out of random crooks.
-Вергилий: Естественно, что на ваши плечи опустится множество более важной работы, чем избиение случайных прохожих.
+# Original: You’ll naturally start taking on more important tasks than beating the life out of random crooks.
+Вергилий: Естественным образом начнёте получать задания поважнее, чем выбивать дух из случайных головорезов.
 
-# Original: I know you’re eager to achieve your goals… but do try to have patience.
-Вергилий: Понимаю, желание добиться своих целей овладевает вами… Но имейте же терпение.
+# Original: I know you’re eager to achieve your goals… but at least try to have some patience.
+Вергилий: Я знаю, вам не терпится достичь своих целей… но постарайтесь проявить хоть немного терпения.
 
-# Original: …Tch.
-Измаил: …Тц.
+# Original: ... Tch.
+Измаил: …Ц.
 
-# Original: Since this works by whisking out one of our limitless possibilities from the mirrored world, it’ll have overwritten a part of our memories.
-Фауст: Мы извлекаем одну из множества возможностей Зеркального мира, так что часть ваших воспоминаний может на время "перезаписаться".
+# Original: Since this works by whisking out one of our limitless possibilities from the mirror worlds, it’ll have overwritten a part of our memories.
+Фауст: Поскольку система выхватывает одну из наших бесчисленных возможностей из зеркальных миров, часть наших воспоминаний будет перезаписана.
 
 # Original: You’ll get used to it in no time.
-Фауст: Вы вскоре к этому привыкнете.
+Фауст: Вы быстро к этому привыкнете.
 
 # Original: Whoa, hang on… That sounds a bit dangerous, don’t it?
-Родион: Что же… Звучит немного опасно, разве нет?
+Родион: Ого, погодите-ка… Звучит немного опасно, вам не кажется?
 
 # Original: What if I’m no longer my old self by the end? Heheh.
-Родион: Что, если в конце концов я перестану быть собой? Кха-ха.
+Родион: А вдруг под конец я уже перестану быть прежней собой? Хе-хе.
 
 # Original: ……
 Вергилий: ……
 
 # Original: Don’t mistake yourselves for the Ship of Theseus.
-Фауст: Вы — не корабль Тесея.
+Фауст: Не уподобляйте себя кораблю Тесея.
 
-# Original: While it’s true that you borrow the identities and memories, the system is designed to ensure that you don’t lose control over your own existence.
-Фауст: Вы временно приобретаете новый характер и воспоминания, однако вы не должны потерять контроль над самими собой.
+# Original: While it is true that you borrow the Identities and their memories, the system is designed to ensure that you retain control over your own existence.
+Фауст: Хотя вы действительно заимствуете Идентичности и их воспоминания, система устроена так, чтобы вы сохраняли контроль над собственной личностью.
 
 # Original: Different though your reflection may be, it is bound to vanish once you walk away from the mirror.
-И Сан: Ваше отражение может быть совершенно иным, но оно исчезнет, стоит вам отойти от Зеркала.
+И Сан: Сколь бы ни отличалось ваше отражение, стоит отойти от зеркала — и оно неизбежно исчезнет.
 
-# Original: …How our capability grows ultimately depends on you, Manager Dante.
-Фауст: То, как мы будем расти, зависит от господина Данте.
+# Original: ... How our capability grows ultimately depends on you, Manager Dante.
+Фауст: …Насколько в итоге возрастут наши возможности, зависит от вас, Менеджер Данте.
 
-# Original: It is up to you to place the most effective figment of possibility on us at the right times.
-Фауст: И вы, Данте, сможете подбирать различные отражения в наиболее подходящий момент.
+# Original: It will be up to you to decide which figment of possibility fits each situation best.
+Фауст: Вам предстоит решать, какое воплощение возможности лучше всего подходит для каждой ситуации.
 
 # Original: I believe that’s what you call a metamorphosis.
-Отис: Полагаю, вы говорите о метаморфозе.
+Отис: Полагаю, это и называют метаморфозой.
 
-# Original: Yes, I suppose you could say that it’s a form of transformation.
-Фауст: Да, можно сказать, что это — форма превращения.
+# Original: Yes, I suppose one could say that it is a form of renascence and transformation.
+Фауст: Да, полагаю, это можно назвать одной из форм возрождения и преображения.
 
 # Original: Golly, where’d you learn big words like that?
-Родион: Божечки, где же вы набрались таких сложных слов?
+Родион: Ого, где ты таких умных слов нахваталась?
 
-# Original: I picked it up. My prior profession required meeting people with various occupations.
-Отис: Услышала. Я некогда работала там, где мне приходилось встречаться с большим количеством людей.
+# Original: I picked it up. My prior profession required meeting people from various walks of life.
+Отис: Усвоила. На прежней службе мне приходилось встречаться с людьми из самых разных слоёв общества.
 
-# Original: Verwandlung, huh…
-Грегор: Превращение…
+# Original: Transformation, huh…
+Грегор: Преображение, значит…
 
 # Original: Done chatting?
-Вергилий: Вы закончили говорить?
+Вергилий: Закончили болтать?
 
-# Original: Let’s make the way first. You’ll spend more time together than you’d ever ask for, so keep that convo for later.
-Вергилий: Сначала расчистим дорогу. У вас будет полно времени, даже больше, чем вы хотели бы, так что оставьте болтовню на потом.
+# Original: First, we make way for the bus. You’ll spend more time together than you’d ever ask for, so table that discussion for later.
+Вергилий: Для начала расчистим путь автобусу. Вы ещё проведёте вместе больше времени, чем вам когда-либо хотелось бы, так что отложите этот разговор на потом.
