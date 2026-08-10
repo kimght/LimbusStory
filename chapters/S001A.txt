@@ -22,12 +22,6 @@
 # Original: ……
 Измаил: ……
 
-# Original: You getting off your ass anytime soon, Lion? We don’t have time for this.
-Волчица: Львица, как долго ты ещё собираешься прохлаждаться? У нас нет времени.
-
-# Original: … You know, you’re right. No need to make this longer than it has to be.
-Львица: …Знаешь, а ты права. Незачем это затягивать.
-
 # Original: Are y’all kidding? I haven’t even started…
 Родион: Вы там шутите, что ли? Я ведь ещё даже не начала…
 
@@ -44,7 +38,7 @@
 Данте: <Что?..>
 
 # Original: And, it seems that I’m the only survivor.
-Фауст: И, судя по всему, в живых осталась одна Фауст.
+Фауст: И, судя по всему, в живых осталась только я.
 
 # Original: <O-okay. So you meant for this to happen?>
 Данте: <Л-ладно. Значит, всё так и было задумано?>
@@ -69,9 +63,6 @@
 
 # Original: <Gah… I can’t remember a thing about the past since I repeated what she said.>
 Данте: <Аргх… С тех пор как я повторил её слова, я совсем ничего не помню о прошлом.>
-
-# Original: Aah~ Sure took my sweet time. Let’s finish this for real!
-Львица: А-а-а~ Что-то мы закопались. Давайте уже прикончим его по-настоящему!
 
 # Original: <Is this… how I die?>
 Данте: <Вот так… я и умру?>
@@ -101,7 +92,7 @@
 Человек с красными глазами: А помочь им больше некому, кроме тебя.
 
 # Original: … The Red Gaze.
-Пантера: …Красный Взгляд.
+Пантера: …Красный Взор.
 
 # Original: Don’t glare at me like that. This is nothing compared to what you did.
 Человек с красными глазами: Не сверли меня взглядом. Это ничто по сравнению с тем, что сделали вы.
