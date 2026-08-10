@@ -137,7 +137,7 @@
 Грегор: …….
 
 # Original: Perhaps the two believed that this child's words had merit.
-Рассказчик: Возможно, они посчитали ли они слова дитя разумными.
+Рассказчик: Возможно, они посчитали слова дитя разумными.
 
 # Original: Her Master lowers his sabre. The Chief Butler grumbles for a moment before sheathing her knives and crossing her arms.
 Рассказчик: Их Господин опустил свою шпагу, а Главный Дворецкий что-то проворчала, прежде чем убрать нож и скрестить руки на груди.
